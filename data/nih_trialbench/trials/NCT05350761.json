@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT05350761",
+  "title": "Rare Tumors and Cancer Predisposition in Individuals and Families",
+  "brief_summary": "Background:\n\nSome people may be prone to develop cancer for many reasons. Factors that affect their risk include the genes they inherit and the environment they live and work in. Researchers want to learn more about the natural history of cancer.\n\nObjective:\n\nTo understand how genes and environmental factors can cause tumors and related conditions.\n\nEligibility:\n\nPeople of any age who:\n\nHave tumors of an unusual type, pattern, or number\n\nHave a family member with a history of cancer\n\nHave been exposed to other factors that may increase their risk of cancer\n\nDesign:\n\nThis study does not involve treatment.\n\nParticipants will answer questions about their personal and family medical history. They will give permission for researchers to see their medical records.\n\nParticipants may be invited to the NIH Clinical Center for a physical exam. They may give samples including saliva, cheek cells, blood, urine, skin, and/or hair.\n\nParticipants with cancer may give bone marrow. A needle will be used to remove a small sample of bone marrow from their hip bone.\n\nParticipants may have a biopsy of their tumor.\n\nParticipants may have other exams:\n\nDental\n\nEar, nose, and throat\n\nEye\n\nHearing\n\nHeart function and structure\n\nParticipants with cancer may undergo more exams:\n\nA test of how much energy their body uses when resting\n\nA sleep study with a test that measures brain electrical activity. They will have sensors attached to their body while they sleep overnight in a lab.\n\nImaging scans, such as CT, MRI, a test to measure how dense their bones are (DEXA), and ultrasound.\n\nParticipants will have their genes tested. A counsellor will help them understand the results.\n\nParticipants will be followed until at least 2035....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAlthough specific familial syndromes vary in prevalence by sex, race or ethnicity, no one is excluded from participation by sex, gender, race or ethnicity. Since families participate in studies, the sex distribution is essentially balanced, and all ages are included. Minor children below the age of assent are actively studied only when the benefits of participation outweigh the risks.\n\nAffected: An individual who meets any of the following criteria will be eligible to participate in this study:\n\n1. Personal medical history of neoplasia of an unusual type, pattern, or number; or,\n2. Known or suspected factor(s) predisposing to neoplasia, either genetic and/or congenital factors (birth defects, metabolic phenotype, chromosomal anomalies or Mendelian traits associated with tumors), environmental exposure (medications, occupation, radiation,\n\n   diet, infectious agents, etc.), or unusual demographic features (very young age of onset, multiple tumors, etc.).\n3. There is no age restriction; therefore including viable neonates However, children \\< 3 years old will not come to the Clinical Center unless clinically indicated until they are \\>= 3 years old.\n4. Participant or their Legally Authorized Representative (LAR) must sign and date an IRB approved informed consent form (signed on paper or electronically for the Field Cohort / signed on paper for the Clinic Center Cohort)\n\nUnaffected Controls: An individual who meets any of the following criteria will be eligible to participate in this study:\n\n1. Family medical history of neoplasia of an unusual type, pattern, or number; or,\n2. Known or suspected factor(s) predisposing to neoplasia, either genetic and/or congenital factors (birth defects, metabolic phenotype, chromosomal anomalies or Mendelian traits associated with tumors), environmental exposure (medications, occupation, radiation,\n\n   diet, infectious agents, etc.), or unusual demographic features (very young age of onset, multiple tumors, etc.).\n3. There is no age restriction; therefore including viable neonates. However, children \\< 3 years old will not come to the Clinical Center unless clinically indicated until they are \\>= 3 years old.\n4. Participant or their LAR must sign and date an IRB-approved informed consent form (signed on paper or electronically for the Field Cohort / signed on paper for the Clinic Center Cohort)\n\nPersonal and family medical history will be verified through questionnaires, interviews, and review of pathology slides and medical records. For familial neoplasms, two or more living affected cases among family members are required. The types of suspected factors predisposing to neoplasia and/or familial tumors under active accrual and study will be investigator- and hypothesis-driven. This approach permits CGB investigators to remain alert to the opportunities afforded by clusters of rare tumors in families and individuals, and to be more responsive to the dynamic research priorities in cancer genetics.\n\nEXCLUSION CRITERIA:\n\nAffected: An individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Referred individuals for whom reported diagnoses cannot be verified\n2. Inability of the participant or LAR to understand and be willing to sign a written informed consent document.\n3. Referred individuals who are eligible for other CGB protocols that are specific to a hereditary cancer syndrome (e.g., Li-Fraumeni Syndrome, Familial Melanoma) Unaffected Controls: An individual who meets any of the following criteria will be excluded\n\nfrom participation in this study:\n\n1. Referred families for whom reported diagnoses cannot be verified\n2. Inability of the participant or LAR to understand and be willing to sign a written informed consent document.\n3. Referred families who are eligible for other CGB protocols that are specific to a hereditary cancer syndrome (e.g., Li-Fraumeni Syndrome, Familial Melanoma)",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "primary clinical; volunteers come from all across the U.S.",
+  "condition": [
+    "Cancer",
+    "Hereditary Neoplasms",
+    "Genetic Predisposition to Cancer",
+    "Environment"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-treatment, observational study enrolling individuals and families with rare tumors or cancer predisposition. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "unknown",
+      "line_of_therapy_text": "The study does not involve treatment and eligibility is based on personal or family history of rare tumors or cancer predisposition, regardless of prior therapy. Patients with any or no prior systemic therapy, including those who have only received adjuvant or no therapy, are eligible."
+    }
+  ]
+}

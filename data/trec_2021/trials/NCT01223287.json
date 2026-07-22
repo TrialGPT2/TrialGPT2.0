@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01223287",
+  "title": "Physiologic Definition of Bronchopulmonary Dysplasia",
+  "brief_summary": "This observational study was conducted to design and test a physiologic definition for bronchopulmonary dysplasia at 36 weeks of life. Infants were studied in a supine position with the pulse oximeter in position with good signal prior to collecting baseline data. Feedings and medications were given 30 minutes before the evaluation. Baseline data was collected on infant's current oxygen. Then, the infants were weaned to room air for 30 minutes. If saturations remain \u226590%, the infant was considered to have passed the oxygen reduction challenge (to NOT have BPD). The infant should then be placed back in his/her baseline oxygen. If the infant has saturations \\<90% for 5 continuous minutes or \\<80% for 15 seconds, the infant should be immediately placed back in his/her baseline oxygen, and the infant was considered to have NOT passed the challenge (to have BPD).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Infant with birthweight 401-1500 grams\n* Alive at 36+1 week corrected age\n* On supplemental oxygen as follows:\n* A. Infants receiving oxygen by hood at rest:\n* A1. Oxygen by hood \\<27% with majority\\* of saturations \u2265 90% in prior 24 hours.\n* A2. Oxygen by hood 27-30% with majority\\* of saturations \u2265 96% in prior 24 hours\n* B. Infants receiving oxygen by nasal cannula at rest\u0394:\n* B1. Oxygen by nasal cannula \\<27% EFFECTIVE\\*\\* oxygen and majority\\* of saturations \u226590% in prior 24 hours.\n* B2. Oxygen by nasal cannula 27-30% EFFECTIVE\\*\\* oxygen and majority\\* saturations \u226596% on prior 24 hours.\n* C. Infants receiving room air by nasal cannula at ANY liter per minute (lpm) flow.\n\nExclusion Criteria:\n\n* Need for mechanical ventilation or continuous positive airway pressure (CPAP)\n* Oxygen by hood \\>30%\n* Oxygen by nasal cannula \\>30% effective oxygen",
+  "minimum_age": "36 Weeks",
+  "maximum_age": "37 Weeks",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Premature infants on mechanical ventilation at 36 weeks of life.",
+  "condition": [
+    "Infant, Newborn",
+    "Infant, Low Birth Weight",
+    "Infant, Small for Gestational Age",
+    "Infant, Premature",
+    "Bronchopulmonary Dysplasia (BPD)"
+  ],
+  "overall_status": "COMPLETED"
+}

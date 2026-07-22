@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00029445",
+  "title": "Leukapheresis to Obtain Plasma or Lymphocytes for Studies of HIV-infected Patients, Including Long-term Non-progressors",
+  "brief_summary": "This study will collect white blood cells and plasma for research on how the immune system controls HIV infection. The immune system of a very small group of HIV-infected patients, called non-progressors, has been able to control HIV for long periods without antiretroviral therapy. Some immune system-related genes important for this control have been identified in these patients. This study will examine the contribution of HLA genes B\\*57+, B\\*27+ and A\\*01+ to HIV disease in progressors and long-term non-progressors. (HLA type is a genetic marker of the immune system.)\n\nHIV-infected patients 18 years of age and older with HLA types B\\*57+, B\\*27+ and/or A\\*01+ may be eligible for this study.\n\nParticipants will undergo apheresis-a method for collecting larger quantities of certain blood components than can safely be collected through a simple blood draw-by one of the following two methods:\n\n* Automated pheresis - Blood is drawn through a needle placed in an arm vein and spun in a machine, separating the blood components. The white cells are extracted and the red cells, with or without plasma (liquid part of the blood), are re-infused into the donor through the same needle or a needle in the other arm. An anticoagulant (medication to prevent blood from clotting) is usually added to the blood while in the machine to prevent it from clotting during processing.\n* Manual pheresis - One unit (1 pint) of blood is drawn through a needle placed in an arm vein, similar to donating a pint of whole blood. The red blood cells, with or without plasma, are separated from the rest of the blood and re-infused to the donor through the same needle. Manual pheresis will be done only when a person s estimated total blood volume or red cell count is too low to safely permit removal of blood through a pheresis machine. An adult small in size or markedly anemic, for example, may fall into this category.\n\nSome of the blood collected through apheresis may be stored for future studies of HIV disease and immune function and for HLA testing, a genetic test of markers of the immune system. Some of the blood may be used to screen for different types of viral liver infections, such as hepatitis A, B, C, D, E, F, or G.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Adult (18 years-old or older)\n  2. Eligibility to undergo apheresis procedures; or, for participants who are unable to undergo apheresis, willingness to undergo blood draw for research purposes that remain within safety guidelines established by NIH policy.\n  3. Willingness to give informed consent for the storage of blood or tissue samples and HLA testing\n\nAND at least one of the following:\n\n* An HIV-seropositive participant categorized as an LTNP as defined by clinical and laboratory criteria, regardless of HLA class I type.\n* HIV-seropositive progressors\n* Persons who are seronegative for HIV but are family members of seropositive participants exhibiting immunologic control of HIV\n\nEXCLUSION CRITERIA:\n\n1. Pregnant\n2. Cardiovascular instability, severe anemia, inadequate venous access, severe coagulation disorder, or any other condition that the Principal Investigator or Apheresis Unit staff considers a contraindication to the apheresis procedure or research blood draw.\n3. Any condition that, in the opinion of the investigator, contraindicates participation in this study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals identified as having innate control over the HIV virus",
+  "condition": [
+    "HIV"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study enrolling HIV-infected and uninfected individuals for blood and plasma collection. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention any requirements or restrictions regarding prior systemic therapy for advanced disease. Both treatment-naïve and previously treated patients may be included, but line-of-therapy status is not addressed."
+    }
+  ]
+}

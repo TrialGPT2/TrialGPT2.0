@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT01568697",
+  "title": "Oral Bacteria and Immune System Problems Involved in Gum Disease (Periodontitis)",
+  "brief_summary": "Background:\n\n\\- Gum disease is a condition in which the tissue around the tooth root becomes swollen and infected. This condition can cause tooth loss if it is not treated. Who gets gum disease and how bad it will be depends on (1) the different bacteria in the mouth and (2) how the immune system of an individual handles these bacteria. Researchers want to look at the oral bacteria and genetic immune problems of different people to learn how these affect gum disease and other conditions of the mouth.\n\nObjectives:\n\n\\- To study how immune system problems may lead to problems in the mouth, including gum disease.\n\nEligibility:\n\n* Children and adults at least 7 years of age who have genetic problems with their immune system.\n* Healthy adults that have periodontal disease\n* Health adults that do not have periodontal disease\n\nDesign:\n\n* This study will involve a screening visit and a study visit.\n* Participants will be screened with a medical history, blood work and a full oral and dental exam, including dental x-rays and photos.\n* The study visit will involve collection of blood, urine, and other samples, including saliva, plaque, and gum swabs. Any abnormal tissue will sampled for a biopsy. Additional oral and dental exams will be performed. Participants will also answer questions about any current medical or dental problems.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nSubjects with Genetic Immune Defects:\n\nPatients with a known genetic immune defect will be eligible for screening inclusion under this protocol.\n\n* Diagnosed with a genetic immune defect\n* Willing to allow genetic testing\n\n  * 7 years old\n\nSubjects with Severe Periodontitis of Suspected Genetic Etiology:\n\n* History of severe periodontitis prior to age \\<30\n* Willing to allow genetic testing\n\n  -\\>=7 years old\n* In good general health\n\nFamily members of Subjects with Severe Periodontitis of Suspected Genetic Etiology:\n\n-Willing to allow genetic testing\n\n-\\>=7 years old\n\nHealthy Volunteer Subjects (with/without periodontitis):\n\n* In good general health\n\n  -\\>=18 years old\n* Willing to allow genetic testing\n* Have a minimum of 20 natural teeth\n\nInclusion Criteria for Natural History phase, all subjects:\n\n* Diagnosis of genetic immune defect\n* Presence of oral manifestation (primarily periodontitis)\n\nCriteria for standard of care treatment:\n\n* Active untreated disease (visible signs of tissue inflammation including erythema/edema, generalized bleeding upon probing)\n* Periodontal disease defined as bone loss of \\>=5mm as measured on periodontal exam.\n\nEXCLUSION CRITERIA:\n\nAll Subjects:\n\n* History of Hepatitis B or C\n* History of HIV\n* Prior radiation therapy to the head or neck\n* Have an active malignancy except localized basal or squamous cell carcinoma of the skin\n* Have been treated with systemic chemotherapeutics or radiation therapy within 5 years of screening\n* Pregnant or lactating\n* If participation in the protocol would not be safe or in the subject s best interest in the opinion of either the PI or the primary medical team.\n\nAdditional Exclusions for Healthy Volunteers:\n\n* Diagnosis of diabetes and/or HbA1C level \\>6%\n* More than 3 hospitalizations in the last 3years\n* Have an autoimmune disorder such as Lupus, Rheumatoid arthritis, etc.\n* In the 3 months before study enrollment, have used any of the following:\n\n  * Systemic (intravenous, intramuscular, or oral) antibiotics\n  * Oral, intravenous, intramuscular, intranasal, or inhaled corticosteroids or other immunosuppressants (e.g., cyclosporine)\n  * Cytokine therapy\n  * Methotrexate or immunosuppressive chemotherapeutic agents\n  * Large doses of commercial probiotics (\\>=10\\^8 colony-forming units or organisms per day); includes tablets, capsules, lozenges, chewing gum, or powders in which a probiotic is a primary component; ordinary dietary components such as fermented beverages/milks, yogurts, and foods do not apply\n* Have used tobacco products (including e-cigarettes) within 1 year of screening\n* Unwillingness to consent to oral biopsy\n* NIH employees working in the Oral Immunity and Inflammation Unit and members of the Clinical Research Core Team will not be eligible for enrollment.\n\nAdditional Exclusions for Standard of Care Treatment at NIH:\n\n* Mild/moderate non-active disease (absence of active inflammatory lesions)\n* Subjects with urgent/complex restorative needs (ex. severe active carious lesions/fractured dentition)\n* Subjects in need for advanced prosthetic needs (including implants and restorations)",
+  "minimum_age": "7 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "This is a cross sectional/natural history protocol designed to investigate the clinical, microbiologic, and immunologic consequences of genetic immune defects in the oral cavity. Three cohorts will be enrolled 1) subjects with genetic immune defects 2) subjects with severe periodontitis of suspected genetic etiology and their family members 3) healthy volunteers (with/without periodontal disease). The study involves detailed oral clinical and radiographic evaluations, standard laboratory testing and research sampling of blood and oral samples. All evaluations are performed at the NIH Clinical Center.",
+  "condition": [
+    "Immunosuppression",
+    "Periodontal Disease",
+    "Healthy Subjects",
+    "Healthy Volunteer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of oral bacteria and immune system problems in patients with genetic immune defects, severe periodontitis, their family members, and healthy volunteers. There are no requirements or restrictions regarding prior systemic therapy for advanced disease, as this is not an interventional oncology trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference any prior systemic therapy for advanced or metastatic disease, nor do they mention adjuvant or neoadjuvant therapy. This is a non-oncology, non-interventional study, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

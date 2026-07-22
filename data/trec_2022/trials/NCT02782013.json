@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02782013",
+  "title": "Study of Progression of Community Acquired Pneumonia in the Hospital",
+  "brief_summary": "Pneumonia is a common infectious disease of the lung, often requiring treatment in the hospital. Clinical scoring systems are available, identifying patients not requiring hospitalization. However, the course of disease of patients in the hospital remains hard to predict. While most patients will recover quickly, some will, despite appropriate treatment, develop a severe course leading to sepsis and systemic responses resulting in organ dysfunction. The PROGRESS study aims to identify clinical, genetic, and other molecular markers and combinations thereof predicting a severe course of pneumonia in the hospital. Such predictors will, for instance, support decisions on earlier transfer of patients to intensive care and thus improving outcome.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Hospitalization with community acquired pneumonia (CAP) confirmed by pulmonary infiltrate in chest radiograph\n2. Working diagnosis of CAP by enrolling physician\n3. Adult patient \\>= 18 years of age\n4. Valid informed consent form\n5. At least 2 out of the five following clinical symptoms:\n\n   * Fever\n   * Cough\n   * Purulent sputum\n   * Shortness of breath or need for respiratory support\n   * Crackling or rales on auscultation, dullness to percussion, or bronchial breathing\n\nExclusion Criteria:\n\n1. Participation in this study at an earlier time\n2. Hospitalization for any reason within 28 days prior to hospitalization for the current episode of CAP\n3. More than 48 hours in the hospital before enrollment\n4. Pregnancy\n5. Breastfeeding\n6. Decision on limitation of therapy before enrollment\n7. Known HIV infection or AIDS\n8. Anti-tumor treatment within the past six months\n9. Post-stenotic pneumonia in conjunction with bronchial carcinoma\n10. Therapy with corticosteroids \u2265 20mg for \u2265 14 days before enrollment\n11. Non-steroidal immunosuppressive therapy within the past six months\n12. Cytostatic therapy within the past six months\n13. Radiation therapy within the past six months\n14. Bone marrow transplant received\n15. Respiratory support at home via tracheostoma\n16. Cystic fibrosis\n17. Active tuberculosis\n18. Acute lung injury or acute respiratory distress syndrome for extrapulmonary reasons\n19. Massive aspiration\n20. Sepsis with extrapulmonary focus\n21. Acute pulmonary embolism\n22. Congestive heart failure New York Heart Association (NYHA) IV stadium\n23. Liver insufficiency Child-Pugh C stadium",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult patients hospitalized for treatment of community acquired pneumonia. Patients can be enrolled in general care, intensive care, and in emergency departments.",
+  "condition": [
+    "Pneumonia",
+    "Sepsis",
+    "Shock, Septic"
+  ],
+  "overall_status": "COMPLETED"
+}

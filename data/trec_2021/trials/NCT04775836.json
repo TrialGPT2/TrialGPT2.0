@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT04775836",
+  "title": "An EHR-based Platform To Facilitate Outcomes and Research Methods in Cerebrovascular Diseases",
+  "brief_summary": "In this protocol, the investigators present methods and preliminary results from the PLATFORM-CVD Study, an EHR-based multicenter cohort. This study will focus on assessing the distribution of major cerebrovascular diseases, determining the risk factors associated with disease incidence and worse in-hospital outcomes, as well as describing the quality of care. Data from this cohort will be used to develop suitable prediction models for cerebrovascular diseases using real-world data and to understand how outcomes for cerebrovascular diseases would change with quality improvement interventions.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients were included in the registry if they were hospitalized with a primary diagnose of\uff1a\n* cerebral infarction (I63)\n* nontraumatic intracerebral hemorrhage (I61)\n* nontraumatic subarachnoid hemorrhage (I60)\n* transient cerebral ischemic attack and related syndromes (G45)\n* intracranial and intraspinal phlebitis and thrombophlebitis (G08)\n* vascular dementia (F01)\n* other aneurysms (I72)\n\nExclusion Criteria:\n\n* Patients diagnosed with other diseases.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Twenty-five hospitals were enrolled in the PLATFORM-CVD Study between January 1st, 2017 and May 20th, 2020. Hospitals were included if they: 1) had neurological wards; 2) were secondary or tertiary hospitals; 3) could admit at least 20 cerebrovascular disease patients every month.",
+  "condition": [
+    "Stroke",
+    "Cerebrovascular Diseases",
+    "Cerebral Infarction",
+    "Cerebral Hemorrhage",
+    "Transient Ischemic Attack",
+    "Subarachnoid Hemorrhage"
+  ],
+  "overall_status": "UNKNOWN"
+}

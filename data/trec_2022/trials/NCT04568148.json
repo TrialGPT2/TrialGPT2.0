@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04568148",
+  "title": "COVID-19 Biorepository",
+  "brief_summary": "Establish a COVID-19 biorepository to aid in developing our knowledge of the disease.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* The participant is a patient at TUKHS or has agreed to participate in a study approved by the KUMC Human Research Protection Program (HRPP).\n* The participant has a diagnosis of COVID-19 confirmed by COVID-19 PCR.\n* Patient is 18 years of age or older.\n\nExclusion Criteria:\n\n* Participant declines to participate (living patients only)\n* Participant or healthcare surrogate is unable to provide informed consent (living patients only)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "COVID-19-positive patients",
+  "condition": [
+    "Covid-19",
+    "SARS-CoV 2",
+    "Coronavirus",
+    "COVID"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

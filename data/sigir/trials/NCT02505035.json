@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02505035",
+  "title": "Randomized Evaluation of Default Access to Palliative Services",
+  "brief_summary": "This is a large pragmatic, randomized controlled trial to test the real-world effectiveness of inpatient palliative care consultative services in improving a number of patient- and family-centered processes and outcomes of care among seriously ill hospitalized patients. The investigators hypothesize that improved patient-centered outcomes can be achieved without higher costs by simply changing the default option for inpatient palliative care consultation for eligible patients from an opt-in to an opt-out system. To test this hypothesis the investigators will conduct a clinical trial at 11 hospitals using the same electronic health record within Ascension Health, the largest non-profit health system in the U.S.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age 65 years or older\n2. Current hospitalization of at least 3 calendar days (modified ITT)\n3. Diagnosis of one or more of the following:\n\n   * End-stage renal disease (ESRD) on dialysis\n   * Chronic obstructive pulmonary disease (COPD) with home oxygen dependence or 2 or more hospitalizations in the past 12 months\n   * Dementia admitted from a long-term care facility or prior placement of a surgical feeding tube or 2 or more additional hospitalizations in the past 12 months\n\nExclusion criteria:\n\n1\\. Patients younger than 65 years old will not receive the intervention",
+  "minimum_age": "65 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COPD",
+    "ESRD",
+    "Dementia"
+  ],
+  "overall_status": "COMPLETED"
+}

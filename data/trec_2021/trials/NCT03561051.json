@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03561051",
+  "title": "The Pre-hospital Evaluation of Sensitive Troponin (PRESTO) Study",
+  "brief_summary": "The aim of the study is to assess whether a decision aid that is currently used in hospitals across Greater Manchester to determine how likely it is that a patient has a serious heart problem is still accurate in the pre-hospital environment.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patients (\\>18 years)\n* Called 999 for an emergency ambulance because they have experienced pain, discomfort or pressure in the chest, epigastrium, neck, jaw or upper limb without an apparent non-cardiac source\n* Treating paramedic suspects these symptoms may be caused by acute coronary syndromes.\n\nExclusion Criteria:\n\n* Patients with unequivocal evidence of ST elevation myocardial infarction who are being immediately transferred for primary percutaneous coronary intervention\n* Patients in whom an alternative diagnosis (other than acute coronary syndromes) is suspected, which would necessitate transfer to hospital\n* Patients who have not experienced symptoms in the previous 24 hours\n* Patients who lack the capacity to provide written informed consent, either because they lack the mental capacity to provide written informed consent or because effective communication is not possible (e.g. non-English speakers in the absence of adequate translation services)",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study will recruit patients who have called 999 with a complaint of pain, discomfort or pressure in the chest, who are then attended by an ambulance.",
+  "condition": [
+    "Chest Pain",
+    "Acute Coronary Syndrome",
+    "Heart Attack"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

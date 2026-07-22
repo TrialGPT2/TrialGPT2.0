@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03708978",
+  "title": "Development of Artificial Intelligence System for Detection and Diagnosis of Breast Lesion Using Mammography",
+  "brief_summary": "This project aims to establish a comprehensive artificial intelligence system for detecting and qualitative diagnosing breast lesions. Mammary images will be used to construct a diagnosis method based on deep learning. The system is proposed to automatically analyze the type of mammary glands, automatically identify and mark all breast lesions on the mammography images, provide the malignancy probability judgment of the lesions, the BI-RADS classification and the clinical suggestion, and also automatically generate the structured diagnosis report.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* the X-ray images of the breast were complete\n* the results of pathological diagnosis or more than 2 years of mammography follow-up were available\n* subject signs informed consent(this item was only for prospective study cases)\n\nExclusion Criteria:\n\n* there exists pathological diagnosis of breast lesions when receiving mammography\n* there lacks pathological diagnosis or 2 years of mammography follow-up\n* subject withdraws(this item was only for prospective study cases)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Women with suspected Breast Lesion",
+  "condition": [
+    "Women With Breast Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

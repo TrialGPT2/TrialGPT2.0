@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT06552741",
+  "title": "Screening, Evaluation and Assessment (SEA) Protocol at the NIDA IRP",
+  "brief_summary": "Background:\n\nPeople who will participate in research studies need to undergo proper screening, evaluation, and assessment (SEA). SEA helps keep those who participate in studies safe. It also helps ensure accurate study results. The National Institute on Drug Abuse (NIDA) Intramural Research Program (IRP) wants to screen people with alcohol and/or substance use disorders (ASUD) as well as people without ASUD for ongoing studies at NIDA in Baltimore, MD\n\nObjective:\n\nTo screen people with or without ASUD for ongoing studies at NIDA. The ultimate goals are to learn why some people (1) use drugs; (2) stop using drugs; (3) use drugs but do not get addicted; and (4) never use drugs snd to develop ASUD treatments.\n\nEligibility:\n\nPeople aged 18 years and older. They may (1) currently use nicotine, alcohol, opioids, cocaine, or other drugs; (2) no longer use them; or (3) have never used them.\n\nDesign:\n\nParticipants will have 1 screening visit that could last up to 8 hours. The visit may be split over more than 1 day. The duration of the screening may vary for each individual based on which studies they are interested in and screened for. The tests they undergo may vary and may include the following:\n\n* Physical exam.\n* Blood, saliva, and urine tests.\n* Breath samples that test for alcohol and carbon monoxide.\n* Test of heart function.\n* Smell test that measures sense of smell.\n* Tests of memory, attention, and thinking.\n* Mental health evaluation.\n* Mock magnetic resonance imaging (MRI) scan.\n* Questionnaires about alcohol and other drug use, mental health, medical history, and life in general.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nThis protocol is seeking individuals with current or past SUDs and/or AUD, as well as those who have never had an SUD or AUD. These individuals also may or may not be in treatment for their AUD/SUDs.\n\nTo be eligible to participate in this study, an individual must meet the following criteria:\n\n* Age 18-99 years old.\n* Proficient ability to read, write, and understand English.\n* Stated willingness to comply with all screening procedures and availability for the duration of the screening period\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\nIndividuals who lack capacity to consent to research participation to this protocol as determined by the Evaluation to Sign Consent (ESC).",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "10,000 people with and without substance use disorders (SUDs), aged 18-99",
+  "condition": [
+    "Substance Use Disorder",
+    "Alcohol Use Disorder"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a screening protocol for individuals with or without substance use disorders or alcohol use disorder, regardless of treatment history. There is no cancer or systemic therapy context, so line-of-therapy intent for advanced disease is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This protocol screens individuals with or without substance or alcohol use disorders, with no mention of cancer, advanced disease, or systemic therapy. Line-of-therapy intent is not applicable in this context."
+    }
+  ]
+}

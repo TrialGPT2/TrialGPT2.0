@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT00807820",
+  "title": "Phase I Targeting Dominant Intraprostatic Lesion Using MR Spectroscopy and HDR Brachytherapy",
+  "brief_summary": "This is a phase I study to evaluate the feasibility and safety of using MRI/MRS to identify the dominant intraprostatic lesion (DIL) and to selectively boost the lesion using inverse planned high dose rate (HDR) brachytherapy.\n\nThe main objective is to exploit the ability of MRI/MRS to identify cancer regions within the prostate or the dominant intraprostatic lesions (DIL). The imaging data will be combined with the treatment planning CT images to define a treatment plan that will boost the dose delivered to the DIL up to 150% of the prescribed dose. Dose to the whole prostate and the dose delivered to adjacent organs will not change. This is accomplished by using inverse treatment planning software that can focus normally occurring high dose regions within the target volume to coincide with the DIL.\n\nAfter enrollment, each patient will have a MRI/MRS before starting treatment. Hormonal therapy and external beam radiotherapy will be given based on current standard of practice. During HDR brachytherapy, information about the location of tumor within the prostate will be used to design the brachytherapy treatment plan. We will try to increase dose to DIL by coincide existing high dose region on DIL using inverse planning software. Dose to prostate, and adjacent structure will remain the same as the current treatment practice. Timing and the delivery of brachytherapy will not change from our current practice. After the treatment, each patient will remain on study and follow for 12 months and treatment toxicity will be evaluated. A two-stage study design will be applied with a stopping rule for safety. Once a patient comes off study he will be routinely followed for disease outcome and any late toxicities.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient must be a candidate for HDR prostate brachytherapy\n* Patient must be able to have MR scan\n* Patient must have a visible DIL on MRS\n* Patient has signed the protocol consent form\n* No prior pelvic or prostate radiation or chemotherapy for any reason\n* Induction hormonal therapy beginning \u2264 120 days prior to study entry is acceptable only if there is a MRI/MRS done prior to starting hormonal therapy\n* Prostate specific antigen prior to any (hormonal) therapy must be \u2264 20 ng/ml\n\nOne of the following combinations of factors:\n\n* Clinical stage T2a-2b, Gleason score 2-6 and PSA \u2265 10 but \u2264 20\n* Clinical stage T3a-T3b, Gleason score 2-6 and PSA \u2264 20\n* Clinical stage T2a-T3b, Gleason score 7-10 and PSA \u2264 20\n\nExclusion Criteria:\n\n* Patient with hip prosthesis\n* Patient with pacemaker\n* Patient with history of radical surgery for prostate\n* Patient with claustrophobia\n* Patient with metal in body not safe for MR\n* Stage T4 disease\n* Lymph node involvement (N1)\n* Evidence of distant metastases (M1)\n* Previous hormonal therapy beginning \\> 120 days prior to registration\n* Hormonal therapy prior to MRI/MRS",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "All patient who are candidate for prostate HDR brachytherapy will be offered this protocol",
+  "condition": [
+    "Prostate Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

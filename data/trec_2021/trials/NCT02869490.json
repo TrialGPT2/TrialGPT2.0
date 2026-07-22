@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02869490",
+  "title": "Institut Paoli Calmettes Cervical Cancer Database",
+  "brief_summary": "Database of Institut Paoli-Calmettes patients diagnosed with cervical cancer",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient with a diagnosis of cervical cancer\n\nExclusion Criteria:\n\n* Non applicable",
+  "minimum_age": "18 Years",
+  "maximum_age": "95 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Patients with a diagnosis of cervical Cancer",
+  "condition": [
+    "Uterine Cervical Neoplasms"
+  ],
+  "overall_status": "RECRUITING"
+}

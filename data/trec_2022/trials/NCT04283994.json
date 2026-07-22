@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT04283994",
+  "title": "Project to Improve Communication About Serious Illness--Hospital Study: Comparative Effectiveness Trial (Trial 2)",
+  "brief_summary": "The objective of this protocol is to test the effectiveness of a Jumpstart intervention on patient-centered outcomes for patients with chronic illness by ensuring that they receive care that is concordant with their goals over time, and across settings and providers. This study is particularly interested in understanding the effect of the intervention to improve quality of palliative care for patients with Alzheimer's disease and related dementias (ADRD) but will also include other common chronic, life-limiting illnesses.\n\nThe specific aims are:\n\n1. To evaluate the efficacy of the EHR-based clinician-facing Jumpstart, drawn from the electronic medical record (EHR), the survey-based bi-directional Jumpstart, drawn from patient or family completed surveys, and usual care for improving quality of care provided to patients with chronic illness experiencing a hospitalization. The primary outcome is EHR documentation of a goals-of-care discussion, assessed from randomization through 30 days. Secondary outcomes include: a) intensity of care outcomes (e.g., ICU use, ICU and hospital free days, hospital readmissions, costs of hospital care); and b) patient- and family-reported outcomes assessed by surveys at 3-5 days and 4-6 weeks after randomization, including occurrence and quality of goals-of-care discussions in the hospital, goal-concordant care, psychological symptoms, and quality of life.\n2. To conduct a mixed-methods evaluation of the implementation of the interventions, guided by the RE-AIM and CFIR frameworks for implementation science, incorporating quantitative evaluation of the interventions' reach and adoption, as well as qualitative analyses of interviews with participants, to explore barriers and facilitators to future implementation and dissemination.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Eligibility criteria apply to three subject groups: 1) seriously ill adult patients; 2) adult surrogate legal next of kin of the patients; and 3) hospital clinicians.\n\nInclusion Criteria:\n\nPATIENTS. Eligible patients will be those who are: 1) equal to or older than 80 years of age; or 2) equal to or older than 55 years of age with one or more chronic conditions used by the Dartmouth Atlas to study end-of-life care: malignant cancer/leukemia, chronic pulmonary disease, coronary artery disease, heart failure, chronic liver disease, chronic renal disease, dementia, diabetes with end-organ damage, and peripheral vascular disease, 3) English-speaking, 4) admitted for minimum of 12 hours/maximum of 96 hours to participating in-patient services at the participating hospitals, and 5) without documentation in the EHR of a goals-of-care discussion during this admission. Patients without decisional capacity (as documented in the EHR or as identified with a brief six-item screening tool) will be represented by a legal surrogate decision maker/legal next of kin (LNOK) in accordance with Washington State Law RCW 7.70.065.\n\nSURROGATE/FAMILY. Eligible surrogate/family subjects will be those who are 18 years of age or older, English-speaking, involved in the patient's medical care or decision-making.\n\nCLINICIANS (Interview). Eligible clinicians will be those who are 18 years of age or older, English-speaking, employed at a participating hospital, and have been the clinician of record for an enrolled patient in the trial.\n\nExclusion Criteria:\n\nReasons for exclusion for any patient in include: restricted status (prisoners or victims of violence); legal or risk management concerns (as determined by the attending physician or via hospital record designation); unable to complete informed consent procedures; and without a legal surrogate to participate for them. Patients who are non-English speaking (and therefore unable to complete survey materials) are excluded. Reasons for exclusion for any surrogate/family subject include: non-English speaking (and therefore unable to complete study materials), legal or risk management concerns (as determined by the attending physician or via hospital record designation); psychological illness or morbidity; and physical or mental limitations preventing ability to complete questionnaires. Patients under COVID precautions will be excluded.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Dementia",
+    "Chronic Disease",
+    "Neoplasm Metastasis",
+    "Lung Neoplasms",
+    "Pulmonary Disease, Chronic Obstructive",
+    "Heart Failure, Congestive",
+    "Liver Cirrhosis",
+    "Kidney Failure, Chronic",
+    "Lung Diseases, Interstitial",
+    "Peripheral Vascular Disease",
+    "Diabetes With End Organ Injury"
+  ],
+  "overall_status": "COMPLETED"
+}

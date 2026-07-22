@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01724463",
+  "title": "Electronic Application of a Severe Sepsis Screening Tool and Management Bundle",
+  "brief_summary": "Thousands of children die from Sepsis following routine infections. Many of these deaths can be prevented with earlier recognition and focused management. No tools are currently available to recognize the signs of early sepsis in children. The investigators have developed a electronic health record-based tool that will recognize children with sepsis early and trigger an alert to their hospital caregivers. The caregivers will be prompted to launch a focused management bundle that can stabilize these children, prevent further deterioration and reduce their chances of sepsis related complications and death. The proposed study will test the validity and effectiveness of this electronic tool in reducing sepsis mortality rates.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age 1 month - 18 years\n2. Clinical Suspicion of Infection\n3. Patients in the Hospital or Emergency Department\n\nExclusion Criteria:\n\n1. Status Asthmaticus patients on active bronchodilator therapy\n2. Patients receiving Anesthesia\n3. Day Surgery Patients\n4. Outpatient Clinic Patients\n5. Congenital Heart Disease Patients\n6. Myocarditis Neonates Patients older than 18 years",
+  "minimum_age": "1 Month",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients between the ages 1 month and 18 years admitted to the hospital or presenting to the Emergency Department (ED) with clinical signs of Systemic Inflammatory Response Syndrome (SIRS).",
+  "condition": [
+    "Systemic Inflammatory Response Syndrome (SIRS)",
+    "Sepsis",
+    "Severe Sepsis",
+    "Septic Shock"
+  ],
+  "overall_status": "UNKNOWN"
+}

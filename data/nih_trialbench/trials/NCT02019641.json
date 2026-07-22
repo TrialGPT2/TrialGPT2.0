@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT02019641",
+  "title": "The NIH Exercise Therapy for Advanced Lung Disease Trials: Response and Adaptation to Aerobic Exercise in Patients With Interstitial Lung Disease",
+  "brief_summary": "Interstitial lung disease (ILD) is the result of over 200 etiological pathways arising from several different insults to the lung parenchyma: inhaled substances, drug side effects, connective tissue disease, infection, and malignancy. The disease can also be of idiopathic origin. If prolonged, the resulting inflammation causes permanent and progressive fibrotic reorganization of the parenchyma and small airways, which reduces the distensibility of the lung and impedes O2 and carbon dioxide (CO2) exchange.\n\nThis study is a randomized controlled trial to determine the safety and efficacy of aerobic exercise for patients who have interstitial lung disease (ILD) uncomplicated by pulmonary hypertension. In an uncontrolled study, we observed more efficient cardiorespiratory function, increased physical work capacity, and improved health-related quality of life following aerobic exercise in this study population. Serious adverse events resulting from aerobic exercise training were not observed and our work to date has established plausibility for the efficacy of aerobic exercise training and its safety for patients with ILD.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nA diagnosis of interstitial lung disease, including idiopathic pulmonary fibrosis (IPF), non-specific interstitial pneumonitis (NSIP), sarcoidosis, or other form of chronic lung fibrosis based on clinical context via clinic note from a pulmonologist.\n\nIndividuals with ILD referred for pulmonary rehabilitation who are 21-80 years of age and live in the Washington metropolitan area.\n\nNo episodes of fainting or significant chest pain for at least one month.\n\nNo prior pulmonary rehabilitation received within the last 6 months and not currently in a maintenance program.\n\nPhysically inactive (no participation in a structured exercise program as defined as more than 30 minutes of exercise 3 or more days a week within the last 6 months).\n\nEXCLUSION CRITERIA:\n\nOther medical conditions that would impair aerobic capacity or the ability to engage in physical activity, including other pulmonary, cardiovascular, neurological, musculoskeletal or metabolic conditions\n\nOther medical conditions that may pose a risk to exercise testing or training as determined by the investigators (for example, peripheral vascular disease)\n\nDiagnosis of pulmonary hypertension\n\nInability to maintain a resting oxygen saturation greater than or equal to 90% SpO2, measured by pulse oximetry on supplemental oxygen\n\nInability to complete a treadmill cardiopulmonary exercise test.\n\nSignificant hepatic or renal dysfunction.\n\nMetastatic cancer with a life expectancy of less than one year.\n\nActive substance abuse.\n\nSevere psychiatric disease\n\nAntiretroviral therapy\n\nPregnancy\n\nOngoing tobacco use\n\nAcceptance onto a lung transplant waiting list\n\nActive participation in ILD drug trials\n\nInability to read English",
+  "minimum_age": "21 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Interstitial Lung Disease",
+    "Idiopathic Pulmonary Fibrosis",
+    "Interstitial Pneumonitis",
+    "Desquamative Interstitial Pneumonia"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a randomized controlled trial of aerobic exercise in patients with interstitial lung disease (ILD), with no mention of prior systemic therapy for advanced disease as an eligibility criterion. The trial does not specify any requirements or restrictions regarding prior lines of systemic therapy for advanced/metastatic disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility criteria do not reference prior systemic therapy for advanced disease; there are no requirements or exclusions based on prior lines of therapy. The focus is on exercise status and pulmonary rehabilitation, not systemic treatment history."
+    }
+  ]
+}

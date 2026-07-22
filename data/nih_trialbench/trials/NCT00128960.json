@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00128960",
+  "title": "Quality of Life in Patients Who Have Undergone Stem Cell Transplant",
+  "brief_summary": "This study will evaluate the long-term functional status, psychosocial adjustment and quality of life of patients with different types of diseases and conditions who have had an allogeneic (donor) stem cell transplant. Information from this study may help patients and families know better what they may expect long-term after transplant and will help health care workers improve services to aid in patients' recovery.\n\nPeople 18 years of age or older who have had an allogeneic stem cell transplant three or more years before the start of this study may be eligible to participate.\n\nParticipants complete a series of questionnaires once a year for three years. The questionnaires take about 40 minutes to complete and include information on patient demographics, patients' physical, social, and emotional functioning, spiritual well being, pain, mental health, general health, fatigue, and other areas of health-related quality of life. The questionnaires are completed at home or during normally scheduled follow-up visits to the NIH.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPatients surviving three years or more from the date of first allogeneic HSCT provided at the Clinical Center, NIH.\n\nAge greater than or equal to 18 years old.\n\nAbility to comprehend the investigational nature of the study and provide informed consent.\n\nAble to read and speak English or Spanish.\n\nLife expectancy of at least 6 months.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "NIH Clinical Center patients who have undergone allogeneic stem cell transplant.",
+  "condition": [
+    "Long Term Psychological Affects on HSCT"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a quality of life study enrolling patients who have survived at least three years after allogeneic stem cell transplant for any disease. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based solely on having undergone allogeneic stem cell transplant at least three years prior, regardless of disease type or prior systemic therapy history. There are no specifications regarding lines of therapy for advanced disease, so line-of-therapy intent cannot be determined."
+    }
+  ]
+}

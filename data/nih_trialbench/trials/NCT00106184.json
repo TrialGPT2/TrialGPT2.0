@@ -1,0 +1,38 @@
+{
+  "nctid": "NCT00106184",
+  "title": "Rituximab for the Treatment of Refractory Adult and Juvenile Dermatomyositis (DM) and Adult Polymyositis (PM)",
+  "brief_summary": "Rituximab is a man-made antibody used to treat certain types of cancer. This study will determine whether rituximab is an effective treatment for adult and pediatric patients with dermatomyositis or polymyositis.\n\nStudy hypotheses: 1) The time to improvement in Group A patients (receiving rituximab first) will occur significantly earlier than in Group B patients (receiving rituximab later). 2) The proportion of patients improved at Week 8 of the treatment phase will be significantly greater in Group A than in Group B.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adults with definite or probable dermatomyositis or polymyositis and pediatric patients five years of age and over with definite or probable juvenile dermatomyositis (JDM) by Bohan and Peter criteria. Diagnosis of JDM based on an age of onset (i.e., first symptom of myositis or dermatomyositis rash) is less 18 years of age\n* Refractory myositis, defined by intolerance to or inadequate response to corticosteroids plus an adequate regime of at least one other immunosuppressive agent. Intolerance is defined as side effects that require discontinuation of the medication or an underlying condition that precludes further use of the medication.\n* Baseline manual muscle testing which is based on a maximum MMT-8 (Manual Muscle Test) score of 150:Adult subjects with dermatomyositis (DM) or polymyositis (PM) must have a score that is no greater than 125/150 in conjunction with 2 other abnormal core set measures.\n\nSubjects with a diagnosis of Juvenile Dermatomyositis (JDM) must meet either of the following criteria:\n\n1. An MMT-8 (Manual Muscle Test) score that is no greater than 125/150 in conjunction with 2 other abnormal core set measures.\n\n   OR\n2. If MMT (Manual Muscle Test) score is greater than 125/150 the patient MUST meet at least 3 abnormal core set measures.\n\n   * Background therapy with at least 1 non-corticosteroid immunosuppressive agent at a stable dose for at least 6 weeks prior to screening\n   * Able and willing to complete self-report questionnaires. Parents of pediatric participants will be required to complete the questionnaires on behalf of their children.\n   * Willing to use acceptable forms of contraception for the duration of the study for patients of reproductive potential.\n   * Parent willing to provide informed consent, if applicable\n   * Willing to forgo immunization with a live vaccine for the duration of the study\n\nExclusion Criteria:\n\n* Drug-induced myositis. Patients who have myositis or myopathic syndromes caused by taking medications known to induce myositis-like syndromes, including but not limited to statin agents, fibric acid derivatives, colchicine, and hydroxychloroquine.\n* Juvenile polymyositis\n* Inclusion body myositis\n* Cancer-associated myositis, defined as the diagnosis of myositis within 2 years of the diagnosis of cancer. Patients with basal or squamous cell skin cancer or carcinoma in situ of the cervix are not excluded, if it has been at least 5 years since excision.\n* Myositis in overlap with another connective tissue disease that may preclude the accurate assessment of a treatment response\n* Live viral vaccine within 4 weeks prior to study entry\n* Any joint disease or other musculoskeletal condition that may interfere with muscle strength testing\n* Known hypersensitivity to mouse proteins\n* Any concomitant or life-threatening non-myositis illness that, in the opinion of the investigator, may interfere with the study\n* Known or suspected history of drug or alcohol abuse within the last 6 months prior to study entry, as determined by medical record or patient interview\n* Anticipated poor compliance with study requirements\n* Participation in another clinical trial within 30 days prior to screening\n* Any history or evidence of any severe illness or other condition that, in the opinion of the investigator, may interfere with the study\n* Previously received rituximab\n* Evidence of prior infection with hepatitis B or hepatitis C virus\n* Initiation of an exercise program within 4 weeks of screening OR initiation of an exercise program during the study\n* Consumed any creatine-containing, over-the-counter products in the form of dietary supplements 30 days prior to screening visit and for the duration of the study",
+  "minimum_age": "5 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Myositis",
+    "Dermatomyositis",
+    "Polymyositis",
+    "Juvenile Dermatomyositis"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with dermatomyositis or polymyositis (adult or juvenile) who are refractory to corticosteroids plus at least one other immunosuppressive agent. All patients must have failed or been intolerant to at least one prior non-steroid immunosuppressive therapy in addition to steroids.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Eligibility requires 'refractory myositis, defined by intolerance to or inadequate response to corticosteroids plus an adequate regime of at least one other immunosuppressive agent.' Thus, all patients must have received at least one prior non-steroid immunosuppressive agent for advanced disease. Patients who only received adjuvant/neoadjuvant therapy are not eligible."
+    }
+  ]
+}

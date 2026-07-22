@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT03039205",
+  "title": "Platelet Aggregation in Patients With Coronary Artery Disease and Kidney Dysfunction Taking Clopidogrel or Ticagrelor",
+  "brief_summary": "About 35% of patients hospitalized with Acute Coronary Syndromes (ACS) have some degree of renal dysfunction. Chronic kidney disease (CKD) is not only associated to worse prognosis in ACS patients, but leads also to an increased risk of bleeding, which may importantly influence the risk-benefit ratio of antiplatelet therapy in this population. The responsible mechanisms for increased rate of ischemic events in this population are not completely elucidated.\n\nAntiplatelet therapy is of paramount importance in the treatment of ACS, but its benefit in CKD patients is not well established. This population is often excluded or underrepresented in large clinical trials, and the indication of antiplatelet therapy is often extrapolated from studies in patients with preserved renal function. In recent meta-analysis, Palmer et al. sought to evaluate the benefits and risks of antiplatelet agents in patients with CKD and concluded that in patients with ACS or scheduled for angioplasty already taking aspirin, the addition of clopidogrel or glycoprotein IIb / IIIa inhibitors have little or no impact in reducing the incidence of myocardial infarction, death or need for revascularization.\n\nIn the PLATO trial, ticagrelor (a new reversible inhibitor of P2Y12 receptor with faster onset of action and greater platelet inhibition) was compared to clopidogrel in patients with high risk ACS and was associated to a 16% risk reduction on the occurrence of death from vascular causes, myocardial infarction, or stroke. In a pre-specified sub-analysis, data from patients with CKD were compared to those obtained from the population with normal renal function and suggests that the benefit of ticagrelor may be even greater in patients with CKD. Two hypotheses were considered to explain these results:\n\n1. Greater and more consistent platelet inhibition achieved with ticagrelor would be more effective in reducing ischemic events in this population at increased thrombotic risk;\n2. Pleiotropic effects of ticagrelor besides inhibition of the P2Y12 receptor. Ticagrelor might be associated with an elevation in serum levels of adenosine. This could improve myocardial perfusion through coronary vasodilation, and this effect would be more pronounced in patients with renal dysfunction.\n\nThis project aims to validate (or not) these hypotheses, analyzing platelet aggregation and circulating adenosine levels in patients taking dual antiplatelet therapy with aspirin and clopidogrel or ticagrelor.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients in use of aspirin for at least 7 days prior to randomization;\n* Documented obstructive coronary artery disease by angiography;\n* At least 12 months from the last episode of myocardial infarction (MI);\n* Agree to sign the Informed Consent.\n\nExclusion Criteria:\n\n* Prior ischemic or hemorrhagic stroke;\n* Prior intracranial bleeding;\n* Use of oral anticoagulant in the past month;\n* Use of dual antiplatelet therapy in the last 30 days;\n* Use of NSAIDs and / or dipyridamole in the past month;\n* Mandatory use of proton pump inhibitor;\n* Known platelet dysfunction or platelets \\<100,000 or \\>450,000/\u03bcL;\n* End-stage renal disease undergoing hemodialysis;\n* Terminal illness;\n* Known liver disease or coagulation disorder;\n* Known pregnancy, breast-feeding, or intend to become pregnant during the study period;\n* Hypersensitivity to clopidogrel, ticagrelor or any excipients;\n* Refusal to sign the Informed Consent;\n* Active pathological bleeding.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Platelet Aggregation",
+    "Adenosine",
+    "Coronary Artery Disease",
+    "Kidney Dysfunction",
+    "Antiplatelet Therapy"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03759756",
+  "title": "Artificial Intelligence for Early Diagnosis of Esophageal Squamous Cell Carcinoma",
+  "brief_summary": "Esophageal squamous cell carcinoma is one of the most common malignant tumor of upper digestive tract. However, the detection rate and diagnosis accuracy of early esophageal squamous cell cancer is low. The aim of this study is to develop a computer-assisted diagnosis tool combining with optical magnifying endoscopy for early detection and accurate diagnosis of it.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* high risk patients for esophageal cancer aged 18 years or older;\n* Histologically verified early esophageal squamous cell cancer.\n\nExclusion Criteria:\n\n* patients whose images of esophagus not suitable for the training, validation and testing the computer-assist diagnosis tool.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Consecutive patients who came to Qilu Hospital of Shandong University and received optical magnifying OE endoscopy examination",
+  "condition": [
+    "Artificial Intelligence",
+    "Optical Enhancement Endoscopy",
+    "Magnifying Endoscopy"
+  ],
+  "overall_status": "COMPLETED"
+}

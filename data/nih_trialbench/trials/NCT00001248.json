@@ -1,0 +1,48 @@
+{
+  "nctid": "NCT00001248",
+  "title": "Magnetic Resonance Imaging (MRI) to Evaluate Activity of Multiple Sclerosis (MS)",
+  "brief_summary": "Studies performed under 89-N-0045 are designed to examine the natural history of multiple sclerosis (MS) using MRI and immunological measures. In addition to studying the natural history of untreated patients, the natural history of patients receiving approved disease-modifying therapies of MS will be examined. In both cohorts of patients levels of disease activity on MRI will be compared with immunological characteristics in order to help identify disease mechanism. Patients with either definite MS (based either on clinical or combined clinical and MRI criteria) or with an initial presentation of neurological dysfunction consistent with MS will be studied longitudinally by MRI. Disease activity on MRI will be assessed using several MRI measures of disease activity including the number of contrast enhancing lesions, the overall burden of disease, brain atrophy and measures to assess axonal damage. Patients will be assessed clinically and correlations between immunological and genetic factors and disease activity as seen clinically or by MRI will be studied.\n\nA second cohort of patients starting the use of approved therapy will also be examined. Patients referred to NIH prior to beginning approved therapy will be assessed with a series of three monthly MRIs to determine the level of pretreatment disease activity. After beginning approved therapy under the direction of their private physician, patients will be followed similarly to the natural history cohort. Immunological and genetic findings will be accessed before and during therapy in order to help establish the mechanisms of action of the therapies and to identify mechanisms accounting for either a response or lack of response to therapy. Part of the collected samples willl be cryopreserved to provide respository for further studies focusing on detection of biomarkers indicative of disease state, disease stage or repsonse to therapies.\n\nAdditionally, a cohort of normal volunteers will be studied. The studies in the normal volunteers will be used to establish the most appropriate imaging sequences for studying normal white matter in MS patients using magnetization transfer (MT) imaging sequences for studying normal white matter in MS patients using magnetization transfer (MT) imaging and to provide normative immunological measures.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. One of the following:\n\n   1. Affected participant with either a diagnosis of MS based on currently accepted diagnostic criteria, or imaging or clinical abnormalities associated with MS.\n   2. Healthy volunteer.\n2. Age \\>=18\n3. Able to give informed consent.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Contraindication to MRI at the time of initial enrollment (with the exception of pregnancy).\n2. Unwilling to allow coded samples to be processed offsite or unwilling to have coded samples used in other studies.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "-MS/CIS/RIS population-Patients with a diagnosis of MS or who have typical imaging abnormalities associated with MS.-Non-MS comparison populations-Patients with disorders of the CNS, to include patients with diseases that share mechanisms of tissue damage with MS, such as mitochondrial disorders, leukodystrophies, neurodegenerative diseases that may cause axonal loss or oxidative stress, and chronic small vessel disease.-Healthy volunteers-Healthy volunteers for technique development and comparison with the patient populations.",
+  "condition": [
+    "Multiple Sclerosis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history and imaging study of multiple sclerosis (MS) that includes untreated patients, patients starting approved disease-modifying therapies, and healthy volunteers. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, as the study is observational and not focused on cancer or advanced disease treatment.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Untreated MS patients",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes MS patients who are untreated. There is no mention of prior systemic therapy for advanced disease, and the study is not oncology-focused. Line-of-therapy intent is not applicable."
+    },
+    {
+      "cohort_label": "MS patients starting approved therapy",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes MS patients starting approved disease-modifying therapy. There are no specifications regarding prior lines of therapy for advanced disease, and the study is not in an oncology context. Line-of-therapy intent is not applicable."
+    },
+    {
+      "cohort_label": "Healthy volunteers",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort consists of healthy volunteers with no MS diagnosis. Line-of-therapy intent is not applicable."
+    }
+  ]
+}

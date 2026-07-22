@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02390284",
+  "title": "Stop Retinal Ganglion Cell Dysfunction Study",
+  "brief_summary": "Glaucoma is a progressive disease resulting in blindness. Determining the onset of the disease, predicting its severity and the benefit of pressure lowering eye drops is key to clinical management aimed at maintaining useful vision with advancing age. This study will longitudinally monitor a population of glaucoma suspects (with positive factors for the disease but with normal vision) with noninvasive pattern electroretinogram (PERG) and other standard eye tests for glaucoma. The PERG measures the function of retinal ganglion cells (RGCs) that are the parent neurons of the optic nerve. RGCs may become dysfunctional before dying and their function restored with pressure-lowering eye drops. Glaucoma suspects with abnormal PERG will be randomized to treatment with eye drops, while those with normal PERG will be left untreated. All patients will be monitored with PERG, Optic Coherence Tomography (OCT) and other ancillary tests every 6 months over 4 years.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age 18 to 85 years, inclusive\n2. Refractive errors within -5 to +3 diopters\n3. Best corrected visual acuity (BCVA) better than or equal to 20/30 (Snellen)\n4. Normal standard automated perimetry (SAP) according to the Ocular Hypertension Treatment Study (OHTS) criteria15 (reliability \\< 15% on all indices, normality \\> 5% on all global indices in two consecutive sessions 6 months apart)\n5. Minimum untreated Intraocular pressure IOP of 15 mm Hg\n6. Glaucoma Suspect Status defined as one or more of the following:\n\n   * Glaucomatous optic disc appearance (vertical cup-to-disc ratio \\[C/D\\] \u22650.5\n   * Cup disc ratio asymmetry \u22650.2\n   * Localized thinning of the disc\n   * Presence or history of splinter disc hemorrhage\n   * Moderately increased IOP (\\>21 to \\<28 mm Hg).\n   * Family history of vision loss for glaucoma\n\nExclusion Criteria:\n\n1. Age-related macular degeneration\n2. Diabetes\n3. Parkinson's disease\n4. Multiple sclerosis\n5. Unwilling or unable to give consent, unwilling to accept randomization, or unable to return for scheduled protocol visits.\n6. Pregnant or nursing women.\n7. Currently using prescribed pressure lowering medicines and unwilling to be withdrawn from them.\n8. An OHTS risk score high enough in the judgment of the ophthalmologist or optometrist managing the patient to recommend pressure lowering medicine to the patient and not randomization.\n9. An OCT abnormal enough in a pattern consistent with glaucoma.",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Glaucoma"
+  ],
+  "overall_status": "TERMINATED"
+}

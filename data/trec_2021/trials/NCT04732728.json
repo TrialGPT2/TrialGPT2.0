@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04732728",
+  "title": "LUX-Dx Insertable Cardiac Monitor Remote Programming and Performance Study",
+  "brief_summary": "The LUX-Dx PERFORM Study had two primary objects which were (1) to characterize, in a general patient population, the utilization of the remote programming feature of the Boston Scientific (BSC) Insertable Cardiac Monitor (ICM) device and (2) to collect data to characterize the performance of arrhythmia detection algorithms. Data was also collected to characterize the ICM system related safety events.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient is indicated to be implanted with the LUX-Dx ICM for one of the following reasons (grouped in three \"Reason for Monitoring\" subgroups): 1) Cryptogenic stroke, 2) Syncope, 3) AF management, Post-AF ablation, or Suspected AF\n* Patient is willing to enroll and be monitored in LATITUDE Clarity.\n* Patient is willing and able to be followed remotely via the ICM patient mobile app.\n* Patient is willing and capable of providing informed consent (which is not to include the use of a legally authorized representative (LAR) for documentation of informed consent) and agrees to participate in all protocol required activities.\n* Patient is age 18 years or above, or of legal age to give informed consent specific to state and national law.\n\nThe following inclusion criterion is applicable for patients participating in the Holter study:\n\n\u2022 Patient can tolerate the adhesive used in the Holter monitoring for an extended period of time.\n\nExclusion Criteria:\n\n* Patient is indicated for implantation of, or is currently implanted with an active implantable cardiac device (e.g., LVAD, ICD, CRT D, PPM\\*).\n* Patient cannot tolerate a subcutaneous, chronically-inserted device due to medical condition.\n* Patient has a documented life expectancy of less than 12 months (per investigator's discretion).\n* Patient is known to be pregnant at the time of study enrollment (method of assessment upon investigator's discretion).\n* Patient is currently enrolled in another clinical study including observational studies/registries, unless prior written approval from BSC is obtained. Mandatory governmental registries are accepted for co-enrollment without approval by BSC.\n\nThe following exclusion criteria are applicable for patients participating in the Holter study:\n\n* Patient has known allergies to the adhesive materials or hydrogel used in the extended Holter monitoring.\n* Patient has broken, damaged, or irritated skin over the chest area where the extended Holter monitor will be attached.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients that have a known heart condition and are at risk of developing an abnormal heart rhythm, or have symptoms that may suggest a cardiac arrhythmia such as dizziness, palpitations, syncope, chest pain, and/or shortness of breath.",
+  "condition": [
+    "Atrial Fibrillation",
+    "Syncope",
+    "Cryptogenic Stroke"
+  ],
+  "overall_status": "COMPLETED"
+}

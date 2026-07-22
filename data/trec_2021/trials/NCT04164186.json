@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04164186",
+  "title": "Fully Automated Pipeline for the Detection and Segmentation of Non-Small Cell Lung Cancer (NSCLC) on CT Images",
+  "brief_summary": "Accurate segmentation of lung tumor is essential for treatment planning, as well as for monitoring response to therapy. It is well-known that segmentation of the lung tumour by different radiologists gives different results (inter-observer variance). Moreover, if the same radiologist is asked to repeat the segmentation after several weeks, these two segmentations are not identical (intra-observer variance). In this study we aim to develop an automated pipeline that can produce swift, accurate and reproducible lung tumor segmentations.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Availability of CT scans\n* Availability of definite diagnosis\n\nExclusion Criteria:\n\n* Lack of segmentations",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "CT scans of 1043 patients diagnosed with NSCLC at one of the 8 centers (Netherlands, USA, China, Belgium) were collected retrospectively. All patients had a biopsy to confirm the diagnosis",
+  "condition": [
+    "Detection",
+    "Segmentation"
+  ],
+  "overall_status": "UNKNOWN"
+}

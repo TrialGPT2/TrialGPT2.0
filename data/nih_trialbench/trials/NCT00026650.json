@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00026650",
+  "title": "Evaluation of Late Effects and Natural History of Disease in Patients Treated With Radiotherapy",
+  "brief_summary": "BACKGROUND\n\n* This protocol acknowledges that it is in the interest of the NIH and ROB, as well as our participants, to continue to follow those who have been treated with radiotherapy at ROB and are not otherwise eligible for current active research protocols.\n* It also provides a mechanism for the correlation and interpretation of disparate data for research into the long term side effects and outcomes for a variety of disease entities and treatments, such as combined modality treatment, MoAb, PDT, radiation modifiers,\n\nintraoperative radiotherapy, etc.\n\nOBJECTIVE\n\n-The primary objective of this protocol is to assess the late effects of treatment and the natural history of disease through collection of data from any standard procedures performed as part of follow up care on participants previously treated with radiotherapy.\n\nELIGIBILITY\n\n-Participants who received radiation therapy.\n\nDESIGN\n\n* This is a natural history protocol in which long-term follow up data will be collected from participants who received radiation therapy.\n* It will be made clear to participants in the consent form, that data collected during their follow-up may be used anonymously for publications concerning the natural history of disease processes and long-term effects of treatment.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nROB investigator deems that it is in the best interests of the participant and the NCI/ROB for the participant to be seen in follow-up in the ROB clinic.\n\nParticipant is able to provide informed consent.\n\nParticipant must have a primary physician in the community to whom records and appropriate follow-up management can be given. Social services will be enlisted for any participants who lack health insurance, etc.\n\nParticipants who have received radiotherapy.\n\nAge greater than or equal to 18 years of age\n\nEXCLUSION CRITERIA:\n\nParticipants who are on an interventional research protocol at NIH at the time of enrollment.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who received radiation",
+  "condition": [
+    "Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history protocol enrolling any adult patient previously treated with radiotherapy, regardless of disease stage or prior systemic therapy. There are no restrictions on prior lines of systemic therapy for advanced disease, and patients treated with adjuvant-only radiotherapy are eligible.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility requires only that participants have received radiotherapy, with no mention of prior systemic therapy for advanced disease. Patients who received radiotherapy in the adjuvant setting are eligible, and there are no restrictions based on prior lines of therapy. The protocol does not specify line-of-therapy intent for advanced/metastatic disease."
+    }
+  ]
+}

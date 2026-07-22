@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04794803",
+  "title": "Reparixin in COVID-19 Pneumonia - Efficacy and Safety",
+  "brief_summary": "* Phase 2 Study Objectives: efficacy and safety of of Reparixin treatment as compared to the control arm in adult patients with severe COVID-19 pneumonia\n* Phase 3 Study Objectives: efficacy and safety of Reparixin treatment as compared to the control arm in adult patients with moderate or severe COVID-19 pneumonia",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Phase 2 Inclusion Criteria:\n\n  1. Age 18 to 90.\n  2. Confirmed COVID-19 diagnosis\n  3. At least one of the following: # Respiratory distress, RR \u2265 30 breaths/min without oxygen; # Partial arterial oxygen pressure (PaO2) / Fraction of inspiration O2 (FiO2) \\>100 \\<300mmHg\n\n  (1mmHg = 0.133kPa). 4. Chest imaging confirms lung involvement and inflammation. 5. Inflammatory status as documented by at least one of the following: Lactate dehydrogenase (LDH) \\> normal range, C-reactive protein (CRP) \u2265 100mg/L or IL-6 \u2265 40pg/mL, serum ferritin \u2265 900ng/mL, XDP \\>20mcg/mL.\n* Phase 3 Inclusion Criteria: Same as above; other criteria TBD based on Phase 2 outcomes.\n\nExclusion Criteria:\n\n\u2022 Phase 2/3 Exclusion Criteria:\n\n1. Cannot obtain informed consent.\n2. Severe hepatic dysfunction (Child Pugh score \u2265 C, or AST\\> 5 times the upper limit); Severe renal dysfunction (estimated glomerular filtration rate \u2264 30mL / min / 1.73 m2) or receive continuous renal replacement therapy, hemodialysis, or peritoneal dialysis.\n3. Patients with hypersensitivity to ibuprofen or to more than one non steroidal anti-inflammatory drug or to more than one medication belonging to the class of sulfonamides (e.g. sulfamethazine, sulfamethoxazole, sulfasalazine, nimesulide or celecoxib; hypersensitivity to sulphanilamide antibiotics alone, e.g. sulfamethoxazole, does not qualify for exclusion)\n4. Severe, active bleeding such as hemoptysis, gastrointestinal bleeding, central nervous system bleeding, and nosebleeds within 1 month before enrollment.\n5. Pregnant and lactating women and those planning to get pregnant.\n6. Participated in other interventional clinical trials with investigational medicinal products, not considered suitable for this study by the researchers.\n7. At the time of enrollment, patients not in a clinical condition compatible with the oral administration of the study drug.",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Severe Pneumonia"
+  ],
+  "overall_status": "TERMINATED"
+}

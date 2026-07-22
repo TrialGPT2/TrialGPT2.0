@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT05998395",
+  "title": "JAK/STAT Inhibition in CNS Kohlmeier-Degos Disease",
+  "brief_summary": "Background:\n\nKohlmeier-Degos (K-D) is a rare disease that leads to the blockage of small blood vessels in many organs; these can include the skin, eyes, stomach, lungs, heart, and the brain and spinal cord (central nervous system, or CNS). There are no known effective treatments for K-D that affects the CNS.\n\nObjective:\n\nTo test a drug (ruxolitinib) in a person with K-D affecting the CNS.\n\nEligibility:\n\nThis study is designed to treat 1 subject, a 58-year-old male with K-D affecting the CNS.\n\nDesign:\n\nThe participant will be screened:\n\nHe will have a physical exam and blood tests.\n\nHe will have skin biopsies: Small samples of skin will be removed.\n\nHe will have a lumbar puncture: A needle will be inserted in his back to draw fluid from the space around the spinal cord.\n\nHe will have a magnetic resonance imaging (MRI) scan: He will lie on a table that slides into a tube to take pictures of his brain and spinal cord.\n\nHe will see a doctor who specializes in nerves.\n\nRuxolitinib is a tablet taken by mouth. The participant will take the drug twice a day for up to 26 weeks. The dosage may change over time.\n\nThe participant will have up to 7 clinic visits in 28 weeks. Each visit will be 1 to 3 days. MRI scans, biopsies, lumbar punctures, and other tests will be repeated on different visits. The participant may receive follow-up phone calls between visits. He will report any adverse effects. Unscheduled visits may be needed if new symptoms develop.\n\nThe last follow-up will be 4 weeks after the last dose of the study drug....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nThe study design was constructed to treat one subject, a 58 year old male with CNS Kohlmeier Degos Disease. Therefore, there are no specific inclusion criteria.\n\nEXCLUSION CRITERIA:\n\n* Active life-threatening infections\n* Hemoglobin \\<7 g/dL\n* Platelet counts \\< 50 K /mcL\n* Neutropenia (ANC \\<0.5 x k/mcL)\n* Lymphopenia (ALC \\<0.2 x k/mcL)\n* LFTs (liver function test) \\> 3 x time upper limit\n* eGFR/CreatCr \\< 30 mL/min",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Kohlmeier Degos Disease With Neurologic Involvement"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a single-patient compassionate use study of ruxolitinib for CNS Kohlmeier-Degos Disease, with no specified requirements regarding prior lines of therapy for advanced disease. The protocol does not mention any prior systemic therapy requirements or restrictions.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study is designed for a single subject with CNS Kohlmeier-Degos Disease and does not specify any inclusion or exclusion criteria related to prior systemic therapy for advanced disease. There is no mention of prior lines of therapy, so the line-of-therapy intent cannot be determined."
+    }
+  ]
+}

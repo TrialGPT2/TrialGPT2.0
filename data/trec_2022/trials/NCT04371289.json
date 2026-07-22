@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04371289",
+  "title": "Predictors of Cardiovascular Risk in Covid-19 Patients During Acute Disease and at Short Term Follow-up",
+  "brief_summary": "Northern Italy, and particularly Lombardy, is one of the regions of the world mostly affected by COVID-19, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection. To investigate the still largely unknown pathophysiology of this disease, we have built a consortium of Italian Hospitals to include a large cohort of COVID-19 patients from mild out-patients managed by GPs to inpatients developing mild, moderate or severe disease assessed both in hospital and at a 3-6 month follow-up visit). Consortium partners have a wide expertise to allow for 1) comprehensive assessment of risk factors for severe COVID-19 syndrome; 2) study the pathophysiology of its cardio-respiratory manifestations; 3) estimate risk scores also with artificial intelligence and 4) assess its clinical immunoinflammatory and cardiorespiratory sequelae in discharged patients at short term follow-up. To this aim, we will\n\n1. Enroll around 5500 COVID-19 patients (1000 outpatients and 4500 in-patients), which will allow to:\n\n   1.1 Phenotype patients with COVID-19 of variable severity 1.2 Assess the prevalence of COVID-19 among GPs in relation with their use of PPE 1.3 Evaluate the impact of patients' demographic and clinical characteristics COVID-19 severity\n2. Use an electronic CRF (on RedCap) to record clinical, biohumoral and imaging data of inpatients with COVID-19 of various severity to explore the prognostic and pathophysiological role of immunologic factors, activation of blood coagulation, endothelial dysfunction, inflammatory response, genetic (ni particular X-linked), hormonal and metabolic factors, comorbidities and acute cardiac damage. Blood samples will be collected. We will also use machine learning techniques to develop multivariable models for patients' risk stratification\n3. A follow-up visit at 3-6 months after discharge will be performed to identify residual clinical consequences that might affect long-term prognosis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Positivity to the test for COVID-19 and / or chest Xray or CT positive for interstitial pneumonia compatible with infection with this virus, regardless of the severity of the infection and the need or not for hospitalization\n* Informed consent freely granted also verbally\n\nExclusion Criteria:\n\n* Failure to satisfy the inclusion criteria",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Outpatients and hospitalized patients with confirmed COVID-19 infection, recruited by General Practitioners or in Italian hospitals (mostly in Northern Italy), respectively",
+  "condition": [
+    "COVID-19",
+    "Cardiovascular Risk Factor"
+  ],
+  "overall_status": "COMPLETED"
+}

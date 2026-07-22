@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04356690",
+  "title": "Etoposide in Patients With COVID-19 Infection",
+  "brief_summary": "This is a randomized, open-label phase II study designed to evaluate the safety and efficacy of etoposide in patients with the 2019 novel coronavirus (COVID-19) infection. Randomization will be performed with a 3:1 allocation ratio. Treatment will be comprised of etoposide administered intravenously at a dose of 150 mg/m2 on Days 1 and 4 in patients with COVID-19 infection meeting eligibility criteria. Subsequent doses of etoposide will be allowed if the investigator and treating physician believe the patient had clinical benefit from etoposide therapy but subsequently has evidence of recurrent clinical deterioration. Subjects randomized to control will receive standard of care treatment. No placebo will be used.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Confirmed COVID-19 infection\n* Evidence of cytokine storm defined as:\n\n  * Peak ferritin \\> 10,000 ng/mL OR\n  * Peak ferritin \\> 500 ng/mL and one or more of the following at any time during hospital admission: Lactate dehydrogenase \\> 500 U/L, d-dimer \\>1000 ng/mL, C-reactive protein \\> 100 mg/L, or white blood count\\> 15 k/microlitre\n\nCohort 1: Intubated status as a result of COVID infection-associated respiratory illness.\n\nExclusion Criteria:\n\n* Pregnancy or breastfeeding\n* History of severe hypersensitivity to etoposide products\n* Absolute neutrophil count (ANC) \\< 1000 cells/mm3\n* Platelet count \\<50,000/mm3\n* Bilirubin \\> 3.0 mg/dL\n* Aspartate OR alanine aminotransferase \\> 5.0 x upper limit of normal\n* Creatinine Clearance \\< 15 mL/min (calculated by Cockcroft Fault formula)\n* Requiring continuous renal replacement therapy\n* Requiring \\>1 vasopressor\n* Requiring extracorporeal membrane oxygenation (ECMO)\n* Other active, life-threatening infections\n* Anti-cytokine treatment (including anakinra or Interleukin 6 antibodies eg tocilizumab, sarilumab) administration within three half-lives of the medication used\n* Hydroxychloroquine, colchicine, azithromycin, doxycycline-if administered for COVID infection-must be discontinued for at least 24 hours prior to randomization.\n* Has a history or current evidence of any condition, therapy or laboratory abnormality that might confound the results of the study, interfere with subject participation, or is not in the best interest of the patient to participate, in the opinion of the investigator.\n* Inability to consent and no legally authorized representative\n* Poorly controlled HIV infection (CD4 count \\<100 cells/mm3)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID-19"
+  ],
+  "overall_status": "TERMINATED"
+}

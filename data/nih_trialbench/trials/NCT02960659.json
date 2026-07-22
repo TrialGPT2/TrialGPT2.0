@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT02960659",
+  "title": "Title: Therapeutic Targets in African-American Youth With Type 2 Diabetes",
+  "brief_summary": "Background:\n\nThe pill metformin treats diabetes. But it does not work for all youth, especially African-Americans. The injectable Liraglutide treats type 2 diabetes in adults. Researchers want to understand how these drugs work and if they decrease excess sugar made by the liver in youth with type 2 diabetes.\n\nObjective:\n\nTo test if using liraglutide and metformin are better than just metformin for decreasing excess sugar produced by the liver in African-American youth with type 2 diabetes.\n\nEligibility:\n\nAfrican-Americans ages 12-25 with type 2 diabetes\n\nDesign:\n\nVisit 1: Participants will be screened with medical history, physical exam, and blood and urine tests. Participants will stop taking diabetes medicines for 1 week. They will learn how to check blood sugars at home twice a day.\n\nVisit 2: Overnight at the clinic. Participants will have:\n\nVital signs taken.\n\nPregnancy test.\n\nA thin plastic tube (IV catheter) be inserted in each forearm by needle.\n\nBlood drawn several times after drinking a sweet drink.\n\nX-ray of total body fat.\n\nUrine and stool collected.\n\nBreath tests while wearing a clear hood for up to 45 minutes.\n\nFor several hours, participants can have only water. At 4 a.m. they will get sugar and fat with nonradioactive isotopes in one IV. Blood will be collected. Every 30 minutes from 9 a.m. to 2 p.m., they will drink small amounts of a shake and have blood drawn.\n\nParticipants will be randomly assigned to take either both study drugs daily or just metformin daily.\n\nVisits 3-4: Participants will bring their blood sugar records and have blood tests.\n\nVisit 5, after 3 months: Repeat of visit 2....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Youth must self-identify as African-American and identify both parents as African-American\n  2. Age 12-25 years\n  3. Pubertal or post-pubertal: Girls Tanner stage IV-V breast; Boys Testicular volume 11-25cc\n  4. Diagnosis of type 2 diabetes of less than or equal to 5 years duration, as per American Diabetes Association Criteria\n  5. Hemoglobin A1C \\<9% at study initiation\n  6. Negative to mild ketonuria without acidosis (negative or 1+ ketones on urinalysis)\n  7. Negative test for diabetes-related autoantibodies (glutamic acid decarboxylase 65 and tyrosine phosphatase-related islet antigen 2 (IA-2))\n  8. Willing and able to take daily medications and check blood glucose levels at least twice per day or wear a continuous glucose monitoring device (CGM).\n\nEXCLUSION CRITERIA:\n\n1. Pregnancy or breastfeeding\n2. Allergy to study medications\n3. Allergy to milk protein\n4. Chronic insulin therapy\n5. Treatment with other medications which are known to affect the parameters under study (for example sodium glucose transporter 2 (SGLT-2) inhibitors, dipeptidyl peptidase-4 (DPP-IV) inhibitors, non-selective beta blockers).\n6. Metabolic derangement such as metabolic acidosis, severe hyperglycemia (fasting blood glucose greater than or equal to 200mg/dL), and/or liver enzymes \\> three times the upper limit of normal.\n7. Personal or family history of medullary thyroid cancer or Multiple Endocrine Neoplasia syndrome type 2\n8. Any other condition that, in the opinion of the investigators, will increase risk to the subject, or impede the accurate collection of study-related data.\n9. Body weight greater than or equal to 450 lbs\n10. Body weight less than or equal to 58kg\n11. Serum triglyceride concentrations greater than or equal to 500mg/dl\n12. Hemoglobin concentration \\<10g/dL",
+  "minimum_age": "12 Years",
+  "maximum_age": "25 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Type 2 Diabetes"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls African-American youth with type 2 diabetes, regardless of prior lines of therapy for advanced disease. There are no requirements or restrictions regarding prior systemic therapy for advanced/metastatic disease, as this is not an oncology trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference prior lines of systemic therapy for advanced/metastatic disease, as this is a diabetes trial and not an oncology study. No information is provided regarding prior therapy for advanced disease."
+    }
+  ]
+}

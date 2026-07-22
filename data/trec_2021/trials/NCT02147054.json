@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT02147054",
+  "title": "A Pilot Study Using Rocuronium to Prevent Intermediate Syndrome After Organophosphorus Insecticide Poisoning",
+  "brief_summary": "Organophosphate pesticide poisoning causes close to 300 000 deaths per year worldwide. Many patients who ingest organophosphates require ventilation; of these patients approximately 50% die. Much of the mortality in these ventilated patients is secondary to intermediate syndrome. This is because OP pesticides inhibit acetylcholinesterase, causing an excess of acetylcholine at nerve synapses and the neuromuscular junction (NMJ). At the NMJ, the excess acetylcholine causes overstimulation and damage, which may lead to sudden respiratory arrest or prolonged ventilation and its associated complications.\n\nThe investigators believe that blocking these receptors using a neuromuscular blocking agent such as Rocuronium will protect the NMJ from damage and thus prevent intermediate syndrome and reduce number of intubated days and mortality.\n\nIn this pilot randomised controlled trial Rocuronium, a competitive nicotinic receptor antagonist, will be used to bind to the receptor at the neuromuscular junction and to block the effects of the accumulated acetylcholine. The effects of OP pesticide on cholinesterase in the blood will then be monitored and Rocuronium withdrawn using Sugammadex as the OP is eliminated from the body.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion criteria:\n\n* Male or female\n* Age over 16\n* Clinical diagnosis of OP insecticide poisoning\n* Admission to Intensive Care Unit for Ventilation\n* Informed consent from family\n* Train of four measurement \\> 50%\n\nExclusion criteria:\n\n* Age 16 or under\n* Pregnant\n* Consent not obtained from patient or patient's family",
+  "minimum_age": "17 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Organophosphate Poisoning"
+  ],
+  "overall_status": "COMPLETED"
+}

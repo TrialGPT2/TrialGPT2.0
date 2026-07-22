@@ -1,0 +1,42 @@
+{
+  "nctid": "NCT03830229",
+  "title": "Long Term Follow-up of Mesothelioma Patients and Their Family Members With Germline Mutations in BAP1 and Other Genes",
+  "brief_summary": "Background:\n\n-A gene provides instructions to the body. Mutated genes can sometimes cause cancer. Germline mutations are those people are born with. These mutations in the BAP1 gene can cause mesothelioma and other cancers. Researchers want to study people with germline mutations of BAP1 and other genes known to cause cancer.\n\nObjective:\n\n-To learn how cancer might develop in people with certain gene mutations.\n\nEligibility:\n\n-People ages 2 and older with a germline mutation in BAP1 or another gene that might cause cancer\n\nDesign:\n\n* Participants will be screened with:\n\n  * Medical and family history\n  * Saliva test\n* Participants with mesothelioma will be in the NIH Group. Participants without mesothelioma can choose to be in either the NIH Group or the Remote Group.\n* Remote Group participants will have a medical and family history by phone. If they have tumor tissue from a previous surgery, it will be tested. They will be contacted once a year by phone.\n* NIH Group participants will have a baseline visit. This can take up to 4 days. They may have to stay in the area overnight. The visit will include:\n\n  * Physical exam\n  * Evaluation of tumor tissue if available\n  * Optional tumor biopsy\n  * Blood tests\n  * Scans: A machine will take pictures of the body.\n  * Photographs of skin lesions or other issues\n  * Skin exam\n  * Eye exam\n* NIH Group participants will have visits once or twice a year. These will include a physical exam, lab tests, scans, and other tests as needed.\n* Participants who have a confirmed mutation will be asked to contact any relatives who may be at risk and ask them about joining the study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* Inclusion Criteria:\n\nInclusion Criteria for Genetic Testing:\n\nCohort 1:\n\n* Participant with pathology confirming a diagnosis of mesothelioma.\n* Participant must have a deleterious germline BAP1 mutation. Results from either research or clinical analyses are sufficient for this criterion.\n\nOR\n\n-Participant with mesothelioma otherwise eligible for genetic testing in Cohort 2\n\nOR\n\n* Participant must have deleterious germline mutation in another DNA repair/cancer predisposition gene(s) that is listed on a commercially available, cancer-associated common or customized gene panel. Results from either research or clinical analyses are sufficient for this criterion.\n* Age greater than or equal to 2 years\n\nCohort 2:\n\n-Individual with a germline BAP1 mutation who does not have a history of mesothelioma (other cancers are allowed). Results from either research or clinical analyses are sufficient for this criterion.\n\nOR\n\n-Individual with no history of mesothelioma with:\n\n--A biological first degree relative (living or deceased) with a history of mesothelioma\n\nOR\n\n--A first degree biological relative with a CLIA (or equivalent) confirmed germline mutation in BAP1\n\nOR\n\n--A second degree biological relative with a CLIA (or equivalent) confirmed germline mutation in BAP1 if relevant first degree relative is deceased or unavailable for testing,\n\nOR\n\n--A first degree biological relative with mesothelioma and a CLIA (or equivalent) confirmed germline mutation in another DNA-repair/cancer predisposition gene that is listed on a commercially available, cancer-associated common or customized gene panel\n\nOR\n\n* A second degree biological relative with mesothelioma and a CLIA (or equivalent) confirmed germline mutation in BAP1\n\n  -Age:\n* greater than or equal to 2 years for participants with a BAP1 or TP53 mutation or with a first degree relative that has a germline mutation in TP53 or BAP1\n* greater than or equal to 16 years for all other eligible potential mutations\n\nAll participants must understand and be willing to sign a written informed consent\n\nExclusion Criteria for Genetic Testing\n\nNone\n\nInclusion Criteria for Surveillance:\n\n* Genetic testing criteria including age restrictions for respective cohorts must be met\n* Participants in Cohort 1 may be enrolled with positive results for germline BAP1 mutation or another DNA repair/cancer predisposition gene(s) that is listed on a commercially available, cancer-associated common or customized gene panel regardless of CLIA (or equivalent) confirmation\n* Participants in Cohort 2 must have CLIA (or equivalent) confirmed germline BAP1 mutation or another DNA repair/cancer predisposition gene(s) that is listed on a commercially available, cancer-associated common or customized gene panel\n\nOR\n\n-if germline status negative, have a biological relative that is enrolled for surveillance\n\nExclusion Criteria for Surveillance:\n\nNone",
+  "minimum_age": "2 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Persons with mesothelioma and family members as well as individuals with CLIA documented germline BAP-1 and other DNA repair/cancer predisposition mutations",
+  "condition": [
+    "Mesothelioma",
+    "Families"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study enrolling individuals with germline mutations in BAP1 or other cancer predisposition genes, with or without a history of mesothelioma or other cancers. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Cohort 1",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Cohort 1 includes participants with mesothelioma and a germline BAP1 or other cancer predisposition gene mutation, regardless of prior cancer therapy history. There are no requirements or exclusions based on prior systemic therapy for advanced disease; both treatment-naïve and previously treated patients are eligible."
+    },
+    {
+      "cohort_label": "Cohort 2",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Cohort 2 includes individuals with a germline BAP1 mutation who do not have a history of mesothelioma, or relatives of affected individuals, regardless of cancer history or prior therapy. There are no restrictions or requirements regarding prior systemic therapy for advanced disease."
+    }
+  ]
+}

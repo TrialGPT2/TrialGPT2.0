@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00404560",
+  "title": "Detection and Characterization of Infections and Infection Susceptibility",
+  "brief_summary": "This screening study will examine the causes of immune disorders affecting white blood cells, which defend against infections and will try to develop better means of diagnosis and treatment of these immune disorders. This is a 2 visit screening study and patients determined to be of interest for additional study or treatment will be asked to provide consent for enrollment into an appropriate NIH follow up study. This study does not cover the cost of the first visit to NIH for travel or lodgings but does cover the subsequent visit if there is one. A financial assessment may determine if the patient is eligible for financial assistance. This study does not enroll children under the age of 2.\n\nPatients known to have or suspected of having increased susceptibility to infections and their blood relatives may be eligible for this study, at the discretion of the principal investigator. Patients and family members may undergo the following procedures:\n\n* Personal and family medical history.\n* Physical examination and blood and urine tests.\n* Studies of breathing function (pulmonary function testing)\n* Dental examination.\n* Eye examination.\n* Genetic Testing\n* Stored specimens for future analysis\n* Microscopic examination of saliva, wound drainage or tissues removed for medical reasons for cell, hormone or DNA studies.\n\nIn addition, patients will be asked to obtain permission for investigators to obtain their medical records, previous test results, or radiographic studies prior to the first visit. Patients will be asked to undergo imaging studies, such as a chest X-ray, CT scan or MRI scan.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPATIENTS:\n\n* Patients known to have, or suspected of having an infection susceptibility and their healthy blood relatives will be eligible for enrollment.\n* Participants must be over 1 month of age. There will be no limit as to sex, race or disability.\n* Patients must have a primary physician outside of the NIH and may be required to submit a letter from their physician that documents their relevant health history.\n* The participant or the participant's guardian will be willing and capable of providing informed consent after initial counseling by clinical staff. Separate consent forms for all interventional procedures will be obtained after explanation of the specific procedure.\n* Patients and relatives must agree to have blood and tissue stored for future studies of the immune system and/or other medical conditions.\n* Patients and relatives may be concurrently enrolled on other protocols as long as the Principal Investigator is informed.\n* The patient must be enrolled on this protocol to have relatives enrolled.\n\nThe patient and patient relative cohorts will include the following special populations:\n\n* Children: Children are included in this study because immune defects may present in early childhood, and early diagnosis or characterization may benefit subjects. Children who do not meet the age and weight criteria for care at the Clinical Center, may have sample collection only.\n* Decisionally impaired adults: Patients and patient relatives will be able to provide informed consent for themselves or, if they lack the capacity to provide informed consent, the study team will obtain consent from the legally authorized representative. Patients with underlying immune disorders, autoimmune phenomena or severe infections may sometimes present with delirium, encephalopathy, or coma and are therefore unable to provide informed consent. Excluding patients who are unable to provide consent could adversely impact patient access to medical therapy at the NIH as well as adversely impact research recruitment. Excluding patients unable to provide consent would also essentially prohibit us from evaluating patients at higher risk for adverse outcomes and therefore skew our understanding of disease. Similarly, enrolled patient subjects who lose the ability to provide ongoing consent during study participation may continue in the study. The risks and benefits of participation for subjects unable to consent should be identical to those described for less vulnerable patients.\n\nEXCLUSION CRITERIA:\n\n1. A well understood acquired abnormality which leads to infection susceptibility, such as HIV, cytotoxic chemotherapy, or active malignancy may be adequate explanation for the infection diathesis. These may be grounds for exclusion if, in the opinion of the investigators, the presence of such disease process interferes significantly with evaluation (applicable to patients and their blood relatives).\n2. Severe or uncommon infections or syndromes often require highly specialized teams and institutions. Some referred cases will not be able to be handled appropriately at the NIH and may be deemed ineligible for admission, as determined by the Principal Investigator.\n3. Pregnancy",
+  "minimum_age": "1 Month",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "primary clinical",
+  "condition": [
+    "Immune Deficiencies"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational screening study enrolling patients with suspected or known infection susceptibility and their relatives. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The protocol does not mention prior systemic therapy for advanced disease, nor does it specify any requirements or exclusions based on prior lines of therapy. This is a screening and observational study, not a therapeutic trial."
+    }
+  ]
+}

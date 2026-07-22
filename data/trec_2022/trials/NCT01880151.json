@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01880151",
+  "title": "Neuroelectrical Biomarkers for Alzheimer's Disease Stages",
+  "brief_summary": "Recent diagnostic criteria for Alzheimer's disease (AD) recognize an extended spectrum of AD stages as part of the disease, including a preclinical stage. This underscores the importance of early prognosis of AD when it is still possible to influence the course of the disorder. The investigators propose a comprehensive project which will target the data-driven modeling of the disease development. This goal will be achieved by creating and validating a battery of new sensitive biomarkers for clinical evaluation and prediction of AD in individuals. The AD-related brain changes will be assessed by noninvasive functional EEG measured during an episodic memory task in subjects at different stages of AD, as well as in healthy controls. The novel functional biomarkers will be extracted using a rigorous multistage selection procedure involving advanced methods for feature extraction, as well as statistics and classification for optimal selection. The ESTIMATE project will serve as a first step in an extensive array of research procedures which will enable the early clinical identification of Alzheimer's disease in elderly individuals who could then take advantage of preventive pharmaceutical therapies.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age: 70-85 years old\n* Presence of memory impairment\n* Completed educational level: middle school\n* Visual and auditory acuity: normal or corrected-to-normal\n\nExclusion Criteria:\n\n* Monogenic AD\n* Presence of a neurological disorder\n* Stroke that has occurred in the last three months\n* Prohibited medications\n* Residence in skilled nursing facility\n* Illiteracy, is unable to count or to read\n* Claustrophobia",
+  "minimum_age": "70 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Alzheimer Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

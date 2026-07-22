@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01378169",
+  "title": "SIRS and Bacterial Sepsis Discrimination by Biomarkers in ICU",
+  "brief_summary": "Aim of the study : The primary aim of the investigators study is to highlight the presence of biomarkers (biological indicators of the presence of inflammation or infection) of infectious processes during the systemic inflammatory response (SIRS) allowing, first to discriminate non-infectious inflammation from infectious processes and secondary to determine the microbial pathogen responsive of the infection. For this purpose the investigators will conduct a combinatorial approach of several blood markers including usual markers of inflammation and other blood and cells markers. Expression of small pieces of RNA (miRNA) known to inhibit determined gene expression, will also be analysed in monocytes (a specific group of white blood cells involved in the fist line of defences against microbes.\n\nStudy design : For this purpose the investigators will include 300 patients admitted to the intensive care unit with suspicion of infection. Serial blood sample will be take for biological parameters analysis. Efficiency of each single parameters and of different combinations of different markers to determine the presence or absence of infection responsive of clinical inflammation will be studied.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age\\> = 18 years\n* Patient hospitalized in ICU with a diagnosis of SIRS:\n* Temperatures above 38 \u00b0 C or below 36 \u00b0 C\n\nAt least one other criterion from:\n\n* Heart rate\\> 90 bpm\n* Respiratory rate above 20 breaths / min or PaCO2 \\<32 mmHg\n* Leukocytosis greater than or less than 4000/mm3 12000/m3\n\n  * Patient admitted in intensive care for less than 12 hours\n  * Patient does not preclude its participation in the study.\n\nExclusion Criteria:\n\n* Decision to limit treatment before potential inclusion in the study\n* No affiliation to a social security scheme (beneficiary or assignee)",
+  "minimum_age": "18 Years",
+  "maximum_age": "95 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "ICU patients whatever was their admission indication presenting a SIRS with or without sepsis.",
+  "condition": [
+    "SIRS",
+    "Sepsis",
+    "Severe Sepsis",
+    "Septic Shock"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT00001595",
+  "title": "An Investigation of Pituitary Tumors and Related Hypothalmic Disorders",
+  "brief_summary": "There is a variety of tumors affecting the pituitary gland in childhood; some of these tumors (eg craniopharyngioma) are included among the most common central nervous system tumors in childhood. The gene(s) involved in the pathogenesis of these tumors are largely not known; their possible association with other developmental defects or inheritance pattern(s) has not been investigated. The present study serves as a (i) screening/training, and, (ii) a research protocol.\n\nAs a screening and training study, this protocol allows our Institute to admit children with tumors of the hypothalamic-pituitary unit to the pediatric endocrine clinics and wards of the NIH Clinical Center for the purposes of\n\n(i) training our fellows and students in the identification of genetic defects associated with pituitary tumor formation, and\n\n(ii) teaching our fellows and students the recognition, management and complications of pituitary tumors\n\nAs a research study, this protocol aims at\n\n(i) developing new clinical studies for the recognition and therapy of pituitary tumors; as an example, two new studies have emerged within the context of this protocol: (a) investigation of a new research magnetic resonance imaging (MRI) tool and its usefulness in the identification of pituitary tumors, and (b) investigation of the psychological effects of cortisol secretion in pediatric patients with Cushing disease. Continuation of this protocol will eventually lead to new, separate protocols that will address all aspects of diagnosis of pituitary tumors and their therapy in childhood.\n\n(ii) Identifying the genetic components of pituitary oncogenesis; those will be investigated by (a) studying the inheritance pattern of pituitary tumors in childhood and their possible association with other conditions in the families of the patients, and (ii) collecting tumor tissues and examining their molecular genetics. As with the clinical studies, the present protocol may help generate ideas for future studies on the treatment and clinical follow up of pediatric patients with tumors of the pituitary gland and, thus, lead to the development of better therapeutic regimens for these neoplasms.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Stated willingness to comply with all study procedures and availability for the duration of the study.\n2. Male or female with:\n\n   1. Evidence for the existence of a tumor of the hypothalamic-pituitary unit or related disorder, as indicated by previously obtained imaging studies or biochemical investigation of the hypothalamo-hypophyseal function (aged 2 years to 70 years)\n\n      or\n   2. Family members (any age) of patients with a family history of tumors of the hypothalamic-pituitary unit or related disorders as part of the linkage part of the study, or\n   3. Members (any age) of a kindred suspected of having an inherited form of neoplasia of the hypothalamic-pituitary unit or related disorder, as evidenced by results of a patient enrolled in this protocol, as part of the linkage part of the study\n3. Ability of the subject or LAR to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Pregnancy: Pregnancy will be evaluated only in participants of reproductive age (from 10 years old until 60 years of age unless menopause has already occurred per clinical report of the participant).\n\n   For participants enrolled as external participants or under the Linkage study (where research activities include no more than blood draws), any female who could possibly become pregnant will be screened using clinical criteria (history, with pregnancy testing only if indicated) for exclusion and this information will be documented in the consent process note in EMR. If a participant has initially been registered as external location and then presents on-site, then pregnancy test will be performed if within the reproductive age group.\n2. Patients with any medical, physical, psychiatric, or social condition, which, in the opinion of the investigators, would make participation in this protocol not in their best interest, will be excluded from the study.\n3. Patients who are critically ill, unstable, or with severe organ failure that may affect/limit the endocrine evaluation and place unsustainable demands on CC or NICHD resources may be excluded.",
+  "minimum_age": "2 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects with known or suspected pituitary or hypothalamic tumors or related disorders. Family members (adult and pediatric; affected and unaffected) may be enrolled in the DNA linkage analysis part of this protocol.",
+  "condition": [
+    "Panhypopituitarism",
+    "Gigantism/Acromegaly",
+    "Prolactinoma",
+    "Cushing Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational and research protocol enrolling patients with pituitary or hypothalamic tumors regardless of prior therapy, as well as family members for genetic studies. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on the presence of a pituitary or hypothalamic tumor or being a family member for genetic studies, with no mention of prior systemic therapy for advanced disease. Both treatment-naïve and previously treated patients, including those who have only received adjuvant therapy, are eligible. The protocol does not specify any line-of-therapy requirements or restrictions."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03439163",
+  "title": "Large Sample PD Patients and Healthy Controls",
+  "brief_summary": "Resting-state functional magnetic resonance imaging (RS-fMRI) has frequently been used to investigate local spontaneous brain activity in Parkinson's disease (PD) in a whole-brain, voxel-wise manner. To quantitatively integrate these studies, we conducted a coordinate-based meta-analysis on 15 studies that used amplitude of low frequency fluctuation (ALFF) and 11 studies that used regional homogeneity (ReHo). All these ALFF and ReHo studies have compared PD patients with healthy controls. We also performed a validation RS-fMRI study of ALFF and ReHo in a frequency-dependent manner for a novel dataset consisting of PD and healthy controls.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* The PD diagnoses were based on the UK Parkinson's Disease Society Brain Bank Clinical Diagnostic Criteria. Patients were assessed using the UPDRS III and Hoehn and Yahr disability scale.\n\nExclusion Criteria:\n\n* 1\\. history of head trauma, 2. substance abuse, 3. psychiatric disorder. For healthy controls, additional exclusion criteria included\n\n  1. any history of neuropsychiatric disorders.",
+  "minimum_age": "50 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "PD patients were enrolled from the inpatients and the outptients. Healthy controlls were enrolled using advertisement (media and internet)",
+  "condition": [
+    "Neuro-Degenerative Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

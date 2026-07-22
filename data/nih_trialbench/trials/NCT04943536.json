@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04943536",
+  "title": "Bicalutamide Implants (Biolen) With Radiation Therapy in Patients With Localized Prostate Cancer",
+  "brief_summary": "This study will be undertaken to evaluate the feasibility of replacing systemic Androgen Deprivation Therapy (ADT) with targeted local delivery of an anti-androgen agent alone in patients in whom ADT + radiation therapy is indicated for the treatment of localized prostate cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with biopsy proven localized prostate cancer in whom prostate radiation and ADT is appropriate therapy (such as Intermediate Risk localized prostate cancer)\n* Patients must have at least 1 MRI detected; biopsy proven prostate cancer.\n* Patients diagnosed as one of the following:\n\n  1. National Comprehensive Cancer Network (NCCN) intermediate risk prostate cancer, OR\n  2. NCCN high risk prostate cancer due to Gleason Grade 4 or 5 AND refuses to receive systemic ADT, OR\n  3. NCCN high risk prostate cancer due to Prostate Specific Antigen (PSA) \\> 20 AND refuses to receive systemic ADT.\n* Age \\>18 years.\n\nExclusion Criteria:\n\n* NCCN high risk patients eligible for treatment with systemic ADT who do not refuse systemic ADT.\n* Patients receiving prior radiotherapy or surgery for prostate cancer.\n* Patients receiving prior or ongoing ADT.\n* Study participant unwilling or unable to undergo MRI, including patients with contra-indications to MRI, such as cardiac pacemakers, non-compatible intracranial vascular clips, etc.\n* Use of 5 alpha reductase inhibitors (e.g. Finasteride or Dutasteride) within 3 months of screening or total use within the last two years prior to screening of \\> 3 months.\n* Prostate volume more than 80 cc at prior MRI imaging.\n* International Prostate Symptom Score ≥ 20.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Prostate Adenocarcinoma"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with newly diagnosed, localized prostate cancer who have not received any prior systemic therapy or local therapy for prostate cancer. All patients are treatment-naïve for advanced disease, and the study is evaluating first-line therapy in this setting.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Eligible patients must not have received prior radiotherapy, surgery, or androgen deprivation therapy (ADT) for prostate cancer. The study population consists of patients with localized disease who are initiating first-line therapy with radiation and anti-androgen implants."
+    }
+  ]
+}

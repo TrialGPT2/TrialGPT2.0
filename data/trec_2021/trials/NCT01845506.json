@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT01845506",
+  "title": "The Application of a Wireless Sensor Technology for Vital Statistics in CHILDREN AND ADULTS",
+  "brief_summary": "The primary outcome for this project will be the development of a small, non-invasive wireless sensor that is linked to a conventional computer that can be used in health care for monitoring of acute and chronic health problems. The advantages of developing this technology are threefold. First, monitoring can be conducted for a fraction of the cost of a bedside nurse. Second, monitoring can be done in real time and stored so that we can diagnose and manage critical events in a more timely manner. Lastly, many patients can be monitored simultaneously. The wireless sensors will be fitted to healthy volunteers of various ages. The data gathered from the sensor with respect to their vital signs will be compared to that of conventional tools such as nursing assessments and pulse oximetry.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adults with controlled and non-controlled hypertension (hypertension defined as \\> 130/90 on two separate occasions and history of hypertension)\n* Adults with known chronic obstructive pulmonary disease in respiratory distress with oxygen saturations \\< 90%\n* Febrile adults (temp at triage \\> 38 C) with no significant co-morbidities\n* Elderly (\\>70 years) patients with no significant co-morbidities\n* Obese adults (BMI \\> 30)\n* Febrile (temp at triage \\> 38 C) and non-febrile children (age \\< 18 yrs)\n* Obese children (BMI \\> 30)\n* Neonates (age \\< 6 weeks)\n* Children with corrected cyanotic congenital heart disease\n* Children in respiratory distress that present with oxygen saturations \\< 90%\n\nExclusion Criteria:\n\n-Subjects with unstable vital signs will be excluded.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Fever",
+    "COPD",
+    "Obesity",
+    "Congenital Heart Disease",
+    "Respiratory Distress"
+  ],
+  "overall_status": "UNKNOWN"
+}

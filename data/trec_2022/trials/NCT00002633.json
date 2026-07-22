@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00002633",
+  "title": "Hormone Therapy With or Without Surgery or Radiation Therapy in Treating Patients With Prostate Cancer",
+  "brief_summary": "RATIONALE: Hormones can stimulate the growth of prostate cancer cells. Hormone therapy may fight prostate cancer by reducing the production of androgens. Radiation therapy uses high-energy x-rays to damage tumor cells. It is not yet known whether hormone therapy plus surgery is more effective than hormone therapy plus radiation therapy for prostate cancer.\n\nPURPOSE: This randomized phase III trial is studying giving hormone therapy alone to see how well it works compared to giving hormone therapy together with bilateral orchiectomy or radiation therapy in treating patients with stage III or stage IV prostate cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically proven locally advanced adenocarcinoma of the prostate, defined as 1 of the following:\n\n  * T3-4, N0 or NX, M0\n  * T2, PSA greater than 40 \u00b5g/L\n  * T2, PSA greater than 20 \u00b5g/L AND Gleason score at least 8\n* Diagnosis made within the past 6 months\n* Gleason score and PSA known\n* Pelvic lymph nodes must be clinically negative\n\n  * Lymph nodes no more than 1.5 cm in greatest diameter by CT scan or MRI of the pelvis\n  * Negative needle aspirate required for any lymph node more than 1.5 cm\n  * If a lymph node dissection was performed, it must be histologically negative\n* No small cell or transitional cell carcinoma by biopsy\n* No bony metastases by bone scan\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* Under 80\n\nPerformance status:\n\n* ECOG 0-2\n\nLife expectancy:\n\n* At least 5 years excluding malignancy\n\nHematopoietic:\n\n* Hemoglobin at least 10.0 g/dL\n* WBC at least 2,000/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n\nHepatic:\n\n* Bilirubin less than 2 times upper limit of normal (ULN)\n* SGOT and SGPT less than 2 times ULN\n* Alkaline phosphatase less than 2 times ULN\n* No history of chronic liver disease\n\nRenal:\n\n* Creatinine less than 2 times ULN\n\nOther:\n\n* No contraindication to wide-field pelvic irradiation (e.g., inflammatory bowel disease or severe bladder irritability)\n* No other malignancy within the past 5 years except nonmelanoma skin cancer\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* Not specified\n\nEndocrine therapy:\n\n* Prior hormonal therapy within the past 12 weeks allowed provided the following conditions are met:\n\n  * Negative bone scan before beginning any hormonal therapy\n  * Extracapsular extension remains palpable on rectal re-exam\n  * Baseline PSA known before beginning any hormonal therapy\n* At least 4-6 weeks since prior 5-alpha-reductase inhibitor (e.g., finasteride) for benign prostatic hypertrophy\n\nRadiotherapy:\n\n* No prior pelvic irradiation\n\nSurgery:\n\n* No prior radical prostatectomy\n* Prior transurethral resection of the prostate allowed\n\nOther:\n\n* No prior cytotoxic anticancer therapy\n* No other prior treatment for prostate cancer\n* No other concurrent anticancer therapy unless documented disease progression",
+  "minimum_age": "",
+  "maximum_age": "79 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Prostate Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

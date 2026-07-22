@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01147328",
+  "title": "Assessing the Impact of Health Information Exchange (HIE) on Healthcare Utilization",
+  "brief_summary": "The purpose of this study is to assess usage of the virtual health record (VHR), and determine the effects of this technology on healthcare utilization.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients that are aged 18 and older who have consented during the year 2009 to allow their provider use of their VHR data and had at least one visit to a healthcare provider that is a VHR user within 6 months after they consented to allow their provider use of their VHR data. (Note: we only wish to include individuals who have had the opportunity for their data to be viewed using the VHR web portal). Providers who are participating in the Regional Health Information Exchange (RHIO).\n\nExclusion Criteria:\n\n* Patients and providers who do not meet the above criteria",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult patients with concurrent controls who have consented to have their clinical data viewed by their providers using the VHR portal provided by RHIOs. Providers who are participating in the Regional Health Information Exchange (RHIO).",
+  "condition": [
+    "Health Information Technology",
+    "Health Information Exchange",
+    "Virtual Health Record",
+    "Health Care Utilization"
+  ],
+  "overall_status": "COMPLETED"
+}

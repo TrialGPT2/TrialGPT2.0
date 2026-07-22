@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02360540",
+  "title": "PERCEPIC: PERC Rule Combined With Implicit Low Clinical Probability",
+  "brief_summary": "PERC rule was created to rule out pulmonary embolism (PE) without further exams, with residual PE risk \\<2%. Its safety is currently confirmed in low PE prevalence populations as north-American. In European high PE prevalence population, it has been showed that PERC rule used alone or associated with low clinical probability assessed by revised Geneva score (RGS) was not safe. In retrospective study, we suggest that the combination of PERC rule with implicit clinical probability (gestalt) could allow the use of the PERC rule.\n\nPERCEPIC, an observational prospective multicenter study performed in France and Belgium, will test this hypothesis. Therefore, 3000 patients will be included in 12 centers. Primary outcome will be the rate of thromboembolic events or death related or possibly related to PE in patients with low implicit clinical probability and negative PERC rule (8 criteria absents). Upper limit of confidence interval of this rate must be equal or lower than 3% to consider PERC rule as safe in this combination.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n\\- Patients admitted to the emergency department for one of the following criteria :\n\n* Dyspnea and/or Thoracic pain without another obvious cause\n* Pulmonary embolism suspicion whatever the reason\n\nExclusion Criteria:\n\n* Age lower than 18\n* Patients hospitalized for more than 48h\n* Ongoing curative anticoagulant therapy for more than 48h before admission\n* Patients with thromboembolic disease diagnosed before the admission\n* Unavailability for follow-up (short life expectancy, no phone number\u2026)\n* Patient refusing to be contacted by phone at 3 month\n* Patient refusing that medical data were collected\n* Secondary exclusion criteria : curative anticoagulant therapy for more than 5 days during the 3 month follow-up for another reason than thromboembolic disease.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients admitted to the emergency department for dyspnea or thoracic pain without another obvious cause or suspected PE",
+  "condition": [
+    "Pulmonary Embolism",
+    "Dyspnea",
+    "Thoracic Pain"
+  ],
+  "overall_status": "COMPLETED"
+}

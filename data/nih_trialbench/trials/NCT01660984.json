@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT01660984",
+  "title": "Natural History Study of Children and Adults With Medullary Thyroid Cancer",
+  "brief_summary": "Background:\n\n\\- Medullary thyroid cancer (MTC) is a rare cancer of the thyroid gland. In children and adults, it is often part of a condition called Multiple Endocrine Neoplasia 2 (MEN2). MEN2 is usually caused by a genetic mutation, and it can cause a number of problems in addition to MTC. These problems include adrenal gland tumors, hormone changes, and problems with the bones and other organs. Not much is known about how MTC develops over time, especially in people with MEN2. Researchers want to study MTC in children and adults and see how it affects their growth and development.\n\nObjectives:\n\n\\- To study how medullary thyroid cancer affects children and adults over time.\n\nEligibility:\n\n\\- Children and adults who have medullary thyroid cancer.\n\nDesign:\n\n* Participants will be screened with a brief physical exam and medical history. Blood and tissue samples will be collected to see whether participants have the MEN2 genetic mutation.\n* Treatment will not be provided as part of this study. However, participants will be receiving standard care for MTC. They may be eligible for other clinical trials at the National Institutes of Health.\n* Participants will have regular study visits every 6 to 12 months to evaluate their MTC and any treatment. Blood tests, imaging studies, and other tests may be performed as needed to monitor the disease.\n* Participants and their parents/guardians will also complete questionnaires about their health and emotions during the study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA FOR PATIENTS:\n* Patients must have histologically or cytologically confirmed MTC, confirmed by the Laboratory of Pathology, NCI OR Confirmation of MEN2A or MEN2B diagnosis, regardless of presence of MTC.\n* Performance Status: Ability to travel to the NIH and to undergo evaluations to be performed on this protocol.\n* Informed Consent: Ability of patient or their legal guardian (if the patient is \\<18 years old) to understand and willing to sign a written informed consent document.\n* Prior and current therapy: For the purpose of this study subjects who have not previously received medical or surgical treatment, patients, who have previously received medical or surgical treatment, and subjects who are currently receiving medical treatment and/or radiation for MEN 2 related manifestation(s) will be eligible. Prior and current treatment for MEN 2 related manifestations will be recorded at trial entry and throughout the study.\n* Patients must have a primary care provider (for example a primary oncologist or endocrinologist) who can provide and coordinate the medical care for the patient.\n\nEXCLUSION CRITERIA FOR PATIENTS:\n\n-In the opinion of the investigator the patient is not able to return for follow-up visits or obtain required follow-up studies.\n\nInclusion Criteria for Parents or Primary Caregivers\n\n* Must be a parent or primary caregiver of a patient (\\< 21) who has a histologically or cytologically confirmed MTC or who have MEN2 (regardless of MTC status).\n* Ability to understand and be willing to sign a written informed consent document.\n\nEXCLUSION CRITERIA FOR PARENTS OR PRIMARY CAREGIVERS: None",
+  "minimum_age": "4 Months",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with histologically or cytologically confirmed MTC, confirmed by the Laboratory of Pathology, NCI, or confirmed MEN2A or MEN2B diagnosis, regardless of presence of MTC. Parents or caregivers of the enrolled patients will also be enrolled.",
+  "condition": [
+    "Medullary Thyroid Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional natural history study enrolling children and adults with medullary thyroid cancer (MTC) or MEN2, regardless of prior therapy. Patients may be treatment-naïve, previously treated, or currently receiving treatment, and all lines of therapy are eligible.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes patients who have not previously received medical or surgical treatment, those who have previously received treatment, and those currently receiving treatment for MEN2-related manifestations. There are no restrictions on prior lines of therapy, and adjuvant-only patients are explicitly eligible."
+    }
+  ]
+}

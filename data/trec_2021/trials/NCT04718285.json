@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04718285",
+  "title": "Investigation the Effect of Montelukast in COVID-19",
+  "brief_summary": "Small molecule inhibitors have previously been investigated in different studies as possible therapeutics in the treatment of SARS-CoV-2. In the current drug repurposing study, the investigators identified the leukotriene (D4) receptor antagonist Montelukast as a novel agent that simultaneously targets two important drug targets of SARS-CoV-2. The investigators initially demonstrated the dual inhibition (main protease and Spike/ACE2) profile of Montelukast through multiscale molecular modeling studies. Next, the investigators characterized its effect on both targets by different in vitro experiments including the Fluorescent Resonance Energy Transfer (FRET)-based main protease enzyme inhibition assay, surface plasmon resonance (SPR) spectroscopy, pseudovirus neutralization on HEK293T / hACE2, and virus neutralization assay using xCELLigence MP real time cell analyzer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Male or female patients aged 18 years and older infected with the SARS-CoV-2 infection\n* Patients with COVID-19 symptoms and have a positive PCR test result\n* Patients in a stable clinical condition and basically in an outpatient condition\n* Patients who sign the informed consent\n\nExclusion Criteria:\n\n* Patients with a partial oxygen pressure \\< 90% and who have required hospitalization\n* Patients who have required intensive care\n* Any condition which, in the opinion of the Principal Investigator, would prevent full participation in and compliance with the trial protocol\n* Patients who have been involved in any other interventional studies\n* Patients with uncontrolled Type I or Type II diabetes mellitus (DM)\n* Patients with severe liver failure (Child Pugh score \u2265 C, AST\\> 5 times the upper limit of normal (ULN)\n* Patients with severe renal failure (GFR \u226430 mL/min/1.73 m2) or continuous dialysis (hemodialysis, peritoneal dialysis) or continuous renal replacement therapy\n* Patients with serious cardiac problems such as heart failure\n* Patients with hypersensitivity to montelukast or other drugs in the study\n* Patients with rare hereditary problems of galactose / fructose intolerance, glucose- galactose malabsorption or sucrase-isomaltase insufficiency\n* Pregnant and lactating women\n* Patients who cannot use sexual abstinence or appropriate contraceptive method during the study\n* Patients who are treated with any other antiviral drugs for COVID-19 in the last 30 days",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "overall_status": "UNKNOWN"
+}

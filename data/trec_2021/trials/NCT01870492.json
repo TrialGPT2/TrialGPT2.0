@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01870492",
+  "title": "Improving Patient Access to Stroke Therapy Study",
+  "brief_summary": "Limited access is a major hurdle in the treatment of AIS; many hospitals, especially rural hospitals, do not have the infrastructure or medical support to effectively treat AIS patients.5 Failure to recognize the signs and symptoms of stroke by the patient and/or emergency medical services (EMS) is another barrier to the timely treatment of AIS. Several studies, including the Paul Coverdell National Acute Stroke Registry (PCNASR), have reported low rates of adherence to stroke care guidelines, suggesting that many AIS patients do not receive proper treatment according to established guidelines. Thus, there remains an increasing need to assess and address the barriers that prevent patient access to proper AIS treatment.\n\nAnnually, approximately 20,000 patients are discharged from Wisconsin hospitals with the diagnosis of stroke and an estimated 4,000 patients die from stroke each year in WI. To date, there have been no statewide studies initiated in Wisconsin to assess the regional barriers to the treatment of AIS patients with thrombolytic or endovascular therapy, and many hospitals do not routinely collect and analyze AIS patient data.\n\nThe goal of the Improving Patient Access to Stroke Therapy (IMPACT) pilot study is to engage community hospitals statewide to identify the regional barriers to AIS therapy in WI.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\> 18 years\n* Clinical diagnosis of acute ischemic stroke or transient ischemic attack (TIA)\n* ICD-9-CM code indicative of stroke or TIA\n\nExclusion Criteria:\n\n* Clinical diagnosis of intracerebral hemorrhage or subarachnoid hemorrhage\n* Stroke or TIA occurred while patient was hospitalized",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients presenting with an acute ischemic stroke (AIS) or transient ischemic attack (TIA) and meet all of the inclusion and none of the exclusion criteria.",
+  "condition": [
+    "Ischemic Stroke",
+    "Transient Ischemic Attack"
+  ],
+  "overall_status": "TERMINATED"
+}

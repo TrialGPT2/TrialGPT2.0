@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01828749",
+  "title": "Pelvic CT Imaging in Blunt Abdominal Trauma",
+  "brief_summary": "Abdominopelvic CT (CTap) utilization rose significantly in blunt trauma patients over the last decade. However, the observed increases failed to reduce mortality or missed injury rates. Several investigators have derived (citation) and validated (citation) clinical decision rules that attempt to identify a subset of low risk pediatric and adult patients in whom abdominopelvic CT imaging can be safely eliminated. Thus far these efforts failed to significantly reduce utilization. The investigators propose an alternative and complimentary strategy to decrease radiation by selectively eliminating the pelvic imaging portion of the abdominopelvic CT in low risk patients. In stable, alert patients without clinically evidence of pelvis or hip fractures, abdominal CT imaging alone (diaphragm to iliac crest) identifies clinically significant intra-abdominal injury (cs-IAI) as accurately as routine abdominopelvic imaging (diaphragm to greater trochanter) and results in a clinically important decrease in radiation exposure. The study will investigate this by comparing the accuracy of an imaging protocol using CT abdomen alone versus CT abdomen and pelvis to detect cs-IAI among stable, blunt trauma patients without suspected pelvis or hip fractures in two age groups: ages 3-17 years and 18-60. Patients will undergo CT imaging as deemed clinically indicated by the treating clinician. Among those who have abdominopelvic CT scans, the study will determine the test characteristics of CT abdomen alone versus CT abdomen plus CT pelvis imaging for the identification of cs-IAI. The reference standard will include initial radiology reports, with structured follow up of indeterminate scans, operative reports, and 7-day medical record review.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. 3-60 years of age evaluated for blunt trauma with a GCS of \\>14\n2. Order of CT abdomen and pelvis imaging\n\nExclusion Criteria:\n\n1. Patients requiring intubation or suspected neurological injury (defined above)\n2. Pregnant patients\n3. Intoxicated patients\n4. Patients with age defined hypotension\n5. Exploratory laparotomy or transfusion during the ED evaluation\n6. Non-verbal patients\n7. Positive FAST exam\n8. Patients with abdominal trauma or surgery in the last month\n9. Victims of sexual assault or non-accidental trauma (NAT)\n10. Patients with known or suspected fractures of the femur or pelvis prior to CT imaging\n11. Patients with hip dislocations",
+  "minimum_age": "3 Years",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "3-60 years of age evaluated for blunt trauma with a GCS of \\>14 Order of CT abdomen and pelvis imaging",
+  "condition": [
+    "Blunt Abdominal Trauma"
+  ],
+  "overall_status": "COMPLETED"
+}

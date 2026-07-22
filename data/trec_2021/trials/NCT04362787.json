@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04362787",
+  "title": "High Pressure Non Invasive Ventilation in Hypercapnic Respiratory Failure",
+  "brief_summary": "High pressure NIV is a pressure limited ventilation, stating IPAP pressure at 20 cmH2O and gradually increasing pressure up to 30 cmH2O according to patient tolerance.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nAll patients admitted in Assiut University Hospital and Assiut Police Hospital with acute hypercapnic respiratory failure due to COPD and Obesity hypoventilation syndrome (OHS) indicated for conventional NIV.\n\nPatients who failed on low pressure NIV will be shifted to high pressure NIV with any of these conditions:\n\n1. PH \\<7.30 or less than admission level.\n2. RR \\> 35b/m or more than admission level.\n3. SpO2 \\< 88%.\n\nExclusion criteria: (4)\n\n1. Age \\<18 years.\n2. Excessive amount of respiratory secretions or weak cough.\n3. Upper airway obstruction.\n4. Recent oral, facial or cranial trauma or surgery.\n5. Sever abdominal distension.\n6. Active upper gastrointestinal bleeding.\n7. Cardiac or respiratory arrest.\n8. PH\\<7.25.\n9. Arterial oxygen tension /fraction of inspired oxygen (PaO2 / FiO2) \\<150mmHg.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who failed on low pressure NIV will be shifted to high pressure NIV with any of these",
+  "condition": [
+    "Acute Hypercapnic Respiratory Failure"
+  ],
+  "overall_status": "UNKNOWN"
+}

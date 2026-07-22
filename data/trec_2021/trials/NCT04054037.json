@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04054037",
+  "title": "A Study of AARC Standards on Diagnosis and Treatment of Patients With HBV-ACLF in China (AARC China Study)",
+  "brief_summary": "The AARC China Study is to establish a widely recognized and harmonized standard of patients with HBV-ACLF in the Asia Pacific region.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Chronic liver disease: Chronic hepatitis B\n* Acute deterioration of liver function: more than one of the below criteria\n\n  1. development of new ascites within 4 weeks or re-emergence of ascites who have previous well controlled ascites (greater than or equal to grade 2 or 3; International ascites club criteria)\n  2. development of hepatic encephalopathy\n  3. development of gastrointestinal hemorrhage\n  4. development of jaundice (serum bilirubin greater than or equal to 3mg/dl)\n  5. development of bacterial infection\n* spontaneous bacteremia: positive blood cultures without a source of infection\n* spontaneous bacterial peritonitis: ascitic fluid polymorphonuclear cells \\>250/\u00b5L\n* lower respiratory tract infections: new pulmonary infiltrate in the presence of: i) at least one respiratory symptom (cough, sputum production, dyspnea, pleuritic pain) with ii) at least one finding on auscultation (rales or crepitation) or one sign of infection (core body temperature \\>38\\_C or less than 36\\_C, shivering, or leukocyte count \\>10,000/mm3 or \\<4,000/mm3) in the absence of antibiotics\n* Clostridium difficile Infection: diarrhea with a positive C. difficile assay\n* bacterial entero-colitis: diarrhea or dysentery with a positive stool culture for Salmonella, Shigella, Yersinia, Campylobacter, or pathogenic E. coli;\n* soft-tissue/skin Infection: fever with cellulitis\n* urinary tract infection (UTI): urine white blood cell \\>15/high-power field with either positive urine gram stain or culture;\n* intra-abdominal infections: diverticulitis, appendicitis, cholangitis, etc.\n* other infections not covered above;\n* fungal infections as a separate category.\n\nExclusion Criteria:\n\n* Patients who do not have chronic liver disease\n* Patients who have hepatocellular carcinoma\n* Patients who admitted for extrahepatic manifestations\n* Patients who have HIV infection\n* Patients who admitted for symptomatic control of chronic liver disease, other than acute deterioration of liver function",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with HBV-related acute-on-chronic liver failure",
+  "condition": [
+    "Acute on Chronic Liver Failure",
+    "HBV"
+  ],
+  "overall_status": "UNKNOWN"
+}

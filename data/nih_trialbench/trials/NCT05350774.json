@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT05350774",
+  "title": "Immunotherapy for Neurological Post-Acute Sequelae of SARS-CoV-2",
+  "brief_summary": "Background:\n\nCOVID-19 can cause problems in different parts of the body. For most people, it causes fevers or trouble breathing. Some people might not recover all the way. Researchers want to see if a treatment can help with people who have recovered from COVID-19 but still have symptoms (\"Long COVID\").\n\nObjective:\n\nTo learn if human immunoglobulin (IVIG) will help with neurological symptoms of Long COVID.\n\nEligibility:\n\nAdults ages 18 and older who had COVID-19 at least 12 weeks ago and have ongoing neurologic symptoms, such as dizziness, trouble walking, or problems with strength.\n\nDesign:\n\nParticipants will be screened with a medical record review.\n\nParticipants will have a medical history and a physical exam and complete questionnaires about their health and quality of life. They will have a spinal tap. They will give blood samples. They will discuss their symptoms with a neurologist and have a neurological exam.\n\nParticipants will take memory and thinking tests using a tablet. The tests will take 1 hour to complete. They will also take a smell and taste test. It will take approximately 30 minutes to complete.\n\nParticipants will lie on a table that tilts for up to 40 minutes. Their blood pressure and heart rate will be monitored. Blood will be taken through an intravenous (IV) catheter.\n\nParticipants will receive either IVIG, or saline by IV for 5 days. Then the participants will receive IVIG if they first received saline or saline if they first received IVIG by IV for another 5 days. They will not know what they receive.\n\nParticipants will have an MRI of the brain if they have not had one recently. They will receive a contrast agent by IV as part of the MRI scan.\n\nParticipants will be on the study for up to 4 months. They will have follow-up visits at the clinical center as well as fill out questionnaires at home. They may be asked to continue follow-up....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Stated willingness to comply with all study procedures and availability for the duration of the study.\n* Male or female, aged at least 18 and older.\n* Meets the inclusion/exclusion criteria and is enrolled in Phase A of Protocol 000089 \"Post-Coronavirus Disease 19 Convalescence at the National Institutes of Health.\"\n* Previously diagnosed with mild-moderate COVID-19 (WHO Clinical Progression Scale between 2-5. Patients with severe acute COVID-19 requiring hospitalization or ICU care are excluded. Enrollment could take place 12 weeks after the diagnosis of acute COVID-19.\n* Prior COVID-19 diagnosis confirmed by patient reported infection followed by confirmatory nucleocapsid antibody testing or a positive SARS-CoV-2 PCR test result from the time of infection.\n* Exhibiting persistent neurologic symptoms evidenced by a self-reported illness narrative of the development of persistent PASC symptoms after recovering from a SARS-CoV-2 infection. These include symptoms such as fatigue, cognitive difficulties, orthostatic intolerance, and any ongoing issues with gait instability, vision, speech, swallowing, sensation or strength.\n* Non-negligible PASC symptom severity, as determined using PCFS (minimal score of 2).\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n* Prior completion of a clinical brain MRI after the diagnosis of COVID-19, or willingness to complete a brain MRI.\n* Meets current Clinical Center HES' policy for discontinuing isolation and quarantine for COVID-19.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n\\- For participants who have not completed a brain MRI since onset of symptoms: inability to complete brain MRI with gadolinium including contraindicated metal in the body, prior allergic reaction to gadolinium, eGFR \\<45 mmol/L, pregnancy or lactation, or claustrophobia that is unable to be adequately treated with a low dose oral\n\nbenzodiazepine.\n\n* Contraindication to a research lumbar puncture, including use of anticoagulant medication, platelets \\< 50,000/uL, PT or PTT \\>1.5 x ULN for the NIH Clinical Center, or otherwise inability to complete the procedure.\n* A condition that would significantly confound interpretation of the clinical and research tests as determined by the study investigators. This could include: traumatic brain injury, substance use disorder, active malignancy, systemic immunologic disorders, current or previous long-term immune suppressive therapy.\n* Received a SARS-CoV-2 vaccine dose within less than 4 weeks of enrollment or is planning for any additional vaccines during the course of the study.\n* Prior experimental treatment for PASC with immunoglobulins.\n* Current medications include oral steroids or other immunosuppressive medications.\n* Active participation in a clinical protocol which includes any intervention that may affect the results of the current study.\n* Contraindication of intravenous immunoglobulins, including:\n\n  * Renal insufficiency (eGFR\\<45mmol/L)\n  * IgA deficiency\n  * History of ischemic heart disease\n  * Peripheral vascular disease\n  * Cerebrovascular disease\n  * Previously diagnosed hypercoagulability syndrome including antiphospholipid antibody syndrome, Protein C/S deficiency, Factor V Leiden, Antithrombin deficiency, MTHFR homozygosity\n* Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) greater than 3.0 times the upper limit of normal.precluding the use of acetaminophen.\n* Previously documented anaphylaxis or severe systemic reaction to immunoglobulins, acetaminophen, or diphenhydramine.\n* A severe psychiatric condition, which based on the assessment of the study investigators, will impact the ability to complete the 12-week study course.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Systemic Inflammation",
+    "Neuroinflammation",
+    "Microvascular Thrombosis"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This trial does not involve cancer or systemic therapy for advanced/metastatic disease; it is a study of IVIG for neurological symptoms of Long COVID. There is no line-of-therapy intent relevant to oncology.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This is a non-oncology trial for Long COVID; there is no mention of systemic therapy for advanced/metastatic disease or any cancer-related line-of-therapy criteria."
+    }
+  ]
+}

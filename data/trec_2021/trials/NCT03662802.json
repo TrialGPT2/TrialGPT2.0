@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03662802",
+  "title": "Development of a Novel Convolution Neural Network for Arrhythmia Classification",
+  "brief_summary": "Identifying the correct arrhythmia at the time of a clinic event including cardiac arrest is of high priority to patients, healthcare organizations, and to public health. Recent developments in artificial intelligence and machine learning are providing new opportunities to rapidly and accurately diagnose cardiac arrhythmias and for how new mobile health and cardiac telemetry devices are used in patient care. The current investigation aims to validate a new artificial intelligence statistical approach called 'convolution neural network classifier' and its performance to different arrhythmias diagnosed on 12-lead ECGs and single-lead Holter/event monitoring. These arrhythmias include; atrial fibrillation, supraventricular tachycardia, AV-block, asystole, ventricular tachycardia and ventricular fibrillation, and will be benchmarked to the American Heart Association performance criteria (95% one-sided confidence interval of 67-92% based on arrhythmia type). In order to do so, the study approach is to create a large ECG database of de-identified raw ECG data, and to train the neural network on the ECG data in order to improve the diagnostic accuracy.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* All ECG data compiled from 12-lead ECG, single, and multiple lead databases\n\nExclusion Criteria:\n\n* None",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals undergoing a 12-lead ECG or Holter/Event monitoring",
+  "condition": [
+    "Arrhythmias, Cardiac",
+    "Cardiac Arrest",
+    "Cardiac Arrythmias"
+  ],
+  "overall_status": "COMPLETED"
+}

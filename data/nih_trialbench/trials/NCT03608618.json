@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT03608618",
+  "title": "Intraperitoneal MCY-M11 (Mesothelin-targeting CAR) for Treatment of Advanced Ovarian Cancer and Peritoneal Mesothelioma",
+  "brief_summary": "This is a phase 1 dose escalation study to characterize the feasibility, safety and tolerability of MCY-M11 when administered as an intraperitoneal (IP) infusion for 3 weekly doses for women with platinum resistant high grade serous adenocarcinoma of the ovary, primary peritoneum, or fallopian tube, and subjects with peritoneal mesothelioma with recurrence after prior chemotherapy. The study will also assess multiple cycles of treatment and adding preconditioning with cyclophosphamide.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Be able to undergo peripheral blood leukapheresis; have successful placement of an intraperitoneal catheter\n* Be diagnosed with one of the following: metastatic or unresectable high grade serous adenocarcinoma involving the ovary, primary peritoneum, or fallopian tube with peritoneal involvement, not including mixed histologies, OR unresectable epithelioid or biphasic peritoneal mesothelioma\n* Be at least 4 weeks from previous anti-cancer therapy\n* Have a life expectancy of greater than 3 months.\n\nExclusion Criteria:\n\n* Females who are pregnant, trying to become pregnant, or breastfeeding\n* Diagnosis of HIV or chronic active Hepatitis B or C\n* Symptomatic or uncontrolled brain metastases requiring current treatment\n* Impaired cardiac function or clinically significant cardiac disease\n* Lack of recovery of prior mild adverse events due to earlier therapies\n* Active infection\n* Another previous or current malignancy within the last 3 years, with exceptions\n* Concomitant chronic use of steroids or NSAIDs\n* Concomitant use of complementary or alternative medication or therapy\n* Autoimmune disease or inflammatory disease within previous 5 years",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Peritoneal Mesothelioma",
+    "Fallopian Tube Adenocarcinoma",
+    "Adenocarcinoma of the Ovary",
+    "Primary Peritoneal Carcinoma"
+  ],
+  "overall_status": "TERMINATED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with advanced ovarian cancer or peritoneal mesothelioma who have disease recurrence after prior chemotherapy or are platinum-resistant. All patients must have received at least one prior line of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Eligibility requires platinum-resistant high grade serous adenocarcinoma or peritoneal mesothelioma with recurrence after prior chemotherapy, indicating at least one prior systemic regimen for advanced disease. Patients who have only received adjuvant therapy are not eligible, as recurrence after chemotherapy is required."
+    }
+  ]
+}

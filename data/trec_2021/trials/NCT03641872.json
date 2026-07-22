@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03641872",
+  "title": "A Validation Cohort for ACLF Diagnosis and Prognosis",
+  "brief_summary": "Acute on chronic liver failure (ACLF) is a distinct entity encompassing the acute deterioration of liver function, culminating in multiple organs failure and high short-term mortality. Definitions and descriptions of ACLF vary between Western and Eastern types, and alcoholism and hepatitis B virus (HBV) are the main etiologies, respectively. To determine whether there are unified diagnostic criteria, severity classification and prognostic model for different etiologies of ACLF. Investigators had launched a multicenter prospective cohort with the same inclusion criteria and disease indicators as those used in the European CANONIC (Chronic liver failure-ACLF in Cirrhosis) study in China\uff0cthe Ch-CANONIC study(NCT02457637). From Jan 2015 to Dec 2016, 2,600 inpatients with chronic liver disease complicated with ALI and/or AD were recruited. Data were collected during a 28-day hospitalization and continuous follow-ups were performed once a month until 36 months after hospitalization (at least 18 months up to now). Of these patients, 71.5% had HBV-related disease, 1833 had cirrhotic disease, and 767 had non-cirrhotic disease diagnosed by CT scan.\n\nDue to the lack of pathological gold standards, the diagnosis of ACLF is based on the clinical assessment of short-term mortality from organ functional parameters. In subsequent statistics and data analysis, investigators focused on (but not limit in) the relationship between short-term mortality and 6 parameters (bilirubin, INR, Creatinine, SpO2/FiO2, mean arterial pressure and West-Haven grade) from CLIF-C OFs (Chronic liver failure-Consortium Organ Failure score). And then a specific mathematical model has been constructed to obtain the available organ failure cutoff values. Subsequently, investigators carried out a diagnostical criteria for ACLF based on the results obtained from the model and get a good internal-validation result through risk ratio. Meanwhile, investigators conducted a precise prediction model for patients' prognosis and achieved a good predictive effect with consistency by AUC internal-validation. In addition, investigators summarized the course and some characteristics of ACLF.\n\nTherefore, investigators hope to launch another prospective multi-center cohort study with the same inclusion and exclusion criteria, and continue to recruit 800 to 900 patients (about 30% of the previous cohort) as the external validation cohort for the preliminary results mentioned above.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* inpatient (hospitalization \\>1 days)(including patient in emergency observation wards)chronic liver disease patients including non-alcoholic fatty liver disease patients,chronic liver hepatitis patients without cirrhosis, compensated cirrhosis patients and decompensated cirrhosis patients\n* having acute liver injury \\[ALT(alanine aminotransferase)\\>3ULN,AST(aspartate aminotransferase)\\>3ULN or TB(total bilirubin)\\>2 ULN within 1 week before enrollment\\] or acute decompensation\\[having ascites, hepatic encephalopathy, bacterial infection ,gastrointestinal bleeding or jaundice(TB\\>5NL)within 1 month before enrollment\\].\n\nExclusion Criteria:\n\n* pregnancy\n* hepatocellular carcinoma or other liver malignancies\n* malignancy of other organs\n* severe chronic extrahepatic disease including chronic obstructive pulmonary disease combined with respiratory failure, coronary heart disease with cardiac function level 3 (NYHA), myocardial infarction in the 3 months before admission, diabetes with severe complications and chronic kidney disease with end-stage renal failure receiving immunosuppressive drugs for reasons other than chronic liver disease",
+  "minimum_age": "15 Years",
+  "maximum_age": "79 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "chronic liver disease patients\uff08with liver dysfunction more than 6 months\uff09 with acute liver injury\\[with ALT\\>3 ULN),AST\\>3NL or TB\\>2 ULN within 1 week before enrollment\\] or acute decompensation\\[having ascites, hepatic encephalopathy, bacterial infection ,gastrointestinal bleeding or jaundice(TB \\> 5ULN)within 1 month before enrollment\\].",
+  "condition": [
+    "Liver Failure, Acute on Chronic",
+    "Liver Dysfunction"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00359684",
+  "title": "Use of Cysteamine in the Treatment of Cystinosis",
+  "brief_summary": "Cystinosis is an inherited disease resulting in poor growth and kidney failure. There is no known cure for cystinosis, although kidney transplantation may help the renal failure and prolong survival. Both the kidney damage and growth failure are thought to be due to the accumulation of the amino acid cystine within the cells of the body. The cystine storage later damages other organs besides the kidneys, including the thyroid gland, pancreas, eyes, and muscle.\n\nThe drug cysteamine (Cystagon; ProCysBi) is an oral medication given to patients with cystinosis prior to kidney transplantation. The drug works by reducing the level of cystine in the white blood cells and muscle tissue. The drug may also decrease levels of cystine in the kidneys and other tissues.\n\nThis study has several goals:\n\n1. Long-term surveillance of cysteamine treated patients.\n2. Detection of new non-kidney complications of cystinosis.\n3. Maintenance of a patient population for genetic testing (mutational analysis) of the cystinosis gene.\\<TAB\\>\n\n   ...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nDiagnosis of cystinosis, whether classical or one of the variants with later onset or no renal complications.\n\nPatients will be diagnosed as having cystinosis based upon a leucocyte cystine content greater than 1 nmol half-cystine/mg protein (normal, less than 0.2) and a typical clinical course.\n\nEXCLUSION CRITERIA:\n\nInability to travel to the NIH.\n\nAge less than one week.\n\nNonviable neonates and neonates of uncertain viability will be excluded.",
+  "minimum_age": "1 Week",
+  "maximum_age": "115 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with a diagnosis of cystinosis",
+  "condition": [
+    "Cystinosis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with cystinosis to receive cysteamine, regardless of prior systemic therapy. There are no requirements or restrictions regarding prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy or lines of therapy for advanced disease. Patients are included based on diagnosis of cystinosis, with no reference to prior treatments. Therefore, line-of-therapy intent cannot be determined from the available information."
+    }
+  ]
+}

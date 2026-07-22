@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00001721",
+  "title": "Study of Smith-Lemli-Opitz Syndrome",
+  "brief_summary": "Smith-Lemli-Opitz Syndrome (SLOS) is a genetic disorder (autosomal recessive) caused by an abnormality in the production of cholesterol. The disorder can occur in both a \"mild\" or \"severe\" form. SLOS is associated with multiple birth defects and mental retardation. Some of the birth defects include; abnormal facial features, poor muscle tone, poor growth, shortened life span, and abnormalities of the heart, lungs, brain, gastrointestinal tract, limbs, genitalia, and kidneys.\n\nThere is no known cure for SLOS but recently patients have been treated with increased amounts of cholesterol in their diet. The cholesterol in a persons diet is unable to correct the abnormalities in the patient's organs, but researchers hope it will improve growth failure and mental retardation.\n\nThis study was developed to answer questions about the causes and complications of SLOS, as well as the effectiveness of cholesterol treatment. The study will enroll patients diagnosed with SLOS, and their mothers. The objectives of the study will be to address the following questions:\n\n1. \\<TAB\\> What is the prognosis / natural history of the demyelination in the nervous system of patients with SLOS?\n2. \\<TAB\\> Do patients with SLOS have other problems concerning the function of their endocrine systems?\n3. \\<TAB\\>What are the genetic make-ups of patients with SLOS?\n4. \\<TAB\\>Can further studies of cholesterol metabolism and genetic testing, using SLOS fibroblasts, increase the understanding of SLOS?\\<TAB\\>",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Any patient with biochemically confirmed SLOS will be accepted into this study. Patients of any age, either gender, or any ethnicity will be accepted into this study. No exclusions will be made based on race or gender. Historically, more males than females have been diagnosed as having SLOS. This bias was likely a result of the fact that genital hypoplasia is readily apparent in a male, and therefore the clinical diagnosis is easier to make in a male patient. SLOS syndrome appears more commonly in individuals of Northern European ancestry. Out of 150 biochemically proven cases, only one was an African American and no patients of Asian descent were reported. One SLOS mutant allele (R404C) appears to be present in individuals of French Canadian and Creole heritage. This likely represents a founder effect. One puzzling finding is that the carrier rate of the most common SLOS mutant allele in Black Canadians from Ontario and African Americans from Pennsylvania appears to be approximately 0.7%. However, clinical cases appear to be rare. The predominance of Caucasians reported in the literature may represent a bias of ascertainment of the disorder, variable presentation in different ethnic groups, or a founder effect in some ethnic groups. Because we function as a referral center with respect to recruitment, the ethnic background of our population is likely going to reflect the overall population of diagnosed cases.\n\nEXCLUSION CRITERIA:\n\n* Patients will be excluded if they cannot travel to the NIH because of their medical condition.\n* Pregnant women will be excluded, and a negative urine pregnancy test will be required of menstruating women. This protocol focuses on biosampling. Increasing blood draws during pregnancy for research is not appropriate. Fetuses will be excluded since the proposed evaluations are not possible during fetal life.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals with SLOS and other cholesterol disorders.",
+  "condition": [
+    "Smith-Lemli-Opitz Syndrome"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a natural history and biosampling study enrolling all patients with biochemically confirmed Smith-Lemli-Opitz Syndrome (SLOS), regardless of prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based solely on a biochemical diagnosis of SLOS, with no mention of prior systemic therapy for advanced disease. There are no criteria regarding prior lines of therapy, so line-of-therapy intent cannot be determined."
+    }
+  ]
+}

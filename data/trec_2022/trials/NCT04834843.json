@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04834843",
+  "title": "Temporal Trends of COronary Artery Disease and PEripheral Artery Disease (COPE) in Korea",
+  "brief_summary": "Cardiovascular disease (CVD) is caused by atherosclerosis of the artery and is classified into coronary artery disease, cerebrovascular disease, and peripheral arterial disease, depending on the location of the artery and the target organs. However, since CVD share a similar pathophysiology and the probability of incidence of other CVD in CVD patients is very high. It is thought that CVD incidence and mortality can be reduced by predicting the degree of incidence of other CVD in CVD patients. The aim of this study is to investigate the incidence and mortality of other CVD diseases in CVD patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Koreans who diagnosed with coronary artery disease between 2009 and 2018\n* Koreans who diagnosed with peripheral artery disease between 2009 and 2018\n* Koreans who diagnosed with cerebrovascular disease between 2009 and 2018\n* more than 18 years old\n\nExclusion Criteria:\n\n* less than 18 years old",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "People aged at least 18 years old with CAD, PAD, or cerebrovascular disease were identified from Korean national health insurance using International Classification of Diseases, tenth revision (ICD-10) codes.",
+  "condition": [
+    "Coronary Artery Disease",
+    "Peripheral Artery Disease",
+    "Cardiovascular Diseases"
+  ],
+  "overall_status": "COMPLETED"
+}

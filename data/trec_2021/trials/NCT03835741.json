@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT03835741",
+  "title": "Automated Adjustment of Oxygen on Patient With Acute COPD Exacerbation - FreeO2 HypHop",
+  "brief_summary": "The aim of this study is to evaluate if automated adjustment of oxygen (with FreeO2 device) can reduce the hospital length of stay for acute exacerbation of COPD with comparison of manual oxygen titration.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* COPD or suspected COPD ( Age\\>40, active or smoking history \\> 10pack/years), -\n* Acute exacerbation (increasing dyspnea recently)\n* One or more of the following criteria: increased sputum, modification of sputum purulence,increased dyspnea,\n* Moderate oxygen therapy: Oxygen flow \\< 8 lpm (or FiO2 \\< 0.60) to maintain a SpO2 \\>or = 92% (for long term oxygen therapy, the oxygen flow must be greater than baseline flow to maintain SpO2 \\> or = 92%)\n\nExclusion Criteria:\n\n* Patient refusal\n* COPD exacerbation with diagnosis highly related to pulmonary embolism, cardiac pulmonary edema, pneumothorax or sedative overdose\n* No SpO2 signal\n* Encephalopathy score \\> 2\n* Delirium\n* Other respiratory support needed (intubation or NIV)\n* Patient on withdrawal life support\n* Advance neoplasia (palliative stage) or terminal respiratory distress\n* Unavailability of FreeO2 device at the randomisation\n* Non optimal patient collaboration",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Oxygen Toxicity",
+    "COPD Exacerbation",
+    "Hyperoxia",
+    "Hypoxemia",
+    "Hypoxic Respiratory Failure"
+  ],
+  "overall_status": "TERMINATED"
+}

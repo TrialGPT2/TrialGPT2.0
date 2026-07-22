@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03098355",
+  "title": "Interleukin-2 Following 4SCAR19/22 T Cells Targeting Refractory and/or Recurrent B Cell Malignancies",
+  "brief_summary": "Clinical studies of CD19 CAR-T cells in the treatment of blood and lymphatic system tumors have achieved unprecedented successes. Because of the heterogeneity of the tumor, patients often carry CD19-negative tumor cell clones that express alternative target antigens (such as CD22, CD20 and CD123). In order to effectively eradicate all tumor clones and prevent recurrence, alternative tumor antigens besides CD19 are considered for CAR-T cell targeting. In this tudy, autologous T cells are genetically modified with 4th generation anti-CD19 and anti-CD22 CARs (4SCAR19/22) using lentiviral vectors. For safety consideration, the 4SCAR is engineered with an inducible caspase 9 self-withdrawal genetic design that allows for rapid elimination of the infused CAR-T cells. Interleukin-2 has been shown to boost immune response against leukemia cells. The serum interleukin-6 level will be monitored and when it returns to normal range by day 28 after CAR-T cell infusion, patients will receive subcutaneous injection of interleukin-2, and evaluated for 24 months for safety, efficacy and persistence of CAR T cells.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Relapsed or refractory CD19+ B-cell lymphoma or leukemia.\n2. Measurable disease.\n3. Karnofsky/jansky score of 60% or greater.\n4. \u22651 years old and \u226414 years.\n5. Fertile females/males.\n6. Expected survival\\>12 weeks.\n7. Histologically confirmed as CD19/20-positive ALL/NHL and who meet one of the following conditions:\n\n   1. Patients receive at least 2-4 prior combination chemotherapy regimens (not including single agent monoclonal antibody therapy) and fail to achieve CR.\n   2. Recurrent disease and not eligible for allogeneic stem cell transplantation, and stable disease after therapy but refused further treatment.\n   3. Disease recurrence after stem cell transplantation.\n   4. Diagnosis as lymphoma, and refuse conventional treatment such as chemotherapy, radiation, stem cell transplantation and monoclonal antibody therapy.\n8. Creatinine \\< 2.5 mg/dl.\n9. Alanine transaminase (ALT) \\<3x upper limit of normal (ULN), aspartate aminotransferase (AST) \\<3x ULN.\n10. Bilirubin \\< 2.0 mg/dl.\n11. Adequate venous access for apheresis, and no other contraindications for leukapheresis.\n12. Take contraceptive measures before recruit to this trial.\n13. Written voluntary informed consent is given.\n\nExclusion Criteria:\n\n1. A history of mental illness and poorly controlled.\n2. Patients with symptoms of central nervous system.\n3. Suffering severe cardiovascular or respiratory disease.\n4. Accompanied by other malignant tumor.\n5. Known human immunodeficiency virus (HIV) infection.\n6. Active and/or severe infection (e.g. tuberculosis, sepsis and opportunistic infections, active hepatitis B virus (HBV) or active hepatitis C virus (HCV) infection).\n7. Other serious underlying medical conditions, which, in the Investigator's judgment, could impair the ability of the patient.\n8. Taking immunosuppressive agents within 1 week due to organ transplantation or other disease which need long-lasting administration.\n9. Patients that do not consent to tissue and blood sample collection and storage in a biobank.\n10. Female study participants of reproductive potential must have a negative serum or urine pregnancy test performed 48 hours before infusion.\n11. Pregnancy and nursing females.",
+  "minimum_age": "1 Year",
+  "maximum_age": "14 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "B-Cell Leukemia",
+    "B-Cell Lymphoma"
+  ],
+  "overall_status": "WITHDRAWN"
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02177669",
+  "title": "Test-Retest Variability of Quick Contrast Sensitivity Function Testing",
+  "brief_summary": "The contrast sensitivity function (CSF) provides a comprehensive characterization of spatial vision and predicts functional vision better than visual acuity, but long testing times prevent its psychophysical assessment in clinical applications. Dr. Luis Lesmes et al. (2010) developed the qCSF method to obtain precise CSF measurements in only 30-50 trials using a computerized software program that presents letters on a large monitor that are identified by a patient similar to typical visual acuity testing with an eye chart. The quick CSF method is a Bayesian adaptive method that estimates the full shape of the CSF, and the test duration is only about 3-6 minutes. Some preliminary testing has been performed at other sites with this test in patients with vision loss due to amblyopia and glaucoma, but data from individuals without eye disease who have normal visual acuity has not been systematically collected with the latest version of this test procedure across a wide range of ages. In addition, we aim to gain a better understanding of the typical test-retest variability that is obtained between-sessions that are about a week apart from individuals with good ocular health and visual acuity.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Ages 20-89\n* Normal distance visual acuity in each of both eyes (20/20)\n* Absence of ocular disease\n* Able and willing to complete contrast sensitivity testing\n* Provide informed consent\n\nExclusion Criteria:\n\n* Any ocular disease\n* Refractive errors \\>6D\n* Inability to understand study or communicate responses (cognitive impairment)\n* Unable to understand, read and speak English fluently",
+  "minimum_age": "20 Years",
+  "maximum_age": "89 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals between the ages of 20-89 without ocular disease will be recruited from among patients seen in the Primary Eye Care Clinic at the Nova Southeastern University's The Eye Care Institute in Davie-Ft. Lauderdale, FL, as well as faculty, students and staff at this institution.",
+  "condition": [
+    "Healthy"
+  ],
+  "overall_status": "COMPLETED"
+}

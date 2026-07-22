@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03013166",
+  "title": "THIN Database Study: Resource Use and Outcomes in Patients With Adrenal Insufficiency Prescribed Hydrocortisone: Immediate, or Modified Release, or Prednisolone",
+  "brief_summary": "To describe clinical outcomes and both primary and secondary care health care resource use in patients who have been prescribed either immediate-release (IR) hydrocortisone or modified-release (MR) hydrocortisone or prednisolone in the UK.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Cohort 1 (IR hydrocortisone): All patients with a Read code for AI and a prescription of IR hydrocortisone between 2010 and data extraction but no prescription for MR hydrocortisone at any time during this period, and no earlier prescription for IR prednisolone during this period\n2. Cohort 2 (IR prednisolone): All patients with a Read code for AI and a prescription of IR prednisolone between 2010 and data extraction but no prescription for MR prednisolone at any time during this period, and no earlier prescription for IR prednisolone during this period\n3. Cohort 3a (MR Hydrocortisone): All patients with a Read code for AI and a prescription of MR hydrocortisone between 2010 and data extraction\n4. Cohort 3b (IR to MR hydrocortisone): A sub-set of patients from cohort 3a, who have switched from IR to MR hydrocortisone.\n5. A list of pre-defined READ codes will be used to identify all patients with primary or secondary AI or CAH in the THIN database.\n\nExclusion Criteria:\n\n1)Patients who have not received a prescription of hydrocortisone or prednisolone in the past five years will be excluded as the aim of the study is to describe recent experience.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients in the THIN database who have a Read code for AI and have been prescribed either IR hydrocortisone or prednisolone or MR hydrocortisone (plenadren) between 2010 and the date of data extraction will be included",
+  "condition": [
+    "Adrenal Insufficiency"
+  ],
+  "overall_status": "COMPLETED"
+}

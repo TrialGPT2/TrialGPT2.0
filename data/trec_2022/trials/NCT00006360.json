@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00006360",
+  "title": "Radiation Therapy in Treating Patients With Stage II or Stage III Oropharyngeal Cancer",
+  "brief_summary": "RATIONALE: Radiation therapy uses high-energy x-rays to damage tumor cells.\n\nPURPOSE: Phase I/II trial to study the effectiveness of radiation therapy in treating patients who have stage II or stage III oropharyngeal cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically proven stage II or III (T1-T2, N0-N1) squamous cell carcinoma of the oropharynx (tonsil, base of tongue, or palate)\n\n  * Lymph nodes in both sides of neck at risk of metastatic disease and require radiotherapy\n  * Patients upstaged by imaging to N2 are eligible\n* Measurable or evaluable disease\n\n  * Greater than 1 cm in one dimension or with necrotic regions if by CT or MRI scan\n* Surgery of the primary tumor or lymph nodes limited to incisional or excisional biopsies\n* No distant metastases\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* Over 18\n\nPerformance status:\n\n* Zubrod 0-1\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* Not specified\n\nHepatic:\n\n* Not specified\n\nRenal:\n\n* Not specified\n\nOther:\n\n* No active untreated infection\n* No other malignancy within the past 5 years except nonmelanoma skin cancer or a carcinoma not of head or neck origin\n* No concurrent major medical or psychiatric illness that would preclude study\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* More than 3 months since prior chemotherapy\n* No concurrent chemotherapy\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* No prior head or neck radiotherapy\n\nSurgery:\n\n* See Disease Characteristics\n\nOther:\n\n* No other concurrent treatment for head and neck cancer\n* No prophylactic amifostine or pilocarpine",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Head and Neck Cancer",
+    "Radiation Toxicity"
+  ],
+  "overall_status": "COMPLETED"
+}

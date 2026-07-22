@@ -1,0 +1,29 @@
+{
+  "nctid": "NCT01101451",
+  "title": "Radiation Therapy With or Without Chemotherapy in Patients With Stage I-IIA Cervical Cancer Who Previously Underwent Surgery",
+  "brief_summary": "This randomized phase III trial studies radiation therapy with chemotherapy to see how well they work compared to radiation therapy alone in treating patients with stage I-IIA cervical cancer who previously underwent surgery. Radiation therapy uses high-energy x-rays to kill tumor cells. Drugs used in chemotherapy, such as cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. It is not yet known whether giving radiation therapy together with chemotherapy is more effective than radiation therapy alone in treating patients with cervical cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Pathologically proven primary cervical cancer I-IIA with squamous cell carcinoma, adenosquamous carcinoma or adenocarcinoma initially treated with a standard radical hysterectomy with pelvic lymphadenectomy\n* Patients with the following characteristics (depth of stromal invasion and lymphovascular space involvement to be pathologically confirmed):\n\n  * Positive capillary-lymphovascular space involvement and one of the following:\n\n    * Deep third penetration\n    * Middle third penetration, clinical tumor \\>= 2 cm\n    * Superficial third penetration, clinical tumor \\>= 5 cm\n  * Negative capillary-lymphatic space involvement\n\n    * Middle or deep third penetration, clinical tumor \\>= 4 cm\n* Absolute neutrophil count (ANC) \\>= 1,500/mcl\n* Platelets \\>= 100,000/mcl\n* Creatinine =\\< upper limit of normal (ULN) or calculated creatinine clearance \\>= 60 mL/min\n* Bilirubin =\\< 1.5 x normal\n* Alkaline phosphate =\\< 3 x normal\n* Serum glutamic oxaloacetic transaminase (SGOT) =\\< 3 x normal\n* Gynecologic Oncology Group (GOG) performance status 0, 1, 2\n* Patients should not be randomized less than 3 weeks post-surgery but will not be acceptable for randomization more than 8 weeks post-surgery\n* Patients who have met the pre-entry requirements\n* Patients must have signed an approved informed consent and authorization permitting release of personal health information\n\nExclusion Criteria:\n\n* Patients with tumor in the parametria, pelvic lymph nodes or any other extra uterine site or with positive surgical margins\n* Patients with septicemia or severe infection\n* Patients with intestinal obstruction or gastrointestinal bleeding\n* Patients with postoperative fistula\n* Patients with cervix cancer who have received any previous radiation or chemotherapy\n* Patients whose circumstances do not permit completion of the study or the required follow-up\n* Patients with renal abnormalities requiring modification of radiation field (pelvic kidney, renal transplant, etc.)\n* Patients with GOG performance status of 3 or 4\n* Patients with a history of other invasive malignancies, with the exception of non-melanoma skin cancer, are excluded if there is any evidence of other malignancy being present within the last five years; patients are also excluded if their previous cancer treatment contraindicates this protocol therapy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Cervical Adenocarcinoma",
+    "Cervical Adenosquamous Carcinoma",
+    "Cervical Squamous Cell Carcinoma, Not Otherwise Specified",
+    "Stage I Cervical Cancer AJCC v6 and v7",
+    "Stage IA Cervical Cancer AJCC v6 and v7",
+    "Stage IB Cervical Cancer AJCC v6 and v7",
+    "Stage IIA Cervical Cancer AJCC v7"
+  ],
+  "overall_status": "COMPLETED"
+}

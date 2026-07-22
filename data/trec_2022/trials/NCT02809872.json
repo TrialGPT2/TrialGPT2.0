@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02809872",
+  "title": "Ultrasound Estimation of Pleural Effusion in the Sitting Patients",
+  "brief_summary": "The aim of this study is the feasibility assessment of a simple and affordable model for the quantification of Pleural Effusion through thoracic Ultra Sounds images. Two US scans will be performed to measure: the height of Pleural Effusion column (hPEUS) and the area of the effusion in correspondence of the midline of hPEUS (aPEUS). The proposed model will estimate the Pleural effusion volume (PEVUS) by multiplying hPEUS and aPEUS. PEVUS will be compared with volumes estimated by CT scans (PEVCT), obtained within 24h from the US examination.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Monolateral or Bilateral Pleural Effusion (any cause)\n* Able to achieve a sitting position\n* Chest CT scan within 24 hours available\n* Informed consent available\n\nExclusion Criteria:\n\n* No informed consent available\n* Age under 18\n* No recent Chest CT scan available\n* Unable to keep the sitting position",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "People with pleural effusion",
+  "condition": [
+    "Pleural Effusion Disorder",
+    "Thoracic Ultrasound"
+  ],
+  "overall_status": "UNKNOWN"
+}

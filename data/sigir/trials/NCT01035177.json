@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01035177",
+  "title": "In Vivo Hip Fracture Discrimination With Quantitative Computed Tomography (QCT)",
+  "brief_summary": "Numerous geometric and bone mineral density (BMD) parameters can be derived from quantitative computed tomography (QCT) images of the proximal femur analyzed using dedicated software. The primary objective is to evaluate the contribution of QCT-image analysis to the prediction of the osteoporotic hip fracture risk, as compared to the reference standard, namely, dual energy X-ray absorptiometry (DXA).\n\nStudy hypothesis: For predicting osteoporotic hip fracture, findings from QCT images of the proximal femur analyzed using dedicated software are superior over DXA measurements of proximal femoral BMD.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion criteria:\n\nSelection of cases: women with hip fracture\n\n* woman aged 60 years and more\n* clinical suspicion of osteoporosis based on the following: trivial trauma (fall from the standing position), history of vertebral fracture or visualization of a vertebral fracture by CT\n* availability of radiographs of the proximal femur (anteroposterior view of the pelvis mandatory; anteroposterior and lateral views of the fractured hip optional)\n* signature by the patient of the informed consent document\n\nExclusion criteria:\n\n* patient under 60 years\n* current bisphosphonate, oestrogen, or SERM treatment started more than 3 months earlier; or past treatment with these medications stopped less than 6 months earlier\n* hip arthroplasty on the other side\n* fracture at the site of a bone lesion\n* psychiatric disorder that might prevent the patient from giving informed consent or from remaining completely still for about 15 minutes during the investigations\n* informed consent document not signed by the patient\n\nSelection of controls:\n\nThe controls will be women without hip fracture matched on age to the cases.\n\nInclusion criteria:\n\n* woman aged 60 years and more\n* signature by the patient of the informed consent document\n\nExclusion criteria:\n\n* age under 60 years\n* male\n* current bisphosphonate, oestrogen, or SERM therapy started more than 3 months earlier; or past treatment with these medications stopped less than 6 months earlier\n* history of osteoporotic hip fracture.\n* psychiatric disorder that might prevent the patient from giving informed consent or from remaining completely still for about 15 minutes during the investigations\n* informed consent document not signed by the patient",
+  "minimum_age": "60 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Women with a history of osteoporotic hip fracture (cases) will be recruited while hospitalized in one of the study centres for immediate care of their fracture. Women without osteoporotic fractures (controls) matched on age to the cases will be recruited while receiving outpatient or inpatient care at one of the study centres. Inclusion and exclusion criteria are detailed below",
+  "condition": [
+    "Osteoporosis",
+    "Proximal Femur Fracture"
+  ],
+  "overall_status": "TERMINATED"
+}

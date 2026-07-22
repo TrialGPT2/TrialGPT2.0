@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04334850",
+  "title": "Use of a Respiratory Multiplex PCR and Procalcitonin to Reduce Antibiotics Exposure in Patients With Severe Confirmed COVID-19 Pneumonia",
+  "brief_summary": "The novel coronavirus SARS-CoV-2 (COVID-19) is an emerging respiratory virus that causes pneumonia. WHO data reported admission to the intensive care unit (ICU) for 6% of patients, with a mortality rate reaching 45%. To date, apart from therapeutic trials, ICU management is symptomatic, based on organ failure support therapies. In the initial phase, the therapeutic management also includes empiric antimicrobial therapy (90% of patients, in accordance with LRTI guidelines (ATS 2019) and SRLF Guidelines (2020). One challenge for the ICU physicians is the timing for discontinuation of antimicrobial treatment, especially in case of shock or ARDS, considering that a substantial proportion of COVID-19 pneumonia patients may have pulmonary bacterial coinfection/superinfection. In order to avoid unnecessary prolonged antimicrobial therapy, and subsequent selective pressure, two tests could be combined in a personalized antibiotic strategy:\n\n* Procalcitonin (PCT): PCT is a useful tool to guide antibiotics discontinuation in community-acquired pneumonia) and viral pneumonia (PMID24612487).\n* Respiratory multiplex PCR FA-PPP (Biom\u00e9rieux\u00ae): panel has been enlarged, including 8 viruses and 18 bacteria (quantitative analysis). The turnaround time is short. Sensitivity is high (99%, PMID32179139). It may contribute, in combination with conventional tests, to accelerate and improve the microbiological diagnosis during severe COVID-19 pneumonia.\n\nThe hypothesize of the study is that the combination of the mPCR FA-PPP and PCT could be used to reduce antibiotics exposure in patients with severe confirmed COVID-19 pneumonia, with a higher clinical efficacy and safety as compared with a conventional strategy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adults (\\>= 18 years) admitted to the ICU;\n* Severe confirmed COVID-19 pneumonia, defined by i) a newly-appeared pulmonary parenchymal infiltrate; and ii) a positive RT-PCR (either upper or lower respiratory tract) for COVID-19 (SARS-CoV-2); iii) and admission to the ICU or intermediate care unit;\n* Informed consent or emergency procedure.\n\nExclusion Criteria:\n\n* Pregnancy ;\n* Congenital immunodeficiency;\n* HIV infection with CD4 count below 200/mm3 or unknown in the last year;\n* High-grade hematological malignancy;\n* Neutropenia (\\<1 leucocyte/mL or \\< 0.5 neutrophil/mL);\n* Immunosuppressive drugs within the previous 30 days, including anti-cancer cytotoxic chemotherapy and anti-rejection drugs for organ/bone marrow transplant;\n* Moribund patient or death expected from underlying disease during the current admission;\n* Patient deprived of liberty or under legal protection measure",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19",
+    "Pneumonia"
+  ],
+  "overall_status": "COMPLETED"
+}

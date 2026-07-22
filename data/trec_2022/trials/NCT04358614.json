@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04358614",
+  "title": "Baricitinib Therapy in COVID-19",
+  "brief_summary": "Retrospective study on the efficacy of baricitinib in 12 COVID-19 patients with moderate pneumonia.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* SARS-Co-V2 positivitity to the nasal-swab by reverse-transcriptase-polymerase chain- reaction (RT-PCR) assay tested by the local diagnostic laboratory\n* Age \\>18 and \\<85 years\n* Presence of at least 3 of the following symptoms as present fever, cough, myalgia, fatigue.\n* Presence of radiological findings of pneumonia assessed by chest radiograph, computed tomography, or pulmonary ultrasound.\n* Peripheral capillary oxygen saturation (SpO2) \\> 92% on room air at screening\n* PaO2/FiO2 \\>100-300 mmHg at arterial blood gas analysis.\n\nExclusion Criteria:\n\n* Age \\< 18 and \\>85\n* History of thrombophlebitis\n* Latent tuberculosis infection (based on the positivity to QuantiFERON Plus positivity, Qiagen, Germany)\n* Pregnancy and lactation\n* History of malignancies over the previous 5 years, current diagnosis of malignancy\n* Inability or unwillingness to sign a written consent.\n* Transaminases values 4-fold higher than the upper normal limit.\n* HBV and HCV positivity.\n* Current Herpes zoster infection.\n* Evidence of concomitant bacterial infections.",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID",
+    "Pneumonia"
+  ],
+  "overall_status": "COMPLETED"
+}

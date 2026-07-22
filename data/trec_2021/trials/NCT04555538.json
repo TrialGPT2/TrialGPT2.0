@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04555538",
+  "title": "Atrial CMR in Patients With CVA of Unknown Source and no Known AF",
+  "brief_summary": "This research study will investigate a new method for identifying which patients should be offered blood thinners or therapies to reverse the underlying causes after stroke.\n\nAtrial fibrillation(AF) is the primary risk factor for ischaemic stroke, increasing the risk by up to 5-fold. In AF, the upper heart chambers don't pump blood effectively into the lower chambers. When this happens, a blood clot can form, dislodge and leave the heart blocking an artery in the brain and cause a stroke. However, AF is often an intermittent condition and therefore difficult to diagnose. As such, there are a group of patients in whom no cause of their stroke can be identified.\n\nIn this study, we will recruit 92 patients from Guy's and St Thomas' Hospital, Princess Royal University Hospital and King's College London.\n\nAs part of routine clinical care, patients undergo insertion of an Implantable Loop Recorder (CE Marked device), a minimally invasive procedure that allows accurate beat-to-beat monitoring to identify patients who develop intermittent AF post-stroke. We will request access to the data collected from this device and perform atrial MRI imaging in these patients to compare the findings between patients that do and do not have AF. If we show that atrial MRI scans are significantly different between patients with and without AF, we will use this information to support a trial of starting appropriate therapies (e.g. blood thinners) in these patients on the basis of MRI findings. This approach would have the advantage of enabling therapies to be offered to the right patients earlier and prevent repeat, potentially disabling stroke.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nPatients will be recruited within 3 months of an acute ischaemic stroke. It must also be feasible to perform a cardiac MRI on all patients enrolled within 3 months of the acute ischaemic stroke.\n\nInclusion criteria includes patients with:\n\n* Patient consent or advice given by consultee can be obtained\n* Confirmed acute ischaemic stroke with evidence on brain CT and/or MRI within 3 months of study enrolment \u2022 Ischaemic stroke of unknown source Expected survival \\>12 months.\n* At least one additional stroke risk factor (i.e. CHA2DS2VASc\\>=3)\n* Sinus rhythm on 12 lead ECG, telemetry and a regular pulse on clinical examination\n* Above 18 years of age\n\nExclusion Criteria:\n\n* Unable to obtain patient consent or advice by consultee\n* History of atrial fibrillation\n* Atrial fibrillation detected on ECG and/or telemetry (AF duration of at least 30 seconds required for diagnosis)\n* eGFR \\<30ml/min\n* Indication for pacemaker/implantable cardioverter-defibrillator\n* Contra-indication to undergo cardiac MRI (e.g. severe claustrophobia, unable to lie flat for prolonged period, contrast allergy)\n* Carotid stenosis \\>50% on Duplex ultrasound associated with anterior circulation infarction\n* Vertebrobasilar stenosis \\>50% on CT/MR angiography associated with posterior circulation infarction\n* Single, isolated lacunar stroke with a corresponding lacunar infarct on brain CT/MRI\n* Specific aetiology for cause of stroke (e.g. arteritis, dissection, drug abuse)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients will be recruited during outpatient clinics and inpatient stays",
+  "condition": [
+    "Stroke, Ischemic",
+    "Atrial Fibrillation"
+  ],
+  "overall_status": "UNKNOWN"
+}

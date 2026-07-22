@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT04862273",
+  "title": "Native T1 CMR Imaging for Diagnosis of Cardiac Amyloidosis",
+  "brief_summary": "The study aims to test the diagnostic accuracy of native T1 mapping for the diagnosis of cardiac amyloidosis prospectively. The hypothesis is that native T1 mapping with a cut-off value of 1341ms (3 tesla CMR) in older patients with symptomatic heart failure, increased LV wall thickness and elevated cardiac biomarkers is non-inferior to the reference method to diagnose cardiac amyloidosis (CA).\n\nAs secondary measure, a web-based ATTR probability estimator for the diagnosis of CA will be evaluated.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \u2265 60 years\n* Symptomatic heart failure (NYHA II-IV) with LVEF \u226540%\n* Increased LV wall thickness (\u226512mm end-diastolic)\n* NT-proBNP \u22651000pg/mL\n* Elevated hs-troponin T \u226514ng/L\n\nExclusion Criteria:\n\n* Contraindications for CMR\n* Acute myocarditis\n* Acute myocardial infarction \\<1 month\n* Severe aortic stenosis and RAISE score \\< 2 points",
+  "minimum_age": "60 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with symptomatic heart failure (NYHA functional class II to IV, LVEF \u226540%), increased left ventricular wall thickness and elevated cardiac biomarkers",
+  "condition": [
+    "Heart Failure NYHA Class II",
+    "Heart Failure NYHA Class III",
+    "Heart Failure NYHA Class IV",
+    "Heart Failure With Preserved Ejection Fraction",
+    "Heart Failure With Mid Range Ejection Fraction",
+    "Hypertrophy, Left Ventricular",
+    "Cardiac Amyloidosis"
+  ],
+  "overall_status": "UNKNOWN"
+}

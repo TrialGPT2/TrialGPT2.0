@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04415736",
+  "title": "Artificial Intelligence in Subarachnoid Hemorrhage",
+  "brief_summary": "The overall aim of this study is to, with the help of computer/data scientist and machine learning processes, analyse collected heart rate variability data in order to evaluate whether specific patterns could be found in patients developing delayed cerebral ischemia after subarachnoid hemorrhage.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patients\n* aneurysmal subarachnoid hemorrhage\n* admitted to Neurointensive care unit at Sahlgrenska University Hospital, Gothenburg, Sweden\n\nExclusion Criteria:\n\n* cardiac arrythmias\n* use of pacemaker",
+  "minimum_age": "16 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult patients with aneurysmal subarachnoid hemorrhage, admitted to the Intensive Care Unit at Sahlgrenska University Hospital.",
+  "condition": [
+    "Subarachnoid Hemorrhage, Aneurysmal"
+  ],
+  "overall_status": "COMPLETED"
+}

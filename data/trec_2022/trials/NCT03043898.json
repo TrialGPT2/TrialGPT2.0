@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03043898",
+  "title": "Mapping Sound Propagation Through the Human Lung for Better Diagnosis",
+  "brief_summary": "This study investigates the propagation of sound from a source in the chest to the chest wall.\n\nThe methodology of the study will be to place a sound source at a known location in the chest and measure the acoustic response on the posterior chest wall with an acoustic sensor array.\n\nThe sound source will be created by playing sound down the working channel of a bronchoscope and located anatomically using direct imaging.\n\nSubjects will be selected for the study by asking patients undergoing a bronchoscopy procedure whether they would be willing to take part in the experiment in addition to their standard procedure.\n\nProcedures will take place in the Bronchoscopy Unit at Addenbrooke's hospital in Cambridge. The Unit runs regional speciality clinics in severe chronic obstructive pulmonary disease, asthma, lung cancer, bronchomalacia and interstitial lung disease and has a nationally significant interventional bronchoscopy service.\n\nA subsidiary part of the study (Part A) will collect sound recordings from healthy volunteers and patients with common respiratory diseases using the same acoustic sensor array. This is to create a database of lung sounds and quantify inter-subject variability.\n\nThe study will last approximately 30 months.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Participant is willing and able to give informed consent for participation in the study.\n* Male of Female, aged 18 years or above.\n* Part A(i) Healthy volunteer with no history of smoking, recreational drug use or respiratory disease.\n* Part A(ii) Patient admitted to Addenbrooke's with a pulmonary disease resulting in crackles and/or wheezes (as diagnosed by a qualified medical practitioner).\n* Part B Patient admitted to Addenbrooke's hospital for a bronchoscopy procedure.\n* Part B Appropriate recent imaging available: chest CT within 3 months.\n* Part B(i) Lung structure deemed 'normal' by pulmonary physician based on CT scan and medical history.\n* Part B(i) Lung structure deemed 'abnormal' by pulmonary physician based on CT scan and medical history.\n\nExclusion Criteria:\n\n* Informed consent is not given.\n* Subject is under 18 years old.\n* WHO performance status \\>2.\n* Subject is pregnant.\n* Subject is unable to understand English.\n* Part A(i) History of smoking, recreational drug use or respiratory disease.\n* Part A(ii) Condition judged to have no effect on breathing sounds. Patient with crackle or wheeze when quota for crackle or wheeze patients respectively is fulfilled.\n* Part B Risk associated with prolonging bronchoscopy procedure judged to be too high by medical professional.\n* Part B Appropriate recent imaging (chest CT within 3 months) not available.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Part A(i) 50 healthy volunteers, taken from the general population.\n\nPart A(ii) 100 patients, taken from the population of patients at Addenbrooke's Hospital, Cambridge, UK with clear evidence of wheezing and/or crackles due to respiratory disease. We will aim to recruit approximately 50 patients with wheezing and 50 patients with crackles.\n\nPart B(i) 25 patients, taken from the population of patients on the bronchoscopy list at Addenbrooke's Hospital, Cambridge, UK.\n\nPart B(ii) 25 patients, taken from the population of patients on the bronchoscopy list at Addenbrooke's Hospital, Cambridge, UK",
+  "condition": [
+    "Bronchomalacia",
+    "Asthma",
+    "Lung Neoplasms",
+    "Lung Diseases, Interstitial",
+    "Pulmonary Disease, Chronic Obstructive"
+  ],
+  "overall_status": "TERMINATED"
+}

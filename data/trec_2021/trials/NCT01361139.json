@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01361139",
+  "title": "Diagnosis of Cardio-Pulmonary Pathology Using Transthoracic Parametric Doppler (TPD)",
+  "brief_summary": "This is a study that seeks to characterize data obtained from patients with a variety of lung diseases using ultrasound signals obtained from the lung tissue. A standard ultrasound instrument in the doppler mode (not the imaging mode used in examination of pregnant women for instance) is placed on the chest wall and the unique software the investigators have developed analyzes the signal reflected back from within the lung. On the basis of pilot studies performed previously the investigators expect to receive different signals from different diseases. The investigators seek to further characterize these signals to enable accurate diagnosis of different lung diseases using our technology.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "INCLUSION CRITERIA\n\nAge 18 years or older Patients who are clinically suspected of having pulmonary, cardiac or Cardio-pulmonary disease preferably any one or more of the conditions listed below:\n\n* Patients with CHF\n* Patients with pulmonary hypertension with documented right heart catheterization data\n* Patients with COPD in two subgroups:\n\n  * Emphysema, (evidence of emphysema on High Resolution Computed Tomography, (HRCT) and airflow limitation of GOLD II severity who have had Carbon Monoxide Diffusing capacity, (DLCO) and Residual Volume(RV) measured, or patients without HRCT with measurements of lung volumes and diffusing capacity with Total Lung Capacity (TLC) \u22651.0 predicted, RV/TLC \u22650.4, DLCO \u2264 0.7 predicted.\n  * Chronic Bronchitis (No evidence of Emphysema on HRCT and/or no evidence of air-trapping or reduced DLCO.)\n* Patients with asthma according to ATS/ERS definition,\n* Patients with interstitial lung disease (ILD) of any etiology including sarcoidosis diagnosed by HRCT in sub groups as follows:\n\n  * Mild ILD (TLC 0.71-0.79 predicted, DLCO \u2265 0.71 predicted)\n  * Moderate and severe ILD (TLC \u2264 0.7 predicted, DLCO \u2264 0.7 predicted)\n* Signed informed consent.\n* Patients with sarcoidosis without evidence of parenchymal lung disease defined as normal DLCO and/or HRCT.\n\nEXCLUSION CRITERIA\n\n* Patients unable to cooperate.\n* Inability to assume a semi-reclining or supine position\n* Patients with severe chest wall deformity",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients referred to a large hospital-affiliated community lung clinic.",
+  "condition": [
+    "Lung Disease, Chronic Obstructive",
+    "Lung Disease, Interstitial",
+    "Asthma",
+    "Sarcoidosis",
+    "Hypertension, Pulmonary"
+  ],
+  "overall_status": "COMPLETED"
+}

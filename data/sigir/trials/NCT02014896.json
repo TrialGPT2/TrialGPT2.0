@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT02014896",
+  "title": "Ischemia Care Biomarkers of Acute Stroke Etiology (BASE)",
+  "brief_summary": "The proposed study will validate the clinical use of new biomarker blood tests to identify blood components that may differentiate between diverse stroke etiologies and clinical outcomes as listed below:\n\n1. Differentiate between cardioembolic and large artery atherosclerotic ischemic strokes, when hemorrhagic stroke is ruled out.\n2. In cases of ischemic strokes of unknown or \"cryptogenic\" etiology, determine the ability of biomarker blood tests to predict etiology between cardioembolic and large artery atherosclerotic.\n3. In cases of cardioembolic ischemic stroke, further differentiation of cardioembolic ischemic strokes into those caused by atrial fibrillation (AF) and those not caused by AF.\n4. Differentiate \"transient ischemic attacks\" (TIAs) from acute ischemic strokes.\n5. Differentiate TIAs from non-ischemic \"transient neurological events\" (TNE) with similar symptoms.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients \\>18 years of age\n* Signs and symptoms suggestive of AIS or TIA\n* One of the following:\n\n  1. BASE - Arrival to the emergency department or hospital within 18 hrs of symptom onset or last known normal time\n  2. BASE 24 - Arrival to the emergency department or hospital within 24 hours +/- 6 hours (i.e. 18 - 30 hour window) of symptom onset or last known normal time and clinical evidence suggesting Acute Ischemic Stroke.\n* Head CT or MRI ruling out other pathology such as vascular malformation, hemorrhage, tumor or abscess which would likely be responsible for presenting neurologic symptoms\n* Informed consent obtained\n\nExclusion Criteria:\n\n* Any central nervous system infection, i.e. meningitis or encephalitis in the past 30 days\n* Any form of head trauma, stroke or intracranial hemorrhage in the past 30 days\n* Known primary or metastatic cancer involving the brain\n* Active Cancer defined as a diagnosis of cancer, within 6 months before enrollment, any treatment for cancer within the previous 6 months, or recurrent or metastatic cancer.\n* Autoimmune diseases: such as lupus, rheumatoid arthritis, Crohn's disease, ulcerative colitis\n* Active infectious diseases (eg. HIV/AIDS, hepatitis C)\n* Any underlying medical condition which in the opinion of the investigator would prohibit the patient from providing informed consent\n* Major surgery within three months prior to the index event",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects eligible for enrollment include:\n\n1. Ischemic stroke within 24 hours of symptom onset.\n2. Transient Ischemic Attack (TIA) within 24 hours of symptom onset.\n3. Non-ischemic transient neurologic event (TNE) within 24 hours of onset.\n4. Normal controls that will be non-neurologic patients who are matched with the other ischemic stroke and TIA patients for age, race, gender and smoking plus one or more of the following vascular risk factors: diabetes, hypertension, atrial fibrillation, hyperlipidemia.",
+  "condition": [
+    "Ischemic Stroke",
+    "Atrial Fibrillation",
+    "Transient Ischemic Attacks",
+    "Transient Cerebrovascular Events",
+    "Thrombotic Stroke",
+    "Stroke of Basilar Artery",
+    "Cardioembolic Stroke"
+  ],
+  "overall_status": "COMPLETED"
+}

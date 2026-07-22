@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03464578",
+  "title": "Evidence Based Algorithm for Proximal Humerus Fractures",
+  "brief_summary": "Proximal humerus fractures are particularly frequent injuries and represent 6% of all fractures with an overall incidence of 63/100.000 in human. The goal is to assess our institutional evidence based algorithm for treatment of proximal humeral fractures.\n\nObjective(s):\n\n1. Test the algorithm in terms of clinical applicability and clinical outcome\n2. Compare general outcome and general complication/revision rate to the literature.\n\nInclusion / Exclusion criteria: Inclusion: All patients with an acute proximal humeral fracture (not older than 48 hours) admitted to our institution later than 1.1.2014. Exclusion: Multilevel and pathological fractures are excluded.\n\nTerminally ill patients and those not being able, or willing to sing the informed consent.\n\nProject Centre(s): Single-centre.\n\nStatistical Considerations: Standard descriptive statistics will be performed using R-statistics program. Considering the population of 160 patients, we will be able to detect differences in proportions as low as 0.15 with power 82% and alpha = 0.05.\n\nOther methodological Considerations: Terms applicability of a treatment protocol and adhesion to protocol are not well defined for decision making in orthopaedic surgery.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Acute traumatic proximal humeral fracture\n* Signed informed consent\n\nExclusion Criteria:\n\n* Fracture older than 48 hours at admission\n* Multilevel fractures of the humerus\n* Pathological fractures\n* Terminally ill patients.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients with an acute proximal humeral fracture admitted to our institution.",
+  "condition": [
+    "Proximal Humeral Fracture"
+  ],
+  "overall_status": "COMPLETED"
+}

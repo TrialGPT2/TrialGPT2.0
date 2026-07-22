@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04598971",
+  "title": "Urine pH and Urinary Tract Infection",
+  "brief_summary": "Urinary tract infections (UTI) affect the urine pH and may lead to salt precipitation such as struvite. Bacteria with urease activity are known to alkalinise urine, but not much is known on how pH is changing over time during UTI.\n\nThis study aims at following urine pH progression at the time of diagnosis of UTI and during the treatment phase.\n\nDescription of the change in urine pH over time will help understanding the risk of struvite formation and potential timing of intervention.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Group 1. Cystitis\n\nInclusion Criteria:\n\n* Symptoms of dysuria, pollakiuria, no fever AND\n* urine-stix positive for leucocytes OR positive culture (\\>10E5 cfu/ml)\n\nGroup 2. Pyelonephritis\n\nInclusion Criteria:\n\n* Unilateral flank pain, pollakiuria, dysuria, fever (\\>38.5\u00b0C) AND\n* urine-stix positive for leucocytes OR positive culture (\\>10E5 cfu/ml)\n\nExclusion Criteria (both groups):\n\n* known urinary tract anatomic abnormalities\n* Presence of a urine catheter\n* Sepsis - septic shock\n* Patient taking drug interfering with urine pH (diuretics, citrate, acetazolamide, topiramate,...)\n* Patients with UTI diagnosed in the preceding month\n* Patients having received antibiotics during the preceding month\n* Male patient with a diagnosis of prostatitis\n* Presence of infected kidney cyst\n* Patient with diabetes\n* Pregnant female\n* Patient with obstructive pyelonephritis",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patient consulting the primary care unit of the medical outpatient clinic UniSant\u00e9 in Lausanne will be asked to participate.",
+  "condition": [
+    "Urinary Tract Infections",
+    "Urinary Stone"
+  ],
+  "overall_status": "UNKNOWN"
+}

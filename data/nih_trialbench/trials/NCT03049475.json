@@ -1,0 +1,40 @@
+{
+  "nctid": "NCT03049475",
+  "title": "Pathophysiology of Acute Pain in Patients With Sickle Cell Disease",
+  "brief_summary": "Background:\n\nSickle Cell Disease (SCD) is a blood disorder that occurs mainly in people of African descent. Researchers want to learn more about the painful attacks and complications associated with SCD. They want to look for a relationship between SCD and specific changes in the blood. They want to study the role of genetics, inflammation, and blood clotting factors in SCD. They will do this with blood samples collected during an acute painful attack and in between attacks.\n\nObjective:\n\nTo learn more about the painful attacks and complications associated with SCD.\n\nEligibility:\n\nPeople ages 18-80 with SCD or who are healthy Africans or African Americans without SCD\n\nDesign:\n\n* Participants will be screened with medical history and physical exam.\n* Healthy participants will have one visit.\n* Participants with SCD will have their first visit when they are not having a pain attack. They will have their next visit during a pain attack. About 3-4 months after this attack, they will have a final visit.\n* Visits will include a physical exam, and blood and urine tests.\n* Participants may have their blood samples used for genetic testing for research.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* SUBJECT INCLUSION CRITERIA (SCD):\n\n  1. Sickle cell disease (all genotypes) with a diagnosis of acute sickle cell pain not related to other cause (if the patient also presents with any other sickle related complication alongside acute sickle pain, including not limited to acute chest syndrome, renal dysfunction, liver dysfunction, stroke and priapism can also be included in the study)\n  2. Between 18 and 80 years of age\n  3. Ability to provide informed written consent\n\nSUBJECT EXCLUSION CRITERIA (SCD):\n\n1. \\<18 years of age\n2. Pregnancy\n3. Chronic inflammatory condition (e.g. SLE, Rheumatoid arthritis or any other infectious process leading to chronic inflammation)\n4. Failed stem cell transplantation for SCD\n5. On active treatment with cytotoxic or immunosuppressive therapy\n\nINCLUSION CRITERIA FOR HEALTHY CONTROL SUBJECTS:\n\n1. Between 18 and 80 years of age\n2. African, of African descent\n3. Ability to provide informed written consent\n\nEXCLUSION CRITERIA FOR HEALTHY CONTROL SUBJECTS:\n\n1. Pregnancy\n2. Diagnosis of with any of the following chronic disease or conditions:\n\n   1. Sickle cell disease or sickle cell trait\n   2. Uncontrolled high blood pressure (systolic blood pressure must not be greater than 160 mmHg or diastolic pressure greater than 90 mmHg\n   3. Uncontrolled diabetes (must not have both a documented history of diabetes and random blood glucose of greater than 200 mg/dL)\n   4. History of coronary artery disease\n   5. History of congestive heart failure\n   6. Chronic kidney disease (serum creatinine must not be greater than 2mg/dL)",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "60 subjects with sickle cell disease 40 healthy individuals to serve as controls",
+  "condition": [
+    "Sickle Cell Disease"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study of patients with sickle cell disease and healthy controls to investigate the pathophysiology of acute pain. There is no systemic therapy for advanced disease under study, and no line-of-therapy restrictions are specified.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "SCD",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference any prior systemic therapy for advanced disease or lines of therapy. Patients are included based on diagnosis of sickle cell disease and acute pain, regardless of treatment history."
+    },
+    {
+      "cohort_label": "Healthy Controls",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Healthy controls are included based on absence of sickle cell disease and other chronic conditions, with no reference to prior systemic therapy or cancer history."
+    }
+  ]
+}

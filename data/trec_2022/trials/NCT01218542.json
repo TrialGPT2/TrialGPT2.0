@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01218542",
+  "title": "Whole Brain Radiation Therapy With Boost to Metastatic Tumor Volume Using RapidArc",
+  "brief_summary": "Brain metastases are the most common adult intracranial tumor, occurring in approximately 10% to 30% of adult cancer patients, and represent an important cause of morbidity and mortality. The most widely used treatment for patients with multiple brain metastases is whole brain radiation therapy (WBRT). The use of WBRT after resection or stereotactic radiosurgery (SRS) has been proven to be effective in terms of improving local control of brain metastases.\n\nRapidArc (RA) (Varian Medical Systems, Palo Alto, CA) is a new method of delivering radiation that uses \"arcs\" to deliver highly conformal intensity modulated three dimensional dose distributions. The purpose of this investigation is to evaluate an alternative strategy for giving WBRT with highly focal boost to gross visible lesions in patients with brain metastasis.\n\nGiven the limitations of the SRS boost technique, the purpose of our investigation is to evaluate an alternative strategy for giving WBRT with highly focal boost to gross visible lesions in patients with brain metastasis. In this study, we plan to assess the tolerability of using volumetric modulated arc therapy (RapidArc) on patients with brain metastasis to simultaneously treat the entire brain with a concomitant focal boost to grossly identified lesions on MRI scan to try to improve local control and reduce neurocognitive toxicities.\n\nThis previous version of this study was a phase I dose escalation trial giving 25 Gy in 10 fractions to the whole brain with simultaneous infield boost (SIB) to a total of 45 Gy in 10 fractions to gross brain metastatic disease. Prior to this, patients were enrolled onto one of two cohorts with whole brain dose of 30 Gy in 10 fractions with SIB to total of 45 Gy in 10 fractions to gross brain metastatic disease or whole brain dose of 37.5 Gy in 15 fractions with SIB to total of 52.5 Gy in 15 fractions to gross brain metastatic disease. A total of 12 patients have been previously enrolled on this trial. No patients have experienced a dose limiting toxicity (grade 3 or above) at least possibly due to study therapy. Also, no patients experienced local brain failure/progression at a site of treated metastatic brain disease. Based on this, we no longer feel that dose escalation to the gross brain disease is warranted and would proceed with a single arm pilot study treating patients with 25 Gy in 10 fractions to the whole brain with simultaneous infield boost (SIB) to a total of 45 Gy in 10 fractions to gross brain metastatic disease.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Pathologic proven diagnosis of solid tumor malignancy.\n* Age \u2265 18.\n* KPS \u2265 70.\n* Mini Mental Status Exam (MMSE) \u2265 18 prior to study entry.\n* RPA class I (KPS \u2265 70, primary cancer controlled, age \\< 65, metastases in brain only) or class II (lack of one or more of class I criteria).\n* One to ten brain metastatic lesions.\n\nExclusion Criteria:\n\n* Previous whole brain radiation therapy.\n* Previous radiosurgery to any currently progressive gross metastatic disease.\n* Previous radiosurgery to any intracranial site within the prior 6 weeks.\n* Recursive partitioning analysis (RPA) class III (KPS \\< 70).\n* Radiosensitive (eg. small cell lung carcinomas, germ cell tumors, leukemias, or lymphomas) or unknown tumor histologies.\n* Concurrent chemotherapy (no chemotherapy starting 14 days before start of radiation).\n* Evidence of leptomeningeal disease by MRI and/or cerebrospinal fluid (CSF) cytology.\n* Current pregnancy.\n* No metastases to brain stem, midbrain, pons, or medulla or within 7 mm of the optic apparatus (optic nerves and chiasm).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Neoplasm Metastasis"
+  ],
+  "overall_status": "COMPLETED"
+}

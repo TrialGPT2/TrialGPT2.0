@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04242602",
+  "title": "Multimodal Monitoring of Cerebral Autoregulation After Pediatric Brain Injury",
+  "brief_summary": "Various methods have been studied to evaluate autoregulation. However, there is currently no universally accepted technique to assess integrity of the cerebral autoregulation neurovascular system. In the last decade, significant progress has been achieved in developing methods to assess cerebral autoregulation by quantifying cross-correlation between spontaneous oscillations in CBF or oxygenation and similar oscillations in arterial blood pressure.\n\nIn this study the investigators will analyze the relationship between spontaneous fluctuations in mean arterial blood pressure and cerebral blood flow velocity or cerebral regional oxygenation to investigate two novel methods for measuring cerebral autoregulation, Transfer Function Analysis and Wavelet Coherence after acute pediatric brain injury.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n* Ages 28 days-18 years admitted to the PICU at Children's Medical Center Dallas\n* Acute presentation (\\< 24 hour) onset of neurologic injury\n* Acute neurologic injury can be due to any of the following mechanisms:\n\n  * Severe accidental or abusive traumatic brain injury\n  * Severe encephalopathy secondary to cardiac arrest\n  * Spontaneous intracranial hemorrhage\n  * Status epilepticus\n  * Stroke\n* Presence of or pending placement of invasive indwelling arterial line for stand medical care\n* Any patient with an ICP monitor placed as standard of care\n\nExclusion Criteria:\n\n* Patients without an arterial line placed as standard of care\n* Patients unable to cooperate with wearing a TCD headpiece device\n* Expected death within 24-48 hours\n* Inability to place NIRS probes or insonate TCD signal due to massive facial or cranial injury\n* Receiving an inhalational anesthetic agent\n* Hemoglobinopathy, myoglobinemia or and hyperbilirubinemia (due to inaccurate NIRS readings)",
+  "minimum_age": "28 Days",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Traumatic Brain Injury",
+    "Brain Injuries",
+    "Brain Injury, Vascular"
+  ],
+  "overall_status": "RECRUITING"
+}

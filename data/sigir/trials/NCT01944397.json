@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01944397",
+  "title": "A CALIBER Study: Risk Factors for Stroke, Heart Failure, and Myocardial Infarction in Atrial Fibrillation",
+  "brief_summary": "We aim to investigate the prognosis of patients diagnosed with AF, particularly in relation to the development of subsequent stroke, heart failure, and myocardial infarction. We will explore the relationship between these outcomes and a range of risk factors.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with a coded diagnosis for atrial fibrillation in their primary or secondary care record.\n* Patients in GPRD practices which are deemed \"up to standard\" by GPRD criteria\n* Patients whose records are deemed \"acceptable\" by GPRD criteria and contain at least one year of data\n* Patients whose age and sex, as recorded in GPRD is the same as that recorded in HES.\n\nExclusion Criteria:\n\n* A diagnosis of heart failure, stroke, or myocardial infarction occurring before diagnosis of atrial fibrillation",
+  "minimum_age": "30 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adults aged 30 years and over, registered with a CPRD practice that is up-to-standard, and having a minimum of one year of validated follow-up data. The index date is 1st January 1998 with follow-up ending on 26th March 2010, which corresponds to the administrative censoring date of the CPRD component of the CALIBER dataset.",
+  "condition": [
+    "Atrial Fibrillation",
+    "Heart Failure",
+    "Stroke",
+    "Myocardial Infarction"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT05072483",
+  "title": "Natural History Study of CADASIL",
+  "brief_summary": "Background:\n\nCADASIL (cerebral autosomal dominant arteriopathy with subcortical infarct and leukoencephalopathy) is a genetic disorder. It causes narrowing of the small blood vessels and can lead to strokes and dementia. Researchers want to monitor people with CADASIL over time.\n\nObjective:\n\nTo learn more about how CADASIL affects a person s blood vessels over time.\n\nEligibility:\n\nAdults ages 18 and older who have CADASIL, and healthy volunteers.\n\nDesign:\n\nParticipants will be screened with a medical record review.\n\nParticipants will have 4 study visits over 9 years. Visits will last 6 8 hours per day, for 2 4 days.\n\nParticipants will give blood and urine samples. They will have an electrocardiogram to record their heart s electrical activity. They will fill out a family tree. They will have tests that measure mental abilities like memory and attention. They may have a skin biopsy. They may have a lumbar puncture.\n\nParticipants will have an eye exam. Their pupils will be dilated. They will receive a dye via intravenous (IV) line. Pictures will be taken of their eyes.\n\nParticipants will have an imaging scan of their brain. They may receive a contrast agent via IV.\n\nParticipants blood flow and blood vessel flexibility will be measured. In one test, a probe will be pressed against the skin of the their wrist, neck, and groin. In another test, they will hold one arm still while a microscope makes videos of the blood flow through a fingernail. In another test, they will perform light exercise or other activities while wearing an elastic band around their head or probes placed on their arm or leg.\n\nHealthy volunteers will complete some of the above tests.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nEligibility for this study may be determined based on information collected under other NHLBI-approved protocols, outside records and patient report.\n\nIn order to be eligible to participate in this study, an individual must meet criteria 1 \\& 2 and either criteria 3 or 4:\n\n1. Stated willingness to comply with all study procedures and availability for the duration of the study.\n2. Male or female, aged 18 to 100 years (inclusive).\n3. Established diagnosis of CADASIL or NOTCH3 mutations, as determined by genetic testing.\n4. Healthy controls.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Pregnancy or nursing at time of consent.\n2. Subjects who lack capacity to consent and don't have a legally authorized representative.\n3. Subjects who decline to provide samples for blood and/or tissue studies.\n4. Subjects who do not speak English.\n5. Subjects whose scans or examinations show unexpected brain conditions (outside of CADASIL) which would interfere with interpretation of testing.\n6. Subjects unable to undergo an MRI scan or subjects meeting the following criteria:\n\n   * Subjects who have internal non-MRI compatible metals (i.e., cardiac pacemaker, brain stimulator, shrapnel, surgical metal, clips in the brain or on blood vessels, cochlear implants, artificial heart valves or metal fragments in the eye) as these rendering an MRI unsafe\n   * Subjects with ferromagnetic dental bridges or crowns (exclusion only for 7.0T)\n   * Subjects unable to remain supine for the expected length of the MRI (i.e., up to 1 hour)\n   * Subjects with uncontrolled head movements\n   * Subjects who are claustrophobic for the expected length of the MRI (i.e., up to 1 hour) and claustrophobia cannot be controlled with anti-anxiety medication.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "We will follow up to 110 subjects in order to have 100 subjects with CADASIL (at least 80 new CADASIL subjects and up to 20 CADASIL subjects previously enrolled in our pilot study, if they would like to participate in this study as well) and up to 45 healthy controls with the goal of 40 healthy control subjects completing the study, withtotal accrual of 155 male and female, ages 18-100. Should anyone from the original patient cohort decide not to participate in this new study, additional patients will be recruited in order to meet our goal of having 100 CADASIL subjects enrolled in the study.",
+  "condition": [
+    "Cardiovascular Disease",
+    "Arterial Stiffness",
+    "Germline Mutation in the NOTCH 3 Gene",
+    "Pathogenesis of CADASIL",
+    "Clinical Phenotype of CADASIL"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study of CADASIL and does not involve cancer or systemic therapy for advanced disease. There is no line-of-therapy intent applicable to this trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This is an observational study of CADASIL and healthy controls with no cancer diagnosis or systemic therapy requirements. No line-of-therapy criteria are specified or relevant."
+    }
+  ]
+}

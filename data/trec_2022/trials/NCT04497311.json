@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04497311",
+  "title": "Tomographic Findings in COVID-19 and Influenza",
+  "brief_summary": "The investigators decided to conduct a longitudinal study that compares the pulmonary tomographic patterns found in patients with viral pneumonia (i.e. influenza H1N1 and SARS-CoV-2) at a regional hospital. The primary aim of this study is to compare the radiological patterns found in patients with COVID-19 and influenza H1N1. The secondary aims of this study will assess the association between the radiological CT pattern and the need for invasive mechanical ventilation and mortality within the first 28 days of intensive care unit admission.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with signed informed consent.\n* Patients with a positive PCR test for SARS-CoV-2 or influenza H1N1 test upon emergency department admission.\n* Patients with lung CT within 24hrs of specimen collection for PCR test.\n* Patients with complete 30-day follow-up information.\n\nExclusion Criteria:\n\n* Patients who are unwilling to undergo a lung CT.\n* Negative PCR test for SARS-CoV-2 or influenza H1N1 test upon emergency department admission.\n* Patients with a tumor or tumor metastasis on the pulmonary CT.\n* Patients with a previous or de novo autoimmune disease diagnosis.\n* Patients with a previous or de novo interstitial lung disease.\n* Pregnancy.\n\nElimination Criteria:\n\n* Patients with loss of information on the variables of interest.\n* Patients without 30-day follow-up information.\n* Patients who chose to withdraw their participation at any time of the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Convenience sample from a Mexican urban, suburban, and rural population. The patients come from all demographical and socio-economic strata from a country with a high (0.767) Human Development Index. Our hospital is open to the entire population and primarily assists people with limited to very limited resources.",
+  "condition": [
+    "SARS-CoV-2",
+    "Covid19",
+    "H1N1 Influenza",
+    "Computed Tomography"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT06257693",
+  "title": "Enzalutamide Implants (Enolen) in Patients With Prostate Cancer",
+  "brief_summary": "The study is to assess whether the Enolen is safe and delivers anti-androgen medication locally in patients that are planning for radical prostatectomy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age at least 21 years old\n2. Histologically confirmed adenocarcinoma of the prostate\n3. Study participant qualified and planning for radical prostatectomy\n4. At least 1 prostate lesion measurable by MRI greater or equal to 0.5 cm\n5. Cohort A and Cohort B: Gleason score 3+4 or higher Cohort C: Gleason score 3+3 with high risk features or 3+4\n6. Study participant must be willing to undergo post-treatment imaging by MRI\n7. Participants must be able to understand and sign the informed consent form\n8. ECOG performance status 0 or 1\n9. Adequate organ function, including absolute neutrophil count (ANC) ≥1000 cells/μL, hemoglobin ≥9 g/dL, platelets ≥100,000 cells/μL, estimated creatinine clearance ≥50 mL/min, bilirubin \\<1.5x ULN (\\< 3x ULN for documented Gilbert's syndrome)\n10. Aspartate aminotransferase (AST), alanine aminotransferase (ALT) and Alkaline phosphatase \\<2.5x ULN\n11. The effects of Enolen on the developing human fetus are unknown. For this reason and because other therapeutic agents used in this trial are known to be teratogenic, men must agree to use a highly effective form of contraception or abstinence at the time of study entry and continuing through three months after radical prostatectomy/implant removal. Highly effective forms of contraception include:\n\nVasectomy Condom with spermicide\n\nPartner use of one of the following methods:\n\nPostmenopausal \\>1 year or age \\>55y Bilateral tubal ligation Intrauterine devices (IUDs) Hormonal implants (Implanon, Nexplanon, etc.) Combination oral contraceptives Progestin-only injections (Depo-Provera) Hormonal patches Vaginal Ring Should a woman become pregnant or suspect she is pregnant while her partner is participating in this study, the treating physician should be informed immediately.\n\nExclusion Criteria:\n\n1. Prior radiotherapy or surgery for prostate cancer\n2. Ongoing hormonal therapy for prostate cancer or hormone therapy \\<3 months prior to the start of treatment\n3. Prior prostate procedures such as transurethral resection of the prostate, transurethral microwave thermotherapy of the prostate, high-intensity focused ultrasound or minimally invasive Benign Prostate Hyperplasia (BPH) procedure\n4. Study participant unwilling or unable to undergo MRI, including participants with contra-indications to MRI, such as cardiac pacemakers, non-compatible intracranial vascular clips, etc.\n5. Metallic hip implant or any other metallic implant or device that distorts the quality of prostatic MR images.\n6. Study participants who, because of age, general medical or psychiatric condition, or physiologic status cannot give valid informed consent.\n7. Presence of any metastatic disease.\n8. No evidence of extracapsular extension of disease.\n9. Study participants, who in the opinion of the treating clinician, would be at increased risk of refractory urinary retention due to a transperineal procedure such as the Enolen implant.\n10. History of prostate infection within 2 years.\n11. No intercurrent medical condition or circumstances that would preclude prostatectomy.\n12. History of bleeding diathesis or currently on anti-coagulation therapy that cannot be safely discontinued for implant procedure.\n13. Any condition that, in the opinion of the Principal Investigator, which would impair the participant's ability to comply with study procedures and undergo prostatectomy.",
+  "minimum_age": "21 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Prostate Adenocarcinoma"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with localized prostate cancer who are planning for radical prostatectomy and have not received prior systemic therapy for advanced or metastatic disease. Patients with metastatic disease or prior radiotherapy, surgery, or ongoing hormonal therapy for prostate cancer are excluded.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Patients must not have received prior radiotherapy, surgery, or ongoing hormonal therapy for prostate cancer, and those with metastatic disease are excluded. The study population is treatment-naïve for advanced disease, and only patients with localized disease planning for prostatectomy are eligible."
+    }
+  ]
+}

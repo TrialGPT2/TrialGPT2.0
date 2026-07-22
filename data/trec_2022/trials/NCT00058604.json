@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00058604",
+  "title": "Prevention and Treatment of Epstein-Barr Virus (EBV) Lymphoma Following a Solid Organ Transplant Using EBV Specific Cytotoxic T Lymphocytes (CTLs).",
+  "brief_summary": "Patients who may have been infected with EBV (Epstein-Barr Virus) before or after the time of their transplant have a higher risk of developing Lymphoproliferative Disease (LPD) or may already have a form of this disease.\n\nThis research study uses Epstein Barr virus (EBV) specific cytotoxic T lymphocytes (CTLs). These cells have been trained to attack and kill (cytotoxic) EB virus infected cells.\n\nWe make these cells from the patients blood by first growing an EBV infected B cell line by infecting the blood with an EBV virus called B-95. We then treat these EBV infected B cells with radiation so they cannot grow and use them to stimulate T cells. This stimulation will train the T cells to kill EBV infected cells. We will then test the T cells to make sure they kill the EBV infected cells.\n\nThe purpose of this study is to find the largest safe dose of EBV specific CTLs, to learn what the side effects are, and to see whether this therapy might help prevent or cure EBV related cancers in solid organ transplant patients",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients falling into one of the following categories:\n\n  * Organ transplant recipients at high risk of developing LPD:\n  * EBV seronegative recipients\n  * Organ transplant recipients receiving OKT3 for immunosuppression\n* Organ transplant recipients with evidence of LPD\n* Organ transplant recipients with EBV DNA level \\>1,000 copies\n* Age \\<70 yrs old\n* Signed informed consent obtained from patient/guardian\n* CTLs available\n* Performance status; ECOG \u00a3 2\n* Creatinine \\< 3X normal\n* Bilirubin \\< 5X normal\n* AST \\< 5X normal\n* Has not received any other investigational cellular therapies within the past 30 days.\n\nExclusion criteria:\n\n* Patients with a severe intercurrent infection\n* Patients with life expectancy of less than 6 weeks\n* Patients receiving supplemental oxygen.",
+  "minimum_age": "",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Epstein-Barr Virus Infections",
+    "Lymphoproliferative Disorders"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT00579709",
+  "title": "Thymus Transplantation With Immunosuppression",
+  "brief_summary": "The research purpose is to determine if thymus transplantation with immunosuppression is a safe and effective treatment for complete DiGeorge anomaly. The research includes studies to evaluate whether thymus transplantation results in complete DiGeorge anomaly subjects developing a normal immune system.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Transplant Inclusion\n\n* No age limit\n* Thyroid studies must be done and if abnormal, must be on therapy\n\nDiGeorge diagnosis - must have 1 symptom from the following list:\n\n* Heart defect\n* Hypocalcemia requiring replacement\n* 22q11 hemizygosity\n* 10p13 hemizygosity\n* CHARGE association\n* Abnormal ears plus mother with diabetes (type I, type II, or gestational)\n\nAtypical Diagnosis:\n\n* Must have, or have had, a rash. If rash present, biopsy of rash must show T cells in skin. If rash \\& adenopathy resolved, must still have oligoclonal T cells.\n* Within 1 month of tx must have PHA response \\>20 fold above background or \\>5,000 cpm, whichever is higher, or response can be \\< this.\n* Circulating CD3+ T cells \\>50/mm3 but CD45RA+CD62L+CD3+ T cells \\<50/mm or \\<5% of CD3 count, whichever is higher (must be done 2x)\n* Immunoscope with \\>40% oligoclonal TCRBV families. A 2nd test per sponsor discretion if T cell numbers increase or activation status changes.\n* If TREC done pre-tx must have TRECs \\<100 per 100,000 CD3+ cells.\n\nTypical Diagnosis:\n\n* Circulating CD3+ CD45RA+ CD62L+ T cells and \\<50/mm3 or \\<5% of total T cells\n* PHA response \\>20 fold above background or \\>5,000 cpm, whichever is higher.\n* 2 studies must show similar immunological findings qualify for this study.\n* TRECs, if done, should be \\<100/100,000 CD3 cells\n\nTransplant Exclusion:\n\n* Heart surgery \\<4 weeks pre-tx date\n* Heart surgery anticipated w/in 3 months of proposed tx\n* Rejection by surgeon or anesthesiologist as surgical candidates\n* Lack of sufficient muscle tissue to accept 0.2 grams/kg transplant",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "DiGeorge Syndrome",
+    "DiGeorge Anomaly",
+    "Complete DiGeorge Anomaly",
+    "Complete DiGeorge Syndrome"
+  ],
+  "overall_status": "COMPLETED"
+}

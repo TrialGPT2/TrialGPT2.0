@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01175031",
+  "title": "Comparison of Breathing Event Detection by a Continuous Positive Airway Pressure Device to Clinical Polysomnography",
+  "brief_summary": "The purpose of this study is to demonstrate diagnostic agreement and determine the accuracy of the continuous positive airway pressure (CPAP) device compared to simultaneous, attended clinical polysomnography (PSG) in identifying breathing events in participants previously diagnosed with complex sleep apnea (CompSAS), complex sleep apnea with Cheyne-Stokes respiration (CSR), or obstructive sleep apnea (OSA).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Males and females, ages 21-80.\n* Able and willing to provide written informed consent.\n* Diagnosis of complex sleep apnea (CompSAS) or Obstructive Sleep Apnea (OSA) within one year of study participation.\n* For participants with CompSAS: (a) Diagnostic PSG with an Apnea-Hyopnea Index (AHI) greater than or equal to 10 events/hour and central apnea index (CAI) greater than or equal to 5 events/hour of sleep or (b) PAP titration with a CAI greater than or equal to 5 events/hour of sleep.\n* For participants with OSA, a diagnostic PSG with an AHI greater than or equal to 15 events/hour of sleep.\n* Must have had a CPAP titration such that the necessary PAP level to treat the sleep disordered breathing is known.\n* Agreement to undergo a full-night, in-laboratory PSG on CPAP device.\n\nExclusion Criteria:\n\n* Participation in an interventional research study within 30 days of study participation.\n* Pre-menopausal females known to be pregnant or who are sexually active and not using a reliable method of birth control.\n* Surgery of the upper airway, nose, sinus, or middle ear within the last 90 days.\n* Surgery at any time for the treatment of OSA such as uvulopalatopharyngoplasty (UPPP).\n* Major medical or psychiatric condition that would interfere with the demands of the study, adherence to positive airway pressure, or the ability to complete the study.\n* Chronic respiratory failure or insufficiency with suspected or known neuromuscular disease, moderate or severe Chronic Obstructive Pulmonary Disease (COPD) or other pulmonary disorders, or any condition with an elevation of arterial carbon dioxide levels (\\> 45 mmHg) while awake.\n* Currently prescribed oxygen therapy.\n* Ventilatory induced barotrauma within 6 months of study participation.\n* Untreated insomnia.\n* Other major medical condition that, in the judgment of the investigator, precludes participation in this study.",
+  "minimum_age": "21 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sleep Apnea Central",
+    "Cheyne-Stokes Respiration",
+    "Obstructive Sleep Apnea"
+  ],
+  "overall_status": "COMPLETED"
+}

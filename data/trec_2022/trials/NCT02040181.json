@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02040181",
+  "title": "Establishment of a Creatinine Clearance Estimation Equation and Daily Creatinine Excretion Reference Table for Taiwanese",
+  "brief_summary": "It's important to dose according to renal function in who has impaired kidney function. There are two common methods estimating renal function: one is creatinine clearance estimated by Cockcroft-Gault (CG) equation; another is glomerular filtration rate estimated by Modification of Diet in Renal Disease (MDRD) equation.\n\nThe previous study (not published) showed that CG underestimated 24 hour measured urine creatinine clearance by our team. The difference may be due to ethnicity. Thus we want to establish a estimated creatinine clearance equation fitting in Taiwanese.\n\nBesides, there are lots of studies discussing difference between CG and MDRD. We have found that MDRD overestimated CG in patients who were older or thin. Therefore, we want to analysis which characteristics of patients the difference are largest or smallest.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* age above or equal to 20 year-old adults\n* had 24 hour urine creatinine collection\n\nExclusion Criteria:\n\n* lack of at least one :sex, diagnosis, age,weight, height\n* serum creatinine beyond linear test range\n* with extreme weight or height\n* with acute kidney injury or specific diagnosis\n* with extremities of daily urine creatinine excretion",
+  "minimum_age": "20 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Outpatients or inpatients of National Taiwan University Hospital who had 24 hour urine creatinine collections during 2010/1/1 to 2012/12/31.",
+  "condition": [
+    "Estimated Creatinine Clearance"
+  ],
+  "overall_status": "COMPLETED"
+}

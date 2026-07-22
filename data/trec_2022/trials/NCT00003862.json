@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00003862",
+  "title": "Chemotherapy and Radiation Therapy in Treating Patients With Stomach Cancer",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to damage tumor cells. Combining chemotherapy with radiation therapy may kill more tumor cells.\n\nPURPOSE: Phase II trial to study the effectiveness of chemotherapy and radiation therapy in treating patients who have stomach cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically proven adenocarcinoma of the stomach\n\n  * Stage IB, II, IIIA, IIIB, and IV (T2-3, any N, M0)\n\n    * No lymph node metastases outside the field of resection (e.g., supraclavicular, mediastinal, or paraaortic nodes)\n  * Potentially resectable\n  * May involve the gastroesophageal junction, but bulk of tumor must be in the stomach\n  * No distant metastases\n  * No pleural or pericardial effusion\n* No peritoneal disease diagnosed by laparoscopy\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* Not specified\n\nPerformance status:\n\n* Zubrod 0-2\n\nLife expectancy:\n\n* At least 16 weeks\n\nHematopoietic:\n\n* Absolute granulocyte count greater than 2,000/mm\\^3\n* Platelet count greater than 100,000/mm\\^3\n\nHepatic:\n\n* Bilirubin no greater than 1.5 mg/dL\n\nRenal:\n\n* Creatinine less than 1.5 mg/dL\n\nCardiovascular:\n\n* No New York Heart Association class III or IV heart disease\n* No hypertension\n\nNeurologic:\n\n* No cerebrovascular disease\n* No diabetic neuropathy\n* No mental status abnormalities\n\nOther:\n\n* No uncontrolled diabetes\n* No infection\n* No other malignancies within past 5 years except resected squamous cell or basal cell skin cancer\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No prior immunotherapy\n\nChemotherapy:\n\n* No prior chemotherapy\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* No prior radiotherapy to stomach\n\nSurgery:\n\n* No prior surgery to stomach",
+  "minimum_age": "0 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Gastric Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

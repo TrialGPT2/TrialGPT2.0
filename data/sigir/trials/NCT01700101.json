@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01700101",
+  "title": "MelaFind Evaluations for Patients With Multiple Nevi",
+  "brief_summary": "We have added objectives 4-6 to our updated study:\n\nStudy Objective 1: To determine whether the distribution of MelaFind scores is different for different patients with multiple nevi, and whether such distributions can be utilized to identify \"signature\" lesions for a given patient.\n\nStudy Objective 2: To investigate whether distributions of quantitative ABCD parameters differ among patients and whether these qABCD parameters identify \"signature\" lesions.\n\nStudy Objective 3: To determine the feasibility of defining and using relative thresholds to improve the specificity of MelaFind without sacrificing its high sensitivity.\n\nStudy Objective 4: To determine the repeatability of MelaFind scores for a given lesion for different patient and lesion characteristics.\n\nStudy Objective 5: To identify patient and lesion characteristics that result in the highest variability of MelaFind scores for a given lesion.\n\nStudy Objective 6: To use standard errors of MelaFind scores to propose a robust individual threshold for lesions to be considered for biopsy to rule out melanoma on patients with multiple nevi.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Cutaneous lesions examined with MelaFind must satisfy all of the following inclusion criteria:\n\nInclusion Criteria:\n\n* The lesion is pigmented (i.e., melanin, keratin, blood)\n* The diameter of the pigmented area is not \\< 2 mm, and not \\> 22 mm\n* The lesion is accessible to the MelaFind\n* The patient, or a legally authorized representative, has consented to participate in the study and has signed the Informed Consent Form;\n\nCutaneous lesions that meet any of the following exclusion criteria will not be accepted:\n\nExclusion Criteria:\n\n* The patient has a known allergy to isopropyl alcohol\n* The lesion has been previously biopsied, excised, or traumatized\n* The skin is not intact (e.g., open sores, ulcers, bleeding)\n* The lesion is within 1 cm of the eye\n* The lesion is on mucosal surfaces (e.g., lips, genitals)\n* The lesion is on palmar hands\n* The lesion is on plantar feet\n* The lesion is on or under nails\n* The lesion is located on or in an area of visible scarring\n* The lesion contains foreign matter (e.g., tattoo, splinter, marker)",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who have at least one lesion that meets the inclusion/exclusion criteria (see eligibility criteria below) AND each lesion enrolled must be clinically atypical (i.e., contain at least one of the following ABCDEPRU characteristics: Asymmetry, Border irregularity, Color variegation, Diameter \\< 6 mm, Evolving, Patient's concern, Regression, Ugly duckling).\n\nLesions should be selected to have characteristics that may affect the repeatability of lesion scores: anatomic site (often exposed to UV - sun or tanning beds - or not; sun-damage may affect the repeatability); lesion diameter (6 mm, e.g. \\~5 mm or \\> 6 mm, e.g., 10 mm); and melanin content relative to normal skin (dark pigmentation or light pigmentation).\n\nA maximum of 8 lesions may be enrolled per patient",
+  "condition": [
+    "Clinically Atypical Pigmented Skin Lesion"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT04557969",
+  "title": "Surgery in Gastrointestinal Stromal Tumors (GISTs) for Treatment, Tumor Modeling, and Genomic Analysis",
+  "brief_summary": "Objective:\n\nTo follow people with GISTs and collect tumor tissue so that it can be studied in the lab.\n\nEligibility:\n\nPeople age 6 and older who have a GIST.\n\nDesign:\n\nParticipants will be screened with a review of their medical records and samples.\n\nParticipants will enroll in 1 other NIH study, and may be asked to enroll in 2 other optional NIH studies.\n\nParticipants will have a medical history and physical exam. Data about how they function in their daily activities will be obtained.\n\nParticipants may speak with a genetic counselor. They may have genetic testing.\n\nParticipants will give blood samples. They may have a cheek swab. For this, small brush will be rubbed against the inside of the cheek.\n\nParticipants may have a computed tomography (CT) scan of the chest, abdomen, and pelvis. Or they may have a CT scan of the chest and magnetic resonance imaging (MRI) of the abdomen and pelvis.\n\nParticipants will be monitored every 6-12 months at the NIH Clinical Center, for up to 10 years before having surgery. If they need surgery, it will be performed at the NIH. Then, they will be monitored every 6-12 months, for up to 5 years after surgery.\n\nIf a participant has surgery, tumor tissue samples and research specimen will be taken.\n\nIf a participant does not need surgery, their participation will end after 10 years. If they have surgery, the 5-year monitoring period will restart after each surgery.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Histological confirmation or clinical presentation suspicious of GIST; histological confirmation will be preferably by review of archival tissue if available, fresh biopsy will not be required if inadequate tissue sample.\n* Age \\>= 6 years\n* ECOG performance status \\<= 2 (Karnofsky or Lansky \\>= 60%)\n* Ability of participant or parent/guardian to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n\\- Non-modifiable medical comorbidities that would preclude cytoreductive surgery.",
+  "minimum_age": "6 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals with histologically confirmed or clinical presentation suspicious of GIST.",
+  "condition": [
+    "Gastric Cancer",
+    "Gastric Neoplasm",
+    "Gastrointestinal Stromal Sarcoma",
+    "Gastrointestinal Stromal Neoplasm",
+    "Gastrointestinal Stromal Tumor (GIST)"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study enrolling patients with GIST regardless of prior systemic therapy or disease stage. There are no requirements or restrictions regarding prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes all patients with GIST, with no mention of prior systemic therapy for advanced disease. Both treatment-naïve and previously treated patients, including those who have only received adjuvant therapy, are eligible."
+    }
+  ]
+}

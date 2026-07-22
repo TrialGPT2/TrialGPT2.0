@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT01411852",
+  "title": "Field Trial of Hypotensive Versus Standard Resuscitation for Hemorrhagic Shock After Trauma",
+  "brief_summary": "Primary Aim: To determine the feasibility and safety of hypotensive resuscitation for the early treatment of patients with traumatic shock compared to standard fluid resuscitation.\n\nPrimary Hypotheses: The null hypothesis regarding feasibility is that hypotensive resuscitation will result in the same volume of early crystalloid (normal saline) fluid administration compared to standard crystalloid resuscitation. The null hypothesis regarding safety is that hypotensive resuscitation will result in the same percent of patients surviving to 24 hours after 911 call received at dispatch compared to standard fluid resuscitation. Early resuscitation is defined as all fluid given until 2 hours after arrival in the Emergency Department or until hemorrhage control is achieved in the hospital, whichever occurs earlier.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria: Included will be those with:\n\n* Blunt or penetrating injury\n* Age \u226515yrs or weight \u226550kg if age is unknown\n* Prehospital SBP \u2264 90 mmHg\n\nExclusion Criteria: Excluded will be those with:\n\n* Ground level falls\n* Evidence of severe blunt or penetrating head injury with a Glasgow Coma Scale (GCS) \u2264 8\n* Bilateral paralysis secondary to suspected spinal cord injury\n* Fluid greater than 250ml was given prior to randomization\n* Cardiopulmonary resuscitation (CPR) by Emergency Medicine Service (EMS) prior to randomization\n* Known prisoners\n* Known or suspected pregnancy\n* Drowning or asphyxia due to hanging\n* Burns over a Total Body Surface Area (TBSA) \\> 20%\n* Time of call received at dispatch to study intervention \\> 4 hours",
+  "minimum_age": "15 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Blunt Trauma",
+    "Penetrating Wound",
+    "Hemorrhagic Shock"
+  ],
+  "overall_status": "COMPLETED"
+}

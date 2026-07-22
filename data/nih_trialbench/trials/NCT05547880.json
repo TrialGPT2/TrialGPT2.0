@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT05547880",
+  "title": "CNS Correlates of Extended Sleep Restriction",
+  "brief_summary": "Chronic sleep restriction is ubiquitous in both the general population and the military. The deleterious effects of sleep loss on human alertness and cognitive performance have been documented in numerous studies dating back to the nineteenth century. Over the past decade, evidence has emerged indicating that chronic sleep restriction may also precipitate deleterious, long lasting neuropathological changes in the brain. The purpose of this study is to determine neuropathological effects of sleep restriction and identify physiological mechanisms that correlate with sleep loss-induced performance impairment.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* Ages 18 to 39 (inclusive)\n* A body mass index (BMI) below 30.\n* Weigh at least 140 lbs\n* Females must not be pregnant or nursing, and must be on some form of birth control, if sexually active (e.g., oral contraceptive, condom, intrauterine device, etc.)\n* No history of sleeping problems such as insomnia or sleep apnea.\n* Test negative for alcohol, nicotine, illegal drugs, and not take certain medications.\n* Must not excessively consume alcohol or caffeine.\n* Active duty and Federal employees must be on leave during participation.\n* No history of heart disease (high blood pressure), neurologic disorder (such as seizures of epilepsy), liver disease, kidney disease, or metabolic disorder or diabetes.\n* No history of underlying acute or chronic pulmonary disease requiring daily inhaler use.",
+  "minimum_age": "18 Years",
+  "maximum_age": "39 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Community sample",
+  "condition": [
+    "Sleep Restriction"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is not an oncology trial and does not involve systemic therapy for advanced disease. There are no lines of therapy relevant to cancer treatment in this study.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention cancer, systemic therapy, or lines of therapy for advanced disease. This study is unrelated to oncology treatment."
+    }
+  ]
+}

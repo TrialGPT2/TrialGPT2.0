@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02366507",
+  "title": "Systolic Blood Pressure Measurement in Critically-ill Patients",
+  "brief_summary": "Traditional devices to measure blood pressure include automatic sphygmomanometer (pressure) cuff systems or manual blood pressures obtained by auscultation (listening with a stethoscope). Both these techniques fail to provide accurate and consistent blood pressure in the hypotensive (low blood pressure) state, which is often encountered in emergency departments and intensive care units. Alternately, invasive arterial pressure measurement is time-intensive, painful, expensive, and risks include bleeding, infection, and neurovascular injury.\n\nIn clinical practice, the Doppler velocimetry system is occasionally used in hypotensive, critically-ill patients when an immediate systolic blood pressure measurement is vital for clinical and therapeutic management. With a technique similar to that used to obtain a manual blood pressure, the Doppler velocimetry system can be used in place of the auscultation of the brachial pulse to accurately determine the systolic blood pressure. It is currently unknown whether additional information can be obtained by evaluation of the Doppler waveform in healthy vs. critically-ill patients. The goal is this project is to digitally record Doppler waveforms of critically-ill patients in the Emergency Department (ED) via a standard 8MHz (fetal) Doppler probe, correlate the Doppler readings with current blood pressure and heart rate, and determine if waveform shapes and parameters are predictive of hemodynamic compromise.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age \u2265 18\n2. Systolic Blood Pressure \\< 90 mmHg\n3. Normotensive patients with SBP \\> or = 90 mmHg with suspected hypoperfusion/shock\n\nExclusion Criteria:\n\n1. Patients \\< 18 years of age\n2. Pregnant patients",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult patients that present to the Emergency Department with hypotension or suspected shock.",
+  "condition": [
+    "Hypotension",
+    "Shock"
+  ],
+  "overall_status": "COMPLETED"
+}

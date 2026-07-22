@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03958435",
+  "title": "Real-world Retrospective Data Analysis of Adjuvant Therapy for Patients With Stage II-III Colon Cancer After Radical Surgery",
+  "brief_summary": "Background:\n\n1. . The incidence and mortality of colon cancer are high in China and in the world.\n2. . The treatment of many patients in the real world is not standardized, and there are problems such as over-treatment or under-treatment. To explore the adjuvant treatment of colon cancer in the Chinese population, this study will retrospectively analyze real-world data on adjuvant therapy for colon cancer in Chinese patients after radical surgery.\n\nThe purpose of research:\n\n1. . Current status of adjuvant therapy for stage II-III colon cancer in the real world: chemotherapy regimen, chemotherapy time, efficacy, safety, etc.\n2. . Comparison of efficacy and safety of different adjuvant chemotherapy time (\\<3 months vs. \\>=3 months) in high-risk stage II and III colon cancer patients in the real world\n3. . Comparison of efficacy and safety of different adjuvant chemotherapy regimens (XELOX vs. FOLFOX) in high-risk stage II and III colon cancer patients in the real world",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients who are sick after January 2010\n* Age is older than 18\n* Surgical pathology confirmed TNM stage II-III (AJCC 7th edition) colon cancer\n\nExclusion Criteria:\n\n* Combine other tumors\n* Pathological information is not clear\n* Researchers believe that other reasons are not suitable for enrollment",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "20000 patients diagnosed with stage II-III colon cancer and undergo radical surgery since January 2010.\n\nThe demographic analysis of this study will include but limited in\uff1a\n\n* Demographic characteristics (age, gender, height, weight),\n* Clinical information (Site, TNM(Tumor, regional lymph Node, Metastasis) staging, CEA(Carcinoembryonic Antigen), imaging findings, patient ECOG(Eastern Cooperative Oncology Group)score, PS(Performance Status) score),\n* Pathology information (MMR(Mismatch Repair) status, RAS status, BRAF status, HER2 status, Lymph node, Number of detections, Nerve infiltration, Vascular invasion, Histological type, etc.)",
+  "condition": [
+    "Stage II Colon Cancer",
+    "Stage III Colon Cancer",
+    "Adjuvant Therapy"
+  ],
+  "overall_status": "UNKNOWN"
+}

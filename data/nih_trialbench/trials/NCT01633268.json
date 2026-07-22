@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT01633268",
+  "title": "Estimating Brain Biomechanics Using MRI",
+  "brief_summary": "Objective: In this study we will develop and apply imaging techniques to perform the first three-dimensional (3-D) measurements of brain biomechanics during mild head movement in healthy human subjects. Biomechanics is the application of mechanics, or the physical principles in action when force is applied to an object, to the anatomical structure and/or function of organisms. Such techniques will be invaluable for building computational models of brain biomechanics, understanding variability of brain biomechanics across individual characteristics, such as age and sex, and determining brain sub-structures at risk for damage when movement of the head is accelerated, such as during a traumatic event.\n\nStudy Population: Measurements will be performed on 90 healthy men and women aged 18-65.\n\nDesign: We will build upon the model pioneered by our collaborator, Dr. Philip Bayly. The model places a human subject in a magnetic resonance (MR) scanner with one of two head support units that allows a specific range of motion. Each head support is latched such that it can be released by the subject, and results in either a rotation of the head of approximately 30 degrees or a flexion-extension of the head of approximately 4 degrees. Although both supports are weighted so that the motion is repeatable if the subject is relaxed, the subject can easily counteract the weight. The resulting acceleration/deceleration is small (in the range of normal activities, such as turning one's head during swimming) and has been validated and used in other human investigations of brain biomechanics. The subject repeats the motion multiple times during the MR scan under their own volition and desired pace to measure motion of the head and brain.\n\nOutcome measures: This project is a pilot study evaluating the potential of extracting three-dimensional estimates of brain deformation, such as strain measurements, using MR imaging. A primary outcome of this project will be a fast MR acquisition sequence for measuring 3-D brain deformation. The sequence will be evaluated by applying the protocol to human subjects, followed by preliminary quantification of the reproducibility and stability of deformation measurements.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Between 18 and 65 years of age\n* Able to provide written informed consent\n* Able to lie flat for up to 2 hours\n* Able to move head up to 220 times within 45 minutes without discomfort\n* Good general health based on History and Physical (H\\&P) or History and Assessment (H\\&A)\n\nEXCLUSION CRITERIA:\n\n* Contra-indications to MRI scanning without contrast based on RADIS department MRI safety questionnaire\n* Pregnancy\n* Inner ear problems causing vertigo\n* History of spinal cord injury, head injury or other musculoskeletal condition that may result in an aversion to or difficulty with turning one s head multiple times in succession\n* Claustrophobia (no sedation is permitted under this protocol)\n* Weight more than 250 lbs\n* Height greater than 6'4\"\n* All employees/staff supervised by the Principle Investigator or Lead Associate Investigator are excluded from participation.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy volunteers between age 18 and 65.",
+  "condition": [
+    "Healthy Volunteer",
+    "Traumatic Brain Injury",
+    "Brain Mapping",
+    "Craniocerebral Trauma",
+    "Magnetic Resonance Imaging"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-oncology, healthy volunteer study with no cancer diagnosis or systemic therapy involved. There is no line-of-therapy intent applicable to this trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls only healthy volunteers without cancer; there is no mention of systemic therapy or lines of therapy for advanced disease. Line-of-therapy criteria are not applicable."
+    }
+  ]
+}

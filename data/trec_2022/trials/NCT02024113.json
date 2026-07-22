@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02024113",
+  "title": "LC-NMR Study Biomarkers to Detect Lung Cancer",
+  "brief_summary": "Lung cancer is the most common cancer in men and the fourth most common cancer in women worldwide. Until today no effective method permits the early detection of lung cancer. Consequently, lung cancer is often diagnosed owing to symptoms of advanced disease. To address this problem, detection methods with an improved sensitivity and specificity are urgently needed.\n\nOver the past decade, accumulating evidence shows that the metabolism of cancer cells differs from that of normal cells. More specifically, the entire metabolism of cancer cells is reorganized or reprogrammed to increase anabolic reactions that induce cell growth and survival. Metabolic reprogramming during the development of cancer is driven by aberrant signaling pathways due to the activation of oncogenes and the loss of tumor suppressor genes. Furthermore, the microenvironment of the tumor plays a role in metabolic reprogramming. The altered cancer metabolism is characterized by an increased glycolysis, the production of lactate and the biosynthesis of macromolecules, such as proteins, lipids and nucleotides. Cancer cells have a high glycolytic rate and eliminate most of the glucose-derived carbon as lactate rather than oxidizing it completely via oxidative phosphorylation, a phenomenon known as the Warburg effect. The breakdown of glucose and other nutrients leads to a high energy production and provides the Krebs cycle with intermediates, which consequently are allocated to metabolic pathways that support biosynthesis. Metabolites are the end products of cellular metabolism and are therefore closely related to the observed phenotype. Disturbances in biochemical pathways which occur during the development of cancer consequently provoke changes in the metabolic phenotype. As a result, low-molecular weight metabolites are very attractive biomarkers for different cancer types. Nuclear magnetic resonance (NMR) spectroscopy enables the identification and quantitative analysis of complex mixtures of metabolites, as in plasma and serum, without an extended sample preparation.\n\nThe present study aims to determine the metabolic phenotype of lung cancer by means of proton (1H)-NMR spectroscopy. Once the phenotype determined (training cohort), this has to be validated by an independent cohort.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosis of a new lesion in the lung\n\nExclusion Criteria:\n\n* a prior diagnosis of cancer in the past\n* Not fasted for at least 6 hours\n* Plasma glucose concentration \u2265 200 mg/dl\n* Intake of medication at the day of investigation\n* History/treatment of cancer in the previous 5 years",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Study population: patients with a new diagnosis of lung cancer Control population: matched subjects with no diagnosis of cancer",
+  "condition": [
+    "Lung Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

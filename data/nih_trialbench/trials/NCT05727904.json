@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT05727904",
+  "title": "Study to Investigate Lifileucel Regimen Plus Pembrolizumab Compared With Pembrolizumab Alone in Participants With Untreated Advanced Melanoma.",
+  "brief_summary": "This is a Phase 3, multicenter, open-label, randomized, parallel group, treatment study to assess the efficacy and safety of lifileucel in combination with pembrolizumab compared with pembrolizumab alone in participants with untreated, unresectable or metastatic melanoma. Participants randomized to the pembrolizumab monotherapy arm who subsequently have a blinded independent central review- verified confirmed progressive disease (PD) will be offered lifileucel monotherapy in an optional crossover period.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Participant has a histologically or pathologically confirmed diagnosis of Stage IIIC, IIID, or IV unresectable or metastatic melanoma.\n2. In the investigator's assessment, the participant has an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 and an estimated life expectancy of \\> 6 months.\n3. Participant is assessed as having at least one resectable lesion (or aggregate lesions) for lifileucel generation.\n4. Participant must have at least one measurable disease as defined by RECIST 1.1 following tumor resection.\n5. Participants must have adequate organ function.\n6. Participants of childbearing potential or those with partners of childbearing potential must be willing to practice an approved method of highly effective birth control.\n7. Participants who are \\> 70 years of age may be allowed to enroll after the investigator discusses with the medical monitor.\n\nExclusion Criteria:\n\n1. Participant has melanoma of uveal/ocular origin.\n2. Participant has symptomatic untreated brain metastases.\n3. Participant received more than 1 prior line of therapy.\n4. Participant received prior therapy for metastatic disease\n5. Participants with a BRAF V600 mutation-positive tumor received prior adjuvant/neoadjuvant ICI therapy only\n6. Participant has an active medical illness(es) that, in the opinion of the investigator, would pose increased risks for study participation, such as systemic infections; seizure disorders; coagulation disorders; or other active major medical illnesses of the cardiovascular, respiratory, or immune systems.\n7. Participant has any form of primary or acquired immunodeficiency (eg, SCID or AIDS).\n8. Participant had another primary malignancy within the previous 3 years (except for those that do not require treatment or were curatively treated \\>1 year ago, and in the judgment of the investigator do not pose a significant risk of recurrence.)\n9. Participant has a history of allogeneic cell or organ transplant.\n\nOther protocol defined inclusion/exclusion criteria could apply.",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Metastatic Melanoma",
+    "Unresectable Melanoma",
+    "Melanoma"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with untreated, unresectable or metastatic melanoma who have not received prior systemic therapy for advanced disease. Adjuvant or neoadjuvant therapy is allowed only for BRAF V600 mutation-positive patients, but no prior metastatic therapy is permitted.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility requires no prior systemic therapy for metastatic disease. Patients with BRAF V600 mutation-positive tumors may have received prior adjuvant/neoadjuvant ICI therapy only, but not for advanced disease. Therefore, this is a first-line (1L) advanced/metastatic setting, and adjuvant-only patients are allowed."
+    }
+  ]
+}

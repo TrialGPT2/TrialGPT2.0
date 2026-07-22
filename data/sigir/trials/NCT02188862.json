@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02188862",
+  "title": "Genetic Susceptibility to Rheumatic Heart Disease in the Pacific Region",
+  "brief_summary": "The purpose of this study is to investigate whether there are genetic differences between patients with rheumatic heart disease and members of the general population.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "1. Cases\n\n   1. Inclusion Criteria:\n\n      * Diagnosis of rheumatic heart disease based on one of:\n\n        * World Heart Federation definite echocardiographic criteria\n        * World Heart Federation borderline echocardiographic criteria and history of acute rheumatic fever\n        * Mitral stenosis with valve area less than 2.0 cm2\n        * Previous surgery for rheumatic heart disease\n   2. Exclusion Criteria:\n\n      * Age less than five years\n      * Inability to give consent\n2. New Controls\n\n   1. Inclusion criteria:\n\n      * Healthy individual living in a community where cases were identified\n   2. Exclusion Criteria:\n\n      * Past medical history or systems suggestive of rheumatic heart disease, acute rheumatic fever or other valvular heart disease\n      * Age less than five years\n      * Inability to give consent",
+  "minimum_age": "5 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Cases:\n\n* Prevalent and incident cases of rheumatic heart disease ascertained from disease registers, primary care clinics and hospital services.\n\nNew Controls:\n\n* Individuals volunteering from communities where cases were identified.\n\nExisting Controls:\n\n* Individuals from this region who have previously been recruited to population genetics research studies.",
+  "condition": [
+    "Rheumatic Heart Disease",
+    "Mitral Stenosis"
+  ],
+  "overall_status": "COMPLETED"
+}

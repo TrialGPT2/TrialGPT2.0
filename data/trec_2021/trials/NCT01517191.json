@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01517191",
+  "title": "Sentinel Surveillance for Influenza Requiring Hospital Admission Canadian Adults",
+  "brief_summary": "This surveillance study will include all consenting adults hospitalized with influenza (cases) at the SOS network of hospitals as well as influenza negative patients(controls), to assess vaccine effectiveness in each group. Both groups will be followed throughout their hospitalization and for 30 days post discharge to monitor severity of illness and outcomes following their illness.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patients \u2265 16 years of age admitted to participating SOS Network hospitals with the following admitting diagnoses will be eligible for screening:\n* pneumonia\n* acute exacerbation of chronic obstructive pulmonary disease (AECOPD) or asthma\n* unexplained sepsis\n* Any other respiratory infection or diagnosis Or any respiratory or influenza-like symptom )(eg dyspnea, cough, sore throat, myalgia, arthralgia, fever, delirium/altered level of consciousness, CHF)\n\nExclusion Criteria:\n\n* Patients whose reason for admission was clearly unrelated to the presence of influenza (for example, patients admitted due to trauma, elective surgery, or patients who have an alternative diagnosis that is clearly not respiratory,, e.g. cellulitis, intra-abdominal process, or gastrointestinal bleeding) Unless being enrolled as a nosocomial influenza case\n* Patients whose onset of symptoms was prior to or within 72 hours of hospital admission but who were not tested for influenza within 7 days of hospital admission. These should be captured on the screening form as screen failures.\n* No children in care will be enrolled in the study",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "This observational study is open to adults admitted to hospital with test postitive influenza or with an influenza like illness who test negative.",
+  "condition": [
+    "Influenza"
+  ],
+  "overall_status": "COMPLETED"
+}

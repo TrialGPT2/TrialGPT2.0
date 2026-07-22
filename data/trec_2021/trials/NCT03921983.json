@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03921983",
+  "title": "Non Invasive Evaluation of Muscle Hypoxia in COPD Patient (EVANIMUS)",
+  "brief_summary": "Peripheral muscle oxidative function is altered in COPD(chronic obstrutive pulmonary disease) patients. Multiple factors could contribute to this dysfunction including chronic hypoxia and deconditioning (sedentarity).\n\nThe evaluation of mitochondrial function is based on invasive method (muscle biopsy and in vitro respirometry) or magnetic resonance spectroscopy limited to small muscle groups. Recently, a non invasive method has been described using Near InfraRed Spectroscopy (NIRS). During arterial occlusion, muscle deoxygenation is only dependent of local oxygen consumption. The time constant recovery (k) of the deoxygenation during repeated ischemia periods has been shown to be correlated to measurements of maximal mitochondrial capacity.\n\nk is lower in COPD patients compared to smokers without bronchial obstruction. However, the influence of arterial hypoxia has never been studied precisely, no more than the confounding effect of deconditioning on k.\n\nSo , the aim is to compare k in COPD patients with chronic hypoxemia (treated with long term oxygenotherapy, LTOT+ group) and patients without hypoxia, matched for their physical activity (LTOT- group).\n\nThe hypothe is that k will be lower in LTOT+ group compared to LTOT- group and that short term O2 supplementation will improve it, which would suggest a muscle hypoxia. By contrast, O2 should not influence k in LOT- group, in whom it is mainly determined by muscle conditioning.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* COPD diagnostic\n* Both sex\n* 18 \\<Age \\<80 years old\n* LTOT- group : PaO2 \u2265 65 mmHg and SaO2\u2265 92%\n* LTOT+ group: long term oxygenotherapy prescribed for more than 3 months, with daily use between 12 and 15 hours.\n\nPatients in both groups will be matched for age (\u00b1 5 years), sex and physical activity estimated by GPAQ questionnaire (\u00b1 15% Mets.min/week).\n\nExclusion Criteria:\n\n* Recent cardiorespiratory exacerbation (\\<6 weeks).\n* Pulmonary rehabilitation program during the last 2 months\n* Continuous LTOT (24 hours) or deambulation O2 therapy alone\n* Anticoagulant drugs\n* Hematocrit outside the normal range (35-50%)",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COPD (Chronic Obstructive Pulmonary Disease)",
+    "Hypoxemia"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04688905",
+  "title": "Diagnosing Heart Failure With Preserved Ejection Fraction in Patients With Unexplained Dyspnea (Diagnose-HFpEF)",
+  "brief_summary": "Invasive diagnosis of heart failure with preserved ejection fraction (HFpEF) in patients with unexplained dyspnea NYHA II-III compared to other diagnostic tools",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* dyspnea NYHA II-III\n* age 18-90 years\n* left ventricular ejection fraction \u2265 50%\n* ability to give informed consent\n\nExclusion Criteria:\n\n* unstable cardiac disease with acute decompensation\n* documented former LVEF \u2264 40%\n* heart valve disease with medium or high grade insufficiency or stenosis\n* coronary heart disease with hemodynamically relevant coronary stenosis\n* specific cardiomyopathia\n* acute or chronic cardiac inflammation (myocarditis, pericarditis)\n* former heart transplantation\n* relevant pulmonary disease (e.g. COPD) assumably causing the dyspnea\n* FEV1/VC \\< 70%\n* hemoglobin \\< 5 mmol/l\n* pregnant or nursing women\n* contraindication for one of the diagnostic tests",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with unexplained dyspnea NYHA II-III",
+  "condition": [
+    "Dyspnea"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

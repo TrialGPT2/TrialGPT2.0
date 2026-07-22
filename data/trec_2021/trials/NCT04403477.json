@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04403477",
+  "title": "Convalescent Plasma Therapy in Severe COVID-19 Infection",
+  "brief_summary": "As of March 18, 2020, COVID-19 cases were reported in approximately 195 countries. No specific therapeutic agents or vaccines for COVID-19 are available. Several therapies, such as remdesivir and favipiravir, are under investigation, but the antiviral efficacy of these drugs is not yet known. The use of convalescent plasma (CP) was recommended as an empirical treatment during outbreaks of Ebola virus in 2014. A protocol for treatment of Middle East respiratory syndrome coronavirus (MERS-CoV) with CP was established in 2015. This approach with other viral infections such as SARS-CoV, H5N1 avian influenza, and H1N1 influenza also suggested that transfusion of CP was effective. In previous reports, most of the patients received the CP by single transfusion. In a study involving patients with pandemic influenza A(H1N1) 2009 virus infection, treatment of severe infection with CP (n = 20 patients) was associated with reduced respiratory tract viral load, serum cytokine response, and mortality. In another study involving 80 patients with SARS, the administration of CP was associated with a higher rate of hospital discharge at day 22 from symptom onset compared with patients who did not receive CP. Accordingly, these findings raise the hypothesis that use of CP transfusion could be beneficial in patients infected with SARS-CoV-2. The objective of this study is to describe the initial clinical experience with CP transfusion administered to severe COVID-19 patients. The primary endpoint of this trial would be to assess the tolerability, efficacy, and dose-response of CP in severe COVID-19 patients. The secondary endpoint would be to assess the clinical and laboratory parameters after therapy, in-hospital mortality, length of hospital stay, reduction in the proportion of deaths, length of ICU stay, requirement of ventilator and duration of ventilator support. All RT-PCR positive cases with features of severe infection will be enrolled in this study. Apheretic CP will be collected from a recovered patient (consecutive two RT-PCR samples negative) between day 22 to 35 days of recovery and those with the antibody titre above 1:320.\n\nThis RCT will consist of three arms, a. standard care, b. standard care and 200 ml CP and c. standard care and 400 ml CP as a single transfusion. Twenty (20) patients will be enrolled for each arm. Randomization will be done by someone not associated with the care or assessment of the patients by means of a random number table. Allocations will be concealed in sequentially numbered, opaque, sealed envelopes. Clinical parameters \\[fever, cough, dyspnea, respiratory rate, PaO2/ FiO2 level, pulse, BP, the requirement of O2, and others\\] will be recorded before and after CP. Laboratory parameters such as complete blood count, CRP, chest X-ray, SGPT, SGOT, S. Ferritin, and serum antibody titre will be measured before and after transfusion. Allergic or serum sickness-like reactions will be noted and adjusted with outcome. Laboratory tests including RT-PCR will be done at BSMMU virology and laboratory medicine department. Apheretic plasma will be collected at the transfusion medicine department of SHNIBPS hospital, ELISA, antibody titre will be done at CMBT, and patients will be enrolled at DMC and MuMCH. All necessary screening tests will be done before transfusion.\n\nGraphpad Prism v 7.0 will be used for analysis. One way ANOVA test, a non-parametric Mann-Whitney test, and a Kruskal-Wallis test will be performed to compare the arms. For parametric outcomes, the investigators will compare the odds ratios across the pairs.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Respiratory rate \\> 30 breaths/min; PLUS\n2. Severe respiratory distress; or SpO2 \u2264 88% on room air or PaO2/FiO2\u2264 300 mm of Hg, PLUS\n3. Radiological evidence of bilateral lung infiltrate, AND OR\n4. Systolic BP \\< 90 mm of Hg or diastolic BP \\<60 mm of Hg. AND OR\n5. Criteria 1 to 4 AND or patient in Ventilator support\n\nExclusion Criteria:\n\n1. Patients below18 years.\n2. Pregnant women and breast-feeding mothers.\n3. Previous history of allergic reaction to plasma\n4. Those who will not give consent",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19",
+    "Convalescence"
+  ],
+  "overall_status": "UNKNOWN"
+}

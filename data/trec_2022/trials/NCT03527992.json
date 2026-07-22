@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03527992",
+  "title": "Automated Oxygen Administration in Patients With Hypoxemic Pneumonia and Pleuropneumonia",
+  "brief_summary": "Hypoxemic pneumonia is a major cause of hospitalization in Pulmonology. The patient's dependency on oxygen prevents early discharge from the hospital. An automated oxygen therapy is a system that allows administration of oxygen with a flow that is automatically adjusted to the patient's saturation, which is continuously monitored. This system has proven to be particularly effective with chronic obstructive pulmonary disease (COPD) patients, by decreasing the time spent in hypoxia and hyperoxia, and by accelerating the weaning of oxygen. Our hypothesis is that automated oxygen therapy leads to a diminution on the length of hospital stay.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult\n* Patient living at home or in an institution\n* Patient hospitalized for less than 48 hours\n* Pneumonia defined (according to the 2006 French-speaking infectious pneumology society (SPILF) criteria) by:\n\n  * respiratory functional symptoms (cough, sputum, dyspnea, chest pain) and\n  * Hyperthermia \\>38,5\u00b0C or hypothermia \\<36\u00b0C and\n  * Radiological Signs of Pneumonia\n* Hypoxia : SpO2 \\< 94% in ambient air and/or PaO2\\< 60 mmHg in ambient air\n\nExclusion Criteria:\n\n* Pneumonia acquired at the hospital.\n* Patient hospitalized in another department more than 48 hours before admission\n* Chronic respiratory failure\n* Active neoplasia\n* Patients undergoing oxygen therapy and / or long-term NIV\n* Associated cardiac decompensation (clinical signs and / or NTproBNP\\> 1800ng / mL) (3\n* Initial Need for high flow oxygen therapy or ventilatory support (NIV, VI)\n* Difficulties expected from home support.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pneumonia",
+    "Pneumonia, Ventilator-Associated",
+    "Length of Stay"
+  ],
+  "overall_status": "RECRUITING"
+}

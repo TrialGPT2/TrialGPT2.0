@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03535909",
+  "title": "Hemodynamic Assessment in Acute Decompensated Heart Failure",
+  "brief_summary": "This study will assess the ability of a novel optical measurement system to determine changes in the hemodynamic status of heart failure patients admitted to the hospital with a primary diagnosis of acute decompensated heart failure. Patients will be measured with both the novel measurement system and reference devices that are FDA-cleared for hemodynamic measurements. The measurements from the novel system will be compared to reference variables describing hemodynamic and congestive status, including stroke volume, central venous pressure, and serum levels of NT-proBNP.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \u2265 18 years\n* Admission to the hospital with a primary diagnosis of acute decompensated heart failure\n* Treated with or planned treatment with intravenous diuretics\n* Volume overload, as indicated by at least one of the following clinical signs:\n\n  * Peripheral edema\n  * Pulmonary edema on physical examination\n  * Pleural effusions on chest x-ray\n  * Jugular venous distension on physical examination\n  * CVP \\> 10 cmH2O\n  * Presence of third heart sound\n* Able to understand study procedures, agree to participate in the study program and voluntarily provide written informed consent\n\nExclusion Criteria:\n\n* Inability or refusal to sign the Subject Informed Consent\n* Age \\> 80 years\n* Body mass index (BMI) \\> 40\n* Planned mechanical ventilation during hospitalization\n* Presence of left ventricular assist device (LVAD)\n* Dialysis\n* Pregnancy. All women of childbearing potential must have a negative pregnancy test before enrollment.\n* Parenteral diuretic or other medical treatment for ADHF already administered for more than 12 hours prior to enrollment\n* Skin damage to the optical sampling sites (fingers and dorsal hand), to include tattoos, scars, cuts, or burns extending over more than 30% of the visible tissue\n* Compromised superficial hand veins or proximal venous stenosis\n* Intravenous lines connected to both arms\n* Inability to stand with support, if needed, for 4 minutes\n* Inability to place hand in the venous imaging enclosure due to forearm, elbow, or shoulder injuries, or other physical constraints\n* Inability to wear fingertip or ring sensors on three fingers (of either hand) due to missing fingers, injured fingers, or other physical constraints\n* Persons in police custody or prisoners\n* Major medical or psychiatric condition that would interfere with the ability to complete the study",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects diagnosed with congestive heart failure and admitted to the hospital with a diagnosis of acute decompensated heart failure (ADHF).",
+  "condition": [
+    "Congestive Heart Failure"
+  ],
+  "overall_status": "COMPLETED"
+}

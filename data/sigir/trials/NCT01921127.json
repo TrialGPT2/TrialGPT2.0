@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01921127",
+  "title": "Comparative Effectiveness of Symbicort vs. Advair Among COPD Patients",
+  "brief_summary": "This study is intended to evaluate treatment effectiveness of BFC compared to FSC in COPD patients new to ICS/LABA combination therapy.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Continuous health plan enrollment for 12 months before and after index Rx, at least one prescription for BFC or FSC during intake period, naive to ICS/LABA therapies in year prior to first prescription claim, COPD diagnosis, aged 40 or over at time of first prescription.\n\nExclusion Criteria:\n\n* ICS/LABA combination during pre-index period, patients with a claim for BFC and FSC on the same day, patients diagnosed with cancer, patients with long-term OCS medication use during pre-index period.",
+  "minimum_age": "40 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Health plan members with COPD aged 40 years or older receiving one or more prescriptions of BFC or FSC during 3/1/2009 and 3/31/2013 who are naive to ISC/LABA combinbination therapy.",
+  "condition": [
+    "COPD"
+  ],
+  "overall_status": "COMPLETED"
+}

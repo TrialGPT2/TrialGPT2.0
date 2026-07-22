@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT02471339",
+  "title": "Acceptance and Commitment Training for Adolescents and Young Adults With Neurofibromatosis Type 1, Plexiform Neurofibromas, and Chronic Pain",
+  "brief_summary": "Background:\n\n\\- People with neurofibromatosis type I (NF1) and plexiform neurofibroma (PN) tumors often have chronic pain that his hard to control. People usually take medicines for the pain, but they may not work well and might cause side effects. A new strategy called Acceptance and Commitment Training (ACT) may help these people cope with chronic pain. ACT focuses on things like values and living in the moment.\n\nObjective:\n\n\\- To see if Acceptance and Commitment Training improves pain coping in people with NF1 pain.\n\nEligibility:\n\n\\- People age 16-34 who have NF1, 1 or more PN tumors, and pain that interferes with their daily functioning.\n\nDesign:\n\n* Participants will be screened with a physical exam, medical history, and questions about their pain.\n* Participants will fill out questionnaires about their pain and feelings. Their heart rate will be measured via electrocardiogram (ECG).\n* Participants will be divided into 2 groups randomly. One will wait 8 weeks.\n* The other will start training right away.\n* Participants will have 2 two-hour sessions with an ACT trainer. They will learn techniques for setting goals based on personal values and other ways to cope with pain. They will get a workbook and a compact disc (CD) to take home for practice.\n* Participants will do practice exercises at home between sessions. They will get weekly emails with a practice exercise. They will join video chat sessions via home computer with their trainer.\n* All participants will return to National Institutes of Health (NIH) after 8 weeks for questionnaires and an ECG. The wait group will then start training. They will return 8 weeks later for questionnaires and an ECG.\n* Six months later, they will complete questionnaires from home by computer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "* INCLUSION CRITERIA FOR PARTICIPANT\n\n  1. Patients must be between 16 and 59 years of age at the time of the baseline assessment. Because the research on the effectiveness of Acceptance and Commitment Therapy (ACT) with younger children is still emerging, children 15 and younger will be excluded from the present study.\n  2. Diagnosis of Neurofibromatosis Type 1 (NF1) through germline mutation OR clinical diagnosis; for the clinical diagnosis of NF1 all study subjects must have two or more diagnostic criteria for NF1 listed below (National Institutes of Health (NIH) Consensus Conference):\n\n     * Six or more cafe-au-lait spots (greater than or equal to 0.5 cm in prepubertal subjects or greater than or equal to 1.5 cm in postpubertal subjects)\n     * Greater than or equal to 2 neurofibromas or 1 plexiform neurofibroma\n     * Freckling in the axilla or groin\n     * Optic glioma\n     * Two or more Lisch nodules\n     * A distinctive bony lesion (dysplasia of the sphenoid bone or dysplasia or thinning of long bone cortex)\n     * A first-degree relative with NF1\n  3. Participants must have documentation of a plexiform neurofibromas (PN), based on either clinical exam or imaging.\n  4. Patient must self-report having chronic pain for at least the past 3 months that has interfered with their daily functioning, as assessed by the Pain Interference Index (must get a mean score of 2.0 or higher, or score a 3 on three or more individual items).\n  5. Patients must have regular access to a computer or tablet with internet access.\n  6. Ability of subject or Legally Authorized Representative (LAR) to understand and the willingness to sign a written informed consent document.\n  7. No anticipated major changes in their pain treatment regimen (i.e., new class of pain medication starting or change in the class of pain medication) or enrollment on a new treatment study presumed to impact pain in the near future.\n  8. Subjects must be able to read and comprehend the English language, since the highly trained ACT therapists are not fluent enough to conduct the trainings in Spanish or other languages.\n\nEXCLUSION CRITERIA FOR PARTICIPANT\n\n1. In the opinion of the Principal Investigator (PI) or an Associate Investigator (AI), the subject has significant cognitive or emotional difficulties that would prevent them from being able to understand and/or participate fully in the intervention or the measures.\n2. Subjects who are participating in any other treatment studies, either medical or behavioral, specifically for pain management.\n3. Subjects who began a medical intervention for treatment of their disease that has a possible impact on pain (including Mitogen-activated Protein/Extracellular Signal-regulated Kinase Kinase (MEK) trials) will not be eligible until after one year on the medical treatment; at that time, eligibility will be discussed with the PI of the medical study to assess the stability of the patient s pain and whether further pain-related changes due to the medical treatment are likely.\n4. Inability to travel to the NIH, for example, due to physical limitations, for the in-person evaluation(s).\n\nNo groups in regards to gender, race, or ethnicity are being excluded from participation in the trial.",
+  "minimum_age": "16 Years",
+  "maximum_age": "59 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Neurofibromatosis Type 1",
+    "Plexiform Neurofibromas"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial investigates Acceptance and Commitment Training for adolescents and young adults with NF1, plexiform neurofibromas, and chronic pain, regardless of prior systemic therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility criteria do not mention any requirements or restrictions on prior systemic therapy for advanced or metastatic disease. Patients are included based on diagnosis, presence of chronic pain, and other non-treatment-related factors. Patients with no prior systemic therapy, as well as those who may have received adjuvant or other treatments, are eligible."
+    }
+  ]
+}

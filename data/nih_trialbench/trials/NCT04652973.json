@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT04652973",
+  "title": "Evaluation of Atherosclerotic Plaques in Abdominal CT Studies",
+  "brief_summary": "Background:\n\nFat and calcium can build up as plaque in artery walls. The Agatston score measures plaque using computed tomography (CT) that does not use an injected contrast agent. Plaque in the arteries of the pelvis and abdomen is linked to cardiovascular disease (CVD) risk factors. It also may affect cancer. But abdominal CTs use a contrast agent (CECT). Therefore, the Agatston score cannot be used. Researchers want to find a way to measure plaque in CECTs. This will help them use abdominal CTs to measure plaque without extra radiation.\n\nObjective:\n\nTo measure atherosclerotic plaques on CECT in a group of males.\n\nEligibility:\n\nMen ages 30-90 with prostate cancer (proven with biopsies) who have abdomen CT studies in the PACS (picture archiving system) in the Clinical Center. Also, men or women of all ages who have multiphase abdomen and pelvic CT studies that are in the PACS.\n\nDesign:\n\nThis study will use data gathered since 1/1/2013. Data will also be taken from protocol 03-CC-0128 and clinical trials 15-C-0124, 16-C-0048, 14-C-0112, and 04-C-0274. Participants from these studies have allowed their samples to be used in the future.\n\nParticipants will be found via keyword searches on NIH databases. Their CT and MRI scans will be used. Data such as age, race, disease, and treatment will be used. Results of other tests may be used.\n\nThe plaque in participants abdomen and iliac arteries will be measured. It will be compared with biomarkers related to CVD and prostate cancer, such as weight, age, and race.\n\nThis study will take place at one site. Data will be stored on secure computers. Printouts will be kept in locked rooms.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nThe study will use existing radiologic data.\n\nEXCLUSION CRITERIA:\n\nNONE",
+  "minimum_age": "30 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Two separate study populations were recruited. The \"Prostate cancer dataset\" consisted of biopsy-proven prostate cancer patients who have abdomen CT studies that were available in the clinical PACS (picture archiving system) in the Clinical Center. Men of all ages and races are included. The \"Multiphase CT dataset\" consisted of men or women of all age and race, who have Multiphase abdomen-pelvic CT studies that were available in the PACS.",
+  "condition": [
+    "Prostatic Neoplasms"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a retrospective imaging study using existing CT data from patients with prostate cancer and other individuals, with no requirements or restrictions regarding prior systemic therapy for advanced disease. Line-of-therapy intent is not specified or relevant to eligibility.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based solely on the availability of existing abdominal CT studies and does not mention prior systemic therapy for advanced disease. There are no inclusion or exclusion criteria related to line of therapy, so line-of-therapy intent cannot be determined."
+    }
+  ]
+}

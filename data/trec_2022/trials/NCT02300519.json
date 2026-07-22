@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02300519",
+  "title": "Thrombin Generation Numerical Models Validation in Haemophilic Case",
+  "brief_summary": "Personalized therapy in haemophilia has not been reached yet. Treatment is substitutive and its doses are only based on the levels of deficient factor VIII (for haemophilia A) or IX (for haemophilia B). The bleeding severity is not only related to the factor deficiency but also to levels of other coagulation factors (e.g. factor X, II, AT or TFPI). It's necessary to take them into account in order to individualize treatments; and Thrombin Generation Assay (TGA) with the CAT method (Calibrated Automated Thrombography) is a good way because it measures the result of the coagulation cascade. TGA on Platelet Rich Plasma (PRP) is even closer to physiological conditions than on Platelet Poor Plasma (PPP) because platelet influence is represented. It has already been shown (at least in PPP) that the bleeding tendency in haemophilic patients is usually well correlated to TG. Some TG parameters are used to characterize the individual coagulation phenotype, the most important being the Endogenous Thrombin Potential (ETP) and the Lag Time (LT). A hemorrhagic profile usually provides a longer lag time and / or a lower ETP. However, only few studies tried to determine the influence of each coagulation factor and inhibitor on TG. They were done on Platelet Poor Plasma (PPP) or on lyophilized plasma. So the relation between coagulation factors and the different TG parameters remains to be determined, especially in the haemophilic case. It is possible, experimentally, to find the optimal dose of the factor to be added by measuring TG in samples with different factor VIII or IX concentrations, but this method would be time consuming and expensive, especially because it should be done for each haemophilic patient. A better way consists in using TG numerical models. For a set of initial factor levels they simulate the TG and its associated parameters. It is now essential to validate the existing models, especially in haemophilic cases, in order to see whether they are reliable and can be used in clinical practice afterwards.The objective of this study is to validate thrombin generation numerical models which could predict the factor VIII or IX activity correction to reach a thrombin generation sufficient to avoid bleeding. A comparison between the TG observed in haemophilic patients and the TG predicted by the models is needed to validate the models. In order to define a 'safe' TG i.e. sufficient to avoid bleeding, normal ranges of TG parameters have to be measured.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Signed consent form\n* Age between 18 and 45 years old\n* Male\n* no smoker\n\nExclusion Criteria:\n\n* other clinical research protocol participation during the 3 months before inclusion\n* Personal or familial history of hemorrhagic disease (parents, brothers and sisters\n* Personal history of thrombosis (arterial or venous)\n* Familial history of thrombosis before 45 years old (parents, brothers and sisters)\n* Drug treatments of aspirin or anti-inflammatory type during the week before sampling\n* Surgery the month before sampling\n* Chronic pathology responsible for inflammatory syndrome\n* Infectious episode in course",
+  "minimum_age": "18 Years",
+  "maximum_age": "45 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "volunteers witch work in CHU Saint-Etienne",
+  "condition": [
+    "Haemophilia B",
+    "Haemophilia A"
+  ],
+  "overall_status": "COMPLETED"
+}

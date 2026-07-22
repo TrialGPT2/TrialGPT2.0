@@ -1,0 +1,40 @@
+{
+  "nctid": "NCT04052022",
+  "title": "Paradoxical Tuberculosis Reactions in Patients Without HIV Infection",
+  "brief_summary": "Background:\n\nMost people with tuberculosis (TB) feel better after starting treatment. But for some people, the opposite happens. They may feel better at first, but then suddenly get worse. This is a paradoxical reaction. Researchers want to better understand what causes this reaction and what happens after someone has it.\n\nObjective:\n\nTo learn about paradoxical reactions to TB treatment.\n\nEligibility:\n\nAdults 18 and older diagnosed with confirmed or suspected TB and currently on treatment for at least 2 weeks, with or without signs/symptoms of a paradoxical inflammatory reaction.\n\nDesign:\n\nParticipants will be screened with a physical exam and medical history. They will give blood and urine samples.\n\nEligible participants will visit either the NIH Clinical Center or the Mexico Clinic sites 3 times over 6 to 18 months. Each visit will take 7 hours to complete; visits may be scheduled over more than 1 day. Participants may have more visits if their TB symptoms change.\n\nParticipants will give blood, urine, and sputum samples. They will have adverse event assessments. They will have 2 to 3 positron emission tomography/computed tomography (PET/CT) scans. PET/CT scans make pictures of the inside of the body. For this, participants will lie on a table that slides into a donut-shaped scanner. They will get a small amount of radioactive dye through an IV, which is a small plastic tube placed in a vein in the arm using a needle.\n\nParticipants may have optional apheresis at the NIH site only. For this, blood is taken from a needle in one arm. White blood cells are separated from the rest of the blood. The rest of the blood is returned through a needle in the other arm.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nSuspected Paradoxical Reaction Group Criteria:\n\n1. Aged greater than or equal to 18 years.\n2. Diagnosed with confirmed (microbiologically or with molecular methods) or suspected (clinical plus or minus histologic diagnosis) TB and currently on ATT for a minimum of 2 weeks, or have completed ATT, with at least 2 of the following signs/symptoms of a paradoxical inflammatory reaction:\n\n   * Recrudescent symptoms of TB after initial clinical improvement.\n   * Change in physical exam after initial clinical improvement suggestive of new inflammatory process (e.g., lymphadenopathy or new findings on pulmonary exam).\n   * Worsening radiographic evidence of disease after initiation of treatment, as compared with imaging prior to or earlier in treatment.\n   * Laboratory evidence of acute inflammatory response, including the development of leukocytosis (white blood cell count \\> 10,000 cells/microL) or a change of C-reactive protein (CRP) \\> 5 mg/L compared to prior laboratory values.\n   * Worsened organ function after initial clinical improvement.\n3. The above sign/symptom(s) cannot be explained by a newly acquired infection, clinical course of a previously recognized infectious agent, side effects of the ATT, the presence of drug resistance, or any other condition except for paradoxical reaction.\n4. Willingness to allow storage of blood or tissue samples for future research.\n5. Ability of participant to understand study requirements and give informed consent.\n6. Has a primary care physician and is being followed by the local Department of Health for their TB (or has plans to arrange after enrollment if enrolled early in course from inpatient transfer).\n\nControl Group Criteria:\n\n1. Aged greater than or equal to 18 years.\n2. Diagnosed with confirmed (microbiologically or with molecular methods) or suspected (clinical plus or minus histologic diagnosis) TB.\n3. Presenting 2 to 4 months after starting ATT to match timing of paradoxical reactions.\n4. Willingness to allow storage of blood or tissue samples for future research.\n5. Ability of participant to understand study requirements and give informed consent.\n6. Has a primary care physician and is being followed by the Department of Health for their TB (or has plans to arrange after enrollment if enrolled early in course from inpatient transfer).\n\nEXCLUSION CRITERIA:\n\nIndividuals in either group who meet any of the following criteria will be excluded from study participation:\n\n1. HIV infection. (Individuals with HIV infection may be eligible for a separate study exclusively evaluating persons living with HIV.)\n2. Pregnant or breastfeeding.\n3. Uncontrolled psychiatric disease, substance use, or inappropriate conduct unsuitable for a research study.\n4. Malignancy requiring imminent or ongoing treatment including radiation, chemotherapy, or immunotherapy.\n5. Debilitating or chronic conditions that would limit ability to participate in the study.\n6. Emergent or urgent clinical conditions not due to studied disease of interest requiring immediate treatment that would be unsuitable for a research study. These patients would be transferred to an emergency room and able to rescreen when condition has been stabilized.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants will be recruited from clinics in the surrounding Washington, DC area for the NIH site; and from clinics in Mexico for the foreign site",
+  "condition": [
+    "Tuberculosis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of adults with tuberculosis (TB) who are currently receiving or have recently completed anti-tuberculous therapy (ATT), including those with paradoxical reactions and matched controls. The study does not focus on cancer or systemic therapy for advanced/metastatic disease, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Suspected Paradoxical Reaction Group",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes adults with confirmed or suspected TB who are on or have completed anti-tuberculous therapy (ATT). There is no mention of systemic therapy for advanced/metastatic cancer, so line-of-therapy intent is not applicable."
+    },
+    {
+      "cohort_label": "Control Group",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes adults with confirmed or suspected TB who are 2 to 4 months into ATT. There is no mention of systemic therapy for advanced/metastatic cancer, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

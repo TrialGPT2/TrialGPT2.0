@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT04855370",
+  "title": "Non-Invasive Measurement of Cardiac Output and Stroke Volume in PE",
+  "brief_summary": "Pulmonary embolism impacts over 1 in 1000 adults annually and is the third leading cause of cardiovascular death after heart attack and stroke. The consequence of each PE is widely variable. Physiologically, the morbidity and mortality of PE is ultimately caused by failure of the right ventricle. The acute rise in pulmonary vascular resistance caused by a PE can overwhelm the right ventricle, resulting in a drop in cardiac output and death from failure of the heart to provide vital perfusion. Despite the importance of stroke volume and cardiac output in the current understanding of PE mortality, they are notably absent from risk stratification scores because they historically could only be measured invasively.\n\nNovel non-invasive methods of estimating stroke volume and associated cardiac output have the potential to revolutionize PE risk stratification and care. Non-invasive blood pressure (NIBP) monitors can even measure stroke volume beat to beat, allowing for continuous evaluation of cardiac function. NIBP systems are typically composed of a finger cuff with an inflatable bladder, pressure sensors, and light sensors. An arterial pulse contour is formed using the volume clamp method of blood pressure measurement combined with calibration and brachial pressure reconstruction algorithms. The stroke volume with each heart beat can be estimated as the area under the systolic portion of the blood pressure curve divided by the afterload. NIBP monitors may improve clinical care of PE because they allow for assessment of dynamic cardiac changes in real time. Detection of worsening stroke volume in acute PE could inform providers of impending cardiac collapse, and improvement of stroke volume may function as a positive prognostic factor or marker of therapeutic success. Use of NIBP monitors during acute PE to identify clinically significant changes in cardiac function may advance both PE prognostication and management.\n\nOur clinical study proposes to monitor hemodynamic parameters including stroke volume in patients with acute pulmonary embolism using non-invasive blood pressure monitors. The relationship between hemodynamic parameters and PE outcomes will be assessed, as well as the changes in hemodynamic parameters with PE intervention. To our knowledge, interval monitoring of stroke volume during acute PE with NIBP monitors has never been reported before.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient \u2265 18 years of age.\n* The patient must understand and sign informed consent form (ICF).\n* Patients requiring intensive care unit (ICU) level care with a confirmed diagnosis of pulmonary embolism (PE) by computed tomography (CT) angiogram or endobronchial ultrasound (EBUS) prior to or within 4 hours of initiation of any PE therapy or intervention.\n* If a patient already has non-invasive hemodynamic monitoring by the Edwards system or by other systems, such as the Cheetah NICOM system, as part of their standard of care, this patient can still be enrolled. If the patient is already being followed by another system such as NICOM, the Edwards system would be added to it as long as the patient consents.\n\nExclusion Criteria:\n\n* BMI \\< 20 or BMI \\> 35.\n* Height less than 120 cm.\n* Diagnosis of atrial fibrillation, moderate to severe aortic or mitral valve insufficiency or stenosis, scleroderma, or end-stage renal disease.\n* Patients on extracorporeal membrane oxygenation (ECMO).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pulmonary Embolism",
+    "Pulmonary Embolus/Emboli",
+    "Pulmonary Disease",
+    "Pulmonary Embolism and Thrombosis",
+    "Pulmonary Embolism Subacute Massive",
+    "Pulmonary Embolism Acute Massive"
+  ],
+  "overall_status": "WITHDRAWN"
+}

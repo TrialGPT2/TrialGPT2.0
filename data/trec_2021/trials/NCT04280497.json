@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04280497",
+  "title": "Rapid Recognition of Corticosteroid Resistant or Sensitive Sepsis",
+  "brief_summary": "Main objective and primary endpoint: To compare the effect hydrocortisone plus fludrocortisone vs. placebo on a composite of death or persistent organ dysfunction - defined as continued dependency on mechanical ventilation, new renal replacement therapy, or vasopressors - assessed at 90 days on intensive care unit (ICU) adults and having different biological profiles for immune responses and corticosteroids bioactivity.\n\nSecondary objectives and endpoints:\n\n* Mortality and health-related quality of life at 6 months;\n* Daily organ function (SOFA score days 1, 2, 3, 4, 7, 10, 14, 28, and 90);\n* Daily secondary infections (up to 90 days)\n* Daily blood and urinary levels of glucose, sodium and potassium (up to 28 day)\n* Daily gastroduodenal bleeding (up to 28 day)\n* Daily cognitive function and muscles' strength (days 1 to 28, 90 and 180 days).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Patient \u226518 years old;\n2. Admitted to ICU with proven or suspected infection as the main diagnosis;\n3. Community acquired pneumonia related sepsis or vasopressors dependency (norepinephrine, epinephrine, vasopressin, dopamine, phenylephrine) or septic shock (vasopressor to maintain mean blood pressure of at least 65 mmHg and lactate levels above 2 mmol/l) or acute respiratory distress syndrome (ARDS: a- acute onset, i.e. within one week of an apparent clinical insult and with progression of respiratory syndrome, b- bilateral opacities on chest imaging not explained by other pulmonary pathologies, e.g. pleural effusion, atelectasis, nodules etc, c- no evidence for heart failure or volume overload, d- PaO2/FiO2 \u2264 300 mm Hg, - PEEP \u2265 5 cm H2O;\n4. Patients who have been tested for one or more RECORDS specific biomarkers:\n\n   1. CIRCI\n   2. Endocan\n   3. GILZ\n   4. DUSP-1\n   5. MDW\n   6. lymphopenia\n   7. Transcriptomic SRS2\n   8. Endotype B\n   9. PCR COVID-19\n   10. PCR Influenza\n   11. PCR other respiratory virus\n   12. Cutaneous vasoconstrictor response to glucocorticoids\n5. Patient who has signed an informed and written consent whevener he/she is able of consent, if not, if not ascent from his/her representant whenever he/she is present at time of screening for inclusion;\n6. Patient affiliated to a social security system or to an universal health coverage (Couverture Maladie Universelle (CMU) in France;\n7. Patient under guardianship or curatorship will be included;\n8. Patient in case of simple emergency (legal definition) will be included;\n9. Patients managed with covid 19 and having biological samples available.\n\nExclusion Criteria:\n\n1. Pregnancy;\n2. Expected death or withdrawal of life-sustaining treatments within 48 hours;\n3. Previously enrolled in this study\n4. Formal indication for corticosteroids according to most recent international guidelines\n5. Vaccination with live virus within past 6 months\n6. Hypersensitivity to hydrocortisone or fludrocortisone or (microsined betamethasone dipropionate\\*) or any of their excipients (spc)\n7. Women of childbearing potential not using contraception\n8. Nursing women \\* For patients included in this stratum, if applicable, do not apply the cream to an infected or ulcerated area",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sepsis"
+  ],
+  "overall_status": "RECRUITING"
+}

@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT00104962",
+  "title": "Lenalidomide in Treating Young Patients With Relapsed or Refractory Solid Tumors or Myelodysplastic Syndromes",
+  "brief_summary": "This phase I trial is studying the side effects and best dose of lenalidomide in treating young patients with relapsed or refractory solid tumors or myelodysplastic syndromes. Lenalidomide may stop the growth of solid tumors or myelodysplastic syndromes by blocking blood flow to the cancer. It may also stimulate the immune system in different ways and stop cancer cells from growing.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosis of 1 of the following:\n\n  * Histologically confirmed solid tumor\n\n    * No brain tumors\n  * Myelodysplastic syndromes (MDS)\n\n    * No refractory anemia with excess blasts in transformation or other forms of acute myeloid leukemia (AML)\n    * No FAB diagnosis of refractory anemia with excess blasts in transition and other forms of AML\n    * Newly diagnosed MDS with chromosome 5q abnormalities\n* Relapsed or refractory disease including relapse after stem cell transplantation\n* Measurable or evaluable disease (solid tumor patients only)\n* No known curative or life-prolonging therapy exists\n* No bone marrow involvement by tumor (solid tumor patients only)\n* No CNS tumors\n* Performance status - Karnofsky 50-100% (for patients \\> 10 years of age)\n* Performance status - Lansky 50-100% (for patients \u2264 10 years of age)\n* Absolute neutrophil count \u2265 1,000/mm\\^3 (for patients with solid tumors)\n* Platelet count \u2265 100,000/mm\\^3 (30,000 for patients with MDS)\n\n  * Only patients with MDS may receive transfusions to support platelet counts\n* Hemoglobin \u2265 8.0 g/dL (transfusions allowed)\n* Bilirubin \u2264 1.5 times upper limit of normal (ULN)\n* ALT \u2264 110\\*\n* Albumin \u2265 2 g/dL\n* Creatinine clearance OR radioisotope glomerular filtration rate \u2265 70 mL/min\n* Creatinine based on age as follows:\n\n  * Creatinine \u2264 0.8 mg/dL (for patients \u2264 5 years of age)\n  * Creatinine \u2264 1 mg/dL (for patients 6 to 10 years of age)\n  * Creatinine \u2264 1.2 mg/dL (for patients 11 to 15 years of age)\n  * Creatinine \u2264 1.5 mg/dL (for patients over 15 years of age)\n* No parent or sibling with a known history of venous thrombosis before the age of 50 OR arterial thrombosis before the age of 40\n* No thromboembolic event except catheter-related thrombosis\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective double-method contraception 4 weeks before, during, and for \u2265 4 weeks after completion of study treatment\n* Body surface area \u2265 0.4m\\^2\n* No uncontrolled infection\n* No active graft-vs-host disease from prior stem cell transplant or rescue\n* Recovered from prior immunotherapy\n* At least 1 week since prior biologic agents\n* At least 1 week since prior hematologic growth factors (2 weeks for pegfilgrastim)\n* At least 3 months since prior stem cell transplant or rescue (without total body irradiation \\[TBI\\])\n* Prior thalidomide allowed\n* No other concurrent immunotherapy\n* No other concurrent biologic therapy\n* More than 3 weeks since prior myelosuppressive chemotherapy (6 weeks for nitrosoureas) and recovered\n* No concurrent chemotherapy\n* Concurrent dexamethasone allowed provided the dose has been either decreasing or stable for the past 7 days\n* See Biologic therapy\n* Recovered from prior radiotherapy\n* At least 2 weeks since prior local palliative (small port) radiotherapy\n* At least 6 months since prior TBI, craniospinal radiotherapy, or radiotherapy to \u2265 50% of the pelvis\n* At least 6 weeks since other prior substantial bone marrow radiotherapy\n* No concurrent radiotherapy\n* No other concurrent investigational drugs or agents\n* No other concurrent anticancer agents",
+  "minimum_age": "1 Year",
+  "maximum_age": "21 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Childhood Myelodysplastic Syndromes",
+    "de Novo Myelodysplastic Syndromes",
+    "Previously Treated Myelodysplastic Syndromes",
+    "Refractory Anemia",
+    "Refractory Anemia With Excess Blasts",
+    "Refractory Anemia With Ringed Sideroblasts",
+    "Refractory Cytopenia With Multilineage Dysplasia",
+    "Secondary Myelodysplastic Syndromes",
+    "Unspecified Childhood Solid Tumor, Protocol Specific"
+  ],
+  "overall_status": "COMPLETED"
+}

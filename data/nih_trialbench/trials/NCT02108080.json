@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT02108080",
+  "title": "Characterization Imaging Instruments in Alcoholics and Non-Alcoholics",
+  "brief_summary": "Background:\n\n\\- People with alcoholism have differences in their brains compared with healthy people. People who are dependent on alcohol also perform differently on behavioral tasks. Researchers want to find out more about these differences. They also want to see if these differences are related to DNA.\n\nObjective:\n\n\\- To see if differences in brain structure relate to personality and behavior differences in people with and without alcohol dependence.\n\nEligibility:\n\n\\- Adults age 18 and older.\n\nDesign:\n\n* Participants will visit the NIH Clinical Center once during the study.\n* Participants will be screened with a medical history, EKG, and physical exam. They will give blood and urine samples and undergo a psychiatric interview.\n* Participants will be asked about their alcohol drinking, to see if they have an alcohol use disorder.\n* Participants will play three computerized games. Some will play these games inside a magnetic resonance imaging (MRI) scanner.\n* MRI: strong magnetic field and radio waves take pictures of the brain. Participants lie on a table that slides in and out of a cylinder. They will be in the scanner for about 90 minutes. They may lie still for up to 20 minutes at a time. The scanner makes loud knocking noises. They will get earplugs.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAll adult participants must be:\n\n* Age 18 years or older,\n* Have been pre-screened, determined eligible for any NIAAA study, or enrolled in any\n\nNIAAA study (including 14-AA-0181).\n\nEXCLUSION CRITERIA:\n\nAs this is a natural history protocol, there are no exclusionary criteria for this study.\n\nParticipants should have been tested negative prior to the time of consent and study procedures using an alcohol breathalyzer, urine drug (UDT) and, when applicable, pregnancy tests. Individuals with a positive breath alcohol concentration (BrAC), UDT, or pregnancy test will be re-scheduled or withdrawn from the study.\n\nUpon completion of the consent, the participant will be invited for the study session. On the study session day, the following exclusion criteria will be applied.\n\n-Exclusion criteria for MR scan\\*\n\n* Positive BrAC#,\n* Positive urine drug test (UDT) # for benzodiazepines, cocaine, methamphetamines, and opiates for outpatients. Positive UDT for benzodiazepines is not exclusionary for the inpatients. It is common that the inpatients who are treated for AUD withdrawal are treated with benzodiazepines. Positive THC would also not be exclusionary for this study since it tends to be detected over the long period of time after use. However, we will make note of these for the data analysis purposes.\n* Task performance (behavioral, fMRI) only: cleared based on neuromotor examination,\n* Presence of ferromagnetic objects in the body that are contraindicated for MRI of the head (pacemakers or other implanted electrical devices, brain stimulators, some types of dental implants, aneurysm clips, metallic prostheses, permanent eyeliner, implanted delivery pump, or shrapnel fragments),\n* Cannot lie comfortably flat on back for up to 2 hours in the MRI scanner,\n* Uncomfortable in enclosed spaces (has claustrophobia) such that they would feel discomfort in the scanner,\n* Women: are pregnant#,\n* Are left-handed.\n* Inpatient participants with alcohol use disorder who have symptoms of alcohol withdrawal as indicated by the most recent measurement within the past 30 days, measured by the Clinical Institute Withdrawal Assessment (CIWA-Ar) score \\> 8.\n\n  * Subjects excluded from MR scan may still perform the behavioral tasks which would otherwise be performed in the scanner, if they qualify for behavioral tasks. To avoid undue discomfort, burden, and inconvenience this information, if available, can be gathered from routine clinical care or other NIAAA clinical studies and data.\n\n    * Participants who meet this exclusion criterion will not participate in any part of this study at the time. They will be re-scheduled for a future date(s) when they do not meet any of the exclusionary criterion.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population will consist of outpatient and inpatient participants who are 18 years of age or older who are eligible for or enrolled in other NIAAA protocols. The participant s AUD status at the time of this study will be evaluated as part of the screening procedures of the NIAAA screening protocol 14-AA-0181. The participant s status will be determined using either the DSM-IV-TR or the DSM-5, which also classifies present AUD as mild, moderate, or severe.",
+  "condition": [
+    "Alcohol Dependence",
+    "Alcohol Drinking",
+    "Alcohol-Related Disorders",
+    "Alcoholism",
+    "Brain Mapping"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational study of adults with and without alcohol use disorder. There is no cancer diagnosis or systemic therapy involved, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced disease. No line-of-therapy criteria are specified or applicable."
+    }
+  ]
+}

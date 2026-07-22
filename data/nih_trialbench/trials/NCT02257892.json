@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT02257892",
+  "title": "Novel Genetic Disorders of the Immune System",
+  "brief_summary": "Background:\n\n\\- The immune system helps the body fight infection and disease. People with immune system problems can get infections, blood disorders, and other health problems. Researchers want to learn more about the immune system, like what causes it to not work properly.\n\nObjectives:\n\n\\- To evaluate people with certain types of immune system disorders.\n\nEligibility:\n\n\\- Adults and children with an immune disorder or symptoms of one, and their relatives. Some disorders are not included in this study.\n\nDesign:\n\n* Researchers will review participants medical records.\n* Participants may mail in a blood or saliva sample, or be evaluated at the clinic. At the clinic, they may have a medical history, physical exam, blood tests, and imaging scans (with dye given through a needle in the arm). They may have genetic testing done on a sample of blood, saliva, hair, or nail clipping.\n* Participants may choose to have a skin biopsy. Up to 2 skin samples will be taken from their arm, back, or other area. A biopsy punch is inserted into the skin and rotated. A small circle of skin is removed.\n* Participants 10 and older may also choose to have leukapheresis. Blood is taken through a needle in one arm. It passes through a machine that separates the white blood cells. The rest of the blood is returned by needle in the other arm.\n* Researchers may recommend medicines, but no treatments are being studied.\n* Participants may be invited to return for visits over several years. At those visits, they may repeat some or all of the above tests. Or they may mail in blood or other samples. They may also send medical records.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nThe following inclusion criteria apply to all subjects:\n\n* Patient and relatives aged 0-99 years old to include women who are pregnant or breastfeeding. Only patients \\>2 years of age, in stable clinical status and meeting the weight requirement of the NIH CC will be physically evaluated at the NIH CC.\n* Willingness to allow storage of blood, saliva, and other tissue specimens for future use in medical research.\n* Willingness to participate in genetic testing and allow sharing of genetic information in secure databases like dbGAP. These tests may include, but are not limited to, whole exome and whole genome sequencing.\n* Priority may be given to individuals with a family history (if readily available) suggestive of multiple affected members with a constellation of signs and symptoms suggestive of immune dysfunction among first- or second-degree relatives.\n* Eligibility of special populations\n\n  * A. NIH employees are eligible\n  * B. Women who are pregnant or breast feeding are eligible to enroll as probands Pregnant relatives are also eligible for inclusion as\n\nthey can provide important controls, genetic reference and historic clinical information. This protocol is not actively seeking women who are pregnant.\n\n--C. Pediatric populations are eligible, with restrictions, in order to learn about the natural history of the immune disorders under investigation and to provide diagnostic work up for their ongoing clinical care. Healthy pediatric relatives can provide important diagnostic and genetic reference for affected patients.\n\n-Pediatric populations are eligible, with restrictions, in order to learn about the natural history of the immune disorders under investigation and to provide diagnostic work up for their ongoing clinical care. Healthy pediatric relatives can provide important diagnostic and genetic reference for affected patients.\n\nPatients must have:\n\n* An identified genetic basis for an immune disorder or signs and symptoms suggestive of clinically significant immune dysregulation and/or immunodeficiency manifesting with features including but not limited to autoimmunity, autoinflammatory conditions, lymphadenopathy, end-organ dysfunction, unusual infections, allergies, or laboratory abnormalities consistent with immune dysregulation.\n* A primary physician outside of the NIH and will be required to submit a letter or clinical summary from their referring physician that documents their relevant health history.\n\nEXCLUSION CRITERIA:\n\nPatients will be excluded for any of the following:\n\n* Known genetic disorders that are already well characterized, such as severe combined immunodeficiency (SCID), chronic granulomatous disease (CGD), etc., and those in which we do not have an enduring research interest in the LCIM.\n* Patients with unknown immune disorders will be excluded if they have received chemotherapy within the last 6 months for a malignancy or have infections such as HIV or mycobacterial infections.\n* Severe clinical illness requiring highly specialized teams and institutions. The NIH may not be able to provide appropriate care for certain referred cases. The Principal Investigator (PI) may determine that the patient is eligible for enrollment but ineligible for admission to the Clinical Center. Patients and relatives with certain obstetric issues may pose a safety risk for travel and evaluation here. Eligibility for this group will be determined on a case by case basis by the PI.\n* Patients with well-defined autoimmune conditions such as systemic lupus erythematosus (SLE), Hashimoto s thyroiditis, Addison s disease, Graves disease, sarcoidosis and rheumatoid arthritis, among others.\n\nBlood relatives will be excluded for the following:\n\n-Any condition which in the opinion of the investigator may interfere with evaluation of an immune system abnormality that is the subject of study under this protocol.",
+  "minimum_age": "3 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "No limitations. Generally patients are referring by physicians within the US and Canada",
+  "condition": [
+    "PI3KCD",
+    "CTLA4",
+    "STAT3GOF",
+    "MAGT1"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of patients with immune system disorders and their relatives, with no cancer treatment or systemic therapy for advanced disease being studied or required. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study does not specify any requirements or exclusions based on prior systemic therapy for advanced or metastatic disease. No cancer treatment is being studied, and eligibility is based on immune disorder status, not cancer therapy history."
+    }
+  ]
+}

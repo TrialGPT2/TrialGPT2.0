@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT04728165",
+  "title": "Anti-Inflammatory Effects of Time-Restricted Feeding",
+  "brief_summary": "Background:\n\nTime-restricted feeding (TRF) means that a person eats only during certain hours of the day. In other studies, researchers have found that fasting can improve immune system function in healthy people. They want to see if TRF has the same effect on people with psoriasis.\n\nObjective:\n\nTo test whether TRF can change metabolism and decrease some markers of inflammation in the blood of people with mild to moderate psoriasis.\n\nEligibility:\n\nMales ages 18 to 80 with mild to moderate active psoriasis, and healthy volunteers\n\nDesign:\n\nParticipants will be screened with a medical history and medicine review. They will have a physical exam and blood tests. Their skin will be examined. They will have a nutritional evaluation. Their resting energy expenditure will be measured. For this, a clear plastic ventilation hood will be placed over the head for a short time.\n\nParticipants will stay at the NIH Clinical Center for 4 1/2 days. They can watch TV, do work, do schoolwork, and other quiet activities.\n\nA small sensor will be placed under participants skin to measure blood glucose.\n\nFor part of the study, participants will be housed in a small room called a metabolic chamber. They will wear a heart monitor.\n\nParticipants will walk on a treadmill for 30 minutes each day at a comfortable speed.\n\nFor 3 days, participants will eat all their daily calories between 8 am and 2 pm. They will fast for the other 18 hours of the day. They can drink water.\n\nParticipants will complete mixed meal tests. They will drink a liquid meal for breakfast. Then they will give blood samples via intravenous (IV) catheter.\n\nParticipation will last for 5 days....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIndividuals must meet the inclusion criteria listed below in order to be eligible to participate in the study.\n\n* Males between the ages of 18 and 80 with mild to moderate active psoriasis by PASI score for inclusion in psoriasis group\n* Age (plus or minus 10 yrs) and BMI (plus or minus 5 kg/m\\^2) matched control male subjects for inclusion in the control group.\n* Ability to provide informed consent\n* Willingness and ability to participate in study procedures\n\nEXCLUSION CRITERIA:\n\n* Severe psoriasis by PASI (Psoriasis Area and Severity Index) score \\> 12\n* Treatment with systemic biologic immune modifying agents within the last 2 months.\n* Currently on treatment for allergies or other inflammatory diseases.\n* Has taken Vitamin B or tryptophan supplementation within 2 weeks of participation.\n* Unwillingness/inability to provide informed consent.\n* Individuals with known history of type 1 and 2 diabetes mellitus or other metabolic conditions that would interfere with study parameters including chronic kidney disease, chronic liver disease, history of hypoglycemia\n* On treatment with medication that would interfere with study parameters including anti-hyperglycemic medications, systemic steroids, adrenergic-stimulating agents, other medications known to affect sleep, circadian rhythms or metabolism.\n* Caffeine in excess of three 8 oz cups per day.\n* Factors that affect circadian rhythm including individuals who perform overnight shift work, irregular sleep and/ or eating schedules, regularly fast for more than 15 hours/ day\n* Regular use of tobacco product within last 3 months.\n* Consuming more than 3 servings of alcohol/ day\n* Engaged in competitive sports training\n* Moderate to severe claustrophobia\n* Unstable weight with more than 5% body weight change in last 3 months\n* Food allergies or intolerances or dietary patterns that would prohibit consumption of the metabolic diet or mixed meal test.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "Males between the ages of 18 and 70 with mild to moderate active psoriasis by PASI score for inclusion in psoriasis group Age (plus or minus 5 yrs) and BMI (plus or minus 5 kg/m2) matched control male subjects for inclusion in the control group. Ability to provide informed consent Willingness and ability to participate in study procedures",
+  "condition": [
+    "Psoriasis",
+    "Systemic Inflammation"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-oncology trial in patients with mild to moderate psoriasis and healthy controls. There is no systemic therapy for advanced disease involved or required for eligibility.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": null,
+      "category": "1L",
+      "line_of_therapy_text": "Patients with mild to moderate psoriasis and healthy controls are eligible. There is no mention of prior systemic therapy for advanced disease, and patients on systemic biologic immune modifying agents within the last 2 months are excluded. No prior lines of therapy for advanced/metastatic disease are required or allowed."
+    }
+  ]
+}

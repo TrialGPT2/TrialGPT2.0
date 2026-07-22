@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04755881",
+  "title": "SHARED Study (Saguenay Hospitals Anaphylaxis Rule for Early Discharge)",
+  "brief_summary": "Anaphylaxis is a potentially fatal condition with a prevalence between 0.05 and 2% in the general population. This is therefore a frequent reason for emergency visits. Its diagnosis is mainly based on the NIAID / FAAN2 criteria, developed in 2006. The treatment of the condition consists of administration of intramuscular (or intravenous) epinephrine and the hemodynamic support of the patient, if necessary. Various other agents are frequently administered (class I and II antihistamines, corticosteroids) but their role is recognized to be less central than that of epinephrine. The relevance of corticosteroids in reducing the risk of rebound reaction is even questioned.\n\nAfter anaphylaxis, a serious phenomenon called a \"biphasic reaction\" can occur. This reaction is the return of symptoms of anaphylaxis resolution of the initial episode. The theoretical risk of a rebound reaction, or biphasic reaction, is conventionally described up to 72 hours after the initial anaphylactic event. Biphasic reaction is defined as a recurrence or occurrence of new signs or symptoms after resolution of the initial reaction, without re-exposure to the allergen. The potential occurrence of a biphasic reaction often warrants observation of patients for several hours in emergency departments following management of the initial anaphylaxis. Although recommendations and guidelines generally suggest observation times of four to six hours, there is no clear consensus or convincing evidence to guide this conduct. It sometimes even is suggested to observe patients for up to 24 hours.\n\nProblem: To date, there are no prognostic factors to identify a patient at greater risk who would benefit from such an observation. As these reactions are a relatively rare phenomenon (i.e. 4 to 5%, but which could go up to 20% according to some sources and the symptoms observed are usually less significant than during the initial presentation, it is therefore possible that a prolonged observation period may not be necessary for some patients who do not have high risk factors for biphasic reaction. In the current context of the growing number of people in emergency rooms and limited ressources, it seems essential to identify low risk patients in order to discharge them quicker and safely by limiting unnecessary observation periods.\n\nObjective: Identify and evaluate in a prospective manner previously derived (literature review and preliminary rules derivation already completed) clinical decision rules that are simple, generalizable and valid which could therefore become an interesting assets for the modern practice of emergency medicine as regards to post anaphylaxis rebound reaction risk stratification. It appears likely that some patients who have suffered an anaphylactic reaction could be safely discharged much earlier than in current practices. The rules would give clear guidelines to clinicians especially those working in lower flow settings, where clinical experience with the disease is less developed. Ultimately, these rules would also be relevant for teaching purposes for the various learners who do internships in emergency rooms.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients of all ages with anaphylaxis (meeting the NIAID/FAAN criteria)\n* Patients of all ages considered to be inevitably evolving torwards overt anaphylaxis by the threading physician\n\nExclusion Criteria:\n\n* Adverse reaction to a medication (eg ACEI)\n* Hereditary angioedema\n* Known immune mediated Angioedema\n* Anaphylactoid reaction",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study aims to recruit 533 patients of all ages from three sites of Saguenay-Lac-St-Jean's hospitals' emercgency services (Chicoutimi, Alma and Jonquiere).\n\nRecruiting started in december 2019 following approval from the ethics comity, sciencitic validity evaluation and institutional convenience.\n\nFaced with a case of anaphylaxis, the emergency doctor will have to answer a short questionnaire developed with the variables present in each of the three rules.",
+  "condition": [
+    "Anaphylaxis",
+    "Biphasic Anaphylactic Reaction",
+    "Rebound Anaphylactic Reaction"
+  ],
+  "overall_status": "TERMINATED"
+}

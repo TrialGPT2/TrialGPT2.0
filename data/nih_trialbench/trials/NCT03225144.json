@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT03225144",
+  "title": "Investigating Complex Neurodegenerative Disorders Related to Amyotrophic Lateral Sclerosis and Frontotemporal Dementia",
+  "brief_summary": "Background:\n\nNeurodegenerative disorders can lead to problems in movement or memory. Some can cause abnormal proteins to build up in brain cells. Researchers want to understand whether these diseases have related causes or risk factors.\n\nObjective:\n\nTo test people with movement or thinking and memory problems to see if they are eligible for research studies.\n\nEligibility:\n\nPeople ages 18 and older with a neurodegenerative disorder associated with accumulation of TDP-43 or Tau proteins\n\nDesign:\n\nParticipants will have a screening visit. This may take place over 2-3 days. Tests include:\n\nMedical history\n\nPhysical exam\n\nQuestions about behavior and mood\n\nTests of memory, attention, concentration, and thinking\n\nMovement measurement. The speed at which participants can stand up from a chair, tap their finger and foot, and walk a short distance will be measured. Some movements will be videotaped. They will be videotaped while they speak and read a paragraph.\n\nBlood tests. This might include genetic testing.\n\nLung and breathing tests\n\nMRI. They will lie on a table that slides into a cylinder that takes pictures of the body. Some participants will get a dye through IV.\n\nElectromyography. A thin needle will be inserted into the muscles to measure electrical signals.\n\nNerve tests. Small electrodes on the skin record muscle and nerve activity.\n\nA small piece of skin may be removed.\n\nA skin or blood sample may be taken to create stem cells.\n\nOptional lumbar puncture. A needle will be inserted into the space between the bones of the back to collect fluid.\n\nIf participants are not eligible for current studies, they may be contacted in the future.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPatients will be included if they\n\n* Are age 18 or older\n* Have been given a diagnosis by a neurologist of frontotemporal dementia, primary progressive aphasia, semantic dementia, motor neuron disorder, amyotrophic lateral sclerosis, progressive bulbar palsy, corticobasal syndrome, Huntington disease or other related adult-onset neurodegenerative disorder OR\n* Carry a mutation in a gene that causes familial ALS or FTD\n\nEXCLUSION CRITERIA:\n\nPatients will be excluded if they\n\n* Have other major neurological or medical diseases that may cause progressive weakness or cognitive dysfunction, such as structural brain or spinal cord disease, metabolic diseases, paraneoplastic syndromes, infectious diseases, peripheral neuropathy or radiculopathy or other significant neurological abnormalities.\n* Have an unstable medical condition that, in the opinion of the investigators, makes participation unsafe\n* Require daytime ventilator support at the time of study entry\n* Are unable to travel to NIH\n* Patients with pacemakers or other implanted electrical devices, brain stimulators, dental implants, aneurysm clips (metal clips on the wall of a large artery), metallic prostheses (including metal pins and rods, heart valves, and cochlear implants), permanent eyeliner, implanted delivery pumps, or shrapnel fragments, metal fragments in the eye) will not be excluded but will not undergo magnetic resonance imaging.\n* Patients with tattoos above the neck or permanent make up will be excluded from undergoing 7T MRI.",
+  "minimum_age": "18 Years",
+  "maximum_age": "110 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adults with a diagnosis of ALS, FTD, or a related adult-onset neurodegenerative disorder",
+  "condition": [
+    "Frontotemporal Dementia",
+    "Amyotrophic Lateral Sclerosis",
+    "Progressive Supranuclear Palsy"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study enrolling adults with neurodegenerative disorders related to ALS and FTD, regardless of prior treatment history. There are no requirements or restrictions regarding prior lines of systemic therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy or lines of therapy for advanced disease. Patients are included based on diagnosis or genetic mutation, with no reference to treatment history. Therefore, line-of-therapy intent cannot be determined from the available information."
+    }
+  ]
+}

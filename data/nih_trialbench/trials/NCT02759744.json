@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT02759744",
+  "title": "Fusion Guided Focal Laser Ablation of Prostate Cancer",
+  "brief_summary": "Background:\n\nProstate cancer is the most common non-skin cancer in U.S. men. Treatments for early or less aggressive disease are limited. Researchers want to test a device that destroys cancerous tissue with laser energy. They want to see if using it with ultrasound is more comfortable than using it with magnetic resonance imaging (MRI).\n\nObjectives:\n\nTo test a cooled laser applicator system to treat prostate cancer lesions. To see if ultrasound imaging is a practical and feasible treatment with laser ablation for focal prostate cancer treatment.\n\nEligibility:\n\nMen at least 18 years old with prostate cancer seen on MRI that has not spread in the body.\n\nDesign:\n\nParticipants will be screened with standard cancer care tests. These can include physical exam, lab tests, and MRI. For the MRI, they lie in a machine that takes pictures. Participants will have a prostate biopsy. Needle samples will be taken from 12 places in the prostate. This will be guided by MRI and ultrasound, which is obtained through a coil in the rectum.\n\nParticipants will stay at the clinic for 1 2 days. A cooling catheter (plastic tube) will be put in the bladder. Ultrasound will guide the laser applicator directly to the tumor.\n\nThe cooling catheter will be removed. A different catheter will be put in the urethra to keep the bladder emptied.\n\nThe next day, participants will have a physical exam and a PSA blood test.\n\nParticipants will have 6 follow-up visits over 3 years. At each visit, they will have a physical exam and lab tests. At some visits, they will also have an MRI or other scans and a prostate biopsy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DEVICE_FEASIBILITY",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Enrollment open only to current NIH patients enrolled in 16-C-0010.\n* Patients\n\nPatients must have clinically localized, non-aggressive, favorable or unfavorable, low to intermediate risk prostate cancer as defined per current NCCN guidelines (i.e, including review and determination of pathology and tumor characteristics, Gleason Score, PSA levels, and other assessments as clinically appropriate).Organ confined clinical prostate cancer that is US-targetable and/ or visualized on MRI or by a semi-automated software tool\n\n* Prostate cancer diagnosed by transrectal or transperineal US-guided standard 12 core needle biopsy, MR image-guided needle biopsy, or MR/US fusion-guided needle biopsies or biopsies performed under semi-automated tools.\n* Targeted tumors must be considered a safe distance (\\>= 8 mm) from the urethra, rectal wall, bladder wall or neurovascular bundle by the Principal Investigator.\n* Must have had a prostate MRI performed at the NIH within 12 months prior to enrollment.\n* Must have had a prostate biopsy performed at NIH within 12 months (+2 months) prior to enrollment.\n* Men \\>18 years of age.\n* ECOG performance status \\<=2.\n* Patients must have adequate organ and marrow function as defined below:\n\n  * leukocytes: \\>=3,000/mcL\n  * absolute neutrophil count: \\>=1,500/mcL\n  * platelets: \\>=75,000/mcL\n  * creatinine: within normal institutional limits\n\nOR\n\n--creatinine clearance: \\>=60 mL/min/1.73 m2 for patients with creatinine levels above institutional normal.\n\n* Preoperative clearance by NIH Department of Anesthesia and Surgical Services\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n* Subject understands that this is an experimental protocol and that there are available standard treatment options. These options would include but not be limited to: active surveillance, external beam radiation and brachytherapy, androgen deprivation therapy, or prostatectomy.\n\nEXCLUSION CRITERIA:\n\n* Patient unable to commit to follow-up\n* Acute urinary tract infection\n* Patients with uncontrolled coagulopathies\n* Altered mental status preventing consent or answering questions during conduct of the trial will be excluded for safety purposes\n* A serious acute or chronic illness that is determined by the PI to place the patient at unreasonable risk for anesthesia and the procedure.\n* Inability to undergo a contrast enhanced MRI per American College of Radiology and the Clinical Center, Department of Radiology guidelines.\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that, in the opinion of the Principal Investigator, would limit compliance with study requirements.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Prostate Cancer",
+    "Prostate Neoplasms"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This trial enrolls men with clinically localized, non-metastatic prostate cancer who are candidates for focal therapy. No prior systemic therapy for advanced or metastatic disease is required or mentioned, and patients are treatment-naïve for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility requires clinically localized, non-aggressive prostate cancer with no evidence of metastatic disease. There is no requirement for prior systemic therapy for advanced disease, and patients are eligible regardless of prior adjuvant or neoadjuvant therapy. This is a first-line, treatment-naïve advanced disease setting."
+    }
+  ]
+}

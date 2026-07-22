@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03341546",
+  "title": "Estimating Patient Size From a Single Radiograph",
+  "brief_summary": "A computational model has been created to estimate the abdominal depth of a patient from a single x-ray image. The model has been tested using phantoms and found to be accurate; this study aims to test the accuracy of the model with patients and in a clinical setting.\n\nThis will be achieved by enrolling patient's who have already been referred for an anterior-posterior abdomen x-ray examination to the trial, taking a physical measurement of their anterior-posterior abdominal depth and then comparing this measured value with a value as estimated using the computational model based on the patient's x-ray image.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult\n* Referred to Ninewells Hospital for an anterior-posterior abdomen x-ray examination\n\nExclusion Criteria:\n\n* Patients unable to give consent\n* Patients who have had a contrast injection in the previous 24 hours\n* Patients suffering abdominal pain at the time of the examination",
+  "minimum_age": "17 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Ambulatory outpatients attending Ninewells Hospital's radiology department for an anterior-posterior abdomen x-ray examination",
+  "condition": [
+    "Testing a Computational Model to Estimate Patient Size"
+  ],
+  "overall_status": "COMPLETED"
+}

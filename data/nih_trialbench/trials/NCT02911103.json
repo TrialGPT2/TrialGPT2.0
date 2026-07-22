@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT02911103",
+  "title": "Deep Brain Stimulation Surgery for Focal Hand Dystonia",
+  "brief_summary": "Researchers want to test a procedure called deep brain simulation (DBS) to treat focal hand dystonia (FHD). A device called a neurostimulator is placed in the chest. It is attached to wires placed in brain areas that affect movement. Stimulating these areas can help block nerve signals that cause abnormal movements.\n\nObjectives:\n\nTo test DBS as treatment for FHD. To learn about brain and nerve cell function in people with dystonia.\n\nEligibility:\n\nPeople ages 18 and older with severe FHD who have tried botulinum toxin treatment at least twice\n\nDesign:\n\nParticipation lasts 5 years.\n\nParticipants will be screened with:\n\nMedical history\n\nPhysical exam\n\nVideotape of their dystonia\n\nBlood, urine, and heart tests\n\nBrain MRI scan\n\nChest X-ray\n\nNeuropsychological tests: answering questions, doing simple actions, and taking memory and thinking tests.\n\nHand movement tests\n\nParticipants will have surgery: A frame fixes their head to the operating table. A small hole is made in the skull. Wires are inserted to record brain activity and stimulate the brain while they do simple tasks. The wires are removed and the DBS electrode is inserted into the hole. The neurostimulator is placed under the skin of the chest, with wires running to the electrode in the brain. They will have CT and MRI scans during surgery.\n\nParticipants will recover in the hospital for about 1 week.\n\nThe neurostimulator will be turned on 1 4 weeks after discharge. Participants will have regular visits until the study ends. Visits include:\n\nChecking symptoms and side effects\n\nMRI\n\nMovement, thinking, and memory tests\n\nIf the neurostimulator s battery runs out, participants will have surgery to replace it.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* FHD diagnosed by a neurologist\n* BFM upper extremity subscore of 3 or more (score range 0 to 4) or ADDS difficulty of performing score equal to or more than 3.\n* Patients must score 3 or below on the Tubiana and Chamagne scale or inability to perform at the concert level or patients must score a rating of \"severe\" on at least one item, impacting the patient s employment or essential activities on the Writer s Cramp Impairment scale.\n* Symptoms causing significant impairment in quality of life and work or daily activities by patient self-assessment and SF12 scale, as reported by subjects. The subjects should be severely impaired in at least one of the following domains: handwriting, typing or playing an instrument. The impairment needs to have affected employment, manifested by substantive change in, or loss of, employment or career of choice.\n* All patients must have failed or achieved inadequate benefit (continuing functional impairment) with at least two trials of botulinum toxin treatments.\n* Women of childbearing age will have to agree to use contraception methods for the first 3 post operative months.\n\nEXCLUSION CRITERIA:\n\n* Subjects younger than 22 years old.\n* MRI findings that would make participation and surgery unsafe (such as tumor or other space occupying lesion, stroke, hemorrhage or hematoma, edema, hydrocephalus, abscess) and MRI findings that would confound study outcomes (such as iron deposits in the basal ganglia, demyelinating disease, traumatic brain injury, structural or developmental abnormality, moderate or severe white matter hyperintensities).\n* Subjects with prior brain surgery\n* Pregnant or nursing women as safety of DBS has not been established in this group.\n* Presence of a more widespread neurologic syndrome with the dystonia being part of it, and/or dystonia caused by an ongoing etiology, such as tardive dystonia associated with ongoing psychotropic treatment or an inherited neurodegenerative syndrome associated with intractable dystonia\n* Intellectual disability as measured by the estimated General Ability Index (GAI) of the Wechsler Adult Intelligence Scale 4th Edition (WAIS-IV), which would render the participant not able to provide informed consent or to comply with the study procedures (estimated GAI less than 70)\n* Dementia as evidenced by formal neuropsychological evaluation and Mattis Dementia Rating Scale-2 (DRS-2) score below 128.\n* Depressed subjects as determined by the neuropsychology or psychiatry screen, including Beck Depression Inventory (BDI) and psychiatric evaluation. Subjects scoring above 20 on the BDI or exhibiting moderate or severe active depression will be excluded\n* Subjects with uncontrolled co-existing medical conditions: uncontrolled systemic hypertension with values above 170/100; active heart disease needing immediate intervention; active respiratory disease needing immediate intervention; uncorrected coagulation abnormalities; any condition that would render the patient unable to safely cooperate with the surgery and study tests as judged by the screening physician\n* Presence of a contraindication to undergo a brain MRI\n\n  * Metal in the body which would make having an MRI scan unsafe, such as pacemakers, medication pumps, aneurysm clips, metallic prostheses (including metal pins and rods, heart valves or cochlear implants), shrapnel fragments, permanent eye liner or small metal fragments in the eye that welders and other metal workers may have;\n  * Uncomfortable in small closed spaces (have claustrophobia) such that the participant will be uncomfortable in the MRI machine;\n  * Unable to lay comfortably flat on their back for up to one hour in the MRI scanner;\n* Subjects who require diathermy\n* Subjects who require post-op MRIs with full body coil\n\n  \\-- Subjects with an active systematic infection\n* Subjects who are immune-compromised\n* Subjects who are on anticoagulation therapy that would preclude their ability to undergo the implant procedure\n* Subjects who are allergic or have shown hypersensitivity to any materials of the neurostimulation system which may come in contact with the body\n* Subjects that cannot appoint a Durable power of attorney (DPA)",
+  "minimum_age": "22 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Dystonia",
+    "Focal Dystonia",
+    "Musician's Dystonia"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with severe focal hand dystonia who have failed or had inadequate benefit from at least two trials of botulinum toxin treatment. There are no systemic therapies for advanced/metastatic disease in this non-oncology, non-malignant condition, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility requires failure or inadequate benefit from at least two trials of botulinum toxin, but this is not systemic therapy for advanced/metastatic disease. There is no mention of lines of therapy for advanced disease, as this is not an oncology trial."
+    }
+  ]
+}

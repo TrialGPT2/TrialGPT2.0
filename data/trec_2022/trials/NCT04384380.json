@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04384380",
+  "title": "Efficacy and Tolerability of Hydroxychloroquine in Adult Patients With COVID-19",
+  "brief_summary": "The effective medical treatment against COVID-19 infection is still unknown. Chloroquine phosphate is a well-known antimalarial drug which has been on the market for many years. Recently, in vitro study shown that Chloroquine is effective at both entry and at post-entry stages of the COVID-19 infection of Vero E6 cells with promising results. Chloroquine is also an immune-modifier and could distribute to the whole body including lung. Also, chloroquine is cheap and safe, and could be a promising agent against COVID-19 infection. However, only hydroxychloroquine (HCQ) with the extra hydroxyl group is available in Taiwan. Therefore, hydroxychloroquine instead become the best choice for the treatment candidate, since it shows higher in vitro potency (EC50) against COVID-19 with lower toxicity while retaining the original effect which compared with chloroquine.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Patients who had fever (central temperature \u226538\u00b0C) or acute upper respiratory symptoms and laboratory confirmation (rRT-PCR) for COVID-19, with available same type of upper respiratory tract specimens from screening evaluation to the initial testing within 4 days of initial testing\n2. Patients have mild (no pneumonia) to moderate disease (pneumonia without respiratory distress) according to the following World Health Organization (WHO) definition of COVID-19 clinical syndromes:\n\n   * Mild (Mild illness):\n\n   Patients with uncomplicated upper respiratory tract viral infection, may have non-specific symptoms such as fever, fatigue, cough (with or without sputum production), anorexia, malaise, muscle pain, sore throat, dyspnea, nasal congestion, or headache. Rarely, patients may also present with diarrhoea, nausea and vomiting.\n   * Moderate (Pneumonia):\n\n   Adult with pneumonia but no signs of severe pneumonia and no need for supplemental oxygen.\n3. Willing and able to comply with the study procedure and sign a written informed consent\n\nExclusion Criteria:\n\n1. Patients with the medical history of hypersensitivity to chloroquine, chloroquinine, or hydroxychloroquine\n2. Patients with retinal disease, hearing loss, severe neurological and mental illness\n3. Patients with pancreatitis\n4. Patients with severe lung, liver (alanine aminotransferase (ALT)/aspartate aminotransferase (AST) elevation more than 3 times the normal upper limit), kidney (estimated glomerular filtration rate \\[eGFR\\] \\<30 mL/min/1.73m2, using the MDRD or CKD-EPI methods), brain, haematological diseases or other important systemic diseases\n5. Medical history of uncontrolled but clinically significant abnormal cardiac conduction abnormalities at electrocardiogram (ECG) at screening, any history or evidence of long QT syndrome or QTcF interval \\>450 msec for males and \\>470 msec for females (according to Fridericia's correction) at screening\n6. Known HIV infection; active hepatitis B or C without concurrent treatment (positive tests for hepatitis B \\[both HBsAg and HBeAg\\], or high titer of hepatitis C ribonucleic acid \\[RNA\\] \\>800,000 IU/ml)\n7. Uncontrolled and unstable concurrent medical condition including psychiatric disorders and alcohol/substance dependence/abuse that will jeopardize the safety of the patient, interfere with the objectives of the study, or affect the patient compliance with study requirements, as determined by the Investigator\n8. Patients with concomitant use of medications that alter the absorption or excretion of hydroxychloroquine\n9. Patients were considered to be unable to complete the study, or not suitable for the study judged by Investigators\n10. Pregnant or breast-feeding women",
+  "minimum_age": "20 Years",
+  "maximum_age": "79 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Coronavirus Infection"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02930915",
+  "title": "Acquisition of 3D Facial Geometry of Patients' Scheduled for Radiotherapy Treatment",
+  "brief_summary": "This study investigates the feasibility of using 3D-Printing to manufacture masks used to immobilize patients undergoing radiotherapy treatment for tumors affecting the head and neck.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Have a Head-and-neck cancer\n* Receiving radiotherapy treatments (CT images)\n\nExclusion Criteria:\n\n* Children (age less than 18)",
+  "minimum_age": "18 Years",
+  "maximum_age": "69 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "A cohort of patients who have a Head-and-neck cancer and receiving radiotherapy treatments in the Norfolk and Norwich University Hospital.",
+  "condition": [
+    "Head and Neck Cancer"
+  ],
+  "overall_status": "UNKNOWN"
+}

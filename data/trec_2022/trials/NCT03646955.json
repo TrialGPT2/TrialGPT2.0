@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT03646955",
+  "title": "Partial Breast Versus no Irradiation for Women With Early Breast Cancer",
+  "brief_summary": "All early breast cancer patients are offered adjuvant breast radiation therapy (RT) after breast conserving surgery for an early breast cancer. Breast cancer is heterogeneous, and selected patients have a very low gain from RT, whilst they still have risk of acute and late side effects from RT. This trial will try identify selection criteria for low risk breast cancer patients who can safely omit adjuvant RT without unacceptable high risk of local failure.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\nFemale patient \\>=60 years\n\nPrimary tumour characteristics by conventional histopathology\n\n* unilateral and unifocal non-lobular histology grade 1-2\n* maximum microscopic size \\<=20mm\n* node negative determined by sentinel node or axillary lymph node dissection\n* estrogen receptor \\>=10% positive\n* HER2 negative (by IHC and/or in situ hybridization)\n* resection margin \\>=2 mm for invasive carcinoma and any ductal carcinoma in situ associated with the cancer\n\nSurgical type is breast conservation\n\nPerformance status ECOG 0-2\n\nNo evidence of distant metastasis\n\nExclusion Criteria:\n\n* multifocal or multicentric invasive carcinoma or ductal carcinoma in situ\n* evidence of clinical or pathological T4 breast cancer\n* grade 3 malignancy\n* previous breast cancer or DCIS irrespective of disease-free interval\n* previous radiation therapy to the breast or thorax,\n* previous neoplasm within 5 years except carcinoma in situ of the cervix, endometrium or coli, melanoma in situ.\n* comorbidity precluding the patient from radiation therapy (e.g. cardiovascular or pulmonary disease, scleroderma, systemic lupus erythematosus).\n* mental/psychiatric disorder which precludes the patient from understanding the randomization and the follow up.\n* documented hereditary breast cancer or with high genetic risk of breast cancer\n* life expectancy \\<10 years",
+  "minimum_age": "60 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Local Neoplasm Recurrence",
+    "Distantly Metastatic Malignant Neoplasm",
+    "Death",
+    "Fibrosis Breast",
+    "Depigmentation/Hyperpigmentation of Skin",
+    "Telangiectasia",
+    "Scar",
+    "Pain",
+    "PROMs"
+  ],
+  "overall_status": "RECRUITING"
+}

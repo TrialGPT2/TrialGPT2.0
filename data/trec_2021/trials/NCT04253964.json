@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04253964",
+  "title": "Pilot Study of Performance Status 2 vs. Performance Status 0-1 Non-small Cell Lung Cancer Patients Treated With Chemo/Immunotherapy",
+  "brief_summary": "This pilot study is configured as a non-inferiority comparison of Performance Status 2 patients with Performance Status 0-1 patients, with the goal of demonstrating non-inferiority in terms of efficacy (progression-free survival, overall survival) and safety (rates of adverse events, quality of life) when treating Performance Status 2 patients with the same first-line immunotherapy-based regimen as Performance Status 0-1 patients.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients must have a cytological or histological diagnosis of non-small cell lung cancer that is metastatic or unresectable for which standard curative measures do not exist.\n* No prior systemic treatment with either chemotherapy or immunotherapy for non-curative intent. Patients may have previously received cancer treatment with curative intent for prior early-stage disease.\n* At least 18 years old.\n* ECOG performance status of 0-2, as determined by the treating physician in the consult note.\n* Life expectancy of greater than 3 months.\n* Patients must have normal organ and marrow function as defined below:\n* absolute neutrophil count \u22651,000/mcL\n* platelets \u2265100,000/mcL\n* Chemotherapy agents are known to be teratogenic, therefore women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control) prior to study entry and for the duration of study participation. Should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately.\n* Ability to understand and the willingness to sign an IRB-approved informed consent document.\n\nExclusion Criteria:\n\n* Nonsmall cell lung cancer that is known at registration to be positive for a tumor activating alteration for which first line targeted therapy is indicated; specifically, a targetable mutation in epidermal growth factor receptor (EGFR), gene rearrangement of anaplastic lymphoma kinase (ALK), gene rearrangement of c-ros oncogene 1 (ROS1), or mutation in B isoform of rapidly accelerated fibrosarcoma (B-Raf). For non-squamous subtypes, molecular testing of tumor and peripheral blood should be attempted for actionable biomarkers, but if there is an insufficient quantity of tumor material for testing and it is not feasible to attempt additional biopsies before starting systemic therapy, then these biomarker results are not necessary for inclusion on the study. For squamous subtype, molecular testing should be considered but is not necessary for inclusion on the study.\n* Known to have an active autoimmune disease that required systemic treatment in the past 2 years (i.e., with use of disease modifying agents, systemic corticosteroids, or immunosuppressive drugs).\n* History of (non-infectious) pneumonitis that required systemic corticosteroids.\n* Uncontrolled intercurrent illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Pregnant women are excluded from this study because of the potential for teratogenic or abortifacient effects with chemotherapy. Because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with chemotherapy, breastfeeding should be discontinued.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Nonsmall Cell Lung Cancer",
+    "Performance Status"
+  ],
+  "overall_status": "RECRUITING"
+}

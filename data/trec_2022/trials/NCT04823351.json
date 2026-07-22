@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04823351",
+  "title": "Clinical Efficiency of Surgical Masks and Filtering Face-piece 2 Masks",
+  "brief_summary": "Recent results demonstrated an increased risk of COVID-19 infection among healthcare workers (HCW), particularly when access to personal protective equipment (PPE) was inadequate. (ref). During the COVID-19 pandemic, access to PPE has become complicated by a surge in worldwide demand combined with production limitations and logistical barriers. Since their introduction in hospitals in the 1990s, filtering facepiece (FFP) masks, mostly of the FFP2 type, are used by HCWs to protect themselves against bioaerosols due to tuberculosis, measles, and selected respiratory viruses. The COVID-19 pandemic has sparked debate around reasonable and safe use of the different types of face masks to protect the HCWs who provide direct care for COVID-19 patients. At the heart of the discussion are the respective contributions to SARS-CoV-2 transmissions by droplets and aerosols, and the corresponding risk levels resulting in COVID-19 infection.\n\nThe objective is to perform a cluster-randomized, parallel, controlled, non-inferiority study among Swiss nursing and retirement homes to evaluate the efficacy of surgical masks vs. FFP2 masks during patient care and prospectively observe possible infections amongst both vaccinated and unvaccinated staff.\n\nStaff in nursing homes will be randomized to use either surgical or FFP2 masks for patient care consistently. Considering an attack rate of 0.8% over three months among healthcare workers, a non-inferiority margin of 5%, and an intracluster variability of 0.01, - we require a minimum of 625 participants per group. The COVID-19 attack rate will be tested by initial serology testing and weekly pooled saliva specimen for SARS-CoV-2 testing. (Re)-Infections will be tracked by weekly pooled saliva-based PCR testing. Exposure to COVID-19 other than during work time will be explored by questionnaires and focus group discussions.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Study inclusion criteria;\n\n* Written informed consent\n* Healthcare workers at nursing homes with resident contact\n* Willingness to adhere to study protocol\n\nAdditional inclusion criteria for primary objective 2 (reinfection after vaccination)\n\n\\- SARS-CoV-2 vaccination\n\nList the study exclusion criteria:\n\n* Unwillingness to adhere to study protocol\n* HCW exclusively working with patients with aerosol-generating procedures during the entire study period",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19"
+  ],
+  "overall_status": "UNKNOWN"
+}

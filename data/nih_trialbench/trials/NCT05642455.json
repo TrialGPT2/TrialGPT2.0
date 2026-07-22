@@ -1,0 +1,38 @@
+{
+  "nctid": "NCT05642455",
+  "title": "SPEARHEAD-3 Pediatric Study",
+  "brief_summary": "This is a pediatric basket study to investigate the safety and efficacy of afamitresgene autoleucel in HLA-A\\*02 eligible and MAGE-A4 positive subjects aged 2-17 years of age with advanced cancers.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Subject has histologically confirmed diagnosis of any one of the following cancers: (A) Synovial Sarcoma (SS), (B) MPNST, (C) Neuroblastoma, or (D) Osteosarcoma (OS).\n* Age:\n\n(A) Synovial Sarcoma: 2 to 17 years (B) MPNST, Neuroblastoma and Osteosarcoma: 2 to 21 years\n\n* Body weight ≥ 10 kg\n* Must have previously received a systemic chemotherapy\n* Measurable disease prior to lymphodepletion according to RECIST v1.1 (or INCR, 2017 Neuroblastoma only).\n* HLA-A\\*02 positive\n* Tumor shows MAGE-A4 expression confirmed by central laboratory.\n* Performance Status:\n\n(A) Subjects ≥16: Eastern Cooperative Oncology Group (ECOG) 0 or 1 (B) Subjects 2 to 16: Lansky score ≥ 80\n\n• Subject has anticipated life expectancy of greater than 3 months in the opinion of the investigator.\n\nExclusion Criteria:\n\n* Positive for HLA-A\\*02:05 in either allele; or any A\\*02 having same protein sequence as HLA-A\\*02:05\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to fludarabine, cyclophosphamide.\n* History of autoimmune or immune mediated disease\n* Known central nervous system (CNS) metastases.\n* Other prior malignancy that is not considered by the Investigator to be in complete remission\n* Clinically significant cardiovascular disease\n* Active infection with human immunodeficiency virus, hepatitis B virus, hepatitis C virus, or human T cell leukemia virus\n* Pregnant or breastfeeding\n* Experiencing ongoing rapid disease progression that in the opinion of the Investigator significantly increases the subjects risk associated with treatment.",
+  "minimum_age": "2 Years",
+  "maximum_age": "21 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Synovial Sarcoma",
+    "Malignant Peripheral Nerve Sheath Tumor (MPNST)",
+    "Neuroblastoma (NBL)",
+    "Osteosarcoma"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "All patients must have previously received at least one prior systemic chemotherapy for their advanced cancer. There is no upper limit on the number of prior lines, and patients who only received adjuvant/neoadjuvant therapy are not clearly addressed.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "2L+",
+      "line_of_therapy_text": "Eligibility requires that subjects must have previously received a systemic chemotherapy. The protocol does not specify an upper limit on prior lines, nor does it clarify whether adjuvant-only patients are eligible. Therefore, the minimum is 1 prior line for advanced disease, with no maximum specified."
+    }
+  ]
+}

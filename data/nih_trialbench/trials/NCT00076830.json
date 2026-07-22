@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT00076830",
+  "title": "Evaluation and Treatment of Patients With Connective Tissue Disease",
+  "brief_summary": "This study offers evaluation and treatment of patients with a suspected connective tissue disorder. The protocol is not designed to test new treatments; rather, patients receive standard care. The study is designed to: 1) allow NICHD's staff to learn more about connective tissue disorders, 2) train physicians in the evaluation and treatment of these disorders; and 3) establish a pool of patients who may be eligible for other NICHD protocols for connective tissue disorders. (Participants in this protocol will not be required to join another study; the decision will be voluntary.)\n\nPatients of all ages with a suspected connective tissue disorder and their unaffected family members may be eligible for this study.\n\nParticipants undergo diagnostic procedures that may include a medical history, physical examination, X-ray studies, eye examinations, and blood drawing, as well as other specialized tests, when needed. Additional tests may include:\n\n* Blood test for DNA genetic analysis\n* Skin biopsy: Removal of a small piece of tissue for microscopic examination. The area of skin selected for the biopsy is numbed and a small circle of skin, usually from the upper arm, is removed with a surgical cookie cutter-like instrument.\n* Magnetic resonance imaging (MRI): This test uses a strong magnetic field and radio waves to show structural and chemical changes in tissues. The patient lies on a table that slides into a narrow cylinder containing a magnetic field. Ear plugs are worn to muffle loud knocking and thumping sounds that occur with electrical switching of the magnetic fields.\n* Computed tomography (CT) scans: This test allows the doctor to view the organs inside the body in small sections. The patient lies in a doughnut-like machine. Scanning can be done from different angles, allowing a three dimensional picture of the part of the body being studied. It may be done with or without injection of a contrast material.\n* Referral to appropriate sub-specialists when potential complications are found.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIndividuals with a suspected bone-related connective tissue disorder, as indicated by signs including, but not limited to, fractures, low bone density, asymmetric overgrowth of long bone\n\nOR\n\nApparently unaffected, healthy family members of individuals with a suspected bone-related connective tissue disorder.\n\nAges to be enrolled are from 0-70 years old, with only viable neonates accepted at age 0 years.\n\nEXCLUSION CRITERIA:\n\nIndividuals who, in the opinion of the Investigator, are unable to comply with the protocol or have medical conditions that would potentially increase the risk of participation.\n\nFor both affected individuals and apparently healthy family members, no exclusions are based on age, gender, ethnicity or race, religion, or English-language ability. Those who are pregnant, whether affected or unaffected, will be excluded from any exam that includes\n\nradiation, but not excluded from the study overall.",
+  "minimum_age": "",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Minimal limit on gender, geographical location (able to travel to NIH), race/ethnicity, age (from birth to 70 years old).",
+  "condition": [
+    "Connective Tissue Disorders",
+    "Osteogenesis Imperfecta",
+    "Bone Diseases, Metabolic",
+    "Melorheostosis"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling patients with suspected connective tissue disorders and their unaffected family members for evaluation and standard care, without any experimental treatment or specific line-of-therapy requirements. There are no restrictions or specifications regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The protocol does not mention prior systemic therapy for advanced disease, nor does it specify any requirements or exclusions based on previous lines of therapy. Both affected individuals and healthy family members are eligible, and the study is observational with standard care only."
+    }
+  ]
+}

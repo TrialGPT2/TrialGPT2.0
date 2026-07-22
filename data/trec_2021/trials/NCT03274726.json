@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03274726",
+  "title": "Iron Status of Women and Young Children in the United States",
+  "brief_summary": "This analysis describes the distribution of TBI and the prevalence of iron deficiency (ID) and iron deficiency anemia (IDA) among toddlers, non-pregnant women, and pregnant women.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Included:\n\n* Children ages 12-23 months and Women ages 12-49 years\n* Those who completed the MEC\n\nExcluded:\n\n\\- Those missing data on iron biomarkers",
+  "minimum_age": "12 Months",
+  "maximum_age": "49 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "NHANES is a nationally-representative, cross-sectional study of nutrition and health for individuals residing in the U.S.",
+  "condition": [
+    "Iron-deficiency",
+    "Nutritional Deficiency"
+  ],
+  "overall_status": "COMPLETED"
+}

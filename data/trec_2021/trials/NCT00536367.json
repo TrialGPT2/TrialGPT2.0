@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT00536367",
+  "title": "Validation of a Mortality Prediction Model for Acutely Decompensated Heart Failure Patients",
+  "brief_summary": "The purpose of this protocol is to determine if the 3 variable mortality prediction model established using data from a retrospective, multi-center patient registry (The ADHERE Acute Decompensated HEart FailuRE National Registry) will hold for a prospective, observational outcome study of OSU patients diagnosed in the Emergency Department (ED)with Acute Decompensated Heart Failure (ADHF). In the retrospective registry, three parameters were found to be highly predictive of inpatient mortality for patients admitted with ADHF - on admission, BUN \\> 43 mg/dL, systolic BP \\< 115 mmHg, and Cr \\> 2.75 mg/dL. However, the very nature of the ADHERE database limited the analytic potential of this model, as the data captured by ADHERE is retrospective and limited to the inpatient stay, and the only outcome evaluated was inpatient mortality. Due to its inherent limitations, the model did not and could not address longer term outcomes, such as repeat visits to the emergency department after discharge, or need for readmission to an acute care setting, which frequently occurs soon after discharge in patients who survive to discharge after being admitted with ADHF.\n\nThis observational study will create a registry of patient information obtained from an interview with the patient and a review of the patient's medical record. Follow up information at 30 days post discharge will be obtained by phone interview with the patient and a review of the patient's OSUMC visit history.\n\nMost ED patients diagnosed with ADHF are admitted, as emergency physicians are aware that heart failure in general carries a very high mortality rate. However, as risk stratification for ADHF is a severely under researched area, it is not at all clear which patients with acutely decompensated heart failure will have a poor outcome in the short and intermediate term. With an improved understanding of the risk profile of our ADHF patients, more appropriate decision making and disposition assignment can be made.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* age 18 or older\n* presentation to the Emergency Department and/or admission to the hospital with diagnosis of acute decompensated heart failure\n\nExclusion Criteria:\n\n* minors\n* prisoners",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Heart Failure, Congestive"
+  ],
+  "overall_status": "COMPLETED"
+}

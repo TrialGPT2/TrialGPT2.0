@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT02532114",
+  "title": "Niclosamide and Enzalutamide in Treating Patients With Castration-Resistant, Metastatic Prostate Cancer",
+  "brief_summary": "This phase I trial studies the side effects and best dose of niclosamide when given together with enzalutamide in treating patients with castration resistant prostate cancer that has spread from the primary site to other places in the body. Androgens such as testosterone can cause the growth of prostate cancer cells. Drugs like enzalutamide block androgens from driving tumor growth; however, when androgen receptor splice variants are present, these drugs may not be effective. Niclosamide may decrease the amount of androgen receptor splice variant present within tumor cells, thus promoting the anti-tumor effects of enzalutamide. Giving niclosamide together with enzalutamide may be a better treatment for prostate cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Have signed an informed consent document indicating that the subject understands the purpose of and procedures required for the study and are willing to participate in the study\n* Be willing/able to adhere to the prohibitions and restrictions specified in this protocol\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 2\n* Documented histologically confirmed adenocarcinoma of the prostate\n* Patient must have evidence of castration resistant prostate cancer as evidenced by a confirmed rising PSA (per Prostate Cancer Working Group 2 \\[PCWG2\\] criteria) and a castrate serum testosterone level (i.e. =\\< 50 mg/dL)\n* Patient must be eligible for treatment with enzalutamide\n* Patient must have previously progressed on abiraterone (either by PCWG2 criteria or Response Evaluation Criteria in Solid Tumors \\[RECIST\\] criteria)\n* Documented metastatic disease on bone scan, computed tomography (CT) scan or magnetic resonance imaging (MRI)\n\nExclusion Criteria:\n\n* Have known allergies, hypersensitivity, or intolerance to enzalutamide or niclosamide or their excipients\n* Ongoing systemic therapy (other than a gonadotropin releasing hormone \\[GnRH\\] agonist/antagonist) for prostate cancer including, but not limited to:\n\n  * Cytochrome P450, family 17 (CYP-17) inhibitors (e.g. ketoconazole, abiraterone)\n  * Antiandrogens (e.g. bicalutamide, nilutamide)\n  * Second generation antiandrogens (e.g. ARN-509)\n\n    * Note: patients receiving ongoing treatment with enzalutamide will be allowed to join the study\n  * Immunotherapy (e.g. sipuleucel-T, ipilimumab)\n  * Chemotherapy (e.g. docetaxel, cabazitaxel)\n  * Radiopharmaceutical therapy (e.g. radium-223, strontium-89, samarium-153)\n* Have any condition that, in the opinion of the investigator, would compromise the well-being of the subject or the study or prevent the subject from meeting or performing study requirements\n* Any psychological, familial, sociological, or geographical condition that could potentially interfere with compliance with the study protocol and follow-up schedule\n* Severe hepatic impairment (Child-Pugh class C)\n* Severe renal impairment (creatinine clearance =\\< 30 ml/min)\n* History of prior seizures\n* Central nervous system metastases\n* Symptomatic patients who, in the opinion of the investigator, may benefit from docetaxel-based chemotherapy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Castration Levels of Testosterone",
+    "Castration-Resistant Prostate Carcinoma",
+    "Metastatic Prostate Carcinoma",
+    "Recurrent Prostate Carcinoma",
+    "Stage IV Prostate Adenocarcinoma"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT02146170",
+  "title": "Tissue Procurement and Natural History Study of People With Non-Small Cell Lung Cancer, Small Cell Lung Cancer, Extrapulmonary Small Cell Cancer, Pulmonary Neuroendocrine Tumors, and Thymic Epithelial Tumors",
+  "brief_summary": "Background:\n\n\\- Lung cancer is the leading cause of cancer-related death worldwide. It causes more than one million deaths every year. Researchers want to gather tissue samples from people with lung and thymic cancers to understand the disease better. This may lead to new ways to diagnose and treat it.\n\nObjective:\n\n\\- To collect tissue samples for use in the study of lung cancers.\n\nEligibility:\n\n\\- Adults over age 18 with non-small cell lung cancer, small cell lung cancer, extra pulmonary small cell cancer, pulmonary neuroendocrine tumors, and thymic epithelial tumors.\n\nDesign:\n\n* Participants will be screened with a medical history, physical exam, and blood tests. They will be asked about how they perform their daily tasks.\n* Participants may be asked to give urine and blood samples. They may give a saliva sample if they cannot give blood. They will also give a sample of their tumor from a biopsy they had. They may also be given the option to undergo a biopsy.\n* Participants may have MRI, CT, and/or PET scans of the body. They will lie in a machine that takes pictures of the body.\n* After visits to the Clinical Center end, researchers will contact participants by phone every year to check on their health.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Individuals with histologically or cytologically confirmed NSCLC, SCLC, ESCC, PNET, and TET.\n* Individuals consulted in the Clinical Center without a definitive diagnosis, but clinically considered likely to have a malignancy of the above histologies, pending further tissue acquisition and/or pathology review.\n* Age greater than or equal to18 years. Children are excluded from the study, as the above thoracic malignancies are rare in this population.\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n* Active symptomatic major organ disorder that would increase the risk of biopsy, including but not limited to ischemic heart disease, recent myocardial infarction, active congestive heart failure, pulmonary dysfunction.\n* Active concomitant medical or psychological illnesses that may increase the risk to the subject, at the discretion of the Principal Investigator.\n* Known HIV-positive individuals not on combination antiretroviral therapy are ineligible.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with histologically or cytologically confirmed NSCLC, SCLC, ESCC, PNET, and TET",
+  "condition": [
+    "Non-Small Cell Lung Cancer",
+    "Small Cell Lung Cancer",
+    "Extrapulmonary Small Cell Cancer",
+    "Pulmonary Neuroendocrine Tumors",
+    "Thymic Epithelial Tumors"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a tissue procurement and natural history study enrolling adults with various thoracic malignancies, regardless of prior treatment history. There are no restrictions on prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes all adults with the specified thoracic malignancies, with no mention of required or excluded prior systemic therapy for advanced disease. Patients who have only received adjuvant or neoadjuvant therapy, or are treatment-naïve, are eligible. There are no restrictions on the number of prior lines for advanced disease."
+    }
+  ]
+}

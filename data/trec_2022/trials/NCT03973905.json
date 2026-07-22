@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT03973905",
+  "title": "Effectiveness of Maternal Immunization With Boostrix at Preventing Pertussis Among Infants <2 Months Old in the United States",
+  "brief_summary": "The purpose of this study is to estimate the effectiveness of maternal immunization with Boostrix at preventing pertussis in infants in the United States.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nInclusion criteria for case infants:\n\n* Case infants were eligible for the enrolment if they:\n* were at least 2 days old and \\< 2 months old on the cough onset date\n* resided in the catchment area on their cough onset date\n* were born in a hospital in their state of residence\n* were \u226537 weeks' gestational age at birth\n* were neither adopted nor in foster care\n* did not live in a residential care facility\n\nInclusion criteria for control infants:\n\n* Control infants were eligible for the enrolment if they:\n* were at least 2 days old and \\<2 months old on the case infant's cough onset date\n* were born in a hospital in their state of residence\n* were \u226537 weeks' gestational age at birth\n* were neither adopted nor in foster care\n* did not live in a residential care facility\n* were born at the same hospital as the case infant\n\ndid not have pertussis diagnosis prior to the cough onset date of the corresponding case infant\n\nExclusion Criteria:\n\n* Infants (case and controls) whose mothers have received Adacel or mothers without brand information available, as well as controls who were matched to a case whose mother received Adacel or mothers without brand information available, will be excluded from the analysis of the effectiveness of vaccination with Boostrix.",
+  "minimum_age": "2 Days",
+  "maximum_age": "2 Months",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Infant subjects, born to mothers exposed, or unexposed to Boostrix or any Tdap vaccination, coming from 6 emerging program network sites.",
+  "condition": [
+    "Whooping Cough"
+  ],
+  "overall_status": "COMPLETED"
+}

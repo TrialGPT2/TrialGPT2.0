@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT00263445",
+  "title": "Constructing an Insulin-Like Growth Factor-based Prediction Model",
+  "brief_summary": "Serum insulin-like growth factor-I (IGF-I) measurements have been shown to correlate well with growth hormone action and effect, and recent data show that serum IGF-I may be related to safety and efficacy of growth hormone (GH) treatment in patients. Some studies indicate that high IGF-I levels are associated with increased cancer risk, and low IGF-I levels are associated with increased risk for cardiovascular disease. Studies in children also show that the serum IGF-I level is correlated with the change in height score achieved (that is, the higher the IGF-I level, the greater the gain in height). Pediatric endocrinologists have therefore begun to use serum IGF-I levels, in addition to growth rate and weight gain, to adjust the GH dose in treated children.\n\nAlthough monitoring of serum IGF-I levels is becoming standard of care in patients begin treated with GH, there are few guidelines regarding the actual logistics of adjusting GH dose. As serum IGF-I level has been linked to both safety and efficacy of GH treatment, the ideal practice would be to maintain serum IGF-I levels within a certain target range. The overall goal of our study is to construct a mathematical model which predicts the change in GH dose necessary to achieve a desired change in IGF-I level.\n\nHypotheses to be tested by our study include the following: IGF-I measurement has a role in optimization of GH therapy; GH dose change to achieve IGF-I changes are predictable; and gender and puberty affect the relationship between dose change and target IGF-I changes.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Prepubertal patients,\n* Male/female,\n* Ages 3-14 yrs,\n* Being treated with growth hormone for the conditions of growth hormone deficiency, idiopathic short stature, and small-for-gestational age with failure to catch up to the normal growth curve by age 2 years.\n\nExclusion Criteria:\n\n* Patients being treated with growth hormone for other conditions such as Turner syndrome, chronic renal failure, or Prader-Willi syndrome",
+  "minimum_age": "3 Years",
+  "maximum_age": "14 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "GH-treated chlidren",
+  "condition": [
+    "Growth Hormone Deficiency",
+    "Idiopathic Short Stature",
+    "Small for Gestational Age"
+  ],
+  "overall_status": "TERMINATED"
+}

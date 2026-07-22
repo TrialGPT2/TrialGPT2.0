@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04762446",
+  "title": "Pre-operative Risk Assessment of Surgical Site Infection After Cardiac Surgery",
+  "brief_summary": "Surgical site infections (SSI) are serious complications accounting for 20% of all the healthcare-associated infections and are considered the second most frequent type of hospital-acquired infection in Europe and the United States. SSI after cardiac surgery is associated with delays to patient's discharge, readmissions and re-operations; and can result in increased hospital costs for staffing, diagnostics and treatment.\n\nRisk assessment has been identified as potentially useful intervention in SSI prevention and in identifying at risk populations who may benefit from specific interventions to reduce this possible complication of cardiac surgery. However, there is currently a lack of evidence as to which risk tools are the most valid and reliable to be used in clinical practice. The investigators developed and locally validated the Barts Heart Centre Surgical Infection Risk (B-SIR) tool to include patients with various types of cardiac surgeries and found that the B-SIR tool is a better tool in predicting SSI risk compared with the existing cardiac risk tools in the study population.\n\nHowever, various literatures recognised that the predictive performance of a risk model tends to vary across settings, populations and periods. Hence, the investigators aim to do a multi-centre validation of the newly developed B-SIR tool and apply all the other tools (Australian Cardiac Risk Index and Brompton and Harefield Infection Score) to identify what tool performs best that can potentially be use for the UK population. Further, the outcome of the study will be beneficial to future cardiac surgery patients to assess their risk of developing SSI and help identify those patients who may benefit from specific interventions. Existing patients' data, which will be anonymised, from the participating cardiac centres will be utilised to analyse and compare the performance of each risk tools.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. \\>/= 18 years old at the time of surgery; and\n2. had a primary surgery (CABG, valve surgery or both) in the UK cardiac centres.\n\nExclusion Criteria:\n\n1. patients undergoing grown-up congenital heart disease related surgery;\n2. patients with concurrent aortovascular surgery;\n3. patients who had ventricular-assist device (VAD), haemolung, impellar and/or extracorporeal membrane oxygenator (ECMO) before and/or after cardiac surgery;\n4. patients who had an open-chest immediately after surgery.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All consecutive patients who underwent coronary artery bypass graft (CABG), valve surgery, or combined surgery in the UK cardiac centres between January 2018 - December 2019 will be considered for inclusion.",
+  "condition": [
+    "Surgical Site Infection",
+    "Risk Assessment",
+    "Cardiac Surgery"
+  ],
+  "overall_status": "COMPLETED"
+}

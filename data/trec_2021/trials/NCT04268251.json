@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04268251",
+  "title": "Evaluation of Cavernous Sinus Invasion by Pituitary Adenoma Using Deep Learning Based Denoising MR",
+  "brief_summary": "Preoperative evaluation of cavernous sinus invasion by pituitary adenoma is critical for performing safe operation and deciding on surgical extent as well as for treatment success. Because of the small size of the pituitary gland and sellar fossa, determining the exact relationship between the pituitary adenoma and cavernous sinus can be challenging. Performing thin slice thickness MRI may be beneficial but is inevitably associated with increased noise level. By applying deep learning based denoising algorithm, diagnosis of cavernous sinus invasion by pituitary adenoma may be improved.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients undergoing preoperative brain MR for pituitary adenoma\n\nExclusion Criteria:\n\n* Patients who have any type of bioimplant activated by mechanical, electronic, or magnetic means (e.g., cochlear implants, pacemakers, neurostimulators, biostimulates, electronic infusion pumps, etc), because such devices may be displaced or malfunction\n* Patients who are pregnant or breast feeding; urine pregnancy test will be performed on women of child bearing potential\n* Poor MRI image quality due to artifacts",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cavernous Sinus Invasion by Pituitary Adenoma"
+  ],
+  "overall_status": "COMPLETED"
+}

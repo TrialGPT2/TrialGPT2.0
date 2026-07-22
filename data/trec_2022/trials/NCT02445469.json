@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT02445469",
+  "title": "Magnetic Resonance Imaging in the Diagnosis of Parkinsonian Syndromes",
+  "brief_summary": "Parkinsonian syndrome is clinically characterized by the presence of resting tremor, rigidity, bradykinesia and postural instability. Parkinsonian disorders include Parkinson's disease (PD), progressive supranuclear palsy (PSP), corticobasal dementia (CBD), multiple system atrophy (MSA) and vascular parkinsonism (VP). Each of these diseases has a singular physiopathological origin, course and prognosis. Numerous imaging studies consequently aimed at finding markers to early make the distinction between the different types of parkinsonism, in order to identify patients who could benefit from dopaminergic agonist therapy.\n\nExcessive iron deposition in the subcortical and brainstem nuclei has been described in numerous neurodegenerative disorders including Parkinson's disease. Increased iron levels are more frequent in area that are rich in dopaminergic neurons and have been implicated in the development of movement disorders, the distribution of areas with increased iron deposition however varying according to parkinsonism types. Iron deposition quantification could thus potentially help in differentiating parkinsonism types and could improve therapy guidance. Quantitative susceptibility mapping (QSM) locally estimates the magnetic susceptibility of brain tissues based on gradient-echo signal phase. The local susceptibility being sensitive to the presence of paramagnetic susbtances, QSM allows the non-invasive evaluation of iron distribution and quantification in the brain with high image quality (Liu et al., 2013). However, since iron deposition followed an exponential curve during normal aging in most of the basal ganglia the potential of QSM to distinguish between healthy and parkinsonian subjects in elderly remains unclear.\n\nThe aim of this study was thus to determine susceptibility values in the basal ganglia of elderly patients with parkinsonian syndromes, to compare these values to healthy aged-matched controls and between parkinsonian syndrome types. Secondly, investigators aimed to evaluate microstructural changes in the basal ganglia using diffusion tensor imaging (DTI) in the same population and to determine whether susceptibility and DTI parameter changes are correlated. Finally investigators sought to assess the relation between susceptibility/DTI parameter values in the basal ganglia and behavioral measures of motor and cognitive abilities.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* For Both patients and healthy volunteers :\n\n  * Age limits \u2265 70 et \u2264 90 years\n  * Subject able to understand the nature, the aim and the methodology of the study.\n  * Collection of the infomed consent\n  * Affiliation or recipient with the mode of social security.\n* For the patients :\n\nParkinsonian Syndrome began after 65 years defined as Parkinson's disease Multiple System Atrophy (AMS), Progressive Supranuclear Palsy, Vascular Parkinson\n\n* For the healthy volunteers :\n\nThe healthy volunteers will be selected according to the age and the of the study's patients.\n\nExclusion Criteria:\n\n* For Both patients and healthy volunteers :\n\n  * Person with majority age protected by the law (supervision or trusteeship).\n  * Loss of liberty per court order or administative\n  * Subject presenting contraindications in MRI (valve of ventricular diversion, Ferromagnetic foreign bodies, pace-maker, Implantable defibrillator (ICD), Cochlear hearing implant, Claustrophobia, \u2026.)\n  * Antecedent of serious cranial trauma (according to classification) of ischeamic stroke ou intracranial hematoma.\n* For the patients :\n\n  \u2022Patient treated by neuroleptics\n* For the healthy volunteers :\n\n  * Antecedent of neurological desease\n  * Antecedent of psychiatric trouble de trouble psychiatrique (Except anxio-depressive disorder)\n  * In period of exclusion relative to another protocol or which the annual amount of the allowances maximum of 4500 \u20ac was reached.",
+  "minimum_age": "70 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Parkinson's Disease",
+    "Multiple System Atrophy",
+    "Progressive Supranuclear Palsy",
+    "Vascular Parkinsonism"
+  ],
+  "overall_status": "TERMINATED"
+}

@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT03354416",
+  "title": "Profiling of Radiological Factors in Treatment and Outcomes in Prostate Cancer",
+  "brief_summary": "Background:\n\nProstate cancer is one of the most common cancers for men in the U.S. There are some new ways to take pictures of the cancer. There are also new ways to use image-guided biopsy and therapy. These could help manage prostate cancer. Researchers want to study how imaging can provide a profile of prostate cancer. They want to collect data to make diagnosis and treatments better.\n\nObjectives:\n\nTo gather data about the radiological and clinical course of prostate cancer. To study imaging-based biomarkers of prostate cancer.\n\nEligibility:\n\nMen ages 18 and older with diagnosed or suspected prostate cancer\n\nDesign:\n\nParticipants will give permission for researchers to use their medical history and records. Their data will be reviewed, collected, and analyzed. These include results of their tests and scans.\n\nSponsoring Institution: National Cancer Institute",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Patients with an increased risk for prostate cancer (strong family history and/or germline mutation in DNA repair genes), or with a diagnosis of prostatic cancer or suspicious for prostatic cancer lesions.\n* Age greater than or equal to 18 years\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n-none",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "primary clinical",
+  "condition": [
+    "Prostatic Cancer",
+    "Prostatic Neoplams",
+    "Prostatic Hyperplasia",
+    "Prostate Cancer",
+    "Cancer Of Prostate"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling men with diagnosed or suspected prostate cancer, regardless of treatment history or disease stage. There are no restrictions on prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes all men with diagnosed or suspected prostate cancer, with no mention of prior therapy requirements or restrictions. Patients may be treatment-naïve, have only received adjuvant therapy, or have received any number of systemic therapies for advanced disease."
+    }
+  ]
+}

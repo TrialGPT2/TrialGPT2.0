@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02065479",
+  "title": "A Pharmacodynamic Study Comparing Prasugrel Versus Ticagrelor in Patients Undergoing PCI With CYP2C19 Loss-of-function:",
+  "brief_summary": "Numerous studies have shown that pharmacodynamics (PD) response profiles vary among clopidogrel treated patients and that individuals with reduced response have an increased risk of recurrent ischemic events. There are multiple factors contributing to clopidogrel response variability, including genetic variations of the cytochrome P450 (CYP) 2C19 enzyme. In particular, loss-of-function (LOF) alleles of the CYP2C19 enzyme reduce transformation of clopidogrel pro-drug into its active metabolite. Thus, patients carrying LOF alleles have lower levels of clopidogrel's active metabolite as well as diminished platelet inhibition, which translates into an increased rate of adverse cardiovascular events, particularly in the setting of percutaneous coronary intervention (PCI). Prasugrel and ticagrelor are novel generation P2Y12 receptor inhibitors characterized by greater PD potency and reduced ischemic event rates compared with clopidogrel, and are not affected by CYP2C19 LOF polymorphisms. However, to date there are limited head-to-head PD comparisons between these two new P2Y12 receptors blockers, and there are no studies assessing on how these agents behave among CYP2C19 LOF carriers. The aim of the present study is to compare the PD effects of prasugrel versus ticagrelor in patients undergoing PCI with CYP2C19 LOF alleles using the novel point-of-care genetic testing Spartan RX-CYP2C19 which permits accurate and rapid identification of CYP2C19 genetic status.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* Inclusion criteria:\n\n  1. Patients scheduled for left heart catheterization and undergoing PCI\n  2. Age 18-75 years\n  3. On aspirin (81mg) or aspirin (81mg) and clopidogrel (75mg/day)\n  4. Presence of at least one 2C19 LOF allele\n* Exclusion criteria:\n\n  1. Known allergies to aspirin, prasugrel, ticagrelor, or clopidogrel\n  2. Age \\>75 years\n  3. Weight \\<60kg\n  4. Considered at high risk for bleeding\n  5. History of ischemic or hemorrhagic stroke or transient ischemic attack\n  6. Known severe hepatic dysfunction\n  7. On treatment with oral anticoagulant therapy (Vitamin K antagonists, dabigatran, apixaban, rivaroxaban)\n  8. Use of glycoprotein IIb/IIIa inhibitors (abciximab, eptifibatide, tirofiban)\n  9. Blood dyscrasia or bleeding diathesis\n  10. Platelet count \\<80x106/mL\n  11. Hemoglobin \\<10 g/dL.\n  12. Active bleeding or hemodynamic instability\n  13. Creatinine Clearance \\<30 mL/minute\n  14. Patients with sick sinus syndrome (SSS) or high degree AV block without pacemaker protection.\n  15. Current treatment with drugs interfering with CYP3A4 metabolism (to avoid interaction with Ticagrelor): Ketoconazole, itraconazole, voriconazole, clarithromycin, nefazodone, ritonavir, saquinavir, nelfinavir, indinavir, atazanavir, and telithromizycin.\n  16. Pregnant females\\* \\*Women of childbearing age must use reliable birth control (i.e. oral contraceptives) while participating in the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "74 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Coronary Artery Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

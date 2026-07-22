@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01157923",
+  "title": "MD Logic Pump Advisor- Adults Study",
+  "brief_summary": "Prospective, randomized, controlled, 30-78 days trial comparing MD-Logic pump algorithm to the standard of care of patients with type 1 diabetes.\n\nThe objective of this feasibility study is to evaluate the efficacy and safety of automated determined Insulin pump settings (i.e., basal plan, correction factor, carbohydrate ration and insulin activity time) using the MD-Logic Pump Advisor in individuals with type 1 diabetes.The study will be consisted from two segments:(I)pilot study, 30-78 days trial evaluating the MD-Logic pump advisor and (II)randomized controlled 30-78 days trial comparing MD-Logic pump algorithm to the standard of care.In segment 1, the pilot study, the aim is to enroll 15-30 subjects without control group. In segment 2, the randomized controlled segment, the aim is to enroll 92 subjects, but enrolling up to 105 eligible subjects to allow for dropouts.\n\nThe randomized controled study segment will be initiated after the pilot segment.Each segment of the study will consist of 6 clinic visits taking place at intervals of 1-3 weeks, sum of 30-78 days study duration for each segment. Before each clinic visit, subjects will wear continuous glucose sensors for 6 days; the intervention group will have up to 4 iterations (e.g the pump setting will be reviewed and adjusted up to 4 times during the study period according to the MD-Logic Pump Advisor).For the control group (at segment 2 only), insulin pump settings will not be changed during the study period (patient's usual standard of care).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Subject with Type 1 diabetes (\\>1yr since diagnosis)\n2. Medtronic( MiniMed Paradigm 522, 512 , 722 or 712) insulin infusion pump CSII therapy for at least 3 months\n3. Age \u2265 18 years\n4. HbA1c at inclusion \u2265 6.0%\n5. No concomitant diseases that influence metabolic control\n6. No current use of CGM\n7. Subjects do not participate in any other interventional study\n\nExclusion Criteria:\n\n1. Known or suspected allergy to trial products.\n2. Any significant diseases or conditions including psychiatric disorders and substance abuse that, in the opinion of the investigator, is likely to affect the subject's ability to complete the study, or compromise patient safety\n3. Subject is currently using CGM device\n4. Diabetic ketoacidosis in the past 3 months.\n5. Severe hypoglycemia resulting in seizure or loss of consciousness in the month prior to enrollment.\n6. Current use of oral glucocorticoids or other medications, which in the judgment of the investigator would be a contraindication to participation in the study.\n7. Subject is participating in another drug or device study that could affect glucose measurements or glucose management.\n8. Female subject who is pregnant or planning to become pregnant within the planned study duration",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Type 1 Diabetes",
+    "Insulin Pump Therapy"
+  ],
+  "overall_status": "COMPLETED"
+}

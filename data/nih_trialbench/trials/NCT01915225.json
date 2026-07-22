@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT01915225",
+  "title": "Obtaining Solid Tumor Tissue From People Having Biopsy or Surgery for Certain Types of Cancer",
+  "brief_summary": "Background:\n\n\\- Recent advances in cancer research have led to new therapies to treat the disease. It is important to continue these advances and discover new ones. To do that, researchers need tissue samples from solid tumors. This study will collect such samples from people already scheduled to have a procedure at the National Institutes of Health Clinical Center (NIHCC).\n\nObjectives:\n\n\\- To collect tissue samples for use in studying new ways to treat tumors.\n\nEligibility:\n\n* Adults 18 years and older, with a precancerous or cancerous solid tumor who are scheduled to have surgery or a biopsy at the NIHCC.\n* Children under the age of 18 but who are older than 2 years of age are eligible to be enrolled on the research sample collection portion of this study if they will have a biopsy or surgery as part of their medical care.\n\nDesign:\n\n* Before their procedure, participants will have a small blood sample taken.\n* Some participants will undergo leukapheresis. In this procedure, blood is removed through a tube in one arm and circulated through a machine that removes white blood cells. The blood, minus the white blood cells, is returned through a tube in the other arm. The procedure takes 3-4 hours.\n* For all participants, during the surgery or biopsy, pieces of the tumor and pieces of normal tissue near it will be removed for this study. The rest of the tumor or precancerous growth will be sent to a lab for analysis.\n* Participants will return to the clinic about 6 weeks after the operation for a routine checkup. Some may have to return for additional follow-up.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Participants must be 2 years of age or older. Note: Participants greater than or equal to 2 and \\< 18 years of age may only participate in research sample collection if the tissue acquisition is performed during a clinically indicated surgical procedure, and the biospecimen sampling (e.g., blood, urine, ascites, bile, or \\[clinically indicated\\] resected tumor tissue) does not add risk to the clinically indicated procedures.\n* Participants who have premalignant, primary, or metastatic solid tumors based upon either radiographic or clinical suspicion, biochemical testing, a genetic predisposition, or histological/cytological analysis that requires surgery or biopsy as part of the diagnosis, prevention, treatment, and/or follow-up.\n* Participants without solid tumors in whom a diagnostic, preventative, or therapeutic intervention is being performed, but for whom surgical quality and safety outcomes data are generated.\n* Participants should have laboratory and physical examination parameters within acceptable limits prior to biopsy or surgery.\n* Participants must be planning to undergo surgery or biopsy as part of their normal treatment plan.\n* Ability of participant, parent/guardian or legally authorized representative (LAR) to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\nNone.",
+  "minimum_age": "2 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "primary clinical",
+  "condition": [
+    "Colorectal Neoplasms",
+    "Gastric Neoplasms",
+    "Cholangiocarcinoma",
+    "Bile Duct Cancer",
+    "Pancreas Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic tissue collection study enrolling patients with premalignant, primary, or metastatic solid tumors undergoing biopsy or surgery for any reason. There are no restrictions on prior lines of systemic therapy for advanced disease, and patients may be treatment-naïve or previously treated.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes patients with premalignant, primary, or metastatic solid tumors undergoing surgery or biopsy, regardless of prior systemic therapy. There are no requirements or restrictions regarding prior lines of therapy for advanced disease, and patients who have only received adjuvant or neoadjuvant therapy are eligible."
+    }
+  ]
+}

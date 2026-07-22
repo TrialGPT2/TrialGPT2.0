@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT04601792",
+  "title": "A Series of N-of-1 Trials of Traditional Chinese Medicine Based on Bayesian Method",
+  "brief_summary": "The guiding role of parallel randomized controlled trials in clinical practice is limited due to the insufficiency of individual information. Our previous studies showed that Single case randomized controlled trials (referred to as N-of-1 trials) could reflect the individualized characteristics of traditional Chinese medicine (TCM) syndrome differentiation with good feasibility, but the sensitivity was low.\n\nThis study aims to compare the efficacy of treatment based on syndrome differentiation with controlled decoctions (placebo, and the method of strengthening the body resistance and removing phlegm) among patients with stable bronchiectasis through a series of N-of-1 trials (single-patient, double-blind, randomized, multiple crossover design), with the 7 point-likert scale of the most concerned symptoms as the main outcome. Hierarchical Bayesian statistical methods and some parameters and variables will be introduced, such as TCM syndrome type, potential residue effect of TCM, etc. The sensitivity and applicability of various mathematical models (Hierarchical Bayesian, paired t-test and Meta-analysis) for N-of-1 trials of TCM will be tested, for the purpose of improving the sensitivity and applicability of N-of-1 trials of TCM both on individual and group levels.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* according to the consensus of domestic experts, combined with the guidelines for the management of adult bronchiectasis published by the European Respiratory Society in 2017;\n* male or female, aged 18-70 years;\n* being in the stable stage, and no acute exacerbation of bronchiectasis within the past three weeks;\n* frequency of acute exacerbation of bronchiectasis \u22643 times every year;\n* signed informed consent for participation.\n\nExclusion Criteria:\n\n* failing to meet the above criteria for diagnosis and inclusion;\n* having developed respiratory failure with estimated survival time less than one year;\n* having hemoptysis as a comorbidity;\n* having complications by active tuberculosis;\n* being pregnant or with severe heart, liver, or kidney dysfunctions;\n* participating in other pharmacological clinical trials within the past 3 months.",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Bronchiectasis",
+    "Quality of Life",
+    "Traditional Chinese Medicine",
+    "Sputum",
+    "Symptoms",
+    "Individuality"
+  ],
+  "overall_status": "UNKNOWN"
+}

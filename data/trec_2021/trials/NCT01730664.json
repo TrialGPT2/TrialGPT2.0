@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01730664",
+  "title": "PK/PD of Ertapenem In Patients With TB",
+  "brief_summary": "Rationale:\n\nTreatment of multidrug or extensively drug resistant tuberculosis (MDR/XDR-TB) is a real challenge as failure in response to treatment and serious side-effects are frequently encountered. New, more effective drugs with less side effects are therefore urgently needed to solve this problem. Although several new drugs against TB are in the pipeline, physicians currently have limited treatment options for treatment of complicated MDR/XDR-TB cases. Therefore, drugs developed and labeled for other infectious diseases are evaluated for TB.\n\nObjective:\n\nThe main objective of this prospective clinical trial is to evaluate pharmacokinetics of a standard dose (2000mg) of ertapenem in TB patients. This clinical trial will provide important information on PK of ertapenem in TB patients for future studies. Data can be used for limited sampling strategies for ertapenem based on a pharmacokinetic population model constructed from the full PK curves of the patients.\n\nStudy design:\n\nA prospective pharmacokinetic study.\n\nStudy population: 12 TB patients.\n\nIntervention: Single dose of 2000mg in a 30 minutes intravenous infusion.\n\nMain study parameters/endpoints:\n\nThe pharmacokinetic parameters (Vd, Cl, AUC, etc) of ertapenem are the primary endpoints of the study. The T\\>MIC and AUC0-24h/Minimal inhibitory concentration (MIC) ratio are most likely the best predictive parameters for efficacy of ertapenem treatment and will be calculated for a range of M tuberculosis isolates.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with TB, with Mycobacterium tuberculosis (or M. africanum) by culture and / or molecular test\n* Adults: from 18 years until 64 years of age\n\nExclusion Criteria:\n\n-Contra-indications for ertapenem:\n\n* There are few adverse effects of ertapenem. The only absolute contra- indication is a previous anaphylactic reaction to ertapenem or other \u03b2-lactam antibiotic.\n* Renal Insufficiency, defined by a eGFR of 30ml/min\n* Pregnancy\n* HIV\n* Body weight \\< 40 kg",
+  "minimum_age": "18 Years",
+  "maximum_age": "64 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "PK of Ertapenem in TB Patients"
+  ],
+  "overall_status": "COMPLETED"
+}

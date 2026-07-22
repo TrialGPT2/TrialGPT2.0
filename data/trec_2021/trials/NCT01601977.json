@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01601977",
+  "title": "Validation of the AVAPS AE Algorithm in Chronic Obstructive Pulmonary Disease (COPD) Patients",
+  "brief_summary": "COPD continues to be a cause of major morbidity for patients. Those patients who also have respiratory failure and obstructive sleep apnoea are at higher risk of exacerbations and death and have worse health related quality of life than similar COPD patients without respiratory failure.\n\nTreatment options in this group of patients have been limited and data to support the use of machines to assist breathing (non-invasive ventilators) in stable patients are limited. A major limitation of these devices has been patient acceptance and achieving sufficient control of sleep breathing disturbance.\n\nCurrently devices are set at a fixed pressure to support the breathing throughout the night. The new software within the trial device will aim to better match the support provided by the machine to that needed by the patient. It is hoped that this may offer enhanced comfort as well as superior control of respiratory failure.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \u2265 21\n* Diagnosis of COPD\n* Currently using Bilevel device for COPD-OSA overlap syndrome\n* Ability to provide consent\n* Documentation of medical stability by PI\n\nExclusion Criteria:\n\n* Subjects, who are acutely ill, medically complicated or who are medically unstable.\n* Subjects in whom PAP therapy is otherwise medically contraindicated.\n* Subjects who have had surgery of the upper airway, nose, sinus, or middle ear within the previous 90 days.\n* Subjects with untreated, non-OSA sleep disorders, including but not limited to; insomnia, periodic limb movement syndrome, or restless legs syndrome (PLMI \\> 10).",
+  "minimum_age": "21 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COPD",
+    "OSA"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01478802",
+  "title": "High Frequency Oscillatory Ventilation for Acute Respiratory Distress Syndrome (ARDS)",
+  "brief_summary": "Based on recent two-center results (Eur Respir J. 2011 Sep 1. \\[Epub ahead of print\\] PMID: 21885390) we hypothesized that intermittent High-frequency oscillation (HFO) combined with Recruitment Maneuvers (RMs) may beneficially affect the pathophysiology and survival of patients with moderate-to-severe Acute Respiratory Distress Syndrome (ARDS).\n\nDesign: Randomized Controlled Trial. Intervention: Briefly, the HFO-RMs strategy of the intervention (HFO-RMs) group will comprise RMs (3/day) and an initial HFO session of 96 hours (HFO session can be interrupted before the 96-hour time point only if PaO2/FiO2 rises to \\>200 mmHg for \\>12 hours), followed by return to lung protective conventional mechanical ventilation (CMV) according to pre-specified oxygenation criteria. Within days 1-10 postrandomization, patients will be returned to HFO upon recurrence of their moderate-to-severe oxygenation disturbance. Patients of the control (CMV) group will receive lung protective CMV.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. early ARDS (establishment of the diagnosis within the preceding 72 hours) according to the criteria of the American-European Consensus Conference (5),\n2. Moderate-to-severe oxygenation disturbance \\[defined as ratio of partial pressure of arterial oxygen (PaO2) to inspired oxygen fraction (FiO2)\\<200 mmHg, while being ventilated with positive end-expiratory pressure (PEEP) set at \u226510 cmH2O for at least 12 hours,\n3. age 18-75 years, body weight \\>40 Kg,\n\nExclusion Criteria:\n\n1. severe air leak (more than one chest tubes per hemithorax with persistent air leak for more than 72 hours),\n2. systolic blood pressure lower than 90 mmHg and/or mean blood pressure lower than 65 mmHg, despite maximum support with fluids and vasopressor drugs (i.e., norepinephrine infusion rate exceeding 0.5 \u03bcg/kg/min,\n3. significant heart disease (e.g. ejection fraction lower than 40%, history of pulmonary edema and active ischemic disease or myocardial infarction),\n4. severe chronic obstructive pulmonary disease (COPD) or asthma (e.g. previous admission for COPD/asthma, chronic treatment with corticosteroids for COPD/asthma, and chronic CO2 retention more than 50 mmHg),\n5. intracranial pathology with intracranial pressure \\>20 mmHg, not responsive to maximum conservative treatment (e.g. hemorrhage, head injury, tumor, infection or acute ischemic stroke),\n6. chronic interstitial lung disease with bilateral lung infiltrates,\n7. lung biopsy or incision during the current admission,\n8. previous lung transplantation or bone marrow transplantation, i) pregnancy,\n9. immunosuppression, and\n10. participation in another clinical study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Respiratory Distress Syndrome"
+  ],
+  "overall_status": "TERMINATED"
+}

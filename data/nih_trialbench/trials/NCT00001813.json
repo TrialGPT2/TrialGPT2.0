@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT00001813",
+  "title": "Examination of Clinical and Laboratory Abnormalities in Patients With Defective DNA Repair: Xeroderma Pigmentosum, Cockayne Syndrome, or Trichothiodystrophy",
+  "brief_summary": "Four rare genetic diseases, xeroderma pigmentosum (XP), Cockayne syndrome (CS), the XP/CS complex and trichothiodystrophy (TTD) have defective DNA excision repair although only XP has increased cancer susceptibility. We plan to perform careful clinical examination of selected patients with XP, XP/CS, CS, or TTD and follow their clinical course. We will obtain tissue (skin, blood, hair, buccal swabs) for laboratory examination of DNA repair and for genetic analysis. We hope to be able to correlate these laboratory abnormalities with the clinical features to better understand the mechanism of cancer prevention by DNA repair. Patients will be offered counseling and education for cancer control....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Subjects age 6 weeks and above:\n\n  * with clinical and/or laboratory documentation of typical features or suggestive clinical features of XP, CS, TTD, or overlap syndromes or\n  * that are first degree relatives or other family members of participants with XP, CS, TTD, or overlap syndromes\n* Healthy volunteers of age 1 year and above (including NIH employees) willing to donate blood, skin, buccal cells, or hair.\n* Patients or legally authorized representatives must provide informed consent.\n\nEXCLUSION CRITERIA:\n\n-Inability or unwillingness to provide tissue (skin, blood, buccal cells or hair) for laboratory studies.",
+  "minimum_age": "6 Weeks",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients will be sought by contacting professional organizations (such as the American Academy of Dermatology-XP Task Force), lay support groups (such as the XP Society and the Share and Care CS Support Network) or by direct referral. Healthy volunteers or NIH staff will be recruited through the Program for Healthy Volunteers (CRVP@mail.cc.nih.gov), through the Patient Recruitment and Public Liaison Office (prpl@mail.cc.nih.gov), or as a self-referral through the clinicaltrials.gov web site (http://clinicaltrials.gov). Healthy volunteers may also be approached by a member of the LCBG, NCI regarding interest in participating on this protocol.",
+  "condition": [
+    "Cockayne Syndrome",
+    "Skin Neoplasms",
+    "Xeroderma Pigmentosum",
+    "Trichothiodystrophy Syndromes",
+    "Genodermatosis"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study enrolling patients with XP, CS, TTD, overlap syndromes, their relatives, and healthy volunteers for clinical and laboratory evaluation. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, adjuvant, or neoadjuvant therapy. This is an observational study without therapeutic intervention, so line-of-therapy intent is not defined."
+    }
+  ]
+}

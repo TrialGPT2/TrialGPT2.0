@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04603105",
+  "title": "CCP Cancer UK Companion Study",
+  "brief_summary": "Currently, there is extremely limited information regarding the risks posed by SARS-CoV-2 to patients with cancer. This study aims to understand the presentation, management and outcomes of patients with cancer. The influence of cancer type and treatment will be explored as well as comparing cancer patients with non-cancer patients. This dataset, on robust analysis, will provide valuable information that would educate as well as help inform practice for future possible outbreaks. The information may also inform the development of guidelines with regard to the care and management of cancer patients with viruses such as COVID19 and similar infectious diseases. Cancer is immunosuppressive, the nature of the immunosuppression seems to be influenced by the microbiota, and in addition pulmonary infections",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n\\- Patients with proven COVID-19 and a diagnosis of cancer who are enrolled into any Tier of the Principal CCP-UK protocol.\n\nExclusion Criteria:\n\n\\- None in addition to those specified in the Principal CCP-UK protocol.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who are enrolled on to the CCP UK protocol study with COVID-19 and subsequently determined to have a concurrent or history of cancer",
+  "condition": [
+    "Cancer",
+    "Covid19"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

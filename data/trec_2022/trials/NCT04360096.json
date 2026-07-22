@@ -1,0 +1,29 @@
+{
+  "nctid": "NCT04360096",
+  "title": "Inhaled ZYESAMI\u2122 (Aviptadil Acetate) for the Treatment of Severe COVID-19",
+  "brief_summary": "Brief Summary:\n\nSARS-CoV-2 virus infection is known to cause Lung Injury that begins as dyspnea and exercise intolerance, but may rapidly progress to Critical COVID-19 with Respiratory Failure and the need for noninvasive or mechanical ventilation. Mortality rates as high as 80% have been reported among those who require mechanical ventilation, despite best available intensive care.\n\nPatients with severe COVID-19 by FDA definition who have not developed respiratory failure be treated with nebulized ZYESAMI\u2122 (aviptadil acetate, a synthetic version of Vasoactive Intestinal Polypeptide (VIP)) 100 \u03bcg 3x daily plus Standard of Care vs. placebo + Standard of Care using an FDA 501(k) cleared mesh nebulizer.\n\nThe primary outcome will be progression in severity of COVID-19 (i.e. critical OR severe progressing to critical) over 28 days. Secondary outcomes will include blood oxygenation as measured by pulse oximetry, dyspnea, exercise tolerance, and levels of TNF\u03b1 IL-6 and other cytokines.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion criteria:\n\n1. Severe COVID-19 , as defined by clinical signs indicative of severe systemic illness with COVID-19, being given oxygenation and meeting\n\n   ONE of the following:\n\n   Respiratory rate \u2265 30 per minute Heart rate \u2265 125 per minute SpO2 \u2264 93% on room air at sea level PaO2/FiO2 \\< 300 mmHg or SpO2/FiO2 \\< 315 mmHg\n2. Positive test by standard RT-PCR assay or equivalent within last 7 days\n3. Physician determination that patient is on SOC therapy, and will receive standard of care if patient progresses to Critical COVID-19, patient must be full CODE\n\nExclusion criteria:\n\n1. Evidence of Critical COVID-19\n2. Inability to utilize nebulized drugs, or history of bronchospasm with inhaled medications\n3. Age \\<12 years;\n4. Mean arterial pressure \\< 65 mm Hg after initial hospital stabilization,\n5. Non-COVID-19 irreversible underlying condition with projected fatal course within 6 months or with high risk of mortality;\n6. Immunosuppressive treatment for transplant or other diseases associated with high mortality;\n7. Stage IV cancer or cancer on active treatment with chemotherapy immunotherapy or checkpoint inhibitors; acute renal failure or chronic renal insufficiency with GFR less than 30; CHF New York Heart Association class III or IV, new neurologic disorder in the last 3 months or chronic neurologic disorder or other that would impact on assessing the resolution of severe COVID-19 respiratory failure\n8. Myocardial Infarction in previous six months or troponin \\>0.5\n9. Recent history of venous thrombotic events (PE / DVT) within the last 3 months.\n10. New diagnosis of atrial fibrillation within the last 3 months. Acceptable if greater than 3 months and well controlled in the opinion of the investigator\n11. Watery diarrhea requiring replacement of 1 liter or more of iv fluids and electrolytes\n12. Pregnancy",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "SARS-CoV 2",
+    "COVID",
+    "ARDS",
+    "ALI",
+    "Acute Lung Injury/Acute Respiratory Distress Syndrome (ARDS)",
+    "Dyspnea"
+  ],
+  "overall_status": "TERMINATED"
+}

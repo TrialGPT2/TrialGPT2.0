@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT00026702",
+  "title": "Search for New Methods to Detect Acute Renal Failure",
+  "brief_summary": "The purpose of this study is to find substances in the blood and urine that indicate that a person has kidney damage. It will identify proteins found only in patients with acute kidney failure but not in normal healthy people or in patients with volume depletion.\n\nAdults and children who are at least 3 years old who fall into one of the following four categories may be eligible for this study:\n\n1. Are healthy and have normal kidney function\n2. Have volume depletion (this condition differs from acute kidney failure in that it is easily treated with fluids)\n3. Are at high risk of kidney failure\n4. Have acute kidney failure (kidney shutdown)\n\nAll study participants will have a history and physical examination. Up to four blood samples of 3 tablespoons each will be taken for laboratory analysis. Urine will be collected for analysis and to measure urine output. The participants length of stay in the study varies. People with normal kidney function will be in the study for 1 day and patients with volume depletion will be studied 3 days. The length of hospitalization of patients at high risk of kidney failure or in acute kidney failure will depend on the patient s condition and medication requirements.\n\nThe results of this study may lead to the development of earlier and more accurate methods for diagnosing acute kidney failure. With earlier detection, treatment could be started earlier, possibly preventing further damage and helping recovery of injury that has already occurred.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Subjects \\>= 3 years old. Both male and female subjects will be recruited without regard to race or ethnic origin.\n  2. Either:\n\n     1. Normal (creatinine level \\< 1.3 mg/dl for adults; creatinine level \\< standard nomogram for children), OR\n     2. Oliguria due to volume depletion (indicated by oliguria and Fractional Excretion of Sodium (FENa) of less than 1%), OR\n     3. High risk of ARF, including surgery, transplantation, nephrotoxic antibiotics, or bone marrow transplant. OR\n     4. Evidence of ARF as defined by an acute progressive rise in serum creatinine (at least 50% increase within 24 hours preceding enrollment) without stabilization or recovery, despite optimization of hemodynamic fluid status and correction of any known pharmacologic, pre-renal, or post-renal etiologic factors. OR\n     5. Urinary tract infection (to serve as control for ARF studies), OR\n     6. Established chronic kidney disease (to serve as control for ARF studies).\n\nEXCLUSION CRITERIA:\n\n1. Minors who do not give clear assent, even with parental consent\n2. Existence of any other condition which would complicate the implementation or interpretation of the study.",
+  "minimum_age": "3 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "subjects with and without kidney disease, can include vulnerable populations such as pregnant women, cognitively impaired adults, or NIH employees",
+  "condition": [
+    "Kidney Disease",
+    "Kidney Failure",
+    "Kidney Failure, Chronic",
+    "Healthy Volunteers",
+    "Renal Tubular Toxicity"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a biomarker study enrolling healthy volunteers, patients with volume depletion, those at high risk for acute renal failure, patients with acute renal failure, and other kidney-related controls. There is no cancer population or systemic therapy for advanced disease involved, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced disease. Eligibility is based on kidney function status, not prior lines of therapy."
+    }
+  ]
+}

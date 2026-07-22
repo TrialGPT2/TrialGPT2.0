@@ -1,0 +1,39 @@
+{
+  "nctid": "NCT03401788",
+  "title": "A Phase 2 Study of Belzutifan (PT2977, MK-6482) for the Treatment of Von Hippel Lindau (VHL) Disease-Associated Renal Cell Carcinoma (RCC) (MK-6482-004)",
+  "brief_summary": "This study is designed to investigate belzutifan as a treatment for VHL disease associated RCC.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Has a diagnosis of von Hippel Lindau disease, based on a germline VHL alteration\n* Has at least 1 measurable solid RCC tumor and no RCC tumor that requires immediate surgical intervention. The diagnosis of RCC can be radiologic (histologic diagnosis not required). Participants may have VHL disease-associated tumors in other organ systems\n\nExclusion Criteria:\n\n* Has received prior treatment with belzutifan or another HIF-2α inhibitor\n* Has had any systemic anti-cancer therapy (includes anti-vascular endothelial growth factor \\[VEGF\\] therapy or any systemic investigational anti-cancer agent)\n* Has an immediate need for surgical intervention for tumor treatment\n* Has evidence of metastatic disease on screening imaging",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "VHL - Von Hippel-Lindau Syndrome",
+    "VHL Gene Mutation",
+    "VHL Syndrome",
+    "VHL Gene Inactivation",
+    "VHL-Associated Renal Cell Carcinoma",
+    "VHL-Associated Clear Cell Renal Cell Carcinoma"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with VHL disease-associated RCC who have not received any prior systemic anti-cancer therapy and have non-metastatic disease. The study is intended for treatment-naïve patients in the advanced setting.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Patients must not have received any prior systemic anti-cancer therapy, including anti-VEGF or investigational agents. Only treatment-naïve patients for advanced disease are eligible, and those with prior adjuvant therapy are not mentioned as eligible."
+    }
+  ]
+}

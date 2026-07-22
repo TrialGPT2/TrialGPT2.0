@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT06549114",
+  "title": "Leniolisib for Immune Dysregulation in PIDs",
+  "brief_summary": "This study is an exploratory, non-randomized, open-label, within-patient dose escalation study. The primary objective is to assess safety and tolerability of leniolisib. Secondary objectives include assessments of PK/PD, and to explore clinical efficacy measures with administration of three different dose levels of leniolisib.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Subjects 12 to 75 years of age.\n2. Diagnosed with a PID due to disease-causing pathogenic or likely pathogenic variant(s) in the following genes: SOCS1, PTEN, CTLA4, NFKB1 (only those variants leading to NFKB pathway activation), or FAS (germline or somatic), or diagnosed with RAS associated leukoproliferative disorder (and not juvenile myelomonocytic leukemia \\[JMML\\]) due to somatic variants in NRAS or KRAS.\n3. Subjects must have 1 or more of the following:\n\n   * One or more blood cytopenias related to the underlying PID defined as hemoglobin \\<10 g/dL, platelet count \\<100,000/µL, or neutrophil count \\<1000/µL\n   * Splenomegaly evident by CT imaging with craniocaudal spleen measurement \\>10 cm\n   * Lymphadenopathy evident by CT imaging with at least 1 measurable index lymph node (long axis \\>1.5 cm) as per Cheson methodology\n   * GLILD or other PID-related ILD with quantifiable CT chest imaging findings evident on baseline CT scan\n4. At screening, vital signs.\n\n   * Systolic blood pressure 80-139 mm Hg\n   * Diastolic blood pressure 50-89 mm Hg\n   * Pulse rate 50-110 bpm\n   * Oxygen saturation 93-100%\n5. Subjects or their legal representatives (for subjects under the age of 18 years) must be able to provide written informed consent.\n\nExclusion Criteria:\n\n1. Subject has had a successful hematopoietic stem-cell transplant (HSCT).\n2. Previous or concurrent use of immunosuppressive medication, such as:\n\n   * Use of an mTOR inhibitor or a PI3Kδ inhibitor within 3 weeks prior to first dosing .\n   * Rituximab or other B-cell depleting antibodies, belimumab, cyclophosphamide, or alemtuzumab within 6 months prior to first dosing.\n   * Cyclosporine A, mycophenolate mofetil, 6-mercaptopurine, azathioprine, methotrexate, tacrolimus, ruxolitinib, or other JAK inhibitors within 3 weeks prior to first dosing.\n   * Corticosteroids above 25 mg prednisone or equivalent per day within 2 weeks prior to first dosing.\n   * Other immunosuppressive agents expected to have a significant impact on immune cell number or function.\n   * Abatacept is allowed during study if the subject has been receiving a stable dosing regimen for more than 3 months prior to first dosing.\n3. Subject is receiving concurrent treatment with another investigational therapy or use of another investigational therapy less than 4 weeks or 5 half-lives (whichever is longer) prior to first dosing.\n4. History of hypersensitivity to the study drug or to drugs of similar chemical classes.\n5. Current use of medication known to be a strong inhibitor, or moderate or strong inducer, of isoenzyme P450 CYP3A.\n6. Current use of medications that act as BCRP, OATP1B1, and OATP1B3 substrates.\n7. Subject has a history or current electrocardiogram (ECG) abnormalities indicating a significant risk of safety for subjects participating in the study\n8. History of acquired immunodeficiency diseases, including a positive HIV test result at screening.\n9. Uncontrolled chronic or recurrent infectious disease (except those considered to be characteristic of a PID) or evidence of tuberculosis infection\n10. Any surgical or medical condition which may jeopardize the subject in case of participation in the study, or might significantly alter the absorption, distribution, metabolism, or excretion of drugs.\n11. A positive hepatitis B surface antigen, positive hepatitis B PCR, positive hepatitis C PCR, or positive hepatitis C antibody result at screening.\n12. Administration of live vaccines starting from 6 weeks before first dose of study medication.\n13. Subject has a previous diagnosis of lymphoma within 1 year of the first dose of study medication.\n14. Subject has a history of malignancy (except lymphoma) within 3 years before the first dose of study medication, except for adequately treated cancers of the skin (basal or squamous cell) or carcinoma in situ of the uterine cervix.\n15. Subject has uncontrolled post-transplant lymphoproliferative disease (PTLD)-like EBV related lymphoproliferative disease.\n16. Donation or loss of 400 mL or more of blood within 8 weeks before the first dose.\n17. Subject has had major surgery requiring hospitalization or radiotherapy within 4 weeks prior to the first dose or has a planned or expected major surgical procedure during the study period.\n18. Pregnant or nursing (lactating) individuals,.\n19. Individuals of child-bearing potential, unless they are using highly effective methods of contraception.",
+  "minimum_age": "12 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Primary Immunodeficiency Disorders (PIDs)"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial does not specify any requirements or restrictions regarding prior lines of systemic therapy for advanced disease. Patients are eligible regardless of prior treatment history, as long as they meet other inclusion and exclusion criteria.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior lines of systemic therapy for advanced disease, nor do they specify whether treatment-naïve or previously treated patients are required or excluded. There is no information about adjuvant-only patients. Therefore, line-of-therapy intent is unclear."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT01950572",
+  "title": "Tissue Procurement and Natural History Study of Patients With Malignant Mesothelioma",
+  "brief_summary": "Background:\n\n* Malignant mesothelioma is a malignancy arising from the mesothelial cells of the pleura, peritoneum, pericardium, or tunica vaginalis.\n* Mesothelioma accounts for 0.10% of deaths annually in the United States. Malignant pleural mesothelioma is the most common of these, comprising of 80% of the cases with an annual incidence of about 2,500 in the United States.\n* The median survival from diagnosis of pleural mesothelioma is approximately 12 months. The majority of patients present with stage III or IV disease with 85-90% of patients considered unresectable at diagnosis.\n* Peritoneal mesothelioma has a better prognosis than pleural mesothelioma; nevertheless, patients undergoing therapy for peritoneal mesothelioma have few well-studied treatment options due in large part to the rarity of the disease.\n\nObjectives:\n\n-To allow sample acquisition for use in the study of mesothelioma.\n\nEligibility:\n\n* All patients age greater than or equal to 2 years with malignant mesothelioma\n* Must be able and willing to provide informed consent if 18 or over; parent or guardian must be able and willing to provide consent for patients under the age of 18\n\nDesign:\n\n* Up to 1000 subjects will be enrolled.\n* Patients will be followed to determine the course of disease and to record any treatment received for mesothelioma.\n* Patients will undergo sampling of blood, urine, tumor and abnormal body fluids for tissue banking.\n* Studies which may be performed on banked material include genetic and genomic studies, establishment of cell cultures and immunologic studies....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* All participants greater than or equal to 2 years of age with malignant mesothelioma.\n* All participants greater than or equal to18 years of age with thymic carcinoma, pancreatic or biliary adenocarcinoma or lung, gastric or ovarian cancers.\n* Confirmed pathological diagnosis is required\n* Ability and willingness of participant to provide informed consent to participation.\n\nEXCLUSION CRITERIA:\n\n* Active symptomatic major organ disorder that would increase the risk of biopsy, including but not limited to ischemic heart disease, recent myocardial infarction, active congestive heart failure, pulmonary dysfunction.\n* Pregnant women\n* Active concomitant medical or psychological illnesses that may increase the risk to the participant or in adult participants, inability to obtain informed consent, at the discretion of the principal investigator.",
+  "minimum_age": "2 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Persons with a diagnosis of any of the thoracic or GI cancers under study.",
+  "condition": [
+    "Mesothelioma",
+    "Thymoma",
+    "Pancreatic Neoplasms",
+    "Biliary Tract Neoplasms",
+    "Stomach Neoplasms"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a tissue procurement and natural history study enrolling all patients with malignant mesothelioma regardless of prior treatment history. There are no restrictions on prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes all patients with malignant mesothelioma, with no mention of required or excluded prior systemic therapy for advanced disease. Patients who are treatment-naïve, have only received adjuvant therapy, or have received any number of prior lines for advanced disease are eligible."
+    }
+  ]
+}

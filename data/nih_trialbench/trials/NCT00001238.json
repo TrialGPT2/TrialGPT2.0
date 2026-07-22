@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT00001238",
+  "title": "Von Hippel-Lindau (VHL): Clinical Manifestations, Diagnosis, Management and Molecular Bases of Inherited Renal and Other Urologic Malignant Disorders",
+  "brief_summary": "We will investigate the clinical manifestations and molecular genetic defects of heritable urologic malignant disorders. Families with urologic malignancy with known or suspected genetic basis will be enrolled. Affected individuals or individuals suspected of having a germline urologic malignant disorder will undergo periodic clinical assessment and genetic analyses for the purpose of: 1) definition and characterization of phenotype, 2) determination of the natural history of the disorder, and 3) genotype/phenotype correlation. Genetic linkage studies may be performed in situations in which the genetic basis of the disorder has not been elucidated.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nParticipants must be greater than or equal to 2 years of age. All participants and guardians (for children younger than 18 years of age) must sign an informed consent document indicating their understanding of the investigational nature and the risks of this study before any protocol related studies are performed.\n\nCriteria for Acceptance into this Study (i.e., Disease Categories):\n\nDisease Category I\n\nIndividuals and biologic family members with a suspected or an established diagnosis of an inherited urologic malignancy in which the disease gene is known, including von Hippel-Lindau (VHL) and hereditary papillary renal carcinoma (HPRC).\n\nDisease Category II\n\nIndividuals and biologic family members with a suspected or an established diagnosis of an inherited urologic malignancy in which the disease gene is not yet known, specifically hereditary forms of Type II papillary renal cancer, clear cell renal carcinoma, renal oncocytoma, chromophobe renal carcinoma or Birt Hogg Dube.\n\nDisease Category III\n\nIndividuals and biologic family members who have urologic malignant diseases of suspected, but not proven genetic etiology, including families with more than one individual affected by the same or related cancers. A total of 5000 individuals will be enrolled during the study (i.e., that includes individuals registered since the beginning of the protocols in 1989 (89C0086) and 1999 (99C0101)).\n\nEnrollment per Subject Category (to include both affected and unaffected biologic relatives)\n\nSubject Category A:\n\nCategory A will include individuals, and biologic relatives, who may or may not be affected who will be evaluated in the Warren G. Magnuson Clinical Center. Individuals in this category will be eligible if they or their biologic family members manifest one or more of the following features in a pattern suggestive of a heritable urologic malignant disorder:\n\n* One or more histologically proven or suspected renal carcinomas and/or cysts\n* Cerebellar, spinal, medullary or cerebral hemangioblastomas\n* Retinal angioma\n* Pancreatic neuro-endocrine carcinoma,micro cystadenoma and/or cysts\n* Pheochromocytoma\n* Papillary cystadenoma of the epididymis or broad ligament\n* Endolymphatic sac tumor\n* Cutaneous fibrofolliculomas or multiple skin-colored papules\n* History of spontaneous pneumothorax\n* Lung cysts\n* Thyroid carcinoma\n* Intestinal polyposis plus/minus colon cancer\n* Cutaneous or Uterine leiomyoma or uterine leiomyosarcoma, sarcoma\n\nSubject Category B:\n\nCategory B will include individuals and the biologic relatives of patients with inherited urologic malignancies with the above listed clinical findings who live at a distance and who will not be evaluated at the Clinical Center. In some cases, local diagnostic testing may be necessary for these individuals in addition to collection of a blood sample for molecular analysis.\n\nSubject Category C:\n\nCategory C will include biologic relatives who enroll in this study primarily for genetic linkage studies. These individuals will contribute a blood sample for DNA analysis only. No imaging diagnostic testing will be performed on individuals from this category.\n\nEXCLUSION CRITERIA:\n\nNone",
+  "minimum_age": "2 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals with known or suspected inherited urologic malignant disorders and their biologic family members with inherited urologic malignancies will be recruited primarily from the urology, oncology, and genetics communities worldwide",
+  "condition": [
+    "Kidney Cancer",
+    "Urologic Malignant Disorders",
+    "Renal Cell Carcinoma",
+    "Familial Renal Cancer (FRC)",
+    "Clear Cell Renal Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational, and genetic study enrolling individuals and families with suspected or established inherited urologic malignancies, regardless of prior cancer therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not specify any requirements or restrictions regarding prior systemic therapy for advanced/metastatic disease. Both affected and unaffected individuals, including those with no prior cancer therapy or only adjuvant/neoadjuvant therapy, are eligible. This is a genetic and observational study, not a therapeutic trial."
+    }
+  ]
+}

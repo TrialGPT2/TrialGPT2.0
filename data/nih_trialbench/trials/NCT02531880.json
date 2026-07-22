@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT02531880",
+  "title": "Investigation of Blood-Brain-Barrier Breakdown Using Manganese Magnetic Resonance Imaging in Drug-Resistant Epilepsy",
+  "brief_summary": "Background:\n\n\\- The blood-brain barrier separates the brain from the rest of the body. Epilepsy is a neurological disease that causes seizures. It can affect this barrier. Researchers think a contrast agent called mangafodipir might be better able to show areas of the brain that epilepsy affects.\n\nObjective:\n\n\\- To see if mangafodipir is well tolerated and safe. To see if it can show, on an MRI, areas of the brain that epilepsy affects.\n\nEligibility:\n\n* People ages 18-60 who:\n* Have epilepsy not controlled by drugs\n* Prior or concurrent enrollment in 18-N-0066 is required\n\nDesign:\n\n* Participants will be screened with:\n* Medical history\n* Physical exam\n* Blood and urine tests\n* Participants will have up to 6 visits in 1-3 months. Those with epilepsy will have an inpatient stay lasting 2-10 days. Visits may include:\n* Video-EEG monitoring for participants with epilepsy\n* An IV catheter put in place: a needle guides a thin plastic tube into an arm vein.\n* Getting mangafodipir through the IV.\n* 5 MRI scans over a 10-day period: a magnetic field and radio waves take pictures of the brain. Participants lie on a table that slides into a metal cylinder. They are in the cylinder for 45-90 minutes, lying still for up to 10 minutes at a time. The scanner makes loud knocking sounds. Participants will get earplugs.\n* A final MRI at least 2 weeks after receiving mangafodipir. Gadolinium is given through an IV catheter....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Age 18-60.\n* Able to give written informed consent directly.\n* Drug resistant epilepsy participants will be defined as having clinically documented seizures with consistent EEG evidence as defined by the 1981 International Classification of Epileptic Seizures, refractory to standard anti-seizure treatment for at least one year prior to enrolling in this study and with an average of at least one seizure per month. This criterion will be established by preliminary screening NINDS Epilepsy Service under protocol 18-N-0066. Seizure focus localization will be determined by standard clinical, neurophysiologic, and imaging studies. Prior or concurrent enrollment in 18-N-0066 is required.\n\nEXCLUSION CRITERIA:\n\nGeneral exclusions:\n\n* Patients with epilepsy who are not surgical candidates\n* Significant structural brain abnormality such as a brain tumor, stroke, brain damage from head trauma or blood vessel abnormalities, on the baseline MRI scan.\n* Positive test for HIV\n* Pregnancy or breast-feeding\n* Claustrophobia to a degree that the subject would feel uncomfortable in the MRI machine.\n* Cannot lie on their back for at least two hours.\n* Risk for MRI scan, (e.g., any non-organic implant or other device such as a cardiac pacemaker or infusion pump or other metallic implants, objects or body piercings that cannot be removed, or history of being a welder or metal worker due to small metal fragments in the eye)\n* Unwilling to allow sharing and/or use in future studies of coded data that are collected for this study\n\nMEMRI component specific exclusions (applicable only to patients participating in this arm of the study):\n\n* History of post-ictal psychosis or post-ictal aggression\n* Planning to get pregnant in the next 2 months\n* History of clinically significant liver or kidney disease that could potentially increase the risk of CNS damage due to manganese exposure\n* A history of drug or alcohol abuse/dependence (subjects scoring 8 or higher on the AUDIT scale)\n* Screening lab abnormalities demonstrating values more than 2 times the upper limit of normal for AST, ALT, bilirubin, alkaline phosphatase, BUN, creatinine\n* Previous presumed occupational exposure to manganese (i.e., having worked in a mine, foundry, smelter, dry cell battery manufacturing facility, or agriculture)\n* Allergy to manganese\n* On-going treatment with calcium-channel blocker\n* Iron-deficiency anemia\n* Personal history of Parkinson s Disease or Parkinsonism or presence of this disease in a 1st degree relative\n\nGadolinium enhanced MRI component specific exclusions (applicable only to patients participating in this arm of the study):\n\n* Estimated GFR \\<60, tested within 1 week of scan\n* Allergy to gadolinium\n\nOf note, patients who are ineligible for one arm of the study may still be eligible for and participate in the other arm of the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Epilepsy"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an imaging study enrolling adults with drug-resistant epilepsy, defined as epilepsy not controlled by standard anti-seizure medications. There is no mention of lines of systemic therapy for advanced disease, as this is not an oncology trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The trial enrolls patients with drug-resistant epilepsy, defined by failure of standard anti-seizure medications, but does not reference systemic therapy for advanced cancer or lines of therapy. Line-of-therapy intent is not applicable to this non-oncology population."
+    }
+  ]
+}

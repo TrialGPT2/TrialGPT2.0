@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT03784794",
+  "title": "Patient Blood Management for Massive Obstetric Hemorrhage",
+  "brief_summary": "Obstetric Hemorrhage continues to be the first cause of maternal morbidity and mortality around the world especially in middle to low income countriesThe blood components are high value resources; however, its use has been shown to be a risk factor of known complications. The aim of the study is to compare two algorithms of coagulation management in massive obstetric hemorrhage Methods A randomized prospective trial single center two arms study in patients with severe obstetric hemorrhage (PPH \\> 1000) 2 different transfusion protocols one guided by thromboelastometry and hemostatic drugs (protrombine complex concentrate and fibrinogen concentrate) and the second guided by standard coagulation test and hemocomponents. Sample is calculated to known variance, Analyses are intention-to-treat without imputation, with outcomes will be performed between groups using mixed-effects two level regression models. For binary outcomes, a logistic model will be used and results presented as adjusted odds ratios (ORs) alongside 95% confidence intervals (CIs). Count data will be analysed using Poisson multilevel or negative binomial models.\n\nPrimary Outcome Parameter:\n\nCompare between the two protocols:\n\nNumber of allogeneic blood products transfused intra-op, within 24h after screening and in-hospital (RBC, Platelets and FFP; separate and overall)\n\nSecondary Outcome Parameter:\n\nAnalysis of mortality, lenth of stay admission to the ICU, hysterectomy surgical reintervencion, Transfuse associated circulatory overload, Transfusion associated Acute lung injury, health associated infection will be measured as secondary outcome.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\nPatients with severe obstetric hemorrhage of any cause\n\nExclusion Criteria:\n\nobstetric hemorrhage patients derived from other hospitals Patients with less than 1000 ml of estimated blood loss those who do not want to participate in the study",
+  "minimum_age": "18 Years",
+  "maximum_age": "45 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Post Partum Hemorrhage",
+    "Fibrinogenolysis; Hemorrhage",
+    "Fibrinogen; Deficiency, Acquired",
+    "Massive Hemorrhage",
+    "Transfusion Related Complication"
+  ],
+  "overall_status": "COMPLETED"
+}

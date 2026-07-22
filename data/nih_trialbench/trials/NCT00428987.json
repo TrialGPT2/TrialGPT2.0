@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00428987",
+  "title": "Physical and Behavioral Traits of Overweight and Obese Adults",
+  "brief_summary": "This study will describe the phenotype (physical and behavioral traits) of overweight and obese people. It will characterize the hormones, metabolism, food preferences, fitness and physical activity levels, sleep patterns and thought processes in people with and without weight problems. Genetic material will be collected for studies of the internal codes that influence body weight.\n\nPeople over 18 years of age from all weight categories (lean, overweight, obese) who are reasonably healthy may be eligible for this study. Participants undergo the following tests and procedures:\n\n* Physical exam, electrocardiogram, blood and urine tests, instructions for recording food intake for 7 days\n* Metabolic studies for menstruating women.\n* Resting metabolic rate to study how many calories the body burns at rest.\n* Mixed meal test to measure hormones such as insulin that regulate blood sugar.\n* Glucose tolerance test to determine how sensitive the body is to insulin.\n* 24-hour energy expenditure to measure the amount of oxygen breathed in and the amount of carbon dioxide breathed out.\n* Repeat 24-hour energy expenditure.\n* Diurnal blood sampling and temperature assessment to study the body s internal clock.\n* Air-displacement plethysmography (Bod Pod) to measure body composition.\n* Dual energy x-ray absortiometry (DEXA) to measure body fat and bone density.\n* Repeat Bod Pod and DEXA.\n* Anthropometric measurements and bioelectrical impedance to measure height, weight, and circumferences, skinfold thickness, fluid status and percentage body fat.\n* Bromide dilution to measure the amount of water not in cells in the body.\n* Doubly labeled water to measure the amount of calories burned in a 7-day period.\n* 24-hour diet reports.\n* Endothelial reactivity to measure how the blood vessels stretch or dilate for assessing cardiovascular health.\n* Treadmill or bicycle exercise capacity test.\n* Physical activity monitor.\n* Unicorder to detect any breathing difficulties that may interfere with sleep.\n* Fat and muscle biopsy to look for variations in gene expression in fat tissue and muscle.\n* Neurocognitive testing to check memory, decision-making, hand-eye coordination, and reasoning.\n* Evaluation of mood problems and assess personality type.\n* Evaluation to assess the quantity and quality of pain experienced.\n* Taste testing to determine the response to bitter, salty, sweet and sour substances.\n* Occupational therapy evaluation to explore the subject's adaptations, if any, for performing personal, social or professional activities; the subject's views on his or her weight, body size and shape, and strategies to control weight.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nObese subjects:\n\n1. Obese men and women over the age of 18 years\n2. BMI \\> 30\n\nOverweight subjects:\n\n1. Overweight men and women over the age of 18 years\n2. BMI \\> 25 and \\< 30\n\nControl subjects (may be matched for age, sex and years of education):\n\n1. Normal weight men and women over the age of 18 years\n2. BMI \\> 18.5 and \\< 25\n\nEXCLUSION CRITERIA:\n\n1. Patients with significant physical limitations that may preclude them from completing the majority of the tests in this study\n2. Current unstable medical conditions including cardiac ischemia, severe respiratory insufficiency requiring oxygen therapy, hepatic or cardiac failure as assessed by history and physical exam\n3. Any psychiatric condition that would preclude participation in the study\n4. Patients unwilling or unable to give informed consent\n5. Pregnant woman.\n\nAdditional exclusion for lean control subjects:\n\n1. Previous history of obesity as an adolescent or adult\n2. Current or past history of eating disorders such as anorexia nervosa or bulimia\n\nThe NIH Patient Recruitment and Public Liaison Office will receive inquiries from interested study subjects. Pre-screening by this office will exclude patients who require more than minimal assistance to complete activities of daily living in order to select subjects who can safely participate in the full phenotyping protocol. All others will be contacted by the protocol team to review exclusion criteria. Eligible patients will be invited to Clinical Research Center for a screening visit.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "men and women 18 years old and over with BMI \\> 30 BMI \\> 25 and \\< 30 BMI \\> 18.5 and \\< 25",
+  "condition": [
+    "Obesity",
+    "Healthy Volunteers"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology observational study of overweight, obese, and normal weight adults, with no cancer diagnosis or systemic therapy for advanced disease involved. Line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced disease. There are no requirements or restrictions regarding prior lines of therapy, as the study population consists of adults with varying BMI and no mention of malignancy."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT04319757",
+  "title": "ACE1702 in Subjects With Advanced or Metastatic HER2-expressing Solid Tumors",
+  "brief_summary": "ACE1702 (anti-HER2 oNK cells) is an off-the-shelf Natural Killer (NK) cell product that targets human HER2-expressing solid tumors. The ACE1702-001 phase I study aims to evaluate the safety and tolerability, pharmacokinetics, pharmacodynamics, and preliminary efficacy of ACE1702 in patients with advanced or metastatic HER2-expressing tumors, and to determine the phase Ib/II starting dose for ACE1702.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Signed informed consent\n* Subjects must be \u2265 18 years of age ( \u2265 20 years of age for Taiwan site)\n* Subject with advanced or metastatic solid tumors that is not amenable to surgical resection and is not eligible or has refused other approved therapeutic options that have demonstrated clinical benefit.\n* Histologically confirmed HER2 expression.\n* Eastern Cooperative Oncology Group (ECOG) Performance Status \u2264 1\n* Measurable or non-measurable evaluable disease according to RECIST 1.1\n* Adequate hematologic and end-organ function at baseline\n* Oxygen saturation via pulse oxygenation \u2265 90% at rest on room air\n\nExclusion Criteria:\n\n* Untreated central nervous system (CNS) metastases\n* Multiple primary malignancies\n* Clinically significant cardiovascular disease such as New York Heart Association (NYHA) cardiac disease (class III or greater)\n* Pregnant or lactating female\n* Serious, uncontrolled medical disorder that, in the opinion of the Investigator, would impair the ability of the subject to receive study treatment\n* History of autoimmune or immune mediated symptomatic disease\n* Any anti-cancer chemotherapy or targeted small molecule therapy, or experimental therapy/device within 4 weeks or 5 half-lives of the drug prior to planned start of the study",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Locally Advanced Solid Tumor",
+    "Metastatic Cancer",
+    "Solid Tumor",
+    "HER2-positive Gastric Cancer",
+    "HER2-positive Metastatic Breast Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

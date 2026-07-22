@@ -1,0 +1,45 @@
+{
+  "nctid": "NCT05398783",
+  "title": "A Natural History Study of Metabolic Sizing in Health and Disease",
+  "brief_summary": "Background:\n\nScientists have long used simple measures (such as height and weight) to estimate how much a person s body uses food (calories) as energy, as commonly called the metabolic rate. But metabolism varies among people with similar body sizes. Scientists now believe the old formulas for estimating metabolic rates may not work well for all people. Researchers want to find more accurate ways to measure a person s metabolism.\n\nObjective:\n\nThis natural history study will examine the relationships between metabolism, body composition, and body surface area in a wide range of people.\n\nEligibility:\n\nHealthy children and adults aged 2 years or older. Also, people aged 2 years or older with conditions that may alter metabolism. These may include diabetes, obesity, renal disease, or cancer.\n\nDesign:\n\nParticipants will spend 2 days and 1 night in the hospital. They will provide a medical history and answer questions about their activity levels, the foods they eat, and their lifestyle. They will also eat a special diet.\n\nParticipants will undergo many tests:\n\nThey will lie in a bed with a clear hood covering their head for 30 to 45 minutes to measure the gases in their breath.\n\nThey will lie on a padded table for about 15 minutes while their body is scanned.\n\nThey will stand on a platform while a 3D scanner measures their body.\n\nThey will have a test to measure how fast an electric signal moves through their body.\n\nThey will grip an instrument to measure the strength of their hands.\n\nThey will drink salty water and provide blood and urine samples.\n\nParticipants may be invited to return for these 2-day visits up to 8 times per year. Return visits must be at least 2 weeks apart.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all the following criteria for their cohort:\n\nCohort 1 - Healthy Volunteers\n\n* Male or female, aged \\>=2 years\n* In good general health as evidenced by medical history\n\nCohort 2 - Patients\n\n* Male or female, aged \\>=2 years\n* Diagnosed with diseases thought to alter metabolism or body composition (such as weight loss or gain, diabetes, renal disease, obesity, cancer, etc.) or taking medications thought to alter metabolism or body composition.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Participants over 200 kg due to the weight limit of the equipment.\n* Presence of any implanted device that would interfere with measurements.\n* Any moderate to severe limitations in mobility that would impede participation\n* Hemoglobin less than 10 g/dL (in participants who would have blood drawn for research purposes)\n* Participants with dietary allergies, intolerances or eating patterns that would preclude them from consuming metabolic meals.\n* Participants unwilling or unable to give informed consent.\n* Participants with any other significant physical, medical, or psychiatric limitations, illness or conditions that may preclude them from completing the majority of the tests in this study per the discretion of the PI.",
+  "minimum_age": "2 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Local population, primary clinical, referred patients",
+  "condition": [
+    "Metabolic Disorders",
+    "Cancer",
+    "Chronic Kidney Disease",
+    "Diabetes",
+    "Normal Physiology"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study enrolling both healthy volunteers and patients with various diseases, including cancer, to study metabolism. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Cohort 1 - Healthy Volunteers",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Healthy volunteers with no mention of cancer or prior systemic therapy are eligible. There are no requirements for prior therapy, and healthy individuals are included regardless of cancer history."
+    },
+    {
+      "cohort_label": "Cohort 2 - Patients",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Patients with diseases that may alter metabolism, including cancer, are eligible regardless of prior therapy. There are no restrictions or requirements regarding prior lines of systemic therapy for advanced/metastatic disease, and adjuvant-only patients are allowed."
+    }
+  ]
+}

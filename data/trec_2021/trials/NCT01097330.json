@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01097330",
+  "title": "Catheter Ablation Versus Amiodarone for Shock Prophylaxis in Defibrillator Patients With Ventricular Tachycardia",
+  "brief_summary": "Implantable Cardioverter Defibrillators (ICDs) provide a shock or pacing therapy to bring back a normal heart beat when a patient experiences a dangerous abnormal heart rhythm such as ventricular tachycardia (VT). ICDs are very successful in bringing back a normal heart beat when VT occurs, but they do not prevent further dangerous heart rhythms from occurring. This study is designed to determine the best way to manage patients who have an ICD and who continue to have episodes of VT. There are two methods for treatment the VT: 1) Ablation, and 2) Medication.\n\nAn ablation procedure involves placing a flexible catheter (insulated wire) in the groin area and threading it into the heart. After the doctor has located the affected area responsible for the VT, radiofrequency energy is delivered by the power generator through the catheter to the inside of the heart. The radiofrequency energy ablates (burns) a small area of the heart tissue thought to cause the VT.\n\nA medication called Amiodarone is an \"anti-arrhythmic\" prescribed to prevent abnormal heart rhythms from recurring.\n\nThe purpose of this study is to compare these two different methods for treating VT. Treatment with ablation and amiodarone are both considered the standard of care for patients with VT but they have not been compared directly in a study like this before.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria - Patients must meet all of the following criteria:\n\n* \\> 18 and \\< 85 years of age\n* ICD implanted for primary prophylaxis against sudden cardiac death or ICD implanted for secondary prophylaxis against spontaneous or inducible sustained VT without any reversible causes\n* Coronary artery disease (CAD) with prior myocardial infarction (MI)\n* ICD or electrocardiogram (ECG) documentation of ventricular arrhythmia responsible for appropriate ICD therapy \\[antitachycardia pacing (ATP) \\& shocks\\].\n\nExclusion Criteria - Patients should not have any of the following criteria:\n\n* Contraindication or allergy to contrast media, routine procedural medications or catheter materials\n* Contraindication to an interventional procedure\n* Current or previous (within 3 months) amiodarone therapy\n* Atrial Fibrillation requiring antiarrhythmic drug therapy\n* Contraindication to amiodarone therapy\n* New York Heart Association (NYHA) functional class IV\n* Myocardial infarction within the past 60 days\n* Stroke within the past 90 days\n* Unstable angina\n* Hypertrophic cardiomyopathy, Non-ischemic dilated cardiomyopathy, Arrhythmogenic Right Ventricular Dysplasia, Brugada Syndrome, Catecholamine sensitive polymorphic VT or long QT syndrome\n* Patients with active ischemia that are eligible for revascularization\n* Life expectancy less than 6 months\n* Incessant or multiple episodes of VT requiring immediate therapy with medications or ablation\n* Untreated hypothyroidism or hyperthyroidism. Patients who are euthyroid on thyroid hormone replacement therapy are acceptable.\n* Current enrollment in another investigational drug or device study.\n* Presence of any other condition that the investigator feels would be problematic or would restrict or limit the participation of the patient for the entire study period.\n* Absolute contra-indication to the use of heparin and or warfarin.\n* Documented intra-atrial thrombus, ventricular thrombus (\\< 6 months after detection of thrombus), tumor, or another abnormality which precludes catheter introduction.\n* Females of childbearing potential who are not practicing protocol acceptable method of birth control.",
+  "minimum_age": "19 Years",
+  "maximum_age": "84 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Defibrillators, Implantable",
+    "Tachycardia, Ventricular"
+  ],
+  "overall_status": "TERMINATED"
+}

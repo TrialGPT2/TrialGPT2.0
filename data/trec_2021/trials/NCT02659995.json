@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02659995",
+  "title": "Relationship Between Blood Glucose Levels and Variability and Infections Development in Critically Ill Patient",
+  "brief_summary": "Our multicenter prospective observational study aims to show the relationship between blood glucose levels and glycemic variability and the development of infections during the ICU stay and with outcome. Within the secondary endpoints, we will evaluate if a blood glucose range between 70 and 140 mg/dl is associated with an increasing surviving rate in non-diabetic critically ill patients.\n\nMATERIALS AND METHODS Multicenter study (ICUs of some Italian University Hospitals). Written informed consent will be request before the inclusion of each patient in the study; if it will not be possible, an informing module will be given to the patient's family and the informed consent will be request to the patients as soon as possible.\n\nInclusion criteria: 300 patients consecutively admitted in each ICU from January 2016 and not later than 31/12/2018.\n\nExclusion criteria: age \\< 18, end-stage disease. Data collection An Excel database will be edited with these data about each patient: age, sex, type I or II diabetes, glycated hemoglobin, at-home antidiabetic therapy; admission diagnosis, admission SAPS II score; daily insulin administration (dose and route of administration, time of start, dose at the moment of glycemic measurement and min-max daily range); steroid therapy (molecule, daily dose, date of start and stop); antibiotic therapy (molecule, daily dose, date of start and stop); daily caloric and protein intake and type of nutrition; other therapies; mechanical ventilation (date of start and stop); blood lactates (worst daily value); daily leucocytes and differential white cells count; daily SOFA score; presence of infections (suspected or confirmed; site and microorganism and eventual Multidrug Resistance pattern); presence of sepsis (following SCCM criteria); length of ICU and hospital stay; outcome (ICU and hospital mortality).\n\nEvery blood glucose level measurement obtained will be registered with date and time.\n\nGlycemic variability will be evaluated in terms of:\n\n* Standard deviation (SD)\n* Mean Amplitude of Glycemic Excursions (MAGE);\n* Coefficient of Variation (CV);\n* Glycemic Lability Index (GLI). STATISTICAL ANALYSIS Data analysis will be performed with Kolmogorov-Smirnov test; parametric and non-parametric s tests, t-test (or Mann-Whitney test), ROC Curve, binary logistic regression. Subgroups analysis.\n\nStatistical significance: p \\< 0,05. SAMPLE SIZE 3300 patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* All the patients admitted in ICU\n\nExclusion Criteria:\n\n* age \\< 18, patients with end-stage disease with life expectancy shorter than 24 hours.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "patients consecutively admitted in the participating ICUs.",
+  "condition": [
+    "Critical Care"
+  ],
+  "overall_status": "UNKNOWN"
+}

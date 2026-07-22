@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04594720",
+  "title": "Circulating Biomarkers to Identify Thyroid Cancer",
+  "brief_summary": "This study aimed to identify the potential circulating biomarkers of protein, mRNAs, and long non-coding RNAs (lncRNAs) to di\ufb00erentiate the papillary thyroid cancers from benign thyroid tumors. Methods: The study population of 100 patients was classified into identification (10 patients with papillary thyroid cancers and 10 patients with benign thyroid tumors) and validation groups (45 patients with papillary thyroid cancers and 35 patients with benign thyroid tumors). The Sengenics Immunome Protein Array combined data mining approach using the Open Targets Platform was used to identify the putative protein biomarkers, and their expression validated using the enzyme-linked immunosorbent assay. Next-generation sequencing by Illumina HiSeq was used for the detection of dysregulated mRNAs and lncRNAs. The website Timer v2.0 helped identify the putative mRNA biomarkers, which were significantly over-expressed in papillary thyroid cancers than in adjacent normal thyroid tissue. The mRNA and lncRNAs biomarker expression was validated by a real-time polymerase chain reaction.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with thyroid nodules who received total or subtotal thyroidectomy\n* Patients aged 20 years and above\n\nExclusion Criteria:\n\n* Patients with any other type of cancer, immunocompromised disease, or autoimmune disease.",
+  "minimum_age": "20 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population was assigned to identification (10 patients with papillary thyroid cancers and 10 patients with benign thyroid tumors) and validation groups (45 patients with papillary thyroid cancers and 35 patients with benign thyroid tumors). Before surgery, 2 mL blood samples were drawn from an elbow vein of patients into EDTA tubes (BD Vacutainer) for RNA analysis, and 8 mL into SST\u2122II advance tubes (BD Vacutainer) for protein analysis.",
+  "condition": [
+    "Thyroid Cancer",
+    "Thyroid Cancer, Papillary",
+    "Benign Thyroid Tumor"
+  ],
+  "overall_status": "COMPLETED"
+}

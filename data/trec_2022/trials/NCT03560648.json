@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03560648",
+  "title": "Device Evaluating the Muscular Functional Age",
+  "brief_summary": "The CHRONOS project aims to provide a device to detect earlier the motor decline, by developing a precise quantitative device measuring \"Motor Functional Age\" (MFA) of young, middle-aged and old people, thus preventing future functional motor loss for healthy aging. The MFA might be different from the Chronological Age (CA), depending on lifestyle, physical activity, and medical condition. Thus, this device will permit monitoring, adaptation and new design of a variety of personalized therapies for healthy aging including physical exercise, medication and nutritional interventions to reduce the MFA toward or less than the CA. The device combines data processing software that estimates the MFA by assessing muscle aging using a non-invasive multichannel electromyographical technique coupled to accelerometry sensors for motion evaluation. These data will provide with a built-in clinical database of subjects from different age categories (25-75 years old).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Main inclusion criteria\n\n* walking without help\n* physically active (IPAQ questionnaire: moderately or highly active) for \"reference group\" and sedentary (IPAQ questionnaire: low activity) for \"test\" group.\n\nMain exclusion Criteria\n\n* Body mass index \\<18.5 and \\>= 30 kg/m2\n* Neurological, endocrinological, rheumatologic, myopathy, orthopedic and severe cardio-respiratory diseases\n* Non smoking and non alcoholism,\n* Taking medications interfering with muscle function\n* Pregnant",
+  "minimum_age": "25 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Healthy Volunteers",
+    "Skeletal Muscle"
+  ],
+  "overall_status": "COMPLETED"
+}

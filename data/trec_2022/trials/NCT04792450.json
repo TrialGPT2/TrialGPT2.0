@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04792450",
+  "title": "Thales Thermography Triage (3T) - Pilot Project",
+  "brief_summary": "COVID Related Study.\n\nThis study will compare the Thales High Temperature Detection (HTD) system with the two routinely used temperature measurement systems (tympanic and forehead) in patients and staff in the Emergency Department.\n\nThe aims of the study are:\n\n* To determine the diagnostic accuracy of HTD for the measurement of fever, using an equivalence comparison with the maximum temperature recorded with two routinely used temperature measurements (tympanic and forehead), margin \u00b10.2\u00b0C.\n* To determine if skin tone is an independent confounding factor in the measurement of fever using HTD\n* To establish performance of internal calibration of Thales device\n* To power for a definitive Clinical Investigation to determine clinical efficacy and safety cut off with HTD If results are encouraging the aim would then be to undertake a clinical investigation in order to get CE marking for use in a clinical setting.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients \u2265 16 years old with no upper age limit\n* Patients able to read and understand English\n* Patients able to give informed consent\n* Patients being triaged through ED for any complaint, not necessarily COVID-19 QEUH ED staff\n\nExclusion Criteria:\n\n* Patients not meeting the inclusion criteria\n* Patients who do not have capacity to consent\n* Patients attending ED who are fast-tracked without triage",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients attending Queen Elizabeth University Hospital Emergency Department requiring triage. All staff members working within Queen Elizabeth University Hospital Emergency Department.",
+  "condition": [
+    "Fever"
+  ],
+  "overall_status": "UNKNOWN"
+}

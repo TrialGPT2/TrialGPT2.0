@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04074772",
+  "title": "Leveraging Machine Learning to Effortlessly Track Patient Movement in the Clinic.",
+  "brief_summary": "The objective of this study is the development of a system that will allow for the precise measurement of movement kinematics in a clinical exam setting using natural video from three cameras and machine learning to track points of interest. The investigators aim to implement such system in an unobtrusive and simply-incorporated way into the physical exam to provide exact, objective measures to detect patient movement abnormalities in ways not feasible with current tracking technologies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Healthy controls: within age range\n* Age-Matched controls: within age range\n* Movement Disorder Patients: have diagnosed or putative movement disorder\n\nExclusion Criteria:\n\n* Healthy controls: have diagnosed or putative movement disorder; outside of age range\n* Age-Matched controls: have diagnosed or putative movement disorder; outside of age range\n* Movement Disorder Patients: outside of age range",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "* Healthy controls: health volunteers recruited within the Anschutz Medical Campus\n* Age-Matched controls: spouses and relatives of patients visiting the movement disorders clinic at the University of Colorado Hospital within 10 years of patient's age.\n* Movement Disorder Patients: patients visiting the movement disorders clinic at the University of Colorado Hospital",
+  "condition": [
+    "Movement Disorders"
+  ],
+  "overall_status": "COMPLETED"
+}

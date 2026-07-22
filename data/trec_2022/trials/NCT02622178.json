@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02622178",
+  "title": "How Accurately Does the Diopsys Visual Evoked Potential (VEP) Vision Testing System Detect Glaucoma?",
+  "brief_summary": "Evaluate sensitivity and specificity of NOVA-DN visually evoked potentials (VEP) protocol and new software method (Corda) for glaucoma detection using optical coherence tomography (OCT) images to differentiate between normal subjects and glaucoma suspects.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\nGroup 1: Healthy Subjects\n\n* intraocular pressure less than 22 millimeters of mercury (mmHg)\n* normal appearing optic discs and retinal nerve fiber layer (RNFL)\n* normal optical coherence tomography (OCT) RNFL thickness\n* normal visual field (VF) results in both eyes.\n\nGroup 2: Glaucoma Suspects\n\n* glaucomatous appearance of optic discs and/or RNFL in at least one eye\n* normal OCT\n* normal VF results in both eyes.\n\nGroup3: Glaucoma Patients\n\n* Glaucomatous optic disc appearance (cup to disc ratio, rim thinning or RNFL defects)\n* Repeatable intraocular pressure (IOP) of 23 mmHg or more, in at least one eye\n* Repeatable abnormal VF tests\n\nExclusion Criteria:\n\n* inability to perform reliable VF or OCT\n* visual acuity worse than 20/40\n* refractive error greater than +/-5.00 diopters sphere, greater than +/- 3.00 diopers cylinder",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Glaucoma Diagnosis"
+  ],
+  "overall_status": "COMPLETED"
+}

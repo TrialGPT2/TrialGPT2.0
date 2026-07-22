@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04400513",
+  "title": "Development of an Algorithm to Differentiate Heart Murmurs Using Electronic Stethoscopes",
+  "brief_summary": "The Eko CORE and DUO stethoscopes are FDA-approved electronic devices that have the capacity to record heart sounds. The study seeks to expand murmur detection to include VHD classification through the development of novel ML algorithms that are able to distinguish between systolic vs. diastolic vs. continuous murmurs, as well as classify VHD type and severity, using 4-point auscultation with Eko CORE and DUO electronic stethoscopes to record heart sounds.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Adults aged 18 years and older\n2. Patient or patient's legal healthcare proxy consents to participation\n3. Have an audible heart murmur in at least one auscultation position, as heard by a clinician\n4. Undergoing or have undergone a complete (i.e., not limited) echocardiogram\n5. Willing to have heart recordings done with two different electronic stethoscopes\n\nExclusion Criteria:\n\n1. Patient or proxy is unwilling or unable to give written informed consent\n2. Unable to complete a full clinical echocardiogram\n3. No audible heart murmur in at least one auscultation position, as heard by a clinician\n4. Experiencing a known or suspected acute cardiac event\n5. Mechanical ventricular support (such as ECMO, LVAD, RVAD, BiVAD, Impella, intra-aortic balloon pumps, TAH, VentrAssist, DuraHeart, HVAD, EVAHEART LVAS, HeartMate, Jarvik 2000)\n6. Unwilling or unable to follow or complete study procedures",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Potential research subjects will be screened for eligibility from cardiology clinics, echocardiogram clinics, and inpatient areas. Alternatively, potential subjects will be identified in the echocardiography clinic the day of their echocardiogram appointment and approached for participation once eligibility is confirmed.",
+  "condition": [
+    "Murmur, Heart",
+    "Aortic Valve Stenosis",
+    "Tricuspid Regurgitation",
+    "Mitral Regurgitation",
+    "Innocent Murmurs",
+    "Heart Murmurs"
+  ],
+  "overall_status": "COMPLETED"
+}

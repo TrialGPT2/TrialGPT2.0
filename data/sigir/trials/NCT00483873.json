@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT00483873",
+  "title": "Cardiac Arrest Recovery EEG Study",
+  "brief_summary": "The purpose of the study is to collect EEG's as close to the cardiac arrest as possible using a standard hospital EEG machine and an investigational EEG device to help determine the neurological status of the cardiac arrest patient and to help decide on possible treatment and chance of recovery. The investigational EEG machine will be simple to operate as well as easy to interpret for the clinician and the nurses. It is not to replace the electrophysiologist interpretation but to determine ealy on if further evaluation and treatment can help the patient.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nCardiac Arrest:\n\n* Patients 18 years and older:\n\n  1. with cardiac arrest in the hospital and successfully resuscitated, or\n  2. with cardiac arrest out of the hospital and successfully resuscitated\n\nICD patients:\n\n* Patients 18 years and older:\n\n  1. Who are undergoing elective procedure in the electrophysiology laboratory for placement of a cardiac defibrillator and who will most likely undergo induction of ventricular arrhythmia as part of the procedure\n\nExclusion Criteria:\n\nCardiac Arrest:\n\n1. Cardiac arrest and a known pre-existing cerebral pathology such as brain tumor, cerebral hemorrhage, encephalitis or immediately post-op neurosurgery.\n2. CNS infection\n3. Skull defects and scalp diseases that are not amenable to standard EEG testing\n\nICD patients:\n\n1. Known pre-existing cerebral pathology such as brain tumor, cerebral hemorrhage, encephalitis or immediately post-op neurosurgery.\n2. CNS infection\n3. Skull defects and scalp diseases that are not amenable to standard EEG testing",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients admitted to the hospital after out-of-hospital Cardiac arrest or for an ICD placement",
+  "condition": [
+    "Cardiac Arrest",
+    "Arrhythmia"
+  ],
+  "overall_status": "UNKNOWN"
+}

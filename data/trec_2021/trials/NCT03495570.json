@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03495570",
+  "title": "Sysmex-XN 20 Analyser to Assess Lymphocyte Subsets and Other Haematological Parameters in Chronic/Acute Viral Infections",
+  "brief_summary": "The XN-20, is a full blood count (FBC) analyser with an extended differential counting and flagging System. The XN-Series' individual channels allow real-time reflex analysis, and uses a two stage process to classify the white blood count (WBC) sub-populations and detect the presence of abnormal reactive and malignant cells. In regards to lymphocytes in the peripheral blood, the machine has the capacity to distinguish activated from non-activated T-cell subsets using a very small volume of EDTA sample (88uL) (including remnant sample from a standard full blood count) with results available in 1.5 minutes. It is a fully automated process and can be considered as an alternative rapid flow cytometry method.\n\nObjective of the SASA study: to investigate the signal pattern of white blood cells assessed using the XN-20 full blood count platform in patients with untreated viral infections i.e. HIV, HCV and HBV. The data from the analysis will be reviewed in conjunction with patient's demographic and clinical disease characteristics with the aim of detecting characteristic cell populations that can be used in the development of system flags for future studies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adults aged \u226518 years;\n* Registered patient at Mortimer Market Centre;\n* Willing to have a blood draw for the purpose of the study or, if the participant is having a blood draw for routine care, willing to have an additional EDTA sample taken at the time of that routine blood draw and willing that the results of the sample being drawn for standard care (FBC and T-cell subsets) can be used for this study;\n\nIn one of the four mutually exclusive groups:\n\ni) Group A: HIV-infected (chronic or acute infection) with a HIV viral load of \\>1000 copies/mL in the 6 months prior to study entry and not (yet) in receipt of combination antiretroviral therapy (cART) at study entry; ii) Group B: HIV-infected on cART with HIV viral load \\<50 copies/mL within the 6 months prior to study entry, at least one measure of HCV (chronic or acute infection) showing a detectable HCV viral load and not in receipt of HCV treatment at study entry; iii) Group C: HCV mono-infected (chronic or acute infection) with detectable HCV viral load (\\>lower limit of quantification) in the prior 6 months and not in receipt of HCV treatment at study entry; iv) Group D: HBV mono-infected (chronic or acute infection) patients with detectable HBV viral load in the prior 6 months and not in receipt of HBV treatment at study entry.\n\n\\- written informed consent.\n\nExclusion Criteria:\n\n* On immunosuppressants and/or receiving chemotherapy or radiotherapy for a malignancy;\n* Intercurrent infection within the prior 30 days (e.g. influenza like illness).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Four groups of participants with chronic or acute viral infections :1) Group A: untreated Human Immunodeficiency Virus (HIV)-infected; 2) Group B: HIV-hepatitis C (HIV/HCV) coinfected, with treated HIV but untreated HCV; 3) Group C: untreated HCV monoinfection; 4) Group D: untreated Hepatitis B (HBV) monoinfection.",
+  "condition": [
+    "Diagnostic",
+    "Chronic Viral Hepatitis B",
+    "Chronic Hepatitis C",
+    "Chronic HIV Infection"
+  ],
+  "overall_status": "UNKNOWN"
+}

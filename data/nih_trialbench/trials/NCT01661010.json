@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT01661010",
+  "title": "The Clinical Study of Sex Chromosome Variants",
+  "brief_summary": "Purpose/Lay Summary: Background:\n\n\\- Chromosomes are the structures inside of each cell that carry our genetic material (genes). Certain differences in the sex chromosomes are known to cause various diseases, such as infertility, Turner syndrome, or Klinefelter syndrome. However, it is not fully understood why these differences are seen and what clinical findings may be caused with different sex chromosome variants. This study is seeking to learn more about the genetic and clinical characteristics of disorders related to the X and Y chromosomes.\n\nObjectives:\n\n\\- To study related medical conditions in people with sex chromosome variants.\n\nEligibility:\n\n* Patients with known sex chromosome differences may be eligible to participate.\n* Healthy volunteers age 18 - 55\n\nDesign:\n\n* Participants will be screened with a physical exam and medical history. Blood and urine samples will be collected.\n* This study will last about 5 days. Participants will have a variety of endocrine and other tests. They will provide blood, urine, and semen samples for these tests.\n* Imaging studies of the heart and abdomen will be performed. These tests may include ultrasounds and magnetic resonance imaging.\n* Participants will also have their vision and hearing checked.\n* Healthy volunteers with have a single day visit for a medical history, physical exam, and blood and skin samples.\n* Treatment will not be provided as part of this study.\n* Compensation is offered.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Patients previously identified through outside research or diagnostic labs as having sex-chromosome variants causing deletion/duplication of sex-linked genes or entire sex chromosomes, male and female.\n  2. In the event that a patient with a sex-chromosome variant self-refers to the protocol, medical records will be reviewed by a committee to include Dr. David Page, Dr. Maximilian Muenke, and others to decide whether the patient is appropriate for enrollment in the protocol.\n  3. Willing family members of subjects enrolled may be enrolled as control subjects.\n\nEXCLUSION CRITERIA:\n\n1. We reserve the right to exclude patients with medical conditions that would place a potential participant at high risk of complications if managed at the NIH clinical center (ex. dialysis dependency, unstable cardiac conditions, unstable severe depression/suicidality).\n2. We reserve the right to exclude cases that are clearly not related to sex-chromosome variants, infertility or our direct research interests (e.g. infertility with clearly non-genetic etiology). This almost never happens, and we would attempt to make referrals to a more\n\nappropriate investigator.\n\nIt is our intention to try to remove as many economic, cultural, geographic, racial, and gender barriers as we reasonably can to promote a diverse participation of sex-chromosome variant cases for research purposes.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients previously identified through outside research or diagnostic labs as having sex-chromosome variants causing deletion/duplication of sex-linked genes or entire sex chromosomes.@@@",
+  "condition": [
+    "Male Factor Infertility",
+    "Female Factor Infertility"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study enrolling patients with sex chromosome variants and healthy volunteers. There is no cancer treatment or systemic therapy involved, and line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer treatment or systemic therapy for advanced disease. Eligibility is based on the presence of sex chromosome variants or healthy volunteer status, with no reference to prior lines of therapy."
+    }
+  ]
+}

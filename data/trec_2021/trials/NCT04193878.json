@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04193878",
+  "title": "ARrest RESpiraTory Failure From PNEUMONIA",
+  "brief_summary": "This research study seeks to establish the effectiveness of a combination of an inhaled corticosteroid and a beta agonist compared to placebo for the prevention of acute respiratory failure (ARF) in hospitalized patients with pneumonia and hypoxemia.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\nPatients 18 years or older with\n\nSevere pneumonia defined as:\n\n1\\. Hospitalization for acute (defined as \u2264 14 days) onset of symptoms (cough, sputum production, or dyspnea), AND 2. Radiographic evidence of pneumonia by chest radiograph or CT scan, AND 3. One of the following:\n\n1. Evidence of systemic inflammation (temperature \\< 35\u25e6C or \\> 38\u25e6C OR WBC \\> or \\< upper or lower limits for site OR procalcitonin \\> 0.5 mcg/L), OR\n2. Known current immunosuppression preventing inflammatory response, OR\n3. High clinical suspicion of pneumonia with microbiologic confirmation of infection. Microbiologic confirmation will include a positive nasal swab for a known respiratory virus; a sputum culture growing a likely pathogenic organism plus moderate or greater WBCs (not required for immunocompromised patients); or a positive blood culture with a likely pathogenic organism - e.g., \u00bc vials with S. Epidermidis would NOT qualify)\n\nAND Hypoxemia defined as new requirement for daytime supplemental oxygen with SpO2 \\< 92% on room air, \u2264 96% on \u2265 2 L/min oxygen, or \\> 6L/min or non-invasive ventilation regardless of SpO2 at enrollment. Patients admitted with pneumonia but not meeting criteria for hypoxemia will be followed for up to 48 hours from ED admission to enrolling hospital to assess for development of qualifying hypoxemia.\n\nExclusion Criteria:\n\n* Inability to randomize within 48 hours of presentation to enrolling hospital (randomization beyond 24 hours will be limited to patients with persistent hypoxemia defined by an SpO2 \\< 97% while on \\> 3L/min O2)\n* Intubation (or impending intubation) prior to enrollment\n\n  a. Patients receiving HFNC oxygen or NIV prior to enrollment are not excluded\n* A condition requiring inhaled corticosteroids or beta-agonists (patients receiving inhaled beta-agonists in the ED without an established indication will be eligible if treating clinician is willing to discontinue subsequent treatments)\n* Chronic systemic steroid therapy equivalent to \\>10 mg prednisone\n* COVID-19 positive patients receiving \\> 6 mg dexamethasone (40 mg prednisone equivalent dose) except for stress dose steroids for septic shock\n* Non-COVID-19 pneumonia patients receiving systemic steroid \\> 10 mg prednisone except for stress dose steroids for septic shock\n* Chronic lung or neuromuscular disease requiring daytime oxygen or mechanical ventilation other than for obstructive sleep apnea (OSA) or obesity hypoventilation syndrome\n* Not anticipated to survive \\> 48 hours or not expected to require \\> 48 hours of hospitalization\n* Contraindication or allergy to inhaled corticosteroids or beta-agonists\n* Patients with heart rate \\> 130 bpm, ventricular tachycardia or new supraventricular tachycardia within last 4 hours will be potentially eligible for enrollment after the condition has resolved\n* Patients with K+ \\< 3.0 will be potentially eligible for enrollment after the condition has resolved\n* Patient not committed to full support other than intubation or resuscitation (i.e., DNR/DNI status allowed)\n* Pregnancy\n* Incarcerated individual\n* Physician refusal of consent to protocol\n* Patient/surrogate refusal of consent to protocol",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pneumonia",
+    "Hypoxemia",
+    "Acute Respiratory Failure",
+    "COVID-19 Pneumonia"
+  ],
+  "overall_status": "TERMINATED"
+}

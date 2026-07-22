@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02600312",
+  "title": "Comparing Cytokines, Toxins Adsorbing oXiris Filter to ST150 Filter During CRRT in Patients With Septic Shock",
+  "brief_summary": "The Oxiris\u00ae filter is a registered product for CRRT already safely used in routine care.\n\nIn in vitro experiments, the Oxiris\u00ae filter has been demonstrated to adsorb endotoxin and cytokines. Compared to conventional filters this may be advantageous in patients with severe sepsis but neither decreased levels of endotoxin and cytokines nor an improved outcome has been demonstrated with clinical use.\n\nBut there are so far little clinical data on the oXiris\u00ae filter on humans. The oXiris\u00ae filter will be investigated in a double blind randomized crossover setting against a traditional filter (ST150). Either filter will be used for 24 hours after which it will be changed to the opposite filter for another 24 hours.\n\nArterial blood samples will be drawn at start and then 1, 3, 8, 16 and 24 hours after the start of each filter, and analyzed for endotoxin (EAA assay), TNF-\u03b1, IL-1\u03b2, IL-6 and IL-10 (ELISA) levels. Standard blood tests will be analyzed simultaneously. Data concerning mode and settings of CRRT, heart rate, blood pressure, medication, data concerning ventilatory support and pathogen will be registered.\n\nPrimary endpoint: Levels of endotoxin and cytokines will be compared using Student's paired t-test on AUC values for each 24-hour period.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Patients admitted to intensive care unit (ICU) of age \\>18 years with decision based on the clinical situation of the patient taken by the physician in charge that continuous renal replacement therapy will be started.\n2. Vasoconstrictor and volume dependent septic shock with known Gram-negative infectious agent in blood culture.\n3. Vasoconstrictor and volume dependent septic shock suspected to be caused by a Gram-negative agent and with positive plasma endotoxin test.\n\nExclusion Criteria:\n\n1. Infected with Hepatitis B or C or HIV.\n2. Dependence on dialysis treatment before the actual ICU episode.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Septic Shock",
+    "Acute Kidney Injury"
+  ],
+  "overall_status": "COMPLETED"
+}

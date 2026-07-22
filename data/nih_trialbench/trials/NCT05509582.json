@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT05509582",
+  "title": "Extension Study (Extended Access) of Syk-inhibition Using Fostamatinib to Treat Posttransplant Immune-mediated Cytopenias",
+  "brief_summary": "Background:\n\nPeople who have a blood stem cell transplant can sometimes develop cytopenia. This means that their levels of one or more types of blood cell, such as the red cells or platelets, are lower than they should be. This can occur because a person s immune system might attack these cells after a stem cell transplant. Up to 20% of people who have blood stem cell transplants develop cytopenias, which can lead to anemia, severe bleeding, infections, and other problems. Treatments are needed to help keep blood cell levels stable after blood stem cell transplant.\n\nObjective:\n\nTo evaluate the long-term effects of a study drug (fostamatinib) in people with cytopenia after a blood stem cell transplant.\n\nEligibility:\n\nPeople who responded well to fostamatinib in an earlier study.\n\nDesign:\n\nParticipants will be screened. They will have a physical exam and blood tests.\n\nFostamatinib is an oral tablet taken by mouth. Participants will take the pills at the same dose and frequency as they did during the previous study. They will take the pills for up to 21 months. The dosage of the drug may be reduced over time if their blood cell levels are stable.\n\nParticipants will have a medical assessment every month. This can be with their local doctor or at the NIH clinic.\n\nParticipants will have blood tests every 3 months.\n\nParticipants will have a follow-up visit after they stop taking the drug. Their vital signs will be taken, and they will have blood drawn. They will answer questions about their health.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Subjects who were enrolled on phase II trial of fostamatinib and deemed responders at the time of rollover to the extended access trial which is defined as:\n\n  * Hemoglobin \\>= 9 g/dL (or at least \\>= 1 g/dL above baseline) in subjects enrolled with posttransplant anemia without transfusion support, at least once during the 12-week phase II trial.\n\nOR\n\n--Platelets \\>= 30 X 10\\^9/L (or at least \\>= 10 X 10\\^9/L above baseline) without transfusion support, at least once during the 12-week phase II trial, in subjects enrolled with posttransplant thrombocytopenia\n\nOR\n\n--Either of the above criteria in subjects with posttransplant Evans syndrome\n\n* Completed the end of study visit (week 12) on the initial protocol (A Phase II Study of Syk-inhibition using Fostamatinib to treat Post-Transplant Immune-mediated Cytopenias).\n* Female patients of reproductive potential agree to avoid pregnancy through abstinence or the use two forms of highly effective birth control during and for 1 month after the last study treatment and agree not to donate eggs during this time.\n* Male patients of reproductive potential agree to avoid pregnancy of a partner through abstinence or the use two forms of highly effective birth control during and for 1 month after the last study treatment and agree not to donate sperm during this time.\n\nEXCLUSION CRITERIA:\n\n* Severe psychiatric illness or mental deficiency sufficient to make making informed consent impossible\n* Positive pregnancy test for women of childbearing age within 1 week or being actively lactating\n* Uncontrolled hypertension (systolic blood pressure \\>140mmHg or diastolic blood pressure \\>90mmHg)\n* ALT or AST \\>3 times the upper limit of normal\n* Patients who have a history of medical disorders, that in the investigator's opinion, could affect the conduct of the study or the absorption, metabolism or excretion of the study drug are excluded.\n* Patients with evidence of graft rejection (based on clinical suspicion supported by BM biopsy data and/or chimerism studies and/or MLR)\n* Neutropenia, defined as absolute neutrophil count \\<= 1.0 X 10\\^9/L\n* Non-immune mediated cytopenias. Etiologies including, but not limited to, cytopenias due to HIV infection, lymphoproliferative disorders, myelodysplasia/acute leukemia, drug-induced thrombocytopenia, thrombotic microangiopathies, acute bleeding, consumptive coagulopathy, fever, infections leading to cytopenia, medications induced cytopenias, thrombotic microangiopathies (disseminated intravascular coagulation), splenomegaly or hemophagocytic lymphohistiophagocytosis, relapse of primary disease.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Immune Mediated Anemia",
+    "Immune Mediated Thrombocytopenia",
+    "Chronic GVHD"
+  ],
+  "overall_status": "WITHDRAWN",
+  "line_of_therapy_overall_summary": "This is an extension study for patients with posttransplant immune-mediated cytopenias who previously responded to fostamatinib in a phase II trial. All participants must have completed the initial trial and shown a response to the study drug.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is restricted to patients who responded to fostamatinib in a prior phase II trial for posttransplant immune-mediated cytopenias. There is no mention of prior lines of systemic therapy for advanced disease, and the trial is not in an oncology/metastatic setting but rather a posttransplant cytopenia context. Therefore, line-of-therapy intent is not defined in standard oncology terms."
+    }
+  ]
+}

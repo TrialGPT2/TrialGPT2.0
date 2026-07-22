@@ -1,0 +1,38 @@
+{
+  "nctid": "NCT06157151",
+  "title": "PRGN-2009 in Combination With Pembrolizumab Versus Pembrolizumab in Patients With Recurrent or Metastatic Cervical Cancer",
+  "brief_summary": "This randomized trial will evaluate the efficacy and safety of PRGN-2009 in combination with pembrolizumab compared to pembrolizumab alone in patients with pembrolizumab-resistant recurrent or metastatic cervical cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 18 years and older.\n* Recurrent or metastatic cervical cancer (histologically or cytologically confirmed) that meets the criteria of pembrolizumab-resistant.\n* Must have been treated with pembrolizumab, either as monotherapy or in combination\n* Patients must have received no more than two prior systemic regimens in the recurrent or metastatic setting\n* Tumors are confirmed positive for PD-L1 and HPV16/18\n* Measurable disease that can be accurately measured by RECIST v1.1 criteria\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Life expectancy ≥ 12 weeks from the time of enrollment.\n* Must have adequate organ function\n* Negative serum pregnancy test. Women of child-bearing potential (WOCBP) must agree to use adequate contraception prior to study entry and for at least 6 months following completion of study treatment.\n* All patients must have the ability to understand and willingness to sign a written informed consent.\n\nExclusion Criteria:\n\n* Patients with presence of other active malignancy within 1 year prior to study entry\n* Known Central Nervous System (CNS) disease\n* Has severe hypersensitivity (≥Grade 3) to pembrolizumab and/or any of its excipients.\n* Known history of active tuberculosis (TB, Bacillus tuberculosis).\n* Pregnant and lactating women are excluded from this study.\n* Patients with a history of solid organ transplant.\n* Patients currently participating in a study of an investigational agent or have used an investigational device within 4 weeks prior to the first dose of study treatment.\n* Patients, who in the opinion of the investigator, may not be able to comply with the monitoring requirements of the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cervical Cancer",
+    "HPV-Related Carcinoma",
+    "HPV-Related Malignancy",
+    "Recurrent Cervical Carcinoma",
+    "Metastatic Cervical Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with recurrent or metastatic cervical cancer who are pembrolizumab-resistant and have received no more than two prior systemic regimens for advanced disease. All patients must have had prior pembrolizumab in the advanced/metastatic setting.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": 2,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Eligible patients must have recurrent or metastatic cervical cancer that is pembrolizumab-resistant and must have received pembrolizumab (either as monotherapy or in combination) as prior therapy. Patients are allowed no more than two prior systemic regimens in the recurrent or metastatic setting, and adjuvant-only patients are excluded."
+    }
+  ]
+}

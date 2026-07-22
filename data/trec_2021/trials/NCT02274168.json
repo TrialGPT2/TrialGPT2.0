@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02274168",
+  "title": "Utility of ICD Electrograms During Ventricular Tachycardia Ablation",
+  "brief_summary": "With the increasing use of implantable cardioverter defibrillators (ICD) for primary prevention in patients with structural heart disease, an increasing number of patients are expected to develop their first episode of monomorphic ventricular tachycardia (VT) after an ICD is in place and the only documentation of the clinical arrhythmia will be the ICD electrogram (EG). The absence of a 12-lead ECG in patients with an ICD and sustained monomorphic VT represents a limitation when performing treatment with radiofrequency (RF) ablation. The analysis of ICD-EG during a RF ablation procedure is expected to provide a reference \"model\" of VT with clinical expression consisting of the electrical signal of the ICD during VT (which otherwise is not generally possible to obtain in ICD patients). This will allow for a more targeted approach to the substrate of the VT with clinical expression because: 1) if VT is induced by programmed stimulation, one can tell whether it is with clinical expression or not, and 2) if VT is not induced, ventricular pacing could be performed based on the comparative analysis of morphology and activation times of ICD-EG. These approaches will result in improved outcomes of the ablation procedure.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* Clinical indication for RF catheter ablation\n* Presence of an implanted ICD\n* At least 1 episode of spontaneous sustained monomorphic VT documented with ICD electrogram\n* Presence of structural heart disease\n* Able to obtain signed informed consent and willing to comply with study activity requirements\n\nExclusion Criteria:\n\n* It is anticipated that data can not be obtained during follow-up\n* Unwilling or unable to provide informed consent\n* Women who are or may potentially be pregnant\n* Patients who are participating in another clinical trial",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sustained Monomorphic Ventricular Tachycardia"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT01218854",
+  "title": "A Comparison of Methods for Assisting Needle Angle Selection During Image-guided Tissue Biopsy",
+  "brief_summary": "Background:\n\n\\- Currently, standard procedures for biopsies that are guided by computed tomography (CT) imaging involve CT scans and a computer program to plan and illustrate where the physician will place the needle to obtain the required cells or tissue. Inserting the biopsy needle at the planned angle is not an easy task, because the appropriate angle of insertion must be estimated based on prior experience. Researchers are studying experimental techniques that might provide better guidance about the right angle to insert the biopsy needle and thereby improve the collection of the appropriate biopsy cells or tissue.\n\nObjectives:\n\n\\- To evaluate the effectiveness of two biopsy needle guidance methods in CT-guided tissue biopsy.\n\nEligibility:\n\n\\- Individuals at least 18 years of age who are scheduled to have CT-guided tissue biopsy.\n\nDesign:\n\n* Participants will have a tissue biopsy guided by CT scans and either a laser system or a plastic block to illustrate the appropriate angle of insertion. The skin will be numbed with anesthetic to minimize discomfort during the procedure.\n* Before inserting the biopsy needle, the study physician will hold the needle in place so that a Food and Drug Administration-approved medical GPS (electromagnetic tracking) system can measure the needle angle as it enters the tissue.\n* After the needle angle data has been collected, researchers will proceed with the actual biopsy procedure as it would normally occur, using standard methods.\n* No additional treatment will be provided as part of this protocol.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPatients must fulfill all of the following criteria to be eligible for study admission:\n\n* All patients must be undergoing a CT-guided biopsy.\n* Age greater than 18 years.\n* No serious concurrent medical illness that would preclude the patient from making a rational informed decision on participation.\n* The ability to understand and willingness to sign a written informed consent form, and to comply with the protocol. If in question, an ethics consult will be obtained.\n* Ability to follow breathing instructions like holding breath (if procedure is to be performed without general anesthesia).\n* Patients must be actively enrolled on an NIH protocol and be scheduled for a CT-guided biopsy.\n\nEXCLUSION CRITERIA:\n\n* Patients with an altered mental status that precludes understanding or consenting for the biopsy procedure will be excluded from this study.\n* Patients unlikely to be able to hold reasonably still on a procedure table for the length of the procedure.\n* Patients with any known allergy to plastics or polymers (since the Ultem -polymer could theoretically induce a rash in these patients, even though it is hypoallergenic).\n* Inability to follow breathing instructions, if without general anesthesia.\n* Patients with pacemakers or automatic implantable cardiac defibrillators.\n* Gross body weight above the CT table limit (450 pounds).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lung Neoplasms",
+    "Liver Neoplasms",
+    "Kidney Neoplasms",
+    "Cancer"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls adults scheduled for CT-guided tissue biopsy, regardless of cancer type, stage, or prior systemic therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based solely on being scheduled for a CT-guided biopsy and does not mention cancer stage or prior systemic therapy. There are no criteria specifying or restricting prior lines of therapy for advanced/metastatic disease."
+    }
+  ]
+}

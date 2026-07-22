@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04779047",
+  "title": "Comparative Therapeutic Efficacy and Safety of Different Antiviral and Anti Inflammatory Drugs in COVID-19 Patients.",
+  "brief_summary": "Comparison outcomes of a large cohort of moderate and severe COVID-19 patients received different Antiviral and Anti Inflammatory Drugs.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Hospitalized adult patients with pneumonia evidenced by chest CT scan.\n* Laboratory (RT-PCR) confirmed infection with 2019-nCoV or strongly suspected to be infected with SARS-COV2 with confirmation studies pending.\n* And at least one of the following:\n\n  1. Respiratory frequency \u226530/min.\n  2. Blood oxygen saturation \u226493% on room air (RA).\n  3. Partial pressure of arterial oxygen to fraction of inspired oxygen ratio (PaO2/FiO2) \\<300.\n  4. Worsening of lung involvement, defined as an increase in number and/or extension of pulmonary areas of consolidation, need for increased FiO2 to maintain stable O2 saturation, or worsening O2 saturation of \\>3% with stable FiO2.\n\nExclusion Criteria:\n\n* Baseline elevation of alanine aminotransferase (ALT) or aspartate aminotransferase (AST) levels \\> 3-fold the upper limit of the normal range.\n* Pregnancy.",
+  "minimum_age": "18 Years",
+  "maximum_age": "88 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19",
+    "Pneumonia"
+  ],
+  "overall_status": "UNKNOWN"
+}

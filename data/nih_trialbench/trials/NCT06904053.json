@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT06904053",
+  "title": "Metagenomics Next-generation Sequencing Approach to Detect Microbial DNA/RNA Overtime in Individuals Undergoing Hematopoietic Stem Cell Transplant",
+  "brief_summary": "Infections are a major cause of morbidity and mortality in patients undergoing hematopoietic stem cell transplant (HSCT). The purpose of this study is to evaluate if metagenomic next-generation sequencing (mNGS) can detect microbial signatures in people undergoing HSCT, and if microbial identification can be correlated with clinical features of infection (e.g., fever). Participants undergoing HSCT as part of other studies at the NIH Clinical Center (CC) will provide blood before the transplant and through 6 months after. Total nucleic acid will be extracted from plasma and subjected to mNGS.\n\nThe primary objective of this study is to investigate if by using plasma and an mNGS approach, we can detect bacterial, fungal, protozoan, or viral DNA/RNA over time, in immunocompromised patients undergoing transplantation.\n\nSecondary objectives are to: (1) To correlate microbial identification with episodes of fever or clinical suspicion of infection; and to (2) correlate change in microbial signatures in patients with suspected immune reconstitution inflammatory syndrome.\n\nThe study is conducted at the NIH Clinical Center. Participants, aged 3 years and older, on other research studies at the NIH CC who are undergoing HSCT are invited to take part of this study. Expected participation is up to six months.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study; an individual must meet all the following criteria:\n\n1. Male or female, aged 3 years or older.\n2. Co-enrolled on another study at the NIH CC, under which they will undergo HSCT.\n3. Stated willingness to comply with all study procedures and availability for the duration of the study.\n4. Ability of subject or Legally Authorized Representative (LAR) to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\nAn individual with any condition that, in the opinion of the investigator, contraindicates participation in this study, will be excluded.",
+  "minimum_age": "3 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants aged 3 years and older on other research studies at the NIH CC who are undergoing HSCT as part of that study.",
+  "condition": [
+    "Hematopoietic Stem Cell Transplantation"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling patients undergoing hematopoietic stem cell transplant (HSCT) for any indication, without specifying prior lines of systemic therapy for advanced disease. There are no restrictions or requirements regarding prior systemic therapy for advanced/metastatic disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based solely on undergoing HSCT as part of another study, with no mention of prior systemic therapy for advanced disease. The protocol does not specify or restrict prior lines of therapy, nor does it address adjuvant-only patients. Line-of-therapy intent is therefore unknown."
+    }
+  ]
+}

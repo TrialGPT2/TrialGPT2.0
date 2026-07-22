@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02250313",
+  "title": "PASCUAL (Prostate Assay Specific Clinical Utility at Launch) Study",
+  "brief_summary": "The main hypothesis of this study is to demonstrate that the use of the ConfirmMDx for Prostate Cancer test in previously biopsied patients improves urologists' patient management by reducing unnecessary repeat biopsies, attendant procedure costs, and potential adverse events in men being considered for a repeat procedure.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Males aged 40 to 75 years old\\* that underwent a previous cancer-negative prostate biopsy within 15 months and being considered for a repeat biopsy due to persistent or elevated cancer-risk factors\n* The previous negative prostate biopsy must have collected a minimum of 8 tissue cores and remaining FFPE tissue from all cores should be available for testing\n* Minimum tissue volume criteria of 20 microns of prostate biopsy core tissue should be available (40 microns preferable)\n* The presence of HGPIN (high-grade prostatic intraepithelial neoplasia), PIA (proliferative inflammatory atrophy), or glandular inflammation reported in the first biopsy histopathology report is acceptable for entry.\n\nExclusion Criteria:\n\n* Prior diagnosis of prostate cancer or cellular atypia suspicious for cancer (ASAP) in a previous biopsy histology report.\n* Patients being managed by Active Surveillance for low stage prostate cancer\n* Men greater than 75 years old (generally not considered for repeat biopsy)\n* Most recent biopsy was a saturation biopsy (\\> 24 tissue cores).\n* Tissue extracted using transurethral resection of the prostate (TURP) procedures rather than standard patterned biopsy core extraction.\n* Subjects who had been previously tested with ConfirmMDx.",
+  "minimum_age": "40 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "Males aged 40 to 75 years old\\* that underwent a previous cancer-negative prostate biopsy within 15 months and being considered for a repeat biopsy due to persistent or elevated cancer-risk factors",
+  "condition": [
+    "Prostate Cancer"
+  ],
+  "overall_status": "TERMINATED"
+}

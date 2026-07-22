@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00090662",
+  "title": "Collection of Data and Samples From Healthy Donors for Use in Translational Research",
+  "brief_summary": "Increased numbers of white blood cells called eosinophils can cause disease. To investigate this disease, researchers need blood, urine, sputum, stool, cerebrospinal fluid, skin and/or bone marrow samples to compare to samples from patients with this problem. Some of the samples will be used for genetic testing or future research.\n\nThis study will last for about 10 years and will include a maximum of 50 paid volunteers ages 18 to 65.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* Eligibility criteria for volunteer whole blood donation are based on the Standards of the AABB(2) and the Code of Federal Regulation 21 CFR 640(3). Specific criteria follow:\n\nINCLUSION CRITERIA (blood, urine, stool, infrared thermograpy, photography, gastrointestinal secretion, pulmonary function testing\n\nand/or sputum donation)\n\n* ability to sign informed consent\n* healthy male or female\n* 18-85 years of age\n\nEXCLUSION CRITERIA (blood, urine, stool, infrared thermograpy, photography, gastrointestinal secretion, pulmonary function testing\n\nand/or sputum donation)\n\n* pregnancy\n* weight \\<110 pounds\n* history of heart, lung, kidney disease, chronic anemia or bleeding disorders\n\nEligibility for tissue biopsy donation (other than skin) will be determined by the protocol under which the procedure is performed and the physician performing the procedure.\n\nEligibility criteria for volunteer bone marrow, skin and cerebrospinal fluid donation are more stringent than those for other specimen donations to minimize risk of procedure complications and maximize utility of specimens for study:\n\nINCLUSION CRITERIA (bone marrow, cerebrospinal fluid and/or skin donation)\n\n* ability to sign informed consent\n* healthy, male or female\n* 18-65 years of age\n* willingness to provide concurrent blood sample\n\nEXCLUSION CRITERIA (bone marrow, cerebrospinal fluid and/or skin donation)\n\n* a known bleeding disorder, low platelets (\\<100k) or taking medications that interfere with blood clotting, such as aspirin, non-steroidal anti-inflammatory agents or warfarin\n* anemia (hemoglobin less than 12.3 mg/dL)\n* evidence of an immune deficiency, such as HIV infection or cancer\n* pregnancy\n* taking a medication that affects the immune response within the past month, including oral, intravenous, or injectable steroids\n* allergic to xylocaine\n* have taken an investigational drug in the last 6 months\n* any other medical condition that the investigator feels puts the participant at too high a risk for participation\n\n  * warfarin and/or heparin treatment will not be stopped so that a subject can participate in this protocol. If warfarin or heparin was recently discontinued, a subject can be enrolled, but no bone marrow procedures will be performed until the PT is \\< 15.5 seconds and the PTT is within normal range. For other agents that interfere with blood clotting without prolonging the PT, a 7- day washout period will be required before bone marrow sampling, skin biopsy or lumbar puncture.\n\nAdditional exclusion criteria (cerebrospinal fluid)\n\n-Previous diagnosis of central nervous system pathology (including tumors,\n\ninflammatory conditions, infection, seizure disorder, spina bifida)\n\n* History of spinal surgery with hardware placement\n* History of any spinal surgery or injections of the lumbosacral spine\n* Headache on the day of donation\n\nAdditional exclusion criteria (skin biopsy)\n\n-History of keloid or abnormal scar formation",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy volunteers.",
+  "condition": [
+    "Healthy Volunteer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a healthy volunteer biospecimen collection study with no cancer diagnosis or systemic therapy for advanced disease involved. There is no line-of-therapy intent applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls only healthy volunteers with no history of cancer or systemic therapy. No line-of-therapy criteria are specified or relevant."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nctid": "NCT04830852",
+  "title": "Pediatric COVID Outcomes Study (PECOS)",
+  "brief_summary": "This is a multisite prospective observational study to evaluate the clinical sequelae of symptomatic and asymptomatic severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection in the pediatric population, including coronavirus disease 2019 (COVID-19) and multisystem inflammatory syndrome in children (MIS-C), and characterize the immune response associated with these clinical presentations. Participants aged 21 years and younger with laboratory confirmed history of symptomatic or asymptomatic SARS-CoV-2 infection will visit the study sites for clinical and research evaluations and sample collection at schedules dependent on time since infection. Participants enrolled within 12 weeks after acute infection or positive test will be part of the \"recovery group\" and will attend study visits at baseline, every 3 months for the first 6 months, and subsequently every 6 months for a total of 3 years. Participants enrolled more than 12 weeks after acute infection or positive test will be in the \"convalescent group\" and will attend study visits at baseline and subsequently every 6 months for a total of 3 years.\n\nIndividuals (aged ≤21 years) without a diagnosis of SARS-CoV-2 infection or current symptoms suggestive of COVID-19 will serve as a control group and will attend visits for evaluations and sample collection at baseline and every 12 months for a total of 3 years. This protocol will establish a cohort of pediatric patients recovered from SARS CoV-2 infection and a biorepository for evaluation of the potential roles of host genetics, immune response, and other possible factors influencing long-term outcomes.\n\nParents or guardians of participants in all cohorts will also be enrolled for limited participation to complete questionnaires about how the family is impacted by the participant's health and SARS-CoV-2.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nSurvivors and control cohorts:\n\nIn order to be eligible to participate in this study as a survivor or as a control, an individual must meet all of the following criteria:\n\n1. Stated willingness to comply with all study procedures and availability for the duration of the study.\n2. Male or female aged 0 to 21 years (at the NIH CC, minimum age is 3 years).\n3. Willing to allow storage of samples and data for future research.\n4. At the NIH CC: Has a physician or clinic outside NIH to manage underlying medical conditions, or agrees to establish care with an outside physician or clinic for any medical conditions requiring treatment that may be diagnosed as a result of protocol participation.\n\nIn addition, an individual must meet all criteria for one of the following cohorts.\n\nSymptomatic survivor cohort (including MIS-C):\n\n1. Documented prior COVID-19 or MIS-C as evidenced by one of the following:\n\n   1. detection of SARS-CoV-2 RNA or antigen in NP swab, saliva, sputum, or other sample source with Emergency Use Authorization (EUA)/approval from the US Food and Drug Administration (FDA) and a history of clinical manifestation compatible with COVID-19\\*; or\n   2. positive SARS-CoV-2 antibody test using an assay that has received EUA from the FDA (negative SARS-CoV-2 RNA or antigen or never tested), and a history of clinical manifestation compatible with COVID-19\\*; or\n   3. meeting CDC case definition for MIS-C (see Appendix 1).\n2. Onset of COVID-19/MIS-C symptoms is at least 4 weeks before baseline visit. \\*one or more of the following: ageusia, anosmia, chills, confusion, cough, rash, \"COVID toes\", diarrhea, dyspnea, fatigue, fever, headache, myalgia, nausea/vomiting, pneumonia, rhinorrhea.\n\nAsymptomatic survivor cohort:\n\n1. Documented prior SARS-CoV-2 infection as evidenced by one of the following:\n\n   1. detection of SARS-CoV-2 RNA or antigen in NP swab, saliva, sputum, or other sample source with EUA/approval from the FDA without history of clinical manifestation compatible with COVID-19; or\n   2. positive SARS-CoV-2 antibody test using an assay that has received EUA from the FDA without history of clinical manifestation compatible with COVID-19\\*.\n2. Positive SARS-CoV-2 RNA or antigen test is at least 4 weeks before baseline visit.\n\n   * one or more of the following: ageusia, anosmia, chills, confusion, cough, rash, \"COVID toes\", diarrhea, dyspnea, fatigue, fever, headache, myalgia, nausea/vomiting, pneumonia, rhinorrhea.\n\nHealthy contact (control) cohort:\n\n1\\. No diagnosis of SARS-CoV-2 infection or current symptoms suggestive of COVID-19 and meets one of the following criteria:\n\n1. Lived in the same household as a participant with SARS-CoV-2 infection during the time of illness, or was within approximately 6 feet (2 meters) of the participant for a prolonged period of time, or having direct contact with infectious secretions of a COVID-19 case (e.g., being coughed on).\n2. Lives in an area affected by SARS-CoV-2 infection\n\nParents and guardians:\n\nIn order to participate in this study as a parent or guardian, an individual must meet all of the following criteria:\n\n1. Is a parent or guardian of a participant enrolled as a survivor or as a control.\n2. Stated willingness to comply with all study procedures and availability for the duration of the study.\n3. Willing to allow storage of data for future research.\n\nExclusion Criteria:\n\nSurvivors and controls:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Any symptoms suggestive of an ongoing infection within 15 days of baseline visit, including but not limited to fever \\> 38.2 °C, new or worsening respiratory symptoms (e.g., cough, dyspnea), or new or worsening gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea or abdominal pain).\n2. Any medical or mental health condition that, in the judgement of the principal investigator, would make the volunteer unable to participate in the study.\n3. Pregnancy.\n\nParents and guardians:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1\\. Any medical or mental health condition that, in the judgement of the principal investigator, would make the volunteer unable to participate in the study.\n\nCo-enrollment: Participants may be co-enrolled in other clinical studies, including observational studies and therapeutic trials. However, the study staff should be informed of co-enrollment.",
+  "minimum_age": "0 Years",
+  "maximum_age": "21 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients aged 0 to 21 years with confirmed history of symptomatic SARS CoV-2 infection (including COVID-19), MIS C, or asymptomatic SARS CoV-2 infection (n = up to 1000), as well as healthy contacts (aged ≤21 years; n = up to 1000). Additionally, a parent or guardian of each participant will be enrolled to complete targeted questionnaires (n = up to 2000).\n\nAccrual ceiling is 5000 patients.",
+  "condition": [
+    "Covid19",
+    "MIS-C Associated with COVID-19",
+    "MIS-C Multisystem Inflammatory Syndrome in Children",
+    "SARS-CoV2 Infection"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional observational study of pediatric patients with prior SARS-CoV-2 infection (symptomatic or asymptomatic) and healthy controls. There are no requirements or restrictions regarding prior systemic therapy for advanced disease in any cohort.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Symptomatic survivor cohort",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on prior symptomatic COVID-19 or MIS-C, with no mention of prior systemic therapy for advanced disease. There are no requirements or restrictions regarding cancer therapy lines."
+    },
+    {
+      "cohort_label": "Asymptomatic survivor cohort",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on prior asymptomatic SARS-CoV-2 infection, with no mention of prior systemic therapy for advanced disease. There are no requirements or restrictions regarding cancer therapy lines."
+    },
+    {
+      "cohort_label": "Healthy contact (control) cohort",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on absence of SARS-CoV-2 infection and exposure history, with no mention of prior systemic therapy for advanced disease. There are no requirements or restrictions regarding cancer therapy lines."
+    }
+  ]
+}

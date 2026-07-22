@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03047122",
+  "title": "Detection of Breast Lesions by Automatic Breast US",
+  "brief_summary": "Mammography is considered the standard imaging method for breast cancer screening, and is known to result in reduced mortality from breast cancer. However, the diagnostic yield of mammography depends particularly on breast tissue density, with sensitivity as low as 30-48% in dense-breast women. Ultrasound is an attractive adjunct imaging method to mammography as it is widely accessible, relatively inexpensive and well-tolerated by patients. The addition of hand-held ultrasound to mammography has been demonstrated to significantly increase breast cancer detection in women with dense breasts. It is however dependent on the expertise and skill of the operator.\n\nIn recent years, the FDA has approved the use of the automated breast ultrasound (ABUS) for use in screening of women with dense breast. Unlike handheld ultrasound, the ABUS is relatively simple to use, necessitating less technical training, and results in higher reproducibility.\n\nThe research aim is to evaluation of automated breast ultrasound (ABUS) regarding the detection and classification of breast lesions, compared to hand-held ultrasound, according to the American College of Radiology Breast Imaging-Reporting and Data System (BI-RADS) classification. The investigator will also evaluate parameters regarding patients' comfort, workflow, and duration of image interpretation.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nWomen referred to hand-held screening ultrasound examination (BI-RADS=1/2). Women scheduled to undergo ultrasound-guided needle biopsy due to suspicious breast mass detected during hand-held ultrasound (BI-RADS\\>2).\n\nExclusion Criteria:\n\nWomen under 25 years.",
+  "minimum_age": "25 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "women 25 years and up reffered to our centers for hend held us for various indications including screening and diagnostic setup",
+  "condition": [
+    "Ultrasonography",
+    "Breast"
+  ],
+  "overall_status": "UNKNOWN"
+}

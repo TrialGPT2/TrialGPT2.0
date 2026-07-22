@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT02511028",
+  "title": "In Vivo Characterization of Inflammation With Ferumoxytol, an Ultrasmall Superparamagnetic Iron Oxide Nanoparticle, on 7 Tesla Magnetic Resonance Imaging",
+  "brief_summary": "Background:\n\n\\- Contrast agents help things show up better on magnetic resonance imaging (MRI) scans. Researchers want to see if the drug ferumoxytol is a good contrast agent. They want to determine that it does not cause prolonged MRI changes in the brain and to see if it helps identify inflammation in multiple sclerosis\n\nObjective:\n\n\\- To learn how ferumoxytol can be used to image inflammation in multiple sclerosis (MS).\n\nEligibility:\n\n* Adults ages 18 70 who have MS.\n* Healthy volunteers ages 18 70.\n\nDesign:\n\n* Participants will have 5 clinic visits over 6 months.\n* Participants will be screened with a medical history, neurological exam, and blood draw. Full clinical measures will be obtained.\n* Participants will have a 7 tesla brain MRI scan that may include gadolinium contrast agent. The MRI is a metal cylinder in a strong magnetic field. The participant will lie on a table that can slide in and out of the cylinder.\n* During visit 2, ferumoxytol with be given through a catheter (a thin plastic tube) that is inserted with a needle into a vessel in the arm.\n\n\\<TAB\\>- Participants will then have a 7 tesla MRI scan of the brain..\n\n* At each of the next 3 clinic visits, participants will have a 7 tesla brain MRI and have blood drawn. The MRIs may include gadolinium.\n* Participants may have a full neurologic exam at these visits. At the final visit, full clinical measures will be obtained.\n* Participants may have more MRI scans if a 6-month MRI shows ferumoxytol still in the brain.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nHEALTHY VOLUNTEER INCLUSION CRITERIA\n\n* age between 18 and 70 (inclusive)\n* able to give informed consent\n* brain MRI within 2 years of study enrollment that shows no clinically significant abnormalities, in the judgment of a board-certified and NIH-credentialed neuroradiologist\n\nPATIENT INCLUSION CRITERIA\n\n* age between 18 and 70, inclusive\n* able to give informed consent\n* diagnosis of multiple sclerosis according to revised McDonald Criteria\n\nEXCLUSION CRITERIA:\n\nGENERAL EXCLUSION CRITERIA:\n\n* screening labs demonstrating any value for hepatic or renal function levels out of the range of normal, to include AST, ALT, bilirubin, alkaline phosphatase, creatinine, eGFR\n* evidence of polycythemia vera with hemoglobin levels more than 1 standard deviation above the NIH laboratory s normal level\n* iron overload syndromes, including hemochromatosis, or subjects with evidence of iron overload with a baseline ferritin level greater than 370 ng/ml and percent saturation of transferrin level greater than 40%.\n* previous or current alcohol and/or substance abuse per medical history or medical records\n* medical contraindications for MRI (e.g., any non-organic implant or other device such as a cardiac pacemaker or infusion pump or other metallic implants, objects, or body piercings that are not MRI-compatible or cannot be removed)\n* psychological contraindications for MRI (e.g., claustrophobia), to be assessed at the time the medical history is collected\n* pregnancy or current breastfeeding\n* reported history of clinically significant impaired hearing, because people with impaired hearing are at increased risk of sound-induced damage from the MRI scanner\n* known allergy to dextran or drugs containing iron salts or any previous history of severe allergic reactions, anaphylaxis, to any drug\n* clinically significant medical or neurological disorders that, in the judgment of the investigators might expose the patient to undue risk of harm confound study outcomes or prevent the participant from completing the study; examples of such conditions include but are not limited to diagnosis of certain types of cancer, cardiopulmonary conditions such as congestive heart failure, or uncontrolled hypertension\n\nADDITIONAL PATIENT EXCLUSION CRITERION:\n\n-4 or more gadolinium-enhancing lesions on the screening scan",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Multiple Sclerosis"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an imaging study enrolling adults with multiple sclerosis and healthy volunteers. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility criteria do not mention prior systemic therapy for advanced or metastatic disease. Both healthy volunteers and MS patients are eligible regardless of treatment history, and there is no reference to lines of therapy."
+    }
+  ]
+}

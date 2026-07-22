@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04099615",
+  "title": "PROMISE (Somatosensory Evoked POtEntials MonItoring During Acute Ischemic StrokE) Study",
+  "brief_summary": "Endovascular treatment in patients with acute ischemic stroke due to large vessel occlusion does not always lead to good clinical and functional outcome, despite achieving complete arterial recanalization. The rate of significant functional disability or death after three months of an acute ischemic stroke still ranges from 40% to 67%. There is experimental and clinical evidence that somatosensory evoked potentials (SEPs) are good indicators of cerebral blood flow.\n\nThe primary objective of this study is to determine the sensitivity and specificity of N20 response of SEPs prior to mechanical thrombectomy (MT) as a predictor of functional independence at 90 days after endovascular treatment. Secondly, the investigators will study whether SEPs may be neurophysiological markers of brain tissue in ischemic penumbra and optimal collateral circulation.\n\nBilateral median nerve SEPs will be recorded before and continuously during MT in patients with acute ischemic stroke and anterior large vessel occlusion. N20 response ipsilateral to the cerebral hemisphere affected will be measured (qualitatively and quantitatively). The adjusted predictive value of the N20 biomarker on functional independence after MT will be analyzed by binary logistic regression and its predictive value on the full range of disability by ordinal logistic regression. The investigators will construct different regression models with other clinical predictors available at the prehospital setting and with those determined after hospital admission to determine the independent predictive power of the N20 response for a potential treatment decision-making. Finally, the investigators will study whether SEP can be neurophysiological markers ischemic penumbra tissue and optimal collateral circulation through its correlation with multimodal neuroimaging techniques.\n\nSEPs recording is non-invasive technique that can be performed at the bedside of the patient. The development of a portable device which could allow SEPs recording by sanitary staff (pre- and intrahospitally) would provide early data about N20 value, speeding up streamline decision making.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Acute stroke with a demonstrated occlusion in the anterior circulation (M1 or M2 segment of middle cerebral artery with or without ipsilateral internal carotid artery (ICA)significant stenosis or occlusion diagnosed by CT angiography (CTA) or angio-MRI) undergoing urgent thrombectomy procedure.\n* Prestroke functional independence of 2 or less on the modified Rankin scale (ranging from 0 \\[no symptoms\\] to 6 \\[death\\]),\n* Baseline score of at least 6 points on the National Institutes of Health Stroke Scale (NIHSS), which ranges from 0 to 42, with higher values indicating more severe deficit.\n\nExclusion Criteria:\n\n* Evidence by imaging of a large ischemic core, as indicated by an Alberta Stroke Program Early Computed Tomography Score (ASPECTS) of less than 5 on computed tomography (CT) without the use of contrast material or a score of less than 4 on diffusion-weighted magnetic resonance imaging (MRI) (ASPECTS values range from 0 to 10, with higher values indicating less infarct burden). These cutoff values of the ischemic core have been selected in agreement with the treatment effect showed in the HERMES trial meta-analysis collaboration (Presented at the International Stroke Conference, Houston, 2017).\n* Well-documented history of neuromuscular disorders, stroke or central nervous system tumors that could interfere in the SEPs assessment.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients from our influence area (Barcelones-Nord-Maresme) ,other parts of Catalonia or people in this area at the moment of the acute stroke, arriving to our hospital because of an acute stroke of the anterior brain circulation, fulfilling criteria of endovascular urgent therapy",
+  "condition": [
+    "Acute Cerebrovascular Accident",
+    "Endovascular Procedures"
+  ],
+  "overall_status": "COMPLETED"
+}

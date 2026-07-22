@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03041402",
+  "title": "New Setting of Neurally Adjusted Ventilatory Assist During Mask Noninvasive Ventilation",
+  "brief_summary": "Non invasive ventilation (NIV) is generally delivered by pneumatically triggered and cycled-off Pressure Support (PSP) through a facial mask. Compared to PSP, Neurally Adjusted Ventilatory Assist (NAVA), which is the only ventilatory mode using a non-pneumatic signal, i.e., diaphragm electrical activity (EAdi), to trigger and drive ventilator assistance, improves patient-ventilator interaction. A specific setting to generate neurally controlled Pressure Support (PSN) was recently proposed for delivering NIV by helmet. The investigators here compare PSN with PSP and NAVA during NIV by facial mask, with respect to arterial blood gases (ABGs), patient comfort, and patient-ventilator interaction and synchrony.\n\nThree 30-minute trials of NIV were randomly delivered to 14 patients immediately after extubation to prevent post-extubation respiratory failure: 1) PSP, with an inspiratory support \u22658 cmH2O; 2) NAVA, adjusting the NAVA level to achieve a comparable peak EAdi (EAdipeak) as during PSP; 3) PSN, setting the NAVA level at 15 cmH2O/mcV with an upper airway pressure (Paw) limit such to obtain the same overall Paw applied during PSP. We assessed EAdipeak, ABGs, peak inspiratory flow (PIF), time to reach PIF (PIFtime), pressure-time product of the first 300 (PTP300-index) and 500 (PTP500-index) milliseconds after initiation of patient effort, patient comfort, inspiratory trigger delay (DelayTR-insp), and the rate of asynchrony, as assessed by the Asynchrony Index (AI%).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "The investigators considered eligible:\n\n* any patient \u226518 years admitted in ICU undergoing invasive mechanical ventilation for at least 48 hours with a Glasgow Coma Scale (GCS) of 11 (i.e.; spontaneous eyes opening, obeys to command, no verbal response because of the endotracheal tube in place),\n* no infusion of midazolam and propofol in the previous 24 and 4 hours, respectively\n* ready for extubation with indication, prior to extubation, to receive prophylactic NIV to prevent post-extubation respiratory failure.\n\nPatients were excluded in case of\n\n* need for analgesic or sedative drugs,\n* recent cervical spine injury,\n* obstructive sleep apnoea syndrome,\n* pregnancy,\n* contraindications to placement of a nasal-gastric feeding tube,\n* inclusion in other research protocol\n* lack of consent.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Respiratory Failure",
+    "Mechanical Ventilation Complication"
+  ],
+  "overall_status": "COMPLETED"
+}

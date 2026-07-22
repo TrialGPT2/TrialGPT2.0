@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01339637",
+  "title": "Evaluation of Low Source of Signal in SCOUT DS",
+  "brief_summary": "The overall objective of this study is to increase the number of dark skin tone individuals in the data set and evaluate if this increase in dark skin tone data has an impact on the accuracy of the SCOUT DS Diabetes Risk Score (DRS).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Dark Skin Tone (Von Luschan chromatic skin color \\> 35)\n2. Age greater than or equal to 45 years;\n\n   OR\n3. Age 18 to 44 years and a BMI \\> 25 kg/m\u00b2 with one or more of the following diabetes risk factors:\n\n   * Habitually physically inactive (less than 30 minutes of moderate physical activity most, if not all, days of the week)\n   * Has a first-degree relative with type 2 diabetes\n   * African American, Latino, Native American, Asian American, Pacific Islander\n   * Has delivered a baby weighing \\> 9 lb or previously diagnosed with gestational diabetes\n   * Hypertension (\u2265140/\u2265 90 mmHg) or being treated for hypertension\n   * HDL cholesterol level \\< 35 mg/dL and/or a fasting triglyceride level \u2265 250 mg/dL or being treated for dyslipidemia with medication\n   * Has been previously diagnosed with Polycystic Ovary Syndrome (PCOS)\n   * Had impaired glucose tolerance or impaired fasting glucose on previous testing within the last 3 years\n   * Conditions associated with insulin resistance such as severe obesity or acanthosis nigricans\n   * History of vascular disease including heart attack, stroke, angina, coronary heart disease, atherosclerosis, congestive heart failure or peripheral arterial disease\n\nExclusion Criteria:\n\n* Prior participation under VeraLight protocols: VL-2710, VL-2711 or VL-2712\n* Under 18 years of age\n* Receiving investigational treatments in the past 14 days\n* Psychosocial issues that interfere with an ability to follow study procedures\n* Conditions that cause secondary diabetes including Cushing's syndrome, acromegaly, hemochromatosis, pancreatitis, or cystic fibrosis\n* Diagnosed with any type of diabetes, including type 1 or 2\n* Taking glucose lowering medications\n* Known to be pregnant\n* Receiving dialysis or having known renal compromise\n* Scars, tattoos, rashes or other disruption/discoloration on the left volar forearm.\n* Recent (within past month) or current oral steroid therapy or topical steroids applied to the left forearm; inhaled steroid therapy is not excluded\n* Current chemotherapy, or chemotherapy within the past 12 months\n* Receiving medications that fluoresce\\*\n* Known to have, or at risk for, photosensitivity reactions ( e.g., sensitive to ultraviolet light, or taking medication known to cause photosensitivity)\n* Known to have, or at risk for, sensitivity to skin lotions or shaving (creams, lotions, soap, shaving cream)\n* Prior bariatric surgery",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Community sample",
+  "condition": [
+    "Metabolic Syndrome",
+    "Impaired Glucose Tolerance",
+    "Gestational Diabetes"
+  ],
+  "overall_status": "COMPLETED"
+}

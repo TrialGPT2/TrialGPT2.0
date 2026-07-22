@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT03986034",
+  "title": "Early Clonal Dynamics During Venetoclax Treatment for Relapsed or Refractory Chronic Lymphocytic Leukemia (CLL)",
+  "brief_summary": "Background:\n\nThe drug venetoclax treats chronic lymphocytic leukemia (CLL). Researchers want to find better treatments for CLL. To do that, they need to learn how the drug affects CLL cancer cells and the immune system.\n\nObjective:\n\nTo learn about genetic changes that happen during treatment of CLL with venetoclax.\n\nEligibility:\n\nAdults ages 18 and older with relapsed or refractory CLL after at least 1 prior therapy\n\nDesign:\n\nParticipants will be screened under a separate protocol.\n\nIn Phase 1, participants will get venetoclax free of charge through the NIH. Venetoclax is started at a low dose. The dose will be increased every week until participants reach their maximum tolerable dose. This usually take about 5 weeks. Participants will visit the NIH at least once per week. Visits will be about 4 hours. They may have to stay in the hospital to be observed.\n\nIn Phase 2, participants will continue to get the drug through their local cancer doctor and their health insurance. Patients will also visit the NIH every 6 months, or if their disease progresses.\n\nAt the NIH participants will have regular health assessments. These will include physical exams and a review of the medicines they are taking. They will talk about how they are feeling.\n\nThe study included the following tests:\n\nBlood draws\n\nCT scans: Participants will lie in a machine that takes pictures of the body (maximum 3 per year)\n\nBone marrow biopsies: A small amount of marrow will be taken out of the participant s hip bone with a needle.\n\nOptional lymph node biopsies: A small piece of the participant s tissue will be taken out with a needle.\n\nThe study will last at least 2 years.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "-INCLUSION CRITERIA:\n\n1. Diagnosis of CLL/SLL which is made according to the updated criteria of the NCI Working Group.\n2. Active disease as defined by at least one of the following (iwCLL consensus criteria):\n\n   * Weight loss \\>=10% within the previous 6 months\n   * Extreme fatigue\n   * Fevers of greater than 100.5 degrees F for \\>=2 weeks without evidence of infection\n   * Night sweats for more than one month without evidence of infection\n   * Evidence of progressive marrow failure as manifested by the development of, or worsening of\n\n     * Anemia and/or thrombocytopenia\n     * Massive or progressive splenomegaly\n     * Massive nodes or clusters or progressive lymphadenopathy\n     * Progressive lymphocytosis with an increase of \\>50% over a 2-month period, or an anticipated doubling time of less than 6 months\n3. Must have designated hematologist/oncologist will assume care and provide venetoclax after the ramp-up phase is complete\n4. Must have G6PD testing performed to determine whether rasburicase can be given\n5. Must have HLA-testing performed to determine whether allopurinol hypersensitivity exists\n6. Age \\>=18 years\n7. ECOG 0-2\n8. Agreement to use acceptable methods of contraception for the duration of venetoclax treatment if sexually active and able to bear or beget children\n9. Willing and able to participate in all required evaluations and procedures in this study protocol including swallowing capsules without difficulty\n10. Able to comprehend the investigational nature of the protocol and provide informed consent\n\nEXCLUSION CRITERIA:\n\n1. Female patients who are currently pregnant or nursing\n2. Any uncontrolled active systemic infection\n3. Any life-threatening illness, medical condition, or organ system dysfunction that, in the investigator s opinion, could compromise the subject s safety or put the study outcomes at undue risk\n4. Known additional malignancy that is progressing or requires active treatment.\n\n   --Note: Exceptions include basal cell carcinoma of skin, squamous cell carcinoma of skin, and in situ cervical cancer that has undergone potentially curative therapy. Further exceptions include other cancers from which the subject has been diseasefree for \\> 2 years, cancers which will not limit survival to \\< 2 years or cancers in remission receiving endocrine therapy.\n5. Richter s Transformation\n6. Any prior therapy with BCL-2 inhibitors\n7. Concomitant use of strong CYP3A4 inhibitors\n8. Disease significantly affecting gastrointestinal function or absorption\n9. Uncontrolled autoimmune hemolytic anemia or autoimmune thrombocytopenia\n10. Concomitant systemic cancer directed therapy (e.g. immunotherapy, chemotherapy, radiotherapy)\n11. Absolute neutrophil count (ANC) \\<1000/microL, platelets (Plt) \\<30,000/ microL\n12. Serum bilirubin \\>3 times upper limit of normal (ULN)\n13. Severe psychiatric illness/social situations or cognitive impairment that would limit the patient s ability to tolerate and/or comply with study requirements\n\n    * If the PI assesses the decreased ANC and/or Plt to be related to CLL involvement, patients may still be enrolled in the study, as cytopenias as expected to improve with treatment of CLL. Patients may receive supportive measures (e.g. transfusions, IVIG, growth factor support, etc.) to avoid severe cytopenias prior to and during therapy with venetoclax.",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chronic Lymphocytic Leukemia"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls adults with relapsed or refractory CLL who have received at least one prior systemic therapy. Patients must not have had prior BCL-2 inhibitor therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Eligibility requires relapsed or refractory CLL after at least 1 prior therapy, and excludes patients with prior BCL-2 inhibitor therapy. Patients who have only received adjuvant or neoadjuvant therapy are not eligible, as CLL is not treated with adjuvant-only regimens and the requirement is for relapsed/refractory disease after systemic therapy."
+    }
+  ]
+}

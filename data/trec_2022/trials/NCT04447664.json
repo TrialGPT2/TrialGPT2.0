@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04447664",
+  "title": "Telemonitoring of Lung Function by Spirometry",
+  "brief_summary": "Asthma is the most common respiratory disorder in children that causes breathing problems. The patients may have respiratory symptoms such as cough, wheeze, or short of breath. Asthma can be mild or severe when daily activities become compromised. Generally, by application of proper treatment, asthma symptoms can be well controlled. However, the exacerbation of the disease often leads to acute respiratory adverse events that require hospitalization and school absenteeism.\n\nIn this study, we plan the remote monitoring of lung function parameters in asthmatic children (under 18 years of age). We hypothesize that the daily home monitoring of respiratory indices will predict the occurrence of exacerbation and the hospitalization can be lowered.\n\nAsthmatic children arriving for the regular examinations to the Department of Pediatrics and Pediatric Health Care Center of the University of Szeged will be involved. The patients are randomly divided into two treatment groups, telemonitoring and control.\n\nFor both groups, general patient characteristics will be recorded, and lung function parameters will be measured with a clinical spirometer.\n\nPatients in the telemedicine group receive the home mobile controlled spirometer and trained by a pediatric pulmonologist for home examination. The spirometers are handed for 12 months, and children are asked to perform measurements minimum 4 times per week (at least one day a week in the morning and in the evening). In the case of asthma attacks, more frequent measurements repeated several times a day are required. Children in the telemedicine group complete the Asthma Control Test (ACT) after each measurement, which provides a numerical score related to the severity of asthma symptoms. Lung function parameters measured by children and the ACT results are automatically uploaded to a clinical server where the pulmonologists and built-in algorithms are monitoring the quality of the data. In case of deterioration of the lung function parameters, the patients are called for a personal visit and their treatment can be revised.\n\nEvery three months, members of both groups come to the outpatient clinic for a personal visit, where the same examinations are performed.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* Younger than 18 years\n* signed ICF\n* asthmatic children with 2-5 GINA score\n* The children is open-minded for telespirometric measurements at home and is capable for those measurements\n* Parent understands and supports the investigation\n\nExclusion Criteria:\n\n* Withdrawal of consent\n* Any disease which, by the investigators opinion, is a risk for the patients health and/or is contraindicating the participation in the study\n* Bad general condition",
+  "minimum_age": "6 Years",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Asthma in Children",
+    "Asthma"
+  ],
+  "overall_status": "UNKNOWN"
+}

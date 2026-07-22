@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT04794088",
+  "title": "Intravenous Imatinib in Mechanically Ventilated COVID-19 Patients",
+  "brief_summary": "The SARS-CoV2 pandemic and resulting COVID-19 infection has led to a large increase in the number of patients with acute respiratory distress syndrome (ARDS). ARDS is a severe, life-threatening medical condition characterised by inflammation and fluid in the lungs. There is no proven therapy to reduce fluid leak, also known as pulmonary oedema, in ARDS. However, recent studies have discovered that imatinib strengthens the cell barrier and prevents fluid leak in the lungs in inflammatory conditions, while leaving the immune response intact. The investigators hypothesize that imatinib limits pulmonary oedema observed in ARDS due to COVID-19, and may thus help to reverse hypoxemic respiratory failure and to hasten recovery.\n\nThe hypothesis will be tested by conducting a randomised, double-blind, parallel-group, placebo-controlled multi-centre clinical study of intravenous imatinib in 90 mechanically-ventilated, adult subjects with COVID-19-related ARDS.\n\nStudy participants will receive the study drug (imatinib or placebo) twice daily for a period of 7 days. The effect of the intervention will be tested by measuring extravascular lung water (i.e. pulmonary oedema) difference between day 1 and day 4, using a PiCCO catheter (= pulse contour cardiac monitoring device).\n\nOther measurements will include regular blood tests to investigate the safety and the pharmacokinetic properties of imatinib, as well as biomarkers of inflammation and cellular dysfunction. Furthermore, parameters of ventilation and morbidity and mortality will be recorded as secondary outcome measures.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \u2265 18 years;\n* Moderate-severe ARDS, as defined by Berlin definition for ARDS (onset within 1 week of a known clinical insult or new or worsening respiratory symptoms, bilateral opacities not fully explained by effusions, lobar/lung collapse, or nodules, respiratory failure not fully explained by cardiac failure or fluid overload and P/F ratio \u2264200 mmHg with PEEP \u22655 cmH2O), and intubated for mechanical ventilation.\n* PCR positive for SARS-CoV2 within the current disease episode.\n* Provision of signed written informed consent from the patient or patient's legally authorised representative;\n\nExclusion Criteria:\n\n* Persistent septic shock (\\>24h) with a Mean Arterial Pressure (MAP) \u2264 65 mm Hg and serum lactate level \\> 4 mmol/L (36 mg/dL) despite adequate volume resuscitation and vasopressor use (norepinephrine \\> 0.2 \u03bcg/kg/min) for \\> 6 hours;\n* Pre-existing chronic pulmonary disease, including:\n\n  * Known diagnosis of Interstitial Lung disease\n  * Known diagnosis of COPD GOLD Stage IV or FEV1\\<30% predicted\n  * DLCO \\<45% (if test results are available)\n  * Total lung capacity (TLC) \\< 60% of predicted (if test results are available);\n* Chronic home oxygen treatment;\n* Pre-existing heart failure with a known left ventricular ejection fraction \\<40%;\n* Active treatment of haematological or non-haematological cancer with targeted immuno- or chemotherapy, or thoracic radiotherapy in the last year;\n* Currently receiving extracorporeal life support (ECLS);\n* Severe chronic liver disease with Child-Pugh score \\> 12;\n* Subjects in whom a decision to withdraw medical care is made (e.g. palliative setting);\n* Inability of the ICU staff to initiate IMP administration within 48 hours of intubation;\n* Known to be pregnant or breast-feeding;\n* Enrolled in a concomitant clinical trial of an investigational medicinal product;\n* White blood count \\< 2.5x109/l;\n* Haemoglobin \\< 4.0 mmol/l;\n* Thrombocytes \\< 50x109/l;\n* The use of strong CYP3A4 inducers, including the following drugs:\n\n  * Carbamazepine, efavirenz, enzalutamide, fenobarbital, fenytoine, hypericum, mitotaan, nevirapine, primidon, rifabutine, rifampicine;",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "ARDS",
+    "Acute Respiratory Distress Syndrome",
+    "Covid19",
+    "Endothelial Dysfunction",
+    "Pulmonary Edema"
+  ],
+  "overall_status": "TERMINATED"
+}

@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03960099",
+  "title": "Pictographs for Preventing Wrong-Patient Errors in NICUs",
+  "brief_summary": "Newborns in the neonatal intensive care unit (NICU) are at high risk for wrong-patient errors. Effective 2019, The Joint Commission requires that health systems adopt distinct methods of newborn identification as part of its National Patient Safety Goals. Displaying patient photographs in the electronic health record (EHR) is a promising strategy to improve identification of children and adults, but is unlikely to be effective for identifying newborns. This study assesses the use of Pictographs as a \"photo equivalent\" for improving identification of newborns in the NICU.\n\nThis multi-site, two-arm, parallel group, cluster randomized controlled trial will test the effectiveness of Pictographs for preventing wrong-patient order errors in the NICU. Pictographs consist of three elements: 1) pictorial symbols of easy-to-remember objects (e.g., rainbow, lion); 2) the infant's given name (when available); and 3) a color-coded border indicating the infant's sex. The study will be conducted at three academic medical centers that utilize Epic EHR. All parents or guardians will be asked to select a unique Pictograph for each infant admitted to the NICU to be displayed on the isolette and in the EHR for the duration of the infant's hospital stay. All clinicians with the authority to place electronic orders in the study NICUs will be randomly assigned to either the intervention arm (Pictographs displayed in the EHR) or the control arm (no Pictographs displayed in the EHR). The main hypothesis is that clinicians assigned to view Pictographs in the EHR will have a significantly lower rate of wrong-patient order errors in the NICU versus clinicians assigned to no Pictographs.\n\nThe primary outcome is wrong-patient order sessions, defined as a series of orders placed for a single patient by a single clinician that contains at least one wrong-patient order. The Wrong-Patient Retract-and-Reorder (RAR) measure, a validated, reliable, and automated method for identifying wrong-patient orders, will be used as the primary outcome measure. The Wrong-Patient RAR measure identifies one or more orders placed for a patient that are retracted within 10 minutes, and then reordered by the same clinician for a different patient within the next 10 minutes. In the validation study conducted at a large academic medical center, real-time telephone interviews with clinicians confirmed that 76.2% of RAR events were correctly identified by the measure as wrong-patient orders.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* All infants receiving care in the study NICUs for whom an order was placed during the study period.\n* All clinicians with the authority to place electronic orders in the NICU and who placed electronic orders during the study period.\n\nExclusion Criteria:\n\n* None",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Medical Errors",
+    "Electronic Medical Records"
+  ],
+  "overall_status": "RECRUITING"
+}

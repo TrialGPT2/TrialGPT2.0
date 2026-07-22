@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04374019",
+  "title": "Novel Agents for Treatment of High-risk COVID-19 Positive Patients",
+  "brief_summary": "This is a multi-arm, phase II trial for rapid efficacy and toxicity assessment of multiple therapies immediately after COVID19 positive testing in high-risk individuals. Therapies include stand-alone or combination treatment with hydroxychloroquine, azithromycin, ivermectin, or camostat mesilate, artemesia annua. The hypothesis of this study is that the addition of agents that inhibit viral entry or replication of SARS-CoV-2 virus replication in will be devoid of additional moderate to severe toxicities, will prevent clinical deterioration, and will improve viral clearance in high risk individuals.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria\n\n* Age \u226518 years\n* Laboratory-confirmed SARS-CoV-2 infection within the past 7 days or the presence of symptoms or physical examination signs providing high probability of COVID-19 disease\n* Patients must have adequate organ and marrow function measured within the last 6 months\n* Subjects must have at least one of the following high-risk features for clinical deterioration:\n\n  * Hypertension\n  * Diabetes Mellitus\n  * Moderate to severe Chronic Obstructive Pulmonary Disease, Emphysema, Cystic Fibrosis, or Asthma\n  * Cancer patients who have received any immunosuppressive drugs within a year from enrollment\n  * Sickle Cell disease or thalessemia\n  * Age \\> or = 50\n  * BMI \\> or = 30\n  * Living in a nursing home or long-term facility\n  * Underlying serious heart condition as determined by the treating physician\n  * Immunocompromised subject as defined by the treating physician or COVID-19 Telehealth Treatment Team\n\nExclusion Criteria\n\n* Severe or life threating COVID\n* Weight less than 45 kg.\n* Pregnant or breast-feeding females\n* Subjects on dialysis or with creatinine clearance \\< 45 ml/min\n* Existing DMID Toxicity Scale for Determining Severity of Adverse Events grade 3 or greater hepatic failure\n* Previously documented moderate or severe retinopathy or macular degeneration\n* Uncontrolled Seizure disorder\n* Prolonged QT, defined as QTc \u2265470 milliseconds for men and as QTc \u2265480 for women using Bazett's formula\n* Known allergy to artesunate, artemisia annua, hydroxychloroquine, macrolides, 4-aminoquinolines, camostat mesilate, or other agents to be used in the trial.\n* Currently receiving any study medications for other indications\n* Concurrent use of medication that would cause drug-drug interactions\n* Patients with psychiatric illness/social situations that would limit compliance",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID",
+    "Sars-CoV2"
+  ],
+  "overall_status": "TERMINATED"
+}

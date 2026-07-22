@@ -1,0 +1,42 @@
+{
+  "nctid": "NCT04866810",
+  "title": "The Effect of Diet and Exercise on ImmuNotherapy and the Microbiome (EDEN)",
+  "brief_summary": "Background:\n\nThe gut microbiome is made up microorganisms. These include the good and bad bacteria that live in the digestive tract. Changes in the gut microbiome have been linked to the development of cancer. Researchers want to learn more about the effects of modulating the microbiome with diet and exercise.\n\nObjective:\n\nTo see if nutritional intake and physical activity change the gut microbiome in people with melanoma.\n\nEligibility:\n\nAdults age 18 and older with previously untreated melanoma who will be getting immunotherapy treatment for their disease.\n\nDesign:\n\nParticipants will not have visits at NIH. They will have phone calls or videocalls.\n\nParticipants will be screened with a medical history and medical record review.\n\nParticipants will give stool samples. They will fill out surveys about their health, feelings, diet, and exercise.\n\nParticipants will be put in 1 of 2 groups. They will follow their group s plan for 4 months. They will be contacted throughout the study.\n\nIntervention Group participants will follow a plant-based, high-fiber diet. They will do at least 150 minutes of moderate or 75 minutes of high-intensity exercise per week. They will have sessions with psychology staff to help them make positive lifestyle changes.\n\nControl Group participants will be taught healthy eating and exercise guidelines. But they will not be asked to change their diet or exercise habits.\n\nAll participants will record what they eat in the MyFitnessPal app. They will get a scale to measure their weight each week. They will wear a Garmin(R) physical activity tracker at all times. They can take the tracker off to bathe or shower.\n\nParticipation will last for 6 months....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Participants must have histologically or cytologically confirmed melanoma that has not been treated with any systemic therapy in the past 30 days.\n* Participants must be planning to undergo immunotherapy treatment with one of the following options: ipilimumab and nivolumab, relatlimab and nivolumab, pembrolizumab, or nivolumab. Note: This treatment is permissible to have started up to 14 days prior to completion of baseline assessments on this study to still be eligible for enrollment.\n* Age \\>= 18 years and English speaking. English-language ability is required because a portion of the study involves reading and responding to English-language questionnaires, along with creating a free response spoken answer to a question, where the information will be transcribed and analyzed.\n* Willingness and capability to comply with diet and exercise prescriptions, use the MyFitnessPal app, wear the Garmin (trademark) device, complete surveys, and provide stool samples. Participants must own a smartphone capable of running the MyFitnessPal and Garmin Connect (trademark) apps.\n* ECOG performance status \\<=2 (Karnofsky \\>60 percent).\n* The ability of the subject to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n* Participants who are receiving any investigational agents.\n* Any concurrent malignancy that requires active systemic therapy\n* Any health condition that requires treatment with cytotoxic chemotherapy or targeted therapy\n* Medical contraindications to the study diet and/or exercise prescriptions as determined by a physician\n* Self-reported dietary and/or exercise restrictions that would preclude adherence to the study diet and exercise prescriptions\n* Systemic antibiotic use within the past 30 days\n* Use of probiotic supplements (probiotic foods such as yogurt, kefir, sauerkraut, etc., are permissible), fiber supplements, bile acid\n\nsequestrants, weight loss supplements, or appetite suppressants within the last 30 days.\n\n* Women known to be pregnant or lactating are excluded from the study because it is unknown if the study diet and exercise prescriptions may have deleterious effects on the child and/or mother in the context of pregnancy/breastfeeding.\n* Current smoker or \\< 8 weeks since smoking cessation. There is evidence that smoking may alter the microbiome.\n* Heavy drinker defined as \\>14 alcoholic drinks per week\n* Current illicit drug use. There is evidence that illicit drug use may alter the microbiome.\n* Diagnosis of diabetes mellitus type I or II that requires treatment\n* Uncontrolled intercurrent illness including, but not limited to, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Melanoma"
+  ],
+  "overall_status": "SUSPENDED",
+  "line_of_therapy_overall_summary": "This trial enrolls adults with previously untreated melanoma who are about to start or have just started first-line immunotherapy for their disease. Only patients who have not received any prior systemic therapy for advanced melanoma are eligible.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Intervention Group",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Participants must have melanoma that has not been treated with any systemic therapy in the past 30 days and must be planning to undergo first-line immunotherapy. Prior systemic therapy for advanced disease is not allowed, so only first-line patients are eligible."
+    },
+    {
+      "cohort_label": "Control Group",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Participants must have melanoma that has not been treated with any systemic therapy in the past 30 days and must be planning to undergo first-line immunotherapy. Prior systemic therapy for advanced disease is not allowed, so only first-line patients are eligible."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT00342589",
+  "title": "New Techniques for Using a Saline Wash as a Diagnostic Tool for Pneumocystis Pneumonia",
+  "brief_summary": "This study will examine the effectiveness of a new laboratory method for detecting pneumocystis organisms in a salt-water (saline) oral wash. Pneumocystis infection in people with weakened immunity especially patients with HIV infection or cancer, organ transplant recipients and people receiving immune suppressing therapy can cause life-threatening pneumonia. Currently, pneumocystis infection is diagnosed by sputum analysis or bronchoalveolar lavage. For the sputum analysis, patients are induced to produce a sputum sample (liquid discharge from the lung) using a saline mist; however, many hospitals lack the expertise to perform this procedure. The second method, bronchoalveolar lavage, involves inserting a flexible tube into the lung and injecting saline to produce a specimen for diagnosis. This method, however, is time-consuming and can be uncomfortable. New techniques may allow the use of an oral wash to diagnose pneumocystis, even though an oral sample contains far fewer organisms than are obtained with the current methods. This study will examine whether new techniques, such as nucleic acid amplification, may enable a simple oral wash to be used effectively for diagnosis of pneumocystis infection.\n\nPatients 3 years of age and older with weakened immunity who have acute pneumonia may be eligible for this study. In addition, people at increased risk of infection with pneumocystis, including health care professionals, family members of patients, and other patients in health care facilities, may participate.\n\nParticipants will have a medical history and review of medical records to determine their health status and determine if they have had recent respiratory problems or documented PCP. They will then provide an oral wash sample. For this procedure, subjects first rinse their mouth well. Then, they vigorously swish 50 milliliters of saline for 5 to 10 seconds and immediately repeat the procedure to provide two specimens. Washes may be requested daily, weekly, monthly, or for a period of time to be specified. Participants will also have two tubes of blood drawn (total of 20 milliliters, or 4 teaspoons) to test for evidence of pneumocystis.\n\nAlthough no other tests are required for this protocol, participants may be asked to provide optional add'l samples, as follows:\n\nIf a sputum or bronchoalveolar lavage sample is required in the course of the patient s clinical mgmt, enough material will be obtained, if possible, for research purposes as well as what is needed for routine care.\n\nAn induced sputum sample may be requested just for this protocol. For this procedure, a mask with a saline mist is placed over the face, inducing a cough that, it is hoped, will produce sputum from the lungs.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nEither:\n\nA. Patients (male or female) who are immunosuppressed with acute pneumonia and are undergoing or have undergone a clinically indicated procedure, such as bronchoscopy or sputum induction, to obtain a respiratory sample for diagnostic purposes.\n\nor\n\nB. Patients (male or female) who are immunosuppressed with acute pneumonia or individuals likely to be exposed to environmental or person-to-person sources of organisms, including healthy volunteers (with or without respiratory disease), health care professionals, patient families, or other patients in health care facilities who are willing to provide oral washes, nasal samples or blood samples and to consider providing an induced sputum sample.\n\nAll ages greater than or equal to 3 years.\n\nAbility of individual or guardian to give informed consent.\n\nEXCLUSION CRITERIA:\n\nFor enrollment under category B, any individual who cannot safely provide an oral wash or nasal samples (nasopharyngeal swabs, or nasal washes) as determined by the health care provider.\n\nPregnancy and age are not exclusion factors.\n\nNasal specimens will not be collected from children.",
+  "minimum_age": "3 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients (male or female) who are immunosuppressed with acute pneumonia and are undergoing or have undergone a clinically indicated procedure, such as bronchoscopy or sputum induction, to obtain a respiratory sample for diagnostic purposes. AND Patients (male or female) who are immunosuppressed with acute pneumonia or individuals likely to be exposed to environmental or person-to-person sources of organisms, including healthy volunteers (with or without respiratory disease), health care professionals, patient families, or other patients in health care facilities who are willing to provide oral washes, nasal samples or blood samples and to consider providing an induced sputum sample.",
+  "condition": [
+    "Pneumocystis Infection",
+    "Infection",
+    "Pneumonia, Pneumocystis",
+    "Lung Disease, Fungal",
+    "Mycoses"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a diagnostic study enrolling immunosuppressed patients with acute pneumonia, as well as healthy volunteers and individuals at risk for pneumocystis infection. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on immunosuppression and/or risk of pneumocystis exposure, not on prior cancer therapy or lines of systemic treatment. The protocol does not mention or restrict prior lines of therapy for advanced disease."
+    }
+  ]
+}

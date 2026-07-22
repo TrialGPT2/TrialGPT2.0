@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01953822",
+  "title": "Study Assessing Risk of Autoimmune Diseases in Females (9 - 25 Years) Exposed to Cervarix\u00ae in United Kingdom",
+  "brief_summary": "This is an observational cohort study to assess the risk of autoimmune disease(s) within 12 months of receiving the first dose of Cervarix\u00ae in the exposed cohort and over a comparable period in the unexposed cohorts.\n\nThis is an alternative study by GSK using the CPRD database in the UK to fulfil the US FDA safety commitment. The UK has had sufficient Cervarix\u00ae vaccination coverage during the period mid-September 2008 to 2011 to allow suitable data to be collected.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nNote: Other vaccines are allowed in this study regardless of the time of administration and the time interval between subsequent doses.\n\nInclusion criteria for the exposed female cohort:\n\n* Female aged from 9 to 25 years at the reference date (01 September 2008 through 31 August 2010).\n* Recorded in the CPRD GOLD for at least 12 months before the reference date.\n* The first dose of Cervarix received between 01 September 2008 through 31 August 2010, Full date (day/month/year) of Cervarix vaccination(s) available.\n* Subject defined as acceptable in CPRD GOLD.\n\nInclusion criteria for the unexposed historical female cohort:\n\n* Female aged 9 to 25 years at the reference date (01 September 2005 through 31 August 2007).\n* Recorded in the CPRD GOLD for at least 12 months before the reference date.\n* Subject defined as acceptable in CPRD GOLD.\n\nInclusion criteria for the unexposed concurrent male cohort:\n\n* Male aged 9 to 25 years at the reference date (01 September 2008 through 31 August 2010).\n* Recorded in the CPRD GOLD for at least 12 months before the reference date.\n* Subject defined as acceptable in CPRD GOLD.\n\nInclusion criteria for the unexposed historical male cohort:\n\n* Male aged 9 to 25 years at the reference date (01 September 2005 through 31 August 2007).\n* Recorded in the CPRD GOLD for at least 12 months before the reference date.\n* Subject defined as acceptable in CPRD GOLD.\n\nExclusion Criteria:\n\nExclusion criteria for all cohorts:\n\n* Subjects with a diagnostic code of any auto-immune disease during the year prior to the reference date.\n* Subjects who received at least one dose of unspecified HPV vaccine or Gardasil at any time before the reference date.\n* Subjects who have been included in the other cohort.\n\nExclusion criteria for the non-exposed cohorts:\n\n\u2022 Subjects who received any dose of Cervarix at any time before the reference date.",
+  "minimum_age": "9 Years",
+  "maximum_age": "25 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Female population is composed of female subjects vaccinated with Cervarix\u00ae between the ages of 9 to 25 years and unexposed female subjects identified from historical data. Male population is composed of 9- to 25-year-old male subjects not vaccinated with Cervarix\u00ae.",
+  "condition": [
+    "Infections, Papillomavirus"
+  ],
+  "overall_status": "COMPLETED"
+}

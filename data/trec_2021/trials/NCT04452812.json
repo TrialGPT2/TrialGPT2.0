@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04452812",
+  "title": "Statistical and Epidemiological Study Based on the Use of Convalescent Plasma for the Management of Patients With COVID-19",
+  "brief_summary": "The health contingency established against the Severe Acute Respiratory Syndrome associated type 2 Coronavirus (SARS-CoV-2) has promoted a race against the clock for the search on treatment against the disease related with coronavirus (COVID-19). There are no current approved therapeutic options against the virus, although there is a rush for the development of drugs, vaccines and even the passive immunization through plasma from convalescent patients. This passive immunization is made with the administration of antibodies from patients that went through the infectious state of the disease and progress to clinical remission.\n\nSARS-CoV-2, and its predecessor SARS-CoV-1, have great similarities between their genes and proteins; tis allow to hypothesize that the antibodies developed against SARS-CoV1 can recognize the antigens of SARS-CoV-2. In this manner, the transfusion of convalescent plasma to patients with the infection brings the probability on eliminating the infection, in this case SARS-CoV-2. There are evidence of this phenomenon observed in previous pandemics caused by SARS-CoV-1, Influenza AH1N1 and Ebola virus.\n\nThe objective of the study is to develop a therapeutic strategy based on the administration of plasma from patients with COVID-19 with clinical remission to patients that are coursing with the infection. The expected results hopes to establish an effective treatment and satisfactory recovery of patients with COVID-19. Also, we expect to describe the respective antibodies related against the SARS-CoV-2 infection.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria (Donors):\n\n* Signed informed consent\n* At least positive for 1 q-PCR test for SARS-CoV-2\n* 14 days of COVID-19 clinical remission\n* Positive serologic test for SARS-CoV-2\n* Requirements to donate according to NOM-253-SSA1-2012\n* To accept sample storing for future study\n\nInclusion Criteria (Receptors):\n\n* Signed informed consent provided by the patient, legal guardian or the health provider if not available\n* Patients hospitalized in an ICU dedicated to the treatment of COVID-19 patients\n* At least positive for 1 q-PCR test for SARS-CoV-2\n* Patients with COVID-19 defined as severe or critically ill:\n\nSevere: RF \\> 30 bpm, oxygen saturation \\<94%, Pa/FiO2 \\<301, bilateral lung infiltrates that extends in \\>50% (by chest radiograph or CT scan) in 24-48 hours Critically ill: Respiratory failure (PaO2 \\<60 mmHg or SatO2 \\<90% with FiO2 \\>60%) and septic shock (MAP \\<65 mmHg with vasoactive requirement, lactate \\> 2 mmol/L and SOFA score \\>1)\n\nExclusion Criteria:\n\n* Positive pregnancy test\n* Patients in lactation\n* Informed consent not signed\n* Patients involved in other treatment protocols\n* Patients on immunomodulatory drugs (DMARDs, monoclonal antibodies or smal molecule drugs)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID-19 Pneumonia",
+    "Convalescent Plasma"
+  ],
+  "overall_status": "UNKNOWN"
+}

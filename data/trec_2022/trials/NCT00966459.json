@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00966459",
+  "title": "Computed Tomography (CT) and Lung Function Data Collection for Computational Fluid Dynamics (CFD) in Chronic Obstructive Pulmonary Disease (COPD) Patients",
+  "brief_summary": "In this study, 20 COPD patients will undergo a high-resolution/multi slice CT scan and lung function tests to obtain patient specific geometries of the central and peripheral small airways and patient specific boundary conditions.\n\nWith Computational Fluid Dynamics (CFD), the investigators will be able to reconstruct the geometry and measure the resistance of the peripheral airways.\n\nIn a later stage, CFD will be used to simulate the reaction of the airways on various inhalation medications.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Patients with documented COPD based on the following criteria:\n\n   * Smoking history of at least 10 pack-years.\n   * Decreased Tiffeneau index (FEV1/(F)VC \\< 0.70).\n2. Patients aged \u2265 40 years.\n3. Patients should present moderate to very severe COPD with an FEV1 \\< 80% of predicted (GOLD 2, 3 and 4).\n4. Patients should be treated according to GOLD guidelines.\n5. Maintained on stable respiratory medications for 4 weeks prior to visit 1\n6. Able to perform lung function tests.\n\nExclusion Criteria:\n\n1. Patients below the age of 40.\n2. Patients who are pregnant or are breast-feeding.\n3. A respiratory infection or exacerbation of COPD in the four weeks prior to screening.\n4. BMI \\> 35 kg/m\u00b2.\n5. Patients treated with BiPAP or CPAP.\n6. Known active tuberculosis.\n7. A history of asthma, cystic fibrosis, central bronchiectasis, interstitial lung disease or pulmonary thromboembolic disease.\n8. A history of thoracotomy with pulmonary resection.\n9. Active or untreated malignancy.",
+  "minimum_age": "40 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chronic Obstructive Pulmonary Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

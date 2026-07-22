@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT01371656",
+  "title": "Levofloxacin in Preventing Infection in Young Patients With Acute Leukemia Receiving Chemotherapy or Undergoing Stem Cell Transplantation",
+  "brief_summary": "This randomized phase III trial studies how well levofloxacin works in preventing infection in young patients with acute leukemia receiving chemotherapy or undergoing stem cell transplant. Giving antibiotics may be effective in preventing or controlling early infection in patients receiving chemotherapy or undergoing stem cell transplant for acute leukemia. It is not yet known whether levofloxacin is effective in preventing infection.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient must fit 1 of the following 2 categories:\n\n  * Chemotherapy patients\n\n    * Planned to receive at least 2 consecutive cycles (not required to be the first 2 cycles) of intensive chemotherapy for either:\n\n      * De novo, relapsed or secondary acute myeloid leukemia (AML), or acute leukemia of ambiguous lineage treated with standard AML therapy\n      * Relapsed acute lymphoblastic leukemia (ALL)\n      * For the purposes of this study, \"intensive chemotherapy\" is defined as regimens that are predicted by the local investigator to cause neutropenia for \\> 7 days; examples include, but are not limited to, treatment with \"4-drug induction\" (anthracycline, vincristine, asparaginase, and steroid), high dose cytarabine, anthracycline/cytarabine, ifosfamide/etoposide, and clofarabine-containing regimens\n  * Stem cell transplantation patients\n\n    * Planned to receive at least 1 myeloablative autologous or allogeneic HSCT\n    * For the purposes of this study, myeloablative autologous and allogeneic HSCT are those in which the conditioning regimen is predicted by the local Investigator to cause neutropenia for \\> 7 days\n* Creatinine clearance or radioisotope glomerular filtration rate (GFR) \\> 70 mL/min/1.73 m\\^2 OR serum creatinine based on age/gender as follows:\n\n  * 0.5 mg/dL (6 months to \\< 1 year of age)\n  * 0.6 mg/dL (1 to \\< 2 years of age)\n  * 0.8 mg/dL (2 to \\< 6 years of age)\n  * 1.0 mg/dL (6 to \\< 10 years of age)\n  * 1.2 mg/dL (10 to \\< 13 years of age)\n  * 1.5 mg/dL (male)/1.4 mg/dL (female) (13 to \\< 16 years of age)\n  * 1.7 mg/dL (male)/1.4 mg/dL (female) (\\>= 16 years of age)\n* Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1, or 2; use Karnofsky for patients \\> 16 years of age and Lansky for patients =\\< 16 years of age\n* All patients and/or their parents or legal guardians must sign a written informed consent\n* All institutional, Food and Drug Administration (FDA), and National Cancer Institute (NCI) requirements for human studies must be met\n\nExclusion Criteria:\n\n* Patients previously enrolled on the trial are not eligible; therefore, patients with AL who were on study during intensive chemotherapy are not eligible to be enrolled during the HSCT\n* Patients with an allergy to quinolones\n* Patients with chronic active arthritis\n* Patients with a known pathologic prolongation of the corrected QT (QTc)\n* Females who are pregnant or breast feeding\n* Patients being treated with antibacterial agents, other than any of the following:\n\n  * Cotrimoxazole or other agents including dapsone, atovaquone, and pentamidine administered for Pneumocystitis jiroveci (PCP) prophylaxis\n  * Topical antibiotics\n  * Central venous catheter antibiotic lock therapy\n  * Note: prophylactic antifungal therapy is NOT an exclusion criterion\n* Patients currently enrolled on the ACCL1034 study are not eligible until they have completed the 90 day observation period of that study",
+  "minimum_age": "6 Months",
+  "maximum_age": "21 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Leukemias of Ambiguous Lineage",
+    "Bacterial Infection",
+    "Diarrhea",
+    "Fungal Infection",
+    "Musculoskeletal Complications",
+    "Neutropenia",
+    "Recurrent Childhood Acute Lymphoblastic Leukemia",
+    "Recurrent Childhood Acute Myeloid Leukemia",
+    "Secondary Acute Myeloid Leukemia",
+    "Untreated Childhood Acute Myeloid Leukemia and Other Myeloid Malignancies"
+  ],
+  "overall_status": "COMPLETED"
+}

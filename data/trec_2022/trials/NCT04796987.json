@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04796987",
+  "title": "Convolutional Neural Network for the Detection of Cervical Myelomalacia",
+  "brief_summary": "Deep learning technology has been used increasingly in spine surgery as well as in many medical fields. However, it is noticed that most of the studies about this subject in the literature have been conducted except of the cervical spine. In this study, we aimed to demonstrate the effectiveness of the deep learning algorithm in the diagnosis of cervical myelomalacia compared to conventional diagnostic methods.\n\nArtificial neural networks, a machine learning technique, have been used in several industrial and research fields increasingly. The development of computational units and the increasing amount of data led to the development of new methods on artificial neural networks",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* the patients with classical cervical myelomalacia sypmtoms such as neck pain and stiffness, weakness and clumsiness at the upper extremities or gait difficulties and radiological findings of spinal compression\n* 30-80 years age.\n\nExclusion Criteria:\n\n* Patients with a previous history of cervical spinal surgery and has a systematic disease (rheumatologic or neural disease) .",
+  "minimum_age": "32 Years",
+  "maximum_age": "77 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The participants are aged 30-80 years, who have cervical myelomalacia that proved in MRI.",
+  "condition": [
+    "Cervical Myelopathy"
+  ],
+  "overall_status": "COMPLETED"
+}

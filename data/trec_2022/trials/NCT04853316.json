@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04853316",
+  "title": "Asymptomatic SARS-CoV-2 Detection in Children",
+  "brief_summary": "The primary objective of this study is quantify the transmission risk posted by SARS-CoV-2 in pre/asymptomatic infected children in order to inform the public health response to the COVID-19 pandemic.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Younger than 18 years of age\n* Had SARS-CoV-2 NAT testing performed during the ED visit as part of an ongoing active asymptomatic surveillance program:\n\n  1. Exposed (SARS-CoV-2 positive) specific: Was found positive by SARS-CoV-2 NAT testing in the ongoing active surveillance program\n  2. Unexposed (SARS-CoV-2 negative/control) specific: Was found negative by SARS-CoV-2 NAT testing in the ongoing active surveillance program\n\nExclusion Criteria:\n\n* Presence of any of the following viral symptoms commonly associated with SARS-CoV- 2 infection: fever, cough, dyspnea/difficulty breathing, generalized fatigue/weakness, myalgia (muscle or body aches), chills, feeling very unwell, sore throat, runny nose, gastrointestinal symptoms (vomiting, diarrhea), conjunctivitis, headache, anosmia (loss of smell), ageusia (loss of taste) or rash in the 24 hours preceding the index visit (when the child was tested for the presence of SARS-CoV-2).\n* Previously diagnosed with SARS-CoV-2 infection based on a positive swab or serology (blood) test.\n* Decline to provide informed consent and/or assent, as required",
+  "minimum_age": "",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All children younger than 18 years of age presenting to a participating ED who meet institutional surveillance screening guidelines (i.e. present with a non-infectious, non-viral concern) and undergo SARS-CoV-2 testing. The number of children eligible may vary based on evolving SARS-CoV-2 testing procedures, public health policy, and patient volumes.",
+  "condition": [
+    "Covid19",
+    "SARS-CoV-2"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02609204",
+  "title": "Normative Database for Pattern Electroretinogram (PERG) and Flash Electroretinogram (FERG)",
+  "brief_summary": "The main goal of the study is to compile a normative database for the Neuro Optic Vision Assessment (NOVATM) Pattern Electroretinogram (PERG) and Flash Electroretinogram (FERG) modules. This normalization intends to be included in a probabilistic analysis protocol to allow NOVATM PERG/FERG users to identify patients with results outside the normal ranges.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Healthy volunteers age 18 years\n* older with normal eye exam\n\nExclusion Criteria:\n\n* spherical refraction outside + 5.0 Diopters and cylinder correction outside + 3.0 Diopters.\n* IOP (intraocular pressure) \u2265 22 mm Hg (millimeters of mercury)\n* history of any type of glaucoma in either eye.\n* Intraocular surgery in study eye (except non-complicated cataract or refractive surgery performed more than 1 year before enrollment).\n* Best corrected visual acuity worse than 20/40.\n* Evidence of diabetic retinopathy, diabetic macular edema, or other vitreo-retinal disease in either eye.\n* Evidence of optic nerve, macula and/or retinal nerve fiber layer abnormality in either eye.\n* Evidence of reproducible (false positives, fixation losses and false negatives \u2264 25% with no observable testing artifacts).\n* Standard Automatic Perimetry (SAP) abnormality in either eye, defined as Pattern Standard Deviation \\< 5% level, and/or abnormal Glaucoma Hemifield test result, and/or any other pattern of loss which is consistent with a neurologic and/or ocular disease.\n* Current or recent (within the past 30 days) use of an agent (by any administering method) known to affect visual function.\n* Inability to obtain reliable PERG/FERG (Pattern Electroretinogram/Flash Electroretinogram) results.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Glaucoma"
+  ],
+  "overall_status": "COMPLETED"
+}

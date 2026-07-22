@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT01736293",
+  "title": "Natural History of Eye Diseases Related to ABCA4 Mutations",
+  "brief_summary": "Background:\n\n\\- The ABCA4 gene contains a blueprint for the ABCA4 protein. When this protein is absent or faulty (such as in Stargardt s disease), waste material from dead cells collects in the eye. The waste material may cause other cells in the eye to die. This can lead to the loss of vision. Researchers want to look at blood and skin samples from people with ABCA4 gene mutations to study related eye diseases.\n\nObjectives:\n\n\\- To study eye diseases that are related to mutations in the ABCA4 gene.\n\nEligibility:\n\n\\- Individuals at least 12 years of age who have ABCA4 gene mutations.\n\nDesign:\n\n* The study requires 12 visits to the National Eye Institute clinic over 10 years. In the first year, there will be three visits. After the first year, participants will have one visit a year for 9 more years.\n* Participants will be screened with a physical exam, full eye exam, and medical history. The eye exam will check eye pressure, light and color sensitivity, and retina function.\n* Participants will provide a blood sample and a skin tissue sample for study.\n* No treatment will be provided as part of this study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* NCLUSION CRITERIA:\n\n  1. Participant must be 12 years of age or older.\n  2. Participant (or legal guardian) must understand and sign the protocol s informed consent document.\n  3. Participant must be able to cooperate with detailed psychophysics and electrophysiology testing.\n  4. Participant must be able to provide a blood sample.\n  5. Participant has:\n* A maculopathy or retinal degeneration plus two (or more) clear mutations in the ABCA4 gene (ascertained with CLIA-certified testing) that are known to be associated with retinal disease,\n\nOR\n\n-One clear mutation in ABCA4 associated with a classic presentation of fundus flavimaculatus/Stargardt macular dystrophy (e.g., flecks, macular atrophy) and no pathogenic mutation(s) in other genes known to cause macular dystrophy.\n\nOR\n\n-One clear mutation in ABCA4, a cone-rod degeneration and no clearly pathogenic mutation(s) in other genes known to cause cone-rod degeneration.\n\nEXCLUSION CRITERIA:\n\nParticipant has evidence of a systemic condition or ocular disease not related to ABCA4 mutations that would complicate the analysis of psychophysical, electrophysiological, or imaging data. For example, a participant with advanced diabetes mellitus and significant diabetic retinopathy may display changes in retinal function that could be related to either his/her diabetic retinopathy or ABCA4 mutations.",
+  "minimum_age": "12 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants will be recruited from other NEI protocols, such as the Ocular Natural History Protocol (16-EI-0134), the Genetics of Inherited Eye Disease Protocol (15-EI-0128), the NEI Screening Protocol (08-EI-0102), and/or the National Ophthalmic Disease Genotyping and Phenotyping Network, Phase II Protocol (eyeGENE II, 10-EI-N164), or through referral from an outside clinician after a review of pertinent medical records and genetic test results.",
+  "condition": [
+    "Retinal Degeneration",
+    "ABCA4-Related Retinopathies"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional, natural history study of patients with ABCA4-related eye diseases. No systemic therapy or lines of therapy for advanced disease are relevant to eligibility.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This observational study does not involve any systemic therapy or treatment for advanced disease, and prior lines of therapy are not mentioned in the eligibility criteria."
+    }
+  ]
+}

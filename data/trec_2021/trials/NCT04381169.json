@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04381169",
+  "title": "Aggressive Versus Non-aggressive Goal-directed Fluid Resuscitation in Acute Pancreatitis",
+  "brief_summary": "WATERFALL is an investigator-initiated international multicenter open-label randomized clinical trial comparing aggressive versus moderate fluid resuscitation in acute pancreatitis. The main outcome variable will be the proportion of patients with moderate-to-severe AP. Aggressive fluid resuscitation will consist in Lactated Ringer Solution (LR) 20 ml/kg bolus (administered over 2 hours) followed by LR 3 ml/kg/h and moderate a LR bolus 10 ml/kg in case of hypovolemia or no bolus in patients with normal volemia, followed by LR 1.5 ml/kg/h. The patients will be assessed at 3 (\u00b11), 12 (\u00b14), 24 (\u00b14), 48 (\u00b14) and 72 (\u00b14) hours from recruitment, and fluid resuscitation will be adjusted to the patient\u00b4s clinical and analytical status according to a protocol. Subgroup analysis will include patients with systemic inflammatory response syndrome (SIRS) at admission, with persistent (\\>48h) SIRS and with hypovolemia at admission.\n\nBased on available data (Sternby et al, Ann Surg 2019) we expect a 35% incidence of moderate to severe AP in the moderate arm. Sample sizes of 372 per arm of treatment (744 patients) achieve 80% power to detect a difference of 10% between the treatment arms at a significance level (alpha) of 0.05 using a two-sided z-testNA, assuming a 10% dropout. These results assume that 3 sequential tests are made using the O'Brien-Fleming spending function to determine the test boundaries.\n\nAll analyses will be performed on an intention-to-treat basis. The trial could be stop early for efficacy (primary end-point) if the observed two-sided P value is \\<0.0002 at the first interim analysis (after 1/3 of patients have been enrolled) or is \\<0.012 at second interim analysis (after 2/3 of patients have been enrolled), favoring aggressive fluid resuscitation. At final analysis, the hypothesis that the incidence of moderate-to-severe pancreatitis is similar in the two treatment arms will be rejected if p\\<0.046",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients age greater or equal to 18 presenting to one of the collaborating centers\n* Diagnosis of acute pancreatitis according to the revised Atlanta classification which requires 2 of the following 3 criteria: A) Typical abdominal pain; B) Increase in serum amylase or lipase levels higher than 3 times the upper limit of normality; and C) Signs of AP in imaging.\n\nExclusion Criteria:\n\n* Uncontrolled arterial hypertension (systolic blood pressure \\>180 and/or diastolic blood pressure 100 mmHg);\n* New York Heart Association Class II hear failure (slight limitation of physical activity; fatigue, palpitations or dyspnea with ordinal physical activity) or worse, or ejection fraction\\<50% in the last echocardiography;\n* Decompensated cirrhosis (Child's Class B or C);\n* Hyper or hyponatremia (\\<135 or \\>145 mEq/l);\n* Hyperkalemia (\\>5 mEq/l);\n* Hypercalcemia (albumin or protein-corrected calcium\\>10.5 mg/dl);\n* Chronic kidney failure (basal glomerular filtration rate \\<60 mL/min/1.73m2);\n* Clinical signs or symptoms of volume overload or heart failure at recruitment (dyspnea, peripheral edema, pulmonary rales, or evident increased jugular ingurgitation at 45\u00ba);\n* Shock or respiratory failure according to the revised Atlanta classification at recruitment (non-fluid responding systolic blood pressure\\< 90 mmHg, PaO2/FIO2\u2264300 mmHg);\n* Time from pain onset to arrival to emergency room \\>24h;\n* Time from confirmation of pancreatitis to randomization \\>8h;\n* Severe comorbidity associated with an estimated life expectancy \\<1 year;\n* Confirmed chronic pancreatitis (in case of recurrent alcoholic pancreatitis a recent (\\<6 months) CT scan/MRI or endoscopic ultrasound is needed to rule out chronic pancreatitis",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Pancreatitis"
+  ],
+  "overall_status": "TERMINATED"
+}

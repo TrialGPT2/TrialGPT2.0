@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT03304665",
+  "title": "Recruitment and Characterization of Healthy Research Volunteers for NIMH Intramural Studies",
+  "brief_summary": "Objective: To screen and create a list of adult volunteers in good health for participation in research studies conducted at the National Institutes of Health (NIH) in Bethesda, Maryland. Develop a normative set of structural and functional brain MRI scans that are linked to healthy research volunteer characteristics. Maximize scientific impact of data from volunteers by broadly sharing with other researchers.\n\nStudy Population: Adult males and females in general good health who are 18 years of age and older.\n\nDesign: Adult individuals who are interested in participating in NIMH IRP clinical studies as a healthy research volunteer can directly visit or be directed to visit the study website where they will first consent electronically and then complete a set of online self-report measures. Items may include: demographic information, mental health symptoms, disability status, substance use patterns, handedness and clinical/family history. Individuals who are flagged based on predetermined responses to survey items will be further screened by a member of the study clinical team. If found to be ineligible for the study because of a clinically significant or unstable medical or mental health condition, these individuals will be referred back to the community and/or given information about NIMH clinical studies for which they may be eligible. Respondents with no flags or who pass through additional screening will be scheduled for an in-person assessment. During the outpatient appointment and after in-person informed consent, participants will receive a brief clinical interview to screen for current medical and mental conditions, and risk for self-harm. They will complete assessments of psychological, emotional, physiologic, biological and cognitive functioning. Participants will undergo a physical exam and be asked to provide blood and urine samples for routine clinical labs. Participants can separately consent for an optional baseline brain magnetic resonance imaging (MRI) scan and an optional magnetoencephalography (MEG) exam. All consent forms will explicitly inform participants that if enrolled in the study, their de-identified data will be broadly and publicly shared through NIH-approved data repositories. Participants in this recruitment and characterization study will then be placed on a list of healthy research volunteers from which other NIMH IRP studies may recruit according to the inclusion and exclusion criteria in their respective IRB-approved protocols.\n\nOutcome Measures: Outcome measures may include demographic data, mental and medical history and symptoms, results of psychological, emotional, physiologic, biological, and cognitive testing, physical exam and MRI findings....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* 18 - 70 years of age.\n* Able to read, speak, and understand English.\n* Able to provide informed consent.\n* In current good general health.\n\nEXCLUSION CRITERIA:\n\n* Have a history of significant or unstable medical or mental health condition requiring treatment, such as heart or lung disease, depression or psychosis.\n* Endorse current self-injury, suicidal thoughts or behavior.\n* Have current illicit drug use by history or urine drug screen.\n* Are found to have an abnormal physical exam or laboratory result that may require treatment or further evaluation.\n* Less than an 8th grade education.\n* Pregnancy.\n* Positive HIV test as HIV positivity has been associated with neurological changes.\n\nOptional Brain MRI scan exclusion criteria:\n\n* Metal in body which would make having an MRI scan unsafe.\n* Being uncomfortable in small, closed spaces such as the MRI machine.\n* Inability to lie comfortably on back for at least 45 minutes.\n* Pregnancy.\n\nOptional MEG recording exclusion criteria:\n\n-Metal in body which would cause artifacts on MEG recordings.",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy research volunteers",
+  "condition": [
+    "Healthy Volunteer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a healthy volunteer recruitment and characterization study with no cancer population and no systemic therapy for advanced disease involved. There is no line-of-therapy intent applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study enrolls healthy adult volunteers with no history of significant or unstable medical or mental health conditions. There is no mention of cancer, systemic therapy, or lines of therapy for advanced disease; thus, line-of-therapy intent is not applicable."
+    }
+  ]
+}

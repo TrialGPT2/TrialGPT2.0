@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT00057811",
+  "title": "Rituximab, Rasburicase, and Combination Chemotherapy in Treating Young Patients With Newly Diagnosed Advanced B-Cell Leukemia or Lymphoma",
+  "brief_summary": "Phase II trial to study the effectiveness of combining rituximab and rasburicase with combination chemotherapy in treating young patients who have newly diagnosed advanced B-cell leukemia or lymphoma. Monoclonal antibodies such as rituximab can locate cancer cells and either kill them or deliver cancer-killing substances to them without harming normal cells. Drugs used in chemotherapy work in different ways to stop cancer cells from dividing so they stop growing or die. Combining more than one drug with rituximab may kill more cancer cells. Chemoprotective drugs such as rasburicase may protect kidney cells from the side effects of chemotherapy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Newly diagnosed mature B-lineage (CD20-positive) leukemia or lymphoma by the REAL classification of 1 of the following subtypes:\n\n  * Diffuse large cell lymphoma\n  * Burkitt's lymphoma\n  * High-grade B-cell lymphoma (Burkitt-like)\n* No B-cell anaplastic large cell Ki-1 positive lymphomas and B-lymphoblastic lymphomas\n* One of the following FAB prognostic groups:\n\n  * Group B (intermediate risk)\n  * Group C (high risk)\n\n    * Bone marrow involvement with at least 25% blasts and/or CNS involvement meeting 1 or more of the following criteria:\n\n      * Any L3 blasts in cerebrospinal fluid\n      * Cranial nerve palsy (if not explained by extracranial tumor)\n      * Clinical spinal cord compression\n      * Isolated intracerebral mass\n      * Parameningeal extension (cranial and/or spinal)\n* Hepatitis B status known\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for 6 months after study participation\n* No known history of congenital immune deficiency and/or laboratory evidence of acquired immune deficiency\n* No known G6PD deficiency (if receiving rasburicase)\n* No prior malignancies treated with systemic chemotherapy with alkylator or anthracycline therapy\n* No prior chemotherapy\n* At least 1 week since prior steroids except emergency steroids initiated within 72 hours of study entry\n* No prior radiotherapy except emergency radiotherapy initiated within 72 hours of study entry\n* No concurrent radiotherapy\n* No prior solid organ transplantation",
+  "minimum_age": "1 Year",
+  "maximum_age": "29 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Childhood Burkitt Lymphoma",
+    "Childhood Diffuse Large Cell Lymphoma",
+    "Childhood Immunoblastic Large Cell Lymphoma",
+    "Stage I Childhood Large Cell Lymphoma",
+    "Stage I Childhood Small Noncleaved Cell Lymphoma",
+    "Stage II Childhood Large Cell Lymphoma",
+    "Stage II Childhood Small Noncleaved Cell Lymphoma",
+    "Stage III Childhood Large Cell Lymphoma",
+    "Stage III Childhood Small Noncleaved Cell Lymphoma",
+    "Stage IV Childhood Large Cell Lymphoma",
+    "Stage IV Childhood Small Noncleaved Cell Lymphoma",
+    "Untreated Childhood Acute Lymphoblastic Leukemia"
+  ],
+  "overall_status": "COMPLETED"
+}

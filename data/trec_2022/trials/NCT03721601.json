@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03721601",
+  "title": "Novel Methods for Arrhythmia Detection: Preliminary Study",
+  "brief_summary": "Approximately 20-25% of strokes are of cardioembolic origin, atrial fibrillation (AF) being a significant cause of cardioembolic strokes. AF is often symptomless and intermittent, making its detection a clinical challenge. Currently the golden standard for diagnosis of AF is by 12-lead electrocardiogram (ECG) or any other ECG-strip.\n\nThe aim of the study is to assess the potential of chest strap as an ECG monitor, especially in arrhythmia detection by cardiologist and algorithm.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Atrial fibrillation in 12-lead ECG\n\nExclusion Criteria:\n\n* body mass index (BMI) over 33\n* implanted pacemaker device\n* 12-lead ECG findings of left bundle branch block (LBBB) or right bundle branch block (RBBB)\n* medical condition requiring immediate treatment that would be delayed by the study measurements\n* serious infectious disease",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients in internal medicine emergency department, cardiology ward, cardiology examination unit",
+  "condition": [
+    "Stroke",
+    "Atrial Fibrillation"
+  ],
+  "overall_status": "COMPLETED"
+}

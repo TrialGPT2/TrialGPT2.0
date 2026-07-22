@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00001351",
+  "title": "Evaluation and Long-Term Follow-up of Patients With Inflammatory Disorders",
+  "brief_summary": "This study will investigate inflammatory diseases and disorders. Inflammation is the body s immune response to many things, including infections and other acute or chronic irritants. It may also be a sign of abnormal immune function. This study will allow evaluation and long-term follow-up of such disorders to:\n\n* Establish and maintain a group of patients that may be eligible for other NIAID protocols.\n* Provide clinical training and experience for NIAID fellows.\n* Provide a mechanism for NIAID staff to maintain their clinical skills.\n* Serve as a starting point for new investigations of syndromes not currently under study.\n\nPatients between 1 and 80 years of age with acute or chronic inflammation, including but not limited to viral, fungal or bacterial infections, or abnormal immune responses may be eligible for this study. Immediate family members of patients may also be enrolled for preliminary examination to see if they are affected in any way that may warrant further investigation.\n\nAll patients and family members will have a history, physical examination and laboratory tests. Depending on the results, family members may require additional tests. Patients will have additional diagnostic tests indicated for their specific disease, according to accepted medical standards. These may include routine blood and urine tests, X-rays or other imaging studies, body fluid or tissue cultures, skin tests for allergic or immune responses, and others as needed.\n\nTreatments will include only medications approved by the Food and Drug Administration according to accepted dose schedules and delivery methods.\n\nPatients may be requested to donate extra blood for research studies. No more than 450 cc (30 tablespoons) will be drawn from adults within a 6-week period, and no more that 7 cc (1/2 tablespoon) from children under 18 years of age in the same time period.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITIERIA:\n* Males and females ages 2 years and older.\n* Inflammatory conditions associated with, but not limited, to acute and chronic infections or presumed infections, and congenital or acquired immunologic disorders, as determined by the principal or associated investigators.\n* A NIAID/LCIM investigator has an interest in the patient s illness and is willing to serve as attending physician to supervise the patient's medical care at the NIH.\n* If appropriate, immediate family members of patients with inflammatory conditions may be evaluated under this protocol to determine if they may also be affected by their relative s disease.\n* Willingness to participate in clinical protocols when appropriate.\n* Subjects must maintain a primary physician outside NIH for non-protocol related medical complaints and for emergency medical treatment required for these or other of their disorders.\n* Willingness to have samples stored and to provide tissue samples for studying immune dysregulation and for genetic analysis.\n* Ablility to provide informed consent or, for the patient cohort, has a designated legally authorized representative (LAR).\n* For females, not pregnant.",
+  "minimum_age": "2 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "\\- Inflammatory conditions associated with, but not limited, to acute and chronic infections or presumed infections, and congenital or acquired immunologic disorders@@@- If appropriate, immediate family members of patients with inflammatory conditions may be evaluated under this protocol, as a preamble to see if further investigation is warranted, what would be done under a specific protocol.",
+  "condition": [
+    "Inflammation"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational protocol enrolling patients with inflammatory disorders for evaluation and follow-up, regardless of prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The protocol does not specify any requirements or exclusions based on prior lines of systemic therapy for advanced disease. Patients are enrolled based on diagnosis of inflammatory conditions, not prior treatment history."
+    }
+  ]
+}

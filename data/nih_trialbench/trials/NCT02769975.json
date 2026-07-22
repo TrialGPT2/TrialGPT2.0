@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT02769975",
+  "title": "Evaluation of Children With Endocrine and Metabolic-Related Conditions",
+  "brief_summary": "Background:\n\nEndocrine glands give off hormones. Researchers want to learn more about the disorders that affect these glands in children. These disorders might be caused by changes in genes. Genes contain DNA, which is the blueprint of how a cell works. Researchers want to identify the genes involved in endocrine and metabolic disorders. This might help develop new ways to diagnose and treat the disorders.\n\nObjective:\n\nTo study the inheritance of endocrine or metabolism disorders.\n\nEligibility:\n\nChildren ages 3month-18 with known or suspected endocrine or metabolism disorders.\n\nFamily members ages 3months-100. They may participate in the DNA part of the study.\n\nDesign:\n\nParticipants will be screened with a review of their medical records. Their parents or guardians will allow the records to be released.\n\nParticipants will have a clinic visit. This may include a physical exam and medical history.\n\nParents or guardians will give their consent for the study. Participants may have tests, surgery, or other procedures to help diagnose or treat their condition. These could include:\n\nBlood, urine, and saliva tests\n\nGrowth hormone test\n\nPituitary and adrenal function tests\n\nPicture of chromosomes\n\nImaging tests. These may include X-ray, ultrasound, scans, or a skeletal survey.\n\nGenetic tests\n\nSleep study\n\nMedical photographs\n\nIf surgery is done, a tissue sample will be taken.\n\nParticipants may have follow-up visits for diagnosis and treatment.\n\nParticipating relatives will have one visit. This will include medical history and blood and saliva tests. The blood and saliva will be used for DNA testing.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Participants with known or suspected endocrine disorder age 3 months-18 years are eligible for this protocol.\n* Relatives ages 3 months-100 years may be enrolled if clinically indicated for the diagnosis of a proband.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Lack of suspected endocrine disorders.\n* Any medical, physical, psychiatric, or social conditions, which, in the opinion of the investigators, would make participation in this protocol not in the best interest of the patient, will exclude participation. Patients who are critically ill, unstable, or with severe organ failure that may affect/limit the endocrine evaluation and place unsustainable demands on Clinical Center or NICHD resources will be excluded.",
+  "minimum_age": "3 Months",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Children with endocrine or metabolic-related condition(s) who may or may not be eligible for a specific NICHD research protocol, may be evaluated under the auspices of this protocol to advance the clinical skills of physicians participating in NICHD clinical research and training programs, and to provide stimuli for new clinical research initiatives.",
+  "condition": [
+    "Adrenal Insufficiency",
+    "Growth Disorder",
+    "Endocrine Diseases",
+    "Metabolic Disease",
+    "Bone Diseases, Metabolic"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology observational study enrolling children and family members with known or suspected endocrine or metabolic disorders. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention cancer, advanced disease, or prior systemic therapy. There are no requirements or exclusions based on prior lines of therapy for advanced/metastatic disease."
+    }
+  ]
+}

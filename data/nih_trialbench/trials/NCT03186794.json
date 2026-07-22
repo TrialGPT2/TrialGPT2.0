@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT03186794",
+  "title": "Aerobic Exercise in Women With Systemic Lupus Erythematosus",
+  "brief_summary": "Background:\n\nAs many as 1.5 million Americans are living with systemic lupus erythematosus (Lupus). Lupus makes people very tired. It also makes it hard for people to be physically active. Studies have shown that aerobic exercise training helps people with heart or lung illnesses be less tired and more active. Researchers want to use an exercise training program on people with Lupus to see if it has the same results.\n\nObjectives:\n\nTo find out if aerobic exercise helps people with Lupus be less tired and more active.\n\nEligibility:\n\nWomen ages 21-80 who have Lupus and are not physically active.\n\nDesign:\n\nParticipants will be screened with a medical history and physical exam. They will have heart and lung tests, as well as blood and urine tests. They will also answer questions about their quality of life and take a test that measures lupus activity.\n\nThe study will last 14-16 weeks.\n\nFor the first two study visits, participants will do treadmill exercise tests and answer more quality of life questions. For these treadmill tests, participants will wear sensors, a mask, or a mouthpiece while they exercise.\n\nParticipants will then begin exercise training, 3 times a week for 12 weeks. At each of these visits, they will walk very fast for 30 minutes on a track or a treadmill. Each visit will last about 1 hour.\n\nAt the halfway point of the study, participants will repeat some of the screening tests. This visit will last about 3 hours.\n\nAt the end of the study, participants will repeat the screening tests. They will also repeat the treadmill exercise tests.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "INCLUSION CRITERIA:\n\n* Fulfilling 4 of the 11 American College of Rheumatology Criteria for the Classification of Systemic Lupus Erythematosus\n* Age 21 to 80\n* Female Gender\n* BMI less than 40\n* No primary or secondary medical conditions that would limit aerobic capacity or make exercise participation unsafe. (These conditions are found under the exclusion criteria listed below and include cardiovascular disease and cardiomyopathy, pulmonary and pulmonary vascular disease, stroke, significant hepatic or renal dysfunction, most cancers, diabetes mellitus, HIV infection, and peripheral vascular disease.)\n* SELENA-SLEDAI score less than or equal to 4, maintained for at least three months. (C3 and C4 levels are measured as markers for stability and included in the SELENA-SLEDAI score if abnormal).\n* No increase in doses of immunosuppressive medications (hydroxychloroquine, mycophenolate mofetil, azathioprine, methotrexate) for at least three months at the time of screening.\n* No increase in the dose of prednisone or equivalent steroid in the past 3 months at the time of screening.\n* Physically inactive, not participating in aerobic exercise training at heart rate above 60% maximum heart rate, 20 min/session or more, 2 or more days per week, within the last 6 months at the time of screening.\n* Fatigue Severity Scale (FSS) composite score greater than or equal to 3 indicating the presence of clinically significant fatigue\n* Subjects must be able to walk on a treadmill\n\nEXCLUSION CRITERIA:\n\n* Prednisone greater than or equal to 15 mg daily (or equivalent)\n* Have started azathioprine, mycophenolate mofetil, methotrexate, cyclophosphamide or biologics within 3 months\n* Rituximab infusion within 6 months\n* Present symptoms of ischemic heart disease, right- or left-sided heart failure, cor pulmonale or pulmonary hypertension, dilated or hypertrophic cardiomyopathy or non- idiopathic cardiomyopathy\n* Significant pulmonary dysfunction (obstructive, restrictive, or infectious pulmonary disease)\n* Significant hepatic (LFT \\> 2 times of upper limit of normal) or renal dysfunction (GFR\\<45 ml/min)\n* Deep vein thrombosis\n* Chronic anticoagulation (with the exception of low dose aspirin) or a history of a bleeding disorder\n* History or presence of any form of cancer other than skin cancer or cervical in-situ cancer\n* History of cerebrovascular accident\n* Orthopedic conditions that would limit performance of treadmill exercise tests or treadmill exercise training\n* Current smoker or active substance abuse\n* HIV infection\n* Any medication that limit exercise capacity or the ability to adapt to aerobic exercise training (e.g. beta-blockers, anti-retroviral therapy for the treatment of HIV infection)\n* Diabetes Mellitus\n* Fibromyalgia: Determined at pre-screening visit, as per 2010 American College of Rheumatology (ACR) criteria for diagnosis of fibromyalgia\n* Uncontrolled or untreated thyroid dysfunction: Determined by abnormal Thyroid Stimulating Hormone (TSH) level checked at the time of screening or within 3 months before screening visit.\n* Currently pregnant, nursing or plan to become pregnant during the duration of the study\n* Anemia (hemoglobin \\< 9 g/dl)\n* Significant peripheral vascular disease\n* Severe Raynaud's phenomenon\n* Individuals unable to give informed consent",
+  "minimum_age": "21 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Systemic Lupus Erythematosus",
+    "Lupus",
+    "Autoimmune Disease",
+    "Rheumatic Disease"
+  ],
+  "overall_status": "TERMINATED",
+  "line_of_therapy_overall_summary": "This is a non-oncology trial in women with systemic lupus erythematosus, focusing on the effects of aerobic exercise. There is no line-of-therapy intent related to systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This trial does not address cancer or systemic therapy for advanced disease; no line-of-therapy criteria are specified or applicable."
+    }
+  ]
+}

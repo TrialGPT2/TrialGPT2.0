@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT04864886",
+  "title": "Metabolic Profiling of Immune Responses in Immune-mediated Diseases",
+  "brief_summary": "Background:\n\nThe immune system is the part of the body that fights infection. Some people have immune deficiencies that cause skin rashes, make them get sick often with infections, or make it difficult for their skin to heal. Researchers want to learn more to better treat conditions that affect immune response.\n\nObjective:\n\nTo learn about how the immune system and skin healing are related to each other.\n\nEligibility:\n\nPeople ages 18-75 with primary immune deficiency, eczema, or psoriasis. Healthy volunteers are also needed.\n\nDesign:\n\nParticipants will be screened with a medical and medicine history and a physical exam. They may take a pregnancy test.\n\nParticipants will discuss the medicines or supplements they take as well as skin products they use, such as soaps and lotions.\n\nParticipants will have up to 4 skin biopsies taken from the forearm. A needle will inject an anesthetic into the skin where the biopsy will be done. A sharp tool that looks like a tiny cookie cutter will be used to remove a round plug of skin a bit smaller than the tip of a pencil.\n\nParticipants will give at least 1 blood sample.\n\nParticipants may have optional skin swab collection. A cotton swab will be used to swab the skin on the arm.\n\nParticipants may have optional skin tape collection. A sticky strip of tape will be placed on the arm and then removed.\n\nParticipants may give leftover samples taken as part of their regular medical care.\n\nParticipation will last for about 4 days. Participants will have 2 visits that each last about 1 hour. They may be asked to repeat the study in the future.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Meets one of the following:\n\n   1. Has documentation of PID confirmed by genetic evaluation demonstrating a deleterious variant in the gene (or genes) known to be associated with immune deficiency (confirmed PID); or\n   2. Has documented variant of undetermined significance in a gene (or genes) that is predicted to be deleterious in immune function by the investigators OR a clinical history of infections which are more frequent, more chronic, or more severe than normal (suspected PID); or\n   3. Has physician-diagnosed psoriasis; or\n   4. Has physician-diagnosed AD; or\n   5. Does not have clinically apparent evidence of any monogenic or digenic immune defect, AD, or psoriasis (healthy volunteers).\n2. Aged 18 to 75 years.\n3. Willing to allow storage of blood, biopsy tissue, bacterial and fungal cultures, and any other samples collected for future research.\n4. Able to provide informed consent.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Current or prior (within 3 months) anticoagulant or anti-platelet therapy (other than aspirin or non-steroidal anti-inflammatory drugs).\n2. Current or prior (within 3 months) use of immunomodulatory drugs (eg, chemotherapy, steroids), except if approved by the principal investigator.\n3. History of keloid formation.\n4. Pregnancy, lactating, or breastfeeding.\n5. Any condition that, in the opinion of the investigator, contraindicates participation in the study.\n\nCo-enrollment guidelines: Participants may be co-enrolled in other studies; however, study staff should be notified of co-enrollment.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy volunteers will be recruited through the Clinical Research Volunteer Program. We anticipate that most patient participants will be existing CC participants referred from ongoing NIH protocols;they may also be self-referred through their own initiative or referred by outside physicians.",
+  "condition": [
+    "Primary Immunodeficiency",
+    "Psoriasis",
+    "Atopic Dermatitis",
+    "Immune-mediated Diseases"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational study enrolling adults with primary immune deficiency, eczema, psoriasis, or healthy volunteers. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference prior systemic therapy for advanced disease, and there are no restrictions or requirements regarding lines of therapy. Both treatment-naïve and previously treated patients may be eligible, but this is not specified."
+    }
+  ]
+}

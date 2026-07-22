@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT05419037",
+  "title": "Natural History of Pregnancy and Pregnancy Outcomes in Metreleptin-Treated vs Untreated Subjects With Lipodystrophy",
+  "brief_summary": "Background:\n\nLipodystrophy is a health problem in which the body does not have enough fat tissue. People with lipodystrophy may not make enough of the hormone leptin. Leptin regulates hunger. Low leptin levels trigger hunger. People with lipodystrophy can have many health problems. They may take a drug (metreleptin) that mimics leptin. Little is known about how taking metreleptin may affect a pregnancy. Metreleptin may be helpful or harmful to pregnant women. It may also affect the health of the child who is born.\n\nObjective:\n\nThis natural history study will collect data about the effects of taking metreleptin while pregnant.\n\nEligibility:\n\nWomen aged 18 years or older with lipodystrophy who have been pregnant. Women who did and who did not take metreleptin during their pregnancies are needed. Children of women with lipodystrophy who took this drug during pregnancy are also needed.\n\nDesign:\n\nParticipants will have 1 study visit. This visit may be by phone, by telehealth, or in-person.\n\nParticipants will answer questions about their pregnancies.\n\nThey will discuss any health problems they had.\n\nThey will be asked about any medicines they took before and during their pregnancies.\n\nThey will be asked about the health of their children.\n\nParticipants medical records will be reviewed.\n\nParticipants may need to provide a blood sample. They may also be asked to provide a sample of breastmilk.\n\nParticipants children may also be asked to provide a blood sample....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Women with lipodystrophy who had pregnancies with or without use of metreleptin:\n\n  * Female, aged \\>= 18 years\n  * Clinical diagnosis of non-HIV associated generalized or partial lipodystrophy\n  * History of one or more pregnancies\n* Offspring of women with lipodystrophy who had pregnancies while taking metreleptin:\n\n  * Males or females aged \\>=1 month\n  * Mothers took metreleptin during their pregnancy\n  * Availability of a biobanked blood specimen or willingness to provide a blood specimen\n\nNote that subjects treated with metreleptin during pregnancy may participate in this study regardless of the participation of their offspring.\n\nEXCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must not meet any of the following criteria:\n\n* Inability of subject or guardian to understand or the unwillingness to sign a written informed consent document (except as noted below with \\*)\n* Pregnancy.\n\n  * Subjects who otherwise meet inclusion/exclusion criteria but who are not reachable to obtain informed consent may be included under a waiver of consent.",
+  "minimum_age": "6 Months",
+  "maximum_age": "98 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Women who were pregnant while taking metreleptin and their off-spring will be evaluated.",
+  "condition": [
+    "Lipodystrophy"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study of women with lipodystrophy who have been pregnant, including those who did and did not receive metreleptin during pregnancy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on history of pregnancy and lipodystrophy diagnosis, with or without metreleptin exposure; there are no criteria regarding prior systemic therapy for advanced/metastatic disease. The protocol does not mention lines of therapy for advanced disease, so line-of-therapy intent cannot be determined."
+    }
+  ]
+}

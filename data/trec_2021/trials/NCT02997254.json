@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02997254",
+  "title": "COMparison of Physiological Algorithms for Real-time Evaluation of Atrial Fibrillation",
+  "brief_summary": "This is a cohort study to evaluate algorithms for mapping atrial fibrillation by mapping atrial structure and mapping electrical activity to detect physiologically important areas.\n\nA key innovation of the observation study is to assess tracking of physiological activity in AF, in relation to tissue activity (MAP recordings), and in relation to AF waves of activity.\n\nThis observational work extends prior studies that focused on focal and rotational activity, dispersion of electrical activity, low voltage activity and others.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* aged 21-80 yrs who underwent electrophysiology study for ablation of Atrial Fibrillation\n\nExclusion Criteria:\n\n* Poor data quality of recordings of AF",
+  "minimum_age": "21 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The investigators will study adults aged 21-90 years who have undergone electrophysiology study for ablation of Atrial Fibrillation. De-identified datasets will be made available for comparisons of mapping approaches.",
+  "condition": [
+    "Atrial Fibrillation",
+    "Abnormal Heart Rhythms"
+  ],
+  "overall_status": "RECRUITING"
+}

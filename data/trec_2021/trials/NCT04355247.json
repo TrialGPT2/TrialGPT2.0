@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04355247",
+  "title": "Prophylactic Corticosteroid to Prevent COVID-19 Cytokine Storm",
+  "brief_summary": "This is a Phase II pilot exploratory study designed to investigate if prophylactic treatment with short term steroids administered to high risk Covid-19 patient might prevent cytokine storm and progression to respiratory failure. High risk is defined based on serologic markers of inflammation that include abnormalities of Interleukin 6 (IL-6), Ferritin , D-dimer, Lactate Dehydrogenase (LDH), as well as lymphopenia and impaired O2 saturation prior to or on the 7th day of first symptom of Covid-19.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* All patients diagnosed with Covid-19 will be registered on the study regardless pf their severity, but only those who meet high risk criteria will be treated with steroids. Those who don't meet the criteria will only be registered with no need to collect further data except baseline labs and CT Chest. They should sign the consent form and the data manager can collect the rest of the information.\n* Patients older than 18 years diagnosed with Covid-19 by Polymerase Chain Reaction (PCR) or by rapid serological test will be eligible. Cases who are Immunoglobulin G (IgG) positive but Immunoglobulin M (IgM) negative, will not be considered eligible unless they are positive for molecular PCR test. Eligible patients will be registered on study on or before 7 days from first onset of symptoms.\n\nExclusion Criteria:\n\n* Any patient with life expectancy \\< 1 month\n* Any patient who is oxygen dependent\n* Any patient with long standing history of severe Chronic Obstructive Pulmonary Disease (COPD)\n* Any patient who is chronically oxygen dependent because of previous existing lung disease\n* Anyone with severely uncontrolled diabetes despite adequate management\n* Anyone with active serious bacterial infection such as septicemia or pneumonia\n* Anyone receiving Tocilizumab (anti IL-6 therapy) or plasma therapy\n* Any patient already receiving steroids from another pre-existing illness",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid-19"
+  ],
+  "overall_status": "UNKNOWN"
+}

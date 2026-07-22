@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT02973282",
+  "title": "Diagnosing Respiratory Disease in Children Using Cough Sounds",
+  "brief_summary": "The purpose of this prospective study is to evaluate the efficacy of the ResAppDx software application in diagnosis of pneumonia and other respiratory conditions (bronchiolitis, asthma/reactive airway disease, croup, upper or lower respiratory tract infections) in infants and children. Patient's cough sounds will be recorded using a smartphone and analysed using the ResAppDx software. The ResAppDx diagnosis will be compared to radiologic diagnosis and/or clinical diagnosis. The ResAppDx diagnosis will not be provided to the clinician or patient.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Infant or child aged 29 days - 12 years\n* Presenting to the study site with signs or symptoms of respiratory disease including cough, wheezing, stridor, chest in-drawing/retractions, difficulty breathing, fast breathing, abnormal lung sounds on exam, cyanosis/hypoxemia.\n* Coughing spontaneously or able to cough voluntarily\n\nExclusion Criteria:\n\n* Lack of a signed consent form from parent or legal guardian\n* Lack of signed assent form for children aged 7 years or older who, in the opinion of the investigator, is able to provide assent based on their age, maturity or psychological state.\n* Need for mechanical ventilatory support (including invasive, continuous positive airway pressure, or bilevel positive airway pressure) or high flow nasal cannula\n* Any medical contraindication to voluntary cough, including (only enrolled if coughing spontaneously): severe respiratory distress, history of pneumothorax, eye/chest/abdominal surgery in past 3 months, hemoptysis in the past month, or too medically unstable to participate in study per treating clinician.\n* Subject previously enrolled\n* Tracheostomy present or tube placed",
+  "minimum_age": "29 Days",
+  "maximum_age": "12 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with signs or symptoms of respiratory disease presenting to participating Emergency Departments, Urgent Care Clinics, Primary Care Clinics",
+  "condition": [
+    "Pneumonia",
+    "Bronchiolitis",
+    "Asthma",
+    "Croup",
+    "Upper Respiratory Tract Infection",
+    "Lower Respiratory Tract Infection",
+    "Reactive Airway Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

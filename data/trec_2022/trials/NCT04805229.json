@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04805229",
+  "title": "A Difference-In-Differences Analysis of New Persistent Opioid Use After Surgery",
+  "brief_summary": "The Michigan Opioid Prescribing and Engagement Network (M-OPEN) was established in 2016 with the goal of reducing excessive opioid prescribing after surgery using evidence-based prescribing guidelines. Beginning in July 2016, M-OPEN began a statewide quality improvement campaign to educate providers and share prescribing best practices. This retrospective study examines the effect of these efforts on new persistent opioid use after surgery compared to other states where no such program existed using a difference-in-differences approach.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patients (18 years and older)\n* Patients undergoing one of the following procedures: laparoscopic cholecystectomy, laparoscopic appendectomy, minor hernia repair (including laparoscopic or open inguinal, femoral, umbilical, and epigastric hernia repair), open and laparoscopic ventral/incisional hernia repair, laparoscopic colectomy, open colectomy, vaginal hysterectomy, laparoscopic hysterectomy, and open abdominal hysterectomy\n* Patients who underwent surgery between January 1, 2013 and December 31, 2019\n\nExclusion Criteria:\n\n* Patients who are not opioid-naive at the time of surgery, defined as filling 1 or more opioid prescriptions between the 12 months to 31 days prior to surgery\n* Patients without continuous insurance enrollment for at least 12 months before and at least 6 months after the date of surgery\n* Patients still in the hospital on postoperative day 30\n* Patients not discharged home after surgery\n* Patients who underwent another surgery within 6 months of their index operation",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Data for this study will be obtained from the Truven Health MarketScan database, which is a national data set of employer-based insurance claims. Patients in the database who underwent one of the eligible procedures will be identified using Current Procedural Terminology codes that correspond to the specific operations under analysis.",
+  "condition": [
+    "Opioid Use"
+  ],
+  "overall_status": "COMPLETED"
+}

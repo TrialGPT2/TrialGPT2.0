@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00442195",
+  "title": "Collection and Analysis of Blood, Bone Marrow, and Buccal Mucosa Samples From Healthy Volunteers",
+  "brief_summary": "The Hematology Branch of the National Heart, Lung, and Blood Institute is doing a variety of laboratory research experiments that require blood and tissue samples from healthy volunteers. This protocol provides a mechanism for collecting these tissue samples. Research includes studies of normal and abnormal formation of blood cells, viral blood diseases, the role of the immune system in marrow failure and genetic risk factors for aplastic anemia.\n\nHealthy normal volunteers 8 years of age and older may be eligible for this study. Samples are collected as follows:\n\n* Blood samples: Participants 8 years of age and older donate up to 4 tablespoons of blood, which is obtained from a needle placed in an arm vein.\n* Participants 8 years of age and older donate a buccal mucosa sample (cells from the inside of the cheek). The inside of the cheek is scraped gently with a nylon brush.\n* Participants 18 years of age and older donate a bone marrow sample. The bone marrow is obtained from the hip bone. The skin over the area is wiped clean with alcohol and iodine, and then a local anesthetic is injected under the skin and also into the bone. When the area is numb, a bone marrow aspiration needle is introduced through the bone surface into the marrow. The marrow cells are collected using a syringe connected to the needle.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nSelf-declared healthy volunteer (for blood and buccal mucosa sample donors).\n\nBe healthy, as determined by Principal Investigator or designee based on recent (\\<3 months) history, physical and laboratory results (for bone marrow and skin tissue sample donors).\n\n\\<TAB\\>\\<TAB\\>\\<TAB\\>\\<TAB\\>\\<TAB\\>\n\nAge 8 years and older (no upper limit) for blood and buccal mucosa sampling.\n\nOR\n\nAges 18 years or older (no upper limit) for bone marrow or skin tissue sampling.\n\nEXCLUSION CRITERIA:\n\nUnable to comprehend the investigational nature of the protocol participation.\n\nCBC determined outside expected normal ranges for the subject (bone marrow and skin tissue donors only).\n\nPregnancy\n\nAge less than 18 years for skin tissue sampling, bone marrow aspirate and biopsy.\n\nOff campus volunteers for skin tissue sampling bone marrow aspirate and biopsy.",
+  "minimum_age": "8 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy Volunteers",
+  "condition": [
+    "Healthy Volunteers"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a biospecimen collection study enrolling only healthy volunteers with no history of cancer or systemic therapy. There is no line-of-therapy intent as no cancer patients are included.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls only healthy volunteers with no mention of cancer or prior systemic therapy. There is no relevance of line-of-therapy for advanced disease in this protocol."
+    }
+  ]
+}

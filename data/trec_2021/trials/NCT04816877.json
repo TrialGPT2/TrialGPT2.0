@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04816877",
+  "title": "Use of Patient-Controlled Analgesia in Acute Pancreatitis",
+  "brief_summary": "Acute pancreatitis (AP) represents a critical health concern nationwide, with estimated 274,000 admissions annually and at a cost of 2.6 billion dollars. Current treatment strategies for AP are limited to supportive care with fluid resuscitation, analgesia, nutrition and prevention of end organ damage. Abdominal pain is often the predominant symptom in patients with AP and is treated with analgesics. As there is currently no disease-specific medical treatment to change the natural history of pancreatitis, pain control remains central to the treatment of AP. Among the analgesics, opioids have been shown to be provide safe and effective pain control in patients with AP. Current literature shows that there is no difference in the risk of pancreatitis complications or clinically serious adverse events between opioids and other analgesia options. Among hospitalized AP patients, adequate pain control often requires the use of intravenous (IV) opiates in the first 24-48 hours, which can later be transitioned to oral (PO) opioids. While there are various methods of delivering opioid medications such as IV, PO, and transdermal to name a few, IV opioids are commonly administered, either on a scheduled and/or on an as needed (PRN) basis as directed by the attending physician. In contrast to the conventional, method of physician directed IV opioid delivery, patient-controlled analgesia (PCA) is a form of IV opioid medication delivery in which the patient can rapidly titrate the opioid dose to manage variable levels of pain. This modality of opioid administration is often preferred by patients and has been widely used in postsurgical and obstetric patients to effectively treat their pain. PCA allows for faster intervention on pain limiting time to treatment and peak pain levels and has also been shown to decrease total opioid dose. However, there is limited evidence in published literature assessing the feasibility of using PCA to treat the pain of AP or comparing its efficacy and safety profile compared to the more traditional physician directed analgesia. One retrospective study has shown that use of PCA was surprisingly associated with longer hospital stays and higher rates of outpatient opioid use when compared to routine physician-directed analgesia (PDA), however there are no prospective trials to study this comparison. Hence, in this study, the investigators will compare the effects of using PCA among patients with AP to that of conventional PDA.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosis of acute pancreatitis confirmed by revised Atlanta criteria\n* Admitted to the medical floor within 48 hours of emergency department arrival at Beth Israel Deaconess Medical Center (BIDMC) in Boston, Massachusetts.\n* Age 18-65\n\nExclusion Criteria:\n\n* Active illicit drug use\n* Discharged from the emergency department\n* Direct admission to ICU from emergency department\n* Known allergy to opioid medications\n* Age \\<18 or \\>65\n* Known chronic pain syndrome or concurrent other medical condition with chronic pain\n* Active encephalopathy/confusion/delirium/psychiatric illness or any other condition that limits capacity\n* Known chronic opioid use\n* Renal insufficiency (baseline Creatinine of \\>2 and/or acute kidney injury with Creatinine\\>3 on admission)\n* Known allergy to acetaminophen or hepatic dysfunction otherwise limiting acetaminophen use",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients diagnosed with acute pancreatitis who are admitted to our hospital (BIDMC) and meet above mentioned inclusion criteria will be enrolled in the study.",
+  "condition": [
+    "Acute Pancreatitis"
+  ],
+  "overall_status": "TERMINATED"
+}

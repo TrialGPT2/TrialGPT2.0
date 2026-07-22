@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03942861",
+  "title": "Sonographic Assessment in Severe Ulcerative Colitis Patients Admitted for Intravenous Corticosteroids and Eligible for Infliximab Rescue Therapy; a Prospective Clinician-blinded Observational Study Protocol.",
+  "brief_summary": "Introduction Acute severe ulcerative colitis (ASUC) occurs in 15-25 % of all ulcerative colitis (UC) patients. Initial treatment with intravenous corticosteroids fails in 30-50 % of patients, for whom the next line of treatment is biological therapy or colectomy. Acute colectomy has a higher risk of morbidity and mortality than a scheduled colectomy. Data suggest that an accelerated administration of biological treatment in corticosteroid non-responders compared to clinical practice, 5-7 days with intravenous corticosteroids, may be superior in inducing disease remission, thus potentially avoiding acute colectomy. However, there are currently no patient friendly and objective diagnostic tool to preselect patients for such a treatment. The aim of this study is to examine if gastrointestinal ultrasound (GIUS) could preselect corticosteroid non-responders to biological treatment after 48 hours to increase effectiveness of the second line therapy and thereby reduce the morbidity and mortality of ASUC.\n\nMethods and analysis The study is a clinician blinded observational multi-center study derived from the Department of Gastroenterology, Herlev Hospital, Denmark. Fifty ASUC patients will be included at the time of hospitalization and followed for 12 months. Baseline clinical activity scores, endoscopic scores, blood samples, fecal-calprotectin, vital parameters and GIUS measurements will be obtained prior to administration of intravenous corticosteroids. All examinations except fecal-calprotectin and endoscopy will be repeated at 48 \u00b1 24 hours, 5-7 days and 3 months after treatment start. Endoscopic scores and fecal-calprotectin will be obtained after 3 months and an additional fecal-calprotectin after 6 \u00b1 1 days. Treatment outcome will be registered at each event and after 12 months. Patients will be divided into corticosteroid responders and non-responders and compared to GIUS measurements at each event using non-parametric statistics (Mann-Whitney and Wilcoxon test) and time to endpoints by survival statistics (Kaplan Meier). ROC statistics will determine the best cutoff values for GIUS parameters for optimal sensitivity, specificity and accuracy.\n\nEthics and dissemination The study is approved by the National committee on health research ethics (H-18031264). Results will be published in relevant scientific journals and presented at international conferences. Fully anonymized data will be accessible from authors upon request.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Definitive diagnoses of Ulcerative colitis.\n* Mayo clinical score \u22658.\n* Need for Hospitalization and intravenous corticosteroid treatment.\n* Age between 18-70.\n* Ability and willingness to give written consent and comply with study protocol.\n\nExclusion Criteria:\n\n* Contraindicators for infliximab.\n* Bowel infection.\n* Crohn's disease.\n* Ultrasonographic inflammation in terminal ileum other than backwash ileitis.\n* Bowel wall thickness \\<3 in Sigmoid colon.\n* Minors.\n* Known malignant disease.\n* Pregnancy.\n* Immune modulating therapy at admission apart from corticosteroids, mesalazine or azathioprine.\n\nContraindicators = Patients suffering from moderate to severe heart failure, hypersensitivity to murine proteins, severe bacterial infection.",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Consecutive patients admitted as in-patients to the Department of Gastroenterology at four University Hospitals in Denmark, with ASUC defined as an affirmed diagnosis of UC according to well established criteria, combined with a Mayo score of 8 or more (i.e. severe disease activity) and the need for intravenous corticosteroid treatment will be screened for participation in the study after informed consent.",
+  "condition": [
+    "Ulcerative Colitis",
+    "Ultrasound Therapy; Complications"
+  ],
+  "overall_status": "UNKNOWN"
+}

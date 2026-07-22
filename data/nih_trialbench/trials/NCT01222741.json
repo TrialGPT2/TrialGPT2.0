@@ -1,0 +1,49 @@
+{
+  "nctid": "NCT01222741",
+  "title": "Studies of Disorders With Increased Susceptibility to Fungal Infections",
+  "brief_summary": "Background:\n\n\\- Researchers are interested in studying disorders that make individuals more susceptible to fungal infections, specifically infections with the Candida yeast. These disorders are often related to problems with the immune system and may have genetic factors, which suggests that researchers should study not only the individual with the disorder, but also his or her first- and second-degree relatives (such as parents, siblings, children, and first cousins). To provide material for future research, individuals with immune disorders and their first- and second-degree relatives will be asked to provide blood and other samples for testing and comparison with samples taken from healthy volunteers with no history of immune disorders.\n\nObjectives:\n\n\\- To collect blood and other biological samples to study immune disorders that make individuals more susceptible to fungal infections.\n\nEligibility:\n\n* Individuals of any age who have abnormal immune function characterized by recurrent or unusual fungal infections, recurrent or chronic inflammation, or other types of immune dysfunction.\n* First- or second-degree genetically related family members (limited to mother, father, siblings, grandparents, children, aunts, uncles, and first cousins).\n* Healthy volunteers at least 18 years of age (for comparison purposes).\n\nDesign:\n\n* Participants will provide blood samples and buccal (cells from the inside of the mouth near the cheek) samples.\n* Participants with immune disorders will also be asked to provide urine samples, saliva or mucosal samples, or skin tissue biopsies, and may also have imaging studies (such as x-rays) to collect information for research.\n* Samples may be collected at the National Institutes of Health or at other clinical locations for the samples to the sent to the National Institutes of Health.\n* No treatment will be provided as part of this protocol.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPatients\n\nTo be eligible to participate in this study as a patient, an individual must meet the following criteria:\n\n* Be 2 years of age to be seen at the Clinical Center as an outpatient. Children \\<=3 years of age must not have severe infections, as assessed by the investigator, to be seen at the Clinical Center. Send-in samples may be submitted by participants \\>30 days of age.\n* Have an abnormality of immune function as manifested by recurrent or unusual fungal infections, recurrent or chronic inflammation, or previous laboratory evidence of immune dysfunction. Of particular focus of this study are patients with:\n\n  * APECED\n  * CMC\n  * MPO\n  * IPEX\n  * Hyper-immunoglobulin E syndrome (Job s syndrome)\n  * CGD\n  * Biotinidase deficiency\n  * IKAROS defects\n  * AIOLOS defects\n  * IRF4 defects\n  * Other conditions showing increased susceptibility to such infections as described in infants and type 1 diabetic patients\n* Have a primary physician outside of the NIH.\n* Agree to have blood stored for future research.\n* Ability of subject or Legally Authorized Representative (LAR) to understand and the willingness to sign a written informed consent document.\n\nRelatives\n\nTo be eligible to participate in this study as a relative, an individual must meet the following criteria:\n\n* Be 2 years of age to be seen at the Clinical Center as an outpatient. Children \\<=3 years of age must not have severe infections, as assessed by the investigator, to be seen at the Clinical Center. Send-in samples may be submitted for participants \\>30 days of age.\n* Be a mother, father, sibling, child, grandparent, aunt, uncle, or first cousin to a patient participant.\n* Adult relatives must be able to provide informed consent.\n* Agree to have blood stored for future research.\n\nHealthy volunteers\n\nTo be eligible to participate in this study as a healthy volunteer, an individual must meet the following criteria:\n\n* Be 18 to 85 years old.\n* Have a hemoglobin count of \\>11 g/dL.\n* Weigh \\>=110 pounds.\n* Be able to provide informed consent.\n* Be willing to have blood stored for future research.\n\nEXCLUSION CRITERIA:\n\nPatients and Relatives\n\nIn general, there are no strict exclusion criteria for these cohorts. However, the presence of certain types of acquired abnormalities of immunity solely due to HIV, chemotherapeutic agent(s), or an underlying malignancy could be grounds for possible exclusion for a patient or relative. In the opinion of the investigator, the presence of such disease processes may interfere with evaluation of a co-existing abnormality of immunity that is the subject of study under this protocol. Pregnant females will not be allowed to participate in any procedure that may be dangerous to the pregnancy or the fetus.\n\nHealthy volunteers\n\nAn individual who meets any of the following criteria will be excluded from participation as a healthy volunteer in this study:\n\n* Is receiving chemotherapeutic agent(s) or has an underlying malignancy.\n* Is pregnant.\n* Has a history of heart, lung, or kidney disease, or bleeding disorders.\n* Has HIV or viral hepatitis (B or C), or history of viral hepatitis B or C since age 11.",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "patients with primary immune deficiencies, their first and second-degree blood relatives (relatives), and individuals with other conditions that result in increased susceptibility to Candida spp. infections. This study will also include healthy volunteer adults as a source of control samples.",
+  "condition": [
+    "Fungal Infections",
+    "Primary Immune Deficiencies"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-treatment, observational study enrolling patients with immune disorders predisposing to fungal infections, their relatives, and healthy volunteers. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Patients",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls patients with immune disorders and increased susceptibility to fungal infections, regardless of prior systemic therapy history. There is no mention of prior lines of therapy for advanced disease in the eligibility criteria."
+    },
+    {
+      "cohort_label": "Relatives",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Relatives of patients are enrolled for sample collection without any reference to prior systemic therapy or cancer history. Line-of-therapy intent is not applicable."
+    },
+    {
+      "cohort_label": "Healthy volunteers",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Healthy volunteers are enrolled for comparison and must not have underlying malignancy or be receiving chemotherapy. There are no requirements or restrictions regarding prior lines of therapy for advanced disease."
+    }
+  ]
+}

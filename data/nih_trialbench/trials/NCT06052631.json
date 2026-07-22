@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT06052631",
+  "title": "Microneurographic Assessment of Peripheral Nerves in Healthy Volunteers and Individuals With Sensory Dysfunction Caused by Inherited Mutations in the PIEZO2 Gene",
+  "brief_summary": "Background:\n\nPIEZO2 Deficiency Syndrome (PDS) is a genetic disorder that affects a person s ability to feel touches and pain. Researchers want to know more about how PDS changes nerve function.\n\nObjective:\n\nTo compare nerve function in people with PDS to that in people without PDS.\n\nEligibility:\n\nPeople aged 18 years and older with PDS enrolled in protocol 16-AT-0077. Healthy volunteers are also needed.\n\nDesign:\n\nParticipants will have at least 1 clinic visit. They will undergo a test that measures activity in the nerves.\n\nFor the test:\n\nParticipants will place their arm or leg in a comfortable position.\n\nUltrasound will be used to locate nerves. A smooth wand will be slid over the skin to capture images of the structures below.\n\nTwo thin needles will be inserted through the skin. These needles are much smaller than the kind used to draw blood.\n\nThe needles will record nerve activity as different sensations are applied to the skin. These include mild electrical pulses; heat and cold; bending of the knee or elbow; vibration; air puffs; pulling a hair; and tapping, stroking (brushing), stretching, pinching, and pushing on the skin at different levels of force.\n\nEach test takes 5 to 10 minutes. Participants will describe the sensations they feel.\n\nParticipants may opt for an additional test that measures how nerves respond after heat pulses are used to create mild redness on the skin.\n\nResearchers would like at least 2 tests from each person. Participants may return for up to 3 additional visits, if desired, to complete all the testing.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\nAll Participants\n\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Male or female, aged 18 years and over.\n* The ability to provide written informed consent.\n* Enrolled in 16-AT-0077, \"Clinical and Scientific Assessment of Pain and Painful Disorders\".\n\nPDS Patients\n\n-Clinical and genetic diagnosis of PIEZO2-LOF.\n\nHealthy participants\n\n-In good general health as evidenced by medical evaluation under 16-AT-0077.\n\nEXCLUSION CRITERIA:\n\nAll Participants:\n\n* Difficulties with communication that make subjective innocuous and pain assessments impossible or unreliable.\n* Unable to comply with study procedures or visits.\n* Has a dermatological condition that might influence cutaneous sensitivity.\n* Congenital limb deficiency or amputation of any limb.\n* Prior history of syncope.\n* Peripheral neuropathy or current chronic pain condition or has had chronic pain in the past year (painful condition lasting more than six months), including ongoing treatment with medications for neuropathic pain (e.g. gabapentin, tricyclic antidepressants, pregabalin, tramadol).\n* Has a major medical condition, such as kidney, liver, cardiovascular, autonomic, pulmonary, or neurological problems (e.g., epilepsy) or a chronic systemic disease (e.g., diabetes), or Raynaud's Disease.\n* Current and untreated diagnosis of depression, post-traumatic stress, syndrome, bipolar disorder, psychosis, anxiety or panic disorder, alcohol or substance use disorders.\n* Pregnant (verbal confirmation) or breastfeeding.\n* Are participating in other ongoing research protocols involving interventions that would interfere with somatosensation.\n* Employees or staff that work at NCCIH.\n* Adults who are unable to provide their own consent.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All participants will be screened and selected from an existing NCCIH protocol, 16-AT-0077. PDS participants will be referred to 16-AT-0077 for screening from an existing NINDS protocol, 12-N-0095.",
+  "condition": [
+    "PIEZO2-Deficiency Syndrome"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology observational study enrolling healthy volunteers and individuals with PIEZO2 Deficiency Syndrome (PDS) to assess peripheral nerve function. There is no systemic therapy for advanced disease involved or required for eligibility.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference any prior systemic therapy for advanced disease, as this is not an interventional oncology trial. No lines of therapy are specified or relevant to enrollment."
+    }
+  ]
+}

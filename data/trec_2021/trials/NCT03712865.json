@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03712865",
+  "title": "Thirty Day Heart Monitoring for Detection of Atrial Fibrillation Among Cryptogenic Stroke Patients",
+  "brief_summary": "The PROPhecy study aims to detect the presence of atrial fibrillation/flutter in patients who have suffered an embolic stroke of undetermined source (ESUS) using 30 day cardiac monitoring.\n\nWe hypothesize that the presence of any of the following features on long-term heart rhythm monitoring (holter monitoring) or heart ultrasound (transthoracic echocardiogram), either individually or in combination, will have additional predictive value for the detection of atrial fibrillation lasting 30 seconds or longer on 30 day holter monitoring:\n\n* greater than 100 premature atrial beats in 24 hours\n* greater than 2 runs of atrial tachycardia (4 or more non-sinus beats) in 24 hours\n* Left atrial enlargement on transthoracic echocardiogram",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 55 or over\n* Diagnosis of the index event made by a stroke specialist of an acute ischemic stroke or TIA (WHO definition) of undetermined etiology occurring within the previous 6 months (180 days). The event must be either:\n\n  1. An embolic arterial ischemic stroke confirmed by neuroimaging; or,\n  2. A clinical transient ischemic attack, defined as involving a focal unilateral motor deficit, speech/language deficit, or hemianopia, with symptom duration \\<24 hours (NOTE: amaurosis fugax/transient monocular blindness, pure sensory spells, isolated vertigo spells, etc. do not qualify for enrolment given the potential for misdiagnosis of such events).\n* No previous ECG or Holter monitor showing atrial fibrillation (AF) or atrial flutter\n* Informed consent from patient or legally authorized representative if patient is not competent due to stroke-related cognitive impairment, aphasia or anosognosia\n* Patient has undergone, as per standard of care, routine CT head, vascular imaging (CT angiogram or, if GFR \\<30 mL/min, carotid dopplers) and echocardiography is planned within 60 days of the index event. (NOTE: if echocardiogram has already been performed within one year prior to study enrolment, it may serve as the baseline echocardiogram for study purposes).\n* Patient is expected to survive at least 6 months\n\nExclusion Criteria:\n\n* Unable to participate in follow up in Vancouver\n* Atrial fibrillation/flutter by history or on holter, ECG or telemetry\n* Retinal stroke/TIA\n* Most responsible etiological diagnosis for the qualifying stroke/TIA event already determined, i.e. probable small-vessel (lacunar) disease, probable large-vessel disease, cervicocephalic artery dissection, venous sinus thrombosis, hypercoagulable states, or other known cause\n* Major-risk cardioembolic source on echocardiography (intracardiac thrombus, endocarditis, mechanical heart valve, rheumatic mitral valve disease OR Positive blood cultures at the time of the index event (i.e. more than 2 bottles at two sites or collected at different times positive for pathogen)\n* Planned carotid endarterectomy within the next 90 days\n* Concurrent indication for cardiac monitoring, pacemaker or implanted cardiac defibrillator\n* Known skin reactions to synthetic polymers, hydrogel or skin breakdown at the site for extended monitor application",
+  "minimum_age": "55 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population will include patients age 55 years and older who have had an embolic stroke of undetermined source (ESUS). Participants will be recruited from the stroke ward at Vancouver General Hospital (VGH) and the Stroke Prevention Clinic at VGH.",
+  "condition": [
+    "Embolic Stroke of Undetermined Source"
+  ],
+  "overall_status": "COMPLETED"
+}

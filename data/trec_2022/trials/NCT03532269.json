@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03532269",
+  "title": "Validation of the Sleep Assessment Algorithm in the Medical Application Nightly",
+  "brief_summary": "The Nightly medical application prototype is a potential, non-invasive class I medical device. The application has the potential to combine both diagnostic and therapeutic procedures for sleep. At home, Nightly measures the user's motion during sleep and then records the sleep pattern from the received data. The obtained data are then used for the diagnosis of sleep disorders (REM and NREM sleep). Using acoustic and visual stimulation, the application has the capability to support the natural process of falling asleep, provide a better night's sleep by minimizing sleep deprivation and nightmares, while awakening the user at the appropriate moment (during light sleep).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\nAny healthy individual who meets all the following criteria may be included in the study:\n\n1. Age 18 to 40 years.\n2. Signed Informed Consent Form for participation in the study\n3. No chronic illnesses (A medical interview will be conducted during the participants first visit)\n4. Does not take any medication chronically (According to the medical interview with the participants during the first visit)\n\nExclusion Criteria:\n\nA person who meets any one of the following criteria cannot be included in the study:\n\n1. Primary sleep disorders. (An in-depth medical interview during the first visit to be supplemented with: Holland Sleep Disorders Questionnaire which evaluates the risk of primary sleep disorders according to the International Classification of Sleep Disorders (ICSD-3), Athens insomnia scale which assesses the risk of insomnia and the STOP-BANG scale, evaluates the risk for sleep apnea; a journal will also be kept noting dreams between the first and second visit.\n2. History of cancer or active cancer.\n3. Disorders of the nervous system (e.g. epilepsy, migraine).\n4. Mental disorders (e.g. depression, bipolar disorder, schizophrenia).\n5. Active infection during the study. (Medical history, body temperature measurement and physical examination)\n6. Consuming within 12 hours preceding the sleep examination: coffee, caffeinated teas or other beverages containing caffeine, caffeine, or other stimulants.\n7. Consuming alcohol on the day of the examination.\n8. Pregnancy and lactation (based on the patient's own declaration, pregnancy test is not planned prior to the examination).\n9. Any contraindications to participate in the examination in the Investigator's opinion.",
+  "minimum_age": "18 Years",
+  "maximum_age": "40 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sleep Disorder",
+    "Nightmare"
+  ],
+  "overall_status": "COMPLETED"
+}

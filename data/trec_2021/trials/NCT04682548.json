@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04682548",
+  "title": "Estimating Prevalence of COVID-19 Infection and SARS-CoV-2 Antibodies in MS Patients",
+  "brief_summary": "This non-interventional, biospecimen collection study is designed to help us better understand whether MS patients have impaired immune defenses to COVID-19 infection. The potential influence of immune modulating medications for MS will be considered through these exploratory studies. This study is also designed to provide context for interpretation of anti-SARS CoV2 serologies in MS patients during convalescence from COVID-19 infection.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria (Part A and B):\n\n\u25cf Patient is outside of infectious period of COVID-19 defined as follows:\n\n* Patient with mild to moderate illness who are not severely immunocompromised:\n\n  * At least 10 days have passed since symptoms first appeared and\n  * At least 24 hours have passed since last fever without the use of fever-reducing medications and\n  * Symptoms (e.g. cough, shortness of breath) have improved\n* Patient with severe to critical illness or who are severely immunocompromised:\n\n  * At least 10 days and up to 20 days have passed since symptoms first appeared\n  * At least 24 hours have passed since last fever without the use of fever-reducing medications and\n  * Symptoms (e.g. cough, shortness of breath) have improved\n\n    * Clinician-diagnosed MS treated or untreated with an approved DMT,\n    * Ages 18 to 60,\n    * EDSS 0 - 7,\n    * Able to give informed consent,\n    * Able to complete, or have someone help complete the patient questionnaire,\n    * No high dose steroids, or IVIG, or PLEX use within 3 months of blood sample,\n    * No convalescent plasma and/or polyclonal antibody treatments for COVID-19 within 3 months of blood sample collection.\n\nInclusion Criteria (Part B only)\n\n* COVID-19 positive patients, who received OCR within 6 months of COVID 19 infection,\n* EDSS 0 - 6.\n\nInclusion Critera (Redraws Only)\n\n* Completed standard of care COVID-19 vaccination series\n* On Ocrevus, glatiramer, interferon b, or not on any treatment disease-modifying treatment at the time of vaccination.\n\nExclusion Criteria (Part A and B):\n\n* Concurrent immunosuppressive therapy, active systemic cancer, primary or acquired immunodeficiency (i.e., CVID, HIV infection),\n* Active drug or alcohol abuse,\n* Other anti-CD20 therapy apart from OCR,\n* Uncontrolled diabetes mellitus,\n* End-organ failure (cardiac, pulmonary, renal, hepatic),\n* Systemic lupus erythematosus (SLE).\n\nExclusion Criteria (Part B only):\n\n* EDSS \\>6,\n* Active infection (e.g., hepatitis).\n\nExclusion Criteria (Healthy Controls Sample)\n\n* Concurrent immunosuppressive therapy, active systemic cancer, primary or acquired immunodeficiency (e.g. CVID, HIV infection),\n* Active ongoing drug or alcohol abuse,\n* Age \\>60 or \\<18,\n* Uncontrolled diabetes mellitus,\n* End-organ failure (cardiac, pulmonary, renal, hepatic),\n* SLE\n* No high dose steroids, or intravenous immunoglobulin (IVIG) or plasma exchange (PLEX) use within 3 months of blood sample collection,\n* No convalescent plasma and/or polyclonal antibody treatments for COVID-19 within 3 months of blood sample collection.",
+  "minimum_age": "18 Years",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Projected study size is 1000 MS patients for primary objective and additional 40 non-autoimmune COVID-19 convalescent control and 20 COVID-19 negative healthy controls.",
+  "condition": [
+    "Multiple Sclerosis",
+    "Covid19"
+  ],
+  "overall_status": "COMPLETED"
+}

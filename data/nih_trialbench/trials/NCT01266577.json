@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT01266577",
+  "title": "Development of Magnetic Resonance Spectroscopic Imaging Techniques for Imaging Metabolites in Human Brain and Muscle",
+  "brief_summary": "Background:\n\n\\- Magnetic resonance imaging (MRI) is a widely used scanning technique to obtain images of the human body and evaluate activity in the brain. A particular MRI method called magnetic resonance spectroscopy (MRS) can be used to study brain chemistry as well, which may help researchers who are studying new treatments for psychiatric illnesses. Researchers are interested in improving current MRI and MRS techniques, as well as developing new MRI and MRS techniques to view and measure brain chemicals and brain activity.\n\nObjectives:\n\n\\- To implement, develop, and optimize brain chemistry imaging techniques using magnetic resonance imaging and magnetic resonance spectroscopy.\n\nEligibility:\n\n\\- Healthy individuals between 18 and 65 years of age.\n\nDesign:\n\n* This study will involve a screening visit and a scanning visit at the National Institutes of Health Clinical Center.\n* Participants will be screened with a full medical and physical examination, blood and urine tests, and neurological testing.\n* During the second visit, participants will have an MRI scan of the brain. (Participants who have received an MRI within the past year will not need to have a second one; the images of the previous scan will be used for this study.) All participants will then have an MRS scan using the same scanning equipment.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* 18-65 years of age\n* able to give written informed consent\n* healthy based on medical history and physical exam\n* enrolled in Protocol 01-M-0254 or Protocol 17-M-0181\n\nEXCLUSION CRITERIA:\n\n* Any current Axis 1 diagnosis\n* Clinically significant laboratory abnormalities\n* Positive HIV test\n* Metallic foreign bodies that would be affected by the magnetic resonance imaging (MRI) magnet, or fear of enclosed spaces likely to make the subject unable to undergo an MRI scan.\n* History of neurological illness or injury with the potential to affect study data interpretation, such as multiple sclerosis, Parkinson s disease, seizure disorder or traumatic brain injury\n* Inability to lie flat on camera bed for about two and a half hours\n* Pregnant or breastfeeding\n* Current substance use disorder based on DSM-5\n* NIMH employees and staff and their immediate family members will be excluded from the study per NIMH policy.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Brain Mapping",
+    "Healthy Volunteer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an imaging methodology study enrolling only healthy volunteers with no cancer diagnosis or treatment history. There is no line-of-therapy intent, as no cancer patients are included.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is restricted to healthy individuals with no mention of cancer or systemic therapy. No cancer patients or prior lines of therapy are relevant to this protocol."
+    }
+  ]
+}

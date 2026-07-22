@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT02034279",
+  "title": "The INFECIR-2 Albumin Prevention Study",
+  "brief_summary": "The aim of this study is to evaluate whether albumin administration improves short-term survival in patients with advanced cirrhosis and bacterial infections other than Spontaneous Bacterial Peritonitis (SBP).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Cirrhotic patients with age \u226518 years\n* Diagnosis of urinary infection, pneumonia, spontaneous or secondary bacteremia, skin/soft tissue infection, acute cholangitis or suspected bacterial infection at hospital admission or during hospitalization\n* Patients with uncomplicated urinary infections or suspected bacterial infection will require the presence of signs of systemic inflammation: at least 1 diagnostic criterion of systemic inflammatory response syndrome (SIRS) and serum CRP levels \u22651 mg/dl (10 mg/L). This criterion will not be required for the rest of infections\n* Analytical data of renal and/or liver dysfunction (serum creatinine \u2265 1.2 mg/dl, serum sodium \u2264 130 mEq/l, serum bilirubin \u22654 mg/dl). Patients with pneumonia or documented bacteremia (positive blood cultures) will require the presence of at least 1 of these analytical criteria to be included in the study. Patients with urinary infection, skin/soft tissue infection, acute cholangitis or suspected bacterial infection will require 2 or more criteria for inclusion\n\nExclusion Criteria:\n\n* \\> 72h after infection diagnosis\n* Pregnancy\n* Acute or subacute liver failure without underlying cirrhosis\n* Septic shock\n* Severe acute respiratory distress syndrome (Pa02/Fi02 \u2264 100)\n* Active or recent variceal bleeding unless controlled for \\> 48h\n* Ongoing type-1 HRS (past IAC criterion: serum creatinine \u2265 2.5 mg/dl)\n* Type-3 ACLF (defined according to the Canonic Study criteria)\n* Hemodialysis or other renal replacement therapy\n* Evidence of current malignancy (except for hepatocellular carcinoma within Milan criteria or non-melanocytic skin cancer)\n* Moderate or severe chronic heart (NYHA class II, III or IV) or pulmonary disease (GOLD IV)\n* Severe psychiatric disorders\n* Previous liver transplantation\n* HIV infection (except for patients under antiretroviral therapy with undetectable viral load, CD4\\>200/mm3 and no history of opportunistic infections diagnostic of AIDS)\n* Contraindications to albumin (allergy, signs of pulmonary edema)\n* Albumin administration (\u2265 80g) in the last 2 days\n* Spontaneous bacterial peritonitis coinfection\n* Use of any investigational drug within 90 days prior to randomization\n* Refusal to participate\n* Patients who cannot provide prior informed consent and when there is documented evidence that the patient has no legal surrogate decision maker and it appears unlikely that the patient will regain consciousness or sufficient ability to provide delayed informed consent\n* Physician and team not committed to intensive care if needed.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Advanced Chronic Liver Disease",
+    "Urinary Infection",
+    "Pneumonia",
+    "Cholangitis",
+    "Other Bacterial Diseases"
+  ],
+  "overall_status": "TERMINATED"
+}

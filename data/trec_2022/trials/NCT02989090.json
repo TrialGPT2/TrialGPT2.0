@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT02989090",
+  "title": "Electronic Patient Notification of Remote ICD Data: Impact of Patient Engagement on Outcomes in the Merlin.Net\u2122",
+  "brief_summary": "Remote monitoring of implantable cardioverter-defibrillators (ICDs) for patients has led to efficient, safe, and satisfying analysis of their device and cardiac status; resulting in an overall improvement in the quality of care for such patients. Despite the efficacy of remote monitoring of ICDs and the satisfaction of patients and providers with the process, there is a desire from patients to have access and view ability of the data their ICD is transmitting. However, methods for making ICD device data directly available to the patients are not currently in place. This study aims to elicit the impact of standardized remote monitoring ICD data to patients through an electronic personal health record (ePHR) on patient engagement, healthcare utilization, and patient-provider communication. For this study, patients with an ICD manufactured by St. Jude Medical and that are undergoing remote monitoring through the remote management system, Merlin.net\u2122, will receive a standardized format of their electronic remote monitoring ICD data in MyChart, the ePHR used at Parkview Health. The standard format for the electronic remote monitoring ICD data, as it is delivered to the patient, will be termed the ICD Patient Notification Summary. Additionally, provider attitudes and perceptions regarding the value of the Patient Notification Summary, its impact on clinic workflow, and patient-provider communication will be collected.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria:\n\n1. 18 years of age and older\n2. Physically and mentally capable of providing an informed consent\n3. Patient of PPG-Cardiology\n4. Implanted with a St. Jude Medical ICD\n5. Undergoing remote monitoring by the Merlin.net\u2122 system\n6. Ability to read, write and understand English\n7. Have access to computer and/or Internet (Group A and B only)\n8. Patient has a scheduled ICD download within the study period at the time of enrollment.\n\nExclusion Criteria:\n\n1. Does not meet inclusion criteria\n2. Unable to physically or cognitively carry out the tasks necessary for activating and/or utilizing an ePHR such as; blindness, loss of function of arms, cognitive impairments (per chart review) that would interfere in learning a new task\n3. Designated as part of a vulnerable subject population that the investigator or designee identifies to have compromised autonomy related to potential study participation\n4. Currently participating in another Parkview study that involves other ePHR use.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Implantable Cardioverter-Defibrillator",
+    "Health Information Exchange",
+    "Electronic Health Records",
+    "Patient Participation"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02786940",
+  "title": "Remote Cardiac Monitoring of Higher-Risk Emergency Department Syncope Patients After Discharge - A Pilot Study",
+  "brief_summary": "2-3% of emergency department (ED) syncope patients suffer arrhythmia/death within 30 days of disposition (either as an inpatient or at home) and we have recently developed the Canadian Syncope Risk Score (CSRS) to predict these outcomes. Currently, only Holter monitoring is used and is applied a few days later. New and innovative remote (out-of-hospital) external cardiac monitoring technology has made prolonged monitoring possible.\n\nThe primary objective is to compare diagnostic yield (identification of arrhythmia that requires treatment) for the following two strategies among higher-risk syncope patients discharged home from ED: 15-day external cardiac monitoring (intervention arm) versus 48-hour Holter monitor (control arm)\n\nMethods: The study will be a double-blind RCT comparing two different approaches for detecting serious arrhythmias among high-risk ED syncope patients who are discharged home. Cardiophone (live monitor) will be used for the intervention arm and the Mobile Cardiac Telemetry (MCT) device will be used for the control arm and both devices applied prior to ED discharge. For patient safety purposes and to ensure that the patients are similar in both arms, all of the study patients will be monitored for 15 days. MCT will function as a holder for the first 48 hours and this will be used to compare the diagnostic yield in the two study arms. After written informed consent, patients will be randomized 1:1 with allocation concealed by web-based randomization and stratified based on the total CSRS scores.\n\nData collection: patient demographics, medical history, score predictors, device data (failure, false alarms, duration worn), patient symptoms, and comfort. The primary outcome will be the diagnostic yield at 15 days in the two study arms and primary analysis will compare the diagnostic yield by intention to treat principle controlling for the stratification factor. Sample Size: 300 patients per arm (600 total) to detect a 10% difference in diagnostic yield between the arms.\n\nImpact: Our study will increase the early identification of patients with serious underlying arrhythmia by combining the CSRS risk tool with innovative remote monitoring technology.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Adult (age \u226518 years) patients with syncope\n2. High-risk as per the Canadian Syncope Risk Score (score \\> or =3)and being discharged home after ED physician or consultant assessment.\n\nExclusion Criteria:\n\n1. Syncope patients with a score \\<3\n2. Those who are hospitalized\n3. Previously enrolled.\n4. Loss of consciousness not related to syncope: prolonged loss of consciousness \\> 5 minutes\n5. Change in the mental status from baseline\n6. Patients with alcohol intoxication or illicit drug abuse, witnessed obvious seizure; or head trauma, i.e. trauma the initial event.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Syncope",
+    "Arrhythmia"
+  ],
+  "overall_status": "COMPLETED"
+}

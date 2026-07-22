@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT05669703",
+  "title": "NIMH Rhythms and Blues Study: A Prospective Natural History Study of Motor Activity, Mood States, and Bipolar Disorder",
+  "brief_summary": "Background:\n\nMood disorders, such as bipolar disorder, can have serious effects on a person s life. People with bipolar disorder are more likely to have heart disease and abuse substances. In this natural history study, researchers would like to learn more about the connection between exercise and mental health in people with and without mood disorders.\n\nObjective:\n\nTo better understand relationships among physical activity, sleep, and mental health.\n\nEligibility:\n\nPeople aged 12 to 60 years with a history of a mood disorder. Healthy spouses and relatives with no mood disorders are also needed.\n\nDesign:\n\nParticipants will be in the study up to 2 years.\n\nFor up to 20 days in a row, at 4 times during the study, participants will:\n\nComplete an electronic diary on their smartphone. Participants will answer questions about their mood, health, sleep, and daily activities.\n\nWear an activity monitor, like a wristwatch, that records how much they move.\n\nWear a light sensor, as a necklace, to record the amount of light in their environment.\n\nSome participants will do additional tests. Twice during the study, for 3 days in a row, they will:\n\nWear monitors to record their temperature, heart rate, and sleep.\n\nProvide saliva samples.\n\nComplete cognitive tasks on their smartphone.\n\nParticipants will visit the NIH clinic 2 times. They will have a physical exam, with blood and urine tests. They will wear a heart monitor. They will ride a stationary bike for 30 minutes. They may have an imaging scan.\n\nSome participants will stay overnight. They will go to sleep wearing a cap to measure their brain activity.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Stated willingness to comply with all study procedures and availability for the duration of the study\n2. Aged 12 and older\n3. Probands must have at least one first-degree relative agree to participate\n4. Affected probands must have a lifetime history of a mood disorder\n5. Unaffected probands must have no lifetime history of a mood disorder\n6. In good general health as evidenced by medical history\n7. Agreement to adhere to Lifestyle Considerations throughout study duration\n8. Ability of subject (or Legally Authorized Representative (LAR)) to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\nThe presence of certain medical conditions may interfere with the interpretation or increase risk of medical complications of the assessments including exercise. Therefore, an individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Pregnancy\n2. People in acute episodes of mania or depression (not excluded, but will delay study entry until sufficiently managed to allow participation in study procedures).",
+  "minimum_age": "12 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The sample will be recruited from several sources including: (1) our NIMH Family Study of Affective Spectrum Disorders; (2) ongoing clinical studies at NIH; and (3) volunteers from both clinical and community settings including the INOVA-Fairfax Health System, Medstar and the Johns Hopkins Health systems.",
+  "condition": [
+    "Bipolar Disorder",
+    "Major Depression",
+    "Migraine"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study of mood disorders and physical activity, not an interventional oncology trial. There is no concept of line-of-therapy for advanced disease in this protocol.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study enrolls individuals with and without mood disorders to observe natural history and does not involve cancer or systemic therapy for advanced disease. No line-of-therapy intent is defined or applicable."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02561208",
+  "title": "Evaluation of an Mhealth Intervention to Increase Adherence to Triage of HPV+ Women",
+  "brief_summary": "Cervical cancer remains a serious health problem, particularly in developing countries. It is the leading cause of cancer death among women and mainly affects women of low socioeconomic status.\n\nEvidence has shown that HPV-test self-collection can reduce social and health services barriers to screening and increase coverage. However, high coverage will not result in a decrease of disease burden if women are not diagnosed/treated. The HPV-test indicates whether a woman is positive or not, and a triage test is needed to identify HPV-positive women who need to perform diagnostic procedures. Several triage methods are available. In Argentina, cytology is used as triage method; therefore, all HPV-positive women who have performed self-collection at home need to attend health centers to undergo cytology. However, the proportion of women who have completed triage is low, therefore new innovative strategies are needed to increase attendance to cytology of these women.\n\nThis study will be carried out in Jujuy, one of the Argentinian provinces with highest cervical cancer mortality rates and where HPV- self-collection has been introduced as programmatic strategy for screening under-users.\n\nThis trial is population-based cluster-randomized study that aims to evaluate the effectiveness of a mHealth intervention versus usual care to increase adherence to cytological triage among women with HPV-positive self-collected tests.\n\nAn overall number of 240 Community Health Workers (CHWs) from the Primary Health Care System (PHCS) of the Province of Jujuy will be randomized into two groups:\n\n1. mHealth Intervention Group: Women with HPV self-collected tests will receive a mixed intervention which includes counseling through an interactive Apps specifically devised to increase adherence to triage which will be run on a tablet, and SMS text messages to remind them to attend triage. In addition, Heads of CHWs, chiefs of gynecology services and CHWs will receive reminders via e-mails and SMS message to contact women if after 60 days from the HPV-results HPV+ they have not performed triage.\n2. Usual Care Group: Women with HPV self-collected tests receive usual care.\n\nA database built specifically for the study will be used; it will include data about randomization Group, agreement to participate in the study and socio-demographic data. Data on HPV-testing and triage will be uploaded importing the data from SITAM, using the Unique Identification Number (DNI).\n\nData Analysis\n\nEffectiveness to enhance adherence to cytological triage: Adherence to triage will be considered for each CHW. This will be defined as the number of women with triage smears within 30, 60 and 90 days. There will be a comparison of the percentage of HPV-positive women that did the Pap test within those time intervals in the mHealth intervention group and the Usual Care group. The effect of the mHealth intervention against usual care will be estimated using a means difference test or a non-parametric test for independent samples.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion criteria:\n\n* Women 30 years and older living in a household visited by Community Health Workers (CHWs).\n\nExclusion criteria:\n\n* Women with a previous HPV test.\n* Women with precancerous lesion or cervical cancer.\n* Current pregnancy.\n* Women with Mental disability.",
+  "minimum_age": "30 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Patient Adherence"
+  ],
+  "overall_status": "WITHDRAWN"
+}

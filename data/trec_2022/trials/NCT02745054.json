@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02745054",
+  "title": "Safety of Oral Anticoagulants Registry",
+  "brief_summary": "The goal of SOAR is to characterize the clinical and economic impact of clinicians' responses to major bleeding complications and pre-procedural concerns for bleeding risk in patients treated with oral anticoagulants (warfarin, anti-Xa orals, and anti-thrombin (IIa) orals) who present to the ED or in the hospital with acute illness or injury, with the eventual aim of informing the development of improved approaches to the management of OACs in the ED.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Bleeding requiring intervention - patients must be taking an OAC and meet at least one of the following criteria:\n\n   * Acute bleeding that is potentially life-threatening at presentation\n   * Acute bleeding associated with a fall in hemoglobin level by \u22652 g/dL\n   * Acute bleeding associated with a hemoglobin level of \u22648 g/dL if no baseline hemoglobin is available\n   * Acute symptomatic bleeding in a critical area or organ\n   * Any intracranial bleeding\n   * Bleeding for which more than 8 hours of direct patient monitoring is required prior to ED disposition\n   * Bleeding for which intravenous (IV) Vitamin K, fresh frozen plasma (FFP), any prothrombin complex concentrates (PCC) or activated PCC (aPCC), any specific factor replacement or reversal agent, or a parenteral hemostatic agent such as tranexamic acid is administered\n   * Bleeding for which packed red blood cells (PRBCs) or platelets are transfused\n2. Bleeding Concern - patients must be taking an OAC and who, without overt bleeding, meet at least one of the following criteria:\n\n   * Diagnostic or therapeutic surgical procedure for which hemostasis is desirable (e.g., emergency laparotomy) and which, in the opinion of the treating physician, cannot be postponed at least 8 hours\n   * Diagnostic or therapeutic percutaneous procedure for which hemostasis is desirable (e.g., lumbar puncture) and which, in the opinion of the treating physician, cannot be postponed at least 8 hours\n   * Overdose (deliberate or accidental) of one or more OAC agents that, in the opinion of the treating physician, requires the administration of Vitamin K, FFP, any PCC or aPCC, any specific factor replacement or specific reversal agent, or a parenteral hemostatic agent such as tranexamic acid, with the desire of immediate reversal of anticoagulation\n   * Bleeding concern for which, in the opinion of the treating physician, more than 8 hours of direct patient monitoring is required prior to ED disposition\n\nExclusion Criteria:\n\nPatients who meet any of the following criteria are not eligible for inclusion in this registry study:\n\n* Those who have received an investigational reversal agent for an OAC during the index event (data on these patients will be collected as part the pertinent investigational study).If during the course of SOAR enrollment an investigational reversal agent is approved, and that agent is used outside a registration study, that subject is not excluded.\n* Those who have received treatment for a bleed or bleeding concern at another facility immediately prior to being transferred to the enrolling facility.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients aged 18 years and older who present to the ED or hospital with an acute illness or injury and must, in the opinion of the treating clinician, be experiencing an active anticoagulation effect due to the use of an OAC, and have either:\n\n1. Bleeding requiring specific intervention (see below); or\n2. Bleeding concern in a non-bleeding patient requiring a specific invasive diagnostic assessment or therapeutic intervention prompting reversal, repletion or decontamination, or a clinically significant delay in intervention due to the use of an OAC (see below).",
+  "condition": [
+    "Blood Coagulation"
+  ],
+  "overall_status": "UNKNOWN"
+}

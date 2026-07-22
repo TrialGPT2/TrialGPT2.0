@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04418804",
+  "title": "Diagnosis and Classification of Pleural Diseases Using Ultrasound Channel Data",
+  "brief_summary": "Background:\n\nThe Pleura is a double-layered membrane that surrounds the lungs. Pathological processes that involve the Pleura are called \"Pleural diseases\". Among them are included Pneumothorax (Air the chest cavity), Pleural effusions, and tumor formation.\n\nUltrasound imaging of the Pleura to detect and assess pleural diseases has been proven as an excellent diagnostic and safe option. Ultrasound test uses sound waves to characterize the structure and function of different organs in health and disease.\n\nThe standard technique used to create two-dimensional ultrasound picture is called Delay and Sum (DAS). Signals are transmitted and received from a series of elements and allow a two dimensional picture to be created. Because a large number of sensors is required, creating a two dimensional picture creates a large and usually redundant data pool.\n\nThis fact leads to a need for stronger processors and larger operating systems, Consumption of higher energy, and hence an ungainly, slow, and expensive system.\n\nSignal Acquisition Modeling and Processing Laboratory (SAMPLE) in Weizmann institute has developed a data processing system that allows narrowing down the number of elements needed to process the ultrasound signal, while creating an ultrasound picture of abdominal organs in a satisfying resolution. Sometimes even better than standard methods.\n\nResearch goal:\n\nImprovement of diagnosis and characterization of pleural diseases by Ultrasound, using a novel algorithm that was developed in SAMPLE laboratory in Weizmann Institute. The aim is to create a faster, more reliable ultrasound imaging while minimizing sampling rate and data volume.\n\nMethods:\n\nTested population: Women and/or men who were diagnosed with Pneumothorax or Plural effusion with other imaging modalities, and healthy volunteers as a control group, Up to 30 participants per each group (Total up to 90), in a 1:1:1 Ratio.\n\nResearch type:\n\nAn open-labeled study.\n\nExperimental design:\n\nParticipants that will meet the required conditions will be summoned to an exam in our imaging institute or will be scanned bedside, using the Verasonics ultrasound system, which allows free access to ultrasound raw Channel data. The information acquired, as well as other imaging scans of the participant, will be coded and delivered anonymously to SAMPLE laboratory for analysis.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Healthy volunteers\n* Volunteers with active Pneumothorax, detected by prior imaging studies up to 24 hours before the ultrasound scan\n* Volunteers with active Pleural effusion, detected by prior imaging studies up to 48 hours before the ultrasound scan ult\n\nExclusion Criteria:\n\n* Volunteers with the aforementioned diagnosis, which was not detected during the actual ultrasound exam\n* Volunteers who expressed their desire to be excluded from the study at any given time point.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pneumothorax",
+    "Pleural Effusion"
+  ],
+  "overall_status": "UNKNOWN"
+}

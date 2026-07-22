@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04491110",
+  "title": "Intervention to Improve Quality of Sleep of Palliative Patient Carers in the Community: Clinical Trial",
+  "brief_summary": "Introduction Sleeping problems experienced by cancer patients carers are frequent with 72% of carers reporting moderate to severe problems. Another consequence for this carers is the increase of suffering from depression and it is usually associated to carer overload.\n\nObjectives\n\nMain objective:\n\n\\- To evaluate the effects of listening to music in sleep quality for oncology patients non-professional carers at home, and to evaluate the influence of specific factors that may modify that effect.\n\nSecondary objectives:\n\n* To assess the relationship between the waking state and the consequences during the day according to sleep characteristics. These include:\n\n  1\\. Psychological results:\n  1. Quality of life.\n  2. Carer overload.\n\n  2\\. Physical results:\n  1. Sleepiness during the day.\n  2. Physical activity, intensity and length evaluation.\n* To assess carers satisfaction with the intervention.\n\nMethod Randomized clinical trial, single blinding and performed in oncological patients carers in several practices. 2 samples of 40 carers. Intervention group will be taken through a seven session intervention with music; control group will undergo seven sessions of therapeutic education (as a reminder). Results will be evaluated using Pittsburgh Quality of Sleep Index, triaxial accelerometer, EuroQol-5D-5L, Caregiver Strain Index, Epworth Sleepiness Scale and Client Satisfaction Questionnaire.\n\nStatistical analysis Basal values will be compared for both groups. Then the values before and after the intervention will be compared using Student's t distribution for normal continuous variables, and Wilcoxon's T test for paired data in continuous not normal variables. A multiple linear regression will be carried out.\n\nThe system developed for the PREDIMEDPLUS study will be used to process accelerometer data results. This semi-automated system manages data capture in a continuous stream in a central server of Malaga University. Processing and analysis of this data is also centralised, with an open source package, GGIR v. 1.5-1248",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Being informal carer of a domiciliary palliative care patient.\n* Having given informed consent to take part in the study.\n\nExclusion Criteria:\n\n* Informal carer with severe hypoacusia, making it difficult to listen to the music on the phone/use of headphones\n* Informal carer allergic to plastic and/or metal\n* Informal carer with a programmed trip in the 2 weeks the study takes place\n* Informal carer without mobile phone",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Music Therapy",
+    "Caregivers",
+    "Sleep",
+    "Palliative Care"
+  ],
+  "overall_status": "COMPLETED"
+}

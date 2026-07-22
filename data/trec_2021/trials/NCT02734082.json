@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02734082",
+  "title": "The Brain Heart Interaction in Acute Stroke",
+  "brief_summary": "Many studies have shown that acute cerebral dysfunction can impair cardiac function and autonomic control of blood pressure, heart rate and vascular tone, however, the size of the stroke is rarely reported. Involvement of the insular cortex seems to predispose to cardiac damage and autonomic dysfunction. However, it is not clear whether cardiac dysfunction is merely a marker of large strokes or location of the stroke is critical.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \u226516 years\n* Hospitalized between 2004-2014\n* Acute MRI imaging performed\n* ECG on admission\n* Cardiac lab parameters on admission (TnT, CK, CK-MB)\n\nExclusion Criteria\n\n* Age \\<16 years\n* No acute MRI image\n* No lab parameters",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients with acute ischemic stroke hospitalized at Inselpital Berne between 2004-2014.",
+  "condition": [
+    "Myocardial Infarction",
+    "Stroke"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02025543",
+  "title": "Confounder-Corrected Quantitative MRI Biomarker of Hepatic Iron Content",
+  "brief_summary": "The purpose of this multi-site research is to validate a rapid magnetic resonance based confounder-corrected R-2 mapping method as a quantitative imaging biomarker of liver iron concentrations.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* know or suspected iron overload\n* minimum age: Stanford- 8years , University of Wisconsin - 10 years, John Hopkins follow- 10 years, University of Texas-Southwestern - 18 years\n\nExclusion Criteria:\n\n* contraindication to magnetic resonance imaging",
+  "minimum_age": "8 Years",
+  "maximum_age": "89 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants with known or suspected iron overload, plus a control cohort",
+  "condition": [
+    "Iron Overload",
+    "Hemochromatosis",
+    "Hemosiderosis"
+  ],
+  "overall_status": "COMPLETED"
+}

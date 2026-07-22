@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT06581861",
+  "title": "PREVENT ALL ALS Study",
+  "brief_summary": "The ALL ALS Clinical Research Consortium is establishing research to collect a wide range of samples, clinical information and measurements from Amyotrophic Lateral Sclerosis (ALS) symptomatic, ALS gene carriers and control cohorts. This consortium is begin funded by the National Institutes of Health/National Institute of Neurological Disorders and Stroke (NIH/NINDS) and managed by two clinical coordinating centers (CCC) at Barrow Neurological Institute and Massachusetts General Hospital. The clinical sites are distributed across the country, and led by a group of collaborative principal investigators. Once data and samples are collected and harmonized, it will be made available to research community for future research into ALS and related neurological diseases.\n\nPREVENT protocol is specific for asymptomatic participants who are genetically at risk for ALS. The participants will be followed for up to 36 months (3 years), and will include 4 in-person on-site visits once a year and 6 off-site(remote) visits once in 4 months. The study includes collection of medical history, clinical outcomes, and blood samples once in 4 months. Additionally, the participants will complete patient reported outcomes and speech recordings once in 4 months. Participants may also provide optional Cerebrospinal Fluid (CSF) samples.The participants may also opt into a sub-study if they are interested in genetic testing for ALS causative genes. The sub-study will involve a minimum of 3 visits over a course of 2-3 months. This will include a screening/pre-test genetic counseling visit, a return of genetic results and a post-test counseling visit.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age 18 years or older\n2. Capable of providing informed consent\n3. Willing to follow study procedures\n4. First-degree relative of a known carrier of any ALS causative gene1 (regardless of whether ALS or FTD has actually been symptomatic in the family) OR First-degree relative of an individual with ALS and/or FTD in a family with a \"compelling family history\" of ALS/FTD, regardless of whether genetic testing has occurred in symptomatic family members. A \"compelling family history\" is defined as a pedigree with at least 2 close relatives who had ALS or FTD, with at least one of those family members having had ALS.\n5. Access to a smartphone, computer, or tablet, and internet (need not be in the home - access to a public library or other available computer with internet connection is sufficient)\n\nExclusion Criteria:\n\n1. Evidence of neurological signs or symptoms concerning for ALS of FTD, at the discretion of the site investigator which will be communicated to the applicant along with referral for appropriate clinical follow-up.\n2. Significant cognitive impairment, clinical dementia, or unstable psychiatric illness, including psychosis, active suicidal ideation, suicide attempt, or untreated major depression \\<= 90 days (about 3 months) of screening, which in the opinion of the Investigator would interfere with the study procedures\n3. Clinically significant, unstable medical condition (e.g., cardiovascular instability, systemic infection, untreated thyroid dysfunction, malignant and potentially progressive cancer) that would render the participant unlikely to be able to complete 12 months of follow-up, according to Investigator's judgment\n\nExclusion Criteria for Participants Undergoing Optional Lumbar Puncture\n\n1. Medically unable to undergo lumbar puncture (LP) as determined by the site investigator (i.e., bleeding disorder, a skin infection at or near the LP site, known or suspected intracranial or intraspinal tumor or other cause of increased intracranial pressure).\n2. Allergy to Lidocaine or other local anesthetic agents.\n3. Use of anticoagulant medication or antiplatelet medications (aside from aspirin 81 mg) that cannot be safely withheld prior to lumbar puncture.\n4. Blood dyscrasia, abnormal bleeding diathesis, or the use of dialysis for renal failure.\n5. Current pregnancy based on participant self-report\n6. Clinical judgement of the site investigator that the participant would be unable to undergo multiple lumbar punctures.\n\nInclusion Criteria for Genetic Testing Results Sub-study\n\n1. Age 18 years of age or older\n2. Capable of providing informed consent\n3. Willing to follow study procedures\n4. Currently enrolled in the PREVENT ALS Study",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Approximately 600 participants are planned for this study enrolled. They are aged 18 years or older, and are at risk of developing ALS.",
+  "condition": [
+    "Amyotrophic Lateral Sclerosis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling asymptomatic individuals genetically at risk for ALS, with no intervention or systemic therapy for advanced disease involved. There are no requirements or restrictions regarding prior lines of therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Participants are asymptomatic and genetically at risk for ALS, with no prior systemic therapy for advanced disease required or allowed. The eligibility criteria exclude anyone with neurological symptoms of ALS or FTD, so all participants are treatment-naïve for advanced disease."
+    }
+  ]
+}

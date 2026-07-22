@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03271671",
+  "title": "Pressure Support Ventilation (PSV) Versus Neurally Adjusted Ventilator Assist (NAVA) During Acute Respiratory Failure (ARF)",
+  "brief_summary": "Acute respiratory failure (ARF) is a life-threatening emergency which occurs due to impaired gas exchange. In the US, the number of hospitalisations owing to acute respiratory failure was 1,917,910 in the year 2009.(1) The incidence of ARF requiring hospitalization was 137.1 per 100,000 population.(2) In ARF due to chronic obstructive pulmonary disease (COPD) and cardiogenic pulmonary edema, non-invasive ventilation (NIV) has been shown to be beneficial. NIV also has several advantages over invasive mechanical ventilation. These include, avoidance of endotracheal intubation and its attendant complications like airway injury, nosocomial infections, and possibly shorter duration of intensive care unit (ICU) stay.(3, 4) The success of NIV depends on several factors like the etiology of the respiratory failure, careful monitoring by the treating physician, and also adequate cooperation of patient. Better synchrony of the patient's spontaneous breaths with the ventilator-delivered breaths may lead to better patient cooperation and thereby, better clinical outcomes. Patient-ventilator asynchrony (PVA) leads to dyspnea, increased work of breathing, and prolonged duration of mechanical ventilation.(5) Pressure support ventilation (PSV) is one of the commonest mode used during NIV. In a prospective multicenter observational study, severe asynchrony (defined as an asynchrony index of \\>10 %) was seen in 43% of patients of patients with ARF ventilated by NIV with the conventional PSV mode.(6) Neurally adjusted ventilator assist (NAVA) is new mode of ventilation which utilizes the electrical activity of the diaphragm to deliver the breath.(7) During NAVA, breath is delivered when the patient's diaphragm starts contracting. Further, the amount of pressure support given during the breath is proportional to the strength of the electrical signal from the diaphragm. Finally, NAVA also terminates the breath when the electrical activity of the diaphragm wanes. NAVA has been shown to avoid over-assistance, decrease intrinsic positive end-expiratory pressure (PEEP), and minimize wasted efforts.(8) Hence, NAVA may play a major role in improving patient-ventilator synchrony.\n\nIn a pooled analysis of studies comparing NAVA with PSV during NIV, it was shown that the use of NAVA significantly improved patient-ventilator synchrony.(9) However, so far, no clinical trial has demonstrated that this improvement in synchrony translates into better clinical outcomes. In this randomized controlled clinical trial, we intend to compare the rates of NIV failure and mortality between NAVA and PSV in subjects with acute respiratory failure managed with NIV.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Respiratory rate \\>30 per minute\n2. Arterial blood gas analysis showing a PaCO2 \\>45 mmHg and pH \\<7.35\n3. PaO2/FiO2 ratio \\< 300\n4. Use of accessory muscles of respiration or paradoxical respiration\n\nExclusion Criteria:\n\n1. Age \\<18 years or \\>75 years\n2. Pregnancy\n3. PaO2/FiO2 ratio \u2264100\n4. Hypotension (systolic blood pressure \\<90 mmHg)\n5. Severe impairment of consciousness (Glasgow coma scale score \\<8)\n6. Inability to clear respiratory secretions (Airway care score \\[ACS\\] \u226512)(27)\n7. Abnormalities that preclude proper fit of the NIV interface (agitated or uncooperative patient, facial trauma or burns, facial surgery, or facial anatomical abnormality)\n8. Subjects who have an artificial airway like tracheostomy tube or T-tube\n9. Contraindications for insertion of naso-/orogastric feeding tube (facial/nasal trauma, recent upper airway surgery, esophageal surgery, esophageal varices, upper gastrointestinal bleeding)\n10. More than two organ failures\n11. Unwillingness to undergo placement of nasogastric catheter\n12. Known phrenic nerve lesions\n13. Suspected diaphragmatic weakness\n14. Patient already on home NIV therapy for chronic respiratory failure\n15. Application of NIV for more than one hour for the current illness\n16. Failure to provide informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Respiratory Failure"
+  ],
+  "overall_status": "COMPLETED"
+}

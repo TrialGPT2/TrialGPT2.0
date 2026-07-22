@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT02146521",
+  "title": "Limited Abdominal CT in ED Patients With Abdominal Pain",
+  "brief_summary": "The purpose of the study is to compare the diagnosis and management (treatment and disposition) of adult emergency department patients with acute nontraumatic abdominal pain and tenderness, based on two CT techniques:\n\n1. Standard (complete) abdominal-pelvic CT. The American College of Radiology calls for the cephalad limit of abdominal CT to begin at the dome of the diaphragm, and the caudad limit of pelvic CT to extend through the ischial tuberosities.\n2. A z-axis restricted subset of images digitally obtained from the original CT dataset, determined by the region of tenderness identified by the examining emergency physician and marked on the patient prior to the performance of the CT. This z-axis restricted CT does not require any additional radiation exposure to the patient, as it will be produced by computer extraction of data from the original standard abdominal-pelvic CT.\n\nThe investigators hypothesize that the diagnosis and management will not differ when guided by the two CT scan interpretations. Radiation doses will be calculated for each of the two techniques.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* emergency department's patients undergoing CT evaluation for acute abdominal pain and tenderness (acute is defined as onset of current episode within 7 days of emergency department presentation).\n\nExclusion Criteria:\n\n* neurological disorders\n* altered mental status\n* history of intra-abdominal surgery in the past 30 days\n* BMI higher than 35\n* immunocompromised patients\n* abdominal trauma in the past 30 days\n* CT is ordered for the following indications:\n* isolated vomiting\n* fever without source\n* staging of malignancy\n* isolated flank pain or suspected renal colic",
+  "minimum_age": "18 Years",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients of the emergency department undergoing CT evaluation for acute abdominal pain and tenderness",
+  "condition": [
+    "Abdominal Pain"
+  ],
+  "overall_status": "WITHDRAWN"
+}

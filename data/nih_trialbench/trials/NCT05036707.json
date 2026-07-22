@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT05036707",
+  "title": "Human Immune Response to Ixodes Scapularis Tick Bites",
+  "brief_summary": "Background:\n\nEach year, the number of cases of tick-borne diseases increases. The deer tick (Ixodes scapularis) is the vector of at least 7 pathogens that cause human diseases, including Lyme disease. Researchers want to learn more to help them develop vaccines against ticks in the future.\n\nObjective:\n\nTo learn how people s bodies, particularly the skin, respond to tick bites.\n\nEligibility:\n\nHealthy adults aged 18 years and older who have no known history of a tick-borne disease or tick bite exposure.\n\nDesign:\n\nParticipants will be screened with a medical history, physical exam, and blood tests.\n\nParticipants will have 2 skin punch biopsies of healthy skin. For this, a sharp instrument will be used to remove a round plug of skin about the size of a pencil eraser. Participants will then have 10 clean laboratory-bred ticks placed at 2 different sites on their skin (20 ticks total). The ticks will be removed from the first site 1 day after placement and from the second site 2-4 days after placement. Participants will complete symptom diary cards. They will answer questions about itching at the tick feeding sites. They will give blood samples. Photos will be taken of the tick feeding sites. Skin punch biopsies will be collected at the sites of the tick bites.\n\nParticipants will repeat the tick feeding procedures 2 times, each 2-8 weeks apart. For the 2nd and 3rd procedures, 10 clean laboratory-bred ticks will be placed at 1 site. The ticks will be removed 2-3 days after tick placement. They will have telephone follow-up visits after each procedure.\n\nAfter the final tick removal, participants will have follow-up visits in 4-6 weeks and again in 3 months. They will give blood samples and discuss how they are feeling.\n\nParticipation will last about 5-7 months.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Stated willingness to comply with all study procedures and availability for the duration of the study.\n2. Age 18 years or older.\n3. In good general health as evidenced by medical history.\n4. No history of TBD.\n5. No known tick bite.\n6. Serum IgE level within Clinical Center Department of Laboratory Medicine normal range.\n\n   https://ccinternal2.cc.nih.gov/LTGRA/UL/public\\_labtest\\_detail.aspx?next\\_flg=Y\\&test\\_id=4731\\&id\\_order=53\n7. Serum tryptase level within Clinical Center Department of Laboratory Medicine normal range.\n\n   https://ccinternal2.cc.nih.gov/LTGRA/UL/public\\_labtest\\_detail.aspx?next\\_flg=Y\\&test\\_id=1157\\&id\\_order=1\n8. For participants of child-bearing potential: use of effective contraception for at least 1 month prior to tick placement, and agreement to use such a method during study participation and for an additional 3 months after the removal of the last ticks. Types of contraception include abstinence, surgical methods (sterilization, implants, intrauterine device, partner with vasectomy), hormonal methods (birth control pill, patch, ring, injection), or barrier methods (diaphragm plus spermicide, male condom plus spermicide)\n9. For males of reproductive potential: use of condoms or other methods to ensure effective contraception with partner.\n10. Agree to not participate in other clinical studies requiring investigational interventions for the duration of the study.\n11. Minimum hemoglobin of 13.0 g/dL for males and 12 g/dL for females\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. History of forming large thick scars (keloids) after skin injuries.\n2. History of excessive bleeding after cuts or procedures.\n3. History of taking anticoagulants in the past 28 days.\n4. History of allergic reaction to lidocaine.\n5. History of allergic reaction to tape, adhesive bandages, or dressings.\n6. Inability to maintain the dressing for any reason.\n7. Pregnancy or lactation.\n8. Treatment with another investigational drug or other intervention within the past 30 days.\n9. Oral or intravenous (IV) steroids in the 2 weeks prior to each tick placement procedure (topical, nasal, inhaled, intra-articular, and replacement doses of steroids are not exclusions).\n10. History of reactions to mammalian meat, IgE- mediated food allergies, urticaria or anaphylaxis. Mild pollen-food allergy syndrome is not an exclusion.\n11. History of systemic allergic reaction to venom (bee, wasps and other Hymenoptera stings).\n12. History of clinically significant drug allergies.\n13. History of moderate to severe atopy asthma, atopic dermatitis, allergic rhinitis.\n14. Active severe skin disease, uncontrolled diabetes, cancer other than non-melanoma skin cancers, autoimmune disease requiring immunosuppressive therapy, or history of human immunodeficiency virus (HIV), chronic viral hepatitis, or syphilis.\n15. Refusal to allow storage of samples and data for future usage..\n16. Any other condition that, in the opinion of the investigator, would make the patient unsuitable for enrollment or could interfere with the patient participating in and completing the study.\n\nExclusion of Select Populations:\n\nChildren:\n\nChildren are excluded from this protocol as there is no direct benefit to the participants, the risk from the skin biopsies is small but above minimal, the procedure is invasive and can be stressful for children, and there is concern over their ability to maintain the LeFlap dressing.\n\nPregnant and breastfeeding women:\n\nPregnant and breastfeeding women are excluded from trial participation as there is no direct benefit to the participants.\n\nAdults who lack capacity to consent:\n\nAdults lacking decision-making capacity to provide informed consent are excluded at screening as there is no direct benefit to the participants.\n\nEnrolled participants who permanently lose the ability to consent during participation will be monitored for safety but will have no additional research procedures performed.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Tick-borne Diseases",
+    "Tick Resistance",
+    "Lyme Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology trial enrolling healthy adults with no history of tick-borne disease or tick bite exposure. There is no line-of-therapy intent as the study does not involve cancer or systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The trial enrolls healthy adults without cancer or prior systemic therapy; line-of-therapy intent is not applicable. No mention of cancer, advanced disease, or systemic therapy is present in the eligibility criteria."
+    }
+  ]
+}

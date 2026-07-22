@@ -1,0 +1,39 @@
+{
+  "nctid": "NCT04339777",
+  "title": "Allogeneic Hematopoietic Stem Cell Transplant for Patients With Inborn Errors of Immunity",
+  "brief_summary": "Background:\n\nDuring a transplant, blood stem cells from one person are given to someone else. The cells grow into the different cells that make up the immune system. This can cure people with certain immunodeficiencies. But transplant has many risks and complications.\n\nObjective:\n\nTo see if stem cell transplant can be successfully performed in people with primary immunodeficiency disease and cure them.\n\nEligibility:\n\nPeople ages 4-69 for whom a primary immunodeficiency (PID) or Primary Immune Regulatory Disorder (PIRD), has caused significant health problems and either standard management has not worked or there are no standard management options, along with their donors\n\nDesign:\n\nDonors will be screened under protocol 01-C-0129. They will donate blood or bone marrow.\n\nParticipants will be screened with:\n\nMedical history\n\nPhysical exam\n\nBlood, urine, and heart tests\n\nCT or PET scans\n\nBefore transplant, participants will have dental and eye exams. They will have a bone marrow biopsy. For this, a needle will be inserted through the skin into the pelvis to remove marrow.\n\nParticipants will be hospitalized before their transplant. They will have a central catheter put into a vein in their chest or neck. They will get medications through the catheter to prevent complications. Participants will get stem cells through the catheter. They will stay in the hospital for at least 4 weeks. They will give blood, urine, bone marrow, and stool samples. They may need blood transfusions. They may need more scans. They will take more medications.\n\nParticipants will have visits on days 30, 60, 100, 180, and 360, and 24 months after the transplant. Then they will have visits once a year for about 5 years",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIAl:\n* Age \\>= 4 years and \\<=69 yo with Weight \\>=12 kilograms\n* Mutation in a known monogenic (IEI) gene performed by a CLIA certified laboratory, who have failed standard medical management, or when no standard medical management is available.\n\nOR\n\nPatients without a known IEI mutation may be eligible if they have a clinical history that is characteristic of an individual with an immune defect including a history of infections requiring prolonged courses of therapy or evidence of immune dysregulation manifested by autoimmune/autoinflammatory disease, atopy, hemophagocytic lymphohistiocytosis, hypogammaglobulinemia, or impaired response to vaccination. A virally-driven malignancy alone will also constitute basis for inclusion.\n\n* Availability of an 8/8, 7/8, or 6/8 HLA-matched related or unrelated donor (if the mismatch is at DQ this will be considered an 8/8 matched donor), or a haploidentical related donor. Karnofsky or Lansky performance status of \\>= 40%\n* Adequate end-organ function, as measured by:\n\n  --Left ventricular ejection fraction \\> 40%, preferably by 2-D echocardiogram (ECHO) obtained within 60 days prior to enrollment.\n* Creatinine: Adult patients: \\<= 2.0 mg/dl and creatinine clearance \\>= 30 ml/min; Pediatric patients (\\<18 years old): creatinine \\< 1.5 mg/dL and a creatinine clearance, using the Schwartz Formula \\> 30 mL/min/1.73m\\^2.\n\n  * Serum conjugated bilirubin \\< 2.5 mg/dl; serum ALT and AST \\<= 5 times upper\n\nlimit of normal.\n\n--Pulmonary function tests: FEV1 \\> 30% and DLCO \\>30%. Children who are unable to have DLCO assessed due to age, are still eligible if no evidence of dyspnea at rest and no need for supplemental oxygen.\n\n* Ability of subject or parent/guardian to understand and the willingness to sign a written informed consent document. For subjects \\<18 years old, their legal guardian must give informed consent. Pediatric patients will provide assent.\n* As therapeutic agents used in this trial may be harmful to a fetus, women of childbearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for at least one year post-allo HCT. Should a woman become pregnant or suspect she is pregnant while she or her partner is participating in the study, she should inform her treating physician immediately.\n* Willingness to remain in the NIH hospital or, if discharged, stay close to the NIH, for a minimum of 100 days after transplant or longer, if there are complications. If outpatient in the first 100 days after transplant, patient must commit to having an adult caregiver with them at all times.\n\nEXCLUSION CRITERIA:\n\n* Patients who are receiving any other investigational agents (with the exception of virus-specific therapy e.g. cytotoxic T-cells for the treatment of viral infection/reactivation prior to allo HCT).\n* Patients with known brain metastases should be excluded from this clinical trial because of their poor prognosis and because they often develop progressive neurologic dysfunction that would confound the evaluation of neurologic and other adverse events.\n* HIV-positive patients are ineligible because these patients are at increased risk of lethal infections when treated with marrow-suppressive therapy. Appropriate studies will be undertaken in patients receiving combination antiretroviral therapy when indicated.\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to agents (steroids, cyclophosphamide, busulfan, tacrolimus, sirolimus, MMF, G-CSF, alemtuzumab) used in the study\n* Active psychiatric disorder which is deemed by the PI to have significant risk of compromising compliance with the transplant protocol or which does not allow for appropriate informed consent\n* Pregnant women are excluded from this study because the study agents have the potential for teratogenic or abortifacient effects. Because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with the study agents, breastfeeding should be discontinued if the mother is treated with the study agents.\n* Uncontrolled intercurrent illness including, but not limited to, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.",
+  "minimum_age": "4 Years",
+  "maximum_age": "69 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lymphoproliferative Disorders",
+    "Autoimmune Lymphoproliferative",
+    "Immune System Diseases",
+    "Common Variable Immunodeficiency",
+    "Primary T-cell Immunodeficiency Disorders"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with primary immunodeficiency or immune regulatory disorders who have failed standard medical management or for whom no standard management is available. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility requires failure of standard medical management or absence of standard options, but there is no mention of prior systemic therapy for advanced disease, nor any specification of lines of therapy. The protocol does not address adjuvant-only patients or prior systemic therapy in a way that allows for clear categorization."
+    }
+  ]
+}

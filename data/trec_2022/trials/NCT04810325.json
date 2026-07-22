@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04810325",
+  "title": "Brain Sensing in Neurological and Psychiatric Disorders",
+  "brief_summary": "High-frequency deep brain stimulation (DBS) is an effective treatment strategy for a variety of movement disorders including Parkinson's disease, dystonia and tremor1-5, as well as for other neurological and psychiatric disorders e.g. obsessive compulsive disorder, depression, cluster headache, Tourette syndrome, epilepsy and eating disorders6-11. It is currently applied in a continuous fashion, using parameters set by the treating clinician. This approach is non-physiological, as it applies a constant, unchanging therapy to a dysfunctional neuronal system that would normally fluctuate markedly on a moment-by moment basis, depending on external stressors, cognitive load, physical activity and the timing of medication administration.\n\nFluctuations in physical symptoms reflect fluctuations in brain activity. Tracking and responding in real-time to these would allow personalised approaches to DBS through stimulating at appropriate intensities and only when necessary, thereby improving therapeutic efficacy, preserving battery life and potentially limiting side-effects12. Critical to the development of such adaptive/closed-loop DBS technologies is the identification of robust signals on which to base the delivery of variable high-frequency deep brain stimulation.\n\nLocal field potentials (LFPs), which are recordable through standard DBS electrodes, represent synchronous neuronal discharges within the basal ganglia. Different LFP signatures have been identified in different disorders, as well as in different clinical states within individual disorders. For example, low frequency LFPs in the Alpha/Theta ranges (4-12Hz) are frequently encountered in patients with Dystonia13,14, while both beta (12-30Hz) gamma (60-90Hz) band frequencies may be seen in Parkinson's disease, when the patient is OFF and dyskinetic, respectively15,16. Equally, suppression of these abnormal basal ganglia signals through medication administration or high-frequency DBS correlates with clinical improvement. As such, they represent attractive electrophysiologic biomarkers on which to base adaptive DBS approaches.\n\nUntil recently, neurophysiological assessments were purely a research tool, as they could only be recorded either intra-operatively or for a short period of time post-operatively using externalised DBS electrodes. However, advances in DBS technology now allow real-time LFP recordings to be simply and seamlessly obtained from fully implanted DBS systems e.g. Medtronic Percept PC.\n\nIn this study, we will evaluate a cohort of patients with movement disorders and other disorders of basal ganglia circuitry who have implanted DBS systems. Recordings of LFPs and/or non-invasive data such as EEG, limb muscle activation and movement (surface EMG and motion tracking) under various conditions (e.g. voluntary movement, ON/OFF medications, ON/OFF stimulation) will allow us to evaluate their utility as markers of underlying disease phenotype and severity and to assess their potential for use as electrophysiological biomarkers in adaptive DBS approaches. These evaluations in patients with DBS systems with and without LFP-sensing capabilities will take place during a single or multi-day evaluation (depending on patient preference and researcher availability). This study will advance not only the understanding of subcortical physiology in various disorders, but will also provide information about how neurophysiological and behavioural biomarkers can be used to inform personalised, precision closed-loop DBS approaches.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age\\>18 years\n* Neurological or psychiatric disorder treated with a DBS system.\n* Able to give informed consent\n\nExclusion Criteria:\n\n* \u2022 Inability to tolerate OFF stimulation conditions.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with neurological disorders treated with deep brain stimulation devices capable of neurophysiologic recording",
+  "condition": [
+    "Movement Disorders",
+    "Dystonia",
+    "Parkinson Disease",
+    "Tremor"
+  ],
+  "overall_status": "UNKNOWN"
+}

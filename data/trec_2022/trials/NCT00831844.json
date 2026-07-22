@@ -1,0 +1,38 @@
+{
+  "nctid": "NCT00831844",
+  "title": "Cixutumumab in Treating Patients With Relapsed or Refractory Solid Tumors",
+  "brief_summary": "This phase II trial is studying the side effects and how well cixutumumab works in treating patients with relapsed or refractory solid tumors. Monoclonal antibodies, such as cixutumumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Histologically confirmed malignant solid tumor, including the following:\n\n  * Osteosarcoma\n  * Ewing sarcoma/peripheral primitive neuroectodermal tumor\n  * Rhabdomyosarcoma\n  * Neuroblastoma\n  * Wilms tumor\n  * Synovial sarcoma\n  * Hepatoblastoma\n  * Adrenocortical carcinoma\n  * Retinoblastoma\n* No known curative therapy or therapy proven to prolong survival with an acceptable quality of life exists\n* Radiographically measurable disease\\*, defined as \u2265 1 unidimensionally measurable lesion \u2265 20 mm by MRI or CT scan or \u2265 10 mm by spiral CT scan\n\n  * The following are not considered measurable disease:\n\n    * Ascites, pleural effusions, or other malignant fluid collections\n    * Bone marrow infiltration by tumor\n    * Lesions detected only by non-MIBG nuclear medicine studies (e.g., bone scan)\n    * Previously irradiated lesions that have not demonstrated clear progression post-radiotherapy\n* No known Central Nervous System (CNS) metastases unless they were treated by surgery or radiotherapy AND are stable with no recurrent lesions for \u2265 3 months\n* Lansky or Karnofsky performance status (PS) 50-100% OR Eastern Cooperative Oncology Group (ECOG) PS 0-2\n* Absolute neutrophil count (ANC) \u2265 1,000/mm\u00b3 (\\> 250/mm\u00b3 for patients with neuroblastoma)\n* Platelet count \u2265 75,000/mm\u00b3 (\\> 25,000/mm\u00b3 for patients with neuroblastoma) (transfusion independent)\n* Hemoglobin \u2265 8.0 g/dL (\u2265 7.5 g/dL for patients with neuroblastoma) (RBC transfusion allowed)\n* Creatinine clearance or radioisotope glomerular filtration rate \u2265 70 mL/min OR serum creatinine normal based on age/gender as follows:\n\n  * \u2264 0.4 mg/dL (for patients 1 to 5 months of age)\n  * \u2264 0.5 mg/dL (for patients 6 to 11 months of age)\n  * \u2264 0.6 mg/dL (for patients 1 year of age)\n  * \u2264 0.8 mg/dL (for patients 2 to 5 years of age)\n  * \u2264 1 mg/dL (for patients 6 to 9 years of age)\n  * \u2264 1.2 mg/dL (for patients 10 to 12 years of age)\n  * \u2264 1.5 mg/dL (males) or 1.4 mg/dL (females) (for patients 13 to 15 years of age)\n  * \u2264 1.7 mg/dL (males) or 1.4 mg/dL (females) (for patients \u2265 16 years of age)\n* Total bilirubin \u2264 1.5 times upper limit of normal for age\n* Alanine transaminase (ALT) \u2264 110 U/L\n* Serum albumin \u2265 2 g/dL\n* Blood glucose normal\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for 3 months after completion of study treatment\n* Able to comply with safety monitoring requirements of study\n* No history of allergic reactions attributed to compounds of similar chemical or biologic composition to study drug\n* No uncontrolled infection\n* No known type I or II diabetes mellitus\n* Recovered from prior chemotherapy, immunotherapy, or radiotherapy\n* More than 3 weeks since prior myelosuppressive chemotherapy (6 weeks for nitrosoureas)\n* At least 7 days since prior hematopoietic growth factors (14 days for pegfilgrastim)\n* At least 6 weeks since prior monoclonal antibody therapy\n* At least 7 days since other prior antineoplastic biologic agents\n* No prior monoclonal antibody targeting the IGF-IR\n* No prior small molecule kinase inhibitors of IGF-IR\n* At least 2 weeks since prior local palliative (small port) radiotherapy\n* At least 3 months since prior total-body irradiation, craniospinal radiotherapy, or radiotherapy to \u2265 50% of the pelvis\n* At least 6 weeks since other prior substantial bone marrow radiotherapy\n* At least 2 months since prior stem cell transplantation\n\n  * No evidence of graft-versus-host disease\n* Concurrent corticosteroids allowed provided dose is stable or decreasing over the past 7 days\n\n  * Intermittent use of corticosteroids to manage infusional reactions allowed\n* No other concurrent anticancer therapy, including chemotherapy, radiotherapy, immunotherapy, or biologic therapy\n* No other concurrent investigational agents\n* No concurrent insulin or growth hormone therapy",
+  "minimum_age": "7 Months",
+  "maximum_age": "30 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Adult Rhabdomyosarcoma",
+    "Adult Synovial Sarcoma",
+    "Childhood Hepatoblastoma",
+    "Childhood Synovial Sarcoma",
+    "Previously Treated Childhood Rhabdomyosarcoma",
+    "Recurrent Adrenocortical Carcinoma",
+    "Recurrent Adult Soft Tissue Sarcoma",
+    "Recurrent Childhood Liver Cancer",
+    "Recurrent Childhood Rhabdomyosarcoma",
+    "Recurrent Childhood Soft Tissue Sarcoma",
+    "Recurrent Ewing Sarcoma/Peripheral Primitive",
+    "Neuroectodermal Tumor",
+    "Recurrent Neuroblastoma",
+    "Recurrent Osteosarcoma",
+    "Recurrent Retinoblastoma",
+    "Recurrent Wilms Tumor and Other Childhood Kidney Tumors"
+  ],
+  "overall_status": "COMPLETED"
+}

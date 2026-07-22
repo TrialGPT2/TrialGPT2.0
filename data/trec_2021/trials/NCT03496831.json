@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03496831",
+  "title": "Predicting Hospitalized Infection in Patients With Chronic Inflammatory Arthritis Treated With Biological Drugs",
+  "brief_summary": "Background The risk for hospitalized infection (i.e. infection leading to hospitalization) in patients with inflammatory arthritis (rheumatoid arthritis (RA), psoriatic arthritis (PsA) or axial spondyloarthritis (axSpA) treated with biological drugs is known to be increased compared to the background population. In daily clinical practice, there is a need for a simple way to assess the absolute risk for hospitalized infection in individual patients based on easily available information such as age, diagnosis, functional status, comorbidities and medication. This risk estimate will be useful in clinical decision making e.g. when advising patients on whether or not to initiate biologic therapy or when advising patients on influenza or pneumococcal vaccination.\n\nObjectives The objectives are 1) to assess the risk for hospitalized infection (infection leading to hospitalization) in patients with inflammatory arthritis during 12 months of follow-up after initiating treatment with their first biological drug (bDMARD) with the risk in the general population, and 2) to develop a simple, clinically useful algorithm that allows prediction of the risk of hospitalized infection in individual patients.\n\nMethods Observational cohort study based on existing data in: The Danish Rheumatology Register (DANBIO), The Danish National Patient Register, The Danish National Prescription Register and The Danish Register of Causes of Death. All patients registered in DANBIO with RA, PsA or axSpA who initiated treatment with their first biological drug between January 1, 2006 and December 31, 2016 will be identified. Baseline predictors and outcomes (hospitalized infection or death) during 12 months of follow-up are obtained. Logistic regression analysis and 10-fold cross-validation will be used to develop and internally validate the prediction model.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion criteria:\n\n* Patients with RA: Registered in DANBIO with a diagnosis of M05.9, M06.0 or M06.9.\n* Patients with SpA: Registered in DANBIO with a diagnosis of M45.9, M46.1, M46.8+M02.9, M46.8+M07.4, M46.8+M07.5 or M46.9.\n* Patients with PsA: Registered in DANBIO with a diagnosis of M07.3 or M46.8+M07.2.\n* First bDMARD treatment course.\n* Start of treatment with first bDMARD in the period January 1, 2006 to December 31, 2016.\n* Age at start of treatment with first bDMARD \u2265 18 years.\n\nExclusion criteria:\n\n\\- Not followed in DANBIO since start of first bDMARD.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "For each cohort, a set of matched controls from the general population will be obtained, so that outcomes in each diagnosis group can be compared with its own matched controls. Therefore, 3 groups of matched controls are constructed. Ten controls from the general population will be drawn for each patient matched by age, sex and postal code (replacement is allowed). Index date equal to date of start of first bDMARD. At the index date, controls must not have or have had one the diagnoses of RA, SpA or PsA listed above. Baseline variables (predictors) and outcomes (for definitions and details, see below) will be collected in the same time periods for each individual patient and his/her 10 matched controls.",
+  "condition": [
+    "Rheumatoid Arthritis",
+    "Spondyloarthritis",
+    "Psoriatic Arthritis"
+  ],
+  "overall_status": "COMPLETED"
+}

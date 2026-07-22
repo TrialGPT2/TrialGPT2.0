@@ -1,0 +1,53 @@
+{
+  "nctid": "NCT03702231",
+  "title": "Response to the SHINGRIX Varicella Zoster Virus (VZV) Vaccine in Chronic Lymphocytic Leukemia (CLL) and CLL Treated With Bruton's Tyrosine Kinase Inhibitor (BTK-I)",
+  "brief_summary": "Background:\n\nPeople who have cancer tend to get sick more often. This is in part because of the cancer treatments they get. Because of this, they may get shingles. Scientists had thought people with chronic lymphocytic leukemia (CLL) should not get the shingles vaccine. Now there is a new shingles vaccine that is not live and cannot cause shingles. The new shingles vaccine may protect people with weak immune systems from getting shingles. This is currently shown to be safe to give people 50 years and older to prevent shingles. Researchers want to test how safe the vaccine is and how it works in people with CLL.\n\nObjective:\n\nTo learn how a new shingles vaccine works in people who have chronic lymphocytic leukemia or small lymphocytic lymphoma (SLL).\n\nEligibility:\n\nAdults ages 18 years and older with CLL or SLL who are not being treated for CLL or who are getting certain treatments.\n\nDesign:\n\nParticipants will be screened with a chart review or through another protocol.\n\nVisit 1\n\nAt visit 1, participants may have a pregnancy test, blood test, or physical exam.\n\nPregnant participants cannot be in the study.\n\nEligible participants will get the shingles vaccine as an injection.\n\nParticipants will receive a diary and write down any symptoms they have for 7 days after the vaccines.\n\nVisit 2\n\nVisit 2 will be 3 months later. Participants will have blood taken and get another dose of the vaccine.\n\nParticipants will receive a diary and write down any symptoms they have for 7 days after the vaccines.\n\nVisit 3\n\nVisit 3 will be 3 months after visit 2. Participants will have blood taken.\n\nParticipants may be able to get an additional vaccine the same day as the shingles vaccine.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Diagnosis of CLL/SLL which is made according to the updated criteria of the NCI Working Group\n* Cohort 1:Treatment naive CLL/SLL patients\n* Cohort 2: Subjects must be receiving treatment ibrutinib for at least 6 months prior to administration of the first vaccine dose\n* Cohort 3: Subjects must be receiving acalabrutinib for at least 6 months prior to administration of the first vaccine dose\n* No active, symptomatic VZV or herpes zoster infection within 12 months prior to vaccination\n* No exposure to the live VZV vaccine (ZOSTAVAX) within 12 months prior to vaccination\n* No prior exposure to the SHINGRIX vaccine\n* Age greater than or equal to 18 years.\n* ECOG performance status of 0-2\n* Able to comprehend the investigational nature of the protocol and provide informed consent\n\nEXCLUSION CRITERIA:\n\n* Female patients who are currently in pregnancy\n* Any uncontrolled active systemic infection\n* Any life-threatening illness, medical condition, or organ system dysfunction that, in the investigator's opinion, could compromise the subject's safety or put the study outcomes at undue risk\n* Severe allergic reaction to any component of SHINGRIX.\n* Received intravenous immunoglobulin (IVIG) within 3 months prior to vaccination.\n* Concomitant use of immunosuppressive agents (e.g. steroids, radio\n\ntherapy, chemotherapy)\n\n* Hereditary or acquired immunodeficiency syndrome unrelated to chronic lymphocytic leukemia\n* Non-English speaking individuals will be excluded from the study",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Safety and Tolerability",
+    "Compare SHINGRIX Vaccine Response Rates",
+    "Chronic Lymphocytic Leukemia (CLL)",
+    "Small Lymphocytic Lymphoma (SLL)"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with CLL/SLL who are either treatment-naive or are receiving ongoing therapy with a BTK inhibitor (ibrutinib or acalabrutinib). The cohorts are defined by treatment status: treatment-naive, on ibrutinib, or on acalabrutinib.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Cohort 1: Treatment naive CLL/SLL patients",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Cohort 1 includes patients with CLL/SLL who are treatment-naive, meaning they have not received any prior systemic therapy for advanced disease. The eligibility criteria specify 'treatment naive CLL/SLL patients.'"
+    },
+    {
+      "cohort_label": "Cohort 2: Receiving ibrutinib",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Cohort 2 includes patients who must be receiving ibrutinib for at least 6 months prior to the first vaccine dose, indicating they have received at least one prior line of systemic therapy for advanced disease. Adjuvant-only patients are excluded as they must be on active BTK inhibitor therapy."
+    },
+    {
+      "cohort_label": "Cohort 3: Receiving acalabrutinib",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Cohort 3 includes patients who must be receiving acalabrutinib for at least 6 months prior to the first vaccine dose, indicating at least one prior line of systemic therapy for advanced disease. Adjuvant-only patients are excluded as they must be on active BTK inhibitor therapy."
+    }
+  ]
+}

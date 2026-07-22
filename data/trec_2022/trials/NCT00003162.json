@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT00003162",
+  "title": "Radiation Therapy in Treating Patients With Bone Metastases From Breast or Prostate Cancer",
+  "brief_summary": "RATIONALE: Radiation therapy uses high-energy x-rays to damage tumor cells. It is not yet known which radiation therapy regimen is more effective for bone metastases.\n\nPURPOSE: Randomized phase III trial to compare different radiation therapy regimens in treating patients who have bone metastases from breast or prostate cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically proven breast or prostate cancer\n* Radiographic evidence of bone metastasis within 8 weeks of study\n* Eligible treatment sites:\n\n  * Weight-bearing sites:\n\n    * Pelvis (excluding pubis)\n    * Femur\n    * Sacrum and/or sacroiliac joints\n    * Tibia\n  * Non-weight-bearing sites:\n\n    * Up to 5 consecutive cervical, thoracic, or lumbar vertebral bodies\n    * Lumbosacral spine\n    * Up to 3 consecutive ribs\n    * Humerus\n    * Fibula\n    * Radius with/without ulna\n    * Clavicle\n    * Scapula\n    * Pubis\n  * If multiple sites are treated, site is included as weight bearing if any of the sites include the pelvis, sacrum, femur, or tibia\n* Worst pain score of at least 5 on a scale of 10\n* No skull, feet, or hand metastases\n* No spinal cord or cauda equina compression/effacement in vertebral metastases\n* Multiple sites eligible if they can be included in no greater than 3 treatment sites\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nPerformance status:\n\n* Karnofsky 40-100%\n\nLife expectancy:\n\n* At least 3 months\n\nHematopoietic:\n\n* Not specified\n\nHepatic:\n\n* Not specified\n\nRenal:\n\n* Not specified\n\nOther:\n\n* No impending fracture of the treatment site\n* No hematologic primary malignancies\n* Negative pregnancy test\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No change in immunotherapy within 30 days\n\nChemotherapy:\n\n* No change in chemotherapy within 30 days\n\nEndocrine therapy:\n\n* No change in hormonal therapy within 30 days\n\nRadiotherapy:\n\n* No prior radiation therapy to treatment area\n* At least 30 days since systemic radiotherapy (Sr 89)\n\nSurgery:\n\n* No prior palliative surgery to treatment area\n* No planned surgical fixation of the bone",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Breast Cancer",
+    "Metastatic Cancer",
+    "Pain",
+    "Prostate Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

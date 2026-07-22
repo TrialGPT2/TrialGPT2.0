@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00186628",
+  "title": "Phase 2 Trial of Prophylactic Rituximab Therapy for Prevention of CGVHD",
+  "brief_summary": "To determine if rituximab administered after allogeneic transplantation decreases the incidence of chronic graft-vs-host disease (cGvHD)",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Recipient Inclusion Criteria:\n\n* Between 18 and 76 years of age\n* Chronic lymphocytic leukemia (CLL):\n\n  * Unmutated IgG VH gene status\n  * Mutated IgG VH genes (\\> 2% nucleotide change compared to somatic sequence)\n  * Complete remission benefit most from allogeneic hematopoietic stem cell transplant (HSCT).\n\n(Physicians will be encouraged to provide aggressive chemotherapy prior to nonmyeloablative transplantation.)\n\n* Mantle cell lymphoma (MCL): Transplant physicians believe subject would benefit from allogeneic HSCT.\n* Adequate renal (Cr \\< 2.4 mg/dL) and hepatic (Bilirubin \\< 3.0 mg/dL, Aspartate aminotransferase (AST) \\< 100 IU) function.\n* Men and women of reproductive potential must agree to use an acceptable method of birth control during treatment and for six months after completion of treatment.\n* All subjects must provide written informed consent\n\nDonor Inclusion Criteria:\n\n* Genotypically or phenotypically human leukocyte antigen (HLA)-identical.\n* Age \\< 76 unless cleared by institutional PI\n* Capable of giving written, informed consent.\n* Must consent to peripheral blood stem cell (PBSC) mobilization with G-CSF and apheresis\n\nRecipient Exclusion Criteria:\n\n* Recipient has a 9 of 10 or 10 of 10 HLA identical donor (high resolution molecular genotyping at HLA A, B, C and DrB1, and DQ)\n* Pregnancy\n* Lactating\n* Serious uncontrolled infection\n* HIV seropositivity\n* Hepatitis B or C seropositivity\n* Cardiac function: ejection fraction \\< 40% or uncontrolled cardiac failure\n* Pulmonary: Diffusing capacity - carbon monoxide (DLCO) \\< 50% predicted\n* Liver function abnormalities: elevation of bilirubin to \u2265 3 mg/dL and/or AST \\> 100\n* Renal: creatinine \\> 2.4\n* Karnofsky performance score \u2264 60%\n* Patients with poorly controlled hypertension (systolic blood pressure \\> 150 or diastolic blood pressure \\> 90 repeatedly).\n* Known life-threatening hypersensitivity to rituximab or other anti-B cell antibodies.\n* Inability to comply with the allogeneic transplant treatment.\n* Uncontrolled central nervous system (CNS) involvement with disease\n\nDonor Exclusion Criteria:\n\n* Identical twin to subject\n* Contra-indication to subcutaneous G-CSF at a dose of 16 mg/kg/d for 5 consecutive days\n* Serious medical or psychological illness\n* Prior malignancy within the preceding five years, with the exception of non-melanoma skin cancers.\n* HIV seropositivity",
+  "minimum_age": "18 Years",
+  "maximum_age": "76 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Leukemia, Mast-Cell",
+    "Mantle-cell Lymphoma"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT02025699",
+  "title": "Prospective Study to Characterize Host-pathogen Related Factors in Hospitalized and ED Patients With LRTI and/or Sepsis",
+  "brief_summary": "The TAILORED-Treatment consortium was established to develop new tools aimed to increase the effectiveness of antibiotic and antifungal therapy, reduce adverse events, and help limit the emergence of antimicrobial resistance in children and adults.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria\n\n: Patients who are at least one month old will be eligible for inclusion.\n\nThe LRTI disease group should also fulfill the following criteria:\n\nPresence of two or more of the following signs of respiratory distress:\n\nTachypnea, Chest cough, Nasal flaring, Retractions, Rales, Expiratory wheeze and/or decreased breath sounds\n\nThe Sepsis group should also fulfill the following criteria:\n\nSepsis will be defined as a combination of a systemic inflammatory response syndrome (SIRS) due to infectious agent. SIRS will be determined according to published criteria (the International Sepsis Definitions Conference, 2001) based on (in adults):\n\nHeart rate (higher than 90/min) Respiratory rate (higher than 20/min or PaCO2 lower than 32 mmHg) Core body temperature (higher than 38\u00b0C or lower than 36\u00b0C) White blood cell count (higher than 12,000 cells/ \u00b5l or lower than 4,000/ \u00b5l)\n\nSIRS is defined as at least two of the above criteria, one of which must be abnormal temperature or white blood cell count\n\nSevere sepsis is defined as sepsis plus one of the following:\n\nCardiovascular failure Acute respiratory distress syndrome Two or more other organ failure As normal physiological variables are different for children, the SIRS criteria are defined separately for children under 18. SIRS and severe sepsis criteria per age group are defined in details in the \"Population/Inclusion criteria\" section below, according to guidelines of the International Pediatric Sepsis Consensus Conference (2005).\n\nThe non-infectious disease group will include:\n\nPatients with a non-infectious disease. Children in this group can only be included when blood sampling for this study can be combined with blood sampling as part of standard of care.\n\nExclusion Criteria:\n\n* An episode of febrile infection during the past 3 weeks\n* A proven or suspected human immunodeficiency virus (HIV)-1, hepatitis B virus (HBV), or hepatitis C virus (HCV) infection\n* Presence of obvious alternative causes of respiratory distress, such as heart failure or pneumothorax\n* Patients with a nosocomial LRTI (developed \\> 3days after hospitalization)\n* Post-transplant patients\n* Congenital immune deficiency (CID)\n* Active hematological malignancy\n* Current treatment with immune-suppressive or immune-modulating therapies including:\n* Chemotherapy, Radiotherapy or High dose steroids \\>1 mg/kg/day prednisone or equivalent in the past two weeks, Monoclonal antibody or Intravenous IgG (IVIG), Cyclosporine, Anti-TNF agents, Interferon (of all kinds)\n* Other severe illnesses that affect life expectancy and quality of life such as: Moderate to severe psychomotor retardation Moderate to severe congenital metabolic disorder\n\nIn children only: Other severe illnesses affecting life expectancy less than one year.",
+  "minimum_age": "1 Month",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Eligible subjects aged one month of age and older from both genders that attend the hospital or the ED due to a suspected respiratory infections and/or sepsis (onset of symptoms \u22648 days prior to recruitment) or due to a non-infectious disease. These subjects are expected to fall into one of the following categories:\n\n1. Patients with an acute bacterial infection\n2. Patients with an acute viral infection\n3. Patients with an acute mixed co-infection (bacterial and viral)\n4. Patients with a fungal infection\n5. Patients with an undetermined disease etiology\n6. Patients with a non-infectious disease (control group) Patients from subgroups 1-6 will also be classified based on the presence or absence of sepsis or severe sepsis.",
+  "condition": [
+    "LRTI",
+    "Sepsis",
+    "Fungal Infections",
+    "Bacteremia",
+    "Fever Without Source"
+  ],
+  "overall_status": "COMPLETED"
+}

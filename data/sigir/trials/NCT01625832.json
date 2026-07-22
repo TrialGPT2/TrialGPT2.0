@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT01625832",
+  "title": "Effects of Coronary Sinus Occlusion on Myocardial Ischemia (Pilot Study)",
+  "brief_summary": "Coronary artery disease (CAD) is the leading cause of morbidity and mortality in industrialized countries despite advances in medical, interventional, and surgical revascularization therapies. In both, acute myocardial infarction (AMI) and chronic stable disease, standard therapeutic approaches may fail to restore tissue perfusion. Indeed, a substantial number of chronic CAD patients may not be amenable to standard revascularization therapies or percutaneous coronary intervention (PCI) may fail to restore coronary artery patency following an acute vessel occlusion (no-reflow phenomenon, microvascular obstruction). As a consequence, the long pursued strategy of augmenting myocardial perfusion by diverting blood from the coronary venous system to an ischemic region (venous retroperfusion) has again gained attention during recent years. Occlusion of the coronary sinus (CSO) was introduced to provide retroperfusion by transient augmentation of coronary venous pressure. Different devices using CSO have been invented and evaluated in animal models and small clinical trials, e.g. intermittent CSO (ICSO) and pressure-controlled intermittent CSO (PICSO) which seem to be effective for myocardial salvage. However, they are not yet employed in clinical routine, and importantly, the exact underlying mechanisms by which retroperfusion due to CSO may reduce myocardial ischemia are not yet understood.\n\nAs \"natural bypasses\", coronary collaterals are anastomoses without an intervening capillary bed between portions of the same coronary artery or between different coronary arteries that represent an alternative source of blood supply to a myocardial area jeopardized by ischemia. Collaterals of the heart can be assessed quantitatively by coronary pressure measurements, which have become the gold standard (collateral flow index, CFI=\\[Poccl-CVP\\]/\\[Pao-CVP\\]). Theoretically, augmentation of coronary sinus pressure by CSO with an increase of venous backflow reaches the upstream collateral circulation, which in turn could lead to improved collateral flow from non-ischemic area(s) to an occluded, ischemic myocardial region by upstream flow diversion. On the other hand, when considering the formula to calculate pressure-derived CFI, it seems that augmentation of coronary back pressure would rather impair collateral flow (since central venous pressure is coronary sinus pressure). However, the regional effect of a global increase in coronary sinus pressure is unlikely to be as uniform as the above formula implies, i.e., the response is more pronounced in some than in other vascular territories. In experimental studies using dogs (with abundant collaterals), elevation of coronary sinus pressure caused an augmentation of regional myocardial blood flow in the collateralized area. In contrast, when ICSO was performed in pigs (which possess no preformed collaterals), it increased the pressure distal of an occluded LAD but did not improve blood flow or left ventricular function.\n\nIn conclusion, experimental studies and pathophysiologic considerations suggest a necessary role of the collateral circulation for the beneficial effects of coronary sinus occlusion (CSO) observed in animals and humans; however, no clinical data are available so far on the effect of CSO on myocardial ischemia in the presence of varying collateral flow.\n\nStudy hypotheses\n\n1. CSO decreases intra-coronary ECG ST-segment elevation during a 2-minute coronary occlusion.\n2. The decrease in occlusive intra-coronary ECG ST elevation during CSO is directly proportional to CFI.\n3. Coronary sinus oxygen saturation during coronary occlusion with CSO is directly proportional to CFI.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\> 17 years\n* Stable angina pectoris, patient electively referred for coronary angiography\n* Written informed consent to participate in the study\n\nExclusion Criteria\n\n* Acute coronary syndrome; unstable cardio-pulmonary conditions\n* Congestive heart failure NYHA III-IV\n* Previous coronary bypass surgery\n* Q-wave myocardial infarction in the area undergoing CFI measurement\n* Anatomical variants not allowing coronary sinus occlusion\n* Severe valvular heart disease\n* Severe hepatic or renal failure (creatinine clearance \\< 15ml/min)\n* Pregnancy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Coronary Artery Disease",
+    "Coronary Sinus",
+    "Circulation, Collateral",
+    "Ischemia",
+    "Collateral Flow Index"
+  ],
+  "overall_status": "COMPLETED"
+}

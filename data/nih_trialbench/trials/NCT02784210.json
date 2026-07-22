@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT02784210",
+  "title": "Effect of Corticosteroids on Inflammation at the Edge of Acute Multiple Sclerosis Plaques",
+  "brief_summary": "Background:\n\nMultiple sclerosis (MS) affects the brain, spinal cord, and optic nerves. MS lesions can appear on the MRI (magnetic resonance imaging) scans in many ways. Sometimes they light up from the outer edge and fill inward. This is called ring enhancement. Researchers think this type of lesion may not heal as well as others. Corticosteroids are the standard treatment to reduce symptoms of MS relapse. But there is no standard treatment for people with enhancing MS lesions without signs of MS relapse. Researchers want to see if a short-term high-dose course of corticosteroids helps heal those lesions.\n\nObjective:\n\nTo study the effects of short-term high-dose corticosteroids on ring-enhancing MS.\n\nEligibility:\n\nAdults ages 18 and older who:\n\n* Have MS and a rim-enhancing lesion on a prior brain MRI\n* Are enrolled in another NINDS protocol\n\nDesign:\n\nParticipants will be screened under another protocol\n\nParticipants will be randomly assigned to get either no treatment or 3 days of treatment with a corticosteroid.\n\nParticipants will have:\n\n* 1 baseline visit\n* 3 days of high-dose steroids, intravenous or oral. If IV, participants will receive methylprednisolone by IV each day. Participants will also be prescribed medicine to protect their stomach.\n* Follow-up visits will be at week 13 and week 25 after randomization to treatment or no treatment.\n\nVisits include medical history and physical exam. Participants will have blood and urine tests. Participants will also have neurological exams and MRIs. Participants lie on a table that slides into a cylinder. They are in the scanner 1.5-2 hours. They get a dye through a catheter: A needle guides a thin plastic tube into an arm vein.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Multiple sclerosis, as defined by the 2017 Revised McDonald Criteria;\n* Age 18 or older;\n* Ability to provide informed consent;\n* Able to participate in study procedures and provide high-quality clinical research and imaging data, based on limited artifacts on prior MRI scans and, when possible to determine;\n* Presence of a gadolinium enhancing lesion on the screening (3T or 7T) brain MRI that demonstrates either centripetal/rim enhancement or a phase rim, or both;\n* Simultaneously participates in another screening or natural history protocol within the NINDS Neuroimmunology Clinic at the time of study entry.\n* Willing to use birth control if able to conceive a child\n\nEXCLUSION CRITERIA:\n\n* Medical contraindications for MRI (e.g., any non-organic implant or other device such as a cardiac pacemaker or infusion pump or other metallic implants, objects, or body piercings that are not MRI-compatible or cannot be removed);\n* Psychological contraindications for MRI (e.g., claustrophobia), to be assessed at the time the medical history is collected;\n* Treatment with systemic steroids in previous 30 days (non-systemic administration of steroids, such as topical or local injection, is acceptable);\n* Experiencing new neurological symptoms, with onset in previous 2 weeks, attributable to MS relapse;\n* Pregnancy or current breastfeeding;\n* Screening labs, only if required per current NIH Clinical Center guidelines for kidney-function screening before gadolinium-based MRI contrast, demonstrating estimated glomerular filtration rate \\<60 mL/min;\n* Known hypersensitivity to gadolinium-based contrast agents;\n* Medical contraindications to corticosteroid administration (e.g., diabetes, gastric ulcer)",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Multiple Sclerosis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial investigates the effect of short-term high-dose corticosteroids on rim-enhancing MS lesions in adults with multiple sclerosis. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, as this is not an oncology trial and lines of therapy are not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference prior systemic therapy for advanced disease, and the concept of lines of therapy is not applicable to this multiple sclerosis trial. No information is provided regarding prior treatments in the context of advanced/metastatic disease."
+    }
+  ]
+}

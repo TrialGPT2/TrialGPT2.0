@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04594304",
+  "title": "Screening While You Wait 2: Alcohol and Tobacco Use",
+  "brief_summary": "This project aims to help patients improve their health through screening and treatment of risky alcohol and tobacco use. Previous studies show the best approach to reduce substance use includes routine screening, short discussions with a clinician, and tailored resources. Unfortunately, primary care providers (PCPs) do not often screen or provide evidence-based interventions. PCPs report lack of confidence, lack of awareness, and competing priorities as barriers to screening and providing evidence-based care. However, digital solutions can enable patient-initiated screening and overcome barriers in a manner that has the potential to be both efficient and effective.\n\nThe proposed project will test the feasibility of digital patient-initiated screening at the WCH Family Practice (WCH FP) for alcohol and tobacco use, building on work from the first iteration of Screen While You Wait (SWYW). The research team will email patients a secure link to a survey with screening questions assessing substance use and important contextual factors. The results will be summarized in the patient's chart with an automatic notification to the PCP. If the survey reveals risky behaviours, both the PCP and patient will receive a package of tailored resources for further care delivered through a customized website.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patients aged \\>18 who are rostered at WCH FP and have a clinical appointment booked with their PCP in the next 2 weeks\n* Have an email address in their EMR chart, and\n* Are under-screened for alcohol or tobacco use defined as either a) missing a tobacco or alcohol use status documented in the appropriate section of the cumulative patient profile (CPP) in their EMR or b) having an alcohol or tobacco use status that is positive (defined as any status but: ex-smoker, non-smoker, \"rare\"-drinker or non-drinker) and no CPX in the last year.\n\nExclusion Criteria:\n\n* Patients booked for an urgent care appointment (noted in the EMR), as it would not be appropriate to ask patients with acute issues (i.e., short-term severe injury or illness requiring relatively urgent medical attention) to spend extended time receiving alcohol and tobacco use counselling.\n* Patients with active risky alcohol or tobacco use who are already undergoing pharmacologic treatment\n* Currently pregnant patients will be excluded as pathways for diagnosing, counselling and treating substance use is different among this population. They will be identified through a question before the informed consent form appears asking for the patient's gender. If the patient identifies as a woman, a second question will appear that asks if they are currently pregnant. If yes, the survey will end and the participant will not be asked to complete the consent and survey.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Alcohol; Harmful Use",
+    "Tobacco Use",
+    "Tobacco Use Cessation",
+    "Alcohol Use, Unspecified"
+  ],
+  "overall_status": "UNKNOWN"
+}

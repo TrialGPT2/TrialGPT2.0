@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03835000",
+  "title": "Customized Biomechanical Models of the Musculoskeletal System Before and After Surgery",
+  "brief_summary": "The objective of this study is to design a library of biomechanical musculoskeletal models of patients before and after surgery. These models will be evaluated to analyze the support they can provide for virtual surgical planning in orthopedics.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion criteria:\n\n* Men or women aged 20 to 65 years\n* Patients who have had orthopaedic surgery\n* Presence in the file of a preoperative CT scan and/or magnetic resonance imaging (MRI)\n* Presence in the file of a CT scan and/or MRI postoperatively at a distance from the operation (at least 4 weeks)\n* Presence in the file of an operating report describing the procedure in detail with access routes, operating times, type of equipment and possible complications.\n* Patient who has authorized the anonymous use of data from his pre and post surgical examinations\n* Patient who is a member of a social security organisation\n\nCriteria for non-inclusion:\n\n* Patient who has expressed his refusal to use his medical data\n* Minor, patient under guardianship, inability to receive information and express consent\n* Pregnant women\n* Non-affiliation to a social security scheme (beneficiary or beneficiary)\n* Examinations of images that do not allow 3D reconstruction of structures (poor resolution or type of sequence)\n* Incomplete operating report not allowing the understanding of the steps of the surgery.\n* Surgical report describing surgery that does not represent the usual procedures performed.",
+  "minimum_age": "20 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients aged 20 to 65 years who require orthopaedic surgery as described in the literature and for which 3D medical imaging will be performed before and after the surgical procedure.",
+  "condition": [
+    "Joint Disease",
+    "Joint Instability",
+    "Osteoarthritis",
+    "Bone Malalignment"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00989898",
+  "title": "Automated Overnight Closed-loop Glucose Control in Young People With Type 1 Diabetes",
+  "brief_summary": "Children and adolescents with type 1 diabetes need regular insulin injections or continuous insulin delivery with an insulin pump in order to keep blood sugar levels normal. The investigators know that keeping blood sugars in the normal range can prevent long term diabetes complications involving the eyes, kidneys and heart. However, achieving treatment goals can be very difficult as the tighter the investigators try to control blood glucose levels, the greater the risk for the young person to develop symptoms and signs of low glucose levels (hypoglycaemia). This is a particular problem at night. One solution is to develop a system whereby the amount of insulin injected is very closely matched to the blood sugar levels on a continuous basis. In a closed loop system, for example, a continuous glucose sensor communicates with a computer algorithm which drives an insulin pump. The investigators have been developing such a system in Cambridge over the last year with funding from the Juvenile Diabetes Research Foundation. The investigators have found that this system is very effective at preventing hypoglycaemia in young people with diabetes.\n\nUntil now the information from the sensor has been entered manually into the computer and the pump settings have also been changed manually. The investigators now need to move onto the next step which is to fully automate the system. The studies will be done in a clinical research facility. The investigators will study the young people on two nights in order to find out if the closed loop system started early in the evening is as effective as when it is started later before sleep. 12 young people will be recruited from diabetes clinics in the East Anglia region. The studies will provide further important information concerning the safety, efficacy and utility of closed loop systems.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Signed informed consent obtained before study-related activities. Study-related activities are any procedure that would not have been performed during standard medical care.\n* The subject is between 6 and 18 years of age (inclusive).\n* The subject has type 1 diabetes, as defined by WHO for at least 6 months or confirmed C-peptide negative.\n* The subject will have been on insulin pump for at least 3 months\n\nExclusion Criteria:\n\n* Non-type 1 diabetes mellitus including those secondary to chronic disease\n* Any other physical or psychological disease likely to interfere with the normal conduct of the study and interpretation of the study results\n* Taking medication likely to interfere with interpretation of the results\n* Experienced recurrent severe hypoglycaemic unawareness (as judged by the investigator).\n* Known or suspected allergy against insulin.\n* Patients with clinical significant nephropathy, neuropathy or proliferative retinopathy as judged by the investigator.",
+  "minimum_age": "6 Years",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Type 1 Diabetes"
+  ],
+  "overall_status": "COMPLETED"
+}

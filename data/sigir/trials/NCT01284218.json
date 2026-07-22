@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01284218",
+  "title": "Retrospective Database Study of Real World Abilify Outcomes in Major Depressive Disorder (MDD)",
+  "brief_summary": "To examine the differences in health care utilization and costs between MDD patients on adjunctive aripiprazole therapy and MDD patients on other augmentation therapies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* \u22651 fill for an augmentation therapy medication from Table 1 during the identification period of 01 January 2005 - 30 November 2008.\n* 12 months of continuous enrollment with medical and pharmacy benefits each before the index date (pre-index period) and after the index date (post-index period).\n* \u22651 medical claim with a primary International Classification of Diseases, 9th Revision, Clinical Modification (ICD-9-CM) diagnosis for MDD (296.2x, 296.3x, 311.xx) during the pre-index period.\n* Age \u226518 years as of the year of the pre-index period.\n\nExclusion Criteria:\n\n* No pharmacy claims for atypical antipsychotics, mood stabilizers, anxiolytics, anticonvulsants, or stimulants, during the pre-index period.\n* No medical claims with primary or secondary diagnoses for non-MDD episodic mood disorders or schizophrenia during the pre-index or post-index periods.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Commercial health plan members",
+  "condition": [
+    "Depressive Disorder, Major"
+  ],
+  "overall_status": "COMPLETED"
+}

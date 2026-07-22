@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02154880",
+  "title": "Translation Evaluation of Aging, Inflammation and HIV in Lung Function (TEAL)",
+  "brief_summary": "Hypothesis;Aging modifies the risk of pulmonary dysfunction in HIV+ individuals.\n\nThe study is a multicenter, prospective observational study of aging and pulmonary function in HIV. The investigator will determine the prevalence and risk factors for lung dysfunction as quantified by pulmonary function testing in both younger (\\<50 years) and older (\u226550 years) HIV+ and HIV-uninfected controls. The investigator will build on existing cohorts and enrich enrollment for individuals over the age of 50 while adjusting for important co-variates such as ART, smoking history, co-infections, and illicit drug use. Evaluations will be scheduled at baseline, 18 months, and 36 months. Study visits will consist of blood draw, questionnaires, and pulmonary function testing.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Pregnancy or breast-feeding.\n* Contraindication to pulmonary function testing (i.e. abdominal or cataract surgery within 3 months, recent myocardial infarction, etc.).\n* Increasing respiratory symptoms or febrile (temperature \\>100.40F \\[380C\\]) within 4 weeks of study entry.\n* Hospitalization within 4 weeks prior to study entry.\n* Uncontrolled hypertension at screening visit (systolic \\> 160 mm Hg or diastolic \\> 100 mm Hg) from an average of two or more readings. Subject may return for screening after blood pressure is controlled.\n* Active cancer requiring systemic chemotherapy or radiation.\n* Active infection of lungs, brain, or abdomen.\n* Intravenous drug use or alcohol use that will impair ability to complete study investigations in the opinion of the investigator.\n\nExclusion Criteria:\n\nHIV+ young:\n\n* HIV-1 infection, documented in medical record at any time prior to study entry.\n* Men and women age 45 years and below.\n* Ability and willingness to complete all tests.\n* Participant in MACS, Women's Interagency Health Study and secondarily clinics and the community\n\nHIV+ old:\n\n* HIV-1 infection, documented in medical record at any time prior to study entry.\n* Men and women age 50 years and above.\n* Ability and willingness to complete all tests.\n* Participant in MACS, Women's Interagency Health Study and secondarily clinics and the community\n\nHIV- young:\n\n* HIV-uninfected, documented at most recent MACS or WIHS visit.\n* Men and women age 45 years and below.\n* Ability and willingness to complete all tests.\n* Participant in MACS, Women's Interagency Health Study and secondarily clinics and the community\n\nHIV- old:\n\n* HIV-uninfected, documented at most recent MACS or WIHS visit.\n* Men and women age 50 years and above.\n* Ability and willingness to complete all tests.\n* Participant in MACS, Women's Interagency Health Study and secondarily clinics and the community",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants will be subjects in the Pitt Men's Study or the PACT clinic.",
+  "condition": [
+    "HIV",
+    "COPD",
+    "Pulmonary Disease",
+    "Aging"
+  ],
+  "overall_status": "COMPLETED"
+}

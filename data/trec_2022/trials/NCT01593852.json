@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01593852",
+  "title": "X-ray Dose Reduction in Electrophysiology",
+  "brief_summary": "Allura Clarity is a novel X-ray imaging technology, that combines advanced real-time image noise reduction algorithms, with state-of-the-art hardware to reduce patient entrance dose significantly. This is realized by anatomy-specific optimization of the full acquisition chain (grid switch, beam filtering, pulse width, spot size, detector and image processing engine) for every clinical task individually. Furthermore, smaller focal spot sizes and shorter pulses are used, which are known to positively influence image quality .\n\nThe primary aim of this study is to verify if a significant reduction in total procedural X-ray dose during electrophysiological interventions can be achieved by using advanced image processing (Allura Clarity).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with heart rhythm disturbances undergoing an interventional treatment for their heart rhythm disturbance\n* Patients who are allowed, able, willing to and have provided informed consent\n* Patients to be treated with ablation for atrial fibrillation (paroxysmal, persistent or permanent), atypical atrial flutter or patients to be treated with ablation for ischemic or non-ischemic ventricular tachycardia\n* Patients who are treated in heart catheterization room 5 (HCK5) of the Catherina Hospital\n\nExclusion Criteria:\n\n* Patients under 18 years of age.\n* Patient who are pregnant or breast feeding.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Arrhythmias, Cardiac"
+  ],
+  "overall_status": "COMPLETED"
+}

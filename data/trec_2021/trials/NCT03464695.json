@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT03464695",
+  "title": "Automated Oxygen Delivery by O2matic to Patients Admitted With an Exacerbation in COPD",
+  "brief_summary": "The aim of the study is to examine if automated oxygen delivery with O2matic is better than manually controlled oxygen therapy for patients admitted to hospital with an exacerbation in Chronic Obstructive Pulmonary Disease (COPD).\n\nO2matic is a closed -loop system based on continuous non-invasive measurement of pulse and oxygen-saturation that is processed in an algorithm that controls the flow of oxygen to the patient.\n\nThe primary hypothesis is that O2matic increases time within acceptable oxygen-saturation interval. Secondary hypotheses are that O2matic compared to manual control reduces time with severe hypoxia (SpO2 \\< 85 %), hypoxi (SpO2 below intended interval) and hyperoxia (SpO2 above intended interval).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* COPD verified by FEV1/FVC \\< 0,70\n* Admission due to exacerbation in COPD\n* COPD exacerbation and pneumonia can be included\n* Duration of admission \\> 48 hours\n* Need for oxygen supplementation at inclusion (SpO2 \\<= 88 % without O2 suppl.)\n* Cognitively able to participate in the study\n* Willing to participate and give informed consent.\n\nExclusion Criteria:\n\n* Need or anticipated need for mechanical ventilation (except intermittent CPAP)\n* Major co-morbidities (cancer, heart disease, thromboembolic disease, uncontrolled diabetes)\n* Asthma or other respiratory condition requiring higher SpO2 than normal for COPD- patients\n* Pregnancy\n* Acute thromboembolic disease (\\< 2 weeks)\n* Cognitive barriers for participation",
+  "minimum_age": "35 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COPD Exacerbation",
+    "Hypoxia",
+    "Hyperoxia",
+    "Respiratory Failure",
+    "Respiratory Insufficiency",
+    "Copd Exacerbation Acute"
+  ],
+  "overall_status": "COMPLETED"
+}

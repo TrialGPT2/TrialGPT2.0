@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04249310",
+  "title": "Early Intervention Efficacy in COPD",
+  "brief_summary": "This study aims to evaluate the time to escalation to triple therapy among the Japanese Chronic obstructive pulmonary disease (COPD) patients newly initiating therapy with a combination of Olodaterol and Tiotropium (herein referred to as Tio/Olo) using real world data.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nThe study cohort will include all patients who initiate Tiotropium/ Olodaterol (Tio/Olo) or Tiotropium (Tio) during the patient selection period.\n\nExclusion Criteria:\n\nThe following exclusion criteria will then be applied to generate the unmatched cohort:\n\n* Aged \\<40 years on cohort entry.\n* Any LAMA, LABA, or ICS maintenance therapy (alone or in combination) during the 180-day baseline period prior to cohort entry for maintenance treatment and duration \\>30 days, or any prescription within the 30 days prior to cohort entry.\n* Patients without continuous enrolment (days since first inpatient/ outpatient encounter in the data) during the baseline period.\n* No prior diagnosis of COPD \\[International Classification of Diseases (ICD)-10: J41\\*, J43\\*, J44\\* and doubt (UTAGAIFLG) = 0 (no)\\]\n* Patients without a second prescription claim of their index medication within 60 days after the cohort entry date.\n* Diagnosis of asthma \\[ICD-10: J45\\* and doubt (UTAGAIFLG) = 0 (no)\\] during the baseline period.\n* Diagnosis of lung cancer \\[ICD-10: C34\\*, D02.2, Z80.1, Z85.1 and doubt (UTALAIFLG) = 0 (no)\\] or lung transplant (Health claim code: 150317670, 150322510, 150322610, 150336510, 150336610, 150336710, 150399270) prior to the cohort entry date using all available data.\n* Patients who initiate both Tio/Olo and Tio simultaneously on the cohort entry date.\n* Any use of triple therapy (LAMA + LABA + ICS) during the baseline period or between the cohort entry date and 1 day prior to the start of follow-up.",
+  "minimum_age": "40 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study cohort will include all patients who initiate Tiotropium/Olodaterol (Tio/Olo) or Tiotropium (Tio) during the patient selection period. Initiation (new use) will be determined based on no prescription claims for Tio/Olo or Tio during the baseline period or during all available data prior to cohort entry date. All patients will additionally be required to have a second claim for the index medication within 60 days after cohort entry to ensure primary adherence of index therapy.",
+  "condition": [
+    "Pulmonary Disease, Chronic Obstructive"
+  ],
+  "overall_status": "COMPLETED"
+}

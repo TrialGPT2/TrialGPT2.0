@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04726748",
+  "title": "Economic Evaluation of Prostatic Urethral Lift",
+  "brief_summary": "Prostatic urethral lift (Urolift) has been developed as a minimally invasive alternative to transurethral resection of the prostate with no need of general anaesthesia, less need of urinary catheter and less exposure to post-operative complication. Its efficacy and safety have been assessed by 2 clinical randomized trials with evidence of urinary symptom improvement remaining inferior to TURP but durable for 5 years. Urolift preserved overall quality of life better than TURP. Urolift has been recommended by the European Association of Urology guidelines and recognized by French authorities but cannot be financed by the hospital itself. Reimbursement of the implants by healthcare system is therefore needed for the distribution of Urolift in France.\n\nThe additional cost of the implants could be compensated by a reduced length of hospital stay and a lower rate of post-operative complications inducing healthcare expenditures. This study aims to assess if Urolift could be a cost-effective therapeutic strategy compared to transurethral surgery with 2 phases design: a field study comparing patients treated with Urolift to those treated with TURP/laser during 1 year follow-up, and an additional study comparing healthcare consumptions during 3 years follow-up between each group using data of the French National Claims Database (SNDS database).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "\u25cf The PUL and TURP/LASER cohorts:\n\nInclusion criteria:\n\n* male patient aged over 50 years\n* patient who experienced a PUL or TURP/Laser surgery in first line of treatment for a symptomatic BPH, with an International Prostatic Symptom Score \\> 13, a Peak urine flow rate \\< 12ml/sec on a voided volume \\>150ml a Prostate volume \\>30cc to \\<80 cc per ultrasound.\n* patient affiliated to a French health insurance system\n\nExclusion criteria:\n\n* Patient with current urinary retention, post void residual urine \\> 250ml,\n* Patient with active urinary tract infection at time of treatment,\n* Patient with previous Benign Prostatic Hyperplasia procedure,\n* Patient with urethral conditions that may prevent insertion and delivery of device system into bladder,\n* Patient with previous pelvic surgery or irradiation,\n* Patient with history of neurogenic or atonic bladder,\n* Patient with biopsy of the prostate within the past 6 weeks,\n* Patient with life expectancy estimated to be less than 1 year,\n* Patient with history of prostate or bladder cancer,\n* Patient with PSA\\>10ng/ml unless prostate biopsy is negative,\n* Patient under guardianship or curatorship,\n* Patient intending to move abroad within 1 year after inclusion will not be included either,\n* Patient participating to another interventional study on benign prostatic hyperplasia during the study.\n\n  * The SNDS cohort:\n\nInclusion criteria:\n\n* male patient affiliated to a French health insurance system\n* patient aged over 50 years\n* patient who experienced a TURP/Laser surgery in first line of treatment for a symptomatic BPH in the same period as patients of the PUL and TURP/LASER cohorts.\n\nExclusion criteria:\n\n* Patients hospitalized in one of the 6 investigational centers and patients with a previous BPH procedure,\n* patient with a previous pelvic surgery or irradiation,\n* patient with history of prostate or bladder cancer within the 2 previous years,\n* patient with a biopsy of the prostate within the past 6 weeks,\n* patient with a short life expectancy will not be included in the cohort.",
+  "minimum_age": "50 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "Patients of the PUL and TURP/LASER cohorts will be identified in the SNDS through their NIR national identifier (if possible) or using a probabilistic linkage with age, hospital identifier (FINESS), date of hospitalization for the procedure and International Classification of Diseases-10 discharge diagnosis. Only patients with a 2-year history before the procedure and a 3-year follow-up after the procedure will be analysed.",
+  "condition": [
+    "Benign Prostatic Hyperplasia"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

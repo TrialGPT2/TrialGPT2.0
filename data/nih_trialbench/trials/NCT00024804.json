@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT00024804",
+  "title": "A Natural History Study of Bone and Mineral Disorders",
+  "brief_summary": "This study has four objectives: 1) to provide investigators the opportunity to study bone specimens from patients with various skeletal diseases; 2) to treat patients with skeletal diseases at the NIH; 3) to expose NIH trainees to certain skeletal diseases; and 4) to gain more knowledge about skeletal diseases and stimulate further study of bone biology.\n\nAnyone with a disease that affects the skeleton may be eligible for this study.\n\nAll evaluations, tests, procedures and treatments given study participants are used in the standard care of skeletal diseases. No experimental evaluations or treatments are offered. Patient evaluations include a medical history, review of medical records and routine physical examination. Based on the findings, other procedures may be recommended, including blood tests, urine tests, and imaging tests, such as X-rays, bone densitometry, bone scan, computed tomography (CT) and magnetic resonance imaging (MRI).\n\nBone specimens from participants will be collected for research use. Specimens will be obtained from bone removed during a patient s planned surgical procedure performed for medical care, or patients may be requested to have a bone biopsy removal of a small piece of bone tissue as part of the patient evaluation procedure.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nThe study population will include participants with known or suspected bone disease and/or with a known or suspected disorder of mineral metabolism. To be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Age 1 day of life or older\n2. Have a known or suspected bone disease, as demonstrated by any one of the following: a fracture, or abnormal bone findings on x-ray, CT scan, MRI, or bone densitometry, and/or a medical or family history consistent with or suggestive of a bone disease.\n3. Have a known or suspected disorder of mineral metabolism, as demonstrated by any one of the following: laboratory measurement above or below the reference values for either blood or urine calcium, phosphorus, magnesium, parathyroid hormone or vitamin D, or other measures of mineral metabolism, and/or a medical or family history consistent with or suggestive of a disorder of mineral metabolism.\n\nEXCLUSION CRITERIA:\n\n1\\. Participants unwilling or unable to abide by procedures of protocol.",
+  "minimum_age": "1 Day",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects with known or suspected bone disease and disorder of mineral metabolism.",
+  "condition": [
+    "Tumor Induced Osteomalcia",
+    "Osteomalacia",
+    "Familial Tumoral Calcinosis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study enrolling patients with any bone or mineral disorder, regardless of prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, and patients with any bone or mineral disorder are eligible. There are no specifications regarding prior lines of therapy, so line-of-therapy intent cannot be determined."
+    }
+  ]
+}

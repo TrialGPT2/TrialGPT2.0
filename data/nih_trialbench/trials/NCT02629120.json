@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT02629120",
+  "title": "High Dose Peripheral Blood Stem Cell Transplantation With Post Transplant Cyclophosphamide for Patients With Chronic Granulomatous Disease",
+  "brief_summary": "Chronic granulomatous disease (CGD) affects white blood cell function. Currently, the only curative treatment is bone marrow transplant to replace the abnormal stem cells with new ones (donor cells) capable of making a normal immune system. Transplant problems include graft versus host disease (GvHD) and graft rejection. With GvHD, donor cells attack the recipient s normal tissue. Researchers want to use preparation drugs and a high cell dose to increase graft success. They want to use 2 immunosuppressive drugs (cyclophosphamide and sirolimus) to lessen the risk of GvHD.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Must have confirmed Chronic Granulomatous Disease.\n* Must have sufficient complications from underlying disease to warrant undergoing transplantation (either a history of or ongoing inflammation/CGD related autoimmunity OR a CGD related infection while on prophylaxis) OR or have a Quartile 1 and/or 2 residual oxidase production level.\n* Ages 4 years - 65 years\n* HLA-matched family donor graft or an HLA matched unrelated peripheral blood stem cell (PBSC) graft (10/10 or 9/10 mismatch) available\n* Must be HIV negative\n* When discharged from the hospital must be able to stay within one hour s travel of the NIH for the first 3 months after transplantation and have a family member or other designated companion to stay with during the post transplant period.\n* Must provide a durable power of attorney for health care decisions to an appropriate adult relative or guardian in accordance to NIH -200 NIH Durable Power of Attorney for Health Care Decision Making .\n* If of child-bearing potential, must agree to consistently use contraception from one month prior to, and throughout, study participation, and for 3 months post-study. Acceptable forms of contraception are:\n\n  * Contraceptive pills or patch, Norplant , Depo-Provera , or other FDA-approved contraceptive method\n  * Male partner has previously undergone a vasectomy.\n  * Male participants will be advised to consistently use contraception throughout study participation and for 3 months post-transplant.\n\nEXCLUSION CRITERIA:\n\n* Eastern Cooperative Oncology Group (ECOG) or equivalent performance status greater than or equal to 3 (See Supportive Care guidelines, available at http://intranet.cc.nih.gov/bmt/clinicalcare)\n* Left ventricular ejection fraction \\< 40%\n* Transaminases \\> 5x upper limit of normal based on the participant s clinical situation and at the discretion of the investigator\n* Psychiatric disorder or mental deficiency severe enough as to make compliance with the HSCT treatment unlikely, and/or making regulatorily and legally effective informed consent impossible\n* Major anticipated illness or organ failure incompatible with survival from AlloPBSC transplant\n* Pregnant or lactating\n* HIV positive\n* Uncontrolled seizure disorder\n* Individuals older than 65 are excluded. It is known from standard transplantation that these participants have a higher risk of morbidity and mortality related to transplantation. Given the investigational nature of this protocol, the risk benefit ratio is not warranted to include these participants at this time.\n* Any condition or circumstance which the PI feels would create difficulty in maintaining compliance with the requirements of this protocol.\n* Individuals who are not willing to submit their information as part of the Alemtuzumab (Campath) Distribution Program application or participants whom the Distribution Program committee has determined are not qualified to receive alemtuzumab.\n\n  --NOTE: Alemtuzumab (Campath-1H) (intravenous \\[IV\\] formulation) is no longer distributed commercially. In order to receive product, the physician must contact the program for the patient. If the patient is not willing to consent to submit their info (demographics, contact information, and rationale for use) to the program such that we can obtain the drug, then we cannot proceed with conditioning; therefore no transplant will occur on this protocol.\n* Patients with a CRP greater than 100 mg/L within 30 days of anticipated transplant.\n\n  * If the underlying inflammation is controlled for one month with repeat CRP testing showing a level of less than 100 on at least two separate testings, the patient will be reconsidered for transplant. If during this time period a CRP of greater than 100 is measured, then the patient would no longer be eligible for transplant.",
+  "minimum_age": "4 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chronic Granulomatous Disease Transplant"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a hematopoietic stem cell transplantation trial for patients with chronic granulomatous disease (CGD), not a malignancy. There is no mention of prior systemic therapy for advanced disease as an eligibility criterion.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference prior systemic therapy for advanced disease, as this is a transplant protocol for CGD. There are no requirements or restrictions based on prior lines of therapy for advanced disease."
+    }
+  ]
+}

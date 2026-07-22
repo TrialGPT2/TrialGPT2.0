@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT06707207",
+  "title": "Predicting Future Errors During Skill Performance",
+  "brief_summary": "Background:\n\nMany tasks people do every day require a series of individual movements. Control over these movements is called motor skills. But even highly skilled people can make mistakes. Researchers have found that they can predict when a person will make a mistake 0.1 second before it happens. Now, they want to find out if they can increase that time up to 1 second-long enough to warn the person and prevent the mistake.\n\nObjective:\n\nTo see if motor skill errors can be detected up to 1 second before they occur.\n\nEligibility:\n\nRight-handed healthy adults aged 18 to 35.\n\nDesign:\n\nParticipants will have 2 to 5 study visits. Each visit will be 1 to 2 hours.\n\nThey will have a physical and neurological exam.\n\nThey will have 1 or 2 magnetic resonance imaging (MRI) scans. They will lie on a table that slides into a large cylinder. The MRI uses strong magnets to capture images of the inside of the body, including the brain.\n\nThey will have another scan, called magnetoencephalography (MEG). Small metal disks attached to wires will be taped to their head. Participants will sit in a padded chair with their head inside of a helmet. The helmet will not cover their eyes or face. Participants will perform a series of typing tasks on a keyboard. They will have short breaks between each round. Their head movements will be tracked, and their eye and finger movements will be videotaped.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Male or female, aged 18-35\n* In good general health as evidenced by medical history and normal neurological examination as determined by the screening clinician\n* English speaking\n* Right-handedness as reported by participant\n* Ability of subject to understand and the willingness to sign a written informed consent document\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* HCPS-affiliated NIH staff (i.e. - staff from our section)\n* Current pregnancy\n* Contraindications for MRI, or MEG\n* Severe or progressive neurological, psychological or medical condition as determined by the medical history review or physical and neurological exam.",
+  "minimum_age": "18 Years",
+  "maximum_age": "35 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy young volunteers.",
+  "condition": [
+    "Healthy"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology, healthy volunteer study with no cancer diagnosis or systemic therapy for advanced disease required or allowed. There is no line-of-therapy intent applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls healthy adults with no mention of cancer or systemic therapy for advanced disease. Line-of-therapy intent is not applicable."
+    }
+  ]
+}

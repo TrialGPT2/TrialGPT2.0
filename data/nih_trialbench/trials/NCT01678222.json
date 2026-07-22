@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT01678222",
+  "title": "The COX-2 Gene and the Immune System",
+  "brief_summary": "Background:\n\n\\- The immune system contains several different types of cells in the blood and other parts of the body. The body can fight infections well with the right balance of these cell types. The wrong balance of cell types may cause diseases, such as allergies or asthma. The COX-2 gene may help decide the balance of cell types that the body makes as part of the immune system. It may also play a role in certain immune system diseases. Researchers want to see how COX-2 affects the cells in the immune system.\n\nObjectives:\n\n\\- To study how the COX-2 gene works in the body s immune system.\n\nEligibility:\n\n\\- Individuals 18 years of age and above who are part of the Environmental Polymorphisms Registry.\n\nDesign:\n\n* Participants will have one study visit at the National Institutes of Health. They will collect a urine sample at home on the morning of the study visit.\n* Participants will have a physical exam and medical history. They will provide a blood sample. They will also give researchers the urine sample they collected that morning.\n* No treatment will be provided as part of this study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Participant of the Environmental Polymorphisms Registry and current contact information available\n* Genotype information available for relevant 765G\\>C and 8473T\\>C COX2 polymorphisms, which indicates:\n\n  * Individuals who are WT with respect to both 765G\\>C and 8473T\\>C (N=31)\n  * Individuals who are WT with respect to 765G\\>C and homozygous for 8473T\\>C (N=31)\n  * Individuals who are homozygous for both 765G\\>C and 8473T\\>C (N=31)\n* Age 18- 65 years\n* Race self-identified as White or Black and Non-Hispanic ethnicity\n* Willing and able to provide informed consent\n* Able to comply with all protocol procedures\n\nEXCLUSION CRITERIA:\n\n* History of infection within the preceding 1 week or an oral temperature \\>38 degrees C\n* Current daily or chronic use of corticosteroids (systemic, inhaled and topical).\n* Any current conditions known to impact peripheral white blood cell count (e.g., leukemia, lymphopenia, AIDS, other immunodeficiency disorders)\n* Current daily or chronic use of systemic immunosuppressants.\n* Current pregnancy or lactation\n* Unwilling or unable to:\n\n  * Fast (including alcohol and caffeine-containing products) and discontinue tobacco use for 12 hours prior to the study visit\n  * Withhold all prescribed and over-the-counter medications and supplements the morning of the study visit, until after the visit is completed\n  * Refrain from taking the following medications and supplements for 7 days prior to the study visit:\n\n    * NSAIDs\n    * Corticosteroids (nasal, inhaled, topical or systemic)\n    * Fish oil and niacin supplements\n* For blood draws that exceed 200ml, a hematocrit of \\<34% for women or \\<36% for men, or \\>56% for either gender.\n* For blood draws exceeding 200ml, blood or plasma donation in the last 8 weeks",
+  "minimum_age": "18 Years",
+  "maximum_age": "150 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "individuals who are homozygous for either the major or minor variant of both SNPs@@@",
+  "condition": [
+    "Allergic Inflammation",
+    "Asthma"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-interventional study in healthy volunteers or individuals from the Environmental Polymorphisms Registry, with no cancer diagnosis or systemic therapy for advanced disease involved. There is no line-of-therapy intent applicable to this protocol.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer patients or systemic therapy for advanced disease. Eligibility is based on registry participation and genotype, with exclusion of individuals with conditions affecting white blood cell count, but no mention of prior cancer therapy."
+    }
+  ]
+}

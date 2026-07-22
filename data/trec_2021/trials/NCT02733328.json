@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT02733328",
+  "title": "Assessment of Plasma and NGAL for the Early Prediction of Acute Kidney Injury After Cardiac Surgery in Adults Study",
+  "brief_summary": "The study aims to recruit 156 (54 Acute Kidney Injury (AKI);102 non-AKI) patients undergoing Cardio pulmonary bypass (CPB) surgery, including those with Chronic Kidney Disease (CKD) and multiple co-morbidities. Urine and blood samples collected pre-operatively and then 0, 3, 6 and 18 hours post-CPB will be stored at -80oC until batch analysed for NGAL using the Abbott and BioPorto assays. AKI - defined as a \u226550% rise in serum creatinine (SCr) over baseline, or the requirement for renal replacement therapy (RRT). SCr will be measured pre-operatively (baseline), then 12 hourly for the first 48 hrs post-CPB and thereafter 24 hourly for 5 days. Clinical data collected will include patient demographics, co-morbidities, drug history, pre-operative renal function, surgery details (type, length, CPB time etc.), length of Intensive treatment unit and hospital stay and post-operative complications. Data will then be analysed comparing the two NGAL tests to find out which is superior, whether it is better to use blood or urine and to define optimal NGAL cut-offs and sample timing for predicting AKI. Both the Abbott and BioPorto assays will subject to a laboratory method evaluation prior to the analysis of any patient specimens in order to verify that their performance is acceptable and meets the manufacturer's claims. This will involve measuring the standard parameters used to assess laboratory assay performance e.g. imprecision (reproducibility), linearity, recovery and method comparison etc.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patients undergoing cardiac surgery,\n* Including patients with both normal renal function (eGFR \\>60 mL/min) and pre-operative CKD (eGFR \\< 60 mL/min),\n* Include patients with other existing co-morbidity (e.g. diabetes, vascular disease, hypothyroidism) plus those with risk factors of AKI e.g. nephrotoxic drugs.\n\nExclusion Criteria:\n\n* Patients already on renal replacement therapy (RRT)\n* Post-renal transplant patients\n* Emergency surgery\n* Patients \\<18 yrs of age\n* Pregnancy\n* Patients already involved with other on-going clinical studies",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "156 (54 AKI;102 non-AKI) patients undergoing CPB surgery, including those with CKD and multiple co-morbidities",
+  "condition": [
+    "Acute Kidney Injury (AKI)",
+    "Chronic Kidney Disease (CKD)",
+    "End Stage Renal Disease (ESRD)",
+    "Estimated Glomerular Filtration Rate (eGFR)",
+    "Neutrophil Gelatinase-associated Lipocalin (NGAL)",
+    "Serum Creatinine (SCr)",
+    "Urine Creatinine (UCr)",
+    "Urine Albumin (UAlb)"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,49 @@
+{
+  "nctid": "NCT01351545",
+  "title": "A Multicenter Access and Distribution Protocol for Unlicensed Cryopreserved Cord Blood Units (CBUs)",
+  "brief_summary": "This study is an access and distribution protocol for unlicensed cryopreserved cord blood units (CBUs) in pediatric and adult patients with hematologic malignancies and other indications.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Disorders affecting the hematopoietic system that are inherited, acquired, or result from myeloablative treatment\n* Signed informed consent (and signed assent, if applicable) obtained prior to study enrollment\n* Pediatric and adult patients of any age\n\nExclusion Criteria:\n\n* Patients who are receiving only licensed CBUs\n* Cord blood transplant recipients at international transplant centers\n* Patients who are enrolled on another IND protocol to access the unlicensed CBU(s)\n* Patients whose selected unlicensed CBU(s) will be more than minimally manipulated",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Recipients of unlicensed cryopreserved cord blood units who are being treated as U.S. transplant centers.",
+  "condition": [
+    "Hematologic Malignancies",
+    "Inherited Disorders of Metabolism",
+    "Inherited Abnormalities of Platelets",
+    "Histiocytic Disorders",
+    "Acute Myelogenous Leukemia (AML or ANLL)",
+    "Acute Lymphoblastic Leukemia (ALL)",
+    "Other Acute Leukemia",
+    "Chronic Myelogenous Leukemia (CML)",
+    "Myelodysplastic (MDS) / Myeloproliferative (MPN) Diseases",
+    "Other Leukemia",
+    "Hodgkin Lymphoma",
+    "Non-hodgkin Lymphoma",
+    "Multiple Myeloma/ Plasma Cell Disorder (PCD)",
+    "Inherited Abnormalities of Erythrocyte Differentiation or Function",
+    "Disorders of the Immune System",
+    "Autoimmune Diseases",
+    "Severe Aplastic Anemia"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This protocol provides access to unlicensed cryopreserved cord blood units for pediatric and adult patients with hematologic malignancies and other indications, regardless of prior lines of therapy. There are no restrictions on prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on having a disorder affecting the hematopoietic system, with no mention of required or excluded prior systemic therapy for advanced disease. The protocol does not specify any line-of-therapy restrictions or requirements."
+    }
+  ]
+}

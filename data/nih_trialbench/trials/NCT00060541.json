@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00060541",
+  "title": "Evaluation and Treatment of Neurosurgical Disorders",
+  "brief_summary": "Objective: This protocol is designed to allow evaluation of participants neurosurgical disorders that receive care within the Surgical Neurology Branch. The participants will receive standard-of-clinical-care evaluation and treatment. The clinical data and samples generated during standard of care treatment will be collected as a part of this study.\n\nStudy Population: Participants 4 years of age and older with neurosurgical-related conditions seeking care from, or referred to the Surgical Neurology Branch for evaluation are eligible for this protocol.\n\nStudy Design: This is an observational study. Participants will receive standard-of- clinical-care evaluation and treatment for their neurosurgical condition. Clinical evaluation may include laboratory and radiological studies designed to aid in diagnosis or differential diagnosis of the participant s condition or to facilitate treatment. The evaluations may take place in the outpatient clinic areas or in the inpatient units. Some participants will receive standard-of-care medical or surgical treatment for their disorder. Clinical data, tissue samples or body fluids obtained during standard of care treatment, may be used for research. Additional genetic testing may be performed on subjects and their blood relatives if a genetic mechanism underlying the neurological disorder is suspected. Patients in this study may choose to consent to skin biopsies for research purposes, in which case they will sign an additional consent document for thesethis research procedure.\n\nOutcome Measures: No additional research outcome measures will be tracked in this study, as this study is collecting data for potential future use. All outcomes will be those of standard clinical evaluation and treatment. A clinical and research database will be kept of patient s diagnosis, progression, and treatment. Clinical database information may be reported or be used in other studies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Participants must be age 4 and older.\n  2. Participants must seek care from, or be referred to the Surgical Neurology Branch for evaluation and management of neurosurgical conditions (such as central nervous system tumors, peripheral nerve tumors, epilepsy, Parkinson s disease, movement disorders, Chiari syndrome, central nervous system malformations, and pain disorders)\n  3. For adults: able to provide informed consent or having a legally-authorized representative to provide consent, if incapacitated\n  4. For minors: a parent or legal guardian who is able to provide consent.\n\n     For immediate blood relatives of subjects having genetic testing only:\n  5. Blood relative of a subject who is suspected to have a genetic mechanism underlying their neurological disorder (for genetic testing only).\n\nEXCLUSION CRITERIA:\n\n1\\. Patients who are unable to undergo evaluation and treatment for a neurosurgical disorder\n\n3.c. Participant Inclusion Criteria for the cohort with processing of biological samples only (for those subjects who are only having skin biopsies and/or saliva samples)\n\n1. Participants must be age 4 and older.\n2. Participants must seek care from or be referred to the Surgical Neurology Branch for evaluation and management of neurosurgical conditions (such as central nervous system tumors, peripheral nerve tumors, epilepsy, Parkinson s disease, movement disorders, Chiari syndrome, central nervous system malformations, and pain disorders)\n3. For adults: able to provide informed consent or having a legally-authorized representative to provide consent, if incapacitated\n4. For minors: a parent or legal guardian who is able to provide consent.\n5. Be willing to consent for collection of clinical data or biological samples or their cryopreservation\n\n3.D. Participant Exclusion Criteria for the cohort with processing of biological samples only (for those subjects who are only having skin biopsies and/or saliva samples)\n\n1. Patients who are unable to undergo evaluation and treatment for a neurosurgical disorder\n2. At the time of enrollment, subjects without an established diagnosis of a wellcharacterized disease entity with validated treatment algorithms. In such cases, proposed resource investment, in the opinion of the investigators, would not contribute to further advancement of knowledge",
+  "minimum_age": "4 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects with a variety of neurosurgical disorders who require standard neurosurgical treatment; immediate blood relatives of those subjects in whom genetic testing is performed",
+  "condition": [
+    "Neurologic Disorders"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational protocol enrolling patients with neurosurgical disorders for standard-of-care evaluation and treatment, as well as those providing biological samples only. There are no restrictions or specifications regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they specify any requirements or exclusions based on prior lines of therapy. Both treatment-naïve and previously treated patients may be included, but the protocol is not focused on systemic therapy for advanced disease."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT01799538",
+  "title": "Nebulized or Inhaled Albuterol for Lymphangioleiomyomatosis",
+  "brief_summary": "Background:\n\n\\- Lymphangioleiomyomatosis (LAM) is a rare type of lung disease that occurs almost exclusively in women. In LAM, muscle tissue grows in the lungs and starts to block the flow of air. It is a progressive disease, and in severe cases may require a lung transplant. One possible treatment to improve breathing in people with LAM is inhaled albuterol. Albuterol can be given in a metered dose inhaler (MDI) or with a nebulizer. Researchers want to compare these methods to see which method best improves lung function in women with LAM.\n\nObjectives:\n\n\\- To see whether a nebulizer or MDI can better improve lung function in women with LAM.\n\nEligibility:\n\n\\- Women at least 18 years of age who have impaired lung function because of LAM.\n\nDesign:\n\n* Participants will be screened with a physical exam and medical history. No lab tests will be needed for this study.\n* Participants will have a 3-day overnight stay at the National Institutes of Health. Those who are using long-acting inhalers will have to stop taking these drugs 1 week before the study.\n* Participants will receive either the nebulizer or two or four puffs of the inhaler. Four puffs of albuterol is a higher dose than is normally prescribed, and is being tested on this study.\n* Participants will have each treatment around the same time of day on each of the 3 days. Before and after taking the albuterol, participants will have lung function tests.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Diagnosis of LAM either by tissue biopsy, evidence of lung and other organ involvement (renal angiomyolipomas, chylous effusions, lymphangioleiomyomas), high serum levels of vascular endothelial growth factor D (VGEF-D)(1) or a diagnosis of TSC associated with cystic lung lesions.\n* Age 18 years or over\n* Evidence of airflow obstruction: FEV1/VC ratio \\< fifth percentile of predicted normal and an FEV(1) \\<80% predicted of the normal values.\n\nEXCLUSION CRITERIA:\n\nSubjects will be excluded from the study if they meet one or more of the following criteria:\n\n* History of hypersensitivity to albuterol or any of its components.\n* Moderate or large pleural effusions (chest x-ray and or CT scan procedure completed under Protocol 95-H-0186)\n* History of seizures other than during infancy\n* Inability to withhold bronchodilators for 24 hours\n* Cognitive Impairment\n* Age less than 18 years\n* Male sex\n* Status-post lung or kidney transplantation\n* Pregnant or breast feeding (women of childbearing potential will undergo a blood or urine pregnancy test under Protocol 95-H-0186).\n* Treatment with monoaminoxidase inhibitors, tricyclic antidepressants or Beta-adrenergic receptor antagonists or long acting anticholinergic bronchodilators who are unable to be discontinued for at least seven days before enrollment.\n* Patients with URI, uncontrolled hyperthyroidism or severe gastro-esophageal reflux. Major systemic diseases (i.e., malignancy; myocardial infarction or unstable angina; type 1 diabetes, severe hypertension; liver cirrhosis).",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Lymphangioleiomyomatosis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls women with lymphangioleiomyomatosis (LAM) and impaired lung function to compare the effects of nebulized versus inhaled albuterol. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility criteria do not mention prior systemic therapy for advanced disease; patients are included based on diagnosis and lung function, regardless of prior treatment history. There are no restrictions on prior lines of therapy for advanced/metastatic disease."
+    }
+  ]
+}

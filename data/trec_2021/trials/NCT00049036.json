@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT00049036",
+  "title": "Combination Chemotherapy and Rituximab in Treating Patients With HIV-Associated Stage I, Stage II, Stage III, or Stage IV Non-Hodgkin's Lymphoma",
+  "brief_summary": "This randomized phase II trial is studying how well giving combination chemotherapy together with rituximab works in treating patients with HIV-associated stage I, stage II, stage III, or stage IV non-Hodgkin's lymphoma. Drugs used in chemotherapy work in different ways to stop cancer cells from dividing so they stop growing or die. Monoclonal antibodies such as rituximab can locate cancer cells and either kill them or deliver cancer-killing substances to them without harming normal cells. Combining chemotherapy with monoclonal antibody therapy may kill more cancer cells.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Previously untreated histologically or cytologically documented B-cell non-Hodgkin's lymphoma; the following histologies are eligible: diffuse large B-cell lymphoma, high-grade large cell immunoblastic lymphoma, anaplastic large cell lymphoma, Burkitt's lymphoma, high-grade B-cell lymphoma, Burkitt-like (small non-cleaved lymphoma)\n* Tumors must be CD20 positive\n* Documented HIV infection: documentation may be serologic (ELISA, western blot), culture, or quantitative PCR or bDNA assays\n* Evaluable or measurable disease\n* Stage I and IE or Stage II-IV disease patients\n* ANC \\>= 1000 cells/mm\\^3\n* Platelet count \\>= 75,000/mm\\^3 unless cytopenias are secondary to lymphoma\n* All patients must be off colony stimulating factor therapy at least 24 hours prior to chemotherapy\n* Transaminase =\\< 5 times the upper limit of normal unless secondary to hepatic infiltration with lymphoma or isolated hyperbilirubinemia associated with the use of indinavir or other antiretrovirals\n* Total Bilirubin \\< 2.0 unless secondary to hepatic infiltration with lymphoma or isolated hyperbilirubinemia associated with the use of indinavir or other antiretrovirals; for bilirubin \\> 3.0 due to hepatic involvement the initial dose of doxorubicin will be decreased by 50% and the initial dose of vincristine will be omitted\n* Creatinine \\< 2.0 unless due to lymphoma\n* KPS \\>= 50 (ECOG PS 0, 1, or 2)\n* Able to give consent\n* Female patients must have a negative pregnancy test within 72 hours of entering into the study; males and females must agree to use adequate birth control if conception is possible during the study; women must avoid pregnancy and men avoid fathering children while in the study\n* Patients already receiving erythropoeitin or G-CSF are eligible\n* Patients must have a left ventricular ejection fraction that is at or above the lower institutional limits of normal, as assessed by nuclear scan or echocardiogram obtained within 12 weeks of registration\n* Lymphomatous meningitis (patients with a positive CSF cytology are eligible)\n\nExclusion Criteria:\n\n* Previous chemotherapy or radiotherapy for this lymphoma\n* Primary Central Nervous System Lymphoma (parenchymal brain or spinal cord tumor)\n* Acute active HIV-associated opportunistic infection requiring antibiotic treatment; patients with mycobacterium avium are not excluded; chronic therapy with potentially myelosuppressive agents is allowed provided that entry hematologic criteria are met\n* Concurrent malignancy (excluding in situ cervical cancer, or non-metastatic non-melanomatous skin cancer, or Kaposi's sarcoma not requiring systemic chemotherapy)\n* Previous therapy with rituximab within 12 months; patients treated with rituximab more than 12 months earlier are eligible only if it was given for indications other than the treatment of intermediate- or high-grade lymphoma (eg, low-grade lymphoma or ITP)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "AIDS-related Diffuse Large Cell Lymphoma",
+    "AIDS-related Immunoblastic Large Cell Lymphoma",
+    "AIDS-related Peripheral/Systemic Lymphoma",
+    "AIDS-related Small Noncleaved Cell Lymphoma"
+  ],
+  "overall_status": "COMPLETED"
+}

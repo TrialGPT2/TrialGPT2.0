@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02131207",
+  "title": "MRI Before Biopsy in Diagnosing Patients With Prostate Cancer",
+  "brief_summary": "This pilot clinical trial studies how well magnetic resonance imaging (MRI) before biopsy works in diagnosing patients with prostate cancer. MRI is a procedure in which radio waves and a powerful magnet linked to a computer are used to create detailed pictures of areas inside the body. This diagnostic procedure may aid in identifying lesions in the prostate which may have cancer. The lesions can then be targeted during the prostate biopsy to improve the accuracy of identifying prostate cancer.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Abnormal prostate-specific antigen (PSA) blood test\n\n  * \\> 2.5 ng/mL for men \\< 50 years (yrs) of age\n  * \\> 3.5 ng/mL for men \\< 60 yrs of age\n  * \\> 4.5 ng/mL for men \\< 70 yrs of age\n* Abnormal digital rectal exam (i.e. palpable nodule, induration or firm area to the prostate)\n* Scheduled for a TRUS biopsy based on clinical suspicion for prostate cancer\n\nExclusion Criteria:\n\n* Individuals who have previously undergone biopsy of the prostate for diagnosis of prostate cancer\n* Contraindications to TRUS/prostate biopsy (BX)\n\n  * Currently on blood thinning agents (Plavix, Coumadin etc.) or bleeding disorder\n  * Active urinary tract infection\n  * Acute painful perianal disorder (i.e. rectal abscess)\n* Contraindications to MRI\n\n  * Patients with ferromagnetic or otherwise non-MRI compatible aneurysm clips\n  * The presence of an implanted pacemaker or implanted defibrillator device\n  * Patients with contraindications for MRI due to embedded foreign metallic objects: bullets, shrapnel, metalwork fragments, or other metallic material adds unnecessary risk to the patient\n  * Implanted medical device not described above that is not MRI-compatible\n  * Known history of claustrophobia\n* Individuals with a short life expectancy (\\< 10 years)",
+  "minimum_age": "40 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "This is a pilot study of patients from the University Hospitals urology clinics who have not previously been given a diagnosis of prostate cancer but who are awaiting a prostate biopsy due to an elevated PSA or abnormal digital rectal exam",
+  "condition": [
+    "Prostate Cancer"
+  ],
+  "overall_status": "TERMINATED"
+}

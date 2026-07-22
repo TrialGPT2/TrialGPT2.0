@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT00631332",
+  "title": "Women's Health Initiative Study of Cognitive Aging",
+  "brief_summary": "The Women's Health Initiative Study of Cognitive Aging (WHISCA) is a two-armed, randomized, placebo controlled, clinical trial designed to assess the efficacy of postmenopausal hormone therapy (HT) on age related changes in specific cognitive functions.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Enrolled in WHIMS\n* At least 65 years old\n* Not diagnosed with dementia\n\nExclusion Criteria:\n\n* Women younger than 65 years of age\n* Have dementia\n* not enrolled in WHIMS",
+  "minimum_age": "65 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "A subset of women who were enrolled in the Women's Health Initiative Memory Study (WHIMS), who are at least 65 years old and not diagnosed with any type of dementia.",
+  "condition": [
+    "Healthy"
+  ],
+  "overall_status": "COMPLETED"
+}

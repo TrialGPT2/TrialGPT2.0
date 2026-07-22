@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04498936",
+  "title": "Sofosbuvir/Ledipasvir and Nitazoxanide for Treatment of COVID-19",
+  "brief_summary": "The efficacy of treating COVID-19 infection by using Sofosbuvir/Ledipasvir and Nitazoxanide will be examined. Included patients will be into 3 groups. The 1st group will receive Sofosbuvir/Ledipasvir plus the standard care treatment (SCT). The 2nd group will take Nitazoxanide and SCT, while the 3rd group will receive only SCT. Then the clinical improvement and the rate of PCR change from positive to negative will be evaluated in each group.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "This study is an open-label, randomized, controlled trial. A total of 216 patients who are recruited in 2 quarantine hospitals (15th of May hospital, Cairo, and Al Rajhi hospital, Assiut), will be randomly assigned in a 1:1:1 ratio (72 patient in each treatment arm), to receive either the fixed combination of Sofosbuvir/Ledipasvir (400 mg and 90 mg, orally) once daily for 14 days, plus the standard care treatment regimen (SCT) for COVID-19 patients according to the Egyptian Ministry of Health (MOH) protocol (Group 1), or nitazoxanide (500 mg, orally) four times per day for 14 days, plus STC (Group 2), or SCT alone (Group 3). All treatment groups will be followed up by laboratory investigations and PCR for SARS-CoV-2 virus at the time of enrollment, days 5, 8, 11, and 14. Supportive care comprised, as necessary, supplemental oxygen, noninvasive and invasive ventilation, antibiotic agents, vasopressor support, renal-replacement therapy, and extracorporeal membrane oxygenation (ECMO). To ensure a balanced distribution of case severities in all study groups, randomization will be stratified based on the case severity index issued by WHO (https://www.who.int/docs/default-source/coronaviruse/clinical-management-of-novel-cov.pdf).\n\nWritten informed consent will be obtained from all patients or the patient's legal representative if the patient is too unwell to provide consent. The trial will be conducted in accordance with the principles of the Declaration of Helsinki and the Good Clinical Practice guidelines of the International Conference on Harmonisation. The authors are responsible for designing the trial and for compiling and analyzing the data. The authors vouch for data completeness and accuracy and adherence to the trial protocol.\n\nInclusion Criteria:\n\n* This study will include patients with confirmed COVID-19 infection and admitted to COVID-19 quarantine hospitals. Included patients should be \\> 12 years old, with creatinine clearance \\> 30 mL/ml, and without any malignancy. Patients with COVID-19 infection are classified clinically into mild, moderate, severe, and critical cases according to the management guide for COVID-19 published by the Egyptian Ministry of Health and Population. Mild cases are defined as patients in whom clinical symptoms are mild, and no pneumonia manifestations can be found in imaging. Moderate cases are defined as patients having symptoms such as fever and respiratory tract symptoms, etc. and pneumonia manifestations can be seen in imaging. Severe cases are patients who meet any of the following criteria; (a) respiratory rate \\> 30 breaths/min, (b) oxygen saturations\\< 93% at a rest state, (c) arterial partial pressure of oxygen (PaO2)/ Fraction of inspired oxygen (FiO2)\\<300 mm Hg, or (d) patients with more than 50% lesions progression within 24 to 48 hours in lung imaging should be treated as severe cases. Finally, critical patients are those who are meeting any of the following criteria; (a) occurrence of respiratory failure requiring mechanical ventilation, or (b) the presence of shock; other organ failures that require monitoring and treatment in the ICU. All patients with an established diagnosis of COVID-19 in Egyptian quarantine hospitals at any clinical stage will be included in this study.\n\nExclusion Criteria:\n\n* Patients \\< 12 years old.\n* Pregnant females.\n* Patients with renal impairment with creatinine clearance \\< 30 mL/min.\n* Patients with malignancies particularly Hepatocellular Carcinoma (HCC).\n* Patients using Favipiravir or Lopinavir-Ritonavir, as the co-administration of these drugs with Sofosbuvir/Ledipasvir has not been studied.\n* Patients with decompensated liver cirrhosis (Child-Pugh score B and C).",
+  "minimum_age": "12 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID"
+  ],
+  "overall_status": "COMPLETED"
+}

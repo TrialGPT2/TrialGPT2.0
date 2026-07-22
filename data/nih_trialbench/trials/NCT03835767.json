@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT03835767",
+  "title": "Food-Specific and Component IgE Threshold Levels That Predict Food Allergy in People With Elevated Total Serum IgE Levels and Atopic Dermatitis",
+  "brief_summary": "Background:\n\nAtopic dermatitis (AD), also called eczema, makes skin dry, red, and itchy. People with AD are more likely to get a food allergy than people without AD. But some food allergy tests are not always accurate in people with AD. Researchers want to study if people are truly allergic to milk and/or peanuts.\n\nObjectives:\n\nTo improve the ways doctors test for food allergy in people with AD.\n\nEligibility:\n\nPeople ages 3-21 who have had AD; have a high total IgE level (an allergic antibody); might have a milk and/or peanut allergy; and are currently enrolled in another NIH study\n\nDesign:\n\nParticipants will be screened under another protocol.\n\nParticipants will have a physical exam, blood tests, and medical history.\n\nParticipants will breathe into a plastic device that measures lung strength.\n\nParticipants may get a small plastic tube inserted in their arm.\n\nParticipants who have not had an allergic reaction to food in the past 3 years will do 1 or more oral food challenge (OFCs) depending on their allergies.\n\nThey will eat a little bit of the food they might be allergic to.\n\nThey will be watched for a reaction. If they have one, they will know for sure they are allergic.\n\nThey may keep eating bigger portions of the food until they either have a reaction or finish all the food.\n\nIn some OFCs, participants will get a placebo food.\n\nOFCs will last a few hours or 2 days. Participants will repeat all tests at each OFC.\n\nParticipation can last up to 12 months.\n\n...",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIndividuals must meet all of the following criteria to be eligible for study participation:\n\n1. Aged 3-21 years.\n2. Currently enrolled on study 15-I-0162, \"Natural History and Genetics of Food Allergy and Related Conditions.\"\n3. Has a total serum IgE level \\>= 900 kU/L at time of screening.\n4. Has a history of AD based on self-report or physician assessment.\n5. Willing to undergo an oral food challenge to both placebo and test food.\n6. Willing to allow storage of blood samples for future use in medical research.\n7. Willing to allow genetic testing to be conducted on blood samples.\n8. Has a primary care physician or other physician who will manage all health conditions related or unrelated to the study objectives.\n9. Be willing to discontinue omalizumab or dupilumab within 6 months of a food challenge,and antihistamines and oral steroids prior to a food challenge, as these drugs might interfere with the oral food challenge procedure. Use of topical steroids will be allowed\n10. Able to provide informed consent.\n\nEXCLUSION CRITIERIA:\n\nIndividuals meeting any of the following criteria will be excluded from study participation:\n\n1. Pregnant.\n2. Known genetic disorder that causes an elevation in total IgE level or one that could affect the severity of an anaphylactic response.\n3. Known cardiac disease.\n4. Current use of a beta-blocker.\n5. Active eosinophilic gastrointestinal (GI) disorder including eosinophilic esophagitis, currently symptomatic, unless they are currently on treatment and have had a negative esophageal biopsy via endoscopy within at least the past 18 months, and/or unless the study food is already in the participants diets.\n6. Any chronic medical condition requiring long-term use of oral steroids.\n7. Current or recent (within previous 6 months) use of omalizumab or dupilumab.\n8. Any condition that, in the opinion of the investigator, contraindicates participation in this study.\n\nCo-enrollment guidelines: Co-enrollment in other trials is restricted, other than enrollment on observational studies. Consideration for co-enrollment in trials evaluating the use of a licensed medication will require the approval of the principal investigator. Study staff should be notified of co-enrollment on any other protocol as it may require the approval of the principal investigator.",
+  "minimum_age": "3 Years",
+  "maximum_age": "21 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Milk and/or Peanut Allergy"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of food allergy in children and young adults with atopic dermatitis and elevated IgE. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference any prior systemic therapy for advanced or metastatic disease, nor do they mention cancer or oncologic treatment. This study is not in an oncology setting, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

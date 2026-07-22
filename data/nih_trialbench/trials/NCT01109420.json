@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT01109420",
+  "title": "Clinical and Genetic Studies in Familial Non-medullary Thyroid Cancer",
+  "brief_summary": "Background:\n\n\\- Researchers are studying types of thyroid cancer that seem to cluster in families. Non-medullary thyroid cancer accounts for the vast majority of all types of thyroid cancer, but little is known about possible genes that may cause the cancer. More research is needed to develop the best ways to screen for familial non-medullary thyroid cancer (FNMTC) so that it can be diagnosed and treated at an early stage.\n\nObjectives:\n\n* To evaluate the natural history of FNMTC.\n* To determine the best screening strategy for FNMTC.\n* To identify genes that may indicate susceptibility to FNMTC.\n\nEligibility:\n\n\\- Individuals at least 7 years of age who have two first-degree relatives (e.g., parents, children, siblings) who have or have had non-medullary thyroid cancer or a documented diagnosis of non-medullary thyroid cancer and one living relative with documented non-medullary thyroid cancer.\n\nDesign:\n\n* Participants will be evaluated by family history pedigree, physical examination, imaging (including possible neck ultrasound and radioactive iodine scans), and laboratory testing.\n* Participants who agree to have blood or other biological samples collected will be asked to enroll in an additional study to provide the appropriate samples and tissues.\n* After the initial study evaluation, participants who are not found to have a malignant thyroid tumor will be re-screened every year with non-invasive imaging studies. Participants who are found to have a malignant thyroid tumor will be informed of possible treatment options.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nSubjects will be selected for this protocol based on either a clinical diagnosis of non-medullary thyroid cancer and the presence of one family member with the disease or the presence of 2 living family members with this disease. Patient selection for this protocol will not be based on gender, race, or ethnic background.\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Adults or minor (\\>= 7 years+), males and females.\n* An unaffected individual with (Bullet) 2 first-degree relatives who have or have had nonmedullary thyroid cancer\n\nOR\n\n-An affected individual with documented diagnosis of non-medullary thyroid cancer and (Bullet) one living relative with documented non-medullary thyroid cancer (Note: as this is a familial study, subjects do not need to present with the disease)\n\nOR\n\n* Any member of an affected family. (Note: for this study, an affected family is defined as a family having 2 or more 1st degree relatives with a documented diagnosis of FNMTC.)\n* Adults must be able to understand and the willingness to sign the informed consent document.\n* Adults must be able to complete the family history questionnaire.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be not be allowed to enroll in this study:\n\n-Subjects unwilling/unable to give informed consent.",
+  "minimum_age": "7 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "An individual with 2 first-degree relatives who have or have had non-medullary thyroid cancer or a documented diagnosis of non-medullary thyroid cancer and one living relative with documented non-medullary thyroid cancer (Note: as this is a familial study, subjects do not need to present with the disease) OR Any member of an affected family. (Note: for this study, an affected family is defined as a family having 2 or more 1st degree relatives with a documented diagnosis of FNMTC.)",
+  "condition": [
+    "Non-Medullary Thyroid Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study enrolling individuals with or at risk for familial non-medullary thyroid cancer, regardless of prior treatment history. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility is based on family history of non-medullary thyroid cancer, and both affected and unaffected individuals may enroll. There are no criteria regarding prior systemic therapy for advanced disease, and patients who have only received adjuvant therapy or no therapy at all are eligible."
+    }
+  ]
+}

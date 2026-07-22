@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04490239",
+  "title": "Intranasal Heparin Tolerability Study",
+  "brief_summary": "The investigators are investigating the tolerability of Heparin Sodium (porcine) administered topically via a nasal spray. This agent is being investigated as a potential prophylactic treatment to prevent infection by SARS(severe acute respiratory syndrome)-CoV-2, the novel coronavirus that causes COVID-19. Heparin Sodium (porcine) is an FDA-approved anticoagulant drug administered by injection. Recent work from multiple groups have found that heparin can prevent the infection of cells by SARS-CoV-2, indicating a possible use as a topical anti-viral. Numerous studies in both rodent models and humans have shown that heparin administered via a pulmonary or intranasal route enters the blood stream in negligible amounts, suggesting intranasal administration of heparin should be safe even at very large doses. Data from mouse models indicate that repeated daily nasal administration of heparin had no adverse effects in mice over a two week period (including weight loss, nose bleeds, loss of sense of smell, nasal discharge, or decreased blood clotting time). However, no data of repeated nasal administration of heparin in humans is available.\n\nThe investigators will test nasal administration of FDA-approved heparin sodium (porcine), originally formulated for injection. The formulations the investigators will be testing consist of heparin, sodium chloride, and 1% benzyl alcohol as a preservative bottled in a nasal sprayer dispensing 0.1 mL(millilitres) per spray. The investigation is planned in two phases. A single-dose phase will test the acute tolerability of the drug. In this phase, subjects will be administered 0.1 mL of Heparin Sodium in each nostril formulated at one of two doses: Day 1 will test a formulation of 5000 U(units)/mL, and Day 2 will test a formulation of 10000 U(units) /mL. After each dose, subjects will be tested for systemic exposure via blood aPTT tests and platelet count, as well as for local topical toxicity via examination for epistaxis and anosmia, along with any other adverse events. In the chronic phase, subjects will be administered the highest dose that was tolerated in the acute phase daily for fourteen days. Subjects will be tested for aPTT and platelet count, as well as epistaxis, anosmia and any other adverse events.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\nNormal, healthy adults aged 18 to 65 years\n\nExclusion Criteria:\n\n* Allergy to Heparin\n* Currently taking any prescription blood thinners or anti-coagulants, or currently taking any intranasal medication\n* Known history of anemia, thrombocytopenia, or other blood disorder\n* Autoimmune disorders\n* Known history of Neurologic/Psychiatric disorders\n* Report of an active infection\n* Subject is pregnant or breast-feeding, or is expecting to conceive during the study.\n\nNOTE: Subjects will be instructed to abstain from alcohol for the duration of the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19"
+  ],
+  "overall_status": "COMPLETED"
+}

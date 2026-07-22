@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT01324206",
+  "title": "Development of 3T Magnetic Resonance Research Methods for NIA Studies",
+  "brief_summary": "Background:\n\n\\- Magnetic resonance imaging (MRI) studies provide important information on the structure and function of various body systems, including the brain, muscles, joints, heart, and blood vessels. Scientific applications of MRI scans often use techniques that need to be modified or refined before they are used in clinical studies. To develop and modify these techniques for the new Philips 3T Achieva whole-body MRI scanner, researchers are interested in conducting trial MRI scans on healthy individuals and individuals with conditions that require imaging studies.\n\nObjectives:\n\n\\- To conduct preliminary trials of the 3T MRI facility to develop and refine MRI scanning procedures.\n\nEligibility:\n\n\\- Individuals at least 18 years of age who are able to have magnetic resonance imaging.\n\nDesign:\n\n* Participants will be screened with a full medical history and physical examination, as well as blood and urine tests.\n* Participants will have an MRI scan using the 3T scanner. Some scans may require the use of a contrast agent or radiotracer, which is a small amount of radioactive substance that will be injected before the start of the scan. Some participants may be asked to perform tasks of thinking and movement while in the scanner, in order to test the procedures required for a functional MRI scan.\n* No treatment will be provided as part of this protocol.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible to participate in this study, an individual must meet all the following criteria:\n\n* Ability of subject to understand the study and stated willingness to comply with all study procedures.\n* Male or female, age \\> 18years.\n* Able to speak and read English.\n* Capable of providing informed consent.\n* Subjects or persons identified by an investigator to have a condition of interest for exploratory studies as it relates to aging. These participants are not being scanned for diagnostic purposes.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Has condition and/or non-removable device contraindicated for MRI as per the MRI eligibility form.\n* Weight \\> 300lbs (MRI scanner weight limit)\n* Is currently pregnant or a nursing mother.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy volunteers, male and female, 18yrs and older",
+  "condition": [
+    "Normal Physiology"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an imaging methods development study with no therapeutic intervention. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study does not involve cancer treatment or specify any requirements regarding prior systemic therapy for advanced/metastatic disease. Eligibility is based on ability to undergo MRI, not treatment history."
+    }
+  ]
+}

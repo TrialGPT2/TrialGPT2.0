@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04749693",
+  "title": "Observational Study of the Use of DBLG1 System in Real Life",
+  "brief_summary": "This study will be conducted on human subjects and is observational, prospective and uncontrolled, defined as a category 3 according to the Jard\u00e9 Law (RIPH3). It is a national and multicentric study. Enrolled patients are Type 1 Diabetes (T1D) patients who receive the DBLG1 System (CE marked medical device) to be treated. Patients have their regular visits with their own clinician. No change from their usual care must and will be done, including trainings and treatment. At the end of the study, patients will keep their system for their usual care and will continue having usual follow-up visits with their clinician.\n\nData related to their glycemia, complications and quality of life will be collected for 1 year from the beginning of their treatment. A comparison with data collected during the 2 weeks of run-in period, prior to the activation of loop mode, is planned. In case the run-in phase lasts longer than 2 weeks, data collected from the two last weeks only will be kept for analysis and comparison.\n\nThe study is completed when all patients have their \"end of study\" file completed in the electronic Case Report Form (eCRF).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* patients with type 1 diabetes;\n* patients who are at least 18 years old;\n* patients total daily dose required must be less than 90 units (U);\n* patients accepting to be treated with 100 U/mL rapid-acting insulin analog\n* patients having a HbA1c \u2265 8% despite of the use of a pump for at least 6 months\n* patients performing glucose self-monitoring several times ( \u2265 4) a day\n* patient accepting the technology\n* patients agreeing to use the system with activated loop mode during at least 75% of the\n* total time of use, this will be analyzed after 1 year of use.\n* patients must be affiliated to any kind of social security\n\nExclusion Criteria:\n\n* patients receiving a total daily dose of insulin lower than 8 U;\n* patients suffering from a serious illness or having a treatment that might significantly impair diabetes physiology (iSGLT2, steroids, metformin), i.e. glucose-insulin interactions, that might interfere with the medical device (for example treatment by steroids with variable dosage during the study period);\n* patients having severe uncorrected problems of hearing and/or visual acuity preventing proper use of DBLG1 System;\n* patients unable to understand and perform all of the instructions regarding the devices and the clinical investigation provided by Diabeloop.\n* patients planning to perform during the year of study repeated magnetic resonance imaging (MRI), computed tomography (CT) scan, or high-frequency electrical heat (diathermy) treatment. The G6 has not been tested in those situations. The magnetic fields and heat could damage the components of the Dexcom G6, which may cause it to display inaccurate sensor glucose readings (readings) or may prevent alerts. Without G6 readings or alarm/alert notifications, patients might be exposed to severe low or high glucose events;\n* patients who are unwilling or unable to maintain contact with the healthcare professional;\n* patients willing to use any insulin that is not 100 U/mL rapid-acting insulin analog with the system (for example regular insulin; long-acting insulin analog; 200 U/mL rapid-acting insulin analog)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adults with type 1 diabetes equal or more than 18 years old, with Hb1Ac \u2265 8%",
+  "condition": [
+    "Type1diabetes"
+  ],
+  "overall_status": "RECRUITING"
+}

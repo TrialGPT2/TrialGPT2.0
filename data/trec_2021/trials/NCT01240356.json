@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01240356",
+  "title": "CLOTBUST Hands-Free: A Phase I/II Pilot Safety Trial",
+  "brief_summary": "The purpose of CLOTBUST-HF is to determine the safety of a novel, external Hands-Free transcranial Doppler (TCD) ultrasound system in healthy volunteers and ischemic stroke patients. If found to be safe, the widespread use of operator-independent, ultrasound-enhanced thrombolysis will allow the planning for a large Phase III efficacy trial.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "INCLUSION CRITERIA:\n\nPhase I Safety (healthy volunteers):\n\n* Presence of temporal windows as measured first by an FDA-approved diagnostic TCD device.\n* Age \u2265 18 years old.\n* Signed informed consent.\n\nPhase II (0-3 hours ischemic stroke patients):\n\n* Disabling focal neurological deficit (NIHSS \\> 4 points);\n* No evidence of hemorrhage on non-contrast head CT scan;\n* Intravenous rt-PA (0.9 mg/kg, 10% bolus 90% infusion over 1 hour, maximum dose 90 mg) infusion initiated within 3 hours of symptom onset;\n* Diagnostic TCD completed and HF-TCD placed before rt-PA bolus.\n* Diagnostic TCD confirms intracranial arterial occlusion of the middle cerebral artery (MCA), anterior cerebral artery (ACA), internal carotid artery (ICA), posterior cerebral artery (PCA) or distal basilar artery.\n* Age \u2265 18 years old.\n* Signed informed consent.\n\nPhase II (3-6 hours ischemic stroke patients):\n\n* Measurable focal neurological deficit (NIHSS \\> 4 points);\n* No evidence of hemorrhage on non-contrast head CT scan;\n* Diagnostic TCD confirms intracranial arterial occlusion of the middle cerebral artery (MCA), anterior cerebral artery (ACA), internal carotid artery (ICA), posterior cerebral artery (PCA) or distal basilar artery.\n* Presence of neuroimaging defined mismatch (CT or MRI prior to enrollment)\n\n  1. CT-perfusion\n\n     * \u2265 20% difference between affected territories on Time to Peak (TTP) and Cerebral Blood Volume (CBV) maps.\n  2. MRI Diffusion-Perfusion mismatch\n\n     * \u2265 20% difference between diffusion-weighted imaging (DWI) lesion and territory of perfusion delay perfusion weighted imaging (PWI).\n* Age \u2265 18 years old.\n* Signed informed consent.\n\nEXCLUSION CRITERIA:\n\nPhase I Safety (healthy volunteers):\n\n* History of any neurological disease affecting the central nervous system;\n* Lack of temporal windows.\n* History of renal disease or glomerular filtration rate (GFR) \\< 60.\n* Contraindication to MRI (e.g., pacemaker, spinal cord stimulator, severe claustrophobia)\n\nPhase II (0-3 hours ischemic stroke patients):\n\n* Absent temporal windows in patients with anterior circulation ischemia;\n* Intra-arterial thrombolysis;\n* Patient refusal to give informed consent to participate in the CLOTBUST-HF trial;\n* Contraindications for intravenous rt-PA (NINDS rt-PA Stroke Study Protocol)2.\n* Phase II (3-6 hours ischemic stroke patients):\n* Absent temporal windows in patients with anterior circulation ischemia;\n* Intra-arterial thrombolysis;\n* Patient refusal to give informed consent to participate in the CLOTBUST-HF trial;\n* History of allergic response to Definity\u00ae microspheres or microbubbles currently being tested (MRX-801);\n* Baseline imaging consistent with a malignant ischemic pattern (low CBV values or DWI territory \\>100cc of tissue);\n* Baseline MRI imaging demonstrating delayed perfusion of \\> 8 seconds in \\>100cc of brain parenchyma26;\n* Patients receiving other investigational drugs, procedures, or therapies within 30 days prior to study treatment;\n* Significant concurrent medical/neurological conditions or deviation from normal laboratory test values at baseline that, in the opinion of the investigator, pose significant risk to the patient and warrant exclusion from the study;\n* Known severe chronic obstructive pulmonary disease (COPD) (baseline oxygen saturation \\< 80% on room air);\n* Known right-to-left cardiac shunt.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke"
+  ],
+  "overall_status": "COMPLETED"
+}

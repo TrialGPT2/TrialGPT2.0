@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04641767",
+  "title": "BIOmarkers of TRAumatic Brain Injury Spain (BIOTRABIS)",
+  "brief_summary": "Traumatic brain injury (TBI) is defined as a structural alteration of brain function caused by external causes, where mild traumatic brain injury (mTBI) represents approximately 80% of all TBI, and although its prognosis is relatively good, it represents a significant cost to the system due to the need to perform a cranial computed tomography (CT) scan, a test of high economic value and not without risks such as irradiation, especially important and dangerous in the pediatric age.\n\nThe investigators aim to set-up a point of-care (POC) device to validate a biomarker (H-FABP) able to diagnose the presence of brain damage in children and adults with mTBI at trauma and paediatric Emergency Departments using a blood sample, in order to save resources and avoid subjecting patients to a potentially damaging imaging test. But also, to assess whether the incorporation of new biomarkers improves the prediction of brain damage that can be done with H-FABP.\n\nFor that, the investigators will recruit a 400 patients' cohort with blood samples using the available POC device for H-FABP biomarker.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "BIOTRABIS\\>18 (adult patients)\n\nInclusion Criteria:\n\n* Patients over 18 years old\n* Mild TBI patients the first 24 hours after trauma with GCS of 14-15 points.\n* Presence of any of the following symptoms:\n\n  * Loss of consciousness less than 30 minutes, the first 20 minutes after trauma\n  * Post-traumatic amnesia less than 24 hours, the first 30 minutes after trauma:\n  * Persistent headache\n  * Nausea / vomiting\n  * Vertigo / dizziness\n  * Confusion / disorientation\n\nExclusion Criteria:\n\n* Recent history (\\<1 month) of TBI\n* Refusal to participate in the study\n* Evidence of alcohol or other substance intoxication\n* Epilepsy\n* Schizophrenia\n\nBIOTRABIS\\<18 (paediatric patients)\n\nInclusion Criteria:\n\n* Patients between 0 and 17 years old.\n* Mild TBI (GCS 14-15) and moderate TBI (GCS 9-13) patients the first 24 hours after trauma.\n* Presence of any of the following symptoms:\n\n  * Loss of consciousness less than 30 minutes, the first 20 minutes after trauma\n  * Post-traumatic amnesia less than 24 hours, the first 30 minutes after trauma:\n  * Persistent headache\n  * Nausea / vomiting\n  * Vertigo / dizziness\n  * Confusion / disorientation\n\nExclusion Criteria:\n\n* Recent history (\\<1 month) of TBI\n* Refusal to participate in the study\n* Evidence of alcohol or other substance intoxication\n* Epilepsy\n* Schizophrenia",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "BIOTRABIS\\> 18: Group that includes adult patients. Those with mild TBI will be recruited. In order to determine the severity of the TBI, the doctor uses a scale called the Glasgow GCS scale and mild TBI is understood as those with GCS: 14-15.\n\nBIOTRABIS \\<18: Group of pediatric patients. This will recruit those who come to the emergency department with mild TBI (GCS 14-15) or moderate (GCS 9-13).\n\nEach group is subdivided into pathological patients (those under study) or control patients.",
+  "condition": [
+    "Mild Traumatic Brain Injury",
+    "Moderate Traumatic Brain Injury"
+  ],
+  "overall_status": "COMPLETED"
+}

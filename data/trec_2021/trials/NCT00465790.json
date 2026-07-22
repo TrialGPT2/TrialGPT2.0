@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT00465790",
+  "title": "Research of Biomarkers in Parkinson Disease",
+  "brief_summary": "The main goal of the GENEPARK consortium is to employ innovative haemogenomic approaches to determine gene expression profiles specific for genetic and idiopathic Parkinson's disease (PD) patients. These gene expression signatures will be utilised clinically as non-invasive diagnostic tests for PD. The sensitivity of the newly developed diagnostic test will be determined by extensive validations on an independent cohort of PD patients, whereas the specificity will be assessed by testing patients with atypical parkinsonisms, including multiple system atrophy, progressive supranuclear palsy and diffuse Lewy body disease. In order to test the specificity of the diagnostic set in other disorders that affect basal ganglia, Huntington's disease and dopa responsive dystonia patients will be analysed. The second objective of the proposal is to determine correlations between gene expression signatures and different stages of PD and thus provide the basis for early diagnosis and monitoring of disease progression. These changes in blood gene expression will be correlated with alterations detected by neuroimaging in the brain of PD patients. Such combinations of molecular and morphological markers of disease may ultimately facilitate the selection and monitoring of neuroprotective therapies for PD. Finally, GENEPARK aims to develop new bioinformatic software tools for selection of genomic biomarkers using microarray data. A set of established computational tools will be applied and novel methods, some of them based on mechanistic modelling of the neurodegenerative diseases, will be developed in order to study the advantages and limitations of the different methodologies.\n\nWith special emphasis on the careful clinical selection of patients and sufficient power regarding patient numbers, as well as extensive quality control and validation of the data, GENEPARK aims to develop a standardised approach to development and validation of haemogenomic biomarkers of disease.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosis of Parkinson's disease\n* Ability to understand the aim of the study\n* Ability to sign the consent form\n\nExclusion Criteria:\n\n* Non ability to understand the aim of the study\n* Non ability to sign the consent form\n* To be over 18",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with Parkinson's disease and related",
+  "condition": [
+    "Parkinson Disease",
+    "Multiple System Atrophy",
+    "Progressive Supranuclear Palsy",
+    "Huntington Disease",
+    "Dystonia",
+    "Diffuse Lewy Body Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT06577454",
+  "title": "Measuring the Effects of Neurostimulation on Risky and Ambiguous Decision-Making Capacity in People With and Without Substance Use Disorder",
+  "brief_summary": "Background:\n\nThe purpose of this study is to understand how a type of brain stimulation, transcranial magnetic stimulation (TMS), may help those who use opioids such as heroin or methadone. TMS uses brief magnetic pulses to affect brain activity, and is approved by the FDA to treat some mental health problems and substance use. We will evaluate how TMS may help make it easier to make certain kinds of decisions that could help one manage their opioid use. Our findings may provide support for the use of brain stimulation as a treatment to reduce opioid use.\n\nObjective:\n\nTo understand how TMS affects brain activity associated with decision making in people who do and do not use opioids.\n\nEligibility:\n\nPeople aged 18 to 60 years with an OUD. Healthy volunteers are also needed.\n\nDesign:\n\nParticipants will have up to 3 clinic visits over 1 to 3 months.\n\nAll participants will be screened to check if they are eligible to take part in this study. This study is completed in two parts. All eligible participants will complete the first part of the study. In the first part, you will receive one baseline magnetic resonance imaging (MRI) scan so we can take pictures of your brain while you complete computer tasks in the scanner. In these tasks, you will be asked to identify colors of words, view different images and play a game in which you can win money. If you can safely receive TMS, you will be invited to complete the second part of the study. In this part of the study, you will receive TMS and MRI over 2 sessions. For TMS, a coil will be placed on your head and a short electrical current will pass through the coil to create a magnetic pulse that stimulates your brain. You will also repeat the MRI scan and computer tasks. During one of the TMS visits you will receive active or real TMS. In the other, you will receive sham or placebo TMS, which feels like real TMS but does not affect the brain. You will receive both types of TMS. In all sessions, your urine and breath will be tested for drugs and alcohol, and you will complete questionnaires about mood and health....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\nBoth groups:\n\n-Participants will be volunteers between the ages of 18-60.\n\nOpioid-using group:\n\n* Participants must meet DSM-5 criteria for an opioid use disorder (active or in remission and on maintenance therapy).\n* Participants must be currently enrolled in and receiving medication-assisted treatment for opioid use disorder (MOUD; such as methadone, buprenorphine or naltrexone) and report a stable dose of their medication for at least 4 weeks prior to enrollment.\\*\n* Participants in this group can meet DSM-5 criteria for other substance use disorders (such as alcohol, nicotine, or cocaine use disorder) currently or in the past but must also meet criteria for an OUD.\n\n  * To note, participants in the opioid-using group will not receive direct clinical care from NIDA study staff, but enrollment in a MOUD program will be required for inclusion in this study. This will be assessed by self-report of enrollment in a known MOUD program and a urine screen confirming their reported treatment. Participants will also sign a release of information (ROI) form that provides contact details for their treatment provider and allows for communication between the study team and the participants treatment provider if necessary.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\nControls:\n\n-Participants cannot meet DSM-5 criteria for current substance use disorders other than nicotine and marijuana and cannot meet criteria for current moderate or severe alcohol use disorder.\n\nAll participants:\n\n* Participants cannot meet DSM-5 criteria for lifetime and/or current psychotic disorders such as bipolar disorder, schizophrenia, schizoaffective disorder.\n* Participants cannot have a history of major head trauma resulting in cognitive impairment, seizure, or other neurological disorders.\n* Participants cannot have any history of significant neurological disorders, including seizures, epilepsy, or cognitive impairment which may impact MRI metrics. MAI will use discretion in evaluating the impact of minor events or history reported.\n* Participants cannot be pregnant.\n* Participants with Major Depressive Disorder (per DSM-V criteria) must be stable on medication(s) for 3 months.\n* Subjects with suicidal ideation where outpatient treatment is determined unsafe.\n* Subjects that cannot speak English. Justification: To include non-English speakers, we would have to translate the consent and other study documents and hire and train bilingual staff, which would require resources that we do not have and could not justify, given the small sample size for each experiment. Additionally, the data integrity of some of the cognitive tasks and standardized questionnaires used in this study would be compromised as they have only been validated in English. Most importantly, ongoing communication regarding safety procedures is necessary when participants are undergoing MRI procedures. The inability to effectively communicate MRI safety procedures in a language other than English could compromise the safety of non-English speaking participants.\n* Any contraindications to MRI.\n* For subjects continuing to the TMS portion of the protocol, contraindications for TMS.",
+  "minimum_age": "18 Years",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Opioid Use Disorder",
+    "Healthy Volunteers"
+  ],
+  "overall_status": "SUSPENDED",
+  "line_of_therapy_overall_summary": "This is a neurostimulation study in people with opioid use disorder (OUD) who are currently receiving medication-assisted treatment, as well as healthy controls. The trial does not involve cancer or systemic therapy for advanced disease, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study enrolls participants with opioid use disorder on medication-assisted treatment and healthy controls. There is no mention of cancer, advanced disease, or systemic therapy, so line-of-therapy criteria do not apply."
+    }
+  ]
+}

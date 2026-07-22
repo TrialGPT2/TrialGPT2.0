@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04680598",
+  "title": "Comparison of HBV Reactivation Between Patients With High HBV-DNA and Low HBV-DNA Loads Undergoing ICI and Concurrent Antiviral Prophylaxis: a Prospective Observational Study",
+  "brief_summary": "Immune checkpoint inhibitor (ICI), including programmed cell death protein-1 (PD-1) inhibitor or programmed cell death-Ligand 1 (PD-L1) inhibitor , is recommended to treat advanced hepatocellular carcinoma (HCC). However, the safety of ICI in patients with a high HBV-DNA load is unknown because of the potential risk of hepatitis B virus (HBV) reactivation. This study was to compare the HBV reactivation between patients with low HBV-DNA loads and high HBV-DNA loads undergoing antiviral prophylaxis and ICI.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* The diagnosis of HCC was based on the diagnostic criteria for HCC used by the European Association for the Study of the Liver (EASL)\n* Seropositive for hepatitis B surface antigen (HBsAg)\n* Received concurrent antiviral prophylaxis and at least one cycle of ICI treatment. Prior use of antiviral therapy was allowed\n* Adherence to antiviral therapy\n* A life expectancy of 3 months or more\n* An Eastern Cooperative Oncology Group performance status (ECOG PS) of 0-2\n\nExclusion Criteria:\n\n* other positive viral markers, including IgM antibodies to hepatitis A virus, the hepatitis C virus viral load, IgG antibodies to hepatitis D virus, IgM antibodies to hepatitis E virus\n* Antibodies to human immunodeficiency virus,\n* A lack of HBV DNA and liver function testing before the first immunotherapy and during the follow-up period.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Eligible patients were divided into low HBV-DNA group (low group, \u2264500 IU/ml) and high HBV-DNA group (high group, \\>500 IU/ml) according to baseline HBV-DNA level. Baseline HBV-DNA was the HBV-DNA level within 2 weeks prior to initial ICI therapy. For patients who had prior experience with antiviral therapy, the antiviral therapy would be continued. For patients who did not have prior experience with antiviral therapy, antiviral therapy would be administered after patients was confirmed with positive HBsAg or positive HBV-DNA level. Prior use of antiviral therapy was defined that patients have taken antiviral therapy for a period of time before they received ICI therapy. Antiviral prophylaxis was defined as anti-HBV treatment administered before and during ICI therapy. Antiviral treatment was continued even though ICI therapy was terminated.",
+  "condition": [
+    "Hepatocellular Carcinoma"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01799070",
+  "title": "Accuracy of TCD Monitoring in Predicting Cerebral Hyperperfusion Syndrome After Carotid Endarterectomy",
+  "brief_summary": "Background: Cerebral hyperperfusion syndrome (CHS) is a life threatening complication of carotid endarterectomy (CEA) and the changes of middle cerebral artery velocity are used to predict the occurrence of CHS but the accuracy is limited. In addition, changes of BP post-operatively comparing with baseline BP should be a predictive factor of CHS.\n\nObjective: The investigators aimed to create a predictive index, velocity systolic blood pressure index (VSI), for improving the predictive power of Transcranial Doppler monitoring regarding CHS.\n\nMethods: The study design is a diagnostic test, which is an observational analytic clinical study. From March 2013 to September 2014, 200 patients will be recruited. Patients will be classified according to the CHS occurrence. VSI combined the changes of middle cerebral artery velocity and blood pressure crossing CEA and the intra- and post-operative increase ratios of middle cerebral artery velocity were calculated. Their prediction power of CHS will be compared. Sensitivity, specificity, positive predictive value, negative predictive value of them will be calculated. Receiver operating characteristic analysis will be performed.\n\nExpected Outcomes: Comparing with the commonly used intra-operative and post-operative TCD monitoring, VSI may be more useful to select CHS in patients who underwent CEA. As far as the investigators know, analysis or studies combining the BP and velocity changes in the prediction of CHS have never been performed.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age from 30 to 85 years;\n2. Had a middle-grade symptomatic carotid stenosis (more than 50%) or a high-grade asymptomatic carotid stenosis (more than 70%);\n3. Underwent CEA 30 days after the last ischemic cerebrovascular event in the case of symptomatic carotid stenosis;\n4. Signed the ethical information consent form\n5. Underwent TCD study intraoperative and immediately after CEA;\n6. The degree of carotid stenosis will be assessed by CT angiography or cerebral digital subtraction angiography (DSA). (The method document came from the North American Symptomatic Carotid Endarterectomy Trial study.)\n\nExclusion Criteria:\n\n1. Emergency CEA within 30 days of stroke onset in the case of symptomatic carotid stenosis;\n2. No temporal windows to measure the MCAV.\n3. Restenosis after CEA or CAS\n4. Stenosis caused by non-atherosclerotic diseases\n5. Combined severe systematic diseases that markedly decrease the life cycle\n6. Allergy to medicines of the study such as Aspirin or Statin\n7. Refuse to sign the ethical information consent form",
+  "minimum_age": "30 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who with carotid stenosis will accept CEA in PUMCH from March 2013 to September 2014.",
+  "condition": [
+    "Carotid Stenosis",
+    "Cerebral Hyperperfusion Syndrome",
+    "Blood Pressure"
+  ],
+  "overall_status": "UNKNOWN"
+}

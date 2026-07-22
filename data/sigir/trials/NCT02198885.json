@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02198885",
+  "title": "Comparing Use of a Prehospital Ultrasound System and Standard Prehospital Care in Thoracoabdominal Trauma",
+  "brief_summary": "The NanoMaxx Ultrasound System (SonoSite) in connection with the RP-Xpress (InTouch Technologies) provides a means of transmitting ultrasound images, video, and audio to a remote location in real-time. It has been envisioned that this system be used to diagnose trauma patients with suspected pleural effusion, hemothorax, pneumothorax, or abdominal blockage during prehospital care; under the guidance of in-hospital physicians, paramedics would perform an Focused Assessment with Sonography for Trauma (FAST) examination while trauma patients are transported to hospital via ambulance. The investigators hypothesize that in-hospital physicians interpreting ultrasound images obtained by paramedics during trauma patients' transportation to hospital will reduce time to diagnosis; thus, preparations by emergency physicians, surgeons, and operating room teams to receive critically injured patients may begin earlier, reducing time to intervention during a critical period in patient care. Data will also be collected regarding quality of images obtained in-ambulance and the interaction between paramedics and physicians using the remote-presence system.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria for FAST cohort:\n\n* Patient is 18 years of age or older\n* Patient presenting with blunt or penetrating trauma to the thorax or abdomen\n* Patient transported by MD Ambulance to Royal University Hospital\n* Patient being transported by a paramedic who has received training in the above ultrasound system and who has with them a NanoMaxx Ultrasound System (SonoSite) to be used in connection with the RP-Xpress (InTouch Technologies)\n* Patient will take longer than 10 minutes to transport to hospital\n* Patient's care will not be compromised in completing a FAST exam - opinion of paramedic\n* Patient's care will not be compromised in completing a FAST exam - opinion of ER physician\n\nInclusion Criteria for Controls:\n\n* Patient is 18 years of age or older\n* Patient presenting with blunt or penetrating trauma to the thorax or abdomen\n* Patient transported by MD Ambulance to Royal University Hospital\n* Patient will take longer than 10 minutes to transport to hospital\n\nExclusion Criteria:\n\n* Patients under the age of 18\n* Patients whose care would be compromised if other procedures of higher priority (as determined by paramedics and/or remotely-present physicians) were not be able to be executed due to time involved in completing a FAST exam\n* Patients who are not being transported to Royal University Hospital\n* Patients whose expected transport time from scene to hospital is less than 10 minutes",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult patients, presenting with blunt or penetrating trauma to the thorax or abdomen, that are being transported by MD Ambulance to Royal University Hospital where the hospital trip is expected to take longer than 10 minutes.",
+  "condition": [
+    "Thoracoabdominal Trauma",
+    "Focused Assessment With Sonography for Trauma (FAST)",
+    "NanoMaxx Ultrasound System (SonoSite)",
+    "RP-Xpress (InTouch Technologies)"
+  ],
+  "overall_status": "COMPLETED"
+}

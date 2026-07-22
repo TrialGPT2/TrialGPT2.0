@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT01847937",
+  "title": "Magnetic Resonance Diagnostics of Diabetic Peripheral Neuropathy",
+  "brief_summary": "This project aims to develop high field MR techniques to detect nerve lesions in diabetic patients. The MRI findings will be compared to results from conventional evaluations and nerve conduction studies to determine the validity as part of a clinical practice.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of type 1 diabetes, without neuropathy\n* Clinical diagnosis of type 2 diabetes, without neuropathy\n* Clinical diagnosis of type 1 diabetes, with neuropathy\n* Clinical diagnosis of type 2 diabetes, with neuropathy\n* Clinical diagnosis of hereditary axonal neuropathy\n* Clinical diagnosis of hereditary demyelinised neuropathy\n* Healthy controls who do not use prescription drugs and are of normal weight (BMI between 20 and 30).\n\nExclusion Criteria:\n\n* The second cause of the neuropathy.\n* Persons who are under 18.\n* Inability to perform nerve conduction study or magnetic resonance imaging.\n* Patients with liver disease, hypothyroidism, current or past alcohol abuse, rheumatological diseases and vasculitis.\n* Silver Treatment, in diabetics with wounds.",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "In the 3 year course of the study it is expected to include 90 diabetics with and without neuropathy, 10 patients with hereditary axonal neuropathy and 10 patients with demyelinated neuropathy, as well as 35 healthy control subjects. This amounts to a total of 145 subjects.",
+  "condition": [
+    "Diabetes Mellitus, Type 1",
+    "Diabetes Mellitus, Type 2",
+    "Diabetic Polyneuropathy",
+    "Hereditary Axonal Neuropathy",
+    "Hereditary Demyelinated Neuropathy",
+    "Polyneuropathy, Inflammatory Demyelinating, Chronic"
+  ],
+  "overall_status": "COMPLETED"
+}

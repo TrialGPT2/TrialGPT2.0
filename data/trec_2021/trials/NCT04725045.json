@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04725045",
+  "title": "Investigating the Use of Complex Pulse Shapes for DBS in Movement Disorders",
+  "brief_summary": "Parkinson's disease and essential tremor are chronic movement disorders for which there is no cure. When medication is no longer effective, deep brain stimulation (DBS) is recommended. Standard DBS is a neuromodulation method that uses a simple monophasic pulse, delivered from an electrode to stimulate neurons in a target brain area. This monophasic pulse spreads out from the electrode creating a broad, electric field that stimulates a large neural population. This can often effectively reduce motor symptoms. However, many DBS patients experience side effects - caused by stimulation of non-target neurons - and suboptimal symptom control - caused by inadequate stimulation of the correct neural target. The ability to carefully manipulate the stimulating electric field to target specific neural subpopulations could solve these problems and improve patient outcomes. The use of complex pulse shapes, specifically biphasic pulses and asymmetric pre-pulses, can control the temporal properties of the stimulation field. Evidence suggests that temporal manipulations of the stimulation field can exploit biophysical differences in neurons to target specific subpopulations. Therefore, our aim is to evaluate the effectiveness of complex pulse shapes to reduce side effects and improve symptom control in DBS movement patients.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria for PD:\n\n* Diagnosis of idiopathic Parkinson's disease where the diagnosis was made by a Movement Disorder Specialist according to the MDS criteria of 2015, with a Hoehn and Yahr scale (H\\&Y) of at least 2 (bilateral involvement).\n* Onset of the symptoms more than five years ago.\n* MDS-UPDRS-III score of \u226530 without medication or DBS.\n* Electrodes are implanted in target area STN.\n\nInclusion Criteria for ET:\n\n* Patient is diagnosed with essential tremor by a Movement Disorder Specialist.\n* Diagnosis since more than 3 years.\n* Patient has a disabling medical-refractory upper extremity tremor without medication or DBS.\n* Patient has a postural or kinetic tremor severity score of at least 3 out of 4 in the extremity intended for treatment on the Fahn-Tolosa-Marin Clinical Rating Scale for Tremor without medication or DBS.\n* Electrodes are implanted in target area VIM.\n\nGeneral Inclusion Criteria:\n\n* Post-op the implanted electrodes pass an integrity check, i.e. no open or shorted electrodes.\n* Stable medications\n* Lack of dementia or depression.\n* Patient is willing and able to comply with all visits and study related procedures\n* Patient understands the study requirements and the treatment procedures and provides written informed consent before any study-specific tests or procedures are performed.\n* Patient can tolerate at least 12 hours OFF medication and per clinical judgement be able to perform all study related procedures\n\nExclusion Criteria:\n\n* Any significant psychiatric problems, including unrelated clinically significant depression.\n* Any current drug or alcohol abuse.\n* Any history of recurrent or unprovoked seizures.\n* Have any significant medical condition that is likely to interfere with study procedures or likely to confound evaluation of study endpoints, including any terminal illness with survival \\<12 months.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Parkinson Disease",
+    "Essential Tremor"
+  ],
+  "overall_status": "COMPLETED"
+}

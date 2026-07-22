@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02438189",
+  "title": "Reduction of Nocturnal Hypoglycemia and Hyperglycemia in the Home Using Predictive Algorithms",
+  "brief_summary": "Objective: to gain experience with in-home use of a modified algorithm that will dose insulin to minimize projected hyperglycemia overnight in addition to suspending the pump if hypoglycemia is projected overnight and to obtain feasibility, safety, and initial efficacy data.\n\nStudy Design: randomized controlled trial, with randomization on a night level within subject.\n\nMajor Eligibility Criteria: clinical diagnosis of type 1 diabetes, daily insulin therapy for at least one year and an insulin infusion pump for at least 6 months; 15.0 to \\<46.0 years of age; HbA1c \\< 10.0%; no DKA in last 6 months; no hypoglycemic seizure or loss of consciousness in last 6 months; Living with a significant other or family member (\"companion\") committed to participating in all study activities, and being present and available to provide assistance when the system is being used at night.\n\nSample Size: 30 subjects.\n\nStudy Duration and Visit Schedule: duration approximately 3 months, with preliminary run-in activities followed by up to 90 days spent in clinical trial phase of study; clinic visits at enrollment, following CGM and system assessment run-in phases, at start of clinical trial phase, at 21-day point of clinical trial phase, and after 42 nights of successful system use.\n\nMajor Efficacy Outcomes:\n\n* Primary: time in range (70-180 mg/dl, 3.9-10.0 mmol/L) overnight.\n* Secondary: time spent in hypoglycemia (\u226470 mg/dl, 3.9 mmol/L) and time spent in hyperglycemia (\\>180 mg/dl, 10.0 mmol/L) overnight.\n\nMajor Safety Outcomes: CGM measures of hypo- and hyperglycemia, including morning blood glucose and mean overnight sensor glucose; adverse events including severe hypoglycemia and diabetic ketoacidosis.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of type 1 diabetes and using daily insulin therapy for at least one year and an insulin infusion pump for at least 6 months The diagnosis of type 1 diabetes is based on the investigator's judgment; C peptide level and antibody determinations are not required.\n* Age 15.0 to \\<46.0 years\n* HbA1c \\<10.0%\n\n  * Measured with DCA2000 or equivalent device for assessing eligibility\n  * HbA1c measurements performed as part of usual clinical care within 2 weeks prior to obtaining informed consent for participation in the trial may be used.\n* Uninterrupted internet access while study system is being used overnight and for upload of study data in the morning\n* Living with a significant other or family member (\"companion\") committed to participating in all study activities, and being present and available to provide assistance when the system is being used at night\n* An understanding of and willingness to follow the protocol and sign the informed consent\n\nExclusion Criteria:\n\n* Diabetic ketoacidosis in the past 3 months\n* Hypoglycemic seizure or loss of consciousness in the past 6 months\n* History of seizure disorder (except for hypoglycemic seizure)\n* History of any heart disease including coronary artery disease, heart failure, or arrhythmias\n* Cystic fibrosis\n* Current use of oral/inhaled glucocorticoids, beta-blockers or other medications, which in the judgment of the investigator would be a contraindication to participation in the study.\n* History of ongoing renal disease (other than microalbuminuria). Creatinine level must have been obtained within the last year if subject has diabetes of \\>10 years duration. If creatinine is \\>1.5 mg/dL (132 \u00b5mol/L), the subject is excluded.\n* Medical or psychiatric condition that in the judgment of the investigator might interfere with the completion of the protocol such as:\n\n  * Inpatient psychiatric treatment in the past 6 months\n  * Uncontrolled adrenal disorder\n  * Abuse of alcohol\n* Pregnancy Negative urine pregnancy test required for females who have experienced menarche as well as agreement from subject and parent/guardian to use a form of contraception to prevent pregnancy while participant is in the study. Subjects who become pregnant will be discontinued from the study.\n* Liver disease as defined by an ALT greater than 3 times the upper limit of normal",
+  "minimum_age": "15 Years",
+  "maximum_age": "45 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Type 1 Diabetes"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT03831958",
+  "title": "Long-Term Follow-Up of Survivors of Pediatric Cushing Disease",
+  "brief_summary": "Background:\n\nThe pituitary gland produces hormones. A tumor in this gland can cause it to produce too much of the hormone cortisol. Too much cortisol in the body causes Cushing disease. This disease causes many problems. Some of these problems might persist after the disease is cured.\n\nObjective:\n\nTo find out the long-term effects of exposure to high levels of cortisol during childhood and adolescence.\n\nEligibility:\n\nPeople ages 10-42years who were diagnosed with Cushing disease before age 21 and are now cured and have normal or low cortisol levels\n\nPeople related to someone with Cushing disease\n\nDesign:\n\nParticipants will be screened with a medical history.\n\nParticipants will complete an online survey. This will include questions about their or their child s physical and mental health.\n\nAll participants will be seen at 5 -year intervals after cure of Cushing disease (5yr, 10yr, 15yr, 20yr (last visit))\n\nParticipants who have a relative with Cushing disease will have a medical history and blood tests or cheek swabs.\n\nParticipants who have the disease will have:\n\nPhysical exam\n\nBlood tests\n\nCheek swab\n\nDXA scan: A machine will x-ray the participant s body to measure bone mineral content.\n\nFor participants who are still growing, a hand x-ray\n\nParticipants with the disease may also have:\n\nHormone stimulation test: Participants will get a hormone or another substance that will be measured.\n\nSerial hormone sampling: Participants blood will be measured several times through a thin plastic tube in an arm vein.\n\nUrine tests: Participants urine may be collected over 24 hours.\n\nMRI: Participants may have a dye injected into a vein. They will lie on a table that slides into a machine. The machine will take pictures of the body.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Males and females 10-42 years old (subjects) who were previously diagnosed and had successful treatment of CD before the age of 21 years old. Patients who have undergone therapies other than surgical resection (such as radiation or medical treatment) will be eligible to participate.\n  2. Normocortisolemia or hypocortisolemia at the time of the study (as documented within past 6 months of recruitment) documented as urine free cortisol or midnight/afternoon serum or salivary cortisol levels within or below the normal range or documented panhypopituitarism (on glucocorticoid replacement).\n  3. Patients or a legal guardian (in case of cognitively impaired adults or children) must provide assent/consent at the time of the recruitment.\n  4. Family members (2- 90 yrs.) of patients with a family history of pituitary tumors and who agree to participate in the DNA/linkage analysis study.\n\nEXCLUSION CRITERIA:\n\n1. Pregnancy\n2. Patients with any medical, physical, psychiatric, or social conditions, which, in the opinion of the investigators, would make participation in this protocol not in their best interest, will be excluded from the on-site visit of the study. Patients who are critically ill, unstable, or with severe organ failure that may affect/limit the endocrine evaluation and place unsustainable demands on Clinical Center or NICHD resources will be excluded. They will still be offered the opportunity to participate in the online questionnaire part of the study.",
+  "minimum_age": "2 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population will consist of patients that were previously successfully treated for CD before the age of 21 years. We aim to identify these patients through review of our current protocol 97-CH-0076 on Clinical and genetic investigation of pituitary and hypothalamic tumors , which has been recruiting patients since 1997. We will also accept patients who have been diagnosed and successfully treated for pediatric CD at outside institutions after reviewing the medical records and confirming their diagnosis. The patients must be normocortisolemic at the time of their recruitment. Family members of subjects who are survivors of pediatric Cushing disease will be invited to participate in the DNA/linkage analysis study.",
+  "condition": [
+    "Cushing Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a long-term follow-up study of survivors of pediatric Cushing disease who are now cured and have normal or low cortisol levels. The study does not focus on systemic therapy for advanced disease, and line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria require prior diagnosis and successful treatment of Cushing disease before age 21, but there is no mention of systemic therapy for advanced disease or lines of therapy. The study is not designed around systemic treatment lines for advanced/metastatic disease."
+    }
+  ]
+}

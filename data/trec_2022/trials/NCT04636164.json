@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04636164",
+  "title": "Deep Neural Networks on the Accuracy of Skin Disease Diagnosis in Non-Dermatologists",
+  "brief_summary": "Background: Deep neural networks (DNN) has been applied to many kinds of skin diseases in experimental settings.\n\nObjective: The objective of this study is to confirm the augmentation of deep neural networks for the diagnosis of skin diseases in non-dermatologist physicians in a real-world setting.\n\nMethods: A total of 40 non-dermatologist physicians in a single tertiary care hospital will be enrolled. They will be randomized to a DNN group and control group. By comparing two groups, the investigators will estimate the effect of using deep neural networks on the diagnosis of skin disease in terms of accuracy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* non-dermatologist physician (residents) who agree to participate in this study\n\nExclusion Criteria:\n\n* dermatology residents\n* non-dermatology residents who use other deep neural networks for skin lesion diagnosis",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Skin Diseases"
+  ],
+  "overall_status": "TERMINATED"
+}

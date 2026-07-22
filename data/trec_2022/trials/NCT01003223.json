@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01003223",
+  "title": "Phosphate Kinetic Modeling",
+  "brief_summary": "Cardiovascular disease is a major cause of death in hemodialysis (HD) patients and is associated with widespread vascular calcification. There is a consensus that the chronic overload of calcium and phosphorus is a major factor in vascular calcification. Hyperphosphatemia, deleterious in dialysis patients, is aggressively monitored and treated. Phosphate binders - designed to bind dietary phosphate and thus prevent its absorption, are ubiquitous in the dialysis patient population, and calcium-based phosphate binders are often first line therapy because they are tolerated well by the patients and low in cost. Phosphate Kinetic Modeling (PKM) is a tool to help physicians manage a hemodialysis patient's phosphate level. Once a subject consents to participate in the study, the subject's dietary phosphate intake will be estimated and the appropriate dose of the phosphate binder calcium acetate (PhosLo) will be recommended accordingly. If necessary, the Ca++ concentration of the dialysate will be changed to remove any excess calcium absorbed as the result of an increase in the PhosLo prescription to control phosphorus.Ongoing recommendations regarding oral phosphate binders dialysate calcium will be made using a computer generated algorithm.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age \u2265 18 years\n2. Thrice weekly hemodialysis with a dialysate Ca++ concentration (CdiCa) of 2.25 or 2.5 mEq/L\n3. Stable CdiCa of either 2.25 or 2.5 mEq/L for \u2265 4 weeks\n4. Dialysis vintage \u2265 6 months\n5. Current serum phosphorus (\"month -1\") \\> 5.5 mg/dL and average serum phosphorus month -1 to -3 \\> 5.5 mg/dL and average serum phosphorus month -1 to -6 \\> 5.5 mg/dL\n6. Patients currently prescribed calcium acetate (PhosLo) mono-therapy , sevelamer monotherapy, or a combination therapy of PhosLo plus sevelamer for phosphate binding\n7. Fresenius Optiflux F 160, 180 or 200 dialyzer\n\nExclusion Criteria:\n\n1. Parathyroidectomy\n2. iPTH \\< 50 pg/mL\n3. Dialysate potassium prescription other than 2 or 3 mmol/L Corrected serum Ca++ \\< 7.5 mg/dL",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "End Stage Renal Disease",
+    "Hyperphosphatemia"
+  ],
+  "overall_status": "COMPLETED"
+}

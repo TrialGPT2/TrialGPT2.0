@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04579393",
+  "title": "Fostamatinib for Hospitalized Adults With COVID-19",
+  "brief_summary": "Background:\n\nCOVID-19 is a new disease caused by SARS-CoV-2 that was identified in 2019. Some people who get sick with COVID-19 become ill requiring hospitalization. There are some medicines that may help with recovery. Researchers want to see if a drug called fostamatinib may help people who are hospitalized with COVID-19.\n\nObjective:\n\nTo learn if fostamatinib is safe in patients who are hospitalized with COVID-19 and gain earlier insight into whether it improves outcomes.\n\nEligibility:\n\nAdults age 18 and older who are hospitalized with COVID-19.\n\nDesign:\n\nParticipants will be screened with a physical exam, including vital signs and weight. They will have a blood test and chest x-ray. They will have a COVID-19 test as a swab of either the back of the throat or the back of the nose. They will take a pregnancy test if needed.\n\nParticipants will be randomly assigned, to take either fostamatinib pills or a placebo twice daily for up to 14 days in addition to standard of care for COVID-19. If they can swallow, they will take the pills by mouth with water. If they cannot swallow or are on mechanical ventilation, the pills will be crushed, mixed with water, and given through a tube placed through the nostril, or placed in the mouth, down the esophagus, and into the stomach. Blood samples will be taken daily. Participants will return to the Clinical Center for safety follow-up visits. At these visits, they will have a physical exam and blood tests. If they cannot visit the Clinical Center, they will be contacted by phone or have a telehealth visit.\n\nParticipation will last for about two months",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Patient must be hospitalized, or had their inpatient stay extended, for COVID-19.\n  2. Age \\>=18 years\n  3. Subject (or legally authorized representative) provides informed consent prior to initiation of any study procedures.\n  4. Subject (or legally authorized representative) understands and agrees to comply with planned study procedures.\n  5. Females of childbearing potential must agree to be abstinent or use a medical acceptable form of contraception from the time of enrollment through 30 days after last day of study drug\n  6. Laboratory confirmed SARS-CoV-2 RT-PCR test within 7 days of enrollment\n  7. Illness of any duration with SpO2 of less than 94% on room air requiring supplemental oxygen via nasal canula or non-invasive mechanical ventilation, or mechanical ventilation or ECMO (5 to 7 on the 8-point scale)\n\nEXCLUSION CRITERIA:\n\n1. ALT or AST \\> 5 times the upper limit of normal (ULN) or ALT or AST \\>= 3 x ULN and total bilirubin \\> 2 x ULN.\n2. Estimated glomerular filtration rate (eGFR) \\<30ml/min\n3. Pregnancy or breast feeding\n4. Anticipated discharge in the next 72 hours\n5. Allergy to study medication\n6. Uncontrolled hypertension (systolic blood pressure \\>160mmHg or diastolic blood pressure \\>100mmHg)\n7. Shock or hypotension at the time of enrollment\n8. Neutrophil count \\<1000/microliter\n9. Concern for bacterial or fungal sepsis\n10. Received immunomodulatory treatment within 30 days prior to enrollment e.g., Bruton's tyrosine kinase/phosphoinositide 3 kinase/Janus kinase inhibitor or cytokine-targeting biologic therapy (anti-TNF, IL-6)\n11. Received a live vaccine the last 4 weeks\n12. Those who were cognitively impaired or mentally disabled prior to COVID diagnosis\n13. Participation in another clinical trial for the treatment of COVID-19.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Coronavirus Disease 2019"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls adults hospitalized with COVID-19, regardless of prior systemic therapy for advanced disease. There are no requirements or restrictions based on prior lines of therapy for advanced/metastatic disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility criteria do not mention any requirements or restrictions regarding prior systemic therapy for advanced disease. Both treatment-naïve and previously treated patients are eligible, as long as they are hospitalized with COVID-19."
+    }
+  ]
+}

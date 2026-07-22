@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02534194",
+  "title": "Gestational Age Assessment Tool",
+  "brief_summary": "In the UK and worldwide many babies are born without carers knowing their gestation as the mothers will not have had good antenatal care. It is possible to estimate gestation but this requires a detailed clinical exam. The investigators wish to improve this by using software analysis to pick out features of the baby (face and foot) to try and estimate the gestation of the baby once it is born. The investigators will also look explore if the software can distinguish the normal face or a baby in discomfort.\n\nGood estimation of gestation can result in more targeted management of the baby. The investigators will capture the images of newborn babies, from a variety of gestations, and use this dataset to teach the software to estimate gestational age and level of discomfort.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Where the baby's gestational age is known (based on antenatal care)\n* With written informed parental consent.\n\nExclusion Criteria:\n\n* No parental consent\n* Babies undergoing palliative care",
+  "minimum_age": "",
+  "maximum_age": "6 Months",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Newborn babies within 7 days of birth recruited from Nottingham University Hospitals NHS Trust.",
+  "condition": [
+    "Immature Newborn",
+    "Premature Birth"
+  ],
+  "overall_status": "COMPLETED"
+}

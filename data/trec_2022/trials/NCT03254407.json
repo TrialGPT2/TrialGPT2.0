@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03254407",
+  "title": "Switch Timely to Oral Medication",
+  "brief_summary": "The goal of this study compare the effectiveness of an electronic note versus a telephone call to alert the prescriber of a possible IV to oral switch. Secondary endpoints are the time-to-switch and the economic impact of earlier IV to oral switch.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* Therapy with prescriptions for levofloxacin (J01MA12), moxifloxacin (J01MA14), clarithromycin (J01FA09), fluconazole (J02AC01), clindamycin (J01FF01), acetaminophen (N02BE01), rifampicin (J04AB02), ornidazole (J01XD03) and metronidazole (J01XD01) in the hospitals CPOE from 01-08-2015 until 30-11-2015 for hospitalized patients.\n\nExclusion Criteria:\n\n* Therapy prescribed in PDMS (in casu: ICU)",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "IV Oral Switch",
+    "Appropriateness Review"
+  ],
+  "overall_status": "COMPLETED"
+}

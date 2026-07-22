@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01662947",
+  "title": "Clinical Study of Wrist Blood Pressure Monitor in Conformance With the ANSI/AAMI SP10 Standard",
+  "brief_summary": "The clinical protocol of the clinical testing of this device:\n\n1. Objective of the test: To verify the efficiency of device.\n2. Test methods and procedures: Clinical test in two positions: Seated and Supine.\n3. DUT: Transtek Wrist Blood Pressure Monitor, Model: TMB-1117. Cuff size: 13.5 - 21.5 cm.\n4. Comparison device: Yuyue Medical Blood Pressure Meter, YYBP-212, accuracy: \u00b11 mmHg and range: 0-300 mmHg.\n5. Study endpoints: Comply with ANSI/AAMI SP10-2002 standard.\n6. Statistical methodology used: Description of statistical methods.\n7. Result: Meet the requirements of SP10.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* male,female,\n\nExclusion Criteria:\n\n* below 18 years old",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Efficacy of Wrist BPM Measurement",
+    "Hypertension"
+  ],
+  "overall_status": "COMPLETED"
+}

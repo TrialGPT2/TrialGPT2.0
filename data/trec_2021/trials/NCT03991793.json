@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03991793",
+  "title": "Granzyme A in Patients With E. Coli Bacteremic Urinary Tract Infections",
+  "brief_summary": "Background: Survival in Granzyme A gene (gzmA) knocked-out mice was significantly longer than in wild-type mice in a murine peritonitis model (cecal ligation puncture).\n\nHypothesis: GZM A has a pathogenic role in sepsis in humans and gzmA polymorphisms can help to predict the risk of sepsis among patients with systemic infections (E. coli bacteremic urinary tract infections).\n\nObjectives:\n\n1. To assess the correlation between GZM A serum levels and systemic inflammatory response in a human model of infection/sepsis (E. coli bacteremic UTI)\n2. To characterize gzmA polymorphisms among patients with E. coli bacteremic UTI\n3. To determine GZM A serum kinetics among patients with E. coli bacteremic UTI\n4. To characterize E. coli strains causing bacteremic UTI: antimicrobial phenotype and virulence factors (\"virulome\").\n\nMethods:\n\n* Design and setting: Prospective nested case-control study\n* Study population: consecutive adult patients with bacteremic urinary tract infections (UTIs) caused by E. coli\n* Exclusion criteria: Patients with conditions that significantly compromise immune status or patients exposed to urologic procedures\n* Estimated sample size: 50 patients with a sepsis/ non sepsis 1:1 ratio. Septic and non septic patients will be matched on gender, age (+/- 10 years), comorbidity (Charlson score +/-1), time symptom onset to blood culture (+/- 24h)\n* Measurements: GZM A serum levels will be determined on day 0, day 2-3, day 30. GZM A kinetics, gzmA polymorphisms (whole exome sequencing).Whole genome sequencing of E. coli isolates retrieved from blood cultures will be performed.\n* Analysis: Association between GZM A levels and gzmA polymorphisms and sepsis will be analyzed adjusting for patient, infection and microorganism-related factors (multivariate analysis).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* E. coli bacteremic urinary tract infection\n\nExclusion Criteria:\n\n* Immunocompromised hosts: HIV/AIDS, Neutropenia, Solid neoplasia, Hematological neoplasia, patients receiving immunosuppressive therapy\n* Systemic antibiotic therapy in the 2 months preceding the bloodstream infection\n* Anatomical or functional urological abnormalities that require urological procedures in the previous 2 months",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adults with E. coli bloodstream infection from a urinary source",
+  "condition": [
+    "Bloodstream Infection",
+    "Sepsis",
+    "Pathogenesis",
+    "Escherichia Coli Bacteremia"
+  ],
+  "overall_status": "UNKNOWN"
+}

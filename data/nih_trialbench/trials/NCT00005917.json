@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00005917",
+  "title": "Study of Chediak-Higashi Syndrome",
+  "brief_summary": "Chediak-Higashi syndrome (CHS) is a rare autosomal recessive disorder characterized in its classical form by oculocutaneous albinism, a bleeding diathesis, recurrent infection due to abnormal neutrophil and natural killer cell function, and eventual progression to a lymphohistiocytic infiltration known as the accelerated phase . Death often occurs within the first decade as a result of infection or the development of the accelerated phase; bone marrow transplantation is curative except for the late occurrence of neurological deterioration. The basic defect is unknown, although it probably involves abnormal fusion or trafficking of intracellular vesicles. Patients with classical CHS have their disease due to mutations in the LYST gene, but mildly affected individuals have been reported whose genetic defect has not been defined. It is likely that these variants of CHS have abnormalities in proteins involved in the pathways responsible for vesicle fusion. Since the full clinical spectrum of CHS and its variants has not been characterized, and the underlying defects remain enigmatic, we plan to evaluate this group of patients clinically, biochemically, and molecularly, and perform cell biological studies on their fibroblasts, melanocytes, and transformed lymphoblasts. Routine admissions will be 5 days and may occur every two years, or required by changes in clinical symptomatology.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* ELIGIBILITY:\n\nPatients will be between the age of 1 month and 70 years. All patients entering this study will have some degree of oculocutaneous albinism plus either a bleeding diathesis or a history of excessive infections in childhood. Objective evidence of a platelet storage pool deficiency (e.g., an abnormal secondary aggregation response or absent platelet dense bodies) or of a lysosomal fusion abnormality (e.g., giant cytoplasmic granules in leucocytes) will not be required.",
+  "minimum_age": "1 Month",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients entering this study will have clinical features suggestive of CHS. Objective evidence of a platelet storage pool deficiency (e.g., an abnormal secondary aggregation response or absent platelet dense bodies) or of a lysosomal fusion abnormality (e.g., giant cytoplasmic granules in leucocytes) will not be required.@@@",
+  "condition": [
+    "Chediak-Higashi Syndrome"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study of patients with Chediak-Higashi syndrome, with no requirement or restriction regarding prior systemic therapy for advanced disease. Line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they restrict or require any prior lines of therapy. This is an observational study focused on clinical and molecular characterization, not on treatment or therapy lines."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02659189",
+  "title": "Hospitalary Chronic Obstructive Pulmonary Disease Registry",
+  "brief_summary": "The purpose of this study is to create an institutional registry of Chronic Obstructive Pulmonary disease through a prospective survey based on epidemiological data, risk factors, diagnosis, prognosis, treatment, monitoring and survival.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients older than 40 years with a chronic obstructive pulmonary disease diagnosis according to global obstructive lung Global initiative for chronic Obstructive Lung Disease criteria.\n* Follow up at the Hospital Italiano de Buenos Aires.\n\nExclusion Criteria:\n\n* Refusal to participate or to agree to the informed consent.\n* Known non chronic obstructive pulmonary disease respiratory disease (ej: Lung Cancer, Tuberculosis, Pulmonary Fibrosis, Neumoconiosis, Cystic Fibrosis, Sarcoidosis, etc)\n* Severe alpha-1 antitripsin deficit (typr SZ or ZZ)\n* Previously thoracic surgery (ej: lung volume reduction, lung transplantation).",
+  "minimum_age": "40 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients older than 40 years with a chronic obstructive pulmonary disease diagnosis according to global initiative for chronic obstructive lung disease criteria.",
+  "condition": [
+    "COPD Exacerbations",
+    "Death"
+  ],
+  "overall_status": "UNKNOWN"
+}

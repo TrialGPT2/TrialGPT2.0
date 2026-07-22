@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03978546",
+  "title": "Diagnostic Performance of Smart Supra Perimetry (The DPSSP Study)",
+  "brief_summary": "Early glaucomatous visual field changes can be missed with the routinely used Standard Automated Perimetry (SAP) and the 24-2 test pattern due to limited sampling of the central 10 degrees. While this shortcoming can be overcome with the addition of a 10-2 test, performing both tests places extra demand on the perimetric services (doubling test times) and patients.\n\nSmart Supra Perimetry (SSP) uses a new faster algorithm that can complete both 24-2 and 10-2 test patterns in a similar time frame to a single 24-2 SAP test. This comparative study aims to determine the sensitivity and specificity (i.e. diagnostic accuracy) of SSP in identifying early glaucomatous visual field loss. A sample of 100 patients with early/suspect glaucoma will undergo SAP 24-2 and 10-2 (SITA algorithm) using Humphrey visual field perimetry and SSP 24+10-2 using Henson 9000. Eyes will be categorised into 2 groups i.e., glaucoma and non-glaucoma, on the basis of structural changes to the disc as evaluated by the clinician. The sensitivity and specificity of the SAP and SSP tests will be established along with test duration. The size and location of defects established with both the SAP and SSP strategies will also be compared.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Reliable SAP visual field results (fixation loss \\< 33%, false positive \\< 15% and false negative \\< 20%).\n* Visual acuity better or equal to 0.20 logMAR.\n* Spherical refractive error within -6.00 to +6.00D and cylindrical error \\<2.00D\n* No ocular co-morbidity likely to affect the visual field or OCT results.\n* Age: 40-80 yrs\n\nAdditional inclusion criteria for glaucomatous group:\n\n* Optic disc showing glaucomatous changes.\n* SAP MD not worse than -6dB\n\nAdditional inclusion criteria non-glaucoma group:\n\n* Normal SAP visual field data (MD, PSD, GHT within normal range)\n* No evidence of glaucoma or other Ocular co-morbidity in the eye suitable for the study.\n\nExclusion Criteria:\n\nExclusion criteria glaucomatous and control groups:\n\n\u2022 Anomalous discs, Tilted discs, myopic discs.",
+  "minimum_age": "40 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Glaucoma, Suspect",
+    "Glaucoma"
+  ],
+  "overall_status": "COMPLETED"
+}

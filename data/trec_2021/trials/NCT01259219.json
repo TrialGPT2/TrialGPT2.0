@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01259219",
+  "title": "Dosing, Safety and Pharmacokinetic Profile of Rifabutin in Children Receiving Concomitant Treatment With Kaletra",
+  "brief_summary": "Open label pharmacokinetic RBT dose-finding study in young (\u2264 5 year old) HIV-infected children receiving a LPV/RTV-based ART regimen and who have a recent history of completing TB treatment.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "SELECTION AND ENROLLMENT OF SUBJECTS\n\nInclusion Criteria:\n\n* Children with confirmed HIV infection. Confirmation can be by two rapid tests (children age \\> 18 months) or virologic test (children \\< 18 months), and detectable viral load prior to starting ARVs.\n* Age \u2264 5 years old - rationale: changes in body composition and maturity of metabolizing enzymes and organs result in age-related differences in drug clearance, especially between children \u2264 5 years and children \\> 5 years of age.\n* Receiving an ART regimen containing 2 NRTIs + LPV/RTV at standard dose\n* Successfully completed TB treatment in the past 2 to 6 weeks. Successful completion of treatment will be defined as children with good clinical response (resolution of TB symptoms) to treatment.\n\nRationale:\n\n1. RBT has not yet been approved for treatment of TB in children. Participating children can therefore not be in need treatment for TB as this may lead to substandard treatment.\n2. RBT monotherapy in the presence of Mycobacterium tuberculosis can lead to the development of resistance. Excluding active TB is difficult in children, especially those that are HIV co-infected. Children who have just successfully completed a treatment for TB can be assumed to be free of Mycobacterium tuberculosis.\n3. A minimum of two weeks is needed between RIF and RBT administration to ensure wash-out of any enzyme inducing effects of RIF.\n\nExclusion Criteria\n\n* History of symptomatic clinical hepatitis during TB treatment\n* Abnormal liver function defined as ALT \\> 2.5 times the normal upper limit (corresponding to the US National Institute of Health Division of AIDS scale grade 2)\n* Abnormal bilirubin defined as \\> 1.5 UNL (\u2265 DAIDS grade 2)\n* Abnormal serum creatinine defined as \\>1.1 x ULN\n* Anemia defined as hemoglobin \\< 8gm/dL\n* Neutropenia defined as \\< 1.0 x 109/L(corresponding to grade 2)\n* Abnormal platelets defined as \\<125 x 1012/L\n* Pre-existing eye conditions\n* Any condition that the clinician feels would predispose the child to toxicity\n* Children required to take any drug known or predicted to interact with rifabutin (see appendix)\n* Children who do not meet inclusion criteria and/or whose parents refuse consent.",
+  "minimum_age": "5 Years",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Children With Confirmed HIV Infection",
+    "Receiving ART Regimen Containing 2 NRTIs + LPV/RTV at Standard Dose",
+    "Successfully Completed TB Treatment in the Past 2 to 6 Weeks of Enrollment"
+  ],
+  "overall_status": "UNKNOWN"
+}

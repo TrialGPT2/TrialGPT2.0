@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00830284",
+  "title": "Efficacy and Safety of a Lung Recruitment Protocol in Children With Acute Lung Injury",
+  "brief_summary": "Lung units which participate in gas exchange are known as 'recruited' lung. Patients with lung injury suffer from a proportion of units which do not participate in gas exchange (i.e. the derecruited state), which results in impaired gas exchange and induces an inflammatory cascade. Currently, there is no clinical practice guideline in our intensive care unit regarding lung recruitment strategies for children with lung injury. While many studies have demonstrated efficacy (ability to open the lung) and safety of recruitment maneuvers in adults, no such studies have been performed in children.\n\nThe primary purpose of this study is therefore to demonstrate the safety and efficacy of a recruitment protocol designed to maximally recruit collapsed lung in children with acute lung injury. Each study patient will follow a recruitment protocol (see Appendix 2). Two 'controls' will be utilized in this study: baseline ventilation (no recruitment maneuver) and the open lung approach (a sustained inflation followed by increased PEEP). Efficacy will be defined as an improvement in lung volume (as measured by nitrogen washout and electrical impedance tomography), and by an improvement in measured arterial partial pressure of oxygen. Safety will be defined as the incidence of barotrauma and hemodynamic consequences which occur during the protocol.\n\nA secondary purpose of this study will be to further validate electrical impedance tomography (EIT) as a non-invasive tool describing the lung parenchyma by comparing it to an accepted standard method of measuring lung volumes, the multiple breath nitrogen washout technique. Validation of EIT would allow clinicians to have a non-invasive image of a patient's lungs without the risks imposed by radiography.\n\nThe information we learn will be instrumental in defining an optimal strategy for lung recruitment in children with lung injury.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\nAll intubated and mechanically ventilated patients on the Medical-Surgical Intensive Care Unit will be screened for the following inclusion criteria:\n\n1. Age: 44 weeks post conceptual age to 18 years\n2. Acute Lung Injury (ALI): American European Consensus Committee definition of ALI\n\n   1. PaO2/FiO2\\<300 on ABG within past 6 hours,\n   2. Acute onset of bilateral infiltrates on chest radiograph, and\n   3. No evidence of left atrial hypertension\n3. Sedation: Must be receiving neuromuscular blockade or demonstrating apnea due to sedation\n4. Arterial line must be present\n5. Conventional mechanical ventilation\n6. Current PEEP levels between 5 and 15 cm H2O\n\nExclusion Criteria:\n\n1. Meets the above criteria for ALI for \\> 72 hours\n2. Active hemodynamic instability\n3. Prematurity (birth at post-conceptual age \\<37 weeks)\n4. Clinically recognized airways disease (including viral bronchiolitis)\n5. Uncuffed endotracheal tube in place\n6. Congenital heart disease\n7. Hemodynamically significant heart disease\n8. Congenital diaphragmatic hernia\n9. Recent (past 2 months) history of intrathoracic instrumentation (e.g., orthopedic instrumentation, cardiac pacemaker, thoracostomy)\n10. Pulmonary fibrosis\n11. Restrictive lung disease (other than acute lung injury/ARDS)\n12. Cystic fibrosis\n13. Severe pulmonary hypertension\n14. Severe brain injury with no intracranial pressure monitor or external ventricular drain in place\n15. Extra-corporeal life support",
+  "minimum_age": "1 Month",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Respiratory Distress Syndrome",
+    "Acute Lung Injury"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04767516",
+  "title": "Multicenter Subcutaneous ICD Registry",
+  "brief_summary": "This multicenter registry aims to collect data regarding S-ICD longevity, and battery and lead failure rates. Only clinically collected data is gathered in this registry.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* S/P S-ICD Implantation\n\nExclusion Criteria:\n\n* n/a",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with an S-ICD",
+  "condition": [
+    "ICD",
+    "ICD Malfunction"
+  ],
+  "overall_status": "COMPLETED"
+}

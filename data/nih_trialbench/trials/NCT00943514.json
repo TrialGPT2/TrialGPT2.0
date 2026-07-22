@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT00943514",
+  "title": "Natural History of Bronchiectasis",
+  "brief_summary": "Background:\n\n* Bronchiectasis is a disease characterized by airways that are inflamed, abnormally dilated, and chronically infected. Individuals with bronchiectasis have a history of chronic and recurring respiratory infections. Depending on the underlying cause, these infections may involve the entire respiratory tract, resulting in sinus, ear, and lung disease.\n* Bronchiectasis continues to be a significant problem in developing countries and in specific groups of individuals, particularly in people who have cystic fibrosis. Although treatments are available or under development for bronchiectasis related to cystic fibrosis, many of the disease-specific treatments may not be effective for bronchiectasis not related to cystic fibrosis.\n\nObjectives:\n\n\\- To study the natural history of bronchiectasis to identify inherited and immune factors that may explain why certain individuals have chronic recurring infections.\n\nEligibility:\n\n* Individuals 5 years of age and older who have an established diagnosis of bronchiectasis or a history of chronic/recurring respiratory infections.\n* Direct family members (e.g., parents, siblings, children) of patients in the study may also be asked to participate.\n\nDesign:\n\n* Potential participants will be screened with an initial clinic evaluation and full medical history, as well as a general quality of life and respiratory symptom questionnaire.\n* The following standard procedures may be done as part of the study: air sampling from the nose; imaging studies, which may include an x-ray or computed tomography (CT), lung function tests; and collection of samples of blood, urine, and sputum (phlegm or mucus). Other tests may be performed as required by the researchers, and will be explained to patients as needed.\n* Both patients and relatives (if asked to participate) will provide the following samples: blood or buccal (cheek swab) cells for genetic testing, sputum, and urine.\n* To prevent infections and potential disease progression, patients may receive standard medical care and treatment for bronchiectasis and related infections during this protocol.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* PARTICIPANT INCLUSION CRITERIA:\n\n  1. Children age 5 years and above and adults referred to the NIH with chronic or recurring respiratory infections will be eligible for participation.\n  2. Males and females will be considered without regard to race or ethnicity or upper age limit.\n  3. Emphasis will be primarily on non CF bronchiectasis for elucidation of mechanisms of infection susceptibility. However, select patients with cystic fibrosis or acquired immune defects (such as HIV) may be studied if relevant host defects are suspected, if needed for comparison purposes, or to evaluate and study the management of chronic pathogen associated conditions such as nontuberculous mycobacterial infections or allergic bronchopulmonary aspergillosis.\n  4. Subjects must have a primary or referring physician\n  5. Subjects must be willing to have samples stored\n\nINCLUSION CRITERIA FOR RELATIVES:\n\nAs a part of this protocol we may obtain blood, sputum, urine, or buccal swabs from some blood relatives of patients on the study, with the hope of isolating and characterizing the primary host defense defect(s) or genetic links responsible for airway infection susceptibility and/or bronchiectasis seen within families. Male and female relatives will be accepted without limitation due to age. These relatives may have pertinent disease-related history obtained, but will neither receive treatment nor have any other protocol procedures done unless they are enrolled on the study.\n\nPARTICIPANT EXCLUSION CRITERIA:\n\n1. We wish to avoid enrolling subjects, especially children, who have common respiratory problems (aeroallergen sensitivity, asthma, gastric esophageal reflux) that are not associated with an underlying abnormality in host defenses. Evidence of significance of chronic or recurring infections suggestive of an underlying airway surface or systemic host defense defect should be documented by one or more of the following: a) sinus or lower airway cultures positive for bacterial, fungal, or mycobacterial pathogens characteristic of these defects; or b) radiographic evidence of sinusitis with mucosal thickening and/or air-fluid levels; or c) radiographic evidence of bronchiectasis; d) severity of otitis media requiring placement of tympanic membrane pressure equalization tubes; e) severity of sinusitis requiring surgical intervention.\n2. Patients who are unable or unwilling to provide informed consent either directly or via appropriately designated surrogate.\n3. Any patient who, in the opinion of the Investigator, is unable or unwilling to comply with regular follow-up or is unlikely to provide pertinent information regarding disease progression or response to treatment may be excluded from longitudinal follow-up.\n\nPARTICIPATION OF CHILDREN:\n\nChildren under the age of 5 will be excluded from this protocol due to the difficulty of performing pertinent assays in infants and younger children, difficulty distinguishing significance of respiratory infections which occur commonly in younger children, and the lack of adequate facilities and equipment for management of children younger than 2 years.",
+  "minimum_age": "5 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Children age 5 years and above and adults with chronic or recurring respiratory infections including pulmonary nontuberculous mycobacterial disease",
+  "condition": [
+    "Bronchiectasis",
+    "Cystic Fibrosis",
+    "Autoimmune Disease",
+    "Common Variable Immunodeficiency"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study of bronchiectasis and chronic/recurring respiratory infections, enrolling both affected individuals and their relatives. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they restrict or require any specific treatment history. Both treatment-naïve and previously treated patients may be included, but the protocol is silent on lines of therapy for advanced/metastatic disease."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT00005777",
+  "title": "Minimal Breathing Support and Early Steroids to Prevent Chronic Lung Disease in Extremely Premature Infants (SAVE)",
+  "brief_summary": "This multicenter clinical trial tested whether minimal ventilation decreases death or BPD. Infants with birth weight 501g to 1000g and mechanically ventilated before 12 hours were randomly assigned to minimal ventilation (partial pressure of carbon dioxide \\[PCO(2)\\] target \\>52 mm Hg) or routine ventilation (PCO(2) target \\<48 mm Hg) and a tapered dexamethasone course or saline placebo for 10 days, using a 2 x 2 factorial design. The primary outcome was death or BPD at 36 weeks' postmenstrual age. Blood gases, ventilator settings, and FiO2 were recorded for 10 days; complications and outcomes were monitored to discharge. The infants' neurodevelopment was evaluated at 18-22 months corrected age.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Greater than 12 hrs of age and less than 10 days chronologic age\n* 501-1000 gm\n* Intubated and mechanically ventilated before 12 hrs\n* Indwelling vascular catheter\n* Infants 751-100 gm must be receiving FiO2 greater than 0.30 and have received at least 1 dose of surfactant at randomization\n* Parental consent\n\nExclusion Criteria:\n\n* Major congenital anomaly\n* Symptomatic non-bacterial infection\n* Permanent neuromuscular conditions that affect respiration\n* Terminal illness (defined as pH values less than 6.8 for more than 2 hours or persistent bradycardia associated with hypoxia for more than 2 hours)\n* Use of postnatal corticosteroids",
+  "minimum_age": "5 Minutes",
+  "maximum_age": "10 Days",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Bronchopulmonary Dysplasia",
+    "Respiratory Distress Syndrome",
+    "Infant, Newborn",
+    "Infant, Low Birth Weight",
+    "Infant, Small for Gestational Age",
+    "Infant, Premature"
+  ],
+  "overall_status": "TERMINATED"
+}

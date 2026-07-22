@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02704819",
+  "title": "Proof of Concept Study of EMBalance Decision Support System to Evaluate Balance Disorders",
+  "brief_summary": "Balance is crucial for an individual's mobility and independence. Human balance is achieved and maintained by a complex set of sensorimotor systems that include sensory input from vision, proprioception and the vestibular system (motion, equilibrium, spatial orientation). This information is then integrated by the brain. This complexity leads to undiagnosed or mistreated patients with balance disorders for long period which can affect their daily activities.\n\nThe EMBalance project is a research project funded by the European Union, involving 10 universities across Europe. Its aim is to create a Decision Support System (DSS) to support doctors in diagnosing and treating balance disorders. It will be available to primary and secondary care doctors of different specialties, levels of training and in different parts of the country.\n\nThe DSS will:\n\n* Be used by primary and secondary health care professionals\n* Assist the doctor on the evaluation and management of dizzy patients\n* Predict how the balance disorder may progress\n* Reduce patient waiting time and the onward referrals\n* Ensure patients receive prompt and efficient treatment plans\n\nThe EMBalance randomised clinical trial (RCT) is a proof-of-concept, multicentre, single-blind, and parallel group study, conducted in Belgium, Germany, Greece and United Kingdom. At present, the question that this study aims to answer is whether the algorithms developed for the EMBalance Platform will yield meaningful information and how these algorithms and platform can be improved, performing an offline comparison of the classical diagnostic approach and the outcome of the EMBalance platform, without any consequence for the patient.\n\nPatients who present with balance related symptoms at primary care will be randomised to either intervention group (non-specialist doctor +DSS) or control group (non-specialist doctor -DSS). An overseeing expert will then confirm the diagnosis and management decisions made by the non-specialist doctors in order to determine whether the use of the DSS can help them in a more precise assessment.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Be capable of understanding the information provided\n* Absence of dementia/uncontrolled psychiatric disorder\n* Vertigo or chronic dizziness exacerbated by head movements (\\<12 months)\n* Sub-acute presentation of dizziness (up to 3 months) without presenting to emergency services\n\nExclusion Criteria:\n\n* Subjects with learning disability or dementia\n* Patients with uncontrolled psychiatric disorders\n* Pregnant and breastfeeding women\n* Patients' incapable or unwilling to give informed consent.\n* Patients with acute vestibular disorders (present at Accident and Emergency).",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Dizziness",
+    "Vertigo"
+  ],
+  "overall_status": "COMPLETED"
+}

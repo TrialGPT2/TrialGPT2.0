@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04327206",
+  "title": "BCG Vaccination to Protect Healthcare Workers Against COVID-19",
+  "brief_summary": "Phase III, two-group multicentre, randomised controlled trial in up to 10 078 healthcare workers to determine if BCG vaccination reduces the incidence and severity of COVID-19 during the 2020 pandemic.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Over 18 years of age\n* Healthcare worker\n\n  * This is defined as anyone who works in a healthcare setting or has face to face contact with patients.\n* Provide a signed and dated informed consent form\n* Australian sites only: If annual influenza vaccination is available, receiving the flu vaccine is an eligibility requirement. The flu vaccine will be required a minimum of 3 days in advance of randomisation in the BRACE trial.\n* Pre-randomisation blood collected\n\nExclusion Criteria:\n\n* Has any BCG vaccine contraindication\n\n  * Fever or generalised skin infection (where feasible, randomisation can be delayed until cleared)\n  * Weakened resistance toward infections due to a disease in/of the immune system\n  * Receiving medical treatment that affects the immune response or other immunosuppressive therapy in the last year.\n\n    * These therapies include systemic corticosteroids (\u226520 mg for \u22652 weeks), non-biological immunosuppressant (also known as 'DMARDS'), biological agents (such as monoclonal antibodies against tumour necrosis factor (TNF)-alpha).\n  * People with congenital cellular immunodeficiencies, including specific deficiencies of the interferon-gamma pathway\n  * People with malignancies involving bone marrow or lymphoid systems\n  * People with any serious underlying illness (such as malignancy)\n\n    * NB: People with cardiovascular disease, hypertension, diabetes, and/or chronic respiratory disease are eligible if not immunocompromised, and if they meet other eligibility criteria\n  * Known or suspected HIV infection,even if they are asymptomatic or have normal immune function.\n  * This is because of the risk of disseminated BCG infection\n  * People with active skin disease such as eczema, dermatitis or psoriasis at or near the site of vaccination\n  * A different adjacent site on the upper arm can be chosen if necessary\n  * Pregnant\n\n    * Although there is no evidence that BCG vaccination is harmful during pregnancy, it is a contra-indication to BCG vaccination. Therefore, we will exclude women who think they could be pregnant or are planning to become pregnant within the next month.\n    * UK specific: Although there is no evidence that BCG vaccination is harmful during pregnancy, it is a contra-indication to BCG vaccination. Therefore, we will exclude women of childbearing potential (WOCBP) who think they could be pregnant.\n    * Spain specific: If the patient is female, and of childbearing potential, she must have a negative pregnancy test at the time of inclusion and practice a reliable method of birth control for 30 days after receiving the BCG vaccination.\n  * Another live vaccine administered in the month prior to randomisation\n  * Require another live vaccine to be administered within the month following BCG randomisation\n\n    * If the other live vaccine can be given on the same day, this exclusion criteria does not apply\n  * Known anaphylactic reaction to any of the ingredients present in the BCG vaccine\n  * Previous active TB disease\n  * Currently receiving long term (more than 1 month) treatment with isoniazid, rifampicin or quinolone as these antibiotics have activity against Mycobacterium bovis\n* Previous adverse reaction to BCG vaccine (significant local reaction (abscess) or suppurative lymphadenitis)\n* BCG vaccine given within the last year\n* Have previously had a SARS-CoV-2 positive test result (positive PCR on a respiratory sample or a positive SARS-CoV-2 diagnostic antigen test approved by the local jurisdiction's public health policy)\n* Already part of this trial, recruited at a different site/hospital.\n* Participation in another COVID-19 prevention trial\n* Have previously received a COVID-19-specific vaccine",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Coronavirus Disease 2019 (COVID-19)",
+    "Respiratory Illness",
+    "Corona Virus Infection",
+    "COVID-19"
+  ],
+  "overall_status": "COMPLETED"
+}

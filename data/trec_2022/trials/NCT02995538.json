@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02995538",
+  "title": "Neurogenetics Patient Registry",
+  "brief_summary": "The objective of this project is to develop a Neurogenetics patient database and bio repository - which includes clinical information regarding history, physical examination, laboratory testing including genetic testing (NextGen sequencing including whole exome and whole genome sequencing, SNParray, etc.), neuroradiology studies, neurophysiology studies - all ordered as clinically deemed appropriate, natural history from clinical longitudinal follow-up and to use de-identified information from this registry/ repository, when appropriate for clinical and translational research.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients evaluated at the Neurogenetics clinic and suspected to have an underlying neurogenetic disorder will be included.\n* Patients with known abnormal genetic testing with a neurological phenotype will be included.\n\nExclusion Criteria:\n\n* Patient with acquired diagnosis, which can explain the patients clinical symptoms and with a clinical phenotype or family history not suggestive of an underlying genetic etiology.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Neurogenetics Patients",
+  "condition": [
+    "Neurogenetic Disorders"
+  ],
+  "overall_status": "RECRUITING"
+}

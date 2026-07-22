@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04832880",
+  "title": "Factorial Randomized Trial of Rendesivir and Baricitinib Plus Dexamethasone for COVID-19 (the AMMURAVID Trial)",
+  "brief_summary": "Background:\n\nIn the current worldwide medical emergency, a rapid identification of effective therapeutic strategy is crucial. So far, therapy with dexamethasone, remdesivir and baricitinib have been associated with evidence of impact on the clinical impact on COVID-19, but the effect of baricitinib and remdesivir in combination with dexamethasone.\n\nThe AAMMURAVID trial is endorced and supported by the Italian Regulatory agency (AIFA-Agenzia Italiana del Farmaco)",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adults aged \\> 18 years able to provide a valid informed consent to the study\n* Documented COVID-19 by direct testing (positive PCR), with lung infiltrates at imaging (Chest-X ray or CT) and requirement of oxygen supplementation\n* Less than 10 days form symptoms onset\n* Cytokine storm, using the criteria developed at Temple University (all of the three below criteria):\n\n  * CRP \\> 46 mg/l\n  * Ferritin \\> 250 ng/ml\n  * One variable of each of the three clusters below\n\n    * Cluster 1\n\n      * Albumin \\< 2.8 g/dl\n      * Lymphocytes \\<10.2 % of WBC\n      * Absolute neutrophil count \\> 11400/mm3\n    * Cluster 2\n\n      * ALT \\> 60 U/L\n      * AST \\> 87 U/L\n      * D-dimers \\> 4930 \u00b5g/l fibrinogen-equivalent-units (FEU).\n      * LDH \\>416 U/L\n      * High sensitivity troponin \\> 1.09 ng/ml\n    * Cluster 3\n\n      * Anion Gap at arterial blood gas \\< 6.8 mM\n      * Chloride \\> 106 mM\n      * Potassium \\> 4.9 mM\n      * BUN:creatinine ratio \\> 29\n* PaO2/FiO2 200-400 mmHg, while in oxygen therapy or continuous positive airway pressure (C-PAP)\n* For women of childbearing potential and men: agreement to use contraception in the case of heterosexual intercourses before day 28 with a failure rate \\< 1% per year (bilateral tubal ligation, male sterilisation, hormonal contraceptives inhibiting ovulation, hormone-release or copper intrauterine devices). For men enrolled in the study, condom use is allowed.\n\nExclusion criteria:\n\n* Orotracheal intubation or ECMO support\n* Active solid / hematologic cancer (including invasive non-melanoma skin cancer)\n* Hypersensitivity or contra-indications to one of the investigational agents (including history of deep vein thrombosis / pulmonary thromboembolism within 12 weeks prior to screening)\n* Other active concurrent viral, fungal or bacterial infections (including active tuberculosis/latent TB treated for less than 4 weeks, HIV and HCV/HBV infections)\n* Pregnancy/breastfeeding\n* Incapability to provide a valid informed consent (including age \\< 18 years old)\n* Heart failure with NYHA \\>= 2 or any acute cardiac or vascular event requiring therapy in the previous 12 months\n* Chronic renal failure (baseline GFR \\< 45 ml/min\\*1.73m2)\n* Liver cirrhosis moderate / severe (Child-Pugh B or C)\n* Chronic respiratory failure requiring O2 therapy or ventilation therapy at home\n* Blood neutrophils \\<1000/mcL, platelet \\<50000/mcL, Hb levels \\<80 g/l\n* ALT/AST \\> 5 times UNL\n* Use of any biologic agent or small molecule inhibitor and other investigational drugs in the previous 4 weeks or 5 half-lives (whichever is longer). Specific cut-offs for wash-out are required for the following therapies:\n\n  * B-cell targeted therapies: 24 weeks or 5 half-lives (whichever is longer)\n  * TNF-inhibitors: 2 weeks or 5 half-lives (whichever is longer)\n  * JAK-inhibitors: 1 week or 5 half-lives (whichever is longer)\n* Use of other immunosuppressive agents in the last 3 months (chronic use of topical steroids and systemic steroids with a dose \u22645 mg of prednisone equivalents is allowed)\n* Use of any other investigational therapy for COVID-19 (including IV immunoglobulins, convalescent COVID-19 plasma or monoclonal antibodies)\n* Impossibility to discontinue Strong inhibitors of OAT3 (such as probenecid) at study entry\n* Any other condition judged by the local investigator as a contra-indication to eligibility\n* Subjects who have received live vaccines within 4 weeks before the study or are planned to receive live vaccine in the first months after study enrolment.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19"
+  ],
+  "overall_status": "UNKNOWN"
+}

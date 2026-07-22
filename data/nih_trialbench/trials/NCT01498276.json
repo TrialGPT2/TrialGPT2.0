@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT01498276",
+  "title": "Family Genetics Health Education and Healthy Behaviors",
+  "brief_summary": "Background:\n\n\\- Family-based approaches to reduce disease risk and promote healthy behaviors may be better than targeting individuals. Risk assessments based on family health history may help educate families on disease risks and encourage them to change physical activity and food choices. Specifically, researchers want to better understand the role of mothers in teaching healthy behaviors to their families.\n\nObjectives:\n\n* To determine mothers influence on diet and health-related behaviors.\n* To study an intervention tool that connects family health history and disease risk.\n\nEligibility:\n\n\\- 18 years of age who have at least one child living at home.\n\nDesign:\n\n* Participants will complete a survey over the phone. The survey will take 30 to 40 minutes to complete. The survey will collect family health history on heart disease, diabetes, colorectal cancer, and breast cancer.\n* Researchers will give participants a Family Health Package (FHP). The FHP will provide information on family health history and disease risk. It will also recommend behaviors that can reduce health risks.\n* Two weeks after sending the FHP, participants will complete a phone survey about the FHP materials and their social networks.\n* Some participants will be invited to focus groups. The focus groups will explore diet and health behavior. They will look at food purchasing and preparation and meal sharing. The groups will also discuss attitudes toward healthy eating and physical activity. Each focus group will last 1 to 2 hours.\n* Participants will be asked to complete an electronic survey regarding participants health status, causal health beliefs, risk perceptions, and intentions to communicate health information.\n* Then, participants will have the opportunity to use the electronic version of the FHP, which will assess family health history.\n* After using the FHeP, participants will complete a short electronic survey to identify knowledge and understanding gained from the use of the application, changes in communication intentions, and suggestions for improvements to the application.\n* Upon completion of the electronic portion of the study, a study team member will conduct a semi-structured interview to allow the participants to qualitatively evaluate their user experience, including satisfaction and usefulness.\n* This study process will take approximately 60-90 minutes.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nFHP Evaluation Phase\n\nEligible participants for the FHP Evaluation Phase will be invited to participate in the study if they meet the following criteria:\n\n1. be able to read and speak English\n2. age \\>= 18 years\n3. indicate a willingness to participate in a focus group/discussion.\n\n   * The urban FHP evaluation phase (Washington, DC Metro area) also requires participants to have at least one child. (The rural FHP evaluation, Southeastern US, does not.)\n\nThis information will be gauged from the IVETA database and/or through the initial recruitment discussion. This inclusion criteria has been established as we are interested in examining health behaviors across generations in an efficient and timely manner through surveys and focus groups. Focus group participants will be recruited from the larger sample of participants completing surveys. Therefore, participants will be required to read and speak English as the focus\n\ngroups will be conducted in English. As this is a pilot study, it is not feasible to recruit large numbers of participants in order to do the focus groups and provide versions of the survey in alternate languages.\n\n-Those who are adopted will be excluded from the study\n\nFHeP Individual Evaluation Phase\n\nIndividual Evaluation\n\nEligible participants will be invited to participate in the study if they meet the followingcriteria:\n\n1. able to read, write, and speak English,\n2. able to visit the Clinical Center on the Bethesda, MD main campus for one visit\n3. adult\n4. demonstrate basic computer literacy\n\n   * NHGRI employees and those who are adopted will be excluded from the study\n\nFamily Evaluation\n\nEligible participants will be invited to participate in the study if they meet the following criteria:\n\n1. able to read, write, and speak English\n2. adult\n3. demonstrate basic computer literacy\n4. willing to invite at least 2 biological family members to participate\n\n   * Those who are adopted will be excluded from the study\n\nFHP Community-based Education Program\n\nEligible participants will be invited to participate in the study if they meet the following criteria:\n\n1. able to read, write, and speak English,\n2. adult, (greater than or equal to 18 years of age), and\n3. indicate a willingness to participate in the study.\n\n   * Those who are adopted will be excluded from the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Recruitment strategies vary depending upon the substudy in which we are seeking participation. For example, participants may be recruited from the general population. We also seek to enroll members of under-resourced communities. A database that will assist with recruitment in one substudy includes mothers with young children in the Washington, DC area.",
+  "condition": [
+    "Diabetes",
+    "Cancer",
+    "Heart Disease"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a behavioral and educational study focused on family health history and healthy behaviors, not a therapeutic oncology trial. There is no systemic therapy for advanced disease involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study does not involve cancer treatment or systemic therapy for advanced disease. Eligibility is based on age, language, and family structure, with no reference to prior lines of therapy."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT03225131",
+  "title": "Dark Adaptation in Participants With Age-Related Macular Degeneration",
+  "brief_summary": "Background:\n\nMacular degeneration can cause permanent loss of central vision. This vision is important for seeing details. Age-related macular degeneration (AMD) is the leading cause of vision loss in people over 55 in the United States. Researchers want to follow people with AMD to study the early to middle stages of the disease.\n\nObjective:\n\nTo follow for another 5 years participants who completed NIH study 11-EI-0147.\n\nEligibility:\n\nParticipant was enrolled in and completed study 11-EI-0147.\n\nDesign:\n\nParticipants will have at least 6 study visits over 5 years. Each visit takes about 5 hours.\n\nAt visit 1, participants will be asked about their medical and eye disease history. They will have an eye exam. The exam will test vision, eye pressure, and eye movements. The pupil will be dilated with eye drops.\n\nParticipants will have baseline exams. These include a health history and questions about problems that affect their eyes under different lighting. They will answer these questions each year.\n\nAt each visit, participants will have some or all of these tests:\n\nEye exam\n\nDark adaptation protocol. This measures how fast the eyes recover when exposed to decreasing levels of light. The pupil will be dilated with eye drops. Participants will sit in front of a metal box with a camera inside. They will push a button when they see a light in the machine.\n\nView a bright background light for 5 minutes. After the light is turned off participants will push a button when a blue or red light is seen.\n\nSit in the dark for about 30 minutes. Participants will push a button when they see a blue or red light.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nParticipants will be eligible if the following inclusion criteria are met:\n\n1. Participant was enrolled in and completed 11-EI-0147. The minimum age of enrollment in 11-EI-0147 is 50;\n2. Participant is able to understand and sign the protocol's informed consent document;\n3. Participant is able to complete and comply with study assessments for the full duration of the study;\n4. Participant has a BCVA score of \\>= 20/100 (Snellen equivalent) in study eye.\n\nEXCLUSION CRITERIA:\n\nParticipants who meet any of the following criteria will be excluded from this study:\n\n1. Participant has advanced AMD in the study eye at the baseline visit;\n2. The participant has an intercurrent illness, adverse event (AE) or worsening condition;\n3. Participant has an oral intake of high doses of vitamin A palmitate supplement (\\>= 10,000 international units (IU) per day);\n4. Participant is an NEI employee or subordinate or co-worker of an investigator.",
+  "minimum_age": "50 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants will be recruited from those already enrolled in protocol 11-EI-0147. Additionally, diabetic participants will be accrued across all groups to analyze the effects of diabetic retinopathy on dark adaptation in the context of the AdaptDxTM device.",
+  "condition": [
+    "Age-Related Macular Degeneration"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational follow-up study of participants with age-related macular degeneration (AMD) who previously completed study 11-EI-0147. There is no systemic therapy or line-of-therapy intent, as the study is not interventional.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based solely on completion of a prior observational study (11-EI-0147) and not on prior systemic therapy for advanced disease. There is no mention of systemic therapy or lines of therapy in the eligibility criteria."
+    }
+  ]
+}

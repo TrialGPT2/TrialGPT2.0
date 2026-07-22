@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02159079",
+  "title": "A Randomized Controlled Trial of a Conservative Fluid Balance Strategy for Patients With Sepsis and Cardiopulmonary Dysfunction (BALANCE Study)",
+  "brief_summary": "Sepsis is a common inflammatory response to infection characterized by hypovolemia and vasodilation for which early administration of intravenous fluids has been suggested to improve outcomes. The ideal fluid balance following initial resuscitation is unclear. Septic patients treated in the intensive care unit commonly receive significant volumes of intravenous fluids with resultant positive fluid balance for up to a week after their initial resuscitation. Observational studies have associated fluid receipt and positive fluid balance in patients with severe sepsis and septic shock with increased mortality but are inherently limited by indication bias. In order to determine the optimal approach to fluid management following resuscitation in patients with severe sepsis and septic shock, a randomized controlled trial is needed. The primary hypothesis of this study is that, compared to usual care, a conservative approach to fluid management after resuscitation in patients with sepsis and cardiopulmonary dysfunction will increase intensive care unit free days.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* ICU patients\n* Adults\n* Sepsis as defined by at least two systemic inflammatory response syndrome criteria and receipt of antimicrobial therapy\n* Cardiopulmonary dysfunction as defined shock or respiratory failure\n\nExclusion Criteria:\n\n* Inability to obtain consent\n* Greater than 48 hours since inclusion criteria initially met\n* Allergy to furosemide AND bumetanide\n* Rhabdomyolysis with creatinine kinase \\> 5000 U/L\n* Hypercalcemia with calcium \\>11 mg/dL\n* Diabetic Ketoacidosis requiring continuous insulin infusion\n* Tumor Lysis Syndrome diagnosed clinically\n* Pancreatitis diagnosed clinically\n* Chronic Hypoxic Respiratory Failure with Home Oxygen Use of FiO2\u22650.3\n* Chronic ventilator dependence\n* cervical spinal cord injury at level C5 or higher\n* amyotrophic lateral sclerosis\n* Guillain-Barr\u00e9 Syndrome\n* myasthenia gravis\n* Renal failure requiring renal replacement therapy\n* Burns \\>20% of body surface area\n* Pregnant\n* Preexisting pulmonary hypertension with PAPmean\\>40 on RHC\n* Severe chronic liver disease with Childs-Pugh Score \\>11\n* Moribund and not expected to survive an additional 24 hours\n* Actively withdrawing life support or transitioning to comfort measures only\n* Unwillingness of treating physician to employ conservative fluid strategy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sepsis"
+  ],
+  "overall_status": "COMPLETED"
+}

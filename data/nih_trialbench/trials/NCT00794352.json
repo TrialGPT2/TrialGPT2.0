@@ -1,0 +1,42 @@
+{
+  "nctid": "NCT00794352",
+  "title": "Comprehensive Multimodal Analysis of Neuroimmunological Diseases of the Central Nervous System",
+  "brief_summary": "Inflammatory or degenerative diseases of the brain and spinal cord, such as multiple sclerosis, may be related to problems with an individual s immune system. However, more information is needed on the ways in which the cells of the immune system interact with the central nervous system (CNS). This study will compare tests performed on both healthy volunteers and individuals who have signs or symptoms of immune-related damage to their CNS.\n\nThis study will include two groups of subjects at least 12 years old. Subjects will either have symptoms of immune-related CNS damage, or will be healthy volunteers selected for comparison purposes.\n\nStudy participants will visit the NIH Clinical Center on an outpatient basis for an initial evaluation visit. During the visit, patients will provide a comprehensive medical history and undergo a neurological examination, and will provide blood samples for research purposes. The healthy volunteers will be asked to schedule a return visit for a magnetic resonance imaging (MRI) procedure, and may be asked to undergo other tests requested by the study researchers on an as-needed basis. The group of patients with symptoms of immune-related CNS damage will be asked to undergo a series of tests, including the following:\n\n* MRI procedures, with a minimum of three brain MRIs and one spinal cord MRI taken approximately 4 weeks apart\n* A diagnostic lumbar puncture, performed on an outpatient basis\n* Tests of brain and vision activity\n* Additional blood and tissue samples\n\nPatients with symptoms of immune-related CNS damage may be offered the opportunity to participate in additional followup tests with NIH researchers.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* PATIENT INCLUSION CRITERIA (for in-person and telemedicine sub-cohorts):\n\nPresentation with a clinical syndrome consistent with immune-mediated CNS disorder and/or\n\nNeuroimaging evidence of inflammatory and/or demyelinating/dysmyelinating CNS disease\n\nAt least 12 years old at the time of enrollment\n\nWilling to share medical records (including past MRI results) with the study team.\n\nAdults: Able to give informed consent on their own or via a Legally Authorized Representative (LAR) or Durable Power of Attorney (DPA); or Minors: parent or legal guardian able to give consent, with child willing to give assent, if reasonable based on their age and assent capacity\n\nFor in-person sub-cohort: Able to undergo the required procedures, including LP, MRI and clinical/functional evaluations\n\nPATIENT EXCLUSION CRITERIA (for in-person and telemedicine sub-cohorts):\n\nSignificant medical condition that would make participation in research part of evaluation impossible or risky\n\nFor in-person sub-cohort: Medical contraindications for MRI (i.e. any non-organic implant or other device such as a cardiac pacemaker or infusion pump or other metallic implants, objects or body piercings that cannot be removed)\n\nUnwilling to consent for collection of biological samples or their cryopreservation\n\nPATIENT INCLUSION CRITERIA for processing of collected biological samples:\n\nPresentation with a clinical syndrome consistent with immune-mediated CNS disorder and/or\n\nNeuroimaging evidence of inflammatory and/or demyelinating/ dysmyelinating CNS disease\n\nAbility to obtain either direct or surrogate informed consent for sample processing and storage\n\nAged 0+ years\n\nHEALTHY VOLUNTEER (in person) INCLUSION CRITERIA:\n\nAt least 18 years old at the time of enrollment\n\nVital signs are found within normal range at the time of the screening visit\n\nAble to give informed consent\n\nAble and willing to undergo related research procedures, such as blood draw, LP\n\nHEALTHY VOLUNTEER (in person) EXCLUSION CRITERIA:\n\nSystemic inflammatory disorder, or inflammatory or non-inflammatory neurological diseases\n\nPrevious or current history of alcohol and substance abuse\n\nMedical contraindications for MRI (i.e. any non-organic implant or other device such as a cardiac pacemaker or infusion pump or other metallic implants, objects or body piercings that cannot be removed)\n\nMedical contraindication for LP\n\nPsychological contraindications for MRI (i.e. claustrophobia). This will be assessed at the time the medical history is collected\n\nPregnancy or current breastfeeding\n\nAny contraindications to having study procedures done\n\nHistory of auditory disorder (i.e. hearing impairment, known impaired acoustic reflex, tinnitus)\n\nHEALTHY VOLUNTEER SUB-STUDY TO OBTAIN NORMATIVE DATA FOR THE SMARTPHONE APPS:\n\nBecause this sub-study collects no personal identifiable information (PII), there are no inclusion/exclusion criteria. Participating subjects are self-declared as not having any neurological deficit, which would be the same population that would provide normative data if the apps were freely available via App store.",
+  "minimum_age": "1 Month",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with evidence, or suspicion of immune-mediated CNS injury will be enrolled. In addition, healthy volunteers will be included as controls for immunological and imaging biomarkers and to obtain normative data for development of new clinical scales and smartphone apps.",
+  "condition": [
+    "Central Nervous System Disease",
+    "Multiple Sclerosis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling both healthy volunteers and patients with immune-mediated CNS disorders. There are no requirements or restrictions regarding prior systemic therapy for advanced disease, as the study is not interventional and does not focus on treatment lines.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Patients with immune-mediated CNS disorders",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on clinical or neuroimaging evidence of immune-mediated CNS disease, with no mention of prior systemic therapy for advanced disease. There are no requirements or exclusions related to lines of therapy, so line-of-therapy intent cannot be determined."
+    },
+    {
+      "cohort_label": "Healthy volunteers",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Healthy volunteers are included for comparison and must not have neurological or systemic inflammatory diseases. Prior systemic therapy for advanced disease is not relevant to this cohort."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT03368066",
+  "title": "Is Adrenal Insufficiency Under-diagnosed in Hospitalized Cirrhosis Patients?",
+  "brief_summary": "The hepatoadrenal syndrome has been well described in the literature and is known to be associated with poorer outcomes in both stable and critically ill cirrhotic patients. In chronic liver disease, adrenal (and more specifically cortisol) insufficiency is thought to be a byproduct of altered lipid metabolism that results in decreased HDL production and thus decreased delivery of cholesterol to the adrenal for subsequent corticosteroid production. Studies to date have implicated lecithin-cholesterol acetyltransferase (LCAT) as the key enzyme which is deficient in some cirrhotic patients, leading to an impaired ability to esterify cholesterol and thus a loss of normal cellular functioning and membrane stability. The investigators seek to quantify this LCAT deficiency in a cohort of cirrhotic patients and demonstrate its association with various abnormal physiologies associated with chronic liver disease, including spur cell anemia, low HDL levels, and adrenal insufficiency.\n\nHospitalized cirrhotic patients at UVA that meet study eligibility criteria will be approached by a member of the study team to obtain consent for participation. If a patient agrees to become a study subject, they will have an approximate total of 35ml of blood drawn the following morning. Lab tests to be performed include: peripheral blood smear, lipid panel, free cortisol, cortisol binding globulin, serum cholesterol esters (surrogate for LCAT enzyme activity), and a standard-dose cortisol stimulation test. The latter involves blood drawn with the initial collection, administration of an intravenous 250mcg dose of synthetic ACTH, and then repeat small-volume blood draws at 30 minutes and 60 minutes later.\n\nSubjects will be classified as adrenally sufficient or insufficient on the basis of as standard-dose cortisol stimulation test. Variables of interest for comparison between the groups include MELD score, Child-Turcotte-Pugh (CTP) classification, high-density lipoprotein (HDL) levels, presence of spur cell anemia, serum cholesterol ester percentage (surrogate for LCAT enzymatic activity), cortisol binding globulin levels, and free cortisol levels. Student's t-test and Chi Square tests will be utilized to determine significance; a p \\<0.05 value will be used as our threshold for significance. If multiple factors are found to be significantly different in a univariate fashion between classification groups, a multivariate logistic regression analysis will be performed for adjusted analysis. The investigators will also seek to define any correlations between variables. Furthermore, the investigators will assess correlation between MELD score and serum cholesterol ester percentage, spur cell anemia, HDL levels, cortisol binding globulin levels, and free cortisol levels; similar correlate analysis will be done using CTP classification instead of MELD score.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\>=18 years\n* Diagnosis of cirrhosis\n* Admission to hospital\n\nExclusion Criteria:\n\n* Age \\< 18 years\n* Prior enrollment in study (i.e. readmission)\n* Prisoner\n* Pregnancy\n* Prednisone or Hydrocortisone use in last 24 hours",
+  "minimum_age": "18 Years",
+  "maximum_age": "110 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Adrenal Insufficiency",
+    "Cirrhosis",
+    "Spur Cell Anemia",
+    "Lecithin Acyltransferase Deficiency"
+  ],
+  "overall_status": "COMPLETED"
+}

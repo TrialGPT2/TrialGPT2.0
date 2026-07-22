@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT00128973",
+  "title": "Evaluation of Patients With Immune Function Abnormalities",
+  "brief_summary": "This study will evaluate patients with abnormal immune function that results in recurrent or unusual infections or chronic inflammation. This may include inherited conditions, such as X-linked severe combined immunodeficiency (XSCID), chronic granulomatous disease (CGD), and leukocyte adhesion deficiency (LAD), or conditions resulting from outside factors, such as graft-versus-host disease (GVHD). The information from this study will be used to establish the pattern and pace of change of the disease and to help develop new treatments. The period of observation and study following enrollment in this study may be for up to one year. In addition these studies may provide the medical information needed to determine eligibility for enrollment in other clinical study protocols and more prolonged follow up.\n\nPatients of any age with abnormal immune function who have recurrent or unusual infections, whose blood tests show evidence of immune dysfunction, or who have GVHD, XSCID, CGD or LAD may be eligible for this study. Patients' parents, siblings, grandparents, children, aunts, uncles and first cousins of any age also may be included. Healthy normal volunteers between 18 and 85 years of age are recruited as controls.\n\nNormal volunteers undergo a physical examination and provide blood, saliva, and urine samples for immune function studies. Patients' family members provide a medical history, have a physical examination, and give blood and urine samples, and possibly a saliva sample. The samples are used for genetic and routine laboratory studies. Investigators may request tissue samples, such as biopsy specimens, previously removed for medical reasons to be sent to NIH for study. Patients undergo the following tests and procedures:\n\n1. Medical history and physical examination.\n2. Blood and urine tests, including analysis for genes involved in immune disorders.\n3. Buccal smear (in some patients) for genetic studies. This involves scraping the lining of the mouth near the cheek.\n4. Specialized tests to evaluate specific conditions in patients who have an immune disorder that might affect lung function, gum infections or eye problems. These may include chest x-ray, CT scan, breathing function test, dental, eye, and hearing examinations.\n5. Follow-up visits of patients with immune problems may occur at 6 months and at one year after the first visit (or more frequently if medically required) to include:\n\n   * Medical history update\n   * Physical examination\n   * Follow-up on abnormal test results and medical treatments initiated at NIH\n   * Collection of blood, saliva, urine, or wound drainage samples for repeat immune function studies\n   * Tissue study of specimens removed for medical reasons at other institutions besides NIH",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPatients:\n\nTo be eligible to participate in this study as a patient, an individual must meet the following criteria:\n\n* Must be 2 years of age to be seen at the Clinical Center as an outpatient and they must not have any active infections. Send-in samples for clinical diagnosis at any age.\n* Have an abnormality of immune function as manifested by:\n\n  * recurrent or unusual infections,\n  * recurrent or chronic inflammation, or\n  * previous laboratory evidence of immune dysfunction.\n* Have a primary physician outside of the NIH.\n\nRelatives of Patient:\n\nTo be eligible to participate in this study as a patient relative, an individual must meet the following criteria:\n\n* Be a biological mother, father, sibling, child, grandparent, aunt, uncle, or first cousin to a patient.\n\n  --Sibling, child, first cousin, aunt, and uncle must be 2 years of age to be seen at the Clinical Center as an outpatient with no active infections, Send-in samples for clinical diagnosis at any age.\n* Be willing to have blood stored for future studies and/or other research purposes.\n\nHealthy Volunteers:\n\nTo be eligible to participate in this study as a healthy volunteer, an individual must meet the following criteria:\n\n* Be a healthy adult of either sex and between age of 18 and 85 years old.\n* Have a hemoglobin count of \\>=11.\n* Weight greater than 110 pounds.\n* Not have a history of intravenous injection drug use.\n* Not have a history of engaging in high-risk activities for exposure to HIV.\n* Be willing to have their blood samples stored for future research and modified to iPS cells.\n\nEXCLUSION CRITERIA:\n\nPatients and Relatives of Patient:\n\nIn general, there are no strict exclusion criteria for these cohorts. However, the presence of certain types of acquired abnormalities of immunity solely due to HIV, chemotherapeutic agent(s), or an underlying malignancy could be grounds for possible exclusion for a patient or relative of a patient. In the opinion of the investigator, the presence of such disease processes may interfere with evaluation of a co-existing abnormality of immunity that is the subject of study under this protocol. Pregnant females will not be allowed to participate in any procedure that may be dangerous to the pregnancy or the fetus.\n\nHealthy Volunteers:\n\nAn individual who meets any of the following criteria will be excluded from participation as a healthy volunteer in this study:\n\n* Have HIV or viral hepatitis (B or C), or history of viral hepatitis B or C since age 11.\n* Receiving chemotherapeutic agent(s) or have underlying malignancy.\n* Pregnant.\n* Have history of heart, lung, kidney disease, or bleeding disorders.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Self referred, Physician referred",
+  "condition": [
+    "Chronic Granulomatous Disease (CGD)",
+    "X-Linked Severe Combined Immune Deficiency (XSCID)",
+    "Leukocyte Adhesion Deficiency 1 (LAD)",
+    "Graft Versus Host Disease (cGvHD)"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study evaluating patients with immune function abnormalities, their relatives, and healthy volunteers. There is no requirement or restriction regarding prior lines of systemic therapy for advanced disease, as the study is not focused on cancer or advanced malignancy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study includes patients with immune dysfunction, their relatives, and healthy volunteers, with no mention of prior systemic therapy for advanced disease. There are no eligibility criteria related to cancer treatment or lines of therapy, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

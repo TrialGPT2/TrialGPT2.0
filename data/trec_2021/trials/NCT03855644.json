@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03855644",
+  "title": "Blood Transfusion Among Patients With Pelvic Fracture in China",
+  "brief_summary": "According to the patient's blood management concept, this study intends to collect basic information, surgical data, blood transfusion related data and patient prognosis data of patients with pelvic fractures, and to construct a predictive model of intraoperative blood transfusion in patients with pelvic fractures by multiple linear regression analysis. To guide physicians use blood accurately during surgery. Prompt doctors to reduce blood transfusion dose and improve patient prognosis by stopping bleeding and blood recovery before surgery.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* (1) 1\\<Age\\<80, and Chinese residents living in China more than 3 years;\n* (2) Hemoglobin value less than 100g/L during hospitalization;\n\nExclusion Criteria:\n\n* (1) Participants who suffered from pelvic fracture within 3 months\n* (2) Participants who suffer from pathological fractures of the pelvis caused by malignant tumors\n* (3) Participants with chronic anemia and coagulopathy\n* (4) Participants who rufuse blood transfusion",
+  "minimum_age": "1 Year",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with pelvic fractures who meet the standard in China, 1\\<Age\\<80.",
+  "condition": [
+    "Pelvic Fracture",
+    "Transfusion Reaction",
+    "Blood Transfusion Complication"
+  ],
+  "overall_status": "UNKNOWN"
+}

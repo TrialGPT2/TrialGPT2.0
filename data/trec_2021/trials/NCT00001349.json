@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00001349",
+  "title": "Apheresis to Obtain Plasma or White Blood Cells for Laboratory Studies",
+  "brief_summary": "This study will collect blood plasma and white blood cells for laboratory research using a procedure called apheresis. Apheresis is a method of collecting larger quantities of certain blood components than can safely be collected through a simple blood draw.\n\nPatients 7 years of age and older with a parasitic infection or condition associated with a parasitic infection (i.e., elevated levels of IgE antibodies or of a type of white cell called eosinophils) who are currently enrolled in a NIH clinical research protocol may be eligible for this study. Relatives of patients and normal healthy volunteers will also be enrolled. Candidates will have a medical history, physical examination and blood tests. Individuals weighing less than 25 kilograms (55 pounds) may not participate.\n\nParticipants will undergo one of the following two apheresis procedures:\n\n* Automated pheresis Whole blood is drawn through a needle placed in an arm vein and circulated through a cell separator machine. The plasma (liquid part of the blood) and white cells are extracted, and the red cells are re-infused into the donor through a needle in the other arm. The procedure takes 1 to 2 hours.\n* Manual pheresis Whole blood is drawn through a needle placed in an arm vein and circulated through the cell separator machine. The red blood cells are separated from the rest of the blood and returned to the donor through the same needle. Usually only one needle stick is required and the procedure takes from 30 to 45 minutes. This method is used only in individuals who weigh less than 35 kg (77 pounds).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Enrolled on another LPD protocol.\n* Weight greater than or equal to 25 kg\n* Willingness to participate\n\nEXCLUSION CRITERIA:\n\n* Age less than 7 years\n* Weight less than 25 kg\n* Cardiovascular instability\n* Hct less than 30\n* Inadequate venous access\n* PTT or PT greater than 1.5 normal\n* Pregnancy\n* Women who are actively breastfeeding\n* Other condition which the attending physician or Apheresis Unit staff considers a contraindication to the procedure\n* For Hetastarch procedure\n\n  * Hypertension\n  * Evidence of fluid retention",
+  "minimum_age": "8 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Any subject enrolled on an existing !RB-approved LPD protocol may be asked to participate and thereby undergo apheresis.",
+  "condition": [
+    "Leukopheresis",
+    "Plasmapheresis"
+  ],
+  "overall_status": "TERMINATED"
+}

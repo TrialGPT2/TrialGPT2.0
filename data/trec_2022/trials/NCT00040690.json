@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00040690",
+  "title": "Combination Chemotherapy in Treating Patients With Burkitt's Lymphoma or Burkitt's Leukemia",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Combining more than one drug may kill more tumor cells.\n\nPURPOSE: Phase II trial to study the effectiveness of combination chemotherapy in treating patients who have Burkitt's lymphoma or Burkitt's leukemia.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of diffuse B-cell lymphoma in a nodal or an extranodal site\n\n  * CD20 and CD79 positive\n  * 100% expression of Ki67 (MIB1) in all of the tumor cells OR\n* Diagnosis of bone marrow replacement/leukemia comprising mature B-cell lymphoma\n\n  * sIg and CD19 positive\n  * CD34 and Tdt negative\n* Patients in the low-risk group must meet at least 3 of the following criteria:\n\n  * Normal lactate dehydrogenase (LDH) level\n  * WHO performance status 0-1\n  * Ann Arbor stage I or II\n  * No more than 1 extranodal site (e.g., bone marrow, gastrointestinal tract, or CNS)\n* Patients in the high-risk group must meet at least 2 of the following criteria:\n\n  * Raised LDH level\n  * WHO performance status 2-4\n  * Ann Arbor stage III or IV\n  * More than 1 extranodal site\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 16 and over\n\nPerformance status:\n\n* See Disease Characteristics\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* See Disease Characteristics\n\nHepatic:\n\n* See Disease Characteristics\n\nRenal:\n\n* Not specified\n\nOther:\n\n* No mental or physical status that would preclude study\n* No other disease or prior malignancy that would preclude study\n* HIV negative\n* Not pregnant\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* No prior chemotherapy except 1 course of preinduction chemotherapy (e.g., CHOP \\[cyclophosphamide, doxorubicin, vincristine, and prednisone\\] or a related regimen)\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* No prior radiotherapy\n\nSurgery:\n\n* Not specified",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Leukemia",
+    "Lymphoma"
+  ],
+  "overall_status": "COMPLETED"
+}

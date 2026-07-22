@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01429909",
+  "title": "Optimization of fMRI for the Study of Basal Ganglia Activation in Parkinson's Disease",
+  "brief_summary": "Functional magnetic resonance imaging (fMRI) is a non-invasive imaging technique assessing neuronal activations during motor or cognitive tasks. The MRI sequences used are currently optimized for the study of cortex activations, particularly concerning the echo time (TE).Very few studies are interested in optimizing the fMRI for the study of the basal ganglia, structure implicated in many neurological diseases such as Parkinson's disease. The T2 \\* is a tissue parameter dependent of iron content, which differs with brain structures and probably also with age and in case of neurodegenerative disease. Optimal TE s should correspond to the T2 \\* of studied brain structure The primary purpose is to optimize the fMRI by a quantitative measurement of the T2\\* in the cortex and the basal ganglia using MRI. The secondary purpose is to study the effect of age and Parkinson's disease on T2\\*.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* For patients :\n* Patients with idiopathic Parkinson's disease according to UKPDSBB criterias\n* Men or women aged between 40 to 80 years\n* not treated with deep brain stimulation\n\nFor healthy subjects\n\n\\- Men or women aged between 40 to 80 years\n\nExclusion Criteria:\n\nFor patients\n\n* Dementia (MMS\\<24)\n* Contraindication to MRI.\n* Under guardianship\n* In excluding period for another study\n\nFor healthy subjects\n\n* Antecedent of neurodegenerative diseases or psychiatric diseases\n* Contraindication to MRI\n* Under guardianship\n* In excluding period for another study",
+  "minimum_age": "40 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Parkinson's Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

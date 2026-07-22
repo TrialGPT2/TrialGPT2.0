@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04559269",
+  "title": "Microsleep 1, Micro-sleep During Maintenance Wakefulness Tests",
+  "brief_summary": "During general anesthesia, intraoperative hypotension (IOH) is associated with increased morbidity and mortality. Mean arterial pressure (MAP) \\< 65mmHg is the most common definition of hypotension. In order to reduce IOH, a complex method using machine learning called hypotensive prediction index (HPI) was shown to be superior to changes in MAP (\u0394MAP) to predict hypotension (MAP between 65 and 75 excluded). Linear extrapolation of MAP (LepMAP) is also very simple and could be a better approach than \u0394MAP. The main objective of the present study was to investigate whether LepMAP could predict IOH during anesthesia 1, 2 or 5 minutes before.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients suffering from sleep pathologies (apneas, narcolepsy, etc.) hospitalized for polysomnography and MWT, in order to evaluate their sleepiness (usually before they resume driving)\n* hospitalized in the Center for Sleep Medicine (H\u00f4pital Lyon Croix Rousse) between September 2017 and January 2019\n\nExclusion Criteria:\n\n* patient with active encephalopathy or epilepsy whose EEG was abnormal\n* denial of study participation\n* availability of all the recordings (n=4 tests) of the MWT",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients suffering from sleep pathologies (apneas, narcolepsy, etc.) hospitalized for polysomnography and wakefulness tests, generally with a view to authorizing driving.",
+  "condition": [
+    "Lobectomy",
+    "Hepatectomy",
+    "Pancreaticoduodenectomy"
+  ],
+  "overall_status": "UNKNOWN"
+}

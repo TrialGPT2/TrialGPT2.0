@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00001174",
+  "title": "Evaluation of the Genetics of Bipolar Disorder",
+  "brief_summary": "This study looks to identify genes that may affect a person's chances of developing bipolar disorder (BP) and related conditions....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Stated willingness to comply with all study procedures and availability for the duration of the study.\n2. Male or female, aged 18 years and over. Children are excluded for the following reasons: age at onset of BD is usually later than age 18, the diagnostic and assessment instruments we use are not validated in children.\n3. In good general health as evidenced by medical history or diagnosed with or exhibiting symptoms of bipolar disorder or related conditions not attributable to substance abuse, or neurological disease; OR a 1st or 2nd degree relative of an enrolled participant. Related conditions are defined as those found more often among relatives of people with bipolar disorder or which have been shown to be genetically correlated with bipolar disorder through molecular genetic studies. These include major depression, schizophrenia, panic disorder, and attention deficit hyperactivity disorder.\n4. Ability to safely provide a blood or saliva sample.\n5. Ability of subject to understand and willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Active alcohol or substance abuse.\n2. Subjects who suffer cognitive impairment and are unable to provide an accurate psychiatric history are excluded since much of the diagnostic information relies on selfreport and recall of past events.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "community samples and clinical samples",
+  "condition": [
+    "Bipolar Disorder"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a genetic observational study of bipolar disorder and related conditions, with no cancer treatment or systemic therapy involved. There is no line-of-therapy intent applicable to this trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced disease. Eligibility is based on diagnosis of bipolar disorder or related conditions, or being a relative of an affected individual, with no mention of cancer treatment history."
+    }
+  ]
+}

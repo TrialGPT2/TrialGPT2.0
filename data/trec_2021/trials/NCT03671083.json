@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03671083",
+  "title": "Validation of Brain Function Assessment Algorithm for mTBI/Concussion",
+  "brief_summary": "This study is Part 2 of data collection from 13-25 years old subject population for validation of previously derived algorithms. This data will be combined with that collected under NCT02957461 (Part 1 with subject age range 18-25 years) for the final analyses of validation of the algorithms.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nFor Injured subjects:\n\n1. Having sustained a traumatic closed head injury within 72 hours (3 days) from time of injury at time of BrainScope assessment;\n2. GCS 13-15 at time of BrainScope assessment;\n3. No hospital admission due to either head injury or collateral injuries for \\>24 hours.\n\nFor Matched Controls:\n\n1. GCS 15 at time of BrainScope assessment;\n2. No prior history of concussion or TBI in the last year.\n\nExclusion Criteria:\n\n1. Previously enrolled in the BrainScope CAS Studies;\n2. Current CNS active prescription medications taken daily, with the exception of medications being taken for the treatment of Attention Deficit Disorder (ADD) or Attention Deficit Hyperactivity Disorder (ADHD);\n3. Forehead, scalp or skull abnormalities that prevents headset application or EEG data collection;\n4. History of brain surgery or neurological disease;\n5. Pregnant women;\n6. Subjects who do not speak English (non-English speaking parents are allowed to consent so long as translation of the consent form in their native language is available);\n7. Acute intoxication;\n8. Evidence of illicit drug usage;\n\nFor Injured subjects:\n\n1. Loss of consciousness \u2265 20 minutes related to the concussion injury;\n2. Active fever defined as greater than 100\u00baF or 37.78\u00baC at time of BrainScope assessment;\n3. Evidence of abnormality visible on Computerized Tomography (CT) of the head related to the traumatic event (Note: neuroimaging is not required for enrollment).\n\nFor Matched Controls:\n\n1. Any focal neurological signs including aphasia, apraxia, diplopia, facial droop, dysarthria/slurred speech;\n2. History of Motor Vehicle Accident (MVA) requiring an Emergency Department visit within the past 1 year.",
+  "minimum_age": "13 Years",
+  "maximum_age": "25 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Approximately 160 Injured and Matched Control subjects will be recruited from high schools, college universities, concussion clinics and emergency rooms.",
+  "condition": [
+    "Brain Injuries, Traumatic",
+    "Concussion, Mild",
+    "Concussion, Severe",
+    "Concussion, Intermediate",
+    "Concussion, Brain"
+  ],
+  "overall_status": "COMPLETED"
+}

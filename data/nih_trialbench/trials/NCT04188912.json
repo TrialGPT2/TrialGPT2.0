@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT04188912",
+  "title": "Close Assessment and Testing for Chronic Graft Versus Host Disease, CATCH Study",
+  "brief_summary": "This trial observes and collects samples from patients before and after stem cell transplantation to learn more about how and why a complication called chronic graft-versus-host disease (GVHD) develops after stem cell transplantation. Performing close observation and various types of testing may enable doctors to notice symptoms or problems sooner than they would normally have been noticed and predict which patients will develop chronic GVHD.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adults age 18 or older\n* Scheduled for allogeneic HCT from any donor for any indication, with a risk of cGVHD of \\> 25% (see below in exclusion criteria for treatment plans with a cGVHD risk \\< 25%)\n* Ability and willingness to comply with the intensive assessment schedule including evaluation every other month at a participating site\n* Ability to communicate in English or Spanish, to allow completion of patient surveys and clear communication with the study team\n\nExclusion Criteria:\n\n* Receipt of umbilical cord blood, bone marrow with post-transplant cyclophosphamide (peripheral blood with post-transplant cyclophosphamide is allowed), anti-thymocyte globulin, alemtuzumab, or ex-vivo T-cell depletion. These patients are excluded because they have a cGVHD risk of \\< 25%\n* Hematologic malignancy with active disease at the time of transplant. Minimal residual disease is allowed\n* Hematopoietic cell transplant co-morbidity index \\> 4 based on parameters known at time of enrollment\n* Prior allogeneic transplant\n* Prior autoimmune disease with ongoing symptoms\n* History of noncompliance\n* Inability to comply with study requirements due to geographic, logistic, social or any other factors",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients scheduled for allogeneic hematopoietic cell transplantation (HCT) from any donor for any indication, with a risk of cGVHD of \\> 25%",
+  "condition": [
+    "Hematopoietic and Lymphoid Cell Neoplasm"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling patients scheduled for their first allogeneic hematopoietic cell transplantation (HCT) for any indication, regardless of prior lines of therapy for advanced disease. There are no restrictions based on prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes all adults scheduled for their first allogeneic HCT for any indication, with no mention of restrictions on prior systemic therapy for advanced or metastatic disease. Patients who have only received adjuvant or neoadjuvant therapy are eligible. Prior allogeneic transplant is excluded, but prior lines of therapy are not specified."
+    }
+  ]
+}

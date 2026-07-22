@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00655096",
+  "title": "Screening for Research Participants",
+  "brief_summary": "This study will allow National Eye Institute (NEI) doctors the opportunity to examine people with eye disease, whether the diagnosis is known or not, to determine if they are eligible for other NEI research studies. No treatment is offered in this study.\n\nPeople of all ages with various eye conditions, including genetic conditions, eye movement disorders, inflammatory eye diseases, retinal diseases and external eye diseases, may be eligible for this study.\n\nParticipants undergo various tests and procedures to diagnose or evaluate their eye disease. The procedures may include the following:\n\n* Personal and family medical history\n* Physical examination and blood tests, including genetic testing.\n* Eye examination with dilation to measure visual acuity and eye pressure and to examine the front and back parts of the eye.\n* Questionnaire about vision and daily activities.\n* Conjunctival swab or lacrimal bland biopsy, or both: A sample of cells from the eyes is collected by swabbing the surface of the eye or by surgically removing a small sample of the surface of the eye or tear gland.\n* Electroretinogram to examine retinal function: The subject sits in the dark with his or her eyes patched for 30 minutes. The patches are removed, the surface of the eyes is numbed, and contact lenses that can sense signals from the retina are placed on the eyes. The subject then watches flashing lights.\n* Fluorescein angiography to examine the blood vessels in the eye: A dye is injected into a vein in the arm. The dye travels through the veins to the blood vessels in the eyes. A camera takes pictures of the dye as it flows through the blood vessels.\n* Optical coherence tomography to measure retinal thickness: A machine used to examine the eyes produces cross-sectional pictures of the retina.\n* Microperimetry to test how sensitive different parts of the retina are to changing levels of light. The subject sits in front of a computer and presses a button when he or she sees a light on the screen.\n* Oculography to record eye movements: Eye movements are measured by contact lenses or goggles that the subject wears while watching a series of spots on a computer screen.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nParticipants will be able to enroll if they:\n\n* Have a diagnosed ocular disease/disorder; OR\n* Potentially have an unusual, interesting, or unknown ocular condition that requires the establishment of a diagnosis; OR\n* Potentially participate as a disease-free control participant in an NEI clinical research study; OR\n* Are an unaffected first-degree relative of a participant with either a diagnosed or undiagnosed ocular disorder; AND\n* Have the ability to understand and sign an informed consent OR if they are minor children have a legal parent/guardian with the ability to do the same.\n* Adults with impaired capacity to consent must have a Legally Authorized Representative (LAR) who is able to provide informed consent.\n\nEXCLUSION CRITERIA:\n\nParticipants will be unable to enroll if they:\n\n* Are unwilling or unable to cooperate with the study procedures.\n* Female participants of childbearing potential who are pregnant are not eligible for enrollment.",
+  "minimum_age": "2 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants can be self-referred or be referrals from medical practitioners, clinics, hospitals, or medical institutions.",
+  "condition": [
+    "Eye Diseases"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-treatment screening and diagnostic study for individuals with ocular diseases or as healthy controls. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study does not involve treatment and does not specify any requirements or exclusions based on prior systemic therapy for advanced disease. Eligibility is based on ocular disease status or being a control, with no mention of prior lines of therapy."
+    }
+  ]
+}

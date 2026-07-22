@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT02154568",
+  "title": "Study of Airflow in the Lungs Using Helium MRI",
+  "brief_summary": "Computer simulations are being developed to predict air flow abnormalities in the airways of patients with lung disease. The purpose of this study is to obtain actual gas flow measurements in the lungs of healthy patients and patients with lung disease and use these measurements to validate the computer models.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Healthy subjects:\n\n  * Normal PFT values: FEV1 \\> 90% predicted; and Forced vital capacity (FVC) \\> 90% predicted\n  * Normal chest x-ray (CXR)\n  * Medical history: No active pulmonary symptoms (cough, shortness of breath, sputum); Negative history of pulmonary disease; Negative smoking history (never smoked)\n* Pulmonary Disease Subjects:\n\n  * PFT values: FEV1/FVC \\< 70% (indicative of obstruction); and 30% \\< FEV1 \\< 50% predicted\n  * CXR normal except hyperinflation\n  * Symptoms - chronic shortness of breath\n* All test subjects, healthy and with COPD should have similar physical anthropometric characteristics:\n\n  * Similar age with age difference less than 3 years\n  * Similar height (within 3-4 inches)\n\nExclusion Criteria:\n\n* Any condition for which a MRI procedure is contraindicated.\n* Presence of any non-MRI compatible metallic material in the body, such as pacemakers, metallic clips, etc.\n* Likelihood of claustrophobia\n* Chest circumference greater than that of the helium MR coil.\n* Pregnancy, by report of subject. Clinically in the Department of radiology at UVA, self report is used when screening patients for MR scans as well as CT scans and fluoroscopy studies. If the subject reports there is any chance of their being pregnant a urine pregnancy test will be performed prior to any imaging.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COPD",
+    "Healthy",
+    "Constrictive Bronchitis"
+  ],
+  "overall_status": "UNKNOWN"
+}

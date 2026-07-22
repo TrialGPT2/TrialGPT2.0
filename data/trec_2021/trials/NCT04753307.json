@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04753307",
+  "title": "Perioperative Inflammatory Response Assessment in High-risk Patients Undergoing Noncardiac Surgery",
+  "brief_summary": "Postoperative cardiovascular complications are common after noncardiac surgery. The association between perioperative inflammation and the occurrence of cardiovascular complications after surgery is still unknown. Therefore, we will evaluate as our primary aim the association between patients with increased postoperative inflammation, assessed with C-reactive protein measurements, and the occurrence of major cardiovascular complications after noncardiac surgery. We will further evaluate the influence of perioperative inflammation on the occurrence of postoperative acute kidney injury. We will also evaluate the association between inflammation and the influence on Days-At-Home within 30 days. Furthermore, we will evaluate the association between increased inflammatory biomarkers and postoperative N-terminal pro brain natriuretic peptide (NT-proBNP) concentration.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "All patients need to meet all of the following criteria for inclusion (1-4):\n\n1. Surgery planned for more than two hours\n2. \u2265 45 years of age\n3. Provide written informed consent AND\n4. Fulfill \u2265 1 of the following criteria (A-K)\n\nInclusion Criteria:\n\n* NT-proBNP \u2265 200 ng/L\n* Troponin T \\> 25 ng/L\n* History of coronary artery disease\n* History of peripheral artery disease (PAD)\n* 75 years or older\n* History of transient ischemic attack (TIA) or stroke\n* Current smoking or cessation of smoking within 2 years\n* Diabetes or currently taking anti-diabetic drug\n* Hyperlipidemia\n* History of hypertension or currently taking an antihypertensive drug\n* Atrial fibrillation\n\nExclusion Criteria:\n\n* Patients on immune-suppressive therapy\n* ICU patients undergoing surgery\n* Preoperative Sepsis/systemic inflammatory syndrome (SIRS) needing ICU treatment\n* Preoperative hemodynamically instable patients, who require vasopressor or inotropic support\n* History of severe heart failure (defined as left ventricular ejection fraction (LVEF) \\< 30%)\n* Liver cirrhosis\n* Chronic inflammatory bowel diseases (CIBD)\n* Severe rheumatic diseases requiring immunosuppressive treatment",
+  "minimum_age": "45 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients at least 45 years and at-risk to develop postoperative cardiovascular complications undergoing noncardiac surgery.",
+  "condition": [
+    "Postoperative Complications",
+    "Cardiovascular Complication",
+    "Myocardial Ischemia",
+    "Inflammation"
+  ],
+  "overall_status": "UNKNOWN"
+}

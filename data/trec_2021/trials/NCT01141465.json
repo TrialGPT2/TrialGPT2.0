@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01141465",
+  "title": "Real-world Effectiveness of Combination Therapy in Asthma",
+  "brief_summary": "This study will evaluate and compare the effectiveness of asthma management in patients with evidence of persistent asthma following a switch in asthma therapy to combination inhaled glucocorticosteroid (ICS) / long-acting bronchodilator (LABA) therapy as either: fixed-combination fluticasone propionate / salmeterol (FP/SAL; Seretide\u00ae) via pressurised metered-dose inhaler (pMDI) or dry-powder inhaler (DPI) plus as-needed (prn) reliever therapy (salbutamol as DPI, BAI or pMDI), or fixed-combination budesonide / formoterol (BUD/FOR; Symbicort\u00ae) via DPI plus prn reliever therapy (salbutamol as DPI, BAI or pMDI or bricanyl as DPI). The final analysis plan will define exact comparators and age groups to be studied after reviewing baseline data.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Aged: 4-80 years: Paediatric cohort (aged 4-11 years); Adult cohort (aged 12-69 years); Elderly cohort (aged 70-80 years.\n* Evidence of asthma: i.e. a diagnostic code of asthma or \u22652 prescriptions for asthma at different points in time during the prior year, including one ICS prescription.\n* Be on current asthma therapy: i.e. \u22651 asthma prescriptions in the prior year, and at least 1 other asthma prescription during the same period.\n* Have at least one year of up-to-standard (UTS) baseline data (prior to the IPD) and at least one year of UTS outcome data (following the IPD).\n\nExclusion Criteria:\n\n* Diagnostic read code for chronic respiratory disease (including COPD) at any time\n* On maintenance oral steroid therapy at baseline\n* Any patients receiving a combination inhaler in addition to their separate ICS inhaler in the baseline year.",
+  "minimum_age": "4 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Primary care asthma patients receiving ICS therapy (any of BDP, extrafine HFA-BDP, BUD or FP as pMDI, BAI or DPI) plus as needed SABA reliever therapy who underwent a change in asthma therapy to combination ICS/LABA therapy as FP/SAL (MDI or DPI) or BUD/FOR (DPI) at the same or at least twice the BDP-equivalent dose of ICS prescribed during baseline.",
+  "condition": [
+    "Asthma"
+  ],
+  "overall_status": "COMPLETED"
+}

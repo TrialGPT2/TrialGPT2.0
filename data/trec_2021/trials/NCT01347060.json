@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT01347060",
+  "title": "Outcomes for Medicare Asthma Patients Taking Fluticasone Propionate/Salmeterol Xinafoate Combination Versus Inhaled Corticosteroids or Other Combination Therapy",
+  "brief_summary": "The objective of this study is to compare healthcare utilization and costs in Medicare-eligible asthma patients (aged \\>65) who receive fluticasone propionate/salmeterol xinafoate combination or inhaled corticosteroids in a typical clinical practice using a retrospective observational cohort study design of large managed care database. Outcomes on interest include asthma related severe exacerbations defined as asthma related emergency department visits, hospitalizations or combined emergency department/hospitalization. Other outcomes of interest include use of albuterol, oral corticosteroids and overall asthma related costs. Outcomes of interest will be compared between the two treatment cohorts (fluticasone propionate/salmeterol xinafoate combination or inhaled corticosteroids). Dichotomous outcomes (emergency visits, hospitalizations etc) will be compared using Cox regression hazards analysis assessing time to first event for each asthma related endpoint adjusting for differences in baseline demographics such as age, gender, previous asthma medication use, co morbidities, costs, and plan demographics. Total asthma related costs will also be compared using generalized linear models adjusting for baseline differences.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Subjects with asthma as determined by ICD-9 codes and asthma drug use\n* at least 65 years of age\n* prescription for an inhaled corticosteroid\n\nExclusion Criteria:\n\n* a diagnosis of chronic obstructive pulmonary disease or\n* a prescription for a chronic obstructive pulmonary disease treatment",
+  "minimum_age": "65 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Medicare-eligible subjects age 65 years and older with a diagnosis of asthma being treated with an inhaled corticosteroid",
+  "condition": [
+    "Asthma"
+  ],
+  "overall_status": "COMPLETED"
+}

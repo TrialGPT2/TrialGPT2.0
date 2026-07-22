@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02830412",
+  "title": "Intraoperative Electronic Reminder Module to Enhance Postoperative Nausea and Vomiting Prophylaxis",
+  "brief_summary": "This project intends to develop and implement an electronic reminder for post-operative nausea and vomiting (PONV) prophylaxis into the Anesthesia Record Keeping System.\n\nEach patient will have his or her PONV risk classified based on the following risk factors: Female gender, History of PONV, History of Motion Sickness, Non-smoker and Duration of procedure \\> 60 minutes.\n\nPatients will be randomized to either receive the PONV reminder or not. Those receiving the PONV reminder will have the PONV risk assessment and current guideline information for PONV prophylaxis displayed on the Anesthesia Record Keeping System (ARKS) screen at the beginning of the case.\n\nAt the end of the procedure (specific at documentation of emergence), the reminder will assess the current status of PONV prophylaxis as per anti-emetic medications administered and compare the current status to the recommended status based on published guidelines.\n\nIf the current status is compatible or exceeds the recommended status the reminder will silently document compliance.\n\nIf published guidelines suggest additional PONV prophylaxis based on the patients risk profile and a comparison with the currently documented status, an electronic reminder will appear on the ARKS screen to alert the anesthesia provider of an opportunity to enhance guideline adherence.\n\nThe reminder will not recommend a specific medication, intervention or therapy.\n\nIt will be completely the decision of the anesthesia provider if and how to modify the PONV prophylaxis for the patient.\n\nSubjects randomized to not receive the electronic display will have it deactivated.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \u2265 18 years\n* Procedure with General Anesthesia\n\nExclusion Criteria:\n\n* Postoperative admission to the Intensive Care Unit\n* Postoperative fast-track to Phase II\n* Patient remains sedated/intubated at the end of the procedure",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Postoperative Nausea and Vomiting"
+  ],
+  "overall_status": "WITHDRAWN"
+}

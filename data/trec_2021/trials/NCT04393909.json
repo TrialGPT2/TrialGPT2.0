@@ -1,0 +1,52 @@
+{
+  "nctid": "NCT04393909",
+  "title": "Improving Safety of Diagnosis and Therapy in the Inpatient Setting",
+  "brief_summary": "To improve the safety of diagnosis and therapy for a set of conditions and undifferentiated symptoms for hospitalized patients, the investigators will employ a set of methods and tools from the disciplines of systems engineering, human factors, quality improvement,and data analytics to thoroughly analyze the problem, design and develop potential solutions that leverage existing current technological infrastructure, and implement and evaluate the final interventions. The investigators will engage the interdisciplinary care team and patient (or their caregivers) to ensure treatment trajectories match the anticipated course for working diagnoses (or symptoms), and whether they are in line with patient and clinician expectations. The investigators will use an Interrupted time series (ITS) design to assess impact on diagnostic errors that lead to patient harm. The investigators will perform quantitative and qualitative evaluations using implementation science principles to understand if the interventions worked, and why or why not.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 18 or older\n* Adult patients admitted to General Medicine Services at Brigham and Women's Hospital during the 21-months study data collection period\n* English speakers\n* Patients who were diagnosed with any of the following conditions and symptoms upon admission:\n* Abdominal pain\n* Altered mental status/ delirium / confusion\n* Asthma / chronic obstructive pulmonary disease (COPD)\n* Cellulitis / soft tissue infection\n* Chest pain\n* Cough\n* Deep vein thrombosis / pulmonary embolism / venous thromboembolism\n* Dyspnea / short of breath\n* Failure to thrive\n* Pneumonia\n* Protein-calorie malnutrition\n* Sepsis\n* Other conditions typical of general medicine patients\n\nExclusion Criteria:\n\n* Not pregnant women, prisoners and institutionalized individuals",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Delirium",
+    "Confusion",
+    "Mental Status Change",
+    "Back Pain",
+    "Hip Pain Chronic",
+    "Chest Pain",
+    "Asthma",
+    "COPD",
+    "Cellulitis",
+    "Soft Tissue Infections",
+    "Cough",
+    "Deep Vein Thrombosis",
+    "Pulmonary Embolism",
+    "Venous Thromboembolism",
+    "Dyspnea",
+    "Electrolyte Metabolism Abnormal",
+    "Fever",
+    "Failure to Thrive",
+    "Weakness",
+    "Protein-Calorie Malnutrition",
+    "Headache",
+    "Neck Pain",
+    "Hypoxia",
+    "Pneumonia",
+    "Sepsis",
+    "Syncope",
+    "Vomiting",
+    "Diarrhea",
+    "Leg Pain",
+    "Abdominal Pain"
+  ],
+  "overall_status": "COMPLETED"
+}

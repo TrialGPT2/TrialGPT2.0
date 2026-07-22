@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01049191",
+  "title": "Bone Microarchitecture in Women With and Without Fracture",
+  "brief_summary": "Osteoporosis is a common disorder of compromised bone strength causing 40-50% of women and \\~25% of men to sustain fragility fractures during their lifetime. The reduction of bone strength in osteoporotic people results from loss of bone density and deterioration of bone quality. Bone quality is a complex amalgamation including macro- and micro-architecture, mineralization, turnover and damage accumulation. Currently, medications to reduce fracture risk are prescribed primarily on the basis of bone mineral density (BMD) measurement. Unfortunately, currently available BMD measurement technologies do not detect the aforementioned properties of bone quality; as such, less than half of individuals who sustain osteoporotic fractures are classified as \"osteoporotic\" by currently available diagnostic tools. Clearly, measures to enhance identification of those at high fracture risk are needed. High-resolution magnetic resonance imaging (HR-MRI) technology, such as that provided by MicroMRI, Inc., has outstanding potential to be such a tool. Therefore, our long-term goal is to evaluate and optimize the use of HR-MRI in fracture risk prediction; this pilot work is an essential step in attaining this goal.\n\nThis research will investigate 72 postmenopausal women with normal or osteopenic BMD by dual-energy x-ray absorptiometry (DXA), 36 with prior low-trauma fractures will be compared with 36 age-, race- and BMD matched women without fracture. We hypothesize that 1.) Women with fractures will have evidence of microarchitectural deterioration on HR-MRI and 2.) Newly developed, more rapid MRI sequences designed at the UW will provide similar trabecular microstructure information more rapidly than the currently used, albeit investigational, technology produced by MicroMRI, Inc.\n\nOur specific aims are to a) Evaluate differences in MicroMRI parameters of trabecular microstructure (bone volume fraction, trabecular thickness, surface/curve ratio and erosion index) between age-, race- and BMD-matched postmenopausal women with and without fracture; b.) Correlate T2\\* relaxation time (a rapid indirect MRI measure of trabecular density and microstructure) with BMD measured by DXA, and microstructural parameters measured by MicroMRI. As an exploratory aim we will investigate HR-MRI parameters of trabecular microstructure obtained using a newly developed, rapid MRI sequence referred to as IDEAL-FSE with parameters obtained using the currently available MicroMRI, Inc. sequence.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Postmenopausal women volunteers age \u2265 50 years\n* normal BMD or osteopenia (T-score \\> -2.5 at the L1-4 spine, proximal femur and 1/3rd radius) by DXA.\n* sustained a \"fragility\" fracture of the spine, hip or wrist, defined as a fracture occurring with everyday activities including a fall from standing height or less.\n* Historical radiographic documentation of fracture will be obtained.\n* Criteria as defined above without prior fracture, age and bone density matching a participant in the fracture group\n\nExclusion Criteria:\n\n* metabolic bone disease\n* malignancy\n* renal failure\n* use of medications which alter bone turnover\n* diseases/conditions leading to the non-dominant arm disuse\n* contraindications to MRI.",
+  "minimum_age": "50 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Seventy-two postmenopausal volunteers age \u2265 50 years will be recruited from existing databases of \\~3500 women with expressed interested in research. All will have normal BMD or osteopenia (T-score \\> -2.5 at the L1-4 spine, proximal femur and 1/3rd radius) by DXA. Thirty-six will have sustained a \"fragility\" fracture of the spine, hip or wrist, defined as a fracture occurring with everyday activities including a fall from standing height or less. Historical radiographic documentation of fracture will be obtained. Thirty-six women without fracture will serve as age- race- and BMD-matched controls. Age will be matched to within 6 months; BMD in grams/cm2 at the non-dominant ultra-distal radius will be matched to within 5%.",
+  "condition": [
+    "Osteoporosis",
+    "Fracture"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00588367",
+  "title": "CT Pancreas Perfusion",
+  "brief_summary": "1. Pancreatic CT perfusion with a biofeedback breathing belt worn by the participant, and using novel post-processing techniques, is a reliable method which can be used to differentiate between pancreatic cancer, chronic pancreatitis, and autoimmune pancreatitis.\n2. Pancreatic CT perfusion can be used to monitor patients undergoing decompression treatment (endoscopic retrograde cholangiopancreatography with stent placement) for painful chronic pancreatitis, and the change in the pancreatic perfusion parameters correlate with the change in the pain parameters (pain scale and analgesic use).\n3. Pancreatic CT perfusion parameters can be calculated using surrogate scan data sets at specific time points to replace the continuous scanning.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. a. Suspected pancreatic adenocarcinoma, age 35 to 99 years.\n2. a. Chronic pancreatitis with chronic pain, age 18 to 99 years. Must be a confirmed diagnosis by either CT, endoscopic ultrasound (EUS), or endoscopic retrograde cholangiopancreatography (ERCP).\n\n2b. To undergo endoscopic or surgical decompression with 0 to 10 days of first study visit CT perfusion scan.\n\n2c. To answer pain questionnaire before first CT perfusion scan.\n\n2d. To return within three weeks to three months after decompression treatment for another CT perfusion scan and complete the second pain questionnaire.\n\n3a. Autoimmune pancreatitis, age 18 to 99 years either with diffuse or focal swelling of the pancreas confirmed by CT, MRI, or EUS or\n\n3b. Irregular narrowing of the pancreatic duct on ERCP and either elevated serum immunoglobulin G4 (IgG4), or histological confirmation.\n\nExclusion Criteria:\n\n1a. Pancreatic ductal adenocarcinoma tumors with vascular involvement but without vascular occlusion.\n\n1. b. Pancreatic ductal adenocarcinoma tumors less than 2 cm in size.\n2. a. Chronic pancreatitis with diffuse and extensive pancreatic calcification.\n3. a. Autoimmune pancreatitis with a prior pancreas surgery or steroid treatment for autoimmune pancreatitis .\n\nAny Cohort:\n\n4\\. Pregnant.\n\n5\\. Prior iodine contrast reactions.\n\n6\\. Iodine allergy.\n\n7\\. Decreased kidney function being a serum creatinine greater than 1.5mg/dl.\n\n8\\. Any contraindication to having a CT scan with iodine contrast.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Mayo Clinic patients being seen in Pancreas Clinic.",
+  "condition": [
+    "Pancreatic Ductal Adenocarcinoma",
+    "Chronic Pancreatitis",
+    "Autoimmune Pancreatitis"
+  ],
+  "overall_status": "COMPLETED"
+}

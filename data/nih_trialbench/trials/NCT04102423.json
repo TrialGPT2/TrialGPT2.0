@@ -1,0 +1,41 @@
+{
+  "nctid": "NCT04102423",
+  "title": "CHIP/CCUS Natural History Protocol",
+  "brief_summary": "Background:\n\nClonal Hematopoiesis of Indeterminate Potential (CHIP) is a change in a person s DNA that can increase a person s risk of developing blood cancers or cardiovascular disease. CHIP occurs mostly occurs in older people. Clonal cytopenia of undetermined significance (CCUS) occurs when one or more blood cell types is lower than it should be and is associated with a change in their DNA. Researchers want to learn more about how CHIP and CCUS progress.\n\nObjective:\n\nTo examine the natural history of people in a study of CHIP and CCUS to (1) verify the association of myeloid somatic mutations with atherosclerosis and blood cancers, and (2) find new potential clinical associations.\n\nEligibility:\n\nAdults 18 and older with CHIP with a somatic pathogenic variant associated with blood cancers. Adults with CCUS are also needed.\n\nDesign:\n\nPotential participants will be screened with gene testing. For this, they will give a blood sample. They will also be enrolled in NHLBI screening protocol #97-H-0041. Those who pass this screening will visit the NIH Clinical Center for more screening tests. For this, they will give a blood sample. They will have a physical exam. They will give their medical history. They may give a urine sample. Those with CCUS will have bone marrow taken.\n\nEligible participants will give blood and urine samples. Their heart activity will be monitored and tested. The arteries in their neck will be assessed using ultrasound. They will have liver and heart scans. They will have a bone mineral density scan. They will have lung function tests. They will have the inside of their cheek swabbed or have a skin punch biopsy. They will have the option to have advanced scans done of their heart and full body but this is not required.\n\nParticipants will have yearly follow-up visits for 10 years. They will repeat the above procedures every 1-3 years depending on the procedure.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* Participants with Clonal Hematopoiesis of Indeterminate Significance (CHIP):\n\nINCLUSION CRITERIA:\n\n* Greater than or equal to 18 years of age\n* Willingness and capacity to provide written informed consent\n* Presence of a somatic pathogenic variant associated with hematological malignancy\n* Variant allele fraction of greater than or equal to 2% in at least one identified somatic pathogenic variant\n\nEXCLUSION CRITERIA:\n\n* Known diagnosis of a hematological malignancy or bone marrow failure syndrome (excluding MGUS or MBL)\n* Presence of a cytopenia:\n\n  --Hemoglobin, \\<10 g/dL; platelet count, \\<100 X 10\\^9 /L; or absolute neutrophil count, \\<1.5 X 10\\^9 /L\n* Pregnant at the time of recruitment\n\nParticipants with Clonal Cytopenia of Uncertain Significance (CCUS):\n\nINCLUSION CRITERIA:\n\n* Greater than 18 years of age\n* Willingness and capacity to provide written informed consent\n* Presence of a somatic pathogenic variant associated with hematological malignancy without morphological evidence of\n\nmyelodysplasia and without a MDS defining cytogenetic abnormality\n\n* Variant allele fraction of greater than or equal to 2% in at least one identified somatic pathogenic variant\n* Bone marrow aspirate and biopsy excluding hematological malignancy and MDS\n* Presence of a cytopenia for \\>30 days\n\n  * Hemoglobin, \\<10 g/dL; platelet count, \\<100 X10\\^9 /L; or absolute neutrophil count, \\<1.5 X10\\^9 /L\n  * At least 2 CBCs documented in a non-hospitalized patient at least 3 days apart\n\nEXCLUSION CRITERIA:\n\n* Known diagnosis of a hematological malignancy or bone marrow failure syndrome (excluding MGUS or MBL)\n* Morphological evidence of dysplasia on bone marrow aspirate / biopsy 10% dysplastic cells in any hematopoietic lineage\n* Ringed sideroblasts \\>15%\n* Presence of MDS defining cytogenetic abnormality\n\n  * del(7q)\n  * del(5q)\n  * 17q or t(17p)\n  * del(13q)\n  * del(11q)\n  * del(12p) or t(12p)\n  * del(9q)\n  * idic(X)(q13)\n  * t(11;16)\n  * t(3;21)\n  * t(1;3)\n  * t(2;11)\n  * inv(3)/t(3;3)\n* t(6;9)\n\n  --Note: As a sole cytogenetic abnormality in the absence of morphological criteria, gain of chromosome 8, del(20q) and loss of chromosome Y are not considered definitive evidence of MDS.\n* Alternate hematological diagnosis causing cytopenia\n* Pregnant at time of recruitment\n* Previous chemotherapy or radiotherapy",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Primary Clinical",
+  "condition": [
+    "Clonal Hematopoiesis of Indeterminate Potential",
+    "Clonal Cytopenia of Undetermined Significance"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study enrolling adults with CHIP or CCUS who do not have a diagnosis of hematological malignancy or prior chemotherapy/radiotherapy. There is no requirement for or exclusion based on prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "CHIP",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Participants with CHIP must not have a known diagnosis of hematological malignancy or prior chemotherapy/radiotherapy. There is no mention of prior systemic therapy for advanced disease, so only treatment-naïve patients are eligible."
+    },
+    {
+      "cohort_label": "CCUS",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Participants with CCUS must not have a known diagnosis of hematological malignancy or prior chemotherapy/radiotherapy. There is no mention of prior systemic therapy for advanced disease, so only treatment-naïve patients are eligible."
+    }
+  ]
+}

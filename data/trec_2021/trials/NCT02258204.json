@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02258204",
+  "title": "Ketamine for Thrombolysis in Acute Ischemic Stroke",
+  "brief_summary": "KETA trial is a nonprofit, double-blind, randomized, controlled pilot trial with aiming to determine if co-administration of ketamine with recombinant of tissue type plasminogen activator (tPA) for thrombolysis in acute ischemic stroke compared with tPA co-administered with placebo, decreases cerebral infarction growth in diffusion weighted imaging between admission and day 1. Eligibility applies to patients with symptomatic ischemic stroke seen within 4.5 h of onset with middle cerebral artery or distal internal carotid artery occlusion, no contraindication to intravenous tPA-mediated thrombolysis and eligible to endovascular treatment of stroke (i.e. thrombectomy). The study has been designed to have 80% power to detect a 80% decrease of infarct volume growth in the tPA-ketamine group at a two-sided type I error rate of 5%. For this purpose, at least 25 patients per arm should be enrolled.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Sudden focal neurological deficit attributable to acute ischemic stroke.\n* Age between 18 and 85.\n* Time from symptom onset less than 4.5 hours.\n* NIHSS score between 7 and 20.\n* Informed consent for participation.\n* Ketamine can be administered within 15 minutes after onset of tPA infusion.\n* MRI-based AIS diagnosis.\n* Middle cerebral (M1 or M2 segment) and/or distal internal carotid artery occlusion.\n* No intracranial hemorrhage on MRI.\n* Patient eligible for thrombectomy.\n\nExclusion Criteria:\n\n* Contraindication to IV tPA treatment.\n* Contraindication to ketamine.\n* Contraindication to MRI.\n* Contraindication to intravascular iodinated contrast media.\n* Consciousness level \\>1 on question 1a of NIHSS.\n* Pre-stroke mRS \u22653.\n* Concomitant medical illness that would interfere with outcome assessments and follow-up (e.g. advanced cancer or respiratory disease).\n* Previous participation in this trial or current participation in another investigational drug trial.\n* Infarct volume on diffusion weighted MRI more than 100 mL.",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke"
+  ],
+  "overall_status": "UNKNOWN"
+}

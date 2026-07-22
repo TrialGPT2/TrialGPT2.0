@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01831037",
+  "title": "The Regression of Liver Fibrosis and Risk for Hepatocellular Carcinoma (ROLFH) Study",
+  "brief_summary": "This study aims to demonstrate that patients with chronic hepatitis C (CHC) and B (CHB) experiencing regression of liver cirrhosis after effective antiviral therapy have decreased risk for hepatocellular carcinoma (HCC). Primary aim is to determine the incidence of HCC in patients with cirrhosis secondary to CHC and CHB, after treatment is provided, and to identify the magnitude of the decreased risk for HCC in patients experiencing regression of fibrosis. As a secondary aim, environmental risk factors for HCC development will be sought, in order to determine a subset of patients in whom it will be safe to stop surveillance.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 18-70\n* Chronic liver disease due to CHC or CHB.\n* Starting of disease-specific treatment no earlier than January of 2010. Treatment could consist of:\n\n  * combination therapy with peginterferon and ribavirin, with or without a direct-acting viral agent in CHC;\n  * single or combination therapy containing peginterferon, entecavir, or tenofovir in CHB.\n* Established cirrhosis on liver biopsy (METAVIR F4) obtained before starting disease-specific treatment.\n* In patients without liver biopsy, any of the following criteria will be used as a surrogate to define cirrhosis:\n\n  * History of spleen \\>13 cm, bilirubin \\>2, albumin \\<3.5, INR \\>1.5 (2 of 3 criteria).\n  * History of APRI (\\[AST/ULN\\]/platelets x 100) \\>2, and esophageal varices or ascites.\n  * History of Fibrotest/Fibrosure \\>0.74, and TE \\>12.5 kPa (M-probe) or \\>10 kPa (XL-probe).\n\nExclusion Criteria:\n\n* Known diagnosis of hepatocellular carcinoma or portal vein thrombosis\n* Conditions limiting Fibrotest/Fibrosure read: hemolysis, Gilbert's syndrome, autoimmune disease.\n* Conditions limiting TE read: ascites, heart failure with retrograde vascular congestion, extrahepatic cholestasis.\n* Pregnancy or implantable active medical device (such as pacemaker or defibrillator).",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with chronic hepatitis C or B, with cirrhosis, with successful antiviral treatment no earlier than January 2010 (retrospective component), or planned to start antiviral treatment by the time of recruitment",
+  "condition": [
+    "Chronic Hepatitis C",
+    "Chronic Hepatitis B"
+  ],
+  "overall_status": "WITHDRAWN"
+}

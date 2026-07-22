@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT07027839",
+  "title": "Acute Effects of Alcohol on PET Imaging of Phosphodiesterase-4B (PDE4B)",
+  "brief_summary": "Background:\n\nPhosphodiesterase-4B (PDE4B) is a protein in the brain that may play a role in several mental health disorders. Researchers want to know if drinking alcohol increases the binding of a radioactive tracer to PDE4B in the brain because of increased activity and/or amount of the protein. This knowledge may help create new ways to treat people with alcohol use disorder (AUD).\n\nObjective:\n\nTo learn if alcohol increases PDE4B activity in the brain.\n\nEligibility:\n\nHealthy people aged 21 to 70 years who drink socially but do not have AUD. They must be enrolled in protocol 14-AA-0181\"NIAAA Natural History Protocol\".\n\nDesign:\n\nParticipants will have up to 4 clinic visits with up to 3 imaging scans of the brain; these will include 1 or 2 positron emission tomography (PET) scans and 1 magnetic resonance imaging (MRI) scan.\n\nThe first PET scan will be a baseline. Participants will receive a radioactive tracer through a tube inserted into a vein. A second tube will be inserted so that blood can be drawn during the scan. Participants will lie on a bed that slides into a doughnut-shaped machine. This visit will take about 6 hours.\n\nFor the next PET scan, participants will receive alcohol (ethanol) through a tube in a vein until they have a blood alcohol concentration that is equal to the legal driving limit. This is the same as 4 or 5 drinks for most people. After the scan, participants must remain at the clinic for a few hours until their blood alcohol drops. This visit will take 14 to 16 hours.\n\nThe MRI scan of the brain will take up to 2 hours in a separate clinic visit.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible to participate in this study, an individual must meet the following criteria:\n\n1. Be enrolled in protocol 14-AA-0181, NIAAA Natural History Protocol.\n2. Age 21 - 70 years.\n3. Willingness to complete the study including MRI tests.\n4. Be in good general health as evidenced by medical history and physical examination.\n5. Participants must have had their radial artery pulse checked for the presence of adequate ulnar collateral flow and the absence of any metal or foreign objects in both wrists.\n6. Able to provide informed consent.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. History of AUD or SUD. Participants may currently use cannabis recreationally but cannot meet criteria for cannabis use disorder, or present for study visits with positive urine drug screen for THC.\n2. Current non-drinkers (alcohol-naive individuals or no use of alcohol in the past year), or individuals with no experience drinking 5 or more drinks on one occasion in their lifetime.\n3. Current or prior history of alcohol-induced flushing reactions, including rapid reddening of the face, rapid heart rate and breathing, and nausea after 1 or 2 drinks.\n4. Clinically significant abnormalities on EKG or laboratory tests: CBC and acute care panel (Na, K, Cl, CO2, creatinine, glucose, urea nitrogen), liver function tests (GGT, AST, ALT, bilirubin).\n5. Participants who have taken an antipsychotic or antidepressant medication within two weeks prior to the PET scan #1, with longer washout times of 1 month for antidepressants with longer half-lives such as fluoxetine. In addition, they will be withdrawn if they begin these medications during the two PET scans.\n6. Medication exclusion for alcohol:\n\n6a. Use of prescription or OTC medication known to interact with alcohol 2 weeks prior to screening or screening update visit. These include but may not be limited to: isosorbide; nitroglycerine; benzodiazepines; warfarin; anti-depressants such as amitriptyline, clomipramine and nefazodone; anti-diabetes medications such as glyburide, metformin and tolbutamide; H2-antagonists for heartburn such as famotidine, cimetidine and ranitidine; muscle relaxants; anti-epileptics including phenytoin and phenobarbital; codeine and opioid analgesics including Darvocet, Percocet and hydrocodone.\n\n6b. Regular (more than once a week) or prescribed use of antihistamines, pain medicines, and anti-inflammatories such as aspirin, ibuprofen, acetaminophen, celecoxib, and naproxen, and unable to refrain from these medications for 48 hours prior to study visits\n\n6c. Use of medications known to inhibit or induce enzymes that metabolize alcohol for 4 weeks prior to screening or screening update visit. These include chlorzoxazone, isoniazid, metronidazole, and disulfiram.\n\n7\\) HIV infection.\n\n8\\) Pregnancy or breast feeding.\n\n9\\) Have recent exposure to radiation related to research (e.g., PET from other research) that, when combined with this study, would be above the allowable limits.\n\n10\\) Have an inability to lie flat and/or lie still on the camera bed for two hours, including claustrophobia, overweight greater than the maximum for the scanner, and uncontrollable behavioral symptoms, which will be screened by an interview with the participant during the screening visit.\n\n11\\) Are unable to have an MRI scan (e.g., because of pacemakers or other implanted electrical devices, brain stimulators, dental implants, aneurysm clips (metal clips on the wall of a large artery), metallic prostheses (including metal pins and rods, heart valves, and cochlear implants), permanent eyeliner, implanted delivery pumps, shrapnel fragments, or metal fragments in the eye",
+  "minimum_age": "21 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Alcohol Use Disorder"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an imaging study in healthy volunteers who are social drinkers without alcohol use disorder or other substance use disorders. There is no cancer population and no systemic therapy for advanced disease involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls healthy volunteers without cancer; there is no mention of systemic therapy for advanced disease. Eligibility criteria focus on alcohol use history and exclude those with alcohol use disorder or substance use disorder."
+    }
+  ]
+}

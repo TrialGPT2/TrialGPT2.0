@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04509362",
+  "title": "An 8-Day Initiation of Advanced Hybrid Closed Loop System In Children and Adolescents",
+  "brief_summary": "One of the available Hybrid closed loop system is MiniMed 670G (Medtronic Diabetes, Northridge, CA, USA), which is indicated for children above 7 years old, adolescents and adults with Type 1 Diabetes. Several studies have shown improved HbA1c, time in target range, and SG variability in children, adolescents and adults with Type 1 Diabetes, where participants were experienced with using CSII therapy, assuming that the success of HCL systems depend on prior use of pump therapy. A recent study, published by diabetes team from Sidra Medicine, Doha has showed that children and adolescents with Type 1 Diabetes on MDI therapy can successfully initiate the HCL system, using a concise structured 10-day protocol, achieving better outcomes than in previous studies, where participants had previous experience with diabetes related technology and longer initiation process.\n\nThe AHCL system, Minimed 780G is CE-marked includes additional functionality aiming to provide further protections from highs. The user can choose the algorithm to target a glucose level of 100 or 120 mg/dL. Like for the MiniMed 670G HCL system, users can also choose the algorithm to temporarily target a glucose value of 150 mg/dL. In addition, the AHCL system has the ability to administer correction bolus automatically, targeting 120 mg/dL. The AHCL algorithm was evaluated with a model-based algorithm design platform incorporating a virtual patient simulator, where additional changes were made (lower target ranges and automated correction boluses ( )). A recent study including 12 patients with type 1 diabetes on AHCL system, has shown no episodes of hypoglycemia or diabetic ketoacidosis, while maintaining 99% time spent in closed loop and high time in ra1\\]\\\\nge ( ). AHCL decreased Auto Mode exits and alerts, and improves glycaemia without compromising safety, despite multiple food and exercise challenges ( ).\n\nSidra Medicine is the only center for childhood diabetes in Qatar. Around 80% of type 1 diabetes patients are using a device (insulin pump/glucose sensor) and around 45% are using sensor-augmented pump (SAP)/HCL systems.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Clinical diagnosis of type 1 diabetes \\>1 year prior to consent date. Diagnosis of type 1 diabetes is based on the investigator's judgment; C peptide level and antibody determinations are not required.\n2. HbA1c \\< 12.5%\n3. Age 7-17 years at the initiation of the system\n4. Multiple Daily Injections (Basal Bolus therapy) with Total daily insulin use of great than 8.0 units per day over a 1-week period\n5. Willing and able (access to internet from home) to download information into the Medtronic CareLink software\n6. Clinically able to start the AHCL system\n7. History of 3 clinic visits in the last year\n\nExclusion Criteria:\n\n1. DKA in the 6 months prior to screening visit\n2. Pregnancy\n3. Untreated diabetes retinopathy, or other causes that ,in the investigator's opinion, precludes the individual from participating in the trial.",
+  "minimum_age": "7 Years",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants with Type 1 Diabetes, on multiple daily injections, using self-monitoring of blood glucose or continuous glucose monitoring, no prior pump experience.",
+  "condition": [
+    "Type 1 Diabetes"
+  ],
+  "overall_status": "COMPLETED"
+}

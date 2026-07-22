@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT05680818",
+  "title": "Efficacy and Safety of Encaleret Compared to Standard of Care in Participants With ADH1",
+  "brief_summary": "The primary purpose of the study is to understand the effectiveness, safety, and tolerability of encaleret when compared to standard of care (SoC) treatment in participants with Autosomal Dominant Hypocalcemia Type 1 (ADH1).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Key Inclusion Criteria:\n\n1. Participants must have a documented pathogenic or likely pathogenic activating variant, or variant of uncertain significance, of the calcium sensing receptor (CASR) gene associated with biochemical findings of hypoparathyroidism.\n2. Participants must have a documented history of symptoms or signs of ADH1.\n3. Participants 16 to \\<18 years old must have closed growth plates on hand radiograph.\n4. Participants treated with thiazide diuretics must discontinue thiazides for at least 14 days prior to SoC Optimization Visit 1 through Week 24 (Period 3). When the thiazide is being used as an antihypertensive, alternative therapy will be prescribed by the Investigator as needed.\n5. Participants treated with phosphate binders (other than calcium salts) must discontinue the phosphate binders at least one day prior to the SoC Optimization Visit 1.\n6. Participants treated with magnesium or potassium supplements must be willing to discontinue such treatment prior to the first dose of encaleret.\n7. Participants treated with potassium-sparing diuretics must be willing to discontinue such treatment prior to the first dose of encaleret.\n8. Participants must meet SoC Optimization criteria as defined in the protocol.\n\nKey Exclusion Criteria:\n\n1. History of hypocalcemic seizure within the past 3 months preceding Screening.\n2. History of thyroid or parathyroid surgery.\n3. History of renal transplantation.\n4. Pregnant or nursing (lactating) women, where pregnancy is confirmed by a positive beta-human chorionic gonadotropin (β-hCG) laboratory test.\n5. History of treatment with parathyroid hormone (PTH) 1-84 or 1-34 within the 2 months preceding Screening and requiring SoC doses exceeding \\>1.2× their pre-PTH treatment total daily doses or bone turnover markers, Collagen cross-linked C-telopeptide (CTx )and Procollagen type 1 N-propeptide (P1NP), \\> upper limit of normal for sex, age (men only) and menopausal status (women only).\n6. Blood 25-OH Vitamin D level \\<25 nanograms (ng)/milliliter (mL).\n7. Estimated glomerular filtration rate (eGFR) \\<30 mL/minute/1.73 m\\^2 using chronic kidney disease-EPI creatinine equation refit without the race variable (chronic kidney disease-EPI creatinine equation refit without the race variable \\[CKD-EPIcr\\_R\\]) (for participants \\<18 years old the Bedside Schwartz equation should be used).\n8. Participants with positive Hepatitis B surface antigen (HBsAg), Hepatitis A immunoglobulin M (IgM), or human immunodeficiency virus (HIV) viral serology test at the Screening Visit. Participants who are in complete remission from Hepatitis C virus (HCV) as evidenced by sensitive assay ≥12 weeks after completion of HCV therapy may participate in the study.\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply.",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Autosomal Dominant Hypocalcemia (ADH)"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with Autosomal Dominant Hypocalcemia Type 1 (ADH1) regardless of prior systemic therapy for advanced disease. There are no requirements or restrictions regarding prior lines of therapy for advanced/metastatic disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "any line",
+      "line_of_therapy_text": "The eligibility criteria do not mention any requirements or restrictions regarding prior systemic therapy for advanced or metastatic disease. Patients are eligible regardless of prior treatment history for advanced disease."
+    }
+  ]
+}

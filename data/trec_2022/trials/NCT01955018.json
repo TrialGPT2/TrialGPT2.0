@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01955018",
+  "title": "Comparison of the Ultra-low-dose Veo Algorithm With the Gold Standard Filtered Back Projection for Detecting Pulmonary Asbestos-related Conditions",
+  "brief_summary": "Asbestos fibers were intensively used throughout the 20th century and remain prevalent in developing countries. However, asbestos exposure induces a variety of benign and malignant pleural and lung diseases. The most common asbestos-induced neoplasm is lung cancer. Moreover, thin-section computed tomography (CT) is more sensitive than a chest x-ray for detecting early asbestos-related conditions. Increased exposure to radiation underpins the consequences of cancer induction. However, reducing CT doses increases image noise from the filtered back projection (FBP) reconstruction. Strategies to reduce radiation exposure include the use of iterative reconstruction algorithms. A new algorithm called VeoTM (General Electric Healthcare, Milwaukee, MI, USA) decreases the image noise up to 70% compared with the gold standard FBP model. Moreover, Veo improves spatial resolution with excellent detection of low and high contrast objects from a CT Dose Index (CTDIvol) equal to 0.3 mGy.\n\nThe objective of the present study is to compare Veo with the gold standard FBP for detecting pulmonary asbestos-related conditions among workers previously exposed to asbestos. Comparisons included radiation delivered and image quality.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* asbestos-exposed workers\n* ability to give a written informed consent\n\nExclusion Criteria:\n\n* \\- previous history of cancer\n* previous history of thoracic surgery\n* other interstitial pathology known",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Asbestos-exposed Workers"
+  ],
+  "overall_status": "COMPLETED"
+}

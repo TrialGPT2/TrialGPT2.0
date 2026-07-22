@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT00179790",
+  "title": "Reduced Intensity Transplant Using Extracorporeal Photopheresis",
+  "brief_summary": "Stem cell transplantation may be used to cure childhood cancers, and other diseases. Traditionally, stem cell transplants use high doses of chemotherapy and radiation. This regimen may cause significant problems after transplant such as infertility, infection, and graft versus host disease (GVHD).\n\nReduced intensity transplant (RIT) uses medications which weaken the immune system, allowing donor cells to take over. The goal of a RIT is to reduce the risk for complications after transplant. Usually medication is used to weaken the immune system, but there are other options such as extracorporeal photopheresis (ECP) that may be less toxic.\n\nECP is currently used for the treatment of GVHD and certain lymphomas. ECP uses a machine that filters white blood cells from the blood, treats them with ultraviolet (UV) light, and then gives all the cells back to the patient. The patient's immune system becomes weaker, allowing the donor cells to replace those of the patient. Studies involving the use of ECP for conditioning have shown fewer side effects than the use of medications.\n\nThe primary purpose of this clinical research trial is to evaluate the safety and feasibility of ECP as part of a preparative regimen for RIT in children and young adults.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Weight \\> 25 kg\n* Patients with acute lymphoblastic leukemia (ALL) who are in CR (complete remission; \\< 5% blasts in bone marrow and no active central nervous system disease) who:\n\n  * Are in second remission with an initial remission of \\< 36 months.\n  * Patients with \"high risk\" disease in CR1, defined by karyotype abnormalities such as presence of (9;22) translocation, monosomy 7, or monosomy 5; and/or patients with slow initial response (initial remission not reached within four weeks from diagnosis).\n  * Are in third (or subsequent) remission\n  * Experience isolated extramedullary relapse while on therapy\n  * Have experienced relapse following myeloablative stem cell transplant\n  * Are WT1+ following induction therapy\n* Patients with acute myelogenous leukemia (AML) who:\n\n  * Are in first remission and remain WT1 positive.\n  * Are in second remission\n  * Are in initial partial remission (\\< 20% blasts in bone marrow)\n  * Experience relapse following myeloablative stem cell transplant\n* Patients with relapsed lymphoma whose residual disease appears to be chemo-responsive and non-bulky (\\< 5 cm largest diameter)\n* Patients with chronic myelogenous leukemia (CML) in chronic phase who:\n\n  * Don't achieve remission (molecular or cytogenetic) by 1 year of diagnosis with therapy (imatinib mesylate or interferon)\n  * Have a rising quantitative bcr/abl on imatinib mesylate (molecular relapse)\n  * Had developed accelerated phase regardless of therapy but are now back in second chronic phase\n* Patients with recurrent solid tumors (neuroblastoma, Ewing's sarcoma, melanoma, rhabdomyosarcoma)\n* Patients with myelodysplastic syndrome\n* Patients with refractory anemia (RA) and refractory anemia with excess blasts (RAEB) are eligible, but refractory anemia with excess blasts in transformation (RAEB-T) patients are only eligible if treated to \\< 20% blasts with chemotherapy\n* Patients with selected immunodeficiencies such as Wiskott-Aldrich syndrome or hyper-IgM syndrome\n* Patients with metabolic diseases such as Niemann-Pick or adrenoleukodystrophy\n* Patients with bone marrow failure syndromes, including aplastic anemia\n* Adequate venous access",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Leukemia",
+    "Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

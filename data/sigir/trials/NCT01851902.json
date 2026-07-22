@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01851902",
+  "title": "PREdicting Atrial Fibrillation or Flutter",
+  "brief_summary": "The purpose of this study is to determine, through continuous monitoring with a cardiac monitoring device placed under the skin, the incidence of atrial fibrillation or flutter (AF). The cardiac monitor will be placed in patients without symptoms but at risk for AF. It is hoped that this information may assist health care professionals in treatment decisions related to the early identification of patients at high risk for AF.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient meets the approved FDA indication to receive the ICM\n* Patient is suspected, based on demographics, to be at high risk of having AF, as determined by the clinical investigator\n* Patient has a CHA2DS2-VASc score \u2265 2 \\[Note: stroke/TIA criterion as part of the CHA2DS2-VASc score for this trial is limited to either an ischemic stroke or TIA, which occurred more than one year prior to enrollment.\\]\n* Patient is 18 years of age or older\n* Patient has a life expectancy of 18 months or more\n\nExclusion Criteria:\n\n* Patient has a documented history of AF or atrial flutter\n* Patient has a symptom complex consistent with an arrhythmia (where an ICM may have an alternate indication for use)\n* Patient had an ischemic stroke or TIA within past year prior to enrollment\n* Patient has a history of a hemorrhagic stroke\n* Patient is currently implanted with a permanent pacemaker, insertable loop recorder, implantable defibrillator, cardiac resynchronization therapy device (pacemaker or defibrillator)\n* NYHA Class IV Heart Failure patient\n* Patient had heart surgery within previous 90 days prior to enrollment\n* Patient had an MI within the previous 90 days prior to enrollment\n* Patient is taking chronic immunosuppressant therapy\n* Patient is taking an anti-arrhythmic drug\n* Patient is contraindicated for long term anticoagulation medication\n* Patient is taking a long-term anticoagulation medication\n* Any concomitant condition which, in the opinion of the investigator, would not allow safe participation in the study (e.g., drug addiction, alcohol abuse, emotional / psychological diagnosis)\n* Patient is enrolled in another study that could confound the results of this study, without documented pre-approval from the principal investigator\n* Patient has a creatinine clearance \\<30 ml/min or is on dialysis\n* Active pregnancy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The PREDATE AF trial is a prospective, single arm, open-label, single center clinical study to evaluate the incidence of AF in patients that are suspected to be at high risk of having AF, as defined by a modified CHA2DS2-VASc score.",
+  "condition": [
+    "Atrial Fibrillation",
+    "Atrial Flutter"
+  ],
+  "overall_status": "UNKNOWN"
+}

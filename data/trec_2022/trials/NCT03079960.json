@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03079960",
+  "title": "Data-Driven Characterization of Neuronal Markers During Deep Brain Stimulation for Patients With Parkinson's Disease",
+  "brief_summary": "Deep brain stimulation (DBS) of the subthalamic nucleus (STN) has developed into a standard therapy in the refractory stage of Parkinson's disease (PD). Implanted micro- and macroelectrodes can be used to derive neural signals from the basal ganglia (BG). Cortical signals can be obtained by measurements of the electroencephalogram (EEG) or the electrocorticogram (ECoG). Both signal types can be used to characterize the motor system of the patient and make it possible to estimate the effectiveness of a currently performed DBS. However, the relationship between such neuronal features on the one hand and the DBS stimulation parameters or the observable clinical effects on the other hand is very individual and varies from patient to patient.\n\nThe aim of the present study is to: (1) determine neuronal characteristics that are informative about the clinically relevant motor status of PD patients. (2) The investigation and description of the complex non-stationary dynamics of neuronal characteristics as a consequence of changing DBS stimulation parameters. (3) The study of the effect of changing DBS stimulation parameters on motor performance.\n\nThe three objectives form an important building block for future adaptive closed-loop DBS strategies (aDBS). Here, the stimulation parameters are to be adapted in the single-trial and depending on the currently detected motor state of the patient. Since this is accessible only to a very limited extent, it is to be investigated whether information about the motor state can be obtained from the neural features.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Male or female patients aged \u2265 35 and \u2264 75 years\n2. Patients with diagnosed PD according to UK PDS Brain Bank Criteria.\n3. Written informed consent.\n4. For PG-O and PG-pre, patients who are eligible for STN DBS Surgery according to the guidelines of the DGN (www.dgn.org)\n5. For PG-chronic, patients who have received permanent DBS implantation in the past and who use the DBS treatment.\n\nExclusion Criteria:\n\n1. MR Imaging shows a contraindication for microelectrode recordings. If imaging shows a high amount of blood vessels in the target region and no safe trajectory for inserting the microelectrode can be found, then the patient may receive implantation of the macroelectrode without preceding microelectrode measurements, but is excluded from the study.\n2. Contraindication for stereotactical neurosurgery.\n3. Dementia (Mattis Dementia Rating Score \u2264 130)\n4. Acute psychosis stated by a psychiatric physician\n5. Unable to give written informed consent\n6. Surgical contraindications\n7. Medications that are likely to cause interactions in the opinion of the investigator\n8. Fertile women not using adequate contraceptive methods: female condoms, diaphragm or coil, each used in combination with spermicides; intra-uterine device; hormonal contraception in combination with a mechanical method of contraception;\n9. Current or planned pregnancy, nursing period\n10. Contraindications according to device instructions or Investigator's Brochure:\n\n    1. Diathermy (shortwave, microwave, and/or therapeutic ultrasound diathermy)\n    2. Magnetic Resonance Imaging (MRI)\n    3. Patient incapability\n11. Patients to be expected poor surgical candidates\n\nFor PG-chronic, only exclusion criteria 3, 4, 5, 7, 8, 9, 10 are applicable, since electrodes are already implanted, thus, no surgical procedure is necessary.",
+  "minimum_age": "35 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Parkinson Disease"
+  ],
+  "overall_status": "UNKNOWN"
+}

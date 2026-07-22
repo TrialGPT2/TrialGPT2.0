@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT03493958",
+  "title": "RCT of Web-Based Behavioral Sleep Intervention for Individuals With Alcohol Use Disorder",
+  "brief_summary": "Background:\n\nMany people with alcohol use disorders have a sleep problem called insomnia. One treatment is Cognitive Behavioral Therapy for Insomnia (CBT-I). Researchers want to study adults experiences with a web-based CBT-I program called SHUTi.\n\nObjective:\n\nTo test if a web-based insomnia therapy program works well and helps people with alcohol use disorders.\n\nEligibility:\n\nAdults ages 18-65 who joined another protocol and have been an inpatient on that protocol at least 14 days.\n\nDesign:\n\nParticipants will be screened with questions about insomnia. They will wear a device on their wrist and finger for one night while sleeping. This checks for sleep apnea.\n\nParticipants will complete 1 of 2 programs:\n\n1. SHUTi: Participants will start using the program in the hospital and finish it about 6 weeks later. They will get a computer tablet to access SHUTi at least 3 times a week. They will get surveys, stories, videos, and interactive data about sleep. They will complete at least 5 daily sleep diaries every week. SHUTi will be customized based on the diaries.\n2. Education-only program: This is like SHUTi but it is not interactive and is not customized. Participants will access it at least once a week. They will finish at their own pace within 6 weeks. These participants may access SHUTi later.\n\nAll participants will wear a device on their wrist for 4 straight days at several different time points. It records activity and sleep data. They will do this 3 times.\n\nParticipants will answer questions about the program before starting it and after finishing. Interviews will be audio recorded.\n\nParticipants will do follow-up surveys 6-7 months after they are discharged from the hospital.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nParticipants will be eligible for this study if they:\n\n* Are 18-65 years old\n* A score of 10 or higher on the Insomnia Severity Index\\*\n* Are admitted as a treatment-seeking inpatient on 1SE under protocol 14-AA-0181 (signing both the clinical and research consent)\n* Have been inpatient for at least 14 days prior to consent/screening\n* Can speak, understand, and write in English\n* Are able to comply with study requirements (including ability to access the Internet at least 2x per week)\n\nEXCLUSION CRITERIA:\n\nParticipants will be ineligible for this study if they:\n\n* Are pregnant\n* Are a prisoner\n* Report a physician diagnosis of moderate to severe obstructive sleep apnea (OSA) OR test positive for moderate to severe OSA as documented with an Apnea Hypopnea Index of 15 events/hour based on WatchPAT testing results\n* Have irregular sleep schedules that prevent the ability to follow treatment recommendations (i.e. usual bedtimes outside of 8:00 pm to 2:00 am or arising times outside of 4:00 am to 10:00 am)\n* Meet SCID-5/DSM-5 criteria for opioid use disorder in the past year\n* Meet SCID-5/DSM-5 criteria for severe cocaine use disorder and/or severe cannabis use disorder in the past year\n* Meet diagnostic criteria for an unstable or serious psychiatric condition (schizophrenia, bipolar, major depressive disorder not currently in remission) - based on diagnosis from the SCID for DSM-5\n* Are participating in any experimental pharmacological intervention study\n* Presence of unstable or serious medical/neurologic illness at PI and MAI discretion",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Alcohol Use Disorder",
+    "Alcohol Dependence",
+    "Insomnia"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial does not involve systemic therapy for advanced disease; it is a behavioral intervention for insomnia in individuals with alcohol use disorder. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced/metastatic disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference any prior systemic therapy for advanced disease, as this is a behavioral sleep intervention trial in alcohol use disorder. No information is provided regarding lines of therapy for advanced/metastatic disease."
+    }
+  ]
+}

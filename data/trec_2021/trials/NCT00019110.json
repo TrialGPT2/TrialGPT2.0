@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT00019110",
+  "title": "Vaccine Therapy in Treating Patients With Advanced or Recurrent Cancer",
+  "brief_summary": "RATIONALE: Vaccines made from certain human papillomaviruses may be able to help the body to kill more tumor cells.\n\nPURPOSE: Phase II trial to study the effectiveness of human papillomavirus vaccine therapy in treating patients who have advanced or recurrent cancer of the cervix, vagina, penis, anus, esophagus, or head and neck.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically proven stage III, IV, or recurrent carcinoma of the cervix or other tumor that carries human papilloma virus 16 (HPV16) such as other anogenital (vulvar, penile, and anal), esophageal, and head and neck cancers\n* HLA-A2.1 positive\n* Patients with tumors other than cervical cancer must have no other therapeutic options\n* Fresh tissue or paraffin block available for HPV genome detection and typing (optional for cervical cancer)\n* No history of CNS metastases\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* Over 18\n\nPerformance status:\n\n* ECOG 0-1\n\nLife expectancy:\n\n* More than 3 months\n\nHematopoietic:\n\n* WBC at least 2,000/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n\nHepatic:\n\n* Bilirubin no greater than 2.0 mg/dL\n* SGPT no greater than 4 times normal\n\nRenal:\n\n* Creatinine no greater than 2.0 mg/dL\n\nCardiovascular:\n\n* No myocardial infarction within the past 6 months\n* No New York Heart Association class III or IV heart disease\n\nImmunologic:\n\n* No autoimmune disease, e.g.:\n\n  * Systemic lupus erythematosus\n  * Multiple sclerosis\n  * Ankylosing spondylitis\n  * HIV negative\n* Responsive to 1 of the following skin test antigens:\n\n  * Mumps Trichophyton\n  * Candida Tetanus\n\nOther:\n\n* No active infection requiring antibiotics\n* No weight loss greater than 20% within the past 6 months\n* No other active malignancy except basal cell skin cancer\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* At least 4 weeks since prior immunotherapy and recovered\n\nChemotherapy:\n\n* At least 4 weeks since prior chemotherapy and recovered\n\nEndocrine therapy:\n\n* At least 4 weeks since prior steroids and recovered\n\nRadiotherapy:\n\n* At least 4 weeks since prior radiotherapy and recovered\n\nSurgery:\n\n* Not specified\n\nOther:\n\n* Recovered from the toxic effects of prior therapy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Anal Cancer",
+    "Cervical Cancer",
+    "Esophageal Cancer",
+    "Head and Neck Cancer",
+    "Penile Cancer",
+    "Vulvar Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

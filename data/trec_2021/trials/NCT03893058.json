@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03893058",
+  "title": "Evaluation of the NeuroMuscular Junction Using the Single Fiber Electromyography and Reliability of Train-Of-Four in Critically Ill Patients.",
+  "brief_summary": "Patients suffering from critical illnesses who are admitted to the Intensive Care Unit (ICU) are often affected by multiple organ failure. Among those dysfunctions, it is very important to mention the neuromuscular system failure, known as Intensive Care Unit-Acquired Weakness (ICU-AW). In non-cooperative patients, the simplified electromyography (called Peroneal Nerve Test, PENT) allows diagnosing the Critical Illness Polyneuropathy (CIP) and/or the Critical Illness Myopathy (CIM), which are two causes of ICU-AW. The ICU-AW can involve both nerves and muscles, but so far there has been no evidence about the involvement of the third element of the neuromuscular system: the neuromuscular junction (NMJ). The gold standard technique to study the function of the NMJ is the Desmedt test, a particular type of Electroneurography (ENG); the Single Fiber Electromyography (SF-EMG ) might be a valid and more sensitive technique for this analysis. The spreading use of Neuromuscular Blocking Agents (NMBAs) has led to the introduction of the Train-Of-Four acceleromyography (TOF) monitoring in ICU; however, there is a lack of information on its reliability in critically ill patients.\n\nSome conditions related to critical illness, like the ICU-AW, could make TOF monitoring unreliable.\n\nThe aims of the study are:\n\n1. To estimate the prevalence of NMJ disorders acquired during critical illnesses using SF-EMG.\n2. To assess the reliability of TOF in critically ill patients. The study will evaluate patients with critical illnesses hospitalised in the General Intensive Care Unit (UOC Anestesia e Rianimazione 2, Spedali Civili di Brescia). To diagnose CIP and/or CIM, PENT will be performed after 72 hours from the admission in the ICU and every 72 hours. To evaluate NMJ disorders, SF-EMG will be performed in patients with an abnormal PENT. To evaluate the reliability of TOF, the test will be performed before, during and after NMBAs treatment and in all studied patients, independently from NMBAs administration; the presence of neuromuscular blockade will be evaluated clinically and/or using instrumental tests like Desmedt test. Statistical analysis will be performed to represent the prevalence of NMJ disorders in the general intensivistic population and the reliability of TOF in terms of specificity and sensitivity for the diagnosis of the neuromuscular blockade.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nAdult patients (18-year-old and older ones) hospitalised in ICU. In order to realise the first aim of the study (to estimate the prevalence of NMJ disorders acquired during critical illnesses using SF-EMG), patients with a pathologic PENT will be evaluated. In order to realise the second aim of the study (to assess the reliability of TOF in critically ill patients. The study will evaluate patients with critical illnesses hospitalised in the General Intensive Care Unit), patients who receive NMBAs will be evaluated; patients who do not receive NMBAs will also be evaluated, as a control group.\n\nExclusion Criteria:\n\n* patients with a terminal disease;\n* patients with an ICU-length-of-staying perspective less than 72 hours;\n* patients with a chronic disease associated with known neuropathy or myopathy;\n* patients treated with drugs that may cause neurotoxicity and myotoxicity;\n* patients with primary or secondary acute Peripheral Nervous System (PNS) lesions or muscle lesions;\n* patients with prosthesis, wounds or other conditions that prevent electrophysiological testing.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "patients with critical illnesses hospitalised in the General Intensive Care Unit (UOC Anestesia e Rianimazione 2, Spedali Civili di Brescia)",
+  "condition": [
+    "Critical Illness Polyneuropathy",
+    "Critical Illness Myopathy",
+    "Weakness Due to Disease",
+    "Neuromuscular Blockade"
+  ],
+  "overall_status": "UNKNOWN"
+}

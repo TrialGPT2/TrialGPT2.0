@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04607473",
+  "title": "ABUS for Early-stage Breast Cancer",
+  "brief_summary": "While the role of automated breast ultrasound (ABUS) as an alternative to hand-held ultrasound (HHUS) in breast cancer screening has been established, the use of ABUS in preoperative evaluation of newly diagnosed breast cancer patients is still limited. This may be because axillary areas are not included in the scanning area of ABUS. Newly diagnosed breast cancer patients have undergone axillary US to predict axillary lymph node metastasis before surgery, in combination with preoperative breast US, in many institutions. However, recent studies have reported that sentinel lymph node biopsy alone is sufficient for diagnosis and treatment of axillae of patients with early-stage breast cancer, because the incidence of axillary lymph node metastasis is very low. Therefore, the clinical significance of preoperative axillary US is being lowered in patients with early-stage breast cancers. Thus, considering that coronal images provided by ABUS may be more advantageous for detection of multifocal or multicentric cancer, we hypothesized that ABUS could replace HHUS in preoperative staging of patients with early-stage breast cancers (clinical Tis, T1-2/N0 cancers) for whom preoperative axillary US is not necessary. The purpose of this study was to prospectively compare the diagnostic performances of ABUS and HHUS in preoperative evaluation of patients with early-stage breast cancers. This study will be conducted with institutional review board approval, and written informed consent will be obtained. From the Jan 2019 to Dec 2021, 675 patients diagnosed with early-stage breast cancer will be enrolled from the three institutions. Both ABUS and HHUS will be performed on each patient before surgery. Breast radiologists independently review ABUS and HHUS images. They detect all visible lesions and record the location and size of them. They characterize all detected lesions by using BI-RADS category. The primary object is to compare the diagnostic performance of ABUS and HHUS as preoperative staging tool in women with known breast cancers. The sensitivities and specificity of each US mode for the detection of breast cancers are calculated on a per-lesion basis. McNemar's test and Fisher's exact test are used to compare the sensitivities and PPVs for ABUS and HHUS. Significance testing on the lesion level and patient level is conducted using generalized estimating equations (GEEs) with a logit link and an independent working correlation structure to adjust the effect of clustering on radiologists and patients. GEEs are utilized to compare the sensitivities and PPVs for ABUS and HHUS. Diagnostic performance are assessed with receiver operating characteristics curve analysis. Area under the curves are calculated from both parametric and trapezoidal curve fitting. Agreements between tumor size measured by each US mode and pathologic the tumor size are analyzed with the intraclass correlation coefficient (ICC) and 95% Bland-Altman limits of agreement.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with early-stage breast cancer (clinical Tis, T1- T2 cancers are suspected on mammography at the time of diagnosis), without palpable nodes at physical examination (N0)\n* Patients who schedule to undergo surgery and sentinel lymph node biopsy\n* Patient's age between 25-69 years\n* Patients who voluntarily agree to participate in this study\n\nExclusion Criteria:\n\n* A history of previously treated breast cancers\n* Patients who undergo excision biopsy for diagnosed breast cancer\n* Pregnant or lactating women\n* Patients who have breast implants",
+  "minimum_age": "25 Years",
+  "maximum_age": "69 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Early Stage Breast Cancer"
+  ],
+  "overall_status": "UNKNOWN"
+}

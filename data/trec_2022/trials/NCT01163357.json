@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT01163357",
+  "title": "Bortezomib, Total Marrow Irradiation, Fludarabine Phosphate, and Melphalan in Treating Patients Undergoing Donor Peripheral Blood Stem Cell Transplant For High-Risk Stage I or II Multiple Myeloma",
+  "brief_summary": "RATIONALE: Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Giving chemotherapy drugs, such as fludarabine phosphate and melphalan, and total marrow irradiation before a donor peripheral blood stem cell transplant helps stop the growth of cancer cells and helps stop the patient's immune system from rejecting the donor's stem cells. When the healthy stem cells from a donor are infused into the patient they may help the patient's bone marrow make stem cells, red blood cells, white blood cells, and platelets.\n\nPURPOSE: This phase I trial is studying the side effects and best dose of bortezomib when given together with fludarabine phosphate and melphalan with or without total marrow irradiation in treating patients undergoing donor peripheral blood stem cell transplant for high-risk stage I or II multiple myeloma.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Recipient must have signed a voluntary, informed consent in accordance with institutional and federal guidelines\n* Recipients must have histopathologically confirmed diagnosis of multiple myeloma\n* Age:\n\n  * Stratum I (TMI containing arm): 18-60 years of age\n  * Stratum II (non TMI arm): 18-70 years of age\n* Patients with primary progressive disease on induction therapy with new targeted therapies\n* Relapsed/refractory disease on new targeted therapies, i.e. thalidomide, lenalidomide, bortezomib, or other new novel agents such as carfilzomib, pomalidomide\n* Patients with relapsed multiple myeloma following previous autologous stem cell transplant\n* Plasma cell leukemia at diagnosis\n* High-risk patients with presence of chromosome 17p deletion (\\> 60%) in the bone marrow by fluorescence in situ hybridization (FISH); patients are not required to have prior autologous stem cell transplant\n* Able to lie supine for approximately 60 minutes, the anticipated duration of each treatment session\n* Performance status evaluated by Eastern Cooperative Oncology Group (ECOG) or Karnofsky Performance Scales (KPS) patients must have a score of 0-II (ECOG) or \\>= 70% (KPS)\n* Cardiac ejection fraction \\>= 50% by multiple gate acquisition (MUGA) scan and/or by echocardiogram\n* Forced expiratory volume in one second (FEV1) \\>= 50%\n* Diffusing lung capacity for carbon monoxide (DLCO) \\>= 50%\n* Creatinine clearance or glomerular filtration rate (GFR) \\>= 60 ml/min\n* Serum bilirubin =\\< 2.0 mg/dl\n* Serum glutamic oxaloacetic transaminase (SGOT) and serum glutamic pyruvic transaminase (SGPT) =\\< 2.5 times the institutional upper limits of normal\n* Pre-treatment tests must be performed within 30 days prior to enrollment\n* No other medical and or psychosocial problems, which in the opinion of the primary physician or principal investigator would place the patient at unacceptable risk from this regimen\n* Patients with no previous radiation or up to a maximum 2000 cGy to non thoracic-spine and rib bone lesions or \\< 20% of bone marrow are eligible for TMI conditioning regimen\n* Patients with previous history of irradiation at any dose to thoracic-spine, ribs or \\>= 20% of bone marrow cannot undergo TMI and will be eligible for bortezomib, fludarabine, and melphalan regimen\n\nStratum II); patients can be enrolled on stratum II at their physician's discretion or if patients decline radiation therapy\n\nDONOR: Any matched sibling donor (matched at HLA A, B, C by intermediate resolution typing and HLA-DRB1 by high resolution typing), or unmatched unrelated donor (matched at HLA A, B, C, DRB1 by high resolution typing) will be considered a suitable donor\n\nExclusion Criteria:\n\n* Patients with peripheral neuropathy greater than grade II\n* Major medical or psychiatric disorders that would seriously compromise patient tolerance of this regimen\n* Human immunodeficiency virus (HIV) infection, active hepatitis B or C infection, or evidence of liver cirrhosis\n* Active viral, bacterial or fungal infection unless adequately treated. For fungal infection, patient should have completed full course of antifungal therapy with resolution of infection.\n* Patients with radiographic changes including pulmonary disease, including but not limited to: pulmonary nodules, infiltrates, pleural effusion are excluded unless cleared by pulmonary biopsy showing no evidence for pulmonary infection\n* Patients with renal insufficiency or cr clearance \\< 60 ml/min\n\nDONOR: Donors will be excluded if for medical or psychological reasons they are unable to tolerate the procedure of peripheral stem cell donation",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Autologous Hematopoietic Stem Cell Transplant Recipient",
+    "Loss of Chromosome 17p",
+    "Plasma Cell Leukemia",
+    "Recurrent Plasma Cell Myeloma",
+    "Refractory Plasma Cell Myeloma"
+  ],
+  "overall_status": "COMPLETED"
+}

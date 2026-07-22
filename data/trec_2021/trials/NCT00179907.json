@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00179907",
+  "title": "A Phase I/II Study of the Photon Radiosurgery System",
+  "brief_summary": "The standard treatment for children with brain tumors is surgical removal of the tumor followed by radiation to the brain and chemotherapy (medicines) given to shrink any remaining tumor or to prevent tumor from growing back. There are very few treatment options available for children whose brain tumor grows back after receiving radiation treatment. There is a greater risk of complications and side effects when the brain is repeatedly treated with external radiation. The side effects of repeat radiation treatment are dependent on the amount of the brain that is radiated. Radiation given with PRS during surgery is focused to the specific area of the brain where the tumor is located. Therefore, the area of the brain affected by the radiation is smaller. It is hoped that this targeted radiation will lessen the side effects to the normal brain that is not affected by the tumor. It is also hoped that a lower occurrence of side effects will increase the quality of life of children with brain tumors.\n\nThe optimal dose of targeted radiation is not known. Therefore, increasing doses will be given to treat different patients, starting with the lowest possible dose. The amount of radiation to be given will depend on whether or not your child received prior radiation therapy and where the tumor is located. The groups of patients will first be divided into 2 groups: Group A, who are those who received radiation as part of their prior treatment, and Group B, who are those who did not receive any radiation treatment. Each group will be then divided again into 2 groups depending on the location of the tumor. In each group, if the lowest dose is well-tolerated with only minimal side effects by 3 patients, then the next higher dose will be given to the next 3 patients.\n\nThe purposes of this research are:\n\n* To evaluate the potential side effects of a single high dose of x-rays using the Photon Radiosurgery System (PRS) given to a small area of the brain.\n* To determine the maximum dose of targeted radiation that can be safely given to brain tumors with the fewest side effects.\n* To see how well this treatment works for children with recurrent brain tumors and newly-diagnosed glioblastoma multiforme.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* All patients must be between 2 and 32 yrs. of age. Patients who are pregnant or lactating will not be included in this study.\n* Patients must have an estimated survival time of \\> 3 months, and a Karnofsky performance status of \\> 50% or and ECOG performance status of 0-2.\n* Patient must have radiographic imaging evidence of tumor recurrence except for glioblastoma multiforme.\n* The recurrent tumor prior to irradiation with PRS must be \\< 4 cm.\n* All patients must be \\> 3 weeks from cytotoxic chemotherapy, except if patient received \\< 1 week of non-myelotoxic chemotherapy. In that case, patient may be enrolled with permission of the principal investigator.\n* All patients must be \\> 6 weeks from high dose chemotherapy with stem cell rescue.\n* All patients must be \\> 3 weeks from prior radiation therapy.\n* Patients with a history of prior irradiation will be included.\n* Informed consent must be obtained prior to registration on the study.\n\nTumor Sites:\n\n* Brain\n* Spinal Cord\n\nTumor Types:\n\n* Recurrent Medulloblastoma\n* Recurrent Ependymoma (recurrence regardless of primary treatment)\n* Recurrent Glioma\n* Glioblastoma Multiforme\n* Recurrent Craniopharyngioma\n* Recurrent PNET (Primitive Neuroectodermal tumor)\n* Recurrent Meningioma\n* Recurrent Pineoblastoma\n\nTumor Size:\n\n* \\< 4 cm in maximum diameter",
+  "minimum_age": "2 Years",
+  "maximum_age": "32 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Brain Tumor, Recurrent",
+    "Glioblastoma Multiforme"
+  ],
+  "overall_status": "COMPLETED"
+}

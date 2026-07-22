@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04641182",
+  "title": "Prone Position for Nonintubated Patients With COVID-19 and Hypoxemic Respiratory Failure",
+  "brief_summary": "The aim of this observational study is to evaluate the physiological and clinical effects of prone position in awake patients with respiratory failure due to COVID-19.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Hospitalized patients with confirmed or suspected COVID-19 pneumonia requiring more than 3 liters per minute of supplemental oxygen or a Fraction of Inspired Oxygen (FIO2) over 35% to keep Pulse Oximetry Saturation (SpO2) over 90%\n* Treating physician indicated prone position as instructed by the institutional protocol\n* Patient capable of changing position with minimal help from the personnel\n\nExclusion Criteria:\n\n* Patient requiring immediate intubation\n* Patient requiring non-invasive mechanical ventilation\n* Respiratory Rate \\> 40, signs of respiratory fatigue or unconsciousness with inability to protect the airway\n* PaCO2 \\> 50mmHg\n* Hemodynamic instability (defined by Heart Rate \\> 120, Systolic Pressure \\< 90mmHg, Mean Arterial Pressure \\< 60mmHg or requiring vasopressor support)\n* Obesity with BMI \\> 40 (Body Mass Index: weight in kilograms and height in meters will be combined to attain BMI in kg/m2)\n* Persistent vomiting\n* Facial or thoracic trauma or recent surgery contraindicating the prone position\n* Pregnancy \\> 20 weeks",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Hospitalized COVID-19 adult patients with acute respiratory failure",
+  "condition": [
+    "Covid19",
+    "Ards",
+    "Respiratory Failure"
+  ],
+  "overall_status": "COMPLETED"
+}

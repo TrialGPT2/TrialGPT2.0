@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT04043832",
+  "title": "A New Method of Muscle Strength Testing Using a Quantitative Ultrasonic Technique and a Convolutional Neural Network",
+  "brief_summary": "In addition to muscle thickness and average echo intensity, this study aimed to use quantitative ultrasonic technology to increase the number of related parameters of power Doppler ultrasonography measured to describe the number, quality, and recruitment level of muscles. In addition, this method was compared with the existing muscle strength testing methods. Image recognition was performed using the traditional multivariate linear regression statistical method and the AI convolutional neural network algorithm to investigate the application of quantitative ultrasonic technology for direct evaluation of muscle strength in clinical practice.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* no major complaints of muscle numbness, spasm, or atrophy, muscle-related physical activity impairment or joint swelling and pain\n* no obvious malformation in the lower limbs\n* no disease history in the musculoskeletal system, nervous system, and peripheral blood,\n* no history of severe trauma in the lower limbs\n* joint mobility and muscle tension met the thresholds of muscle strength assessments\n* no severe osteoporosis\n* no acute inflammation or acute bone fracture repair\n* between 18-55 years of age\n\nExclusion Criteria:\n\n\\-",
+  "minimum_age": "18 Years",
+  "maximum_age": "55 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "This study recruited 80 volunteers including 54 healthy volunteers, 24 unilateral quadriceps atrophy patients and 2 bilateral quadriceps atrophy patients",
+  "condition": [
+    "Muscle Disorder"
+  ],
+  "overall_status": "COMPLETED"
+}

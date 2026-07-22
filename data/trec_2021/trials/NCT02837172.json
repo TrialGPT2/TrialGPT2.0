@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02837172",
+  "title": "Diagnosis of PD and PD Progression Using DWI",
+  "brief_summary": "This project will evaluate the utility of diffusion tensor imaging (DTI) as an adjunctive method to improve early diagnosis of Parkinson's disease (PD). Two populations will be evaluated in this study: 1) Individuals with uncertain PD diagnosis who receive a DaTscan, and 2) individuals with well characterized PD and healthy controls, drawn from the fully enrolled Parkinson's Progression Markers Initiative (PPMI) PD and control cohorts.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients 19 and older\n* Referred for clinical DaTscan for possible PD\n* Controls from the PPMI dataset.\n\nExclusion Criteria:\n\n* Pregnant women\n* Participants that cannot participate in MRI (metallic artifact or other contraindication(s) to MRI at 3T)",
+  "minimum_age": "19 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "100 PD subjects with DaTscan, and 210 (140 PD/70 control) from the PPMI dataset",
+  "condition": [
+    "Parkinson's Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

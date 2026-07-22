@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04450069",
+  "title": "CLBR001 and SWI019 in Patients With Relapsed / Refractory B-cell Malignancies",
+  "brief_summary": "CLBR001 + SWI019 is an combination investigational immunotherapy being evaluated as a potential treatment for patients diagnosed with B cell malignancies who are refractory or unresponsive to salvage therapy or who cannot be considered for or have progressed after autologous hematopoietic cell transplantation. This first-in-human study will assess the safety and tolerability of CLBR001 + SWI019 and is designed to determine the maximum tolerated dose (MTD) or optimal SWI019 dose (OSD). Patients will be administered a single infusion of CLBR001 cells followed by cycles of SWI019. The study will also assess the pharmacokinetics and pharmacodynamics of CLBR001 + SWI019.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with relapsed / refractory previously treated B cell malignancies (according to the World Health Organization classification; 2017)\n* Patients must have received adequate prior therapy including at least two lines of prior therapies including anthracycline or bendamustine-containing chemotherapy, anti-CD20 (cluster of differentiation antigen 20) therapies and/or Brutton's tyrosine kinase (BTK) inhibitors\n* Patients treated with prior CD19 targeted molecules (e.g., Blincyto) must have confirmed CD19+ disease\n* Patients must be ineligible for allogeneic stem cell transplant (SCT)\n* Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) 0 or 1\n* Estimated life expectancy of \u2265 12 weeks from the first day of SWI019 dose administered\n* Willing to undergo pre- and post-treatment core needle biopsy\n* Adequate hematological, renal, pulmonary, cardiac, and liver function\n* Resolved adverse events of any prior therapy to either baseline or CTCAE Grade \u22641\n* Women of childbearing potential, a negative pregnancy test and must agree to practice effective birth control\n* Men sexually active with female partners of child bearing potential must agree to practice effective contraception\n* Willing and able to comply with scheduled visits, treatment plan, laboratory tests and other procedures\n\nExclusion Criteria:\n\n* Patients diagnosed with certain disease histologies including pediatric lymphomas/leukemias, monoclonal gammopathy of undetermined significance (MGUS), T-cell histiocyte large B cell lymphoma\n* Pregnant or lactating women\n* Active bacterial, viral, and fungal infections\n* History of allogeneic stem cell transplantation\n* Treatment with any prior lentiviral or retroviral based CAR-T\n* Patients receiving live (attenuated) vaccines within 4 weeks of screening visit or need for live vaccine on study\n* Patients with known active central nervous system (CNS) disease. Patients with prior CNS disease that has been effectively treated may be eligible\n* History of Class III or IV New York Heart Association (NYHA) heart failure, myocardial infarction, unstable angina or other significant cardiac disease within 6 months of screening\n* Involvement of cardiac tissue by lymphoma\n* Uncontrolled autoimmune hemolytic anemia or idiopathic thrombocytopenic purpura (ITP)\n* HIV-1 and HIV-2 antibody positive patients",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Relapsed/Refractory B-cell Lymphomas",
+    "Diffuse Large B Cell Lymphoma (DLBCL)",
+    "Follicular Lymphoma (FL)",
+    "Chronic Lymphocytic Leukemia (CLL)",
+    "Marginal Zone Lymphoma (MZL)",
+    "Mantle Cell Lymphoma",
+    "Small Lymphocytic Lymphoma (SLL)",
+    "Primary Mediastinal Large B Cell Lymphoma",
+    "Transformed Follicular Lymphoma",
+    "Waldenstrom Macroglobulinemia",
+    "Lymphoplasmacytic Lymphoma",
+    "Burkitt Lymphoma"
+  ],
+  "overall_status": "COMPLETED"
+}

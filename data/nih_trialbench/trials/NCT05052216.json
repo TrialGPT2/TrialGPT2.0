@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT05052216",
+  "title": "Development of a Wearable Point of Care Monitoring Device for Pediatric Obstructive Sleep Apnea",
+  "brief_summary": "Background:\n\nObstructive sleep apnea (OSA) occurs when the blockage of the airway causes a person to stop breathing involuntarily for 10 seconds or more throughout the night during sleep. Pediatric OSA can be especially concerning and can have long-term effects. Researchers want to see how a monitoring device called near-infrared spectroscopy (NIRS) compares with the traditional techniques used in children s sleep studies.\n\nObjective:\n\nTo learn about oxygen levels in the brain and limbs in children with and without sleep apnea using a wearable, point-of-care biosensor.\n\nEligibility:\n\nChildren aged 3-12 who have OSA and plan to receive treatment (OSA group) or who do not have OSA (NORM group).\n\nDesign:\n\nParticipants will be screened with a review of their medical records. If they have taken part in other NIH studies, that data will be reviewed as well.\n\nParticipants in the NORM group will have 1 overnight study visit. Those in the OSA group will have 2 overnight study visits.\n\nParticipants will do an overnight sleep study. They will have a physical exam and medical history. They will have a sleep study electroencephalography (EEG). For this, electrodes will be placed on their head. They will wear a gauze cap to keep the electrodes in place. Two NIRS probes made of a soft silicon will be placed on their forehead and arm. They will follow their normal bedtime routine. Their parent will stay overnight.\n\nThe OSA group will have a second study visit 2 weeks to 12 months after they start treatment for their sleep apnea. They will repeat the sleep study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Male or female, aged \\>=3 and \\<13 years\n2. For NORM group: Children without OSA (AHI\\<2)\n3. For OSA group: Children with OSA (AHI\\>=2)\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Children \\<3 years or \\>=13 years\n2. Any chronic or acute medical condition that in the opinion of the investigators will interfere with overnight sleep study acquisition.\n3. Any head injuries or physical conditions that in the opinion of the investigators would affect probe signal and contact.\n4. For NORM group: Children with AHI\\>=2\n5. For OSA group: Children with AHI\\<2",
+  "minimum_age": "3 Years",
+  "maximum_age": "12 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "subjects enrolled in other sleep studies, subjects set to receive OSA treatment in the local area",
+  "condition": [
+    "Pediatric Obstructive Sleep Apnea"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology trial in pediatric obstructive sleep apnea and does not involve systemic therapy for advanced disease. There is no line-of-therapy intent applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This trial does not involve systemic therapy for advanced or metastatic disease; it is a device study in pediatric OSA. No line-of-therapy criteria are specified or applicable."
+    }
+  ]
+}

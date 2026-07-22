@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04380610",
+  "title": "Improving Scientific Rigor of Renal Clinical Endpoints for Sickle Cell Anemia",
+  "brief_summary": "The investigators will attempt to develop a more accurate equation to estimate eGFR in pediatric and adult sickle cell patients",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* SCA patients (HbSS and SB0 thalassemia)\n* Age: 5.0-50.0 at enrollment\n\nExclusion Criteria:\n\n* Recent SCA complication associated with hospitalization (within 30 days) or ED visit (within 14 days)\n* Current AKI defined as \\>0.3mg/g increase in SCr from prior visit\n* Known history of anaphylaxis with contrast agent or known pregnancy",
+  "minimum_age": "5 Years",
+  "maximum_age": "50 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with sickle cell anemia",
+  "condition": [
+    "Sickle Cell Disease",
+    "Renal Disease",
+    "Glomerular Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

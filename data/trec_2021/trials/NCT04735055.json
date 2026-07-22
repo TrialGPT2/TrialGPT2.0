@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04735055",
+  "title": "Artificial Intelligence Prediction for the Severity of Acute Pancreatitis",
+  "brief_summary": "The incidence of acute pancreatitis (AP) is increasing nowadays. The diagnosis of AP is defined according to Atlanta criteria with the presence of two of the following 3 findings; a) characteristic abdominal pain b) amylase and lipase values \u22653 times c) AP diagnosis in ultrasonography (USG), magnetic resonance imaging (MRI), or computerized tomography (CT) imaging. While 80% of the disease has a mild course, 20% is severe and requires intensive care treatment. Mortality varies between 10-25% in severe (severe) AP, while it is 1-3% in mild AP.\n\nScoring systems with clinical, laboratory, and radiological findings are used to evaluate the severity of the disease. Advanced age (\\>70yo), obesity (as body mass index (BMI, as kg/m2), cigarette and alcohol usage, blood urea nitrogen (BUN) \u226520 mg/dl, increased creatinine, C reactive protein level (CRP) \\>120mg/dl, decreased or increased Hct levels, \u22658 Balthazar score on abdominal CT implies serious AP. According to the revised Atlanta criteria, three types of severity are present in AP. Mild (no organ failure and no local complications), moderate (local complications such as pseudocyst, abscess, necrosis, vascular thrombosis) and/or transient systemic complications (less than 48h) and severe (long-lasting systemic complications (\\>48h); organ insufficiencies such as lung, heart, gastrointestinal and renal). Although Atlanta scoring is considered very popular today, it still seems to be in need of revision due to some deficiencies in the subjects of infected necrosis, non-pancreatic infection and non-pancreatic necrosis, and the dynamic nature of organ failure. Even though the presence of 30 severity scoring systems (the most accepted one is the APACHE 2 score among them), none of them can definitely predict which patient will have very severe disease and which patient will have a mild course has not been discovered yet.\n\nToday, artificial intelligence (machine learning) applications are used in many subjects in medicine (such as diagnosis, surgeries, drug development, personalized treatments, gene editing skills). Studies on machine learning in determining the violence in AP have started to appear in the literature. The purpose of this study is to investigate whether the artificial intelligence (AI) application has a role in determining the disease severity in AP.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n\\- Patients with acute pancreatitis diagnosis who admitted to ER within 24 hours after the beginning of abdominal pain\n\nExclusion Criteria:\n\n* Patients who sign a treatment rejection form immediately after admission to the hospital and leave the hospital\n* Patients with uncompleted data\n* Psychiatric patients\n* Patients with very poor general conditions",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with acute pancreatitis diagnosis according to the Atlanta criteria",
+  "condition": [
+    "Acute Pancreatitis",
+    "Artificial Intelligence",
+    "Outcome, Fatal"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04003415",
+  "title": "Respiratory Disorders Non-invasive Monitoring of Work of Breathing in Outpatients",
+  "brief_summary": "This study will test the accuracy of an investigational, non-invasive device for measuring heart rate and respiratory rate. The device emits radiowaves that allows it to pick up subtle changes in a person's chest wall, which allows it to calculate the heart rate and respiratory rate. We propose to study whether the device's measurements are accurate and reproducible in patients with chronic obstructive pulmonary disease (COPD) or asthma. The device undergoing study has been evaluated in healthy volunteers, but its accuracy in vital sign monitoring in patients with respiratory conditions has not yet been established. This study will serve as the foundation for additional work to assess the device's accuracy in measuring a patient's overall \"work of breathing\" or respiratory effort. Future work will examine the device's accuracy in measuring work of breathing in patients having an exacerbation of their underlying respiratory condition.\n\nThe primary aim of this study will be to assess the validity of heart rate and respiratory rate measurements in patients with either COPD or asthma.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DEVICE_FEASIBILITY",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient seen at the Stanford University Hospital Chest Clinic\n* Patient age 18 or older\n* Patient able to consent\n* Patient with one of the following two medical conditions: Chronic Obstructive Pulmonary - Disease or Asthma\n* Participant (or accompanying family / caretaker) able to speak English\n\nExclusion Criteria:\n\n* Patient does not meet inclusion criteria (under age 18, unable to consent, etc.)\n* Patient is hospitalized\n* Patient is having an acute exacerbation of their respiratory condition\n* Patient is having an acute exacerbation of a comorbid condition\n* Patient has comorbid cardiac disease, including one of the conditions listed below:\n* Arrhythmias (including atrial fibrillation, NSVT, etc.)\n* Congestive Heart Failure\n* Unstable angina\n* Myocardial infarction within the last 3 months prior to enrollment\n* Uncorrected congenital heart disease\n* Uncorrected severe valvular disease\n* Pulmonary Hypertension (moderate or higher grade)\n* Patient has one of the following conditions:\n* Moderate pleural effusion\n* Large pleural effusion\n* Advanced stage lung cancer (Stage III or Stage IV disease)\n* Active infectious process, including viral process or pneumonia\n* Interstitial lung disease\n* Pleural disease, including pleural malignancies, trapped lung, etc\n* Active Cheyne-Stokes respiration\n* Patient has baseline increased work of breathing not due to their underlying respiratory disease (ie. COPD or asthma)\n* Ongoing substance abuse (not including cigarette use)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Copd",
+    "Asthma",
+    "Respiratory Effort",
+    "Contactless Vital Sign Monitoring"
+  ],
+  "overall_status": "COMPLETED"
+}

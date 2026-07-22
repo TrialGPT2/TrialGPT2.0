@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT04669574",
+  "title": "Assessing Sleep and Circadian Rhythms in Primary Brain Tumors Patients",
+  "brief_summary": "Background:\n\nSleep disturbances are among the most common and severe symptoms reported by people with primary brain tumors (PBT). Smart wearable devices like Fitbits may be able to give detailed data about people s sleep and circadian rhythms. In this study, researchers will use Fitbits to learn more about sleep disruptions caused by tumors. This might help them design better future treatment and supportive care studies.\n\nObjective:\n\nTo describe sleep disturbances and circadian disruption in people with PBT.\n\nEligibility:\n\nEnglish-speaking adults ages 18 and older who have PBT and are enrolled in the NIH study, Evaluation of the Natural History of and Specimen Banking for Patients with Tumors of the Central Nervous System. It is also known as the Natural History Study, trial #16C0151.\n\nDesign:\n\nParticipants will be screened over the telephone or in person. They will be asked about their medical history. Their cancer diagnosis will be confirmed through test results and pathology reports.\n\nParticipants will complete 4 surveys. The surveys take about 20 minutes to complete and will ask about:\n\nThe quality of their sleep\n\nTheir ability to fall asleep and stay asleep\n\nHow the quality of their sleep affects their daily activities\n\nTheir sleep hygiene and preferences\n\nParticipants will get a Fitbit. It looks like a watch and is worn on the wrist. They will connect the device to their smart phone to track sleep, heart rate, and activity. They will wear it for 1 month.\n\nParticipants will keep a daily sleep diary for 1 week. It will be sent via an electronic link. They will also repeat 2 of the surveys.\n\nParticipation will last for 1 month.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Subjects with histologically documented PBT\n* PBT patients must be enrolled on the Natural History Study (NHS) trial 16C0151 in the Neuro-Oncology Branch (NOB). Note: Concurrent enrollment in other NOB trials is also permissible.\n* Adults (greater than or equal to 18 years of age) who are English-speaking\n* Participants must be able to self-report symptoms\n* Ability of subject to understand and the willingness to sign a written consent document\n\nEXCLUSION CRITERIA:\n\n-Participants who are unwilling or unable to synchronize or link their Fitbit smart wearable device to their personal smart phone or another compatible device.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "cohort selection will be from Primary Brain Tumor patients enrolled onto the Natural History Study (16C0151) at the Neuro-Oncology Branch and all tumor types and grades are eligible.",
+  "condition": [
+    "Sleep Circadian Rhythms",
+    "Chronodisruption"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling adults with primary brain tumors, regardless of prior systemic therapy or disease stage. There are no requirements or restrictions regarding prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes all adults with histologically documented primary brain tumors enrolled on the Natural History Study, with no mention of prior systemic therapy or disease stage. Patients who have only received adjuvant or no systemic therapy are eligible, as are those with prior advanced/metastatic treatment."
+    }
+  ]
+}

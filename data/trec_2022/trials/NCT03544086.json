@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03544086",
+  "title": "Clinical Evaluation of a Wearable Sleep Diagnosis Technology",
+  "brief_summary": "The primary endpoint is to evaluate the sensitivities and specificities for diagnosis of sleep apnoea of a wearable sleep diagnosis technology vs. existing gold standard.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients who have been referred to a sleep clinic due to suspicion of sleep apnoea.\n\nExclusion Criteria:\n\n* Age under 18 or over 70 years.\n* Subjects who are not fluent in English, or who have special communication needs.\n* Known allergy to the adhesive dressing.\n* Subjects with physical or mental impairments who would not be able to use the new technology on their own.\n* Subjects with very loose/saggy skin in the neck area which would unavoidably result on - AcuPebble swinging if moving the neck.\n* Subjects with pacemakers.\n* exclude patients who have any type of implanted electronic devices (these include patients in ICDs and left ventricular assist devices and loop recorders).",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who have been referred to a sleep clinic due to suspicion of sleep apnoea, consecutive 160 patients coming to the clinic.",
+  "condition": [
+    "Obstructive Sleep Apnea"
+  ],
+  "overall_status": "COMPLETED"
+}

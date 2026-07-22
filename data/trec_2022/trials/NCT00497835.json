@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT00497835",
+  "title": "Study of Algorithm for Epilepsy Alert Device",
+  "brief_summary": "An accelerometer with transmitting ability is worn on the wrist. Data of movements during seizures will be analyzed to upgrade algorithm that will identify seizures.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients undergoing Long Term Monitoring for motor seizures\n\nExclusion Criteria:\n\n* Invasive recording\n* Psychogenic seizures",
+  "minimum_age": "1 Day",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients admitted to Video-LTM Unit with motor seizures.",
+  "condition": [
+    "Motor Seizures"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04852302",
+  "title": "Managing Cancer and Living Meaningfully (CALM) Therapy in Individuals Diagnosed With a Primary Brain Tumor",
+  "brief_summary": "Background:\n\nPsychological distress affects many people diagnosed with a primary central nervous system tumor (CNST). Distress can include negative feelings such as anger, fear, or sadness. Researchers want to see if a type of therapy called Cancer and Living Meaningfully (CALM) can help. It promotes well-being in people who have cancer that cannot be cured.\n\nObjective:\n\nTo find out if the CALM therapy can help people with a CNST suffering from distress.\n\nEligibility:\n\nEnglish-speaking adults ages 18 and older who have a CNST and are taking part in NIH protocol #16C0151.\n\nDesign:\n\nThis study will not take place in person. It will be done by smartphone, computer, or tablet.\n\nParticipants will fill out 7 surveys. The surveys will take 40 to 60 minutes to complete. They are all electronic. They will ask about physical and emotional symptoms, depression, feelings about death and dying, feelings about close relationships, and general well-being.\n\nParticipants will be assigned to a CALM therapist. They will have 3 to 6 individual therapy sessions in 6 months. Each session will last 45 to 60 minutes. Sessions may be audio recorded. If needed, participants may have extra sessions.\n\nCALM includes symptom management and discussions of meaning, purpose, and mortality.\n\nParticipants may have a family member take part in at least one CALM session with them.\n\nAfter the third CALM session, participants will be asked questions about CALM.\n\nAfter 3 and 6 months, participants will complete the 7 surveys again.\n\nParticipation will last about 6 months.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Subjects with histological or imaging confirmation of primary central nervous system tumor (PCNST) who are undergoing standard of care or experimental treatment.\n* Adults (greater than or equal to 18 years of age) who are English-speaking\n* Subjects who have a life expectancy of at least 3 months from time of study entry to allow for participation in the 3 required sessions.\n* Subjects must be enrolled on the Neuro-Oncology Branch Natural History Study 16C0151.\n* The ability of the subject to understand and the willingness to sign a written informed consent document as determined by the assessment of the treating physicians.\n\nEXCLUSION CRITERIA:\n\n-Participants without access to a smartphone, computer, or tablet to complete remote sessions.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Depression"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls adults with a primary central nervous system tumor (PCNST) who are undergoing either standard of care or experimental treatment, without specifying requirements regarding prior lines of systemic therapy for advanced disease. There are no restrictions or specifications about prior therapy lines for advanced/metastatic disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility requires only a diagnosis of PCNST and current receipt of standard of care or experimental treatment. There is no mention of prior lines of systemic therapy for advanced disease, nor any restrictions based on prior adjuvant or metastatic therapy. The protocol does not clarify whether adjuvant-only patients are eligible."
+    }
+  ]
+}

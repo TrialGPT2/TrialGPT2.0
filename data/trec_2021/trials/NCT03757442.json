@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03757442",
+  "title": "Peripheral Perfusion Index in Acute Surgical Patients",
+  "brief_summary": "Introduction Perioperative haemodynamic instability is associated with postoperative morbidity and mortality. Macrocirculatory parameters, such as the conventionally obtained mean arterial blood pressure and cardiac output, may be uncoupled from the microcirculation during sepsis and severe blood loss and may not necessarily be optimal resuscitation parameters. The peripheral perfusion index (PPI) is derived from the pulse oximetry signal and reflects perfusion. Reduced peripheral perfusion is associated with morbidity in critically ill patients and in patients following acute surgery. We hypothesize that patients with low intraoperative PPI demonstrate high frequency of postoperative complications and mortality regardless of blood pressure.\n\nMethods and analysis We plan to conduct a prospective observational cohort study in patients undergoing acute non-cardiac surgery (November 1st, 2017 to October 31st, 2018) at two University Hospitals. Data will be collected prospectively from patient records including patient demographics, comorbidity and intraoperative hemodynamic values, with PPI as the primary exposure variable, and postoperative complications and mortality within 30 and 90 days as outcome variables. We primarily assess association between PPI and outcome in multivariate regression models. Secondly, the predictive value of PPI for outcome, using area under the receiver operating characteristics curve is assessed.\n\nEthics and dissemination Data will be reported according to The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE). Results will be published in a peer reviewed journal. The study is approved by the regional research ethics committee, storage and management of data has been approved by the Regional Data Protection Agency, and access to medical records is approved by the hospital board of directors at the involved hospitals and departments.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nOrthopedic surgery patients with fracture of the hip booked for or having performed procedures with the following procedural codes: KNFB02, KNFJ81, KNFJ51, KNFJ52, KNFJ70 representing arthroplasty, intra-medullar nailing, and screws respectively.\n\nFor abdominal surgery patients we include patients booked for acute laparoscopy for diagnostic purposes (KJAH01) and explorative laparotomy (KJAH00). To identify all patients having performed acute abdominal surgery, we also include surgery related to ileus: KJFK00, KJFK01, KJFK10, KJAP00, KJAP01, KJFK96, KJFK97, any perforation of vicera: KJDA60, KJDA70, KJDA80, and any ischemic condition of the gut: KJFB00, KJFB01, KJFB33, KJFB34, KJFB96, KJFB97.\n\nExclusion Criteria:\n\n* No sampling of PPI registered\n* Foreign/temporary civil registration number that prevents follow up\n* Earlier enrollment in cohort",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients \\> 18 years of age having performed acute abdominal or orthopedic surgery from 1th November 2017 through 31th October 2018 at Hvidovre and Bispebjerg University Hospitals. Study subjects will be obtained from the hospitals electronic medical records via specific procedural- or diagnostic codes representing the acute orthopedic or abdominal surgery in the specified one-year period.",
+  "condition": [
+    "Fracture of Hip",
+    "Ileus",
+    "Perforated Viscus",
+    "Anastomotic Leak"
+  ],
+  "overall_status": "COMPLETED"
+}

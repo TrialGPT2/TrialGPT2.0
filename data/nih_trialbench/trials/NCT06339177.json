@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT06339177",
+  "title": "Hemophagocytic Lymphohistiocytosis (HLH) Evaluation and Research of Clinical, ImmUnoLogic and TranscriptomE Study",
+  "brief_summary": "Background:\n\nHemophagocytic lymphohistiocytosis (HLH) is a disease caused by disrupted immune function. People with HLH are prone to fevers and illnesses, which can be fatal. Some people develop a genetic form of this disease (pHLH), but researchers do not understand why some other people develop a nongenetic form (sHLH). They also do not have good ways to diagnose and treat sHLH.\n\nObjective:\n\nTo learn about sHLH and why some people get it and others do not.\n\nEligibility:\n\nAdults aged 18 years and older with sHLH.\n\nDesign:\n\nParticipants will be admitted to the study based on a review of their medical records. Those who join will have at least 3 clinical evaluations over 9 to 12 months. These may occur during an inpatient hospitalization if they require medical care or in the outpatient clinic.\n\nParticipants will also have a physical exam at each visit. Up to half a cup of blood will be drawn at each visit. Participants may also have their blood drawn by their own doctors, who will send the samples to the researchers. Researchers may also contact these participants by telephone or video calls.\n\nThe blood will be used for clinical tests as well as research. No new treatments will be administered as part of this study; however, standard medications and treatments may be recommended.\n\nParticipants may opt to continue their visits once a year for 3 more years. Participants may also opt for an extra clinial evaluation 1 week after starting a new treatment.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Aged 18 years or older.\n* Established diagnosis of sHLH defined by meeting any published criteria, per Table 1:\n\n  * Meeting the HLH-2004 criteria.\n  * HScore of \\>168. For those without a bone marrow biopsy to evaluate for hemophagocytosis (worth 35 points in the criteria), HScore\\>134 will be used.\n  * For those with underlying rheumatologic disease: meeting the 2016 American College of Rheumatology criteria for macrophage activation syndrome.\n* Agree to storage and sharing of study data and biospecimens for future research use.\n\nTable 1: Published Criteria for HLH\n\nHLH-2004 Criteria:\n\nMolecular diagnosis of HLH OR At least 5 of 8 below criteria:\n\n* Fever (\\>38.4 Degrees Celcius)\n* Splenomegaly\n* Cytopenias affecting \\>=2 of 3 lineages: Hgb \\<9 g/dL, platelets \\<10\\^5/microliter, neutrophils \\<10\\^6/microliter\n* Hypertriglyceridemia (\\>256 mg/dL) and/or fibrinogen \\<1.5 g/L\n* Hemophagocytosis on biopsy\n* Serum ferritin \\>=500 ng/mL\n* Increased serum sCD25 (\\>2400 U/mL)\n* Low or absent NK cell activity\n\nHScore:\n\nKnown immunosuppression:\n\n0 (no) or 18 (yes)\n\nTemperature (degrees, Celsius):\n\n0 (\\<38.4), 33 (38.4-39.4), 49 (\\>39.4)\n\nOrganomegaly:\n\n0 (no), 23 (liver/spleen), 38 (both)\n\nNumber of cytopenias:\n\n0 (1 lines), 24 (2 lines), 34 (3 lines)\n\nFerritin (ng/mL):\n\n0 (\\<2000), 35 (2000-6000), 50 (\\>6000)\n\nTriglycerides (mg/dL):\n\n0 (\\<1.5), 44 (1.5-4), 66 (\\>4)\n\nFibrinogen (g/L):\n\n0 (\\>2.5), 30 (\\<2.5)\n\nAST (IU/mL):\n\n0 (\\<30), 19 (\\>30)\n\nHemophagocytosis:\n\n0 (no) or 35 (yes)\n\nCutoff value=169\n\nACR 2016-MAS Criteria:\n\nA febrile patient with known or suspected sJIA is classified as having macrophage activation syndrome if the following criteria are met:\n\nFerritin \\>684 ng/mL\n\nAND any 2 of the following:\n\n* Platelets \\<=181,000/microliter\n* AST \\>48 IU/mL\n* Triglycerides \\>156 mg/dL\n* Fibrinogen \\<=3.6 g/L\n\nAbbreviations: ACR, American College of Rheumatology; AST, aspartate transaminase; Hgb, hemoglobin; HLH, hemophagocytic lymphohistiocytosis; MAS, macrophage activation syndrome; NK, natural killer, sJIA, systemic juvenile idiopathic arthritis.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Currently pregnant.\n* Any condition that, in the judgment of the investigator, may put the participant at undue risk or make them unsuitable for participation in the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult participants with active secondary HLH by meeting any published criteria. Hemophagocytic lymphohistiocytosis (HLH) represents a clinical condition of persistent, dysregulated immune activation with unrelenting fevers, hyperferritinemia, and cytopenias, which lead to multiorgan failure and death.",
+  "condition": [
+    "Lymphohistiocytosis, Hemophagocytic",
+    "Secondary Hemophagocytic Lymphohistiocytosis",
+    "Macrophage Activation Syndrome",
+    "Hyperinflammatory Syndromes"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling adults with secondary hemophagocytic lymphohistiocytosis (sHLH) regardless of prior systemic therapy. There are no requirements or restrictions regarding prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention or restrict prior systemic therapy for advanced disease. Patients are enrolled based on a diagnosis of sHLH, with no reference to prior lines of therapy or treatment history."
+    }
+  ]
+}

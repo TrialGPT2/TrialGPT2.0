@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03334227",
+  "title": "High Flow Nasal Cannula in Severe Sepsis",
+  "brief_summary": "Severe sepsis leads a high morbidity and mortality by causing organ damage at distance. The treatment relies on early antibiotic therapy and hemodynamic resuscitation. Hypothesis: high flow nasal cannula (HFNC) could reduce work of breathing and improve the outcome of patients with severe sepsis and peripheral perfusion. Objective: the aim of this study is to evaluate the efficacy of HFNC for improving sixty-day survival in patients with severe sepsis. Design: multicenter parallel-group randomized clinical trial. Method: 592 adult patients with a diagnosis of severe sepsis in the first 12 hours of admission in the Emergency Room will be randomly assigned to an experimental or control group. In the experimental group, HFNC will be administered until the resolution of sepsis or until required mechanical ventilation, either invasive or non-invasive. In the Control group, conventional oxygen will be administered, if required. Sixty-day survival will be the primary outcome. The study is powered to demonstrate an improvement in survival from 70% in control group up to 80% in the HFNC group. The secondary outcomes will be reducing the need for vital support (mechanical ventilation, dialysis, vasoactive drugs) and physiological (acidosis, clearance of lactate, SvO2 and SOFA). Statistical analysis: Kaplan-Meier curves and Cox proportional hazard models will be calculated for all-cause sixty-day survival. If the results are conclusive, they will have immediate application in medical practice.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients \\> 18 yr. with diagnostic criteria for severe sepsis, within 12 hours of admission in the Emergency Room, defined as hypotension after hemodynamic resuscitation, initial lactate \\> 4, or persistence of organ dysfunction (oliguria \\< 0.5 ml/kg/h, cyanosis, or altered consciousness).(qSOFA 1, 2 or 3)\n\nExclusion Criteria:\n\n* Patients who require immediate ventilatory support both invasive and non-invasive, defined by severe hypoxemia (PaO2/FiO2 \\< 150), severe tachypnea (40 x') with signs of respiratory fatigue or low level of consciousness (Glasgow \\< 8).\n* Patients with limitation of the therapeutic effort or orders of not CPR.\n* Patients not susceptible to treatment with HFNC (facial trauma, tracheostomized, rejection of previous treatments with HFNC).\n* Participation in other clinical trials that may affect survival.\n* Home treatment with oxygen, CPAP or Non-invasive ventilation.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Severe Sepsis"
+  ],
+  "overall_status": "TERMINATED"
+}

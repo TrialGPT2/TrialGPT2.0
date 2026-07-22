@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04056247",
+  "title": "Predicting Responsiveness in Oncology Patients Based on Host Response Evaluation During Anti Cancer Treatments",
+  "brief_summary": "The PROPHETIC study is a prospective, multi-center, international clinical study aimed at developing an algorithm to predict patient outcomes. The study involves analyzing the proteomic profiles of patients undergoing therapy to assess the likelihood of clinical benefit from their prescribed treatment. Blood samples are collected prior to and during the treatment period and analyzed as part of the ongoing development of thealgorithm.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion criteria\n\n* Provision of informed consent prior to any study-specific procedures.\n* Male or female aged at least 18 years.\n* ECOG PS - 0/1-2\n* Normal hematologic, renal and liver function:\n\n  1. Absolute neutrophil count higher than 1500/mm3\n  2. Platelets count higher than 100,000/mm3\n  3. haemoglobin higher than 9 g/dL\n  4. Creatinine concentration \u22641.4 mg/dL, or creatinine clearance higher than 40 mL/min\n  5. Total bilirubin lower than 1.5 mg/dL, ALT and AST levels \u2264 3 times above the upper normal limit.\n* At least one measurable lesion in order to enable the assessment of the response (except for stage IIIb-d malignant melanoma patients).\n\nExclusion Criteria:\n\n* Concurrent and/or other active malignancy that has required systemic treatment within 2 years of first dose of study drug\n* Generalized impairment or mental incompetence that would render the patient unable to understand his/her participation in the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "1. Stage IV NSCLC patients treated with ICI or a combination of ICI and chemotherapy in any line of treatment, or with chemotherapy as a first line treatment.\n2. Stage III unresectable NSCLC patients treated with ICI therapy or ICI in combination with chemotherapy.\n3. Stage IV malignant melanoma patients treated with any regimen that includes ICI therapy as a monotherapy or in combination with targeted therapy in any line of treatment. In specific sites, Stage IV melanoma patients treated with targeted therapy (as a reference population).\n4. Stage IIIb-d malignant melanoma patients treated with any regimen that includes ICI therapy as monotherapy or in combination with targeted therapy as adjuvant therapy.\n5. Stage IV SCLC patients treated with any regimen of ICI, chemotherapy or combination of ICI and chemotherapy in any line of treatment.",
+  "condition": [
+    "Stage IV Non-small Cell Lung Cancer",
+    "Stage IV Malignant Melanoma",
+    "Stage IV Small Cell Lung Cancer",
+    "Stage III Unresectable Non-Small Cell Lung Cancer",
+    "Stage IIIb-d Malignant Melanoma"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

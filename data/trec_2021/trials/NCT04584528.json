@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04584528",
+  "title": "Implementing an Individualized Pain Plan (IPP) for ED Treatment of VOE's in Sickle Cell Disease",
+  "brief_summary": "The overall purpose of this proposed study is to improve management of vaso-occlusive episodes (VOEs) in adult EDs. We aim to implement NHLBI recommendations for VOE treatment by embedding Individualized Pain Plans (IPPs) in the electronic health record (EHR). The EHR-embedded IPP will serve as a record of patients' SCD genotype and will include analgesic medication recommendations developed by the SCD provider. In this project, we will provide access to the IPP for both adult patients with SCD and ED providers. The proposed multisite study will use a pre-post study design, with a core set of mandatory intervention components and strategies for each participating site and optional components and strategies to allow for intervention adaptation to local needs and resources. The EHR-embedded IPP will be available for all adult ED providers to use as their routine practice, and patients will be invited to participate and enroll in the study. We will use a simplified Technology Acceptance Model to explain the use of the IPP and the RE-AIM framework to assess the Reach, Effectiveness, Adoption, Implementation, and Maintenance of the intervention.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Patient Inclusion Criteria:\n\n* Age 18 years up to and including 45 years\n* English speaking\n* Confirmed SCD diagnoses . Confirmed is defined as supported by documentation in the medical record of a positive test for one of the following : Hb SS, Hb SC, Hb S -thalassemia, Hb SO, Hb SD, Hb SG, Hb SE, or Hb SF.\n* Access to a cellular/mobile smart phone with access to text messaging (either Android or iPhone acceptable) .\n* At least one Vaso-Occlusive Episode (VOE) visit to participating site Emergency Department (ED) the past 90 days from enrollment\n* At least one visit at the study site sickle cell disease clinic within the past 12 months\n* Willing and cognitively able to give informed consent\n\nPatient Exclusion criteria:\n\n* Patient's sickle cell provider states patient should not have a protocol or should not be administered opioids\n\nProvider Inclusion Criteria:\n\n* Provides pain treatment in one of the participating study Emergency Departments for a patient participant with a qualified ED visit .",
+  "minimum_age": "18 Years",
+  "maximum_age": "45 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sickle Cell Disease",
+    "Genetic Disease",
+    "Hematologic Diseases",
+    "Anemia, Sickle Cell"
+  ],
+  "overall_status": "COMPLETED"
+}

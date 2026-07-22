@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00047996",
+  "title": "Blood Collection for Research Related to Certain Diseases Involving Blood Vessels",
+  "brief_summary": "The collection of human specimens from both patients and healthy volunteers is necessary for the development of laboratory assays to further basic and clinical research studies. This protocol defines the purposes for which specimens will be collected and establishes general conditions under which sample collection will be performed.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nMales or females of age 18 years and older can be included in the study.\n\nEXCLUSION CRITERIA:\n\nIndividuals without sickle cell disease or other chronic anemias who wish to donate blood will be excluded if the hemoglobin is less than 10 g/dL for women or less than 12g/dL for men.\n\nIndividuals with sickle cell disease or other chronic anemias will be excluded from donating blood samples if the hemoglobin is less than 6 g/dL.\n\nA participant s most recent CBC result, obtained in the past 12 months, will be used to determine eligibility.\n\nThere are no exclusion criteria for participants donating urine.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Normal subjects, Male/Female",
+  "condition": [
+    "Sickle Cell Disease"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This is a biospecimen collection protocol enrolling both healthy volunteers and patients with sickle cell disease or other chronic anemias, without reference to prior systemic therapy or line of therapy for advanced disease. There are no requirements or restrictions regarding prior lines of therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy or lines of therapy for advanced disease. Both healthy volunteers and patients with chronic anemias are eligible, regardless of treatment history."
+    }
+  ]
+}

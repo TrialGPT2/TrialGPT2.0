@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT03162172",
+  "title": "Growth Hormone (GH) in Congenital Adrenal Hyperplasia",
+  "brief_summary": "Congenital adrenal hyperplasia (CAH) is a genetic rare disease, which alters the adrenal production of gluco and mineralo corticoids. The treatment consists in supplementing children using hydrocortisone. Despite care for these children has improve substantially across decades, short adult height still remains an important consequence of the disease. About 20 % of patients have an AH below 2 standard deviations compared to their expected height.\n\nIn the OPALE model study, the investigators have collected data from a cohort of 496 French patients, born between 1970 and 1991 and with a known genotype. Using their age, sex, growth, disease, bone maturation and pubertal data, they have built a model which allows to predict their AH using data available at 8 years of age. This model has shown that the currently used formula to calculate the predicted AH (Bayley Pineau's method) is not applicable to children with CAH.\n\nIn this project, the investigators plan to use the prediction model to compare the AH in patients who have received GH treatment to their predicted AH using the model.\n\nThe hypothesis is that GH improves the AH in such patients. Existing cohorts have shown improved growth celerity, and growth expectation using the Bayley-Pineau formula), but this has not been shown on the actual AH.\n\nThis study will allow to reinforce the investigators' hypothesis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nPatients with CAH, born between 1970 and 1998, having received GH treatment for a minimal one year duration.\n\nExclusion Criteria:\n\n* Patients with chronic any growth altering disease, Turner syndrome or other genetic anomaly; 8-year wrist Xray and adult height should be available to allow the use of the OPALE model prediction.",
+  "minimum_age": "18 Years",
+  "maximum_age": "50 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with genetically proven CAH, classical form, or simple virilizing, with 21 hydroxylase, or 11\u1d5d hydroxylase, or 3\u03b2ol-dehydrogenase deficit, born between 1970 and 1998, having received GH treatment for a minimal one year duration.",
+  "condition": [
+    "Adrenal Hyperplasia, Congenital"
+  ],
+  "overall_status": "COMPLETED"
+}

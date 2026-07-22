@@ -1,0 +1,55 @@
+{
+  "nctid": "NCT00001373",
+  "title": "Familial Mediterranean Fever and Related Disorders: Genetics and Disease Characteristics",
+  "brief_summary": "This study is designed to explore the genetics and pathophysiology of diseases presenting with intermittent fever, including familial Mediterranean fever, TRAPS, hyper-IgD syndrome, and related diseases.\n\nThe following individuals may be eligible for this natural history study: 1) patients with known or suspected familial Mediterranean fever, TRAPS, hyper-IgD syndrome or related disorders; 2) relatives of these patients; 3) healthy, normal volunteers 7 years of age or older.\n\nPatients will undergo a medical and family history, physical examination, blood and urine tests. Additional tests and procedures may include the following:\n\n1. X-rays\n2. Consultations with specialists\n3. DNA sample collection (blood or saliva sample) for genetic studies. These might include studies of specific genes, or more complete sequencing of the genome.\n4. Additional blood samples a maximum of 1 pint (450 ml) during a 6-week period for studies of white cell adhesion (stickiness)\n5. Leukapheresis for collecting larger amounts of white cells for study. For this procedure, whole blood is collected through a needle in an arm vein. The blood flows through a machine that separates it into its components. The white cells are removed and the rest of the blood is returned to the body through another needle in the other arm.\n\nPatients may be followed approximately every 6 months to monitor symptoms, adjust medicine dosages, and undergo routine blood and urine tests. They will receive genetic counseling by the study team on the risk of having affected children and be advised of treatment options.\n\nParticipating relatives will undergo a medical and family history, possibly with a review of medical records, physical examination, blood and urine tests. Additional procedures may include a 24-hour urine collection, X-rays, and consultations with medical specialists. A DNA sample (blood or saliva) will also be collected for genetic studies. Additional blood samples of no more than 550 mL during an 8-week period may be requested for studies of white cell adhesion (stickiness).\n\nRelatives who have familial Mediterranean fever, TRAPS, or hyper-IgD syndrome will receive the same follow-up and counseling as described for patients above.\n\nNormal volunteers and patients with gout will have a brief health interview and check of vital signs (blood pressure and pulse) and will provide a blood sample (up to 90 ml, or 6 tablespoons). Additional blood samples of no more than 1 pint over a 6-week period may be requested in the future.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nThere are three populations that will be included in this study: subjects with known or suspected autoinflammatory diseases, family members of subjects with known or suspected autoinflammatory diseases, and healthy controls. Persons interested in participation may be given a screening questionnaire to determine eligibility. Questions in the screening questionnaire are important to help us determine if subjects have known autoinflammatory diseases, or if there is a high clinical suspicion of autoinflammatory disease.\n\nIn order to be eligible to participate in this study as a subject with known or suspected autoinflammatory disease, an individual must meet all of the following criteria:\n\n1. Stated willingness to participate in study procedures (which at the very least includes providing a mail-in sample for genetic analysis);\n2. Regardless of gender, at least one month of age;\n3. A medical history that, in the expert opinion of the study team, is consistent with the possibility of autoinflammatory disease; and\n4. Ability of the subject, parents (in the case of children), or Legally Authorized Representative to understand and the willingness to sign a written informed consent document.\n\nIn order to be eligible to participate in this study as a family member of a subject with known or suspected autoinflammatory disease, an individual must meet all of the following criteria:\n\n1. Stated willingness to participate in study procedures (which at the very least includes providing a mail-in sample for genetic analysis);\n2. Regardless of gender, at least one month of age;\n3. Relationship, either by blood or marriage, to an individual enrolled or about to be enrolled in the study with known or suspected autoinflammatory disease;\n4. Likelihood, in the expert opinion of the study team, that analysis of a sample from the individual would advance genetic or functional analysis of the affected relative's possible autoinflammatory condition; and\n5. Ability of the subject, parents (in the case of children), or Legally Authorized Representative to understand and the willingness to sign a written informed consent document.\n\nIn order to be eligible to participate in this study as a healthy volunteer, an individual must meet all of the following criteria:\n\n1. Stated willingness to participate in study procedures for healthy volunteers;\n2. Regardless of gender, at least one year old, and not pregnant (by history of a missed menstrual period);\n3. Likelihood, in the expert opinion of the study team, that a sample from the individual would advance the functional analysis of an autoinflammatory condition under study; and\n4. Ability of the subject or parents (in the case of children) to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\nFor any of the three categories of subjects, an individual will be excluded from participation in this study if he or she has a medical condition that would, in the opinion of the investigators, confuse the interpretation of the study.",
+  "minimum_age": "2 Months",
+  "maximum_age": "115 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with autoinflammatory disorders and unaffected family members, and healthy volunteers.",
+  "condition": [
+    "Familial Mediterranean Fever (FMF)",
+    "Autoinflammation",
+    "Periodic Fever",
+    "Fever",
+    "Genetic Diseases",
+    "ROSAH",
+    "ALPK1"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history and genetics study of autoinflammatory diseases, enrolling patients with known or suspected disease, their relatives, and healthy controls. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Subjects with known or suspected autoinflammatory disease",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on clinical suspicion or diagnosis of autoinflammatory disease, with no mention of prior systemic therapy for advanced disease. There are no requirements or exclusions related to prior lines of therapy."
+    },
+    {
+      "cohort_label": "Family members",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Family members are eligible based on their relationship to affected subjects, with no reference to prior systemic therapy. Prior treatment history is not a criterion."
+    },
+    {
+      "cohort_label": "Healthy volunteers",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Healthy volunteers are included for genetic and functional studies, with no requirements or restrictions regarding prior therapy."
+    }
+  ]
+}

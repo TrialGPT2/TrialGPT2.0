@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02495883",
+  "title": "Functional Imaging of Tremor Circuits and Mechanisms of Treatment Response",
+  "brief_summary": "Essential Tremor (ET) is the most common tremor disorder, currently affecting an estimated 2.9 million Americans and leading to disability and decreased quality of life in 75% of cases. The pathophysiology of ET is poorly understood, with the source of the tremor remaining controversial since all studies show increased activity in the cerebellum (including mimicked tremor in controls), while animal models of ET using harmaline and a single human PET study implicate the inferior olivary nucleus in the brainstem.\n\nThere is evidence from the investigator's laboratory that the use of resting-state functional magnetic resonance imaging (rs-fMRI) is useful for characterizing the abnormal tremor neural network in ET compared with controls. The goal is to identify the source of the tremor, which is hypothesized to remain active during rest.\n\nCurrent ET diagnostic criteria require the presence of postural and/or kinetic tremor, which are assumed to be different manifestations of the same tremor oscillator. This long-standing assumption may be incorrect based on several lines of evidence from the investigator's laboratory, and has major implications for understanding ET pathophysiology and treatment. The investigators will test the hypothesis that postural and kinetic tremors are generated through different neural mechanisms.\n\nTreatment of ET focuses on pharmacological agents of various mechanisms and rarely deep brain stimulation of the Vim thalamus. Despite the assortment of agents used to treat ET, only \\~50% of patients benefit from a particular agent. Furthermore, the mechanisms of action on tremor are not generally known. Understanding the mechanisms of action of various tremor-suppressing agents is critical for future drug development. In this proposal, the investigators plan to study the effects of ethanol (the most efficacious tremor-suppressant currently available) and propranolol (a non-specific \u03b2-adrenergic blocker with proven efficacy and unknown mechanism of action) on the tremor neural network.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosed with ET by a Movement Disorder Neurologist.\n* Tremors that improve with alcohol.\n* Ability to abstain from drinking alcohol or caffeine for at least 2 days before both the screening and fMRI visits\n* Over the age of 21.\n\nExclusion Criteria:\n\n* Significant non-ET related abnormal findings during neurological exam.\n* Presence of a tremor at rest.\n* Pregnant or nursing.\n* Unable to safely undergo MRI based on completion of a safety questionnaire.\n* History of dementia, brain tumor, stroke, head trauma or a vascular malformation based on history or MRI findings.\n* Severe active medical condition, such as cardiovascular disease, that prevents subject from lying flat for up to 120 minutes.\n* Unable or unwilling to provide informed consent.\n* Claustrophobia (a fear of tight spaces) or other restrictions that prevent subject from undergoing an MRI in a confined space for up to 120 minutes.\n* Unable to temporarily stop taking medications that may influence liver metabolism or brain function.\n* Tremors so severe that subject cannot safely and effectively undergo MRI\n* Past/current problems with alcohol abuse or dependence.\n* Unwillingness to take alcohol (ethanol), which is a potentially intoxicating drug\n* History of deep brain stimulation or thalamotomy surgery.\n* Sinus bradycardia, bronchial asthma, or a known allergy to propranolol (Inderal).",
+  "minimum_age": "21 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Essential Tremor",
+    "Tremor"
+  ],
+  "overall_status": "COMPLETED"
+}

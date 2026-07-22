@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT01011712",
+  "title": "The Natural History of Severe Viral Infections and Characterization of Immune Defects in Patients Without Known Immunocompromise",
+  "brief_summary": "Background:\n\n* Infections caused by viruses are common causes of illnesses: the common cold, many ear infections, sore throats, chicken pox, and the flu are caused by different viruses. Usually, these illnesses last only few days or, at most, a few weeks. Some virus infections like influenza are cleared from the body, and others such as the chicken pox virus remain in the body in an inactive state. However, some people may become quite ill when they are infected with a particular virus, possibly because part of their immune system does not respond properly to fight the virus.\n* Researchers have discovered some reasons why a person may not be able to clear an infection caused by a virus. Some persons have changes in the genes that involve the immune system that result in the inability to properly control infection with a particular virus. Identifying changes in genes that involve the immune system should help scientists better understand how the immune system works to protect people from infection and may help develop new therapies.\n\nObjectives:\n\n* To study possible immune defects that may be linked to a particular severe viral infection.\n* To determine if identified immune defects are genetic in origin.\n\nEligibility:\n\n* Individuals of any age who have or have had a diagnosis of a virus infection that physicians consider to be unusually severe, prolonged, or difficult to treat.\n* Relatives of the participants with a severe viral infection may also participate in the study. We will use their blood and/or skin specimens to try to determine if identified immune defects are hereditary.\n\nDesign:\n\n* Prior to the study, the participant's doctor will give researchers the details of the infection, along with medical records for review. Eligible participants will be invited to the NIH Clinical Center for a full evaluation as an outpatient or inpatient.\n* At the Clinical Center, participants will be treated with the best available therapy for the particular viral infection, and researchers will monitor how the infection responds to the treatment.\n* Researchers will take intermittent blood samples and conduct other tests (such as skin biopsies) to evaluate the immune system. - During and after the illness, researchers will conduct follow-up visits to determine the course of infection and response to therapy.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n(Participants)\n\nParticipants must meet all the following inclusion criteria in order to participate in this study:\n\n1. Children or adults (regardless of age) with a definitively diagnosed severe or unusual viral infection, including but not limited to infections caused by herpesviruses (HSV-1, HSV-2, CMV, EBV, VZV, HHV-6, HHV-7, HHV-8), human papillomavirus (e.g., severe recalcitrant warts), adenovirus, calicivirus (e.g. norovirus), polyomavirus (such as JC virus and BK virus), or influenza virus. Viral infections that would be considered opportunistic-like , such as herpesvirus esophagitis, herpesvirus encephalitis, CMV colitis, or progressive multifocal leukoencephalopathy (caused by the JC polyoma virus) will be of particular interest in this protocol.\n\n   OR\n\n   Children or adults with a well-documented prior, severe, persistent, or treatment-refractory viral infection(s), who have clinically recovered from the viral infection.\n2. Ongoing care by a referring physician.\n3. Willingness to allow storage of blood and tissue samples for future analyses.\n\n(Relatives)\n\nRelatives (2 years or above) may be recruited and enrolled to improve interpretation of genetic results, to expand the phenotype of the suspected or confirmed inborn error of immunity in the proband with severe viral infection, and to understand the co-factors in affected and/or unaffected family members that may influence variable expressivity and penetrance of viral infections in inborn errors of immunity.\n\n1. Males and females will be accepted.\n2. Relatives may either be healthy or have features concerning for an inborn error of immunity including, but not limited to, autoimmunity, severe atopy, other forms of immune-dysregulation, or severe or unusual infections. While the enrolled proband must have a current or prior severe or unusual viral infection, family members who are suspected to have an inborn error of immunity do not need to have a history of severe or unusual viral infection in the presence of other features suspicious for inborn errors of immunity.\n3. Adult relatives or the guardians of minor relatives must be willing and capable of providing informed consent after review of protocol procedures that are described in the consent form with an appropriate study team member.\n4. Participating relatives agree to have blood stored for future studies of the immune system.\n\nEXCLUSION CRITERIA:\n\nParticipants meeting any of the following exclusion criteria at baseline will be excluded from study participation:\n\n1. Patients with previously diagnosed conditions associated with acquired or iatrogenic immunodeficiency and/or immunosuppresion (e.g., a history of HIV infection, a positive test for HIV, chemotherapy or high dose glucocorticoids). Patients on immunosuppression and/or immunomodulatory therapy for the treatment of conditions that may be attributable to an underlying inborn error of immunity may be included in the study at the discretion of the PI or their designee.\n2. Women who are pregnant.\n3. Any condition or major comorbidity that the study investigators believe will compromise the patient's ability to comply with the requirements of the study.",
+  "minimum_age": "2 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population will be drawn from referrals from the Clinical Center staff, physicians at outside medical facilities, and self-referrals. Patients or relatives who meet the inclusion and/or exclusion criteria, but who are not able to travel to the NIH Clinical Center, may be enrolled in the study and will be evaluated for immune defects using mailed-in blood samples or clinical specimens (i.e. previously obtained biopsy specimens).",
+  "condition": [
+    "EBV",
+    "HSV",
+    "VZV",
+    "HPV",
+    "CMV"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history and observational study of patients with severe or unusual viral infections, regardless of prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on having a severe or unusual viral infection, with no mention of prior systemic therapy for advanced disease. There are no requirements or exclusions based on prior lines of therapy, and the protocol does not address adjuvant or neoadjuvant therapy. Line-of-therapy intent is not specified."
+    }
+  ]
+}

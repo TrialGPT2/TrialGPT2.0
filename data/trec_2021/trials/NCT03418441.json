@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT03418441",
+  "title": "Central Nervous System Infections in Denmark",
+  "brief_summary": "The Danish Study Group of Infections of the Brain is a collaboration between all departments of infectious diseases in Denmark. The investigators aim to monitor epidemiological trends in central nervous system (CNS) infections by a prospective registration of clinical characteristics and outcome of all adult (\\>17 years of age) patients with community-acquired CNS infections diagnosed and/or treated at departments of infectious diseases in Denmark since 1st of January 2015.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Definitions of central nervous system infections:\n\nFor all cases with unproven aetiologies no alternative diagnosis than CNS infection is thought more likely after completed multidisciplinary diagnostic work-up.\n\nViral meningitis inclusion criteria\n\n\\- All patients have to have a clinical presentation consistent with non-bacterial meningitis (e.g. headache, neck stiffness, photo- or phonophobia, fever)\n\nand\n\nCerebrospinal fluid leukocytes\\>10 cells/ml\n\nPatients with viral meningitis with undetermined pathogen have to have:\n\n* CSF leukocytes\\> 10/mL and no other more probable diagnosis assessed by the local investigator.\n\nIn case of doubt, patients are discussed with the DASGIB secretary and chair or at meetings.\n\nBacterial meningitis inclusion criteria - All patients have to have a clinical presentation consistent with bacterial meningitis (e.g. headache, neck stiffness, fever, altered mental status)\n\nand\n\nProven bacterial aetiology (CSF or blood culture/DNA based technology or antigen tests)\n\nPatients with bacterial meningitis in whom the bacteria cannot not be cultured or identified by DNA-based technologies have to have:\n\n\\- CSF leukocytes\\> 10/mL and no other more probable diagnosis assessed by the local investigator.\n\nIn case of doubt, patients are discussed with the DASGIB secretary and chair or at meetings.\n\nEncephalitis inclusion criteria - All patients have to have a clinical presentation consistent with encephalitis (e.g. headache, fever, focal neurological deficit, altered mental status \\>24 hours) as defined by the International Encephalitis Consortium (Venkatesan A et al., Clin Infect Dis 2013; doi:10.1093/cid/cit458.).\n\nEncephalitis exclusion criteria\n\n\\- We exclude cases of proven or suspected autoimmune encephalitis.\n\nPrimary brain abscess inclusion criteria\n\n\\- All patient have a clinical presentation consistent with brain abscess (e.g. headache, focal neurological deficit, mass lesion on cranial imaging)\n\nand\n\n\\- Proven microbiological aetiology by culture/DNA-based technology from pus from brain abscess or blood or CSF\n\nor\n\n\\- Aspiration of pus from the brain abscess\n\nor\n\n\\- Response to antimicrobial treatment\n\nor\n\n\\- Tumour ruled out\n\nor\n\n\\- Tumour thought less probable than abscess on MRI using diffusion weighted imaging (DWI) and apparent diffusion coefficient (ADC) sequences.\n\nLyme neuroborreliosis inclusion criteria\n\n\\- A clinical presentation consistent with neuroborreliosis (e.g. radiculopathy)\n\nand\n\n\\- CSF pleocytosis\\>10 leukocytes/mL\n\nand\n\n\\- Positive intrathecal B.burgdorferi antibody production index.\n\nNeurosyphilis inclusion criteria - A clinical presentation consistent with neurosyphilis (e.g. 'encephalitis-like symptoms', dementia, ocular or otogenic syphilis)\n\nand either\n\n\\- Positive syphilis serology in serum combined with CSF leukocytes\\>10/mL\n\nor\n\n\\- CSF syphilis antibodies.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients above 17 years of age are prospectively included in the DASGIB cohort by the principal investigator at each site if they have a clinical presentation suggestive of CNS infection (e.g. any combination of neck stiffness, fever, headache or altered mental status) and either (i) Positive CSF culture or positive bacterial/viral DNA-based analysis for (community-acquired) pathogens in the CSF or (ii) a positive blood culture and CSF leukocytes \\>10/mL or (iii) CSF leukocytes \\> 10/mL without any alternative diagnoses more likely to explain the patients' conditions. Exceptions apply for brain abscess, neurosyphilis and neuroborreliosis and exact definitions of included CNS infections are provided below.\n\nWe exclude patients with hospital-acquired CNS infections as defined by the Centers for Disease Control and Prevention (Garner et al, Am J Infect Control, 1988), or an implanted neurosurgical device.",
+  "condition": [
+    "Central Nervous System Infections",
+    "Bacterial Meningitis",
+    "Viral Meningitis",
+    "Aseptic Meningitis",
+    "Encephalitis",
+    "Brain Abscess",
+    "Neuroborreliosis",
+    "Neurosyphilis",
+    "Lyme Disease",
+    "Tertiary Syphilis",
+    "Cerebral Abscess",
+    "Meningitis"
+  ],
+  "overall_status": "RECRUITING"
+}

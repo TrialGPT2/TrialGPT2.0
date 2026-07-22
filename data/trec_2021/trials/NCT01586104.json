@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT01586104",
+  "title": "Intensity-Modulated Radiation Therapy in Treating Younger Patients With Lung Metastases",
+  "brief_summary": "This pilot clinical trial studies intensity-modulated radiation therapy (IMRT) in treating younger patients with lung metastases. Specialized radiation therapy that delivers a high dose of radiation directly to the tumor may kill more tumor cells and cause less damage to normal tissue.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients may have a Wilms tumor, Ewing Sarcoma, Rhabdomyosarcoma or any other metastatic pediatric malignancy; patients may have a single or multiple pulmonary metastases at the time of diagnosis or at the time of recurrence; a pulmonary metastasis may be defined as one pulmonary nodule \\>= 1 cm or more than one pulmonary nodules \\>= 0.5 cm; a biopsy of the nodules may be considered in case of doubt\n* The Karnofsky performance status must be \\>= 50 for patients \\> 16 years of age and the Lansky performance status must be \\>= 50 for patients =\\< 16 years of age\n* Patients must not have received prior radiation therapy to any part of the thorax\n* Adequate cardiac function defined as:\n* Shortening fraction of \\>= 27% by echocardiogram, or\n* Ejection fraction of \\>= 50% by radionuclide angiogram\n\n  * Female patients of childbearing age must have a negative pregnancy test\n  * Female patients who are lactating must agree to stop breast-feeding\n  * Sexually active patients of childbearing potential must agree to use effective contraception\n\nExclusion Criteria:\n\n* Patients enrolled on Children's Oncology Group protocols cannot be treated with whole lung IMRT on this study\n* Patients who have a prior history of radiation therapy to the thorax or adjacent regions cannot be entered on this protocol\n* Patient with Hodgkin's Lymphoma are not eligible for this study\n* Patients with mediastinal masses or other pulmonary masses requiring additional mediastinal or lung irradiation beyond the whole lung irradiation (WLI) doses stated in this protocol are ineligible for this study\n* Patients who may require concurrent or sequential irradiation to sites beyond the chest such as the neck, flank, abdomen or liver are eligible for this study",
+  "minimum_age": "1 Year",
+  "maximum_age": "29 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Adult Rhabdomyosarcoma",
+    "Lung Metastases",
+    "Metastatic Ewing Sarcoma",
+    "Previously Treated Childhood Rhabdomyosarcoma",
+    "Recurrent Adult Soft Tissue Sarcoma",
+    "Recurrent Childhood Rhabdomyosarcoma",
+    "Recurrent Wilms Tumor and Other Childhood Kidney Tumors",
+    "Stage IV Adult Soft Tissue Sarcoma",
+    "Stage IV Wilms Tumor",
+    "Stage V Wilms Tumor",
+    "Unspecified Adult Solid Tumor, Protocol Specific",
+    "Unspecified Childhood Solid Tumor, Protocol Specific"
+  ],
+  "overall_status": "COMPLETED"
+}

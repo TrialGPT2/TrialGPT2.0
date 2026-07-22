@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00039130",
+  "title": "Rituximab, Chemotherapy, and Filgrastim in Treating Patients With Burkitt's Lymphoma or Burkitt's Leukemia",
+  "brief_summary": "RATIONALE: Monoclonal antibodies such as rituximab can locate tumor cells and either kill them or deliver tumor-killing substances to them without harming normal cells. Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Colony-stimulating factors such as filgrastim may increase the numbers of immune cells found in bone marrow or peripheral blood and may help a person's immune system recover from the side effects of chemotherapy. Combining chemotherapy with rituximab and filgrastim may kill more cancer cells.\n\nPURPOSE: Phase II trial to study the effectiveness of combining rituximab with chemotherapy and filgrastim in treating patients who have Burkitt's lymphoma or Burkitt's leukemia.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically, cytogenetically, or immunophenotypically confirmed Burkitt's leukemia or Burkitt's or Burkitt-like lymphoma\n\n  * L3 morphology surface IgG expression\n  * Cytogenetic evidence for t(8;14), t(8;22), or t(2;8)\n* Previously untreated disease except hydroxyurea for leukocytosis\n* CNS involvement allowed\n* Patients with Burkitt's leukemia or Burkitt's lymphoma with bone marrow involvement must also be enrolled on CALGB-8461\n* Patients with Burkitt's leukemia must also be enrolled on CALGB-9665\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 16 and over\n\nHepatic:\n\n* Bilirubin no greater than 1.5 times upper limit of normal (ULN)\n\nRenal:\n\n* Creatinine no greater than 1.5 times ULN\n\nOther:\n\n* HIV negative\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No concurrent interleukin-11\n\nChemotherapy:\n\n* See Disease Characteristics\n* No other concurrent chemotherapy\n\nEndocrine therapy:\n\n* No concurrent hormonal therapy except for non-disease-related conditions (e.g., insulin for diabetes)\n* No concurrent steroids except for adrenal failure\n\nRadiotherapy:\n\n* No concurrent palliative radiotherapy except whole-brain irradiation for documented CNS disease",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Leukemia",
+    "Lymphoma"
+  ],
+  "overall_status": "COMPLETED"
+}

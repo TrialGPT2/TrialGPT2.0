@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03709381",
+  "title": "Effect of Adrenocorticotropic Hormone on Vascular Endothelial Growth Factor Release in Children Study",
+  "brief_summary": "Bone disease and adrenal suppression are two of the many side effects of steroid use in pediatrics. Evidence has shown that adrenocorticotropic hormone (ACTH) protects against the adverse bone effects of steroids in animals and in vitro models, but this has not yet been evaluated in humans. The proposed mechanism in these studies is that ACTH stimulates osteoblasts in bone to release Vascular Endothelial Growth Factor (VEGF), which increases the vascularity in high risk areas of bone. This can potentially be protective against osteonecrosis and osteopenia, which can lead to bone fractures if not prevented. The VEGF release can also be used to demonstrate that an administration of exogenous ACTH occurred. This could be important in diagnosing adrenal insufficiency (AI). One of the tests to assess central AI is the low-dose ACTH stimulation test (LDAST). This test has a high rate of false positive results due to technical limitations. However, if an ACTH-stimulated VEGF level can be measured during the test as a marker of the test being done properly, it will allow for proper interpretation of the results (and identification of a false positive), which will reduce the number of patients being incorrectly diagnosed with central AI.\n\nThis study will recruit ten healthy children and adolescents, ages 9-18, to assess the effects of ACTH on VEGF levels. The investigators will measure the response of VEGF and cortisol to an administration of a low dose and high dose of cosyntropin (the synthetic ACTH analog used in this test). The hypothesis of this study is that VEGF and cortisol will both increase after administration of cosyntropin. At this time, no other studies have demonstrated that VEGF is responsive to ACTH in humans. If the hypothesis is correct, the results will have two main implications. VEGF can be used as a marker of ACTH administration during the LDAST to identify false positive tests. Secondly, this will help further research into whether ACTH can be used to protect against bone disease in high-dose steroid-treated patients. Further studies can be done to assess whether this effect will be the same in patients with AI or steroid-induced adrenal suppression.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Subjects will be between the ages of 9-18 years old on the day of testing\n\nExclusion Criteria:\n\n* Currently taking any medication other than over-the-counter medications (over-the-counter medications will be stopped on the day of the study)\n* Steroid use within the prior six months (including IV, oral, inhaled, and intranasal steroids)\n* Oral Contraceptive Pill use within the prior six months\n* Any chronic medical conditions\n* Pregnancy",
+  "minimum_age": "9 Years",
+  "maximum_age": "17 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Adrenal Insufficiency",
+    "Osteopenia, Osteoporosis",
+    "Steroid Suppression of ACTH Secretion"
+  ],
+  "overall_status": "COMPLETED"
+}

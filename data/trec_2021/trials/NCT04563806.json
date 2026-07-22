@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04563806",
+  "title": "Safety of MRI Compatible Hardware for MRI-based Image Guidance During Spine Surgery",
+  "brief_summary": "This trial investigates the safety and accuracy of using 2 pieces of hardware (a clamp and a needle) that are able to be used with magnetic resonance imaging (MRI) during spinal surgery. During a standard spinal surgery, a computed tomography (CT) scan is used to help plan the placement of surgical instruments used during the procedure or for needle biopsies. Then, the patient is moved to the MRI. For this study, the patient is able to stay in place as the hardware used in this study is able to work with the MRI. Using MRI compatible hardware may allow for an extra degree of safety and facilitate better surgical workflow.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "DEVICE_FEASIBILITY",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients undergoing percutaneous spinal procedures requiring image guidance at MD Anderson\n* Age \\> 18 years old. (The indication for this technique is controversial in skeletally immature patients.)\n* All diagnoses are eligible\n* Vertebral body site to be treated located from T2 to T12\n* Signed informed consent\n\nExclusion Criteria:\n\n* Requires open spinal procedure or a percutaneous procedure without the use of image guidance\n* Unable to tolerate general anesthesia and prone position\n* Unable to undergo MRI scan of the spine",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Thoracic Spine Neoplasm"
+  ],
+  "overall_status": "TERMINATED"
+}

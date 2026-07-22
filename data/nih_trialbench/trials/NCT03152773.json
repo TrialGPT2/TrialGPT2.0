@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT03152773",
+  "title": "Heart Catheterization Using Magnetic Resonance Imaging (MRI) Fluoroscopy and Passive Guidewires",
+  "brief_summary": "Background:\n\nA heart catheterization is a diagnostic heart procedure used to measure pressures and take pictures of the blood flow through the heart chambers. Magnetic resonance imaging (MRI) fluoroscopy shows continuous pictures of the heart chambers that doctors can watch while they work. Researchers want to test this procedure with catheterization tools routinely used in x-ray catheterization called guidewires. Guidewires will help move the heart catheter through the different heart chambers. Guidewires are usually considered unsafe during MRI because MRI can cause a guidewire to heat while inside the blood vessels and heart. Researchers are testing special low energy MRI settings that allow certain guidewires to be used during MRI catheterization without heating. Using these guidewires during MRI may help to decrease the amount of time you are in the MRI scanner, and the overall time the MRI catheterization procedure takes.\n\nObjectives:\n\nTo test if certain MRI settings make it safe to use a guidewire during MRI fluoroscopy.\n\nEligibility:\n\nAdults 18 and older whose doctors have recommended right heart catheterization.\n\nDesign:\n\nResearchers will screen participants by reviewing their lab results and questionnaire answers.\n\nParticipants may give 4 blood samples.\n\nParticipants will be sedated. They will have a tube (catheter) placed in the groin, arm, or neck if they don t already have one.\n\nPatches on the skin will monitor heart rhythm. Special antennas, covered in pads, will be placed against the body.\n\nParticipants will lie flat on a table that slides in and out of the MRI scanner as it makes pictures. Participants will get earplugs for the loud knocking noise. They can talk on an intercom. They will be inside the scanner for up to 2 hours. They can ask to stop at any time.\n\nDuring a heart catheterization, catheters will be inserted through the tubes already in place. The catheters are guided by MRI fluoroscopy into the chambers of the heart and vessels. The guidewire will help position the catheter.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Age greater than or equal to 18 years old\n* Undergoing medically necessary diagnostic or interventional right cardiovascular catheterization, alone or in combination with a left cardiovascular catheterization\n\nEXCLUSION CRITERIA:\n\n* Cardiovascular instability including ongoing acute myocardial infarction, refractory angina or ischemia, and decompensated congestive heart failure.\n* Women who are pregnant or nursing\n* Unable to undergo magnetic resonance imaging\n\n  * Cerebral aneurysm clip\n  * Neural stimulator (e.g. TENS-Unit)\n  * Any type of ear implant\n  * Ocular foreign body (e.g. metal shavings)\n  * Metal shrapnel or bullet.\n  * Any implanted device (e.g. insulin pump, drug infusion device), unless it is labeled safe for MRI\n\nEXCLUSION CRITERIA FOR GADOLINIUM-BASED CONTRAST AGENTS:\n\nRenal excretory dysfunction, estimated glomerular filtration rate \\< 30 mL/min/1.73m2 body surface area according to the Modification of Diet in Renal Disease criteria\n\nGlomerular filtration rate will be estimated using the CKD-EPI equation:\n\neGFR = 141 x (minimum of (S(Cr)/k, 1)\\^alpha x (maximum of (S(Cr) /k, 1))\\^-1.209 x 0.993\\^Age x 1.018 (if female) x 1.159 (if black)\n\nWhere\n\nS(Cr) = serum creatinine\n\nalpha = -0.329 for females and -0.411 for males\n\nk = 0.7 for females and 0.9 for males\n\nSubjects meeting this exclusion criterion may still be included in the study but may not be exposed to gadolinium-based contrast agents.\n\nExclusion criteria for ferumoxytol:\n\n* Allergy to ferumoxytol or to mannitol excipient\n* Does not wish to be exposed to ferumoxytol\n\nExclusion criteria for MRI left heart catheterization:\n\n-Severe aortic valve stenosis",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pulmonary Artery Hypertension",
+    "Congenital Heart Disease",
+    "Structural Heart Disease"
+  ],
+  "overall_status": "SUSPENDED",
+  "line_of_therapy_overall_summary": "This trial enrolls adults undergoing medically necessary diagnostic or interventional right heart catheterization, regardless of cancer history or prior systemic therapy. There are no requirements or restrictions related to prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on the need for right heart catheterization and does not reference cancer, systemic therapy, or lines of therapy for advanced disease. No information is provided regarding prior cancer treatments or adjuvant-only patients."
+    }
+  ]
+}

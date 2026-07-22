@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01618721",
+  "title": "Detection and Characterization of Pulmonary Disease by Transthoracic Doppler (TTD)",
+  "brief_summary": "The study seeks to characterize data obtained from patients with a variety of lung diseases using ultrasound Doppler signals obtained from lung tissue. A standard ultrasound device in a Doppler mode is placed on the chest wall and the unique software the investigators have developed analyzes the signals reflected from within the lung. On the basis of of pilot studies performed previously the investigators expect to receive different signals from different diseases that will enable diagnosis of different lung diseases.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Able and willing to provide informed consent\n* Age 18 years or older\n* Clinic and hospital records including additional background medical data such as results of echocardiograms, cardiac catheterization pathology reports etc., available and accessible.\n* Evaluation by a physician who determines that a High Resolution Computed Tomography (HRCT) of the Thorax and pulmonary function tests, including spirometry, lung volumes and diffusion capacity, are indicated as part of the standard clinical care.\n* If full lung function tests are normal imaging with a regular chest x-ray is sufficient.\n\n  * Study Population - subjects will be grouped based on the following criteria after obtaining pulmonary function tests and HRCT of the thorax -\n\n    1. COPD based on clinical assessment and spirometry showing airflow limitation i.e., (FEV1/FVC \\< 0.70).\n    2. Interstitial lung disease (ILD) diagnosed by HRCT.\n    3. Control subjects presenting with pulmonary complaints evaluated by full PFTs (spirometry, lung volume and DLCO) and a chest x-ray and/or HRCT , all found to be within normal limits, .\n\n       Exclusion Criteria:\n  * Primary or metastatic lung cancer.\n  * Acute pneumonia.\n  * Concomitant or previous diagnosis of Bronchial Asthma.\n  * Patients with severe chest wall deformity\n  * Decompensated heart failure or volume overload.\n  * Significant right-sided pleural effusion.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients are referred to the outpatient pulmonary clinics or PFT lab for further workup",
+  "condition": [
+    "Lung Disease, Chronic Obstructive",
+    "Lung Disease, Interstitial"
+  ],
+  "overall_status": "TERMINATED"
+}

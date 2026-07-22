@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01477138",
+  "title": "RV Septal Versus Minimized RV Pacing in Sick Sinus Syndrome",
+  "brief_summary": "Background:\n\n* Potential negative effects of pacing in the RV-apex are well documented\n* However, study results comparing septal / RVOT-pacing versus RV-apical pacing controversial.\n* The optimal pacing mode in SSS (DDDR versus AAIR) is unclear, as the DDD (R) mode with an AV delay \u2264 220 ms should be the preferred pacing mode, according to the DANPACE trial \\[DANPACE, ESC 2010, Stockholm\\].\n\nAim:\n\n\\- to evaluate chronic effects of proven right ventricular septal compared to minimized right ventricular septal pacing in patients with SSS\n\nInclusion criterion:\n\n-Pacemaker indication according to current guidelines: sick sinus syndrome (SSS)\n\nExclusion criteria:\n\n* Life expectancy \\< 2 years\n* Age \\<18 years\n* Noncompliance with regard to participation in the study\n* Pregnancy\n* AV block \u00b0 2 and higher\n* Permanent atrial fibrillation\n* Heart failure NYHA III and IV, reduced LV-EF \\<40%\n* ICD indication\n* Acute coronary syndrome. PCI or CABG \\<3 months\n* Heart transplant\n* Placement of septal RV electrode is not possible\n\nStudy design:\n\n* Prospective, monocentric, randomized, double-blinded\n* Run-in phase: for weeks AAI \\[R\\]-DDD \\[R\\]\n* Randomization: two groups A) septal right ventricular chamber pacing: mode DDD \\[R\\] versus B) Reduction of unnecessary ventricular pacing: AAI \\[R\\]-DDD \\[R\\].\n* FU: 6 and 12-months\n\nPrimary endpoints:\n\n-LV ejection fraction and end-systolic LV volume after 12 months.\n\nSecondary endpoints:\n\n-LV end-diastolic volume, TAPSE, parameters of dyssynchrony (SPWMD, LV-PEP, IVMD), AF-burden, % ventricular pacing, CPX: peak oxygen consumption (peak VO2), VO2 AT, VO2/HR, VE/VCO2 slope; QoL scores (SF-36) after 12 months.\n\nStatistics/sample size estimation:\n\nIn order to detect a difference in LVEF of 5% and for LV-ESV of 5 mL between the 2 groups after 12 months:\n\n* 90% power/alpha 5%: 84 patients per group\n* 80% power/alpha 5%: 63 patients per group\n\n  * 10% for compensation of drop-outs / patients lost of follow-up. Two-sided 5% type 1 error Analysis intention-to-treat and based on the finally programmed pacing mode.\n\nMaterial\n\n* PG: market released dual chamber pacemakers with the ability to pace AAI(R) -DDD(R)\n* pacing leads: market-released standard active electrodes\n* RV electrode: septal verified under multi-level screening (RAO/LAO) and ECG (LBBB narrow \\<150 ms / inferior axis)",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Pacemaker indication according to current guidelines: sick sinus syndrome (SSS)\n\nExclusion Criteria:\n\n* Life expectancy \\<2 years\n* Age \\< 18 years\n* Noncompliance with regard to participation in the study\n* Pregnancy\n* AV block \u00b0 2 and higher\n* Permanent atrial fibrillation\n* Heart failure NYHA III and IV, reduced LV-EF \\< 40%\n* ICD indication\n* Acute coronary syndrome. PCI or CABG \\< 3 months\n* Heart transplant\n* Placement of septal RV electrode is not possible",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adults with symptomathic sick sinus syndrome",
+  "condition": [
+    "Sick Sinus Syndrome"
+  ],
+  "overall_status": "UNKNOWN"
+}

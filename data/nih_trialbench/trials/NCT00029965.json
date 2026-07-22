@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT00029965",
+  "title": "Natural History of Glycosphingolipid Storage Disorders and Glycoprotein Disorders",
+  "brief_summary": "Study description:\n\nThis is a natural history study that will evaluate any patient with enzyme or DNA confirmed GM1 or GM2 gangliosidosis, sialidosis or galactosialidosis. Patients may be evaluated every 6 months for infantile onset disease, yearly for juvenile onset and approximately every two years for adult-onset disease as long as they are clinically stable to travel. Data will be evaluated serially for each patient, and cross-sectionally for patients of similar ages and genotypes. Genotype-phenotype correlations will be made where possible although these are rare disorders and the majority of the patients are compound heterozygotes.\n\nObjectives:\n\nTo study the natural history and progression of neurodegeneration in individuals with glycosphingolipid storage disorders (GSL), GM1 and GM2 gangliosidosis, and glycoprotein (GP) disorders including sialidosis and galactosialidosis using clinical evaluation of patients and patient/parent surveys.\n\nTo develop sensitive tools for monitoring disease progression.\n\nTo identify biological markers in blood, cerebrospinal fluid, and urine that correlate with disease severity and progression and can be used as outcome measures for future clinical trials.\n\nTo further understand and characterize the mechanisms of neurodegeneration in GSL and GP storage disorders across the spectrum of disease beginning with ganglioside storage in fetal life.\n\nEndpoints:\n\nExploring the natural history of Lysosomal Storage Diseases and Glycoprotein Disorders\n\nStudy Population:\n\nPatients with enzyme or DNA confirmed GM1 or GM2 gangliosidosis, sialidosis or galactosialidosis. Accrual ceiling is 200 participants. No exclusions based on age, gender, demographic group, or demographic location. Patients included in our study are those that are seen at the NIH Clinical Center, subjects that have only sent in blood samples, as well as those who complete the questionnaire or provided head circumference measures.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAny individual with GM1 or GM2 gangliosidosis, sialidosis or galactosialidosis documented by enzyme deficiency or mutation analysis in a CLIA-approved laboratory will be eligible for the study.\n\nEXCLUSION CRITERIA:\n\nThere will be no exclusion based on race, gender, or ethnicity; however particular ethnic groups may be overrepresented due to the frequency of the diseases in a specific population (e.g., Ashkenazi Jews in infantile and adult GM2 and Roma \"travelers\" in juvenile GM1). The majority of juvenile subjects will have severely impaired decision-making and even informed assent in older children may not be possible. Children with Morquio B disease are not expected to be cognitively impaired. The children with Morquio B ages 7-11 years will be asked to give verbal assent and ages 12-17 years will be asked to give written assent to the protocol. Some subjects who have reached the age of 18 may need to have legally authorized representative (usually their parents) sign consent on their behalf.",
+  "minimum_age": "1 Day",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with Lysosomal Storage Diseases and Glycoprotein Disorders.",
+  "condition": [
+    "Neurological Regression",
+    "Myoclonus",
+    "Cherry Red Spot",
+    "Brain Atrophy"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study enrolling all patients with enzyme or DNA confirmed GM1 or GM2 gangliosidosis, sialidosis, or galactosialidosis, regardless of prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "The eligibility criteria allow any individual with a confirmed diagnosis, with no mention of prior systemic therapy or treatment history. Patients are eligible regardless of prior therapy, including those who are treatment-naïve or have only received adjuvant therapy."
+    }
+  ]
+}

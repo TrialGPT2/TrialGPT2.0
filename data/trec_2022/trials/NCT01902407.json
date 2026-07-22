@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01902407",
+  "title": "Computer Models of Airways in Children and Young Adults With Sleep Apnea and Down Syndrome",
+  "brief_summary": "The purpose of this research study is to develop a way of predicting with computers how surgery on the airway will affect night time breathing called Obstructive Sleep Apnea (OSA) in children with Down Syndrome.\n\nA research measurement for airway resistance will also be done during the clinical sleep MRI. The airway resistance measurement will take about 10 minutes and is done during sleep. The airway resistance measurement is called critical closing pressure (Pcrit).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. All patients seen at CCHMC (up to 90 years of age) who are scheduled to have a clinical sleep MRI or CT scan for their OSA airway or lung disease.\n2. Both Sleep diagnostic tests (Sleep MRI and CT scans).\n\nExclusion Criteria:\n\n* Those patients whose body weight (\\>350 pounds) or circumference is greater than what can be safely accommodated by the MRI scanner\n* Patients with pacemakers or other non-MRI compatible devices\n* Patients with extensive dental hardware that causes MR artifact obscuring visualization of the area of interest.\n* Body Mass Index (BMI) \\> 40",
+  "minimum_age": "1 Year",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients seen at CCHMC (up to 90 years of age) who are scheduled to have a clinical sleep MRI or CT scan for their OSA airway or lung disease.\n\nScheduled for both Sleep diagnostic tests (Sleep MRI and CT scans)",
+  "condition": [
+    "Down Syndrome",
+    "Obstructive Sleep Apnea"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION"
+}

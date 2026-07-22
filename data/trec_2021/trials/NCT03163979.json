@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03163979",
+  "title": "Individualized Precise Radiotherapy With the Guidance of Radiosensitivity of Locally Advanced Cervical Cancer",
+  "brief_summary": "Cisplatin-based chemoradiation (CCRT) has been considered as the standard care for patients with locally advanced cervical cancer (LACC). Nevertheless, increasingly more radio-resistant tumors still recur. IMRT including Rapid-Arc have obvious advantage in the dose distribution and organ protection, and positron emission tomography (PET) with F-18 fluorodeoxyglucose (FDG) and Comet analysis have good sensitivity for detecting sites and radiosensitivity of disease. These may be helpful to individualized CCRT of LACC.\n\nThree hundred LACC patients are enrolled in the study, who were with FIGO stages IB2-IVA and had no para-aortic lymphadenopathy (\\>10 mm) assessed by PET-CT or MRI. All the patients received definitive radiotherapy consisting of external beam whole pelvic RT and HDR-ICBT. The cumulative linear quadratic equivalent dose (EQD2) was 70-75Gy prescribed at point A. Cisplatin 30 mg/m2 weekly was administered concurrently for 5 courses. 2-4 cycles TP (Taxol 135 mg/m2, D1 and DDP 25 mg/m2, D1-3) regimen sequential chemotherapy were performed if complete response (CR) not achieved according to magnetic resonance imaging (MRI) or PET-CT after CCRT. Hypothesis of the study is that CCRT and sequential chemotherapy is safe. Based on FDG-PET/CT and Comet assay, higher doses can be safely delivered individually to accurate tumor volume, while the doses to bladder and rectum are relative low. Comet and FDG-PET/CT-guided IMRT including RapidArc may improve survival in terms of time to progression (TTP), progression-free survival (PFS) and overall survival (OS) and less treatment-related toxicity. The data will be observed and analyzed.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age : 18-70 years old;\n2. Histology or cytology confirmed cervical squamous cell carcinomas;\n3. 2009 FIGO stage includes\u2160B2, \u2161A2, \u2161B-\u2163A;\n4. Performance status(PS): 0-1;\n5. Peripheral blood meet the following conditions: neutrophil count \\> 2.0 \\* 109/L, white blood cell count \\> 4.0 \\* 109/L, the platelet count \\> 100.0 \\* 109/L;\n6. Liver and kidney function meet the following conditions: bilirubin \\< 1.5 mg/dl, AST and ALT \\< 2 times the upper limit of normal serum creatinine \\< 1.5 mg/dl, creatinine clearance \\> 50 ml/min;\n7. Signed informed consent before treatment.\n\nExclusion Criteria:\n\n1. There is no definite pathological diagnosis;\n2. Clinical or imaging examination revealed distant metastases;\n3. Pelvic had received radiotherapy;\n4. Patients can't attend the study because of the associated with other diseases;\n5. Patients can't sign the informed consent because of mental disorders, mental disorders;\n6. Uncontrolled active infection;\n7. No follow-up.",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Cervical Cancer"
+  ],
+  "overall_status": "UNKNOWN"
+}

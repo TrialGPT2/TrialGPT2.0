@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT02153957",
+  "title": "Trial Evaluating an Enhanced Physical Activity Intervention to Improve Cognitive Late Effects in Children Treated With Cranial Radiation for Brain Tumors",
+  "brief_summary": "Background:\n\n\\- More children with cancer are surviving into adulthood. Some side effects from treatment go away quickly. But some problems may not go away or may only show up months or years later. These problems are called late effects. Late effects can cause difficulties in cognitive functions, such as attention and memory. Physical activity has been found to improve the attention and memory skills of children with Attention Deficit Hyperactivity Disorder (ADHD). Researchers want to see if physical activity can help with these cognitive problems in children with brain tumors.\n\nObjectives:\n\n\\- To see if physical activity can improve cognitive functions in children who had radiation therapy for a brain tumor.\n\nEligibility:\n\n\\- Children ages 8 17 who had radiation for a brain tumor at least 2 years ago. They must have access to a computer.\n\nDesign:\n\n* Participants will be screened with height, weight, and medical history. They will answer questions about daily physical activities. Their heart will be checked.\n* Participants will go to the clinic for 2 days. They will have a fitness exam and tests about attention, memory, and concentration. They will have blood taken and answer questions. Parents will also answer questions.\n* Participants will be put into 2 groups. For the first 12 weeks, the intervention group will follow a physical activity program. The control group will do their usual physical activities.\n* For the second 12 weeks, the control group will follow the physical activity program. The intervention group will continue the activities on their own. All groups will track their physical activity with an activity monitor and computer.\n* Participants will have a follow-up visit at the clinic after each session. They will repeat some of the tests listed above.\n* The study lasts 24 weeks plus the two follow-up visits. Participants can keep their activity monitor.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Children ages 8 - 18 years of age, diagnosed with brain tumor in childhood.\n  2. Must be at least 1 year post completion of radiation therapy to the brain or brain and spine.\n  3. Must be off anti-neoplastic therapy for at least 2 weeks and all therapy-related toxicities should return to baseline or less than or equal to Grade 1 if previously nonexistent.\n  4. Have parent-reported or documented difficulties in attention, processing speed, memory, or learning as assessed by the screening questions (a score of at least 3 on any one of the 4 questions or the participant having greater than or equal to 1/2 SD decline in test scores, scores \\< 85, or special education services or accommodations).\n  5. Must have a parent or legal guardian willing to complete the parent proxy behavioral questionnaires and help their child participate in the study procedures at home.\n  6. Ability to read and understand the English language.\n  7. Have regular access to a computer a tablet, or a smartphone (the device must have either a USB port or Bluetooth with internet capability).\n  8. Must be willing to register online and install the software to use an age-appropriate activity monitor and website/app which will include sharing some personal identifiable information, to allow the participant to track their physical activity.\n  9. Ability of subject or parent/guardian to understand and willingness to sign a written informed consent document.\n\nPARENT OR GURADIAN OF PARTICIPATING SUBJECT:\n\n1. Parent or Guardian of participating subject\n2. Ability to understand and willingness to sign a written informed consent document\n3. Ability to read and understand the English language.\n\nEXCLUSION CRITERIA\n\n1. A child with diffuse intrinsic pontine glioma (DIPG) or recurrent high grade brain tumors will be excluded due to the poor prognosis, making participation for the length of this study difficult.\n2. Significant medical problems, such as severe uncontrolled illnesses, or physical impairments that prohibit the child from exercising at moderate to vigorous levels based on the clinical judgment of the examining physician or nurse practitioner.\n3. Currently engaging in \\> 3 hours of moderate to vigorous physical activity per week, as reported in the exercise screening questions completed at the pre-study screening evaluation.\n4. Significant cognitive, behavioral, or emotional impairments as judged by an investigator that would prevent the child from understanding or completing the intervention or assessment measures.\n5. A child has plans to start a new treatment for attention/memory problems in the next 3 months.\n6. Currently on or planning to begin active neoplastic therapy, as the side effects may significantly impair ability to participate in physical activity.\n7. Unable or unwilling to travel to NIH or DFCI/BCH for the evaluations.\n8. History of medical non-compliance or difficulty completing previous required study tasks or visits that suggest the participant would not follow through with the home study procedures.\n\nPARENT OR GUARDIAN EXCLUSION CRITERIA:\n\n1\\. Parent or guardian of an ineligible subject",
+  "minimum_age": "8 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Brain Tumor"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls pediatric brain tumor survivors who are at least one year post-radiation therapy and off anti-neoplastic therapy, regardless of prior lines of systemic therapy for advanced disease. The study does not focus on treatment for advanced or metastatic disease, and prior systemic therapy for advanced disease is not a criterion.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on being at least one year post-radiation therapy for a brain tumor and off anti-neoplastic therapy, with no mention of prior systemic therapy for advanced or metastatic disease. The protocol does not specify or restrict based on lines of therapy for advanced disease, nor does it clarify the inclusion or exclusion of adjuvant-only patients."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03975790",
+  "title": "Comparative Analysis of Outcomes Among Patients Initiating Xeljanz in Combination With Oral MTX Who Withdraw MTX Versus Continue MTX",
+  "brief_summary": "To address the objectives, a retrospective cohort design will be employed to evaluate patient characteristics, treatment patterns, medication effectiveness, and health care cost and utilization in RA patients newly initiating tofacitinib in combination with oral methotrexate (MTX)",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* At least one claim for tofacitinib between 01 January 2014 and 31 January 2017 (the identification period).\n* Presence of The International Classification of Diseases, 9th Revision, Clinical Modification (ICD-9 CM) code for RA (in any position) during the one-year pre-index period or on the index date. ICD-9 = 714.0x-714.4x \\& 714.81 or ICD10 = M05.\\* \\& M06.0\\*-M06.3\\* or M06.8\\*-M06.9\\*.\n* At least 18 years old as of the index date.\n\nExclusion Criteria:\n\n* Patients with claims for other conditions for which biologics are used during the one-year pre-index period or on the index date: ankylosing spondylitis, Crohn's disease, psoriasis, psoriatic arthritis, or ulcerative colitis will be excluded from the study.\n* Patients with evidence of the index medication during the one-year pre-index period will be removed from the analysis. Patients will be allowed to have been treated with other biologics approved for RA (Tumor-Necrosis Factor-alpha inhibitors (TNFi) \\[adalimumab (Humira), etanercept (Enbrel), certolizumab pegol (Cimzia), golimumab (Simponi), infliximab (Remicade)\\] and non-TNFi's with alternative mechanisms of action \\[abatacept (Orencia), and rituximab (Rituxan), anakinra (Kineret), tocilizumab (Actemra)\\]) during the one-year pre-index period.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals who are privately insured and with Medicare Supplemental insurance",
+  "condition": [
+    "Rheumatoid Arthritis"
+  ],
+  "overall_status": "COMPLETED"
+}

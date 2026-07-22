@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03010709",
+  "title": "Multimodality Monitoring Directed Management of Aneurysmal Subarachnoid Haemorrhage",
+  "brief_summary": "Aneurysmal subarachnoid haemorrhage (aSAH) affects up to 10,000 individuals per year in the UK. It accounts for \\~5% of strokes, but is responsible for about 25% quality-adjusted life years (QALYs) lost due to stroke. Although early repair of ruptured aneurysms and aggressive postoperative management has improved overall outcomes, it remains a devastating disease with mortality approaching 50%. Survivors are left with neurological injuries that range from subtle cognitive deficit to disabling cerebral infarctions, less than 60% them returning to functional independence.\n\nSAH triggers a series of pathological processes resulting in neuronal damage and consequent neurological deficit termed early brain injury (EBI). Many of the patients who survive the initial bleed, deteriorate days later from delayed ischaemic neurological deficit (DIND), which causes poor outcome or death in up to 30% of patients with SAH. Both of these pathological processes are still poorly understood which limits the number of treatment options.\n\nDIND is treated with blood pressure augmentation to ensure adequate blood flow in the brain. In awake patients, response can be easily and accurately assessed by performing a thorough neurological examination. In patients whose clinical condition demands sedation, intubation and ventilation, assessing response to treatment using the neurological examination is virtually impossible. Multimodality monitoring (MM), primarily microdialysis and brain tissue oxygen tension with catheters inserted into the relevant parts of the brain offer direct assessment of both delivery and utilisation of metabolic substrates at the cellular level. These can be used for early detection of DIND as well as monitoring during blood pressure augmentation. The aim of this study is to establish and validate a clinical protocol for MM derived management of SAH patients, to determine optimal therapies for correcting abnormalities in brain metabolism and explore the relationship between MD and other monitoring modalities.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Aneurysmal Subarachnoid Haemorrhage\n* Patient in Neurosciences Critical Care Unit\n* Patient likely to survive for at least 24 hours\n\nExclusion Criteria:\n\n1. Patient unsuitable for microdialysis monitoring\n\n   * bleeding diathesis\n   * thrombocytopaenia (platelets \\< 100 x 10e9 per litre)\n2. Non-survivable brain injury i.e. patient not expected to survive more than 24 hours",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patient with aneurysmal subarachnoid haemorrhage who require intubation and ventilation and admission to the critical care unit.",
+  "condition": [
+    "Subarachnoid Hemorrhage, Aneurysmal"
+  ],
+  "overall_status": "UNKNOWN"
+}

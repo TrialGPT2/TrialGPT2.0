@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03387280",
+  "title": "ECG Identifying the Culprit Coronary Artery",
+  "brief_summary": "Acute myocardial infarction (AMI) usually occurs suddenly and is associated with considerably high mortality rate. The infarct-related artery in inferior wall AMI is usually located at right coronary artery (RCA), less often at left circumflex coronary artery (LCX). Inferior wall AMI occlusive site before the first right ventricular branch of RCA was more frequently associated with right ventricular infarction, which had higher incidence of bradyarrhythmia, shock, and in-hospital death. Early recognition of the site of infarct-related artery especially combination with right ventricular infarction and respond promptly may result in a significant reduction in in-hospital mortality and morbidity. There were several non-invasive methods to predict the culprit site, which including: radioneuclear imaging study, echocardiography or electrocardiogram. Among these methods, electrocardiogram is one of the most simple and convenient tool. Several algorisms have investigated but these algorisms included using leads III, II, I, aVL, V1, V2, V3, V5 and V6, which can only differentiate RCA and LCX lesions but cannot assure whether the culprit site is located at proximal or distal RCA. Thus, the aim of this study is designing a method which is simple and useful in identifying the culprit sites in inferior wall acute myocardial infarction (AMI).\n\nAccording to the medical record, patients with inferior wall AMI who have no previous history of MI (or the first AMI attack) will be enrolled. These patients are divided into 3 groups from coronary angiography, depending upon the culprit lesion (1) before (proximal) or (2) after (distal) the right ventricular branch of RCA and (3) LCX. A two-step study strategy will be performed to analyze which electrocardiographic variables are capable of discriminating the culprit site of coronary artery. Using the area under the receiver operating characteristic (ROC) curve analysis, we plan to determine which one of the above variables is the most powerful criterion in discriminating the culprit site of coronary artery. Due to the fact that the case number of the first inferior AMI will be limited, this study will be carried out at 3 hospitals in order to collect more cases with the coming year.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* first attacked acute inferior MI patients\n\nExclusion Criteria:\n\n* those with 1). previous AMI, 2). coronary artery bypass surgery, 3). electrocardiographic evidence of bundle branch block, 4). undetermined culprit site by coronary angiography, 5) first electrocardiogram obtained more than 12 hours after the onset of symptoms.",
+  "minimum_age": "40 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "From review of the medical records, patients suffered from first inferior wall AMI will be enrolled in this study. The diagnosis of acute inferior AMI includes: 1) chest pain \\> 30 minutes; 2) ST elevation \\> 1mm in at least two of the three inferior lead (II, III, AVF); and 3) 2-fold increase in serum creatine kinase levels. At least 2 of the above 3 criteria are necessary to confirm the diagnosis.",
+  "condition": [
+    "Acute Myocardial Infarction, of Inferolateral Wall",
+    "Acute Myocardial Infarction, of Inferoposterior Wall"
+  ],
+  "overall_status": "UNKNOWN"
+}

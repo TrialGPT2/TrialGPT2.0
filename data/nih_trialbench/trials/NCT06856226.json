@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT06856226",
+  "title": "Natural History Study to Determine Drug Metabolism Phenotype and Appropriate Germline Source DNA in Patients Undergoing Allogeneic Hematopoietic Stem Cell Transplant",
+  "brief_summary": "Background:\n\nAfter an allogeneic hematopoietic stem cell transplant (HSCT), the donor genome is found in the recipient s circulation and tissues.\n\nPost-HSCT recipients may receive a medication in which the dosing needs to be adjusted based on genetic variation.\n\nWhile genes in donor genome may influence dosing and administration of some agents, the majority of established gene-drug pairs in pharmacogenetics are related to expression of metabolic or transporting enzymes located in recipients tissues, often the liver.\n\nDetermining which genetic variants influence drug disposition in HSCT recipients is complicated by chimerism in samples that are routinely collected for determining genotype. However, chimerism in tissues is poorly studied in this patient population.\n\nObjectives:\n\nTo determine the most reliable host genomic source for pharmacogenetic testing in participants that have received allogeneic HSCT.\n\nEligibility:\n\nPeople ages 18 years and older who are enrolled on a clinical trial at the NIH Clinical Center under which they will donate or receive an allogeneic HSCT.\n\nDesign:\n\nDNA is collected prior to HSCT and for two years after HSCT.\n\nBlood will be collected and skin fibroblast cell lines will be established prior to HSCT to serve as a reference genome.\n\nBlood, buccal cells, skin, and hair will be monitored for the development of mixed chimerism via detection of short tandem repeats. Liver biopsies will be collected from participants undergoing hepatic surgery.\n\nPharmacoscan arrays will be conducted to determine which samples are useful for pharmacogenetic testing in participants who receive allogeneic HSCT.\n\nA probe drug cocktail will be administered pre- and post-HSCT to determine if transplantation alters the metabolic phenotype of liver enzymes.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Age \\>=18 years\n* Participants must be enrolled on a clinical trial at the NIH Clinical Center (CC) under which they will donate or receive an allogeneic HSCT. The participant and their donor must enroll together to provide a complete set of samples for analysis.\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n* Donors are not allowed to enroll without a recipient\n* Prior allogeneic HSCT\n* History of psychiatric disorder which may compromise compliance with protocol requirements.\n* Pregnant and lactating individuals",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Any gender, any age greater than or equal to 18 years, who will donate or receive an allogeneic HSCT.",
+  "condition": [
+    "Leukemia",
+    "Lymphoma",
+    "Hematologic Malignancy"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history and pharmacogenetics study enrolling patients undergoing allogeneic HSCT, regardless of prior systemic therapy for advanced disease. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced/metastatic disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based solely on undergoing allogeneic HSCT as part of another clinical trial, with no mention of prior systemic therapy for advanced disease. There are no criteria specifying or restricting the number of prior lines of therapy, nor is adjuvant/neoadjuvant therapy addressed. Line-of-therapy intent is not defined in the protocol."
+    }
+  ]
+}

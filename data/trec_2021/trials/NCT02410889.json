@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02410889",
+  "title": "EEG-fMRI: Towards a Useful Clinical Tool in Epilepsy",
+  "brief_summary": "The purpose of this project is to develop the method of combined recording of electroencephalography (EEG) and functional magnetic resonance imaging (fMRI) in order to improve understanding of the relationship between electrical (EEG) and blood flow (fMRI) responses to epileptic discharges as a necessary step towards clinical use. One factor that currently limits the use of EEG-fMRI in patients with epilepsy is that a relatively large proportion of patients do not show any fMRI response despite epileptic activity having been detected on the EEG recorded during scanning. The reasons for this are unclear, which makes it difficult to predict in advance whether useful information will be gained from the scanning session. What is it about some epileptic discharges that results in a detectable change in the fMRI signal, while others which are no less obvious or frequent do not? This question will be addressed by determining the factors that are responsible for the occurrence of robust fMRI signal changes via detailed morphological, topographical and spectral analysis of the EEG signal on an event by event basis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. adults with no contraindications to MRI scanning. Initial screening for MR compatibility will be performed at recruitment.\n2. epilepsy with interictal epileptic discharges evident on scalp EEG.\n3. rarity or lack of seizures. This is an important point to minimise the risk of the patient having a seizure during scanning.\n4. expected rate of interictal epileptic discharges sufficient to allow at least 10 but less than 200 events to be recorded per hour. Both too few and too many events make interpretation of the EEG-fMRI results difficult.\n5. willingness to remain in the scanner for a minimum of 40 minutes. This ensures that a reasonable amount of fMRI data is collected. It is important that motivated subjects are recruited, preferably those who have previously undergone MRI scanning and so have some idea of the environment.\n\nExclusion Criteria:\n\n1. contraindications to MRI scanning.\n2. epilepsy with rare or absent interictal discharges, or frequent seizures.\n3. patient is unable to give informed consent or understand the nature of the study.\n4. neurological or psychiatric diagnosis other than epilepsy.",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with epilepsy with interictal epileptic discharges evident on scalp EEG.",
+  "condition": [
+    "Epilepsy"
+  ],
+  "overall_status": "COMPLETED"
+}

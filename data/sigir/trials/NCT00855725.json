@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00855725",
+  "title": "Affective Processing in Depression and Epilepsy",
+  "brief_summary": "The goal of this study is to determine whether there are unique markers on neuroimaging that are associated with depression in epilepsy.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "For Control Group\n\nInclusion Criteria:\n\n* Healthy adults of 18 years of age or older.\n\nExclusion Criteria:\n\n* Subject has no history of affective disorders\n* Subject scores higher than 5 on Hamilton Depression Rating Scale\n* Subject with prior primary diagnosis of any psychotic disorder, bipolar disorder, anxiety disorder, or any other serious medical or neurological disorder\n* Subject is pregnant\n* Subject is unable to undergo a MRI\n\nEpilepsy Only Group\n\nInclusion Criteria:\n\n* Subject is at least 18 years of age\n* Subject has confirmed temporal lobe epilepsy (TLE)\n\nExclusion Criteria:\n\n* Subject has a history of depression\n* Subject scores higher then 5 on Hamilton Depression Rating Scale\n* Subject with prior primary diagnosis of any psychotic disorder, bipolar disorder, anxiety disorder, or any other serious medical or neurological disorder\n* Subject is pregnant\n* Subject is unable to undergo a MRI\n\nDepression Only Group\n\nInclusion Criteria:\n\n* Subject is at least 18 years of age\n* Subject scores between 12 and 18 on Hamilton Depression Rating Scale\n\nExclusion Criteria:\n\n* Subject scores higher than 18 on Hamilton Depression Rating Scale\n* Subject is currently being medicated for depression\n* Subject has history of major depression or dysthymia\n* Subject with prior primary diagnosis of any psychotic disorder, bipolar disorder, anxiety disorder, or any other serious medical or neurological disorder\n* Subject is pregnant\n* Subject is unable to undergo a MRI\n\nDepression and Epilepsy Group\n\nInclusion Criteria:\n\n* Subject has confirmed temporal lobe epilepsy (TLE)\n* Subject scores between 12 and 18 on Hamilton Depression Rating Scale\n\nExclusion Criteria:\n\n* Subject has history of major depression or dysthymia\n* Subject is currently on medication for depression\n* Subject with prior primary diagnosis of any psychotic disorder, bipolar disorder, anxiety disorder, or any other serious medical or neurological disorder\n* Subject is pregnant\n* Subject is unable to undergo a MRI",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "There are four study groups.\n\n1. Healthy Controls\n2. Subjects with epilepsy only\n3. Subjects with primary depression only\n4. Subjects with epilepsy and depressive symptoms.",
+  "condition": [
+    "Epilepsy",
+    "Depression",
+    "Healthy"
+  ],
+  "overall_status": "TERMINATED"
+}

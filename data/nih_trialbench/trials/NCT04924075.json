@@ -1,0 +1,39 @@
+{
+  "nctid": "NCT04924075",
+  "title": "Belzutifan/MK-6482 for the Treatment of Advanced Pheochromocytoma/Paraganglioma (PPGL), Pancreatic Neuroendocrine Tumor (pNET), Von Hippel-Lindau (VHL) Disease-Associated Tumors, Advanced Gastrointestinal Stromal Tumor (wt GIST), or Solid Tumors With HIF-2α Related Genetic Alterations (MK-6482-015)",
+  "brief_summary": "This is a study to evaluate the efficacy and safety of belzutifan monotherapy in participants with advanced pheochromocytoma/paraganglioma (PPGL), pancreatic neuroendocrine tumor (pNET), von Hippel-Lindau (VHL) disease-associated tumors, advanced wt (wild-type) gastrointestinal stromal tumor (wt GIST), or advanced solid tumors with hypoxia inducible factor-2 alpha (HIF-2α) related genetic alterations. The primary objective of the study is to evaluate the objective response rate (ORR) of belzutifan per response evaluation criteria in solid tumors version 1.1 (RECIST 1.1) by blinded independent central review (BICR).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "The main inclusion criteria include but are not limited to the following:\n\n* Male and female participants at least 12 years of age (at least 18 years of age for Cohort B1)\n* Diagnosis of one of the following: Advanced/metastatic pheochromocytoma/paraganglioma (PPGL), pancreatic neuroendocrine tumors (pNET), von Hippel-Lindau (VHL) disease associated localized tumors, or advanced wild-type gastrointestinal stromal tumor (wt GIST) or advanced solid tumors with Hypoxia Inducible Factor- 2 alpha subunit (HIF-2α) related genetic alterations\n* Cohort BI: VHL Disease-associated tumors:\n\n  * Have a diagnosis of VHL disease as determined by a germline test locally and/or clinical diagnosis\n  * Must be ≥18 years of age\n* Has a life expectancy of at least 3 months\n\nThe main exclusion criteria include but are not limited to the following:\n\n* Unable to swallow orally administered medication or has a disorder that might affect the absorption of belzutifan\n* History of a second malignancy, unless potentially curative treatment has been completed with no evidence of malignancy for 2 years\n* Any of the following: A pulse oximeter reading \\<92% at rest, or requires intermittent supplemental oxygen, or requires chronic supplemental oxygen\n* Clinically significant cardiac disease, including unstable angina, acute myocardial infarction, or arterial bypass (CABG) or Percutaneous transluminal coronary angioplasty (PTCA) ≤6 months from study entry, or New York Heart Association Class III or IV congestive heart failure\n* Received prior treatment (except somatostatin analogs) with chemotherapy, targeted therapy, biologics, or other investigational therapy within the past 4 weeks of first dose of study intervention",
+  "minimum_age": "12 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pheochromocytoma/Paraganglioma",
+    "Pancreatic Neuroendocrine Tumor",
+    "Von Hippel-Lindau Disease",
+    "Advanced Gastrointestinal Stromal Tumor",
+    "HIF-2α Mutated Cancers"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with advanced or metastatic PPGL, pNET, VHL disease-associated tumors, advanced wt GIST, or advanced solid tumors with HIF-2α alterations, regardless of prior lines of systemic therapy for advanced disease. There are no explicit restrictions on the number of prior systemic therapies for advanced/metastatic disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility criteria do not specify a minimum or maximum number of prior systemic therapies for advanced/metastatic disease. Patients who are treatment-naïve for advanced disease as well as those previously treated are eligible. Adjuvant-only patients are allowed if they have not received systemic therapy for advanced disease."
+    }
+  ]
+}

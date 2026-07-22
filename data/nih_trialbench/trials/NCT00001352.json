@@ -1,0 +1,52 @@
+{
+  "nctid": "NCT00001352",
+  "title": "Fungal Infection Susceptibility",
+  "brief_summary": "The protocol will be carried out in accordance with International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) Good Clinical Practice (GCP) and the following United States Code of Federal Regulations (CFR) applicable to clinical studies: 45 CFR Part 46, 21 CFR Part 50, 21 CFR Part 56, 21 CFR Part 312, and/or 21 CFR Part 812.\n\nNIH-funded investigators and study site staff who are responsible for the conduct, management, or oversight of NIH-funded studies have completed Human Subjects Protection and ICH GCP Training.\n\nThe protocol, informed consent form(s), recruitment materials, and all participant materials will be submitted to the Institutional Review Board (IRB) for review and approval. Approval of both the protocol and the consent form must be obtained before any participant is enrolled. Any amendment to the protocol will require review and approval by the IRB before the changes are implemented to the study. In addition, all changes to the consent form will be approved by the IRB; an IRB determination will be made regarding whether a new consent needs to be obtained from participants who provided consent, using a previously approved consent form.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPatients\n\nPatients must:\n\n1. Have cryptococcosis as determined by information collected from their medical records, telephone interviews, or from a referring physician:\n\n   * histopathology showing cryptococci; or\n   * culture of C. neoformans or C. gattii\n   * a positive cryptococcal antigen in the serum and/or CSF, together with CSF cell count and chemistry consistent with cryptococcal meningitis.\n2. Be over the age of 18 years old.\n3. Have a primary physician outside of the NIH.\n4. Agree to undergo genetic testing that will include WES and high density SNP arrays as appropriate for possible WES linkage studies.\n5. Allow samples to be stored for future research.\n6. Pregnant patients will not be excluded. However, research procedures greater than minimal risk including bone marrow biopsy and apheresis would not be performed on pregnant subjects. Otherwise, pregnant patients with cryptococcus would be treated with as per standard of care, minimizing teratogenic potential of drugs and ionizing radiation whenever possible.\n\nBlood Relatives of Patients\n\nBlood relatives must:\n\n1. Be a genetic relative of a patient enrolled in this study\n2. Be over the age of 18 years old\n3. Agree to undergo genetic testing that may include WES and high density SNP analysis\n4. Allow samples to be stored for future research\n\nHealthy Volunteers\n\nHealthy volunteers must:\n\n1. Be between the ages of 18 and 70 years old\n2. Allow samples to be stored for future research\n\nEXCLUSION CRITERIA:\n\nPatients\n\nPatients will be excluded for any of the following:\n\n1. The presence of certain types of acquired abnormalities of immunity due to:\n\n   * HIV\n   * Cancer chemotherapeutic agent(s)\n   * An underlying malignancy could be grounds for possible exclusion of a patient if, in the opinion of the investigator, the underlying disease predisposed the patient to the infection\n   * Monoclonal antibody therapy directed against a patient s immune system\n2. Any condition that in the opinion of the investigator may interfere with the evaluation of a co-existing abnormality of immunity that is the subject of study under this protocol. For example, we may exclude patients with Cushing s disease that have very high cortisol levels at the time of diagnosis of their cryptococcosis.\n\nGenetic Relatives of Patients\n\nGenetic relatives will be excluded for the following:\n\n-Any condition that in the opinion of the investigator may interfere with evaluation of an immune system abnormality that is the subject of study under this protocol.\n\nHealthy Volunteers\n\nHealthy volunteers will be excluded for any of the following:\n\n1. HIV or viral hepatitis (B or C).\n2. History of recurrent or severe infections.\n3. History of intravenous drug use.\n4. History of engaging in high-risk activities for exposure to HIV.\n5. Receiving chemotherapeutic agent(s), immunosuppressants or have underlying malignancy.\n6. Pregnancy.\n7. Have history of heart, lung, kidney disease, or bleeding disorders.\n8. Any condition that in the opinion of the investigator may interfere with evaluation of an immune system abnormality that is the subject of study under this protocol.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Study subjects will consist of previously healthy adults without known prior conditions who have cryptococcosis, blood relatives of these patients, and healthy adult volunteers. Potential Cryptococcus patients must be 18 or older with evidence of positive Cryptococcus infection results as shown through their medical records, telephone interviews or referring physician. This includes a positive Cryptococcus culture (neoformans or gattii), a positive cryptococcal antigen from serum or CSF with CSF cell count and chemistry consistent with Cryptococcus infection, or histopathology showing cryptococci. Blood relatives and healthy volunteers must be 18 years or older.",
+  "condition": [
+    "Cryptococcal Infection",
+    "Cryptococcal Pneumonia",
+    "Pulmonary Cryptococcosis",
+    "Cryptococcal Meningitis",
+    "Cryptococcosis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of patients with cryptococcosis, their blood relatives, and healthy volunteers. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Patients with cryptococcosis",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they specify any requirements or exclusions based on prior lines of therapy. The focus is on diagnosis of cryptococcosis and immune status, not cancer treatment history."
+    },
+    {
+      "cohort_label": "Blood relatives of patients",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Blood relatives are included based on genetic relationship and willingness to undergo genetic testing, with no mention of prior systemic therapy for advanced disease."
+    },
+    {
+      "cohort_label": "Healthy volunteers",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Healthy volunteers are included based on age and health status, with no reference to prior systemic therapy for advanced disease."
+    }
+  ]
+}

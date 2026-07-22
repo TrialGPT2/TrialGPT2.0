@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT05237986",
+  "title": "Cognitive Aftereffects of Neurotoxicity in Children and Young Adults With Relapsed/Refractory Hematologic Malignancies Who Receive CAR T-cell Therapy",
+  "brief_summary": "Background:\n\nCAR T-cell therapy is a promising new treatment for blood cancers. During treatment, a person s T-cells are genetically changed to kill cancer cells. Researchers want to learn more about the effects of potential problems that may be associated with this treatment. We are specifically interested in learning if and how this treatment may affect the brain or your thinking skills.\n\nObjective:\n\nTo learn if CAR T-cell therapy can affect how children and adults think, process, and remember things.\n\nEligibility:\n\nPeople aged 5-35 who have blood cancer that has not responded to treatment, or the blood cancer has come back after treatment, and who will receive CAR T-cell therapy. Caregivers are also needed. All participants must be able to speak and read in English or Spanish.\n\nDesign:\n\nParticipants will be screened with a medical history.\n\nInformation from participants medical records will be collected.\n\nParticipants will take tests at home or at NIH to see how well they think, read, learn, remember, reason, and pay attention. The tests will be both computerized and paper/pencil. They will take less than 1 hour to complete.\n\nParticipants and a parent/adult observer will complete a 5-minute Background Information Form and a checklist of nervous system symptoms.\n\nIf participants are 5 years or older, they will participate in activities to test their ability to do different thinking tasks, like answer questions, complete puzzle patterns, and remember things.\n\nParticipants and their caregivers will complete questions to see if they are having specific symptoms related to receiving CAR T-cells. The questions will assess their well-being and needs. The questions will take less than 1 hour to complete.\n\nSome tests and questions will be repeated at different time points in the study.\n\nParticipation will last for up to 3 years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Participants with disease\n\n  * Participants are diagnosed with relapsed/refractory leukemias or lymphomas, and are scheduled to receive CAR T-cell treatment in one of the enrolling sites\n  * For participants enrolled on a CAR T-cell treatment protocol, data sharing for the purposes of this study must be allowed.\n  * Age \\>= 5 and \\<=35 years old\n  * Participant must have an eligible caregiver (informant) who is willing to complete assessments about the participant of this study\n  * Participants (\\<18 years, or \\>=18 years if needed) must have an eligible caregiver to assist with setting up an appropriate test environment for the remote evaluations\n  * Participant must be able to speak and understand English or Spanish\n  * Participants must have access to a computer or tablet with a camera and an internet connection\n  * Participant or parent/guardian must be able to understand and willing to sign a written consent document\n* Caregivers (informants)\n\n  * Participants must be able to speak and read in English or Spanish\n  * Participants who are caregivers for participants with disease addressed above\n  * Age \\>= 18 years old\n  * Participants must have access to a computer or tablet\n  * Participants (of children \\<18 years, or \\>18 years if needed) must be willing to help set up an appropriate test environment for the remote evaluations\n  * Participant is able to understand and willing to sign a written consent document\n\nEXCLUSION CRITERIA:\n\n-Participants with disease who have a pre-existing global intellectual disability (e.g., Down Syndrome)",
+  "minimum_age": "5 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants with relapsed/refractory leukemias or lymphomas, scheduled to receive CAR T-cell therapy and their caregiver(s).",
+  "condition": [
+    "Lymphoma",
+    "Leukemia"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This study enrolls children and young adults with relapsed or refractory leukemias or lymphomas who are scheduled to receive CAR T-cell therapy. All participants must have disease that has not responded to prior treatment or has recurred after treatment, indicating they have received at least one prior line of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Eligibility requires relapsed or refractory leukemias or lymphomas, meaning patients must have disease that has not responded to prior therapy or has recurred after treatment. This implies at least one prior systemic line for advanced disease is required. Patients who have only received adjuvant therapy are not eligible."
+    }
+  ]
+}

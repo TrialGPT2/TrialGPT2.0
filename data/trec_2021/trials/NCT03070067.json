@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03070067",
+  "title": "SpecTRA; A Study of the Validation of Protein Biomarkers in Transient Ischemic Attack",
+  "brief_summary": "A clinical decision support rule/tool for classification of TIA/mimic that will enable rapid detection of ACVS in hyper-acute settings is being developed. Also under development is a multi-protein test using mass spectrometry (MS). This test will provide TIA results within an hour or two for a fraction of the price of neuroimaging. With guidance provided by this test at their disposal, physicians can inform patients whether they can go home safely or whether they need further testing. The right patients will receive the right treatment, reduce unwarranted imaging risks and costs, and reduce the burden of stroke. The Heart and Stroke Foundation will work to ensure that physicians, allied healthcare providers, the public and other stakeholders are aware of the outcomes and clinical impacts of this project.\n\nFurther, work is being done to establish the mechanisms to develop a strong phenotype for TIA that includes medical imaging (MRI), cardiac monitoring, cognitive assessments, and surveillance of health outcomes for extended periods of time.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Time from the neurologic event to study enrollment is within \\<24 hours of first symptom onset.\n2. All planned diagnostic tests for stroke evaluation must be completed, including brain imaging (MRI) within 4-7 days; and 24-hour +/- extended cardiac monitoring.\n3. Be able to provide blood samples collected either under standard-of-care presentation in the ED or hospital-based stroke unit, or by a study-specific personnel outside of standard-of-care collections.\n4. Age \u226518 years.\n5. Written informed consent consistent with local regulations governing research in human subjects.\n\nExclusion Criteria:\n\n1. Stroke severity exceeding 4 on the National Institutes of Health Stroke Severity scale (NIHSS \\<4).\n2. Contraindications to brain imaging.\n3. Non-English speaking, unless translator present.\n4. Isolated monocular blindness.",
+  "minimum_age": "19 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population includes individuals presenting to the hospital ED or stroke clinic with symptoms suggesting mild ACVS who would be referred to the outpatient stroke clinic. Patients will be recruited primarily from emergency department settings or hospital-based stroke units.",
+  "condition": [
+    "TIA"
+  ],
+  "overall_status": "COMPLETED"
+}

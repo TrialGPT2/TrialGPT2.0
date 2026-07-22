@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT00451022",
+  "title": "Follow-Up Study of Subjects Previously Enrolled in Poxviral Vector Gene Transfer Studies",
+  "brief_summary": "This study aims to provide long-term follow-up care of patients previously enrolled in a vaccine study that involved poxviral vectors. Vectors are sequences of genetic material that can be used to introduce specific genes into genetic makeup. The study does not involve the use of any drug or biologic agent. Participants will undergo an annual health history. Because certain viruses enter into cells and create proteins from the viral genes, the type of vaccine treatment used is referred to gene therapy. The genes expressed by poxviral vectors do not become part of the genetic material left behind. Because gene therapy is a somewhat new technology, a prolonged monitoring of patients' health status is necessary, according to new specific reporting requirements for harmful events in patients who undergo such gene therapy studies. The risk of any long-term negative effects from the gene therapy that patients had received is quite small. Still, it is important that there be updates at least annually. This annual monitoring of health status will extend for 15 years, according to guidelines from the Food and Drug Administration, or for as long as patients are willing to participate.\n\nPatients who received poxviral vectors (vaccinia or fowlpox, or both) at the National Cancer Institute, through a trial affiliated with the Laboratory of Tumor Immunology and Biology, may be eligible for this study.\n\nParticipants will be involved in the following forms of data collection:\n\n* Annual medical history and physical examinations for the first 5 years following the last vaccine.\n* Annual telephone contact during the last 10 years.\n* Health status check, including primary cancer status, secondary malignancies, neurologic disorders, autoimmune disorders, and hematologic disorders.\n* Blood tests for the presence of HIV antibodies.\n* Reporting of medical problems, including information on unexpected hospitalizations and medications.\n\nIf a participant has died, the study will document the cause of death and autopsy information if available.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Subjects who received poxviral vectors (vaccinia and/or fowlpox) or other vaccines utilizing gene transfer or any other immunotherapeutic agent through GMB, UOB and LTIB affiliated trials at the National Cancer Institute, as well as subjects at extramural sites receiving these agents as part of a multi-site trial. Available stored specimens obtained from NCI participants in GMB, UOB, and LTIB affiliated protocols may be transferred to this protocol for storage and eventual future research use.\n* Subjects must be \\>= 18 years of age.\n\nEXCLUSION CRITERIA:\n\nParticipants unwilling to participate.\n\n(Please note, participants may participate in this protocol and, at the same time, participate in an active treatment or continuing care study.)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects who received poxviral vectors (vaccinia and/or fowlpox) or other vaccines utilizing gene transfer or any other immunotherapeutic agent through GMB, UOB and LTIB affiliated trials at the National Cancer Institute, as well as subjects at extramural sites receiving these agents as part of a multi-site trial. These studies include (but are not limited to) the following NCI protocol numbers : 00-C-0137, 00-C-0154, 02-C-0218, 03-C-0176, 04-C-0167, 04-C-0246, 05-C-0017, 05-C-0167, 05-C-0229, 07-C-0106, 07-C-0107, 07-C-0188, 08-C-0166, 09-C-0101,11-C-0225, 12-C-0056, 13-C-0146, 13-C-0153, 13-C-0095, 14-C-0142, 14-C-0112, 15-C-020511-C-0247, 11-C-0262, 13-C-0063, 14-C-0090, 15-C-0012, 15-C-0118, 15-C-0145, 15-C-0178, 15-C-0179, 16-C-0035, 16-C-0048, 16-C-0079, 17-C-0007, 17-C-0023, 17-C-0038, 17-C-0057, and 17-C-0061.",
+  "condition": [
+    "Prostate Cancer",
+    "Liver Cancer",
+    "Breast Cancer",
+    "Colon Cancer",
+    "Lung Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a long-term follow-up study of patients who previously received poxviral vector-based gene therapy or immunotherapy on prior clinical trials. There are no restrictions or requirements regarding prior lines of systemic therapy for advanced disease; eligibility is based solely on prior receipt of the investigational agent.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on prior receipt of poxviral vectors or other gene transfer/immunotherapeutic agents on affiliated trials, regardless of line of therapy. There is no mention of required or excluded prior lines of systemic therapy for advanced disease, and adjuvant-only status is not addressed."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00302146",
+  "title": "Positron Emission Tomography (PET) Imaging in People With Gaucher Mutations",
+  "brief_summary": "This study will use positron emission tomography (PET) to compare how people with Gaucher disease or Gaucher disease carriers with parkinsonism, and their family members, use dopamine in their brains in comparison with healthy normal volunteers and people who have Parkinson disease. PET assesses organ function by measuring metabolism. In this study, magnetic resonance imaging (MRI) is used in conjunction with PET to help better interpret and understand the information gleaned from PET.\n\nPeople 21 years of age and older with the following conditions may be eligible for this study:\n\n* Gaucher disease and parkinsonism\n* Parkinsonism and a family history of Gaucher disease\n* Gaucher disease and a family history of parkinsonism\n* Gaucher disease carriers who have parkinsonism or a family history of parkinsonism\n* Unaffected people with a family history of Gaucher disease and parkinsonism\n* Healthy volunteers\n\nParticipants undergo the following tests and procedures:\n\n* Personal and family medical history\n* Physical examination\n* PET scan: The subject lies on a table that slides into the PET scanner until his or her head is positioned properly in the scanner. A catheter is inserted into a vein. An initial scan is done to obtain images before radionuclides are injected. Radioactive water is then injected through the catheter and the subject is asked questions in order to stimulate blood flow in certain areas of the brain to show what parts of the brain are activated. Fluorodopa is then infused through the catheter over 3 minutes. The PET scan can last up to 2 hours.\n* MRI scan: This test uses a magnetic field and radio waves to obtain images of organs. The subject lies still on a bed in the middle of a circular scanner for about 30 minutes.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nThe study will include adult subjects age 21 or older. There will be two major study groups. The first will include subjects with parkinsonism to better characterize the parkinsonian phenotype and the second group will have unaffected yet at-risk individuals with or without a first degree family member with parkinsonism to explore early signs and symptoms of disease.\n\nControl subjects will include individuals without GBA1 mutations. Subjects with sporadic PD and healthy volunteers who do not have a family history of parkinsonism or Gaucher disease will be enrolled as control subjects.\n\nHealthy volunteers and control subjects with parkinsonism will be matched for age, gender and handedness for statistical purposes. When available, we would like to study unaffected siblings (without GBA1 mutations) of parkinsonian subjects. Sib-pair studies will especially be valuable to exclude both environmental and other genetic risk factors for the development of parkinsonian manifestations.\n\nEXCLUSION CRITERIA:\n\nSubjects excluded from the study include those:\n\n1. with severe cognitive deficits impairing decision making at time of enrollment without an appointed surrogate decision maker.\n2. who are unable or it is medically unsafe to withdraw from their current medications, such as subjects on psychoactive medications. The subjects on medications that may affect CNS function may be included in the study only with an approval from the prescribing physician to discontinue their medications temporarily for the study.\n3. pregnant or nursing. All women of child bearing potential will undergo a pregnancy test.\n4. with a history of neurologic conditions such as stroke or any focal brain lesion that may result in parkinsonian manifestations, including subjects with deep brain stimulators\n5. cannot lie on his/her back for a prolonged period of time",
+  "minimum_age": "18 Years",
+  "maximum_age": "110 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study will include adult subjects age 21 or older. There will be two major study groups. The first will include subjects with parkinsonism to better characterize the parkinsonian phenotype and the second group will have unaffected yet at-risk individuals with or without a first degree family member with parkinsonism to explore early signs and symptoms of disease. Control subjects will include individuals without GBA1 mutations. Subjects with sporadic PD and healthy volunteers who do not have a family history of parkinsonism or Gaucher disease will be enrolled as control subjects.",
+  "condition": [
+    "Parkinson Disease",
+    "Gaucher Disease"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational imaging study enrolling people with Gaucher disease, parkinsonism, family history of these conditions, and healthy controls. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention any requirements or exclusions based on prior systemic therapy for advanced/metastatic disease. This is an imaging study enrolling both affected and unaffected individuals, as well as healthy volunteers, with no reference to cancer treatment history."
+    }
+  ]
+}

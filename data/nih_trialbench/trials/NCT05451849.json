@@ -1,0 +1,51 @@
+{
+  "nctid": "NCT05451849",
+  "title": "A Phase 1/2 Trial of TC-510 In Patients With Advanced Mesothelin-Expressing Cancer",
+  "brief_summary": "TC-510 is a novel cell therapy that consists of autologous genetically engineered T cells expressing two synthetic constructs: first, a single-domain antibody that recognizes human Mesothelin, fused to the CD3-epsilon subunit which, upon expression, is incorporated into the endogenous T cell receptor (TCR) complex and second, a PD-1:CD28 switch receptor, which is expressed on the surface of the T cell, independently from the TCR. The PD-1:CD28 switch receptor comprises the PD-1 extracellular domain fused to the CD28 intracellular domain via a transmembrane domain. Thus, the switch is designed to produce a costimulatory signal upon engagement with PD-L1 on cancer cells.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient is \\> 18 years of age at the time the Informed Consent is signed.\n* Patient has a pathologically confirmed diagnosis of either MPM, Serous Ovarian Adenocarcinoma, Pancreatic Adenocarcinoma, TNBC, and Colorectal Cancer\n* Patient's tumor has been reviewed with confirmed positive MSLN expression on \\>/= 50% of tumor cells that are 1+, 2+ and/or 3+ by immunohistochemistry. Patients with epithelioid MPM, confirmation of MSLN expression is not required prior to enrollment.\n* Prior to TC-510 infusion, patients must have received at least 1 but no more than 5 systemic therapies for metastatic or unresectable disease with more details provided in the protocol\n* Patients has an ECOG performance status 0 or 1\n* Patient is fit for leukapheresis and has adequate venous access for the cell collection.\n* Patient must have adequate organ function as indicated by the laboratory values in the clinical protocol\n\nExclusion Criteria:\n\n* Inability to follow the procedures of the study\n* Known or suspected non-compliance, drug, or alcohol use",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Mesothelioma",
+    "Mesotheliomas Pleural",
+    "Mesothelioma, Malignant",
+    "Mesothelioma Peritoneum",
+    "Ovarian Cancer",
+    "Ovarian Serous Adenocarcinoma",
+    "Pancreatic Cancer",
+    "Pancreatic Adenocarcinoma",
+    "Colorectal Cancer",
+    "Triple Negative Breast Cancer",
+    "TNBC - Triple-Negative Breast Cancer",
+    "Ovarian Adenocarcinoma",
+    "Pancreatic Neoplasms",
+    "Colorectal Neoplasms",
+    "Ovarian Neoplasms",
+    "Cholangiocarcinoma",
+    "Non Small Cell Lung Cancer"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with advanced mesothelin-expressing cancers who have received at least 1 but no more than 5 prior systemic therapies for metastatic or unresectable disease. Adjuvant-only patients are excluded, as prior therapy must have been for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": 5,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Eligibility requires patients to have received at least 1 but no more than 5 prior systemic therapies for metastatic or unresectable disease. The criteria specify that prior therapy must be for advanced disease, thus excluding adjuvant-only patients."
+    }
+  ]
+}

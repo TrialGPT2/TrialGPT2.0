@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00776087",
+  "title": "European Health Economic Trial on Home Monitoring in ICD and CRT-D Patients (EuroEco)",
+  "brief_summary": "BIOTRONIK Home Monitoring (HM) service enables the doctors to safely follow up (FU) their ICD and CRT-D patients in a remote fashion, with fewer in-clinic consultations. This may result in a more efficient FU and cost-savings for the health care payer.\n\nThe EuroEco study:\n\n1. Outlines a new HM-based FU model for the ICD and CRT-D patients that combines in-clinic consultations and regular check ups of the patient/ICD/CRT-D data received through the HM service.\n2. Compares the direct costs for physicians and clinics for the HM-based FU of ICD and CRT-D patients versus the traditional FU.\n3. Compares the indicators of patients' safety between the two FU models.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "ICD Patient Population - Inclusion Criteria\n\n* Indication for 1-/2- chamber ICD implantation, including replacement indication\n* Patient is willing and able to comply with the clinical investigation plan and has provided written informed consent\n\nICD Patient Population - Exclusion Criteria\n\n* Patients with contraindication to ICD implantation\n* Patients with indication for cardiac resynchronization (CRT)\n* Minors and pregnant women\n* Patients participating in another study\n\nCRT-D Patient Population - Inclusion Criteria\n\n* Patients with indication for de novo CRT-D implantation according to current guidelines\n* Patient is willing and able to comply with the clinical investigation plan and has provided written informed consent\n\nCRT-D Patient Population - Exclusion Criteria\n\n* Patients who had a cardiac device implanted before (upgrade, device replacement)\n* Life expectancy less than 12 months\n* Planned heart transplantation\n* NYHA IV\n* Minors \\< 18 years\n* Pregnant and breast-feeding women\n* Participation in another clinical study",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Ventricular Fibrillation",
+    "Tachycardia, Ventricular",
+    "Ventricular Flutter"
+  ],
+  "overall_status": "TERMINATED"
+}

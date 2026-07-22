@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT01210534",
+  "title": "Physiological Brain Atlas Development",
+  "brief_summary": "Enrollment of candidates undergoing a deep brain stimulator (DBS) implant.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Any patient between the age of 7-90\n* Patients who have undergone deep brain stimulation (DBS) surgery as standard of care at The Ohio State University\n\nExclusion Criteria:\n\n* None",
+  "minimum_age": "7 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients who are undergoing DBS implantation surgery at the Ohio State University.",
+  "condition": [
+    "Parkinson Disease",
+    "Dystonia",
+    "Tremors",
+    "Obsessive Compulsive Disorder",
+    "Depression"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00426959",
+  "title": "Study of Image-guided Dosimetry for Interstitial Prostate Brachytherapy",
+  "brief_summary": "This will be a phase I study. This phase I study is not a standard drug dose escalation study, but rather a Clinical System Performance Evaluation Trial of a therapeutic device. However for purposes of this protocol we will refer to this portion of the trial as a phase I study.\n\nThe purpose of this study is to demonstrate the feasibility and clinical practicability of the registered ultrasound and fluoroscopy (RUF) in combination with CMS Interplant system\u00ae in an initial cohort of 6 patients.\n\nThis will involve demonstrating the feasibility of using the system in an actual operating room environment as well as obtaining a preliminary assessment of the accuracy and performance of the source location algorithm by comparing with postoperative CT dosimetry.\n\nThe Primary endpoint of this study will be evaluation of the feasibility of using the RUF system and of performing real-time optimization in the operating room environment.\n\nThe Secondary endpoints of this study will be:\n\n1. Acute and late toxicity as assessed by IPSS, SHIM, and EPIC questionnaires at multiple follow-up intervals.\n2. PSA-free survival.\n\nStudy Population:\n\nThe target population will be patients with a diagnosis of adenocarcinoma of the prostate who are seen in consultation at the Johns Hopkins Hospital.\n\nApproximately 360 patients per year with the diagnosis of prostate cancer are seen in the Department of Radiation Oncology at Johns Hopkins Hospital. Of these patients, approximately 45% have low-risk (T1a-T2a, Gleason 6 or less, PSA 10 ng/ml or less) or intermediate-risk disease and are suitable for brachytherapy based on disease risk. Within this group of patients, approximately 70% are eligible for brachytherapy based on gland size and no prior transurethral resection of prostate (TURP).\n\nApproximately 80% of patients offered brachytherapy at consultation decide to receive their treatment at Johns Hopkins. Overall, we currently perform 2 brachytherapy procedures per week on average, for a yearly total of approximately 90 cases.\n\nFor purposes of homogeneity of treatment and patient population, this protocol will only enroll patients currently treated at this institution with brachytherapy alone, and will not enroll patients (intermediate or high risk disease) who will require external beam radiation in addition to brachytherapy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* Histologically confirmed, locally confined adenocarcinoma of the prostate\n* PSA of less than 10 ngmL\n* Combined Gleason score 6 or less, with no individual Gleason score of 4 or 5\n* The patient has decided to undergo brachytherapy at the Johns Hopkins Hospital as treatment choice for his prostate cancer\n* Karnofsky Performance Status greater than 70\n* Prostate volume by TRUS less than 50 cc\n* International Prostate symptom score must be 18 or less\n* Signed study-specific consent form prior to registration\n\nExclusion Criteria:\n\n* Clinical or Pathological Lymph node involvement,\n* Evidence of distant metastases\n* Radical surgery for carcinoma of the prostate\n* Chemotherapy or pelvic radiation therapy\n* Previous transurethral resection of the prostate\n* Previous or concurrent cancers other than basal or squamous cell skin cancers unless disease free for at least 5 years.\n* Significant obstructive symptoms\n* Major medical or psychiatric illness which, in the investigator's opinion, Hip prosthesis\n* Anatomic or medical condition (such as prior abdominal perineal resection or anal stricture) which would preclude the use of TRUS Implanted device or apparatus which might obstruct visibility of the implanted sources on fluoroscopy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Locally Confined Adenocarcinoma of the Prostate"
+  ],
+  "overall_status": "COMPLETED"
+}

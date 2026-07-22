@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT04352712",
+  "title": "Gene Expression in Monocytes of Growth Hormone Deficient Children",
+  "brief_summary": "The Growth hormone (GH) is mainly synthesized in the anterior portion of the pituitary gland and has an effect on different body areas. Secreted in the circulatory stream, growth hormone reaches the liver and here stimulates the secretion of somatomedin C better known as insulin-like growth factor 1 (IGF), which constitutes its main anabolic effector.\n\nGrowth hormone deficiency (GHD) is characterized by a delay in the statural growth in children and is correlated with a worsening of body composition, cognitive functions, lipid metabolism, bone mineralization, cardiac performance and exercise in adults. Recombinant GH (rhGH) replacement therapy can correct these alterations and therefore improve the quality of life in treated patients, and accelerate growth in children.\n\nThe optimal dosage of rhGH varies for each patient, as the response to treatment suffers from considerable inter-individual variability. To date, IGF1 is the only available biomarker whose plasma levels correlate with replacement therapy.\n\nIt is important to underline how somatomedin C does not provide information about the optimal posology of rhGH for each patient in order, therefore, to predict its adverse events and efficacy.\n\nIn addition, it has been shown that the effects mediated by the somatotropic hormone on some tissues are direct, therefore independent of the action of IGF1, whose plasma levels are not, in this case, predictive of therapeutic response.\n\nFor this reason, it is therefore necessary to identify a more specific biomarker capable of monitoring the efficacy, individual responsiveness and any adverse events in patients receiving somatotropic hormone.\n\nThe GH receptor (GHR) is expressed in several cells, including monocytes. It is therefore possible that the response of monocytes to the somatotropic hormone partially mirrors that of the chondrocyte and other cell types. Given the difficulty of obtaining osteomuscular biopsies or specific body areas in which GH mediates its biological action, the published works have identified the specific cell line in which to study the molecular effects of the hormone in monocytes, thanks to their easy accessibility and high number of GHR.\n\nIn consideration of this, the investigators propose to stimulate monocytes of healthy and GHD children in vitro with rhGH and through next generation sequencing to identify the characteristic gene expression profile. The GH responsive genes identified with this study can be used for correlation studies on the response to rhGH treatment.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Height lower the 3th percentile\n\nExclusion Criteria:\n\n* Any endocrinopathy\n* Liver, kidney or haemolymphopoietic system disorders\n* Celiac disease or other chronic malabsorption conditions\n* Genetic syndromes (such as Turner's S., Cystic fibrosis or Down S.)\n* Drug therapies interfering with growth",
+  "minimum_age": "6 Years",
+  "maximum_age": "10 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "MALE",
+  "study_population": "primary care clinic",
+  "condition": [
+    "Growth Hormone Deficiency"
+  ],
+  "overall_status": "UNKNOWN"
+}

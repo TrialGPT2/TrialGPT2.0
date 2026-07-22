@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04950309",
+  "title": "Characterization of an Optically Pumped Magnetometer (OPM) Magnetoencephalography (MEG) Array",
+  "brief_summary": "Background:\n\nBrain activity produces magnetic fields. These fields can be measured outside the head. Existing technology, called MEG, measures these fields. Researchers are testing a new type of magnetic field sensor called OPM. They hope it can help pinpoint with very high accuracy where brain activity is generated.\n\nObjective:\n\nTo develop and test a new type of sensor for measuring the magnetic fields produced by brain activity.\n\nEligibility:\n\nHealthy people ages 18-65 who had a magnetic resonance imaging (MRI) scan under protocol 17-M-0181.\n\nDesign:\n\nParticipants may be asked to complete sessions on both the traditional MEG instrument and the OPM array.\n\nFor the MEG, 3 small coils will be placed on the participant s face with tape. Their head will be positioned inside the MEG device.\n\nFor the OPM, sensors are housed in a 3d printed array. The sensors will be attached to a cap placed on the participant s head.\n\nFor both scans, participants will be seated in a chair inside a magnetically shielded room. They may complete several tasks. In one task, plastic cells will be placed on their fingers. Puffs of air will be sent to these cells, which will stimulate the sense of touch. Other tasks may include the following stimuli: visual (such as checkerboards), auditory (such as beeps and tones), or language (words and letters).\n\nResearchers may also obtain recordings while they stimulate the nerve in the participant s forearm using electrical current in small electrodes.\n\nParticipation is expected to last for 1 day. Additional optional scans may be offered for up to 1 year....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DEVICE_FEASIBILITY",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Provision of signed and dated informed consent form\n2. Stated willingness to comply with all study procedures and availability for the duration of the study\n3. Male or female, aged 18-65\n4. In good general health as evaluated according to protocol 17-M-0181\n5. Completed a magnetic resonance imaging (MRI) scan under 17-M-0181\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Participants excluded from 17-M-0181 will be excluded from this protocol\n2. Metal in the body which would cause artifacts on MEG recordings",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Normal Physiology"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology study enrolling healthy volunteers with no mention of cancer or systemic therapy. There is no line-of-therapy intent applicable to this trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls healthy adults with no cancer diagnosis or prior systemic therapy; line-of-therapy criteria are not applicable."
+    }
+  ]
+}

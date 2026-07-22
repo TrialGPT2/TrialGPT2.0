@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03821870",
+  "title": "Predictive Value of Analysing Tissue From Patients With Metastatic Pancreatic Cancer for Drug Sensitivity",
+  "brief_summary": "It will be investigated whether it is possible to predict the effect or lack of effect of first-line treatment by analysing cancer cells from the individual patient receiving standard first line treatment. Also, the feasibility of selecting second-line therapy based on pre-treatment biopsies will be investigated.\n\nCells from pancreatic cancer will be grown in the laboratory to form small, circulating tumors and adjacent tissue, so called tumoroids. The tumoroids will then be exposed to different pre-specified anticancer drugs to hopefully reveal sensitivity or lack of sensitivity in the specific patient.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Non-resectable pancreatic cancer\n\n  * Biopsy proven adenocarcinoma compatible with pancreatic origin (primary tumor or metastasis)\n  * If only biopsy from metastasis can be obtained, the patient must have a previously resected or image proven tumor of the pancreas\n  * Deemed non-resectable at a multidisciplinary conference\n* Candidate to standard systemic therapy, defined as one of\n\n  * Gemcitabine monotherapy,\n  * Gemcitabine and nab-paclitaxel combination,\n  * Gemcitabine and capecitabine combination,\n  * 5-fluorouracil, oxaliplatin and irinotecan combination (FOLFIRINOX), or\n  * New standard treatments approved by the multidisciplinary cancer group 'Danish Pancreatic Cancer Group' in the inclusion period.\n* Measurable disease according to RECIST 1.1\n* ECOG performance status 0-2\n* Age at least 18 years\n* Adequate bone marrow, liver and renal function allowing systemic chemotherapy\n\n  * Absolute neutrophil count \u22651.5x10\\^9/l and thrombocytes \u2265 100x10\\^9/l\n  * Bilirubin \u2264 3 x upper normal value and alanine aminotransferase \u2264 5 x upper normal value\n  * Calculated or measured renal glomerular filtration rate at least 30 mL/min\n* Contraception for fertile women and for male patients with a fertile partner. Intrauterine device, vasectomy of a female subject's male partner or hormonal contraceptive are acceptable\n* Written and orally informed consent\n\nExclusion Criteria:\n\n* Potentially resectable disease\n\n  * Incapacity, frailty, disability, or comorbidity to a degree that according to the investigator is not compatible with participation in the protocol\n  * Other active malignant disease requiring therapy\n  * Other systemic anti-cancer therapy (palliative radiotherapy is allowed)\n  * Pregnant (positive pregnancy test) or breast feeding women",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with metastatic pancreatic cancer eligible for chemotherapy",
+  "condition": [
+    "Metastatic Pancreatic Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

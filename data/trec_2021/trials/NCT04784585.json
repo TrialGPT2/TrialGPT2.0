@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04784585",
+  "title": "Miro-randomized Trial for Optimizing a JITAI to Reduce Dietary Lapses in Obesity Treatment",
+  "brief_summary": "This project targets dietary lapses (instances of nonadherence to dietary goals), a major cause of poor outcomes during behavioral obesity treatment, which is a recommended first-line intervention for cardiovascular disease. The investigators propose to conduct a micro-randomized trial (MRT) to empirically optimize a smartphone-based just-in-time adaptive intervention (JITAI) that monitors risk and intervenes on lapses as needed. By evaluating the immediate, proximal effect of four theory-driven interventions on lapse behavior, the project will: (a) produce a scalable, finalized JITAI that has the greatest potential to show clear clinical impact in future trials; and (b) inform the development of more sophisticated theoretical models of adherence behavior more broadly. Therefore, this study has three goals. First the investigators aim to compare the effects of delivering any intervention to no intervention on the occurrence of lapse. Second, the investigators aim to compare the effects of specific theory-driven interventions to one another to determine which ones are best for preventing lapses. Within this second aim, the investigators also aim to examine other factors that may influence the effectiveness of interventions (e.g., time, location). Lastly, the investigators will use the data from this MRT to customize intervention delivery in future versions of this JITAI\n\nPatients will be recruited through various methods including advertisements in local media, targeted online advertising, advertisements in medical and minority communities, and direct mailers. All participants will receive a well-established 3-month online obesity treatment program, with 3 months of no-treatment follow-up. In conjunction, they will use a smartphone-based JITAI consisting of: 1) repeated daily surveys assess lapses and relevant triggers; 2) a machine learning algorithm that uses information from the surveys to determine real-time lapse risk; \\& 3) interventions to counter lapse risk. When an individual is at risk for lapsing she will be randomly assigned to no intervention, a generic risk alert, or one of 4 theory-driven interventions with interactive skills training. The outcome of interest will be the occurrence (or lack thereof) of dietary lapse, as measured both subjectively (i.e., reported by the participant in the daily surveys) and objectively (i.e., via wrist-based intake monitoring), in the hours following randomization initiated by heightened lapse risk.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 18-70\n* Body mass index (BMI) between 25 and 50 kg/m-squared\n* Diagnosis of one or more cardiovascular disease risk factors (prediabetes, type 2 diabetes, hypercholesterolemia, or hypertension)\n* Able to walk 2 city blocks without stopping\n\nExclusion Criteria:\n\n* Currently participating in another weight loss program\n* Currently taking weight loss medication\n* Lost \\> 5% of their body weight in the 6 months prior to enrolling\n* Has been pregnant within the 6 months prior to enrolling\n* Plans to become pregnant within 6 months of enrolling\n* Has chest pain during periods of activity or rest, or loss of consciousness in the 12 months prior to enrolling\n* Has any medical condition that would affect the safety of participating in unsupervised physical activity\n* Has history of bariatric surgery\n* Has any condition that would result in inability to follow the study protocol, including terminal illness, substance abuse, eating disorder (not including Binge Eating Disorder) and untreated major psychiatric illness.",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Obesity"
+  ],
+  "overall_status": "COMPLETED"
+}

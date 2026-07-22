@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT02830308",
+  "title": "Evaluation of Adults With Endocrine and Metabolic-Related Conditions",
+  "brief_summary": "Background:\n\nThere are many endocrine and metabolic-related conditions. Two well-known disorders include diabetes and thyroid disease. Some of these diseases are caused by a change in genes. Researchers want to identify the genes involved in these disorders. They hope this will help them learn more about these diseases.\n\nObjectives:\n\nTo learn more about conditions that affect the hormone-secreting glands (endocrine glands) in adults. To train doctors to diagnose and treat people with endocrine or metabolic conditions.\n\nEligibility:\n\nAdults age 18 years and older with a known or suspected endocrine disorder.\n\nRelatives ages 18 years and older.\n\nDoctors will review all requests and available medical records to determine final eligibility for the protocol.\n\nDesign:\n\nParticipants will have a medical history and physical exam.\n\nMost participants will have 1 visit, and may have follow up visits if necessary. They may have tests, surgery, or other procedures to help diagnose or treat their condition. These could include:\n\n* Blood, urine, and saliva tests\n* Imaging tests. These may include X-ray, ultrasound, or scans.\n* Sleep study\n* Medical photographs\n* Visits with other specialists at NIH\n\nParticipants will provide blood, urine, saliva, or tissue samples. Some of these samples may be stored in the freezer for future studies.\n\nParticipants may be asked to participate in genetic testing. They will give a blood or saliva sample for this.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Participants with known or suspected endocrine disorder age 18 years and older are eligible for this protocol. Protocol investigators will make the actual selection of subjects most appropriate for clinical evaluation.\n* Relatives ages 18 years and older may be enrolled if clinically indicated for the diagnosis of a proband.\n\nEXCLUSION CRITERIA:\n\n* Anyone under the age of 18 years old\n* Any medical, physical, psychiatric, or social conditions, which, in the opinion of the investigators, would make participation in this protocol not in the best interest of the subject. Subjects who are critically ill, unstable, or with severe organ failure that may affect/limit the endocrine evaluation and place unsustainable demands on Clinical Center or NIDDK resources.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Primary Clinical",
+  "condition": [
+    "Endocrine Diseases"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational protocol enrolling adults with known or suspected endocrine or metabolic disorders, as well as their relatives, for clinical evaluation and research. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, and there are no restrictions or requirements regarding previous lines of therapy. This is an observational study enrolling adults with endocrine or metabolic disorders regardless of treatment history."
+    }
+  ]
+}

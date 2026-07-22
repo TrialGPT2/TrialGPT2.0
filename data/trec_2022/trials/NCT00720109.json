@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT00720109",
+  "title": "Dasatinib and Combination Chemotherapy in Treating Young Patients With Newly Diagnosed Acute Lymphoblastic Leukemia",
+  "brief_summary": "This phase II/III trial is studying the side effects and how well giving dasatinib together with combination chemotherapy works in treating young patients with newly diagnosed acute lymphoblastic leukemia (ALL). Dasatinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving dasatinib together with combination chemotherapy may kill more cancer cells.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Newly diagnosed acute lymphoblastic leukemia (ALL)\n\n  * Definitive evidence of BCR-ABL fusion (Philadelphia chromosome positive \\[PH+\\]) from an approved Children's Oncology Group (COG) cytogenetics laboratory\n* Meets one of the following criteria:\n\n  * Concurrent enrollment on Clusters of Orthologous Groups (COG)-AALL03B1 (or a successor trial) AND COG-AALL0232, COG-AALL0331, COG-AALL0434 or other front-line COG ALL clinical trial\n  * Concurrent enrollment on COG-AALL03B1 (or a successor trial) AND scheduled to receive a 3 or 4-drug standard induction regimen\n  * Concurrent enrollment on a Dana-Farber Cancer Institute (DFCI) Childhood ALL Consortium trial (or scheduled to be treated as per a DFCI Childhood ALL Consortium induction regimen)\n* All patients must have definitive evidence of BCR-ABL fusion from an approved COG cytogenetics laboratory; patients may NOT have received Day 15 of Induction chemotherapy (or day 18 vincristine if enrolled on a DFCI Childhood ALL Consortium trial) prior to enrollment on AALL0622\n* Patients must have a performance status of 0, 1 or 2 at completion of two weeks of Induction; use Karnofsky for patients \\> 16 years of age and Lansky for patients =\\< 16 years of age\n* Creatinine clearance or radioisotope glomerular filtration rate (GFR) \\>= 70mL/min/1.73 m\\^2 or maximum serum creatinine based on age and gender as follows:\n\n  * 0.4 mg/dL (for patients 1 to 5 months of age)\n  * 0.5 mg/dL (for patients 6 to 11 months of age)\n  * 0.6 mg/dL (for patients 1 year of age)\n  * 0.8 mg/dL (for patients 2 to 5 years of age)\n  * 1.0 mg/dL (for patients 6 to 9 years of age)\n  * 1.2 mg/dL (for patients 10 to 12 years of age)\n  * 1.5 mg/dL (males) or 1.4 mg/dL (females) (for patients 13 to 15 years of age)\n  * 1.7 mg/dL (males) or 1.4 mg/dL (females) (for patients \\>= 16 years of age)\n* Total bilirubin =\\< 1.5 times upper limit of normal (ULN) for age\n* Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase \\[ALT\\]) \\< 2.5 times ULN for age\n* Shortening fraction \\>= 27% by echocardiogram or ejection fraction \\>= 50% by gated radionuclide study\n* No evidence of dyspnea at rest, no exercise intolerance, and a pulse oximetry \\> 94% at sea level if there is clinical indication for determination\n* Patients with seizure disorder may be enrolled if on anticonvulsants and well controlled; however, drugs that induce CYP3A4/5 (carbamazepine, oxcarbazepine, phenytoin, primidone, phenobarbital) should be avoided\n* Patients will start AALL0622 therapy on day 15 of induction therapy (or day 18 if enrolled on a DFCI Childhood ALL Consortium trial); patients must have received the first 2 weeks of Induction therapy\n\nExclusion Criteria:\n\n* Females of childbearing potential must have a negative pregnancy test; patients of childbearing potential must agree to use an effective birth control method\n* Female patients who are lactating must agree to stop breast-feeding\n* Patients with Down syndrome\n* Patients with any clinically significant cardiovascular disease including the following:\n\n  * Myocardial infarction or ventricular tachyarrhythmia within 6 months\n  * Ejection fraction less than institutional normal\n  * Major conduction abnormality (unless a cardiac pacemaker is present)",
+  "minimum_age": "2 Years",
+  "maximum_age": "30 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Lymphoblastic Leukemia",
+    "Adult B Acute Lymphoblastic Leukemia With t(9;22)(q34.1;q11.2); BCR-ABL1",
+    "Childhood B Acute Lymphoblastic Leukemia With t(9;22)(q34.1;q11.2); BCR-ABL1"
+  ],
+  "overall_status": "COMPLETED"
+}

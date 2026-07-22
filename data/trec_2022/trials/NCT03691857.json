@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03691857",
+  "title": "Feasibility and Accuracy of an Ultrasound Algorithm for Acute Dyspnea Diagnosis in the Emergency Department",
+  "brief_summary": "The management of chest pain has revolutionized its prognosis, primarily by improving urgent diagnosis of myocardial infarction. Currently, acute dyspnea is twice as frequent as chest pain and its associated mortality is much higher (16% of acute dyspnea admitted to emergency departments (ED) ).\n\nInappropriate treatment of acute dyspnea in the ED is frequent (30%) and is associated with a tripling of intra-hospital mortality after adjustment for confounding factors (2.83, IC 1.48 to 5.41, p=0.002). Other elements have also highlighted the importance of a quick and appropriate acute dyspnea diagnosis:\n\n* The 2015 European Guidelines on acute heart failure emphasize the need for appropriate treatment within 90 minutes after the first medical contact.\n* Inadequate treatment of chronic bronchitis decompensation is associated with a doubling of intra-hospital mortality.\n* An initiation of antibiotic treatment within 4 hours of admission for pneumonia is recommended.\n* 30% of pulmonary embolisms are not diagnosed during the initial emergency department visit, whereas their mortality in the absence of treatment is 25%.\n\nLung, venous and (simplified) cardiac ultrasound is associated with improved diagnostic performance in ED. However, no ultrasound algorithm dedicated to emergency physicians has been formally validated. The Blue Protocol (Lichtenstein et al., Chest 2008) has been validated in intensive care patients with very different phenotypes than those admitted to the ED. Pivetta et al. (Chest 2015) proposed an algorithm focused solely for the diagnosis of heart failure, thus not providing a diagnosis for all the other causes of dyspnea in ED. Finally, Zanbonetti et al. (Chest 2017) proposed an \"unguided\" ultrasound use, notably integrating inferior vena cava evaluation. However, measuring the inferior vena cava is difficult at the start of ED management when patients are in acute respiratory distress.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Men and women \u2265 50 years old\n* Patients with non-traumatic acute dyspnea managed in the emergency department\n* Patients affiliated with a social security system\n\nExclusion Criteria:\n\n* Patients in cardiac arrest\n* Patients in persistent shock\n* Patients with impaired consciousness (Glasgow Score\\<9)\n* Patients with a history of thoracic surgery or pulmonary fibrosis\n* Dementia\n* Patients with Acute Coronary Syndrome with ST elevation\n* Known current pregnancy\n* Patients under guardianship, trusteeship or legal protection",
+  "minimum_age": "50 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Dyspnea"
+  ],
+  "overall_status": "RECRUITING"
+}

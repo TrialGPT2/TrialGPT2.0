@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02440139",
+  "title": "Evaluation of Computer-Aided Lung Nodule Detection Software in Thoracic CT for Riverain Technologies LLC",
+  "brief_summary": "STUDY DESIGN:\n\nThis is a retrospective, multi-reader, multi-case, (MRMC) randomized reader study.\n\nOBJECTIVE:\n\nPrimary: The primary objective of this clinical study is to prove that a user aided with ClearRead CT InSight (CRCTI) is superior to the unaided reader for detecting actionable lung nodules.\n\nSecondary: The secondary objective of this clinical study is to prove that the reader's reading time is not significantly increased when aided with CRCTI.\n\nNUMBER OF SUBJECTS:\n\nRetrospective CT studies from approximately 300 patients will be included in the study. Approximately 100 true positive cases and 200 normal cases.\n\nNUMBER OF READERS:\n\nA reader study with at least ten (10) participating radiologists (US Board Certified) will be conducted.\n\nPRIMARY ENDPOINTS:\n\nScores given by the radiologists with and without ClearRead CT Insight will be recorded and compared to the true status of the study-cases. The frequency of the scores for each method (Unaided, Aided) will be tabulated and LROC curves constructed along with sensitivity, specificity, PPV, NPV and clinical actions. Additionally, machine nodule detection rate and false positives per patient on normal cases will be measured.\n\nPATIENT POPULATION :\n\nThe study will target approximately one hundred (100) patients whose CT nodules were shown to be cancer and two hundred (200) normal patients. The patient population will be consistent with the national lung cancer screening protocols.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\nA thoracic CT case that is associated or with a feature of the following:\n\n1. Asymptomatic patients age 55 - 77 with history of smoking\n2. Primary Lung Cancer\n3. Biopsy Proven (LuRADS 5) with radiology report\n4. Screen detected event plus 1 prior CT. 2 year of prior CTs is preferred, if available.\n5. \\<= 3mm slice spacing, no gaps\n6. Use standard reconstruction kernels\n7. Maximum of 5 nodules per image\n8. Nodules must be 5-20mm in size\n9. With or without contrast\n\nExclusion Criteria:\n\nThoracic CT cases that meet the following exclusion criteria will not be collected for use during clinical testing.\n\n1. No Acute pneumothorax\n2. Both lungs must be fully visible within the field of view\n3. Apices cannot be cropped\n4. No excessive motion artifacts\n5. Symptomatic patients with co-morbidities",
+  "minimum_age": "55 Years",
+  "maximum_age": "77 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lung Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

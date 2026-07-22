@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT04915183",
+  "title": "Atorvastatin to Reduce Cisplatin-Induced Hearing Loss Among Individuals With Head and Neck Cancer",
+  "brief_summary": "Background:\n\nCisplatin is used to treat head and neck cancer. People who take this drug are at risk for hearing loss. Atorvastatin is a drug used to treat high cholesterol. It might reduce the risk of cisplatin-induced hearing loss.\n\nObjective:\n\nTo find out if atorvastatin reduces hearing loss in people treated with cisplatin and radiation.\n\nEligibility:\n\nPeople ages 18 and older with squamous cell carcinoma of the head and neck who will undergo treatment with cisplatin-based chemotherapy and radiation\n\nDesign:\n\nParticipants will be screened with their medical records.\n\nParticipants currently taking a cholesterol-lowering statin medication are invited to participate in the observational arm of the study. Those not taking such a medication are invited to participate in the interventional arm of the study.\n\nAll participants will have 3 study visits for the purpose of evaluating hearing. One before starting cisplatin treatment, one within 3 months of completing cancer treatment, and one within 2 years of completing cancer treatment. They will have tympanograms. A small flexible tip will be placed in the ear canal. A puff of air will be delivered to assess mobility of the ear drum. They will have hearing tests. They will wear headphones. They will listen to tones that vary in loudness. They will be asked to indicate when they hear a sound. They will complete 3 questionnaires at the time of each hearing test.\n\nParticipants will have 2 visits for blood tests. These will occur upon consent and 12 weeks after. They will be randomly assigned to take the study drug or placebo orally, once daily. They will take it during cisplatin treatment and for 3 months after treatment.\n\nLong-term follow up will include a chart review 2 years after participants complete their cisplatin therapy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria evaluated by the study team, including an on-site oncologist:\n\n* Willingness and ability to comply with and participate in all study procedures and availability for the duration of the study\n* Ability to provide consent and provision of signed and dated informed consent form\n* Adult subjects, aged \\>=18\n* Diagnosed with squamous cell carcinoma of the head and neck, confirmed by a pathologic review of surgical or biopsy specimen(s), who meet standard clinical and laboratory criteria and will undergo treatment with concomitant cisplatin-based chemotherapy and radiation with curative intent or treatment with neoadjuvant chemotherapy (NAC). This includes subjects who will be treated with either intensity-modulated radiation therapy (IMRT) or proton radiotherapy, with planned dose to the cochlea \\<35 Gy (to limit confounding effects of radiation). Patients receiving immunotherapy in addition to cisplatin chemoradiation are eligible. Subjects treated with either high-dose cisplatin (typically 100 mg/m\\^2 x 2-3 doses every three weeks) or low-dose, weekly cisplatin (typically 40 mg/m\\^2 x 6-7 doses weekly) may enroll. Cisplatin in the neo-adjuvant setting may be given within a combination chemotherapy regimen (e.g TPF= Docetaxel, Cisplatin and 5FU or DC = Docetaxel Cisplatin)\n* Subjects must have hearing thresholds at or better than 70 dB HL at 1, 2, and 4 kHz in at least one ear at the time of their baseline audiogram. CTCAE criteria (primary endpoint) and ASHA criteria (secondary endpoint) are based on changes in hearing in at\n\nleast one ear with one ototoxicity event/grade assigned per person.\n\n* Baseline laboratory tests with lab values \\<1.5x the upper limit of normal: aspartate aminotransferase (AST or SGOT); alanine aminotransferase; creatine phosphokinase, creatinine\n* Ability to take oral medication by mouth or by feeding tube and willingness to adhere to the daily atorvastatin or placebo regimen\n* For females of reproductive potential: use of highly effective contraception for at least 1 month prior to enrollment and agreement to use such a method during study participation and for an additional 8 weeks after the end of atorvastatin administration\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Subjects currently taking a statin drug\n* Subjects with bilateral flat, Type B tympanogram\n* Subjects with bilateral cochlear implants\n* Pre-existing liver or kidney disease that in the opinion of the investigator would interfere with taking Atorvastatin 40 mg daily.\n* Subjects with a history of prior treatment with platinum chemotherapy drugs\n* Staff members of the NIDCD Sections and of the lead site investigators headed by the PIs\n* Children will be excluded because HNSCC in children under age 18 is exceedingly rare\n* Current use of cimetidine, spironolactone, ketoconazole, cyclosporine, protease inhibitors, gemfibrozil, clarithromycin or itraconazole\n* Pregnancy, lactation, or plan to become pregnant\n* Known allergic reactions to components of atorvastatin or the placebo\n* Other severe or unstable medical conditions which clinical site PI believes increase risk to safety or ability to complete study\n* Expected concomitant use of aminoglycoside antibiotics",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hearing Loss",
+    "Head and Neck Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with head and neck squamous cell carcinoma who are about to start cisplatin-based chemoradiation with curative intent, including those receiving neoadjuvant chemotherapy. Prior platinum chemotherapy is an exclusion, so all participants are receiving first-line systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligible patients must not have received prior platinum chemotherapy and must be starting cisplatin-based chemoradiation (with or without neoadjuvant chemotherapy) for head and neck cancer. Patients may be treatment-naïve or have had only neoadjuvant/adjuvant therapy, but no prior systemic therapy for advanced disease. This defines a first-line (1L) setting for advanced/metastatic disease."
+    }
+  ]
+}

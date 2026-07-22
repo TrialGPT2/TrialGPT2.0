@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04227548",
+  "title": "Reference Values for Compound Muscle Action Potential Amplitude Obtained by Direct Muscle Stimulation",
+  "brief_summary": "Direct muscle stimulation (DMS) method is one of the electrodiagnostic methods used in the diagnosis of critical illness myopathy (CIM) and critical illness neuropathy (CIN). The ratio of amplitude of compound muscle action potential (CMAP) obtained by nerve stimulation (nCMAP) to amplitude of CMAP obtained by DMS (dmCMAP) can be used to differentiate these two diseases. Although not certain, if the ratio is \\< 0.5, the diagnosis is thought to be consistent with CIN. The ratio \\> 0.5 is considered to be a finding supporting CIM. The investigators aimed to find the reference values of the ratio from healthy individuals. A monopolar needle electrode was used for DMS. The dmCMAP and nCMAP were recorded with a concentric needle. The ratio was calculated by using amplitudes of dmCMAP and nCMAP obtained from deltoid and tibialis anterior muscles.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Healthy individuals\n\nExclusion Criteria:\n\n* Polyneuropathy\n* a disease such as diabetes mellitus that causes polyneuropathy\n* complaints such as weakness or paresthesia\n* a neurodegenerative disease\n* abnormal neurological examination",
+  "minimum_age": "15 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Critical Illness Polyneuromyopathy"
+  ],
+  "overall_status": "COMPLETED"
+}

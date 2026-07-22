@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03158571",
+  "title": "Chilean Gastric Cancer Task Force (FORCE 1)",
+  "brief_summary": "Background. Gastric cancer (GC) is the world's second leading cause of neoplastic mortality. Genetic alterations, response to treatments and mortality rates are highly heterogeneous across different regions. In Chile, GC is the leading cause of cancer death, affecting 20 per 100,000 people and \\>3,000 deaths/year. Clinical outcomes and response to \"one size fits all\" therapies are highly heterogeneous and thus a better stratification of patients may aid cancer treatment and response.\n\nStudy design/methods. The Gastric Cancer Task Force (GCTF) is a Chilean collaborative, non-interventional retrospective study that seeks to stratify gastric adenocarcinomas (GACs) using retrospect clinical outcomes and genomic, epigenomic and protein alterations in a cohort of 200 patients. Tumor samples from the pathology department and the Cancer Center at UC Christus healthcare network at Pontificia Universidad Cat\u00f3lica de Chile will be analyzed using a panel of 143 known cancer genes (Oncomine Comprehensive Assay) at the Center of Excellence of Precision Medicine (CEMP) in Santiago, Chile. Additionally, gene promoter methylation will be performed and selected clinically relevant proteins (e.g. PD-L1, Erb-2, VEGFR2 among others) will be assessed by Tissue Microarray, Epstein-Barr virus (EBV) status will also be assessed. Observations will be correlated to 120 clinical parameters, including general patient information, cancer history, laboratory studies, comorbidity index, chemotherapy, targeted therapies, efficacy and follow-up.\n\nDiscussion. The development of a clinically meaningful classification that encompasses comprehensive clinical and molecular parameters may improve patient treatment, predict clinical outcomes, aid patient selection for clinical trials and offer insights into future preventive and/or therapeutic strategies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosed with gastric cancer (histological or cytological) Attending health centers of the Red UC Christus network for at least 3 months with clinical follow-up.\n\nCapable to read and speak spanish Willing and able to provide written informed consent to eh study that should be dated and signed informed consent\n\nExclusion Criteria:\n\n* With small biopsy samples insufficient for analysis. Whose medical records cannot be collected or are unavaible Without signed informed consent.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Chilean population diagned with gastric cancer",
+  "condition": [
+    "Biomarkers"
+  ],
+  "overall_status": "COMPLETED"
+}

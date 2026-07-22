@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04499378",
+  "title": "Tomographic Findings in COVID-19 and Influenza H1N1",
+  "brief_summary": "The investigators decided to conduct a longitudinal study that compares the pulmonary tomographic patterns found in patients with viral pneumonia (i.e. influenza H1N1 and SARS-CoV-2) at a regional hospital. The primary aim of this study is to evaluate the association between the radiological CT pattern and the need for invasive mechanical ventilation. A secondary aim is to assess the mortality within the first 28 days of intensive care unit admission.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with signed informed consent.\n* Patients with a positive PCR test for SARS-CoV-2 or influenza H1N1 test upon emergency department admission.\n* Patients with lung CT within 24hrs of specimen collection for PCR test.\n* Patients with complete 30-day follow-up information.\n\nExclusion Criteria:\n\n* Patients who are unwilling to undergo a lung CT.\n* Negative PCR test for SARS-CoV-2 or influenza H1N1 test upon emergency department admission.\n* Patients with a tumor or tumor metastasis on the pulmonary CT.\n* Patients with a previous or de novo autoimmune disease diagnosis.\n* Patients with a previous or de novo interstitial lung disease.\n* Pregnancy.\n\nElimination Criteria:\n\n* Patients with loss of information on the variables of interest.\n* Patients without 30-day follow-up information.\n* Patients who chose to withdraw their participation at any time of the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Convenience sample from a Mexican a primarily urban and suburban population. All patients are affiliated with a health care system that is sponsored by the state, business owners, and the labor force. Patients primarily represent the working class from a country with a high (0.767) Human Development Index.",
+  "condition": [
+    "Covid19",
+    "Influenza A H1N1",
+    "Intubation Complication",
+    "Morality",
+    "Lung Injury, Acute"
+  ],
+  "overall_status": "UNKNOWN"
+}

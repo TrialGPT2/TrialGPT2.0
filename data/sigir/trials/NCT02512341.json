@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02512341",
+  "title": "Automatic Differentiation of Innocent and Pathologic Murmurs in Pediatrics",
+  "brief_summary": "The purpose of this preliminary clinical study is to assess the quality of a computational algorithm that automatically classifies murmurs of phonocardiograms (PCGs) as either pathologic (AHA class I) or as no- or innocent (AHA class III) in the pediatric population.\n\nEach patient is auscultated and diagnosed independently by a medical specialist by means of a standard mechanical stethoscope. Additionally, for each patient, a PCG is recorded using a Littmann 3200 electronic stethoscope and later analyzed using the computational algorithm. An echocardiogram is performed as the gold-standard for determining heart pathologies. The results of the computer aided auscultation (CAA) are compared to the findings of the medical professionals as well as to the echocardiogram findings.\n\nHypothesis: The specific CAA algorithms used in this study are able to differentiate pathologic (AHA class I) from no- or innocent murmurs (AHA class III) in a pediatric population.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* outpatient\n* parental approval for study participation\n\nExclusion Criteria:\n\n* none",
+  "minimum_age": "",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Outpatients with and without heart defects showing pathological heart murmurs, innocent heart murmurs and heart sounds without murmurs at the cardiology department.",
+  "condition": [
+    "Heart Murmurs",
+    "Mitral Valve Prolapse",
+    "Systolic Murmurs"
+  ],
+  "overall_status": "COMPLETED"
+}

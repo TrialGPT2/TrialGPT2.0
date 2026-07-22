@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01756690",
+  "title": "Predicting Lung Injury From Transfusion in Patients With Liver Disease",
+  "brief_summary": "A certain molecule floating in the blood may represent a risk of lung injury after a transfusion. We are determining whether detection of this molecule on a simple blood clotting test will predict the development of lung injury due to transfusion in bleeding patients with chronic liver disease.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion criteria: Subjects will be eligible to participate in the study if they meet all of the following criteria:\n\n1. Admit to an ICU due to gastrointestinal bleeding AND an INR \\> 1.5\n2. Patient has chronic liver disease defined as 1 or more of the three following diagnostic criteria:\n\n   1. Previous diagnosis of chronic liver disease OR Imaging or biopsy diagnosis of cirrhosis\n   2. Signs of portal hypertension (ascites, varices, hypersplenism)\n   3. Laboratory evidence of synthetic dysfunction (INR\\>1.5, Bilirubin\\> 2.0, Albumin\\< 2.5) AND \u22652 physical exam findings on admission associated with chronic liver disease (palmar erythema, spider angiomata, asterixis, caput medusa, gynecomastia)\n\nExclusion criteria: Subjects will be ineligible to participate in the study if they meet any of the following criteria\n\n1. Patient under age 18 OR pregnant OR incarcerated\n2. Patient meets criteria for acute respiratory distress syndrome (ARDS) (PaO2/FiO2\\<165)\n3. Patient admitted to ICU for re-bleed on same hospital admission OR has already received \\>4 units of plasma.\n4. History of inheritable or acquired clotting or bleeding disorder\n5. Patient actively anticoagulated or has recently received (within 72h) vitamin K antagonists, direct thrombin inhibitors, heparins or Xa antagonists",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patient with chronic Liver disease admitted to an intensive care unit with a gastrointestinal bleed and INR\\> 1.5 who may receive plasma transfusion therapy.",
+  "condition": [
+    "Transfusion-related Acute Lung Injury",
+    "Chronic Liver Disease",
+    "Gastrointestinal Bleeding"
+  ],
+  "overall_status": "TERMINATED"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01208077",
+  "title": "PREMIUM Registry: PRognostic HEModynamIc Profiling in the AcUtely Ill EMergency Department Patient",
+  "brief_summary": "This multinational registry (3 USA, 2 European centers) will capture in the ED continuous non invasive hemodynamic monitoring (using Nexfin finger cuff technology) of patients presenting with acute heart failure, stroke syndromes and systemic infection. Patients will be observed after their Emergency Department (ED) disposition to determine clinical outcomes (length of stay in the hospital, the development of any organ dysfunction, mortality and need for unscheduled medical care within the ensuing 30 days). It is anticipated that specific ED hemodynamic profiles will be predictive of better clinical outcomes than others. This information will provide the outcome data needed to design future therapeutic trials that will evaluate the effect of ED hemodynamic manipulations on overall patient management and outcomes.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nGeneral Inclusion Criteria\n\n* 18 years of age or older\n* Able to provide informed consent\n* No initiated therapy since arrival to the ED\n* Must be enrolled within 4 hours of arrival to the ED\n\nInclusion Criteria for Acute CHF\n\n* Recurrent or worsening (within 3 days) shortness of breath as the primary presenting ED complaint\n* Initial treating ED physician impression that the worsening dyspnea is most likely caused by decompensated CHF\n* Known history of physician diagnosed CHF\n* Natriuretic peptide (BNP, MR-pro ANP, NT pro BNP) level will be ordered by the treating physician as part of the patient's work up\n\nInclusion Criteria for Acute Stroke Syndrome\n\n* Onset of abnormal neurological symptoms consistent with possible stroke, within the prior 24 hours, as the primary ED complaint\n* Initial treating ED physician impression that the abnormal neurological symptoms/signs are most likely caused by an acute stroke syndrome\n* Non contrast head CT will be ordered by the treating physician as part of the patient's work up\n\nInclusion Criteria for Acute Systemic Infection\n\n* Any combinations of acute (within 3 days) symptoms and signs that the treating ED physician, after initial history and physical examination, attributes to a systemic infection\n* Blood cultures and/or a blood lactate will be ordered by the treating physician as part of the patient's work up\n\nExclusion Criteria:\n\nGeneral Exclusion Criteria\n\n* ESRD requiring hemo or peritoneal dialysis\n* Suspected pregnancy\n* Not able to be followed up in 30 days\n* Patients with \"comfort only\" DNR status\n* Patients with known STEMI\n* Excessive agitation\n* Transferred from another treating facility\n* Known aortic valve disease\n* On continuous IV home infusions (such as milrinone, primacor)\n* Known Left Ventricular Assist device (LVAD)\n* Known prior enrollment in this study\n* In current therapeutic Investigational study",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Potential subjects will be screened and enrolled from the Emergency Department",
+  "condition": [
+    "Acute CHF",
+    "Acute Stroke Syndromes",
+    "Systemic Infections"
+  ],
+  "overall_status": "COMPLETED"
+}

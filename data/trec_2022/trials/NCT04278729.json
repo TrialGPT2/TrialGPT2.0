@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04278729",
+  "title": "A Prospective Multi-dose Study of Apixaban in Subjects With Nephrotic Syndrome",
+  "brief_summary": "This phase I study is a single arm, multi-dose study that will evaluate steady-state apixaban pharmacokinetics (PK) and pharmacodynamics (PD) in subjects with Nephrotic Syndrome (NS) vs healthy control subjects. This study will enroll 20 subjects diagnosed with NS and 10 healthy control subjects. Comparing differences in steady-state apixaban PK/PD parameters between subjects with NS and healthy volunteers will be essential to identifying a safe and effective apixaban dose and dose administration schedule for future randomized controlled trials (RCTs).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\nStudy Subjects\n\n* 18-79 years of age\n* Confirmed diagnosis of NS, with at least one of the following (confirmed within 1 month prior to scheduled Day 1 Study Visit):\n* Nephrotic-range proteinuria, defined as \\>3.0 g/24 hours\n* UPC (ratio of protein to creatinine in random spot urine sample), defined as \\>3.0\n* Hypoalbuminemia, defined as \\<3.0 g/dL\n\nControl Subjects\n\n* 18-79 years of age\n* Normal albumin levels (\\>3.0 mg/dL)\n* No history of chronic kidney disease\n\nExclusion Criteria:\n\n* Age \\<18 or \u226580 years old\n* Serum Creatinine (SCr) \u22651.5 AND weight \u226460kg (these subjects would receive a reduced apixaban dose, per drug labeling)\n* Weight \\>120 kg OR body mass index (BMI) \u226540 kg/m\\^2\n* Estimated Glomerular Filtration Rate (eGFR) \\<15 mL/min or on dialysis\n* Signs and symptoms of increased risk of bleeding, including but not limited to: frequent nosebleeds, unexplained or worsening bruising, blood in urine or stool\n* Unwilling to avoid engaging in activities that may increase the risk of bleeding through body injury or bruising, during the study period (e.g., contact sports)\n* Baseline prolonged INR, defined as INR \\>1.4\n\n  * If INR is elevated, but PT and aPTT are below the upper limit of normal (13.3 sec and 37.7 sec, respectively), then the subject may be cleared to receive the study drug at the discretion of one of the study physicians.\n* Platelets \\<100 x 109/L\n* History of stroke, or a history of gastrointestinal or intracranial bleeds\n* Use of any prescription medications, over-the-counter (OTC) medications, or herbal products that are strong inhibitors or inducers of CYP3A4 and/or P-gp within 14 days prior to Study Day 1 or anticipated need for such drugs during the study. Examples included:\n\n  * Strong inducers of CYP3A4 (e.g., rifampin, carbamazepine, phenytoin, St. John's Wort, etc.)\n  * Strong inhibitors of CYP3A4 (e.g., ketoconazole, ritonavir, clarithromycin, etc.)\n  * Antiplatelet and/or anticoagulant agents: heparin, aspirin\\*\\* (see below), clopidogrel, prasugrel, non-steroidal anti-inflammatory drugs (NSAIDs), warfarin, rivaroxaban, dabigatran, edoxaban\n* Pregnancy or breastfeeding\n* Liver disease with impaired synthetic function (INR \\>1.4, total bilirubin \\>1.2)\n* Evidence of acute kidney disease by the KDIGO criteria (\\>1.5 x baseline SCr, or \\>0.3 mg/dL increase in SCr, over past 48 hours\n* Unwillingness to forgo drinking alcohol during the study period due to heightened bleeding risk.",
+  "minimum_age": "18 Years",
+  "maximum_age": "79 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Nephrotic Syndrome",
+    "Membranous Nephropathy"
+  ],
+  "overall_status": "COMPLETED"
+}

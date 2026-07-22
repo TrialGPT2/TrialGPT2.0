@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT00706602",
+  "title": "Predicting the Course of Chronic Obstructive Pulmonary Disease (COPD) in Primary Care",
+  "brief_summary": "Background: COPD is a systemic illness; morbidity and mortality due to this disease are on the increase, and it has great impact on patients' lives. Most COPD patients are managed by general practitioners (GP). GPs base their initial assessment of patients' disease severity mainly on lung function and then inform patients about adequate treatment. However, lung function correlates poorly with COPD-specific health-related quality of life and exacerbation frequency. Preventive cardiology embraced risk index-guided treatment successfully. COPD disease severity indices that better represent the clinical manifestations of COPD are needed that can be used to guide risk-stratified treatment.\n\nObjectives: (1) The development and validation of a practical COPD disease severity index to predict the course of health-related quality of life over time. (2) The validation of the ADO-Index (Age, Dyspnea, Obstruction) to predict 3-year mortality in COPD patients in primary care. (3) Link evidence on treatment effects to the COPD risk indices to guide COPD treatment selection.\n\nMethods: We are in the process of conducting two linked prospective cohort studies with 413 COPD patients (GOLD stages 2-4) from GPs in Switzerland and the Netherlands. We performed a sound baseline assessment including detailed patient history, lung function, measurement of exercise capacity and blood sampling. During the follow-up of at least five years, we update the patients' profile by registering health status, exacerbations and health-related quality of life and, after 2 years, lung function and measurement of exercise capacity. For aim 1, we will identify the best combination of variables predicting the course of health-related quality of life over time using multivariable regression analysis. For aim 2, we will assess discrimination and calibration of the ADO index to predict 3-year mortality. For aim 3, we will estimate treatment effects for individual patient profiles using complex statistical models such as Markov models.\n\nSignificance of project: After this study, different risk scores will be available for use in primary care so that general practitioners can estimate what impact COPD will have on the patients. By linking these risk scores to evidence form treatment studies, it will be possible to show for an individual patient how COPD and different treatments impacts on mortality, symptoms and exacerbations. Thereby, patients and physicians can make more informed treatment decisions balancing the benefits and downsides of different treatments.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients \u226540 years of age with COPD in GOLD stage II to IV (postbronchodilator FEV1/FVC\u22640.70, postbronchodilator FEV1\u226480% predicted) are eligible if in- or outpatient treatment of their last exacerbation ended \u22654 weeks ago.\n\nExclusion Criteria:\n\n* Patients who received mechanical ventilation in the previous 12 months (because of extremely poor prognosis), patients with co-morbidities associated with a life expectancy of \u226412 months, patients diagnosed with dementia, psychosis or other psychiatric illness that invalidate assessment of patient-reported parameters and patients who cannot complete thr baseline assessment due to language difficulties.",
+  "minimum_age": "40 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "COPD patients from primary care. Patients are identified through electronic or paper-based patient charts and by participating general practitioners.",
+  "condition": [
+    "COPD"
+  ],
+  "overall_status": "UNKNOWN"
+}

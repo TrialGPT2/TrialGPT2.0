@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04765943",
+  "title": "Prognosis Impact of NSVTs After an AMI (TeVeO Study).",
+  "brief_summary": "Nowadays, Sudden Cardiac Death (SCD) due to malignant arrhythmias is an important cause of death among acute myocardial infarction (AMI) survivors. Preventive strategies with implantable cardioverter-defibrillators (ICD) are the best clinical option for patients, but associated sociosanitary impact in the National Health Systems and the fact that current implant strategy not always results in benefits for the patient requires to develop further selection criteria. The TeVeO project aims to study the events that take place early following an AMI to predict the short- and long-term risk of experiencing a potentially lethal ventricular tachycardia (VT). The project will carry out an observational and multicentric study involving 5 different hospitals to: a) qualitative and quantitative characterize non-sustained VTs (NSVT) that take place during the first 6 months after an AMI and b) characterize the evolution of the substrate (scar and surrounding tissue) in patients meeting criteria for ICD implant. Patients included in the study will be implanted with an implantable loop recorder (ILR) in order to register NSVT and cMRI images will be acquired prior to hospital discharge and at 6 months after AMI to study the substrate. Further patients' management will follow the protocols within each entity. Project results will allow us to stratify patients according to identified risks for developing malignant VT, which will improve patient selection for ICD implantation and will contribute to tailor patients' treatment and prevention, improving the cost-effectiveness of these devices and minimizing their associated problems and sociosanitary burden.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* AMI patients over 18 years old.\n* LVEF equal or lower than 40% determined by a transthoracic echocardiography 4 days after the onset of the AMI.\n* Revascularization during hospitalization according to the clinical practice guidelines\n* Signed informed consent.\n\nExclusion Criteria:\n\n* Non-ischemic etiology of left ventricular dysfunction by cMRI.\n* Patient already implanted with a cardiac device (pacemaker, ICD or ICD-TRC).\n* Indication of pacemaker, ICD or ICD-TRC implantation during hospitalization.\n* Allergy or hypersensitivity to any implatable device component.\n* Contraindication for cMRI performance.\n* Life expectancy under 1 year due to a non-cardiac cause.\n* Concomitant valvulopathy with indication for surgery.\n* High functional class (NYHA IV).\n* No possibility to connect to the remote monitoring.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Unselected patients who have suffered a myocardial infarction and who have an LVEF equal to or less than 40% (determined by transthoracic echocardiography) on the fourth day after the event.",
+  "condition": [
+    "Death, Sudden",
+    "Ventricular Tachycardia",
+    "Implantable Defibrillator User",
+    "Myocardial Infarction",
+    "Myocardial Dysfunction"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

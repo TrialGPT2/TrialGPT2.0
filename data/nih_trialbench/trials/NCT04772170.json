@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04772170",
+  "title": "Observational Digital Biomarker Discovery in Respiratory Virus Challenge Studies",
+  "brief_summary": "Background:\n\nRespiratory viruses circulate throughout the year and around the globe. Wearable and sensor devices, like smartwatches, may be able to help monitor infectious diseases. Researchers want to use them to learn how respiratory viruses affect people in different ways.\n\nObjective:\n\nTo use digital devices to collect data from participants in challenge studies that could indicate subtle changes in health during an infection that might otherwise go unnoticed.\n\nEligibility:\n\nHealthy adults who have enrolled, were recently enrolled, or are scheduled to enroll in a challenge study.\n\nDesign:\n\nParticipants will stay at NIH for the duration of the challenge study (at least 9 days) and then will have outpatient follow-up visits (2-4).\n\nWhile at NIH, participants will wear a smartwatch at all times. It will record data like temperature, heart rate, breathing rate, and movements.\n\nParticipants will have a smartphone that records at all times to listen for coughing and changes in voice.\n\nParticipants will perform tasks every 4 hours during the daytime. They will record themselves coughing, breathing in deeply, and reading aloud. They will take videos of their face. They will play a game to test their reflexes and focus. They will measure their head temperature with their smartwatch.\n\nFor outpatient visits, participants will use one smartphone and the smartwatch to complete the above tasks.\n\nParticipants will be sent a smartwatch to wear at home at night to collect additional healthy data.\n\nParticipation will last the duration of each challenge study, and may range from 10 weeks to 2 years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Able to provide informed consent.\n2. Current, recent, or planned enrollment in a respiratory virus challenge study at the NIH Clinical Center.\n3. Willing to wear devices as instructed.\n4. Willing to participate in monitoring activities as instructed.\n5. Willing to have monitoring data stored.\n6. Willing to have monitoring data shared with protocol investigators at NIH, University of Washington, and University of Toronto.\n7. Willing to have select clinical data from the challenge study such as vital signs, viral shedding, pulmonary function test and/or spirometry results, and clinical symptoms data shared with investigators at University of Washington and University of Toronto.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1\\. Any condition that, in the opinion of the investigator, contraindicates participation in this study.\n\nCo-enrollment guidelines: Participants must be co-enrolled, planned for co-enrollment, or recently enrolled in a challenge study. Co-enrollment in other studies is restricted but may take place after study staff notification and only with approval of the principal investigator or designee.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy volunteers currently enrolled in a respiratory virus challenge study",
+  "condition": [
+    "Influenza",
+    "Respiratory Virus",
+    "Coronavirus"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling healthy adults participating in respiratory virus challenge studies. There is no cancer diagnosis or systemic therapy for advanced disease involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls healthy adults co-enrolled in respiratory virus challenge studies, with no mention of cancer or systemic therapy. Line-of-therapy intent is not applicable."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT06749366",
+  "title": "Uncovering Genes Behind Cartilage Tumors and Vascular Anomalies Using Genomic Sequencing",
+  "brief_summary": "Background:\n\nOllier disease (OD) and Maffucci syndrome (MS) are rare disorders that increase the risk of cancers in cartilage tissue. These tumors can lead to severe skeletal deformities beginning in childhood. People with OD or MS are also at an increased risk of blood vessel disorders and specific cancers. Researchers want to learn more about what causes these disorders.\n\nObjective:\n\nTo understand the genetic causes of OD and MS.\n\nEligibility:\n\nPeople aged 2 years and older who have OD or MS with cartilage tumors or blood vessel disorders.\n\nDesign:\n\nParticipants will stay at the NIH clinic for 5 days. They will undergo these procedures:\n\nA physical exam with blood tests.\n\nDXA (dual-energy X-ray absorptiometry) scan. The DXA scan measures the density of bones. Participants will lie on a table while a machine uses low-level X-rays to scan their body.\n\nMRI (magnetic resonance imaging) scan. An MRI uses strong magnets to take pictures of the tissues inside the body. Participants will lie on a table that slides into a large tube. A contrast dye may be injected through a needle inserted into a vein in the arm.\n\nX-rays. Some participants may have full-body X-rays instead of an MRI. X-rays take pictures of bones and other internal tissues and organs, such as the heart, lungs, and airways.\n\nPET (positron emission tomography) and CT (computed tomography) scans. Adult participants will have 2 other scans. The PET scan will include a radioactive injection into a vein. They will also have a full-body CT scan.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPatients \\>=2 years of age, male or female, of any ethnicity and age will be included if diagnosed with a disorder characterized by cartilage tumors or vascular anomalies.",
+  "minimum_age": "2 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "100 patients with Ollier disease (OD) and Maffucci syndrome (MS)",
+  "condition": [
+    "Enchondromatosis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational genomic study enrolling patients with Ollier disease or Maffucci syndrome, regardless of prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, and there are no restrictions or requirements regarding previous lines of therapy. This is a genomic and imaging study for patients with OD or MS, regardless of treatment history."
+    }
+  ]
+}

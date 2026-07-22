@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT02311374",
+  "title": "Human Brain Mapping of the Apparent Diffusion Coefficient (ADC) During Sleep and Wakefulness",
+  "brief_summary": "Background:\n\n\\- The glymphatic system helps keep harmful waste from building up in the brain. Researchers think it is more active in people during sleep than while awake. They want to study the glymphatic system using magnetic resonance imaging (MRI).\n\nObjective:\n\n\\- To see if there are differences in the way waste is removed from the brain while a person is sleeping versus awake.\n\nEligibility:\n\n\\- Healthy people age 18-60.\n\nDesign:\n\n* This study is in 2 parts.\n* For the technical part (discontinued), participants will be screened with medical history and physical exam. They will have urine and breath alcohol tests.\n* Participants will have 2 MRI scans. Before the scans, they will have urine and breath alcohol tests, and complete a questionnaire.\n* For MRI, participants will lie on a table that slides in and out of a metal cylinder. A device will be placed over their head. They will lie still for up to 20 minutes at a time. They may be asked to stay awake or fall asleep for up to 2 hours at a time.\n* For the research part, participants will be screened with medical history and physical exam. They will have urine and breath alcohol tests. For 1 week they will wear a device that monitors their activity and sleep.\n* Participants will stay at NIH overnight. They will give a blood sample, have urine and breath alcohol tests, and complete a questionnaire.\n* Participants will take memory, concentration, and thinking tests.\n* Participants will have 3 MRI scans. An electroencephalography machine will record their brain activity. Electrodes will be placed on their scalp.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAll Participants\n\n1. Between 18 and 60 years of age as determined by self-report.\n2. Ability to provide written informed consent as determined by physical examination and verbal communication.\n\nEXCLUSION CRITERIA:\n\nAll Participants\n\n1. Subjects with self-report of insomnia as determined by self-report and/or medical history;\n2. Subjects with any of the following: narcolepsy, obstructive sleep apnea (OSA) and/or abnormal sleeping patterns (including but not limited to those who use a C-PAP machine, sleeping during the day, using medication to fall asleep, sleeps less than 6 hours per night, night shift workers), subjects reporting snoring as determined by self-report using STOP-BANG questionnaire for undiagnosed OSA (3 or more yes answers will exclude) and/or medical history;\n3. Subjects with a history of restless leg syndrome as determined by self-report and/or medical history;\n4. Use, in the past two weeks, of psychoactive medications (four weeks for fluoxetine) or medications that may affect brain function (including but not limited to opioid analgesics, tricyclic antidepressants, selective serotonin reuptake inhibitors \\[SSRIs\\], or serotonin norepinephrine reuptake inhibitors \\[SNRIs\\], benzodiazepines and barbiturates) as determined by self-report and/or medical history;\n5. Current or past DSM-IV or DSM 5 diagnosis of a psychiatric disorder as determined by history and clinical exam including substance use disorder (except for nicotine/caffeine), alcoholism and alcohol dependence. Past history of a mental disorder as defined by DSM IV or DSM 5 will be excluded only if it required hospitalization (any length), or chronic medication management (more than 4 weeks), and that could impact brain function at the time of the study.\n6. Major medical problems that can impact brain function at the time of the scan (e.g., problems of the CNS including seizures and psychosis; cardiovascular disease including hypertension and arrhythmias; metabolic, autoimmune, endocrine disorders) as determined by self-report, medical history and/or clinical exam.\n7. Head trauma with loss of consciousness for more than 30 minutes as determined by self-report and/or medical history;\n8. Positive test for controlled substances (cocaine, methamphetamine, amphetamines, opioids, cannabinoids, benzodiazepines and barbiturates) on any day of study including upon check-in to NIH CC as determined by urine toxicology;\n9. Pregnant: Females must have negative urine pregnancy test\n10. Presence of ferromagnetic objects in the body that are contraindicated for MRI of the head (including but not limited to pacemakers or other implanted electrical devices, brain stimulators, some types of dental implants, aneurysm clips, metallic prostheses, permanent eyeliner, implanted delivery pump, or shrapnel fragments) or fear of enclosed spaces as determined by the self-report checklist.\n11. Fear of enclosed spaces (claustrophobia) as determined by self-report and medical history.\n12. Cannot lie comfortably flat on the back for up to 3 hours in the MRI scanner as determined by self-report.\n13. Body weight greater than 250 kg. This is the upper limit that the bed of the MR scanner can accommodate (clinical exam).\n14. Alcohol consumption on the day of the MRI as determined by breath alcohol test\n15. Study investigators and staff, as well as their superiors, subordinates and immediate family members (adult children, spouses, parents, siblings).",
+  "minimum_age": "18 Years",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Brain Mapping"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-oncology study enrolling healthy volunteers with no history of cancer or systemic therapy. There is no line-of-therapy intent applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls only healthy participants without cancer; there is no mention of systemic therapy or lines of therapy for advanced disease. Line-of-therapy criteria are not applicable."
+    }
+  ]
+}

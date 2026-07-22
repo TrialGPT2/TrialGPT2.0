@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03956069",
+  "title": "Study of the Diagnostic Value of \"Rapid\" High Throughput Genome Sequencing Analysis in Diagnostic Emergency Situations",
+  "brief_summary": "Rare diseases (affecting less than one in 2,000 people) are a major public health issue. There are about 8,000 rare diseases and they affect more than 3 million people in France. Most of these diseases are diagnosed in children, and they are responsible for 10% of deaths before the age of 5. Up to 80% of these diseases are believed to be of genetic origin. New generation high throughput sequencing (HTS) technologies, which allow the study of an individual's entire genome, have emerged in recent years as a tool of choice for the study of rare diseases. Our team was the first in France to demonstrate the value of exome sequencing (ES: all coding regions (exons), representing 1% of the total genome size) in the diagnosis of severe diseases in pediatric patients, developmental anomalies and intellectual disability.\n\nAlthough it represents a significant advance in the diagnosis of genetic diseases, ES provides a contributing result in only about 30% of cases in patients with no obvious clinical diagnosis and with normal CGH-array. Sequencing the entire genome (GS) promises to improve the ability to study the causes of genetic diseases, with an expected diagnostic rate of 50 to 60% through the concomitant identification of point variations, CNVs and structural variations. While some international teams have already implemented GS in the diagnosis of rare diseases, only two teams report the use of trio GS in emergency situations in the neonatal period, with a low yield for first-line diagnostic use (31 and 42% respectively). It is therefore essential that these preliminary results be compared with other studies before considering the deployment of GS in diagnostic, early detection or rapidly evolving emergency situations, such as neonatal resuscitation or pediatric neurological distress.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Children (0-6 years old) hospitalized in neonatal intensive care or pediatric intensive care with a suspected genetic disease and without an obvious clinical diagnosis\n* Possibility of taking the proband and their 2 biological parents\n* Parents affiliated to or beneficiaries of the national health insurance system\n* Informed consent signed by the legal representatives of the minor patient\n* Ability to understand the study for both biological parents\n\nExclusion Criteria:\n\n* Diagnostic hypothesis considered highly probable with an available molecular test having a lower cost than GS\n* Individuals who have already had high throughput sequencing (panel, ES)\n* Parents protected\n* Families where one of the two holders of parental authority is not a biological parent",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "child with a suspected genetic disease without an obvious clinical diagnosis and both biological parents",
+  "condition": [
+    "Developmental Anomalies"
+  ],
+  "overall_status": "COMPLETED"
+}

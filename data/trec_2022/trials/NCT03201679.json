@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03201679",
+  "title": "The Association Between Preoperative Sepsis and the Mortality After Hip Fracture Surgery",
+  "brief_summary": "The worldwide occurrence of hip fracture is high with an annual incidence of approximately 100 per 100.000 people. Mortality for patients undergoing hip fracture surgery is high with a 30-day mortality rate varying between 4.5 and 13.3 %. It is agreed that non-modifiable factors such as age, gender and pre-existing comorbidities contribute to early death of hip fracture patients. However, not many studies have focused on preoperative sepsis as a potential risk factor. Hip fracture patients are commonly identified with sepsis after surgery, but the extent of preoperative sepsis and its consequences are sparsely elucidated. Being able to identify patients at higher risk of postoperative mortality could potentially improve outcome and extensive hospital registries of vital signs and cultures allow identification of preoperative sepsis.\n\nThe aim of this study is to assess the association between preoperative sepsis and the 30-day mortality after hip fracture surgery.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with one of the following ICD-10 diagnoses for hip fracture: DS720(Fracture of neck of femur), DS721 (Pertrochanteric fracture), DS721A(Intertrochanteric fracture), DS721B (Trochanteric fracture), DS722 (Subtrochanteric fracture)\n* Patients who underwent surgery for hip fracture.\n* Age \\> 18 years\n\nExclusion Criteria:\n\n* Patients with a pathologic hip fracture related to an underlying metastatic disease (ICD-10: DM907).\n* Patients with incomplete preoperative data. All patients must have at least one record of each of the following variables within 72 hours prior to hip fracture surgery: temperature, heartrate, respiratory rate and blood leukocytes.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The population will consist of patients admitted with a primary diagnosis of hip fracture and who underwent hip fracture surgery between January 1, 2014 and December 31, 2014.",
+  "condition": [
+    "Sepsis",
+    "Hip Fractures"
+  ],
+  "overall_status": "COMPLETED"
+}

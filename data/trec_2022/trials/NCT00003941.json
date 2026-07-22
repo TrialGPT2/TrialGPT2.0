@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00003941",
+  "title": "Combination Chemotherapy With or Without Peripheral Stem Cell Transplant in Treating Men With Previously Untreated Germ Cell Cancer",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Combining more than one drug may kill more cancer cells. Peripheral stem cell transplant may allow the doctor to give higher doses of chemotherapy and kill more cancer cells. It is not yet known whether chemotherapy and peripheral stem cell transplant is more effective than chemotherapy alone.\n\nPURPOSE: This randomized phase III trial is studying how well combination chemotherapy works when given with peripheral stem cell transplant and how it compares with combination chemotherapy alone in treating men with previously untreated germ cell cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically proven germ cell cancer\n\n  * Nonseminoma OR\n  * Combined seminoma and nonseminoma\n* Poor prognosis (nonseminoma):\n\n  * Testis/retroperitoneal primary AND\n  * One of the following poor tumor markers\n\n    * AFP greater than 10,000 iu/L\n    * HCG greater than 50,000 iu/L\n    * LDH greater than 10 times upper limit of normal OR\n  * Nonpulmonary visceral metastases (i.e., liver, bone, or brain) OR\n  * Mediastinal primary\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 16 to 50\n\nSex:\n\n* Male\n\nPerformance status:\n\n* WHO 0-3\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* WBC at least 3,000/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n\nHepatic:\n\n* Bilirubin no greater than 1.25 times upper limit of normal (ULN)\n* AST no greater than 2 times ULN\n\nRenal:\n\n* Creatinine clearance at least 60 mL/min (unless due to obstructive uropathy correctable by nephrostomy)\n\nOther:\n\n* No other malignancy except basal cell skin cancer\n* No neuropathy\n* No other serious illness or medical condition\n* No psychological, familial, sociological, or geographical condition that would prevent compliance\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* No prior chemotherapy\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* Concurrent radiotherapy for brain metastases allowed\n\nSurgery:\n\n* Concurrent surgery for brain metastases allowed",
+  "minimum_age": "16 Years",
+  "maximum_age": "50 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Mediastinal Cancer",
+    "Metastatic Cancer",
+    "Testicular Germ Cell Tumor"
+  ],
+  "overall_status": "COMPLETED"
+}

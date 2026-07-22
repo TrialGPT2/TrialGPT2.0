@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00389467",
+  "title": "Mechanical Retrieval and Recanalization of Stroke Clots Using Embolectomy",
+  "brief_summary": "The purpose of this study is to compare the effectiveness of treating acute ischemic stroke with mechanical embolectomy using the Merci Retriever or the Penumbra System within 8 hours of symptom onset to standard medical treatment, and to identify people who might benefit from mechanical embolectomy by the appearance of stroke on multimodal computerized tomography (CT) or magnetic resonance (MR) imaging.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* New focal disabling neurologic deficit consistent with acute cerebral ischemia (NIHSS \\>/= 6)\n* Age \\>/= 18 \u2264 85\n* Clot retrieval procedure can be initiated within 8 hours from onset\n* Large vessel proximal anterior circulation occlusion on MR or CT angiography (internal carotid, M1 or M2 MCA)\n* Pretreatment MRI performed according to MR RESCUE protocol\n* Signed informed consent obtained from the patient or patient's legally authorized representative\n* Premorbid modified Rankin score of 0-2\n* Allowed but not required: patients treated with IV tPA (tissue plasminogen activator) up to 4.5 hours from symptom onset with persistent target occlusion on post-treatment MR RESCUE MR or CT protocol performed at the completion of drug infusion (Note: Rapidly improving neurological signs prior to randomization is an exclusion)\n\nExclusion Criteria:\n\n* NIHSS \\>/= 30\n* Contraindication to MRI (pacemaker etc)\n* Acute intracranial hemorrhage\n* Coma\n* Rapidly improving neurological signs prior to randomization\n* Pre-existing medical, neurological or psychiatric disease that would confound the neurological, functional, or imaging evaluations\n* Pregnancy\n* Known allergy to iodine previously refractory to pretreatment medications\n* Current participation in another experimental treatment protocol\n* Contrast-Enhanced Neck MRA (magnetic resonance angiography) or CTA (computed tomography angiography) suggests proximal ICA occlusion, proximal carotid stenosis \\> 67%, or dissection\n* INR \\> 3.0 (international normalized ratio)\n* PTT \\> 3 x Normal (partial thromboplastin time)\n* Imaging data cannot be processed by the MR RESCUE computer\n* Renal Failure (serum creatinine \\> 2.0 or Glomerular Filtration Rate \\[GFR\\] \\< 30)\n\nMRI Exclusion Criteria:\n\n* Contraindication to MRI (pacemaker, etc)\n\nCT Exclusion Criteria:\n\n* Contraindication to iodinated contrast\\*\\*\n\n  \\*\\*Examples of possible iodinated contrast contraindications include:\n* Hyperthyroidism\n* History of severe allergic reaction to iodinated contrast material\n* History of sever kidney disease as an adult, including tumor or transplant surgery, or family history of kidney failure\n* Paraproteinemia syndromes or multiple myeloma\n* Collagen vascular disease\n* Severe cardiac insufficiency\n* Severely compromised liver function\n* Current therapy with metformin, aminoglycosides",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke"
+  ],
+  "overall_status": "COMPLETED"
+}

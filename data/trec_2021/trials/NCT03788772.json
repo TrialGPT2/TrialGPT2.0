@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03788772",
+  "title": "Systems Analysis of Antigen Presenting Cells in Human Sepsis",
+  "brief_summary": "Sepsis is a common life-threatening inflammatory response to infection and is the leading cause of death in the intensive care unit. Septic patients exhibit a complex immunosuppressive response affecting both innate and adaptive components of immunity, with a possible link to nosocomial infections. However, the molecular and cellular mechanisms resulting in secondary immunosuppression remain poorly understood, but may involve the antigen-presenting cells (APC, including dendritic cells and monocytes/macrophages) that link innate and adaptive immunity. Furthermore, the increasing phenotypic and functional heterogeneity of APC subsets raise the question of their respective role in sepsis. We propose to address the pathophysiologal role of APC using systems biology approaches in human sepsis.\n\nThe objective is to go from low- to high-resolution analysis of APC subset diversity and underlying molecular and functional features in sepsis. The global objective will be reached through:\n\n1. Systematic description and phenotypic analysis of circulating APC subsets in sepsis\n2. Association of APC subsets distribution, phenotype and function with severe sepsis physiopathology and relevant clinical outcomes (ICU-acquired infections and death)\n3. High-resolution molecular profiling of circulating APC subsets using population level and single cell RNAseq.\n\nTo this aim, the investigator designed a prospective interventional study in order to collect blood samples at significant time points in patients with sepsis or septic shock (the population of interest) and relevant control subjects, either critically ill patients with non-septic acute circulatory failure or age-matched healthy subjects. The study's intervention is limited to additional blood samples. The risks and constraints are related to additional blood samples (maximum 120mL), which will be performed either from an arterial catheter when present in ICU patients, or from a venous puncture for patients without arterial catheters and for healthy volunteers.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria:\n\n1. ICU patients with severe infections (Sepsis-3 definitions):\n\n   clinically or microbiologically documented infection and organ dysfunction graded as follows:\n   * Sepsis: increase in the Sequential Organ Failure Assessment (SOFA) score of 2 points or more.\n   * Septic shock: vasopressor requirement to maintain a mean arterial pressure \u2265 65mmHg and serum lactate level \\> 2 mmol/L in the absence of hypovolemia\n2. ICU patients with non-septic acute circulatory failure:\n\n   * Cardiogenic shock: left ventricle systolic dysfunction (echocardiographic left ventricular ejection fraction \\< 45%) and the need of vasopressor (norepinephrine at any dose and inotropic support (dobutamine \u2265 5 \u00b5g/kg/min or epinephrine at any dose) in the absence of patent infection.\n   * Severe hemorrhage: hypotension with acute blood loss requiring transfusion of at least four packed red cells within 24h and vasopressor support by norepinephrine or epinephrine at any dose.\n3. Healthy controls:\n\n   * Blood donors\n   * Patients undergoing elective cataract surgery\n\nExclusion Criteria:\n\n1. All ICU patients\n\n   * hematological malignancy (or significant history of bone marrow disease),\n   * HIV infection at any stage,\n   * any immunosuppressive drugs including corticosteroids \u2265 0.5 mg/kg equivalent prednisone per day for more 7 days,\n   * anticancer chemotherapy or chemotherapy received during the last three months before inclusion\n   * bone marrow or solid organ transplantation,\n   * leucopenia (\\<1000/mm3) excepted if due to sepsis,\n   * pregnancy\n   * do-not-resuscitate order at ICU admission\n   * patients under legal protection regimen.\n2. Healthy controls\n\n   * history of inflammatory disease\n   * hematological malignancy (or significant history of bone marrow disease),\n   * HIV infection at any stage,\n   * any immunosuppressive drugs including corticosteroids \u2265 0.5 mg/kg equivalent prednisone per day for more 7 days,\n   * anticancer chemotherapy or immunotherapy received during the last three months before inclusion\n   * bone marrow or solid organ transplantation,\n   * pregnancy\n   * infectious symptoms within the previous month\n   * subjects under legal protection regimen",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sepsis",
+    "Acute Circulatory Failure"
+  ],
+  "overall_status": "COMPLETED"
+}

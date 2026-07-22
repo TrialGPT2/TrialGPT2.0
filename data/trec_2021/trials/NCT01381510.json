@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01381510",
+  "title": "Establishing the Benefits of Adherence to Enlarged Prostate Treatment: A Validation Study Linking Adherence to Outcomes Using the Market Scan Database",
+  "brief_summary": "Adherence and length of therapy with 5-alpha reductase inhibitor (5ARI) treatment may be associated with improved clinical outcomes of enlarged prostate (EP) as well as lower health care costs.\n\nThe objective of this retrospective database analysis is to quantify the relationship between adherence and length of therapy with a 5ARI and the likelihood of acute urinary retention (AUR) or prostate surgery (emergency and non-emergency) in patients with benign prostatic hyperplasia (BPH). The study will also measure the economic impact associated with these medical encounters.\n\nThe MarketScan database contains data from people with commercial health insurance and Medicare and includes both medical and pharmacy data that are sourced directly from health plans and employers. Approximately 18 million covered lives will be utilized for this study in the time period from January 1, 2003 to September 30, 2009.\n\nThis study is a retrospective cohort analysis of medical claims data.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Male\n* Aged 50 years or older\n* A diagnostic claim of benign prostatic hyperplasia (International Classification of Diseases, Ninth Revision, Clinical Modification \\[ICD-9-CM\\] codes 222.2x or 600.xx)\n* A prescription claim for a 5-alpha reductase inhibitor (5ARI) for at least 60 days during the observation period\n* Continuous health plan eligibilitiy for 6 months prior to and at least 150 days after the initial 5ARI prescription\n\nExclusion Criteria:\n\n* A diagnosis of prostate cancer (ICD-9-CM codes 185.xx, 198.82, 233.4, 236.5, 239.5, V10.46)\n* A diagnosis of bladder cancer (ICD-9-CM codes 188.xx, 198.1, 223.3, 233.7, 239.4, V10.51),\n* A procedure code for any prostate-related surgery prior to the index date or 150 days after the index date\n* A diagnosis code for acute urinary retention (AUR) prior to the index date or 150 days after the index date",
+  "minimum_age": "50 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "The study is populated with claims data from male health plan members and Medicare patients age 50 and older who were continuously enrolled in a health plan that feeds into the MarketScan database between July 1, 2003 and May 1, 2009. Patient records were analyzed for 6 months prior to and at least 150 days following the index date for the first 5-alpha reductase inhibitor (5ARI) treatment",
+  "condition": [
+    "Prostatic Hyperplasia"
+  ],
+  "overall_status": "COMPLETED"
+}

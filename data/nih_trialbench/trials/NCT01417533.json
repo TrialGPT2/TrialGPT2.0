@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT01417533",
+  "title": "A Natural History Study of Patients With GNE Myopathy and GNE-Related Diseases",
+  "brief_summary": "Background:\n\n\\- GNE Myopathy is a disease that causes walking difficulties and increasing muscle weakness. It usually develops in young adults (between 20 and 30 years of age), and affects arm and leg muscles. HIBM is caused by mutations in a gene that may affect how the muscles function. Researchers want to learn more about the causes, symptoms, and effects of HIBM.\n\nObjectives:\n\n\\- To collect genetic and medical information from people with GNE Myopathy .\n\nEligibility:\n\n\\- Individuals between 18 and 80 years of age who have GNE Myopathy and do not use a wheelchair. - Participants must be willing to stop any current treatment of HIBM while enrolled in the study.\n\nDesign:\n\n* Participants will be screened with a medical history, physical exam, and neurological exam.\n* At the first visit, participants will have the following tests:\n* Questionnaires about the impact of HIBM on daily activities, mood, and quality of life\n* 24-hour urine collection\n* Blood samples\n* Heart function tests\n* Muscle strength and endurance tests, including walking\n* Imaging study of the muscles\n* Participants will return for followup visits at 6, 12, and 18 months. They may be asked to return for a final visit at 24 months. Not all tests will be performed at each visit.\n* Treatment will not be provided as part of this protocol.\n\nFor more information, visit our website: http://hibmstudy.nhgri.nih.gov/",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Age 4-80 years, either gender, inclusive.\n  2. Diagnosis of GNE myopathy or GNE-related diseases based upon the identification of GNE gene mutations. Molecular confirmation of the diagnosis will be obtained for all subjects in the study.\n  3. Subjects that are a carrier family member of a patient on the study are eligible to participate.\n  4. Must be able to provide informed consent.\n\nEXCLUSION CRITERIA:\n\n1. Psychiatric illness or other diseases that would interfere with the subject s ability to comply with the requirements of this protocol.\n2. Hepatic laboratory parameters (aspartate aminotransferase \\[AST\\], alanine aminotransferase \\[ALT\\]) or renal laboratory parameters (creatinine, blood urea nitrogen \\[BUN\\]) greater than 3 times the upper limit of normal.\n3. Presence of clinically significant cardiovascular, pulmonary, hepatic, renal, hematological, metabolic, or gastrointestinal disease not related to the primary disease process.",
+  "minimum_age": "4 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with a diagnosis of GNE myopathy or GNE-related disease. Subjects that are a carrier family member or a caregiver of a patient on the study are eligible to participate.",
+  "condition": [
+    "GNE Myopathy",
+    "GNE Related Diseases"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional natural history study of patients with GNE myopathy or GNE-related diseases. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, as no treatment is provided.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study does not provide treatment and does not specify any requirements or exclusions based on prior systemic therapy for advanced disease. Eligibility is based solely on diagnosis and age, with no mention of prior therapy lines."
+    }
+  ]
+}

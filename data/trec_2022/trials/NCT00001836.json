@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT00001836",
+  "title": "Detection of Coronary Artery Calcification: Comparison of Volumetric and Electron Beam Computed Tomography",
+  "brief_summary": "Electron beam computed tomography (EBCT) has been regarded as the state-of-the-art investigation for detecting and quantitating coronary artery calcification. However, EBCT is expensive, and the asymmetric gantry geometry makes it less useful for routine scanning; thus, EBCT is not readily available to the general population. Recent reports have shown that \"volumetric\" (also known as \"helical\" or \"spiral\") scanners, which are much more commonly available than EBCT, can detect coronary artery calcifications. Updated software available to the NIH which will allow for EKG gating of volumetric scans should improve the quality of the images, and thus improve the ability to accurately quantitate coronary calcification by volumetric scanners. We would like to compare the results of volumetric scans with that of standard EBCT in order to characterize similarities and differences between the two scanning techniques. We propose to obtain EBCT and volumetric CT scans of the coronary arteries in a group of patients with known or suspected coronary artery disease and to calculate the calcium score by each method. Our primary analysis will be a comparison of the sensitivities of the two methods.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Must have known or suspected coronary artery calcification, including subjects of age equal to or greater than 55 years (men), or 65 years (women).\n\nMust be at increased risk for CAD. (Chronic hypertension greater than 140/90, cholesterolemia greater than 130 mg/dl, active cigarette smoker, or diabetes mellitus.)\n\nMust be 18 years of age or older.\n\nFemales must not be pregnant or considering pregnancy and must not be lactating.\n\nMust not have any surgical devices which may interfere with imaging: heart valves, pacemakers, sternal wire sutures, epicardial pacer leads, metallic coronary stents.\n\nMust not have tachycardia greater than 90 bpm at time of scanning, or other fast or irregular rhythm.\n\nMust not be obese. Patients weighing more than 300 pounds will be excluded since this is the table weight limit for the EBCT scanner.\n\nMust be able to suspend respiration for 28 seconds at time of scanning.\n\nMust be able to give informed consent.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Coronary Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

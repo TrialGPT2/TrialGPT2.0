@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03207139",
+  "title": "Ga-68 PSMA Ligand: A Radiopharmaceutical for Localization of Prostate Cancer",
+  "brief_summary": "This is an open-label single arm clinical trial, plan to enroll approximately a total of 62 evaluable subjects. According to the estimated missing rate 15%, the sample size in this study is 73.\n\nInclusion criteria:\n\nTo be eligible for inclusion, each patient must fulfill all of the following criteria:\n\n1. Age equals or more than 20 years old\n2. Willing to sign the informed consent\n3. Pathology-proved intermediate to high risk group prostate cancer patients (PSA \\> 10 ng/mL, or Gleason score 7-10, or clinical stage \\>T2a) OR Prior radiotherapy or prostatectomy for prostate cancer with biochemical recurrence defined as:\n\n   * post prostatectomy: increase in PSA of \\> 0.2 ng/mL in two or more consecutive blood samples\n   * post radiotherapy: PSA levels of \u2265 2 ng/mL above the post-therapy nadir\n4. Life expectancy more than 3 months\n\nExclusion criteria:\n\nPatient who has any of the following criteria will be excluded from the trial:\n\n1. Unable to tolerate the PET/CT scan, such as those with claustrophobia, unable to lie still, consciousness unclear, vital sign unstable.\n2. With renal impairment (glomerular filtration rate lower than 30 ml/min/1.73 m2), and allergy to medium contrast\n3. Unable to give informed consent.\n4. Allergy history to Ga68-PSMA ligand, significant abnormal lab data (ALT more than three times of normal value), and high risk to conduct examination after evaluations of PI.\n5. Patient had malignancy history",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age equals or more than 20 years old\n2. Willing to sign the informed consent\n3. Pathology-proved intermediate to high risk group prostate cancer patients (PSA \\> 10 ng/mL, or Gleason score 7-10, or clinical stage \\>T2a) OR Prior radiotherapy or prostatectomy for prostate cancer with biochemical recurrence defined as:\n\n   * post prostatectomy: increase in PSA of \\> 0.2 ng/mL in two or more consecutive blood samples\n   * post radiotherapy: PSA levels of \u2265 2 ng/mL above the post-therapy nadir\n\nExclusion Criteria:\n\n1. Unable to tolerate the PET/CT scan, such as those with claustrophobia, unable to lie still.\n2. With renal impairment (glomerular filtration rate lower than 30 ml/min/1.73 m2), and allergy to medium contrast\n3. Unable to give informed consent.\n4. Allergy history to Ga68-PSMA ligand, significant abnormal lab data, and high risk to conduct examination after evaluations of PI.",
+  "minimum_age": "20 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Latent Cancer Prostate"
+  ],
+  "overall_status": "COMPLETED"
+}

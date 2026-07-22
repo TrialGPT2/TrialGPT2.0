@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT02860572",
+  "title": "Non-interventional Follow-up Versus Fluid Bolus in RESPONSE to Oliguria in the Critically Ill",
+  "brief_summary": "Background: After hypotension, oliguria (urine output less than 0.5 mL/kg/h) was the most common trigger to administer fluid bolus in a multinational practice survey in intensive care. The effect of fluid bolus on cardiovascular variables can be very short-lived among patients in shock suggesting that fluid boluses in the optimization phase are unlikely to improve patient-centered outcomes. Moreover, a growing body of evidence suggests a poor renal response to fluid bolus.\n\nObjective: To investigate, whether fluid bolus - as a standard of care - improves urine output in oliguric patients compared to a non-interventional follow-up approach without fluid bolus.\n\nDesign: Investigator-initiated, open, randomized, controlled study\n\nInterventions:\n\n1. Intervention group - follow-up without intervention\n2. Control group - fluid bolus (500mL of balanced crystalloid over 30 minutes)\n\nRandomization: 1:1 stratified according to the site, presence of acute kidney injury, and sepsis\n\nTrial size: 130 patients randomized in 2 ICUs",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age over 18\n* Emergency admission to an ICU\n* Mean arterial pressure (MAP) \\>65 mmHg (with vasopressors if needed) and initial fluid resuscitation for shock/hypovolemia has been given\n* Oliguria (urine output less than 0.5mL/kg/h) for at least 2 consecutive hours\n\nExclusion Criteria:\n\n* Marked fluctuations in hemodynamics within last 2 hours (cardiac arrhythmias, increase in norepinephrine need over 0.2ug/kg/min, need for initiation of inotrope/inodilator)\n* Administration of furosemide within last 6 hours\n* Chronic kidney disease (estimated pre-critical illness GFR \\< 60ml/min/1.73m2)\n* Renal replacement therapy\n* Among patients with acute kidney injury, urgent indications for commencing renal replacement therapy\n* Fluid overload (cumulative fluid accumulation exceeds 10% of baseline body weight)\n* Pulmonary edema (bilateral infiltrates in chest x-ray)\n* Active bleeding (need for transfusion, platelets, or fresh frozen plasma)\n* Suspected or known intra-abdominal hypertension (IAP \\>16mmHg)\n* Pregnant or lactating\n* Expected survival less than 24h\n* Obtaining informed consent is not possible/consent is denied",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Critically Ill",
+    "Acute Kidney Injury",
+    "Sepsis",
+    "Oliguria"
+  ],
+  "overall_status": "COMPLETED"
+}

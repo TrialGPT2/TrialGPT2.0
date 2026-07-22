@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04470531",
+  "title": "Role of Co-trimoxazole in Severe COVID-19 Patients",
+  "brief_summary": "Coronavirus Disease 19 (COVID-19) is a global pandemic caused by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2). Severe disease occurs in 15% of the cases with COVID-19 and may progress to critical disease in only 5% of the cases with a high risk of mortality. Critical disease may present as acute respiratory failure secondary to Acute Respiratory Distress Syndrome (ARDS) and is caused by the body's hyper-immune response to the virus in the form of a cytokine storm syndrome (CSS). There is currently no effective anti-viral treatment against SARS-CoV-2 and the mainstay of treatment is supportive. Co-trimoxazole (combination of trimethoprim and sulphamethoxazole in a 1:5) ratio is a Sulphur containing anti-folate bactericidal antibiotic indicated for the treatment of respiratory tract infections. It has been around for over 60 years and is inexpensive and readily available with a good safety profile. It has a rapid onset of action with excellent bioavailability and lung penetration. In addition to having antimicrobial properties co-trimoxazole have immunomodulatory and anti-inflammatory properties and may be a potential treatment option for cytokine storm syndrome mediated severe COVID-19.\n\nThis open-label randomized controlled trial will be conducted in the department of medicine at Bangabandhu Sheikh Mujib Medical University (BSMMU), Anwar Khan Modern Medical college and Mughda Medical College Hospital (DMCH), Dhaka for a duration of 6 months following approval of this protocol. It will recruit at least 94 consecutive adults (18 years or older) patients with clinically suspected COVID-19 and severe illness as per WHO criteria. After taking informed written consent patients will be randomly assigned in a 1:1 ratio to either oral co-trimoxazole in addition to standard therapy or standard therapy alone. Baseline characteristics, changes in the physiological and biochemical parameters like (SpO2/FiO2 ratio, respiratory rate, body temperature and C - reactive protein), length of hospital stay, side effects of drugs, requirement for ventilatory support (non-invasive and invasive ventilation) and in-patient mortality between the two groups will be compared.\n\nConclusion If the results from this clinical trial demonstrate the beneficial effects of co-trimoxazole in severe COVID-19 patients it could be used widely, thereby reducing the need for respiratory support and potentially saving thousands of lives in developing nations with limited resources where healthcare may be easily overwhelmed.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Diagnosed COVID-19 patients ( RT-PCR positive for COVID-19)\n2. Age \\> 18 years\n3. Hypoxic respiratory failure (saturation \\<90% on air at rest or increasing oxygen requirement)\n4. Chest examination findings of bilateral crackles on auscultation or chest x-ray showing bilateral infiltrates\n5. C-Reactive Protein \\> 50mg/L\n\nExclusion Criteria:\n\n1. Multi-organ failure\n2. Severe ARDS (requiring ventilator support on presentation in the form of invasive or non-invasive ventilation)\n3. Septic Shock\n4. Severe liver disease\n5. Acute Kidney Injury (where GFR\\< 15 and plasma-sulfamethoxazoleconcentration cannot be monitored)\n6. Drug allergy/intolerance to co-trimoxazole / Sulphar sensitivity\n7. Pregnancy\n8. Already receiving Tocilizumab or convalescent therapy",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19",
+    "Severe COVID-19 Patients"
+  ],
+  "overall_status": "UNKNOWN"
+}

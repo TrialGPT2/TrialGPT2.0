@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04825067",
+  "title": "Remote Monitoring of High-Risk Patients With Chronic Cardiopulmonary Diseases",
+  "brief_summary": "In this project, Institute of Bioengineering \\& Bioimaging (IBB), A\\*STAR would like to collaborate with Massachusetts General Hospital to aggregate patient data and to further develop its software algorithm using machine learning and statistical models for predicting exacerbations and deterioration on 60 patients with cardiopulmonary diseases.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Subject age 18 or older\n2. Receives all primary and specialty care within the MassGeneral Brigham system\n3. A history of one of the following diagnoses:\n\n   1. Asthma\n   2. Cystic Fibrosis\n   3. Chronic obstructive pulmonary disease\n   4. Congestive heart failure\n4. At least four documented exacerbations of the above disease in the past 12 months as defined by the following corresponding criteria:\n\n   a. Asthma exacerbation: i. a minimum 3-day course of oral steroids ii. for patients on chronic steroids, an increased dose of steroids.\n\n   b. Cystic fibrosis exacerbation: a minimum 7-day course of systemic antibiotics (not including any chronic suppressive antibiotics).\n\n   c. Chronic obstructive pulmonary disease exacerbation: all three of (1) increase in frequency and severity or severity of cough, (2) increase in volume and/or change of character of sputum production, and (3) increase in dyspnea, and requiring treatment with short-acting bronchodilators, antibiotics, and oral or intravenous glucocorticoids.\n\n   d. Congestive heart failure exacerbation: volume overload (as evidenced by weight gain or elevated BNP \\[\\>100 pg/mL\\]/NT-proBNP \\[\\>300 pg/mL)) plus dyspnea plus diuretic treatment (new or increase from baseline).\n5. Subject able to provide informed consent.\n\nExclusion Criteria:\n\n1. Subjects with a history of adhesive or tape allergy or skin reaction.\n2. Subjects with pacemaker, Automatic Implantable Cardioverter Defibrillator (AICD) and other implantable electronic devices.\n3. Subjects with neuromuscular disease, seizures and/or Parkinson's disease.\n4. Subjects with expected out of state travel within a 90-day period or travel to a location with no internet access.\n5. Subjects enrolled in hospice care or life expectancy less than three months.\n6. Subjects living more than 60 miles away from Massachusetts General Hospital. -",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Congestive Heart Failure",
+    "Asthma",
+    "Chronic Obstructive Pulmonary Disease",
+    "Cystic Fibrosis"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02126774",
+  "title": "The Human Epilepsy Project",
+  "brief_summary": "HEP is a five-year, prospective, observational study whose primary goal is to identify clinical characteristics and biomarkers predictive of disease outcome, progression, and treatment response in participants with newly treated focal epilepsy.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinical seizure(s) and history consistent with focal epilepsy\n* At least two confirmed spontaneous seizures, at least 24 hours apart, in the 12 months prior to enrollment\n* Complete AED history prior to enrollment (with approximate dates and doses) is available (exception can be made for AEDs taken for \\<1 week)\n* Age \u226512 years and \u226460 years at time of seizure onset\n* Age \u226512 years and \u226460 years at time of enrollment\n* Treatment instituted not more than 4 months prior to enrollment\n* One of the following:\n\n  1. Normal MRI with inter-ictal EEG showing focal abnormality (focal sharp waves or focal slowing)\n  2. Normal MRI and normal inter-ictal EEG, with clinical or electrographic seizure activity on ictal EEG\n  3. Definitive clinical history of recurrent seizures consistent with focal epilepsy, adjudicated by central reviewers, if normal MRI and normal EEG\n  4. Focal lesion (non-progressive) on MRI with normal EEG (acceptable focal lesions include MTS, FCD, single cavernoma, and AVMs that are not of large size and lack significant amounts of hemosiderin)\n\nExclusion Criteria:\n\n* Idiopathic or symptomatic generalized epilepsy\n* Any epilepsy etiology that could produce significant gliosis or brain injury and would be likely to alter biomarkers. These include:\n\n  1. Epilepsy with an etiology occurring in the previous two years that would produce significant CNS injury (e.g., traumatic brain injury that involves direct disruption of brain tissue, stroke, encephalitis)\n  2. History of intracranial bleeding (e.g., subarachnoid, intraparenchymal)\n* Identified genetic epilepsy syndrome\n* Presence of moderate or greater developmental or cognitive delay prior to seizure onset (e.g., if an adolescent, not in self-contained classroom; if IQ is documented, should be \\> 70)\n* History of chronic drug or alcohol abuse within the last 2 years\n* IGE/focal epilepsy mixed syndromes\n* Progressive neurological disorder (brain tumor, AD, PME, etc.)\n* Major medical co-morbidities such as renal failure requiring dialysis, metastatic cancer, HIV, or significant liver or renal disease\n* Autism Spectrum Disorder\n* Seizures only during pregnancy\n* History of previous or current significant psychiatric disorder that would interfere with conduct of the study",
+  "minimum_age": "12 Years",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Epilepsy/Neurology clinical centers",
+  "condition": [
+    "Focal Epilepsy"
+  ],
+  "overall_status": "COMPLETED"
+}

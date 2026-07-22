@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01655264",
+  "title": "Evaluation of the Gertner Tele-Motion-Rehabilitation System for Stroke Rehabilitation",
+  "brief_summary": "The overall goal of the study is to evaluate the clinical effectiveness of a home-based tele-motion-rehabilitation (TMR) program in improving functional status of people who had stroke. We hypothesize that the clinical effectiveness within a mock-up set up in the hospital of the TMR will be greater in comparison to self-training exercise carried out at home in improving outcomes of Range of Motion and functional performance of the weak upper extremity.\n\nTwenty-four subjects who had a stroke, aged between 18 and 80 years, and living at home will participate. Subjects will be 2-72 months post stroke, and no longer receiving rehabilitation as in or out patient. They will have moderate impairment of the affected upper extremity determined by range of motion (ROM). Subjects will be evaluated for motor and cognitive abilities for a total of 5-6 hours by a skilled therapist who will be blind to group's assignment of the subjects. The evaluations will be repeated 3 times, once before the intervention commences, once immediately following the intervention and once four weeks after the intervention.\n\nSubjects will be randomized into the two groups (TMR versus self-training treatment) with matching for level of impairment of the upper extremity by a person who is not part of the study. Each subject will receive twelve 45-60 min sessions over 4 weeks while seated. The control group will receive self-training exercises that are based on conventional therapy using principles of motor control and will include training of upper extremity movements in order to achieve better use of the affected arm in ADL. The experimental group will receive TMR treatment of comparable duration and intensity to those in the conventional treatment group with remote online monitoring by the therapist. Treatment feedback will be given in the form of Knowledge of results (game scores) and Knowledge of performance (feedback of compensatory movements made while using the upper extremity) to enhance motor learning. The software will generate a report which will include the duration and type of exercises performed by the subject.\n\nThe Gertner TMR system is implemented via Microsoft's Kinect three-dimensional) camera-based gesture recognition technology. Using the patient's natural hand and body movements control all activity within customized computer games. The system runs off a standard desktop computer and is displayed on a large television screen.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Stroke (as verified via CT or MRI), 2- 72 months post event\n* Moderate impairment of the affected upper extremity\n* Preserved capacity for ambulation without or with an assistive device (e.g., walker, cane) or orthotics (e.g. AFO) (FIM of 6 indoors)\n\nExclusion Criteria:\n\n* Other medical conditions limiting participation in a low-intensity exercise training\n* Major receptive aphasia or inability to follow 2-stage commands and screening criteria consistent with dementia (Mini-Mental State score \\<24)\n* Untreated major depression\n* Presence of unilateral spatial neglect as determined by star cancellation (score less than 51)\n* Hemianopsia\n* Apraxia (limb and ideomotor)",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke"
+  ],
+  "overall_status": "UNKNOWN"
+}

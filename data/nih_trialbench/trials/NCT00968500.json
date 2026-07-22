@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00968500",
+  "title": "Understanding the Psychosocial Needs of Parents Who Have Lost a Child to Cancer",
+  "brief_summary": "The purpose of this study is to understand the experiences and needs of parents who have lost a child to cancer. This will aid us in developing an intervention that may help parents cope with their loss.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Loss of a child to cancer between 6 months and 6 years ago\n* Loss of a child between the ages of 6 months and 25 years\n* Biological or adoptive parent or stepparent\n* Parent must be age 18 or over\n* In the judgment of investigators/consenting professionals able to comprehend English to complete study assessments\n* To be eligible for the qualitative interview, participants more score of 19 or less (\\< 19)or 34 or greater (\\> 34) on the PG-13 to qualify\n\nExclusion Criteria:\n\n* Significant psychiatric disturbance sufficient, in the investigator's judgment, to preclude completion of the assessment measures, interview or informed consent.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Bereaved parents will be identified through death records kept by the Department of Pediatrics and cross-referenced with the deceased child's MSK medical record.",
+  "condition": [
+    "Parents Who Have Lost a Child to Cancer"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a psychosocial study of bereaved parents and does not involve cancer treatment or lines of therapy. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention any requirements or exclusions based on prior systemic therapy for advanced or metastatic disease. This study is not interventional and does not address cancer treatment lines."
+    }
+  ]
+}

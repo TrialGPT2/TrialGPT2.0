@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03411538",
+  "title": "Mortality Related to AMR in Patients With Hospital-acquired Infection",
+  "brief_summary": "This is a prospective surveillance study to estimate excess deaths due to and risk factors associated with antibiotic-resistant infection among patients with hospital-acquired infection (HAI) in a resource-limited setting. We will focus on six pathogenic bacteria that are of clinically important in the hospital.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Male or female of any age admit at Sunpasitthiprasong Hospital\n* At least one of the six organisms, which include Staphylococcus aureus, Enterococcus spp., Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Acinetobacter spp., isolated from clinical specimen \\>48 hours after admission\n* Acquired Bloodstream infection (BSI), Lower-respiratory tract infection(LRTI), Skin/Soft tissue infection (SSTI), Surgical-site infection (SSI), Urinary tract infection (UTI) or infection at other body sites \\>48 hours after admit at the hospital\n\nExclusion Criteria:\n\n\u2022 Clinical symptoms of current infection presented \u226448 hours of admission",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The target study subjects include male and female patients of any age admit at the hospital, and acquired hospital-acquired bacterial infection during hospital stay. We will focus on six key pathogens that were in the WHO global priority list of antibiotic-resistant bacteria and are also of clinical importance in resource-limited settings, namely:\n\n* Staphylococcus aureus\n* Enterococcus spp\n* Escherichia coli\n* Klebsiella pneumoniae\n* Pseudomonas aeruginosa\n* Acinetobacter spp\n\nThe severity of underlying illness will be assessed using Charlson Comorbidity Index (CCI) score and severity of the infection will be assessed using Sequential Organ Failure Assessment (SOFA) score. These score will be reported to the physician whenever appropriate.",
+  "condition": [
+    "Hospital-acquired Infections"
+  ],
+  "overall_status": "COMPLETED"
+}

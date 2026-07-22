@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04714567",
+  "title": "Portuguese Severe Asthma Registry: Getting Answers for Severe Asthma Patients",
+  "brief_summary": "Asthma currently affects 358 million individuals worldwide, posing a substantial burden on health care systems. In particular patients with severe asthma have higher morbidity, mortality and asthma-related costs than non-severe patients. The management of severe asthma is still an unmet need and improving the disease-related knowledge is important to optimize care pathways. Registries provide an opportunity to phenotypically describe a cohort of patients in real-world settings. We hypothesize whether patient profiling based on data in the Portuguese Severe Asthma Registry (RAG - Registo de Asma Grave) may contribute to identify predictors of disease control and therapeutic response.\n\nThis study aims to (Coprimary Objectives): 1) Identify multidimensional phenotypes associated with health outcomes and therapeutic responses, based on demographic characteristics, clinical features and biomarkers; 2) Explore novel composite endpoint measures of disease control and evaluate its association with the different severe asthma profiles.\n\nThis is a cross-sectional, observational, multicenter, real-world study. The study population are the patients of all ages with severe asthma included in the RAG, until Dec 2021. It is estimated that 150 patients will be enrolled, in approximately 12 sites throughout Portugal, which is expected to be a representative sample of Portuguese patients with severe asthma. Eligible patients will be invited to integrate RAG by clinicians at scheduled clinic appointments. The criteria for patients' inclusion in the RAG is based on the definition of Severe Asthma by GINA guidelines, based on step of treatment, adherence and comorbidities management. An additional inclusion criterion is the patient's signed consent to have his/her data included in the registry.\n\nThe main data source of this project is the data collected by RAG, an electronic Case Report Form. Descriptive and inferential statistics will be used to characterize and compare the characteristics across different sub-groups. Advanced data-driven statistical methods, such clustering analysis and latent class analysis, will be used for phenotype classification. Multivariate logistic regression modelling and Classification and Regression Tree analysis will be considered.\n\nTo address the potential limitations, the RAG has database specifications concerning data definitions and parameters and data validation rules enabling collection of data in the same manner for every patient, with specific and consistent data definitions. To minimize errors related to data completeness and consistency, several validation rules have been implemented and periodic data audits are planned. To avoid unnecessary burden within the clinical workflow, data will be collected at the time of routine medical appointments by the clinician and data entry personnel will assist on this task.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* be under treatment on step 4 or 5 according to GINA recommendations (GINA 2018);\n* have verified the optimization of treatment adherence and comorbidities management;\n* provide the signed consent to have his/her data included in the registry\n\nExclusion Criteria:\n\n* patients without given consent to participate will be excluded.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients of all ages with severe asthma included in RAG, until December 2021. The sample used for data analysis will correspond to the total population (all patients in RAG).",
+  "condition": [
+    "Severe Asthma"
+  ],
+  "overall_status": "UNKNOWN"
+}

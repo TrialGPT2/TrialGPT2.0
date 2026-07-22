@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT01005654",
+  "title": "Prospective Comprehensive Molecular Analysis of Endocrine Neoplasms",
+  "brief_summary": "Background:\n\n* Endocrine neoplasms (tumors) are among the fastest growing tumors in incidence in the United States. Furthermore, it is often difficult to distinguish between benign or malignant tumors in cancers of the thyroid, parathyroid, adrenal gland, and pancreas. More research is needed to improve detection and treatment options for patients who develop these kinds of cancer.\n* Researchers are interested in studying the molecular changes that are involved in endocrine cancer development and growth. To collect a sample of tumor specimens and healthy tissue for further study, researchers are specifically looking for samples from participants who are scheduled for surgery or biopsy on endocrine tumors.\n\nObjectives:\n\n\\- To collect samples of precancerous, cancerous, and healthy tissue from individuals who are scheduled for surgery or biopsy of endocrine system tumors.\n\nEligibility:\n\n\\- Individuals who have a tumor in or around their thyroid, parathyroid, adrenal gland, pancreas, or any neuroendocrine tissue, and are scheduled for surgery at the National Institutes of Health Clinical Center.\n\nDesign:\n\n* Participants in this study will provide blood and urine samples prior to surgery.\n* During the surgery or biopsy, pieces of the tumor or precancerous growth and pieces of normal tissue near to the tumor will be removed for ongoing and future research. The rest of the tumor or growth will be sent for analysis.\n* After surgery, participants will receive routine care until discharge, and doctors will discuss possible treatment options. If there is an appropriate NIH protocol, participants may choose to be treated at the NIH.\n* After discharge, participants will return to the clinic for a routine postoperative check about 6 weeks following the operation, and then may be followed yearly at the Clinical Center or by phone.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Participants who have an endocrine neoplasm based on radiographic and biochemical testing, or histologically/cytologically proven lesions of the thyroid, parathyroid, adrenal, extra-adrenal endocrine nests, paragangliomas, neuroblastomas, gastrointestinal\n\ntrack and pancreas or participants with a described pre or potentially malignant condition that requires surgery or biopsy as a part of the standard of care treatment and/or follow up.\n\n* Participants referred to the Endocrine Consult Service on other protocols for surgical evaluation of endocrine disorders based on radiographic and biochemical testing, or histologically/cytologically proven lesions of the thyroid, parathyroid, adrenal, extra-adrenal endocrine nests, paragangliomas, neuroblastomas and pancreas.\n* Participants must have an ECOG performance score of 0-2.\n* Participants must have physical examination parameters within acceptable limits by standard of practice guidelines prior to biopsy or surgery.\n* Participants must be planning to undergo surgery or biopsy as part of their treatment plan. Note: Participants will not be enrolled exclusively for the procurement of tissue samples.\n* Age \\>= 4 years of age.\n\nEXCLUSION CRITERIA:\n\nNone.",
+  "minimum_age": "4 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Primary clinical@@@",
+  "condition": [
+    "Endocrine Tumors",
+    "Thyroid Neoplasms",
+    "Parathyroid Neoplasms",
+    "Adrenal Neoplasm",
+    "Neuroblastoma"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, tissue collection study enrolling patients with endocrine neoplasms who are scheduled for surgery or biopsy, regardless of prior systemic therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes any patient with an endocrine neoplasm scheduled for surgery or biopsy, with no mention of prior systemic therapy for advanced disease as an inclusion or exclusion criterion. Patients who have only received adjuvant or no systemic therapy are eligible, as are those with any number of prior lines."
+    }
+  ]
+}

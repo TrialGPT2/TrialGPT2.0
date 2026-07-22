@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT05588167",
+  "title": "Establishment of Genomic and Phenotypic Database for Niemann-Pick Disease, Type C",
+  "brief_summary": "Background:\n\nNiemann-Pick type C (NPC) disease is a rare, progressive neurodegenerative disease that affects mainly the brain, liver, and spleen but also other parts of the body. There is no cure for NPC, and symptoms only get worse over time. Symptoms can include seizures, difficulty moving or talking, or dementia. But symptoms can vary among different people with the disease. Some may have seizures, while others do not, for example. Some people begin showing symptoms in childhood; in others, symptoms may not appear until they are adults. Researchers want to learn more about why NPC affects people differently. This natural history study will gather data from people with NPC in order to understand more about the disease and how it affects the body.\n\nObjective:\n\nThis study will create the first and largest database about NPC.\n\nEligibility:\n\nPeople of any age who have NPC.\n\nDesign:\n\nParticipants will have blood drawn from a vein. This will happen only once. The blood will be used to analyze the participants DNA.\n\nThe participants medical records will be reviewed. The study team will collect data on participants NPC diagnosis and symptoms; they will record how long participants have had each symptom. The study team will also collect data on each participants age, sex, race, height, weight, medications, and other test results.\n\nThe study team will communicate with participants. They will discuss the study and answer any questions.\n\nParticipants will receive up to $190.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA;\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Provision of signed and dated informed consent form\n2. Stated willingness to comply with all study procedures and availability for the duration of the study\n3. Male or female, any age, demographic or ethnic background will be eligible for this study\n4. Diagnosis of NPC will be based on clinical, biochemical or molecular testing.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Unwilling to provide consent\n2. Unable to provide biospecimen to obtain DNA\n3. Unable to provide medical records or clinical data",
+  "minimum_age": "3 Months",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals with Niemann-Pick Disease, type C",
+  "condition": [
+    "Niemann-Pick Disease, Type C"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history and biospecimen collection study for Niemann-Pick Disease, Type C, enrolling all patients with a diagnosis of NPC regardless of prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria require only a diagnosis of NPC and do not mention prior systemic therapy for advanced disease. There are no restrictions or specifications regarding prior lines of therapy, so line-of-therapy intent cannot be determined from the available information."
+    }
+  ]
+}

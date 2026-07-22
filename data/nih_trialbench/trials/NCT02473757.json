@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT02473757",
+  "title": "Gene Therapy Follow-up Protocol for People Previously Enrolled in CAR-T Cell Studies",
+  "brief_summary": "Background:\n\n\\- Gene therapy is a way to treat or prevent disease using genes. It is monitored very closely by regulators because there can be long-term, unexpected side effects. NIH is required to try to contact people who have been treated with gene therapy at least annually for up to 15 years. This is to see if they have had any bad side effects. This trial does not include any therapy and is only for patients previously treated on gene-therapy trials at the NCI Surgery Branch who are no longer enrolled on their original gene therapy clinical trial.\n\nObjective:\n\n\\- To collect of long-term follow-up data on people who have been in gene transfer studies. This follow-up is required by regulators.\n\nEligibility:\n\n\\- People age 18 and older who have been in a previous NCI Surgery Branch gene therapy research study.\n\nDesign:\n\n* After they get the genetically modified cells, participants will:\n* Have blood drawn 3, 6, and 12 months later.\n* Have an annual clinic visit for the next 4 years. They will have a physical exam. They will answer questions about any signs of neurological, autoimmune, or blood disorders, or any new cancers. Blood may be drawn.\n* Be called or emailed annually for the next 10 years. They will answer health questions. Blood samples may need to be taken.\n* Participants will be asked for their current address and phone number. They will also be asked for the address and phone number of 1 or 2 people who will know their whereabouts. One of these should be a family member if possible,\n* At the time of the participant s death, researchers will request permission from their family for an autopsy.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Subjects who have received treatment on a CAR T-cell gene therapy protocol. Age \\>= 18 years as children are generally excluded from CAR T-cell gene therapy studies.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "To facilitate collection of long term follow up information on subjects who have participated in gene transfer studies as required by the U.S. Food and Drug Administration and other regulatory groups",
+  "condition": [
+    "Lyphoma, B-Cell",
+    "Leukemia, B-cell",
+    "Multiple Myeloma",
+    "Hematologic Malignancies"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This is a long-term follow-up protocol for patients previously treated with CAR T-cell gene therapy on NCI Surgery Branch trials. No new therapy is given; eligibility is based solely on prior participation in a gene therapy study, regardless of line of therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility requires only that subjects have received treatment on a CAR T-cell gene therapy protocol, with no specification of prior lines of systemic therapy for advanced disease. The protocol does not mention or restrict based on line of therapy, so this information is unknown."
+    }
+  ]
+}

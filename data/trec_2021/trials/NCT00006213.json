@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT00006213",
+  "title": "BMS-214662 in Treating Patients With Acute Leukemia, Myelodysplastic Syndrome, or Chronic Myeloid Leukemia",
+  "brief_summary": "Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Phase I trial to study the effectiveness of BMS-214662 in treating patients who have acute leukemia, myelodysplastic syndrome, or chronic myeloid leukemia in blast phase",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients must have:\n\n  * AML, ALL, or high-risk MDS (RAEB or RAEB-t) that has:\n\n    * Not responded (no CR) to initial induction chemotherapy, or\n    * Recurred after an initial CR of \\< 1 year, or\n    * Recurred after an initial CR of \\> 1 year and failed to respond to an initial reinduction attempt, or\n    * Recurred more than once, or\n  * Chronic myeloid leukemia in myeloid blast phase\n\n    * Patients with CML blast phase may receive BMS-214662 as their first therapy for blast phase or after failing other treatments for blast phase\n  * Patients with refractory or relapsed acute promyelocytic leukemia are eligible provided they have failed an ATRA-containing regimen\n* Performance status of =\\< 0-2\n* Signed informed consent indicating that patients are aware of the investigational nature of this study in keeping with the policies of the hospital\n* Patients must have been off chemotherapy for the 4 weeks prior to entering this study and recovered from the toxic effects of that therapy; patients with evidence of rapidly progressive disease (i.e., absolute peripheral blood blast count \\>= 5 x 10\\^9/L and increasing by \\>= 1 x 10\\^9/L/24 hours) may receive treatment before 4 weeks from the previous treatment providing they have recovered from all toxic effects of that therapy; use of hydroxyurea on patients with rapidly proliferative disease is allowed up to 24 hours prior to the start of therapy\n* Bilirubin =\\< 1.5 mg/dL\n* Creatinine =\\< 1.5 mg/dL or creatinine clearance \\>= 60 mL/hr\n* Patients who are likely to benefit from allogeneic bone marrow transplantation (i.e., age \\< 60 years of physiological age with histocompatible donor) should be excluded from this study unless such therapy is not feasible\n\nExclusion Criteria:\n\n* Pregnant and nursing females will be excluded; patients of childbearing potential should practice effective methods of contraception\n* Patients with prolonged QTc interval on EKG are excluded",
+  "minimum_age": "15 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Adult Acute Promyelocytic Leukemia (M3)",
+    "Blastic Phase Chronic Myelogenous Leukemia",
+    "Childhood Myelodysplastic Syndromes",
+    "Previously Treated Myelodysplastic Syndromes",
+    "Recurrent Adult Acute Lymphoblastic Leukemia",
+    "Recurrent Adult Acute Myeloid Leukemia",
+    "Recurrent Childhood Acute Lymphoblastic Leukemia",
+    "Recurrent Childhood Acute Myeloid Leukemia",
+    "Refractory Anemia With Excess Blasts",
+    "Refractory Anemia With Excess Blasts in Transformation",
+    "Relapsing Chronic Myelogenous Leukemia"
+  ],
+  "overall_status": "COMPLETED"
+}

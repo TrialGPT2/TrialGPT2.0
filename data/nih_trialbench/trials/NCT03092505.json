@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT03092505",
+  "title": "Herpesviruses Reactivation In Hiv-Infected Women Initiating ART (HERA)",
+  "brief_summary": "Background:\n\nHerpes virus can cause sores on the body. It can cause flu-like symptoms like fever and muscle aches, and even a type of cancer. Many people with HIV also have infections with herpes virus. When these people start taking HIV medicines, their herpes virus symptoms can suddenly start or become worse. Researchers want to find out more about how often this happens and why.\n\nObjective:\n\nTo study the effects of HIV treatment in women who may have herpes virus infections.\n\nEligibility:\n\nWomen age 18 years and older who have been diagnosed with HIV infection.\n\nDesign:\n\nParticipants will be screened with a physical exam, medical history, and blood and urine tests.\n\nParticipants will have about 8 study visits. Each will take about 1-2 hours.\n\nParticipants will return to the clinic 1-2 weeks after the screening visit to receive their antiretroviral (ART) medicine. They will get instructions for taking it.\n\nParticipants will have 6 more study visits over 1 year.\n\nDuring study visits, participants will have blood and urine tests, vaginal fluid collected, and an oral swab. They may have an external genital exam. They will get their next supply of ART medicine.\n\nSome participants may have a chest x-ray.\n\nParticipants may have leukapheresis. Blood will be removed through a needle in an arm. It will be run through a machine that separates out the white blood cells. The rest of the blood will be returned through a needle in the other arm.\n\nThe total time participants will be in the study is about 1 year.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. At least 18 years of age\n  2. Female\n  3. Weight \\>40 kilograms\n  4. A diagnosis of HIV infection as documented by any positive serological test (ELISA, HIV rapid test, or Western Blot)\n  5. Participants in Uganda must be eligible for ART by current clinical guidelines in Uganda\n  6. Willingness to begin ART\n  7. Will allow storage of biological sample\n\nEXCLUSION CRITERIA:\n\n1. Previous exposure to ART (participants with a brief exposure (\\<3 months) that occurred greater thatn or equal to 6 months prior to screening will be eligible to enroll if, the opinion of the investigator, the ART usage will not impact the scientific validity of the protocol)\n2. On acyclovir, valacyclovir, valganciclovir, or ganciclovir treatment\n3. Pregnancy or intent to become pregnant during the study period\n4. Intrauterine device (IUD) use\n5. Inability to follow study instructions, according to the investigator's judgment\n6. Active, serious infections other than HIV infection that may interfere with study participation (eg, severe cerebral toxoplasmosis or cryptococcal meningitis) during the 2 weeks prior to enrollment\n7. Malignancies requiring chemotherapy\n8. Therapy with systemic corticosteroids, immunosuppressants or immunomodulating agents\n9. Any condition that, in the investigator s opinion, may put the participant at undue risk or compromise the study's scientific objectives",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Approximately 200 women initiating ART as part of standard HIV care will be recruited at four sites, the NIH Clinical Center (approximately 30-40), the RHSP/ICER , the Villa Maria Hospital and the Kalisizo sites in Uganda (approximately 160-170). Women will be recruited regardless of CD4+ T-cell count, presence of opportunistic infections and co-infection status. Participants taking antibiotics for co-infections and prophylaxis will be able to participate in the study and antibiotic use will be captured in study data. Participants may co-enroll in other non-interventional studies. Pregnant women will be excluded.",
+  "condition": [
+    "Herpes Virus-Related Illnesses"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls HIV-infected women who are antiretroviral therapy (ART)-naïve or have had only minimal prior ART exposure, and are initiating ART as part of the study. Prior ART exposure is generally excluded except for brief exposures over 6 months ago.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Eligible participants must be ART-naïve, with the exception of those with brief prior ART exposure (<3 months) that occurred at least 6 months before screening and is not expected to impact study validity. The study population is initiating first-line ART for HIV infection."
+    }
+  ]
+}

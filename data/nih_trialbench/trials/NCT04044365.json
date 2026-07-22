@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT04044365",
+  "title": "Pediatric cGVHD Symptom Scale",
+  "brief_summary": "Background:\n\nSome children/adolescents who have had a stem cell transplant live with chronic graft-versus-host-disease (cGVHD). cGVHD is a side effect of the transplant that can cause multiple bothersome symptoms and negatively affect a child/adolescent squality of daily life. The questionnaires that measure thesymptoms caused by cGVHD are designed for adults. Children/adolescents may not describe their symptoms in the same way. The goal of this research is to improve the way we measure how bothersome these symptoms are for children/adolescents living with cGVHD.\n\nObjective:\n\nTo develop a questionnaire (The Pediatric cGHVD Symptom Scale) for children/adolescents living with cGVHD to identify the symptoms they are experiencing and describe how bothersome those symptoms are to them. An additional goal is to design a parent/guardian companion questionnaire that can be used to capture the symptom experiences of very young children who may not be able to complete a questionnaire.\n\nEligibility:\n\nChildren/adolescents ages 5-17 who are receiving treatment for cGVHD after a stem cell transplant, and their parent/guardian..\n\nDesign:\n\nThis study consists of 2 projects.\n\nChildren/adolescents with cGVHD and their parent/guardianparticipants will be grouped by the child/adolescent s age: 5-7, 8-12, and 13-17.\n\nIn project 1, participants will complete an age-appropriate questionnaire about cGVHD symptoms. The questionnaire will ask about the child/adolescent s physical functioning and emotional well-being. The parent/guardian will out fill out a companion questionnaire online. The child/adolescent will then review their completed questionnaire during an interview with a researcher and will be asked whether the questions about their symptoms were difficult to understand. The parent/guardian and child/adolescent will then be interviewed together to further explore their responses to the questionnaires. Interviews will be done in person, by phone, and online. . Based on what is learned through these interviews, the wording of the questionnaire will be improved for better comprehension and ease of response.\n\nIn project 2, participants will complete this revised questionnairefor their age group along with some other questionnaires that ask about quality of life. Both the child/adolescent and parent/guardian will fill out the questionnaires online at three separate time points.\n\nIn both projects, children/adolescents with cGVHD and their parent/guardian participants will be grouped by the child/adolescent s age: 5-7, 8-12, and 13-17.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPediatric Participant Inclusion Criteria:\n\n* Children aged 5 to 17 years old (Project 1) or children aged 8 to 17 years old (Project 2)\n* Clinical diagnosis of cGVHD following allogeneic stem cell transplant\n* Currently receiving systemic treatment for GVHD (including phototherapies), or has had systemic therapy for GVHD tapered to discontinuation within the past 12 months\n* No evidence of malignant disease relapse including molecular relapse and minimal residual disease. Patients with mixed chimerism are eligible to participate\n* Must have an eligible caregiver proxy who is willing to participate in the study.\n* Parent or guardian ability and willingness to sign a written informed consent document\n* Must be able to comprehend and speak the English language\n* Participants may enroll in both Project 1 and Project 2 of the study. Participation in Project 1 is not required in order to be eligible to participate in Project 2.\n\nCaregiver Proxy Inclusion Criteria\n\n* Adult (\\>=18 years old) caregiver of a child participating in Project 1 or Project 2; OR Adult (\\>=18 years old) caregiver of a child aged 5 to 7 years old who meets all Pediatric Participant Inclusion Criteria except Project 2 criteria noted above in the section Pediatric Participant Inclusion Criteria\n* Must be willing and able to provide informed consent\n* Must be able to comprehend and speak the English language\n\nEXCLUSOIN CRITERIA:\n\nChildren may be excluded from this study if in the judgment of the Principal or Associate Investigator, the child is too ill, or the child s cognitive ability would compromise their ability to participate in study related procedures.",
+  "minimum_age": "5 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Children of 5 to 17 years of age and their caregiver, who have undergone prior allogeneic stem cell transplant",
+  "condition": [
+    "Graft vs Host Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study enrolling pediatric patients with chronic GVHD who are currently receiving or recently received systemic therapy for cGVHD after allogeneic stem cell transplant. There are no requirements or restrictions regarding the number of prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility requires children with cGVHD who are currently receiving or have recently received systemic therapy for GVHD, but there is no mention of the number of prior lines of therapy for advanced disease. The protocol does not specify line-of-therapy restrictions or address adjuvant-only patients, making the line-of-therapy intent unclear."
+    }
+  ]
+}

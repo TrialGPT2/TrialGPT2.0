@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01222065",
+  "title": "Polarization Sensitive Retinal Tomography for Glaucoma Diagnosis",
+  "brief_summary": "The proposed human clinical studies have three main objectives:\n\n1. To determine reproducibility of peripapillary birefringence maps and identify features that measure the health of the RNFL.\n2. To determine the normal variation in the birefringence maps with age.\n3. To develop and test a classifier for glaucoma based on the birefringence maps using a case-control clinical trial.\n\nThis study is a case-control study intended to optimize feature selection for a future multi-center blinded study. The proposed clinical study does not measure conversion from normal to glaucoma.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria: patient age between 40 and 80, visual acuity score of 20/40 or better; spherical refraction within \u00b1 5 diopters, cylinder refraction within \u00b1 3 diopters, ability to cooperate with study procedures and personnel and to perform tests reliably. Case-control assignment for the human clinical trials is based on medical and ocular history and on a comprehensive eye examination (including intraocular pressure history, standard disc photography and Humphrey-Zeiss 24-2 visual field test) by a glaucoma specialist.\n\n\\-\n\nExclusion Criteria: discernable anomaly of the anterior chamber, uveitis, significant opacification of the cornea or crystalline lens, eyes with secondary glaucoma, eyes with pigmentary or pseudoexfoliation glaucoma, concurrent active eye disease in the study eye that may affect intraocular pressure or its measurement, patients on kidney dialysis, eyes with proliferative or severe nonproliferative retinopathy, retinal detachment, retinitis pigmentosa, or other significant retinopathy, eyes with field loss attributed to a non-glaucoma condition, dilated pupil diameter less than 4mm, and visual fields \\< 20 degrees.\n\n\\-",
+  "minimum_age": "40 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "45 normal volunteers and 40 glaucoma patients (known visual field defects)with equal sex distribution between the ages of 40 and 80 will be recruited for this study by H. Grady Rylander, M.D. at The Eye Institute of Austin and grouped by age into the following categories: 40-49, 50-59, 60-69, 70-79. Every effort will be made to equalize the number of patients in each age category and to recruit volunteers representing the race distribution in our community. Maps of RNFLT, phase retardation, and RNFL birefringence will be acquired from individuals within each age category.",
+  "condition": [
+    "Glaucoma"
+  ],
+  "overall_status": "COMPLETED"
+}

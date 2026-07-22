@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02329054",
+  "title": "Efficacy of Favipiravir Against Ebola (JIKI)",
+  "brief_summary": "There is no specific treatment for Ebola Virus Disease (EVD). Current EVD care are supportive, and includes intravenous or oral rehydration, nutrition, pain killers, treatment of coinfections with antibacterial and antimalarial drugs, and blood transfusion when appropriate. Despite these interventions, mortality remains high since the ongoing Ebola outbreak in West Africa was declared in April.\n\nPotential anti-Ebola specific interventions include convalescent plasma, monoclonal and polyclonal antibodies, small inhibitory RNA (siRNA), synthetic adenosine analogues or RNA polymerase inhibitors. All these interventions are considered investigational due to lack of data in humans with EVD.\n\nIn this study, the investigators chose to study the efficacy of favipiravir because this drug:\n\n* showed anti-Ebola efficacy in immunodeficient murine models;\n* has been studied in thousands of adult humans participating in anti-influenza trials, with good tolerance; it has been approved for treating novel or resistant influenza infections in Japan;\n* is immediately available;\n* can be used orally, and can be easily given in both adults and children because pills can be crushed and mixed in food or liquids;\n* has recently been used in Europe for treating several patients with EVD; the French drug safety agency (ANSM) has reviewed published data as well as data provided by the firm (Toyama Chemical Co., Ltd), and approved its compassionate use in EVD.\n\nHere the investigators propose to assess the efficacy of high-dosed favipiravir in reducing mortality in humans with EVD.\n\nIn the present trial \"JIKI\" (means \"Hope\" in \"Kissi\" language), investigators, sponsor, scientific advisory board and safety monitoring board will be coordinated in a very reactive way, so that any new fact can be discussed rapidly and the research plan can be adapted accordingly (change in drug dosage; use of drug combination; combination with another strategy such as passive immunization with convalescent plasma, etc.).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* age \\>1 year and weighting \u226510kg,\n* EVD confirmed by a positive qualitative PCR test,\n* signed informed consent (signed by the parents/adults guardians in case of minor patient).\n\nNon inclusion-criteria:\n\n* pregnancy\\*,\n* inability to take the drug (encephalopathy, severe vomiting). \\* Emergency use of favipiravir in pregnant women outside of the trial is envisaged and under evaluation.\n\nIn this protocol, the investigators will refer to the following groups according to age and duration of symptoms\\*\\*:\n\n* Group A1: adults with time between first symptoms and first dose of favipiravir \u226472h;\n* Group A2: adults with time between first symptoms and first dose of favipiravir \\>72h;\n* Group C: all children \\>1 year and weighting \u226510kg. Time of first symptom refers to the time of the beginning of any symptom considered to be related to EVD. \\*\\*Symptoms to be considered will be: acute onset of fever, severe headache, myalgia, extreme fatigue, vomiting, diarrhoea, abdominal pain, or unexplained hemorrhage.\n\nThe division in groups is a matter of analysis, and will not be perceptible by the patients during the trial process. Patients in the three groups will receive the same treatment and will be followed under the same procedures, with only two exceptions: the number of additional blood sample collections will be lower in group A2 and C (n=2) than in group A1 (n=3) and daily dosages will be adapted to the body weight in group C.",
+  "minimum_age": "1 Year",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Ebola Virus Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

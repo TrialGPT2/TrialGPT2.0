@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02869529",
+  "title": "Institut Paoli Calmettes Chronic Lymphatic Leukemia Database",
+  "brief_summary": "Database of Institut Paoli-Calmettes patients diagnosed with chronic lymphatic leukemia",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosis of chronic lymphatic leukemia\n\nExclusion Criteria:\n\n* Score of Matutes \\<4",
+  "minimum_age": "18 Years",
+  "maximum_age": "95 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with chronic lymphatic leukemia",
+  "condition": [
+    "Leukemia, Lymphocytic, Chronic, B-Cell"
+  ],
+  "overall_status": "RECRUITING"
+}

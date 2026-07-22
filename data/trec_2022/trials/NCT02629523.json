@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02629523",
+  "title": "Afatinib in Lung Cancer With EGFR Mutation From Circulating Tumor DNA",
+  "brief_summary": "Treatment efficacy of afatinib will be assessed in patients with lung cancer harboring EGFR mutations which were detected from circulating tumor DNA.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Stage IIIB or IV lung cancer diagnosed radiologically with or without pathologic diagnosis\n2. Age\\> 18 year-old\n3. ECOG performance status 0\\~2.\n4. Activating EGFR mutation (G719X, exon 19 deletion, L858R, L861Q) detected from circulating DNA\n5. Any one of the following criteria should be met\n\n   * Unavailable or failed pathologic/cytologic diagnosis\n   * Wild type or failed EGFR testing based on tumor tissue\n   * No more tumor sample available for EGFR test\n6. Measurable lesion by RECIST v1.1\n7. Females should be using adequate contraceptive measures, should not be breast feeding and must have a negative pregnancy test prior to start of dosing or evidence of non-child bearing potential.\n8. Male patients should be willing to use barrier contraception.\n9. Provision of signed and dated, written informed consent prior to any study specific procedures, sampling and analyses\n10. Adequate organ function, defined as all of the following:\n\n    * Absolute neutrophil count (ANC) \\>=1500/mm3\n    * Platelet count \\>= 75,000 /mm3\n    * Serum creatinine \\< 1.4 mg/dL\n    * AST or ALT \\< three times the upper limit of normal\n\nExclusion Criteria:\n\n1. Prior exposure to EGFR-TKI. Prior chemotherapy will be permitted.\n2. Previous or concomitant malignancies at other sites, except effectively treated non-melanoma skin cancers, carcinoma in situ of the cervix, ductal carcinoma in situ or effectively treated malignancy that has been in remission for more than 3 years and is considered to be cured.\n3. Severe or unstable medical conditions such as history or presence of clinically relevant cardiovascular abnormalities such as uncontrolled hypertension, congestive heart failure NYHA classification of \u2265 3, unstable angina or poorly controlled arrhythmia as determined by the investigator. Myocardial infarction within 6 months prior to randomisation.\n4. Known pre-existing interstitial lung disease\n5. Any history or presence of poorly controlled gastrointestinal disorders that could affect the absorption of the study drug (e.g. Crohn's disease, ulcerative colitis, chronic diarrhoea, malabsorption)\n6. Active hepatitis B infection (defined as presence of HepB sAg and Hep B DNA), active hepatitis C infection (defined as presence of Hep C RNA) and/or known HIV carrier.",
+  "minimum_age": "19 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lung Neoplasms",
+    "EGFR Gene Mutation"
+  ],
+  "overall_status": "COMPLETED"
+}

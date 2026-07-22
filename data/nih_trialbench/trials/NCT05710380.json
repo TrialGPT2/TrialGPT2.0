@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT05710380",
+  "title": "MRI Risk Maps for Prostate Cancer Diagnosis Using Targeted Biopsy",
+  "brief_summary": "Doctors leading this study hope to learn about a software that researchers at the University of Chicago have developed to help analyze radiographic images (different techniques for taking images that allow doctors to visualize the body's internal structures) of the prostate. Participation in this research will last about 12 months. There is a one-time MRI and 1-2 biopsies and then the investigator would like to follow the participant's progress.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SCREENING",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with known or suspected prostate cancer who have been referred for a diagnostic magnetic resonance imaging (MRI) exam of the prostate, to be followed by an MRI-guided fusion biopsy of the prostate.\n* Voluntary written informed consent before the MRI examination.\n\nExclusion Criteria:\n\n* Subjects incapable of giving informed written consent.\n* Subjects who cannot adhere to the experimental protocols for any reason, or have an inability to communicate with the researcher;\n* Subjects with psychiatric disorders that affect their ability to consent for themselves will be excluded and not the entire population of patients with psychiatric disorders.\n* Prisoners.\n* Minor children (under the age of 18 years old).\n* Patients with previous treatments (surgery, radiation, focal ablation, hormone or other chemotherapy) for prostate cancer.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Prostate Cancer",
+    "Prostate Adenocarcinoma",
+    "Prostate Neoplasm"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with known or suspected prostate cancer who have not received any prior treatments for prostate cancer. Patients with any previous systemic or local therapy for prostate cancer are excluded.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility excludes patients with any previous treatments (surgery, radiation, focal ablation, hormone or other chemotherapy) for prostate cancer, indicating only treatment-naïve patients are allowed. No prior systemic therapy for advanced disease is permitted."
+    }
+  ]
+}

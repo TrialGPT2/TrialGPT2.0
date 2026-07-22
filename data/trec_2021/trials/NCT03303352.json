@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03303352",
+  "title": "Connect Your Needle to Your Phone to Increase EUS FNA Diagnostic Yield?",
+  "brief_summary": "Summary\n\nEndoscopic ultrasound fine needle aspiration (EUS FNA) is an established and recommended technique for diagnostic of solid pancreatic masses. The accuracy of the technique depends on the operator experience, lesion type and location, type of procedure sedation as well as procedure related technique factors (presence of elastography or contrast enhanced imaging, needle diameter, presence of stylet, use of suction and type of suction, the number and method of \"to and fro\" movements, the number of passes and the presence of a cytopathologist in the examination room).\n\nThe relationship between the \"to and fro\" movement and the EUS FNA yield in solid pancreatic masses has only been explored in the literature in a subjective fashion, without accurately measuring the needle acceleration.\n\nRecently, a simple electronic sensor device connected by Bluetooth to a phone, has been proposed for teaching and research purposes. Among its sensors, it includes an accelerometer which can measure the instant scalar acceleration of an object and transmit it to the connected phone. By attaching this device to the EUS FNA needle, the investigators can accurately measure the instant scalar acceleration of the \"to and fro\" movements.\n\nThe investigators propose a prospective, multicenter, randomized, crossover study on 51 patients with solid pancreatic masses to compare an EUS FNA \"fast\" sampling technique in which the needle acceleration is higher than 1 g to a \"slow\" technique where the needle acceleration is lower than 1g.\n\nThe primary objective of the study is to compare the tissue acquisition rates and the histological diagnosis accuracy between the 2 methods \"fast\" and \"slow\". The secondary objectives of the study are to compare the cellularity and quality scores of the obtained specimens between the 2 methods. Another secondary objective is to find a linear relationship between the needle acceleration and the EUS FNA yield (histological diagnosis, sample cellularity and adequacy).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* a solid pancreatic lesion with diameter larger than 20mm, with or without a cystic component, with unknown histology;\n* age above 18 years old;\n* signed informed consent;\n\nExclusion Criteria:\n\n* a solid pancreatic mass with a diameter less than 20mm or with known histology;\n* a cystic pancreatic mass, without a solid component;\n* coagulation disorder (international normalized ratio above 1.5, activated partial thromboplastin time above 42 seconds, platelet count less than 60000/mmc) or impossibility to stop antiaggregants or anticoagulants according to the European Society of Digestive Endoscopy guidelines;\n* European Cooperative Oncology Group status 4;\n* American Society of Anesthesiology score higher than 3;\n* pregnant women;\n* age under 18 years old;\n* refusal or impossibility to sign informed consent.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pancreatic Neoplasms"
+  ],
+  "overall_status": "COMPLETED"
+}

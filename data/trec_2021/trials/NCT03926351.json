@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT03926351",
+  "title": "High Dose Omega 3 in People at Risk for Dementia",
+  "brief_summary": "The aim of this study is the efficacy of a docosahexaenoic acid (DHA)-rich dietary supplement in improving key dementia-related mechanisms and cognitive function in older people at risk for dementia. This is a randomized placebo-controlled, 24 weeks, phase 2 study of Omega 3 in people with increased risk of dementia. The aim is to explore the effects of DHA on cognitive performance (CERAD 10 word memory tests, TMT A/B, Stroop Color-Word, FAS, VOSP silhouettes, Cantab-test (RT, PAL, SWT)), biological markers (blood: CRP, NLF, TNF-alpha, MCI-1, PBMC Abeta middomain, Omega-3-index, IL, CSF: NLF, sTREM2, Ab 1-42, total and -phospho-tau) and imaging (MRI: standard structural DDI protocol including Freesurfer and WML measurements, DTI and ASL).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\> 50 years\n* SCD or MCI\n* No evidence of neurodegeneration (i.e. CSF phospho and total tau-levels below cut-off)\n* Scandinavian mother tongue\n* Completed 2-year follow-up in the DDI-study\n* Stable medication for at least 3 months prior to baseline exam\n\nExclusion Criteria:\n\n* Dementia (defined as MMSE \\< 26 and/or CDR \\>/= 1))\n* Other dementia giving disease than AD\n* Other brain disease\n* Significant depression\n* Unstable coronary heart disease or heart failure in need of treatment\n* Systemic inflammatory diseases\n* Somatic disease that might affect cognitive function adversely\n* Usage of anticoagulants\n* Prior radiation- or chemo-therapy possibly affecting CNS\n* Relevant cancer or other serious disease with expected survival \\< 5 years\n* Fish meal intake more than 2 times a week\n* Regularly intake of Omega-3 supplements over the last 3 months",
+  "minimum_age": "50 Years",
+  "maximum_age": "79 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Dementia",
+    "Inflammation",
+    "Mild Cognitive Impairment",
+    "Cognitive Decline",
+    "SCD",
+    "Cognitive Dysfunction",
+    "Pathologic Processes",
+    "Brain Diseases",
+    "Central Nervous System Diseases",
+    "Nervous System Diseases",
+    "Neurocognitive Disorders",
+    "Mental Disorder",
+    "Cognition Disorders"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02882971",
+  "title": "Objective Pain Score for Chronic Pain Clinic Patients",
+  "brief_summary": "Currently, there is no observational pain scale for use in the outpatient setting for adult patients. An observational pain scale can allow for objective measurement of pain in patients over time and after treatment without the bias associated with self-report. Currently chronic pain patients are asked to rate their pain many times throughout their care, often over years. This introduces a bias in reporting as a pain a person is currently experiencing will seem more severe then a remembered pain event. A behavioral pain scale would allow for an objective measurement of pain that is reliable across multiple raters and comparable over time, which can help in judging the success of pain treatments.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Adults age 18-75\n2. Patients able to self-report their pain using a validated pain scale\n3. Patients of the chronic pain clinic who will be receiving a pain treatment procedure\n4. English speaking\n5. Received and signed a consent to participate in the study\n\nExclusion Criteria:\n\n1. Pregnant and lactating women\n2. Patient with chronic malignant pain\n3. Patients less than 18\n4. Patient older than 75\n5. Patients with dementia\n6. Non-English speaking patients\n7. Patients unable to do a self-report pain scale\n8. Uncontrolled psychiatric conditions\n9. Uncontrolled substance abuse issues\n10. Patient's lost to follow-up\n11. Patients who don't wish to participate",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adults between the ages of 18-75 that are able to self-report their pain level using a validated pain scale.",
+  "condition": [
+    "Chronic Pain"
+  ],
+  "overall_status": "COMPLETED"
+}

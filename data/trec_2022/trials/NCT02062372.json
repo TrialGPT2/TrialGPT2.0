@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02062372",
+  "title": "Spatial Analysis and Validation of Glioblastoma on 7 T MRI",
+  "brief_summary": "Currently, patients with a glioblastoma multiforme (GBM) are treated with a combination of different therapeutic modalities including resection, concurrent chemo- and radiotherapy and adjuvant temozolomide. However, survival is still poor and most of these tumours recur within one to two years within the previously irradiated target volume.\n\nThe radiation target volume encompasses both the contrast-enhanced lesion on T1-weighted magnetic resonance imaging (MRI), plus a 1.5 - 2 cm isotropic margin in order to include microscopic speculated growth. These margins result in a high dose to surrounding healthy appearing brain tissue. Moreover, the short progression-free survival indicates a possible geographical miss. There is a clear need for novel imaging techniques in order to better determine the degree of tumour extent at the time of treatment and to minimize the dose to healthy brain tissue.\n\nThe development of Ultra-High Field (UHF) MRI at a magnetic field strength of 7 Tesla (T) provides an increased ability to detect, quantify and monitor tumour activity and determine post-treatment effects on the normal brain tissue as a result of a higher resolution, greater coverage and shorter scan times compared to 1.5 T and 3 T images. Up to now, only few investigators have examined the use of UHF MRI in patients with malignant brain tumours. These studies show its potential to assess tumour microvasculature and post-radiation effects such as microhaemorrhages.\n\nThis study analyzes the accuracy of the 7T MRI in identifying the gross tumour volume (GTV) in patients with an untreated GBM by comparing biopsy results to 7T images. These biopsies will be taken from suspected regions of GBM based on 7T MRI that do not appear as such on 3T MRI. We hypothesize that with the 7T MRI the GTV can be more accurately and extensively identified when compared to the 3T MRI.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Supratentorial tumour\n* Suspected GBM on diagnostic MRI\n* Eligible for biopsy\n* Minimum age 18 years or older\n* World Health Organization (WHO) Performance scale \u22642\n* American Society of Anaesthesiologist (ASA) class \u2264 3\n* Understanding of the Dutch language\n* Ability to comply to study procedure\n\nExclusion Criteria:\n\n* Recurrent tumour\n* Tumour location deemed unfit for extra biopsies\n* Prior radiotherapy to the skull\n* Prior chemotherapy\n* World Health Organization (WHO) Performance scale \u2265 3\n* American Society of Anaesthesiologist (ASA) class \u2265 3\n* Eligibility for immediate debulking\n* Contra-indications for gadolinium\n* Contra-indications for the MRI",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Glioblastoma"
+  ],
+  "overall_status": "TERMINATED"
+}

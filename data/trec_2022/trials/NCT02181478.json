@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT02181478",
+  "title": "Intra-Osseous Co-Transplant of UCB and hMSC",
+  "brief_summary": "This clinical trial studies intra-osseous donor umbilical cord blood and mesenchymal stromal cell co-transplant in treating patients with hematologic malignancies. Giving low doses of chemotherapy and total-body irradiation before a co-transplant of donor umbilical cord blood and mesenchymal stromal cells into the bone (intra-osseous) helps stop the growth of cancer cells. It may also stop the patient's immune system from rejecting the donor's stem cells. The donated stem cells may replace the patient's immune cells and help destroy any remaining cancer cells (graft-versus-tumor effect). Sometimes the transplanted cells from a donor can also make an immune response against the body's normal cells. Giving cyclosporine and mycophenolate mofetil at the time of transplant may stop this from happening.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients must have one of the following malignancies:\n\n  * Acute myelogenous leukemia (AML): high-risk AML including:\n\n    * Antecedent hematological disease (e.g., myelodysplasia \\[MDS\\])\n    * Treatment-related leukemia\n    * Complete remission (first complete remission \\[CR1\\]) with poor-risk cytogenetics or molecular markers (e.g. fms-related tyrosine kinase 3 \\[Flt 3\\] mutation, 11q23, del 5, del 7, complex cytogenetics)\n    * Second complete remission (CR2) or third complete remission (CR3)\n    * Induction failure or first relapse with either\n\n      * \u2264 10% blasts in the marrow and/or\n      * \u2264 5% blasts in the peripheral blood\n  * Acute lymphoblastic leukemia (ALL)\n\n    * High-risk CR1 including:\n    * Poor-risk cytogenetics (e.g., Philadelphia chromosome t(9;22)or 11q23 rearrangements)\n    * Presence of minimal disease by flow cytometry after 2 or more cycles of chemotherapy\n    * No complete remission (CR) within 4 weeks of initial treatment\n    * Induction failure\n    * CR2 or CR3 with either:\n\n      * \u2264 10% blasts in the marrow and/or\n      * \u2264 5% blasts in the peripheral blood\n  * Myelodysplastic syndromes (MDS), Intermediate-1 (INT-1), intermediate-2 (INT-2) or high Revised International Prognostic Scoring System (IPSS-R) score that has failed at least 1 first line therapy\n  * Myelofibrosis (MF):\n\n    * Intermediate-2 or high risk by Dynamic International Prognostic Scoring System (DIPSS)-plus\n    * Monosomal karyotype\n    * Presence of inv(3)/i(17q) abnormalities\n    * Other unfavorable karyotype OR leukocytes \u226540 X 10\\^9/L AND\n    * Circulating blasts \u2264 9%\n  * Relapsed or refractory lymphoid malignancies (including non-Hodgkin lymphoma, Hodgkin lymphoma and chronic lymphocytic leukemia) meeting the following criteria:\n\n    * Disease status: stable disease, partial remission or 2nd and 3rd complete remission\n  * Chronic myelogenous leukemia (CML) in second chronic phase after accelerated or blast crisis; blast crisis defined as:\n\n    * Blast count \u2265 20% in the peripheral blood or bone marrow\n    * Large foci of blasts on bone marrow\n    * Presence of extra-medullary blastic infiltrate (myeloid sarcoma or chloroma)\n  * Recipients of prior autologous or allogeneic transplant are eligible, as long as at least 3 months have passed since the transplant, and the patient fulfills other eligibility criteria\n  * Eastern Cooperative Oncology Group (ECOG) performance status \u22642\n  * Candidates for reduced intensity conditioning regimens\n  * Patients who do not have HLA-matched (defined as matched in HLA A, B, C, and DRB1) related or unrelated donors, those who elect to undergo UCB even if they have a MRD or MUD, or patients who require a UCB either for emergency indications such as primary graft failure.\n  * Cord Blood Units available through NMDP with the following minimal criteria:\n\n    * HLA Match: 4/6 or better match (HLA A, B, DRB1)\n    * Cell dose: Minimum of 2.0x107TNC/kg pre thaw\n  * Concurrent therapy for extramedullary leukemia or central nervous system (CNS) lymphoma: concurrent therapy or prophylaxis for testicular leukemia, CNS leukemia, and CNS lymphoma including standard intrathecal chemotherapy and/or radiation therapy will be allowed as clinically indicated; such treatment may continue until the planned course is completed; subjects must be in CNS remission at the time of protocol enrollment if there is a history of CNS involvement\n  * Subjects must have a back-up umbilical cord on the registry in addition to the umbilical cord being used in this study\n  * Subjects must have the ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Patients with inadequate Organ Function as defined by:\n\n  * Creatinine clearance \\< 30 ml/min\n  * Bilirubin \u2265 2 x institutional upper limit of normal\n  * Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\]) \u2265 2 x institutional upper limit of normal\n  * Alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) \u2265 2 x institutional upper limit of normal\n  * Corrected diffusing capacity of the lung for carbon monoxide (DLCOcorr) \\< 40% normal\n* Left ventricular ejection fraction \\< 35%\n* Patients with uncontrolled inter-current illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnant or breastfeeding women are excluded from this study",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Lymphoblastic Leukemia",
+    "Acute Myelogenous Leukemia",
+    "Myelodysplastic Syndromes",
+    "Myelofibrosis",
+    "Relapsed Non-Hodgkin Lymphoma",
+    "Refractory Non-Hodgkin Lymphoma",
+    "Hodgkin Lymphoma",
+    "Refractory Hodgkin Lymphoma",
+    "Relapsed Chronic Lymphocytic Leukemia",
+    "Refractory Chronic Lymphocytic Leukemia",
+    "Lymphoid Malignancies",
+    "Chronic Myelogenous Leukemia"
+  ],
+  "overall_status": "COMPLETED"
+}

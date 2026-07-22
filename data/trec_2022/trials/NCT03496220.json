@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT03496220",
+  "title": "Effect of Angulus on Patient-elevation Compliance",
+  "brief_summary": "Ventilator-associated events (VAE) are a scourge of critical care settings and hospital systems at large. There is extensive evidence that ventilator-associated pneumonia (VAP) and related VAEs increase mortality rates in critically ill patients by up to 50%, while simultaneously increasing cost of care. C\n\nBest-practice guidelines state that positioning ventilated patients at an angle between 30-45 degrees significantly reduces the potential for VAP and other VAE to develop. While the intent of the guidelines is to govern patient elevation angle, the lack of a mechanism to accurately measure patient elevation requires that nurses rely on the head-of-bed (HOB) protractor - a tool which reflects the angle of the bed, not the patient - to measure compliance. Depending upon the position and posture of the patient in the bed, a patient's elevation angle may be significantly different from the HOB angle. Critical care teams currently rely on built-in HOB protractors and digital inclinometers that measure the angle of the bed not the patient.\n\nAngulus, LLC has developed a dual-component Angulus sensor to fill this gap in critical care technology. Angulus enables critical care practitioners to instantaneously understand a patient's elevation, identify when the patient is outside of the desired 30-45 degree recumbency scope, and efficiently correct the patient's orientation with immediate feedback. Angulus supports real-time minute-to-minute data display as well as longitudinal aggregation of data.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Mechanical ventilation with any modality (e.g., endotracheal tube, tracheostomy)\n* Age between 18 and 75 years\n\nExclusion Criteria:\n\n* Patients with a known allergy to the encasing materials\n* Patients who are advised to be positioned outside of the 30-45 degree scope.\n* Patients with any major chest wall abnormalities, or defects, including but not limited to:\n\n  * post-cardiac surgical patients\n  * pectus excavatum (or any congenital chest wall deformity)\n  * complicated skin and soft tissue infections on the chest wall\n  * heart-lung machine systems",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Ventilator Adverse Event",
+    "Ventilator Associated Pneumonia",
+    "Hospital Acquired Condition",
+    "Hospital-acquired Pneumonia",
+    "Recumbency",
+    "Head-of-bed"
+  ],
+  "overall_status": "COMPLETED"
+}

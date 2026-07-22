@@ -1,0 +1,39 @@
+{
+  "nctid": "NCT06491615",
+  "title": "National Ophthalmic Genotyping and Phenotyping Network (eyeGENE (Registered Trademark)), Stage 3 - Expansion of DNA and Data Repositories for Rare Inherited Ophthalmic Diseases",
+  "brief_summary": "Background:\n\nThe eyeGENE (Registered Trademark) program is a research resource for inherited eye conditions which includes genotypic and phenotypic data, imaging, and a corresponding biobank of DNA samples from people with a variety of eye diseases. Since 2007 this registry has been helping researchers learn more about the genetic sources for many inherited eye diseases. These findings helped them create better treatments. Now researchers want to expand eyeGENE (Registered Trademark) to include more people for certain eye diseases.\n\nObjective: To collect information and DNA samples for the study of eye diseases.\n\n* Primary objective\n\n  --To expand the current eyeGENE (Registered Trademark) data repository with targeted participant accrual\n* Secondary objectives\n\n  * To enhance recruitment for clinical trials and investigations in inherited eye diseases\n\n    * To establish genotype-phenotype correlations for rare eye diseases\n\nEligibility:\n\nPeople of any age with certain eye diseases. These can include aniridia; Best disease; blue-cone monochromacy; corneal dystrophy; and disorders of pigmentation, such as albinism. Relatives unaffected by the eye disease of interest may also be needed.\n\nDesign:\n\nResearchers will select participants based on their diagnosis. The data may include images and test results from eye exams.\n\nParticipants will provide a sample of saliva. They will receive a kit with written instructions. They will spit in a tube and mail it to the NIH.\n\nParticipants may be asked to provide a blood sample. The blood may be drawn at the NIH or at a local clinic.\n\nThe eyeGENE (Registered Trademark) repository will offer researchers data about the participants eye conditions. The data may include pictures of their eyes, results of the genetic testing, and history of other diseases. Researchers will be able to see data such as age and gender, but they will not see names, dates of birth, or contact information.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\nThe participant must present with characteristics consistent with one of the following diagnoses:\n\n* Aniridia\n* Best disease\n* Blue-cone monochromacy\n* Corneal dystrophy\n* Other hypopigmentation disorder affecting vision (e.g., Oculocutaneous and ocular albinism, Hermansky-Pudlak syndrome, Chediak-Higashi syndrome)\n\nOR\n\nThe participant must be a direct, close relative of an affected participant.\n\nOR\n\nA participant who also participated in the eyeGENE Stage 1 protocol who may benefit from further genetic testing.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Those with impaired decision-making capability who do not have a legally-authorized representative.\n* Those unable to provide a saliva sample OR have any disease or condition that makes it unsafe for a subject to provide a suitable blood sample of at least 5 mL to yield more than 50 micrograms of DNA.\n\nAn individual who meets any of the following criteria will be excluded from participation in the optional retinal imaging:\n\n* Those with a history of epilepsy.\n* Children under the age of 18.",
+  "minimum_age": "1 Day",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants with inherited eye diseases or their unaffected relatives.",
+  "condition": [
+    "Inherited Ophthalmic Diseases",
+    "Hypopigmentation Disorder",
+    "Corneal Dystrophy",
+    "Blue-cone Monochromacy",
+    "Best Disease",
+    "Aniridia",
+    "Albinism"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional biobanking and registry study for inherited ophthalmic diseases, not a therapeutic trial. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls participants with inherited eye diseases and their relatives for genetic and phenotypic data collection. There is no mention of prior systemic therapy for advanced disease, as this is not a therapeutic intervention trial."
+    }
+  ]
+}

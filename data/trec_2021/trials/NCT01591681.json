@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01591681",
+  "title": "Outpatient Pump Shutoff Pilot Feasibility and Efficacy Study",
+  "brief_summary": "The purpose of this study is to see whether low blood sugar at night can be reduced by using a system that turns off the insulin pump automatically. The study system includes a combination continuous glucose monitor (CGM)/ insulin pump made by Medtronic MiniMed, Inc and a regular laptop computer that runs a computer program that predicts low blood sugar. It works by (1) measuring the glucose levels under the skin with a continuous glucose monitor, (2) using a computer program on a laptop to predict what will happen to the glucose level over the next 35-55 minutes, and (3) turning off the insulin pump when the computer program predicts that low blood sugar will occur.\n\nThis study has several phases and will take about 3 months for a patient to complete. Patients will use the Medtronic CGM with the Enlite sensor at home for 10-15 days to be sure that they are able and willing to use this system and to determine if they meet the investigators study criteria to proceed with the next phase of the study. Patients will be provided teaching on how to use CGM data in real time. If a patient is not using a Medtronic CGM already, the patient will first use one at home for 10-15 days to be sure that he/she is able and willing to use it. If a patient is already using a Medtronic CGM, then his/her most recent 10-15 days of data will be used to find out if he/she is eligible. Those who need to complete the CGM run-in phase will have an extra office visit for training.\n\nIf eligible to continue in the study, patients will need to use the study system for 5 nights at home so that the investigators can make sure they are able to use it correctly. After that, patients will be asked to use the study system each night for an additional 6 to 8 weeks. If the system is active and predicts that a patient's blood sugar will become low, the insulin pump will shut off for up to 2 hours.\n\nThe study will include about 45 individuals at 3 clinical centers in the United States and Canada.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of type 1 diabetes and using daily insulin therapy for at least one year and an insulin infusion pump for at least 6 months\n* Age \\>/= 15.0 - 45 years\n* HbA1c \\</= 8.0%\n* Availability of internet access for periodic upload of study data\n\nExclusion Criteria:\n\n* Diabetic ketoacidosis in the past 3 months\n* Hypoglycemic seizure or loss of consciousness in the past 6 months\n* History of seizure disorder (except for hypoglycemic seizure)\n* History of any heart disease including coronary artery disease, heart failure, or arrhythmiasCoronary artery disease or heart failure\n* Cystic fibrosis\n* Current use of oral/inhaled glucocorticoids, beta-blockers or other medications, which in the judgment of the investigator would be a contraindication to participation in the study.\n* History of ongoing renal disease (other than microalbuminuria), or liver disease (Creatinine \\> 1.5 mg/dL (0.08 mmol/L))\n* Medical or psychiatric condition that in the judgment of the investigator might interfere with the completion of the protocol such as:\n\n  * Inpatient psychiatric treatment in the past 6 months\n  * Uncontrolled adrenal disorder\n  * Abuse of alcohol\n* Pregnancy\n* Liver disease as defined by an ALT greater than 3 times the upper limit of normal",
+  "minimum_age": "15 Years",
+  "maximum_age": "45 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Type 1 Diabetes"
+  ],
+  "overall_status": "COMPLETED"
+}

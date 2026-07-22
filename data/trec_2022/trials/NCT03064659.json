@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT03064659",
+  "title": "Driving Pressure And EFL in Adult Cardiac Surgery",
+  "brief_summary": "During general anesthesia, functional residual capacity (FRC) is reduced. If the FRC is lower than the minimum volume required to maintain the opening of the airways, there is a derecruitment of the lung parenchyma, leading to the phenomenon of expiratory flow limitation (EFL).\n\nThe Driving Pressure (DP) is the difference between the plateau pressure (Pplateau) and the Positive End-Expiratory Pressure (PEEP), and estimates the lung strain.\n\nThe incidence of EFL and the importance of DP are not known in adult cardiac surgery, so it's necessary a study to assess both. The primary end-point of the study is to evaluate the correlation of DP and EFL with PPCs in adult cardiac surgery. The secondary end-point of the study is to evaluate: the mechanical ventilation time, the length of ICU and hospital stay, the rehospitalization and mortality.\n\nIt will be a prospective, observational, non-pharmacological study. It will enroll 200 patients undergoing elective adult cardiac surgery.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\> 18 years old\n* Ability to provide an informed consent\n* Planned cardiac surgery with median sternotomy and bi-pulmonary ventilation\n* patients scheduled for adult elective cardiac surgery, performed with CPB and aortic cross-clamping.\n\nExclusion Criteria:\n\n* Patient refusal to provide informed consent\n* Emergency surgery\n* Cardiac surgery with TAVI/MitraClip\n* Planned thoracotomy with one lung ventilation\n* Patients with chronic kidney insufficiency (defined as dialysis)\n* Patients already intubated in the peri-operative period\n* Patients with pneumonia in the pre-operative period (30 days before surgery)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult Undergoing Elective Cardiac Surgery",
+  "condition": [
+    "Respiratory Failure",
+    "Pneumothorax",
+    "Atelectasis",
+    "Respiratory Infection",
+    "Bronchospasm",
+    "Pleural Effusion"
+  ],
+  "overall_status": "COMPLETED"
+}

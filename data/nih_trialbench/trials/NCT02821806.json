@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT02821806",
+  "title": "Collection of Peripheral Blood Mononuclear Cells (PBMCs) From Healthy People for the Expansion of T Cells for Adoptive Cell Therapy",
+  "brief_summary": "Title: Collection of Peripheral Blood Mononuclear Cells (PBMCs) from Healthy People for the Expansion of T Cells for Adoptive Cell Therapy\n\nBackground:\n\nNew therapies are being developed that use a person s own immune system to fight tumors. Some of the tumors being studied include cancers caused by viruses. Researchers want to use the healthy cells of volunteers to perform research studies. To do this, they are collecting lymphocytes through leukapheresis.\n\nObjectives:\n\nTo collect healthy cells from volunteers for research studies for new cancer therapies.\n\nEligibility:\n\nHealthy people ages 18 and older\n\nDesign:\n\nParticipants will be screened with a standard donor questionnaire. It asks about their health and past medical problems. It also asks about risky behaviors that could increase their exposure to viruses or bacteria that could be transmitted through a transfusion. Participants will give a blood sample to make sure they are able to donate. They will have a physical exam. A finger stick test will check their hemoglobin, or red blood cell, level. They might give a urine sample.\n\nParticipants will undergo apheresis. For this, a needle is placed in a vein in each of their arms. Their blood is taken from one arm. A machine separates the white cells from the red cells and plasma by a spinning process. The white cells are removed and directed into a plastic bag. The red cells and plasma are returned through the needle in the other arm. The entire procedure takes 4 6 hours.\n\nParticipants may donate every 21 days in this protocol if they choose to.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Age greater than or equal to 18 years old and able to give consent.\n* Adequate clinical parameters (all of the following):\n\n  * Afebrile (temperature less than or equal to 37.5 degree C)\n  * Systolic blood pressure less than or equal to180 mmHg\n  * Diastolic blood pressure less than or equal to100 mmHg\n  * Weight greater than or equal to 110 lbs.\n  * Heart rate between 50-100 beats/minute\n  * Adequate bilateral antecubital venous access for a 2 arm apheresis procedure\n* Females of child-bearing potential should not be pregnant or breast-feeding.\n* Within 30 days of pheresis donation, donors must be negative for infectious disease work-up: Antibody screen for Hepatitis B, Hepatitis C; HIV, HTLV-I/II, T. cruzi (Chagas agent), West Nile, and syphilis (RPR)\n* Within 30 days of pheresis donation, donor must have:\n\n  * Hemoglobin:\n\n    * Women greater than or equal to 12.5 gm/dL\n    * Men greater than or equal to 13.0 gm/dL\n  * Platelets greater than or equal to 100,000/microliter\n  * Total WBC greater than or equal to 2 K/microliter\n\nEXCLUSION CRITERIA:\n\n* History of medical illness that in the estimation of the PI or DTM physician precludes donation of PBMCs.\n* Current psychiatric diagnosis that would compromise compliance with donation or precludes appropriate informed consent.\n* Presence of any blood transmissible infectious disease that cannot be cleared prior to PBMC donation and poses an unacceptable risk for the recipient.\n* Active malignancy will exclude the donor. Any history of malignancy will be considered on a case by case basis in accordance with NIH/DTM criteria.\n* If the participant answers Yes to any initial screening question, the participant will be considered ineligible.\n* If the participant is deferred according to DTM Cellular Therapy Screening Standard Operating Procedures (SOP), the participant will be considered ineligible.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants are healthy volunteers, selected from the general population. Employees may also volunteer per the protocol.@@@",
+  "condition": [
+    "Healthy Volunteer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls only healthy volunteers with no history of cancer or systemic therapy. There is no line-of-therapy intent as no cancer patients are included.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is restricted to healthy volunteers with no active malignancy and no mention of prior systemic therapy for advanced disease. Cancer patients are excluded, so line-of-therapy intent does not apply."
+    }
+  ]
+}

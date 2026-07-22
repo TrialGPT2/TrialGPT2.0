@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03265860",
+  "title": "Intravoxel Incoherent Motion Prognostic Value in the Initial Evaluation of Patients With Acute Ischemic Strokes Using 3 Tesla Magnetic Resonance Imaging",
+  "brief_summary": "Ischemic strokes are the first cause of handicap in adult people, the second cause of dementia and the third cause of death in France. Brain Magnetic Resonance (MR) initial assessment is mandatory to get the right diagnosis, to exclude hemorrhagic lesions and to determine the best treatment.\n\nThe conventional diffusion weighted imaging sequence is used to establish the diagnosis and to estimate the volume of ischemic lesions. The perfusion weighted imaging sequences are also used to assess the diffusion-perfusion mismatch which is supposed to be the ischemic penumbra corresponding to territories that could be saved with appropriate treatments.\n\nIntraVoxel Incoherent Motion (IVIM) is a multi-b diffusion sequence which allows to extract four quantitative variables (D, D\\*, f, ADC) related to the true molecular diffusion and correlated to the microvascular perfusion.\n\nIt's a quick sequence with no need of contrast injection and allowing a perfect coregistration with the true diffusion. It has been validated in many pathologies but not in acute strokes.\n\nThe feasibility of this sequence in acute ischemic strokes has already been assessed with interesting results.\n\nThe study aims to assess the correlation between the quantitative values of IVIM at initial MR exam and the modified Rankin Scale (mRS) score 3 months after an acute ischemic stroke.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patients\n* Admitted for an acute ischemic stroke\n* Affiliated to a Social Security scheme\n\nExclusion Criteria:\n\n* Absolute contraindications to MRI\n* Pregnant or breastfeeding woman",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with an acute ischemic stroke",
+  "condition": [
+    "Stroke",
+    "Magnetic Resonance Imaging"
+  ],
+  "overall_status": "COMPLETED"
+}

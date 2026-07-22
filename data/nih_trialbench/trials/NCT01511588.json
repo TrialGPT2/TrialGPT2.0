@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT01511588",
+  "title": "Hormonal Regulation of Puberty and Fertility",
+  "brief_summary": "Background:\n\n\\- The body produces gonadotropin-releasing hormone (GnRH) about every 2 hours. GnRH travels through the bloodstream to the pituitary gland, where it stimulates the gland to produce hormones called gonadotropins. These hormones stimulate the testicles or ovaries. The testicles produce testosterone and develop sperm. The ovaries produce estrogen and prepare for ovulation. Normal estrogen and testosterone levels are required for puberty. Some people, however, have either low levels or total lack of GnRH. This can cause problems with puberty and fertility. Researchers want to study people with low or no GnRH to better understand how it affects puberty and fertility.\n\nObjectives:\n\n\\- To study disorders of GnRH production.\n\nEligibility:\n\n* Adult men and women at least 18 years of age with low or no gonadotropin levels.\n* Adolescents between 14 and 18 years of age with low or no gonadotropin levels.\n\nDesign:\n\n* Participants will be screened with a physical exam and medical history. Blood and urine samples will be collected.\n* Participants will have tests to look at their hormone levels. Blood samples may be collected after taking different drugs, including insulin and cortisone. A 24-hour urine sample will be collected.\n* Participants will have imaging studies to look at bone and brain development. They will also have ultrasounds of the kidneys, abdomen, and reproductive organs.\n* Tests of smell and hearing will be used to look for abnormalities in these senses.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nSince hypogonadotropic hypogonadism is a rare condition, with an incidence of 1/10,000 to 1/86,000 for isolated GnRH deficiency (43, 44), this protocol remains open to enrollment so that we may study all subjects that are both qualified and interested in participating. Males or females who are \\>= 14 years old with clinical findings of HH as follows will be included (due to substantial variability among patient presentations, this will be based on the clinical judgement of the investigator):\n\n* Failure to go through a normal, age-appropriate, spontaneous puberty and low sex steroid levels in the setting of low/normal gonadotropins; OR\n* Normal puberty with subsequent development of low gonadotropin levels.\n\nA patient under the age of 14 years may be considered for baseline evaluation if there is sufficient evidence suggestive of HH, including, but not limited to any two of the following: anosmia, history of cryptorchidism or microphallus. As above, due to substantial variability among patient presentations, this will be based on the clinical judgement of the Investigator.\n\nEXCLUSION CRITERIA:\n\nBecause HH represents a spectrum, where associated clinical findings may provide phenotypic clues to the assessment of inheritability and underlying physiology, exclusion criteria are very limited:\n\n* Patients who have additional pituitary deficiencies, effectively ruling out isolated GnRH deficiency, whether these deficiencies are congenital or acquired (e.g. secondary to malignancy, infection, or irradiation).\n* Patients who are taking medications known to cause HH, such as corticosteroids or continuous opiate administration.\n* Pregnancy or lactation\n\nIn some cases, the subjects will be given the option of having the initial evaluation performed at the NIEHS Clinical Research Unit (Durham, NC). The initial evaluation may be completed at one site with completion of the LH pulsatility study and other diagnostic evaluations undertaken at the other site, depending up on logistical considerations for both the patient and the sites.\n\nAll subjects will be provided with a copy of the consent to read over. Time will be given to meet with the subject, describe the study, and review the procedures involved with the study. This will be followed by a time where the prospective subject can express any questions or concerns he/she may have regarding the study and have those issues addressed by one of the investigators. The consent will be signed by the subject and by a designated investigator. A copy of the signed consent will be given to the subject prior to the initiation of any study procedures.\n\nINCLUSION OF VULNERABLE PARTICIPANTS:\n\n-Children\n\nFor subjects who are children, all provisions regarding obtaining assent from children and consent from their parent/guardian are described in detail in Consent/Assent Procedures, below.\n\n-NIH Staff, and family members of study team members\n\nNIH staff and family members of study team members may be enrolled in this study as this population meets the study entry criteria. Neither participation nor refusal to participate as a subject in the research will have an effect, either beneficial or adverse, on the participant s employment or position at NIH.\n\nEvery effort will be made to protect participant information, but such information may be available in medical records and may be available to authorized users outside of the study team in both an identifiable and unidentifiable manner.\n\nThe NIH Frequently Asked Questions (FAQs) for Staff Who are Considering Participation in NIH Research will be made available. Please see Consent/Assent Procedures for consent of NIH Staff. NIH employees or staff who participate during work hours will receive a copy of Leave Policy for NIH Employees Participating in NIH Medical Research Studies.",
+  "minimum_age": "14 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Clinical patients with hypogonadotropic hypogonadism (HH)",
+  "condition": [
+    "Endocrine Disease",
+    "Infertility",
+    "Hypogonadism",
+    "Amenorrhea",
+    "Adolescents"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study of patients with hypogonadotropic hypogonadism (HH) to investigate hormonal regulation of puberty and fertility. There are no requirements or restrictions regarding prior systemic therapy for advanced disease, as this is not an oncology trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference cancer, advanced disease, or prior systemic therapy. This is a non-oncology, observational study of patients with low or absent gonadotropin levels, and line-of-therapy intent is not applicable."
+    }
+  ]
+}

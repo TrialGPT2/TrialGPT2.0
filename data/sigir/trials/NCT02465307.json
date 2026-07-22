@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02465307",
+  "title": "Intelligent Intensive Care Unit",
+  "brief_summary": "Delirium, as a common complication of hospitalization, poses significant health problems in hospitalized patients. Though about a third of delirium cases can benefit from intervention, detecting and predicting delirium is still very limited in practice. A common characterization of delirium is change in activity level, causing patients to become hyperactive or hypoactive which is manifested in facial expressions and total body movements. This pilot study is designed to test the feasibility of a delirium detection system using movement data obtained from 3-axis wearable accelerometers and commercially available camera with facial recognition video system in conjunction with electronics medical record (EMR) data to analyze the relation of whole-body movement and facial expressions with delirium.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria (ICU Patients):\n\n* Intensive care unit patient\n* 18 years of age or older\n\nExclusion Criteria (ICU Patients):\n\n* Anticipated intensive care unit stay less than one day\n* Less than 18 years of age\n* Inability to wear a motion sensor watch (ActiGraph)\n\nInclusion Criteria (Healthy Controls):\n\n* 18 years of age or older.\n* sleeps in home environment\n\nExclusion Criteria (Healthy Controls):\n\n* does not sleep in home environment\n* Less than 18 years of age\n* Inability to wear a motion sensor watch (ActiGraph)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "ICU Patients: Patients who been hospitalized in an intensive care unit and have risk factors to develop delirium or delirium has been suspected by their medical provider.\n\nHealthy Controls: People who are healthy and sleep in their home environment.",
+  "condition": [
+    "Delirium",
+    "Confusion"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

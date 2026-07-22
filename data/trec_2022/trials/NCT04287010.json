@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04287010",
+  "title": "Potassium Flux in Hemodialysis Patients",
+  "brief_summary": "Current practice of outpatient hemodialysis entails prescription of standard electrolyte concentrations based upon patient prescription history and monthly serum electrolyte measurements. Dialysate concentration of potassium can be adjusted based on standard available concentrations including 2mmol/L and 3mmol/L. Standard available dialysate concentration of Magnesium is 0.5mmol/L (which is not ordinarily adjusted further). Potassium and Magnesium are not routinely measured before or after each dialysis, therefore serum levels are largely unknown outside of once monthly measurements.\n\nThis study aims to further study this correlation of electrolyte fluctuations (potassium and magnesium) and cardiac arrhythmias/heart rate variability in the ESRD population.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\>18 years\n* Consistent thrice weekly in center hemodialysis as defined as no missed sessions in the last 30 days.\n* Goal Kt/V Urea (\\>1.2, which suggests adequate dialysis based on KDOQI guidelines) for at least 3 months\n* Serum potassium 3.5-8.0 mEq/L\n* Hemoglobin of \\>8.0g/dL\n\nExclusion Criteria:\n\n* Age \\<18 years\n* Evidence of residual renal function as defined by \\>100mL of urine output per day\n* Those whom do not have capacity to consent\n* Change in dialysis prescription within the past 30 days\n* 12-lead ECG shows non-sinus cardiac rhythm (atrial fibrillation, atrial flutter, or paced rhythm)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Eligible patients based on a limited chart review from the Chromalloy American Kidney Center population will be recruited. These will all be on in center hemodialysis three times per week. Eligible patients based on inclusion/exclusion criteria as listed above will be randomly selected by a random number generator. If selected, they will be invited to participate in the study.",
+  "condition": [
+    "Hemodialysis"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04397380",
+  "title": "COVID-19 Thales Thermography Triage : Thermal Camera Feasibility Study",
+  "brief_summary": "This study will refine and pilot the feasibility of introducing a thermal imaging test to detect fever in 100 patients being triaged within the Emergency Department. The only additional research requirement for the patient is to have a thermal image of their face taken. Other triage tests will be routine.\n\nThe aims of the feasibility study are to:\n\n* Understand the acceptability of introducing the intervention within the Emergency Department setting\n* Establish indicative patient recruitment numbers per week\n* Determine the likely proportion of patients recruited from this group who have a high temperature\n* Provide preliminary evidence that the technology can identify a high temperature in this diverse group of patients\n* Provide preliminary data for machine learning training to support classification of patients as being with or without fever\n\nThe feasibility study will then inform the design and size of larger study to further develop and validate the the thermal imaging screening test to provide a 'with/ without' fever result.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients \u2265 16 years old\n* Patients able to read and understand English\n* Patients able to give informed consent\n* Patients being triaged through ED for any complaint (not necessarily COVID-19)\n\nExclusion Criteria:\n\n* Patients not meeting the inclusion criteria\n* Patients who do not have capacity to consent\n* Patients attending ED who are fast-tracked without triage",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients attending Queen Elizabeth University Hospital Emergency Department requiring triage",
+  "condition": [
+    "Pyrexia",
+    "COVID"
+  ],
+  "overall_status": "UNKNOWN"
+}

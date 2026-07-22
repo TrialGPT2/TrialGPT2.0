@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04200495",
+  "title": "PSG Validation Study of Zensorium Biosensing Wearable Device",
+  "brief_summary": "The objective of this study is to collect data comparing the Zensorium Biosensing Wearable Device (zBWD) to polysomnography (PSG) in individuals with Sleep-Wake Disorders. zBWD is similar to other wearable devices (e.g., fitbit and apple watch) that use an optical light sensor and Tri-axis Accelerometer to record steps, activity, sleep/awake states, sleep staging, and statistical variation of pulse pressure to track stress. Specifically, it is designed to report sleep duration, non-rapid eye movement (NREM) and REM sleep duration. However, zBWD has not been validated against PSG for sleep tracking in healthy controls or in individuals with sleep-wake disorders.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* 1\\. Health status: Healthy, or those with sleep-wake disorders\n\nExclusion Criteria:\n\n1. Pregnancy\n2. Currently smoking\n3. Any respiratory disorder other than associated with Sleep/Wake Disorder or well-controlled asthma\n4. Habitual use of medications known to affect respiratory function (e.g. opioids, benzodiazepines, etc).\n5. Use of medication known to affect pulse pressure (Beta Blockers)\n6. Atrial Fibrillation\n7. Tattoos located on wrist",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy adults and those with sleep/Wake Disorders",
+  "condition": [
+    "Sleep Wake Disorders",
+    "Healthy"
+  ],
+  "overall_status": "COMPLETED"
+}

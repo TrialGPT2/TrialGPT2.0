@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT03426982",
+  "title": "Comparision Between Activated Partial Thromboplastin Time Versus Anti-Xa Activity in Heparin Monitoring",
+  "brief_summary": "Background:\n\nUnfractionated heparin (UFH) is a sulfated polysaccharide extracted from porcine intestinal mucosa that enhances the inhibitory activity of the natural anticoagulant antithrombin towards most activated clotting factors (F), particularly FXa and FIIa (thrombin) . Despite the growing interest for low molecular weight derivatives (LMWH), UFH is still widely used for different indications including the treatment of acute thrombosis including venous thromboembolism, coronary syndromes (ACS), and other thrombotic diseases. UFH is administered by parenteral route either intravenous (IV) or sub-cutaneous (SC).Actually, there is evidence that the risk of recurrence of thrombosis is increased when heparin levels fells below the lower limit of the therapeutic range, while the hemorrhagic risk increases with heparin levels above the upper limit of the therapeutic range. Moreover, the anticoagulant response to UFH is highly variable for one individual to another. As the clinical efficacy of heparin is dependent on maintaining an anticoagulant effect above a minimum level, careful laboratory monitoring of UFH treatment is mandatory. For that purpose, two options are offered to the clinicians: i) to evaluate either the prolongation of a global clotting assay, the activated partial thromboplastin time (aPTT) and ii) to measure the heparin-enhanced inhibitory activity of AT toward purified activated factors such as FIIa and FXa using chromogenic substrate-based assays. UFH therapy is still widely monitored by the aPTT, a global clotting assay, that reflects the ability of heparin to enhance the inhibitory activity of AT against FIIa, FXa, and other activated factors. The therapeutic range of aPTT prolongation is highly dependent on the reagent and analyzer used. As the consequence, it must be defined by each laboratory in its own technical conditions (for each reagent batch) to correlate with heparin levels between 0.20 and 0.40 U/mL (protamine sulfate titration), corresponding to anti-FXa activity between 0.30 and 0.70 IU/mL. In that connection, the prolongation of aPTT corresponding to antiFXa activity between 0.30 - 0.70 IU/mL is highly variable depending of the reagents e.g.between 1.6 - 2.7 x control for weakly sensitive reagents and between 3.7 - 6.2 x control for highly sensitive reagents. The use of aPTT has advantages as it is easy-to-perform, quick, inexpensive but faces numerous challenges due to the significant influence of the technical conditions (reagent/instrument) on the test result, to lot-lot variation in reagent sensitivity, to the need of studies to evaluate the therapeutic range, to limited therapeutic range, and also to non-specific prolongation in the case of lupus anticoagulant, factors deficiency, inhibitors or shortening in the case of high factor levels, particularly FVIII.In contrast, the use of chromogenic anti-Xa assays has many advantages particularly a published therapeutic range for UFH i.e. between 0.30 and 0.70 IU/mL, a specificity to its interaction with AT (no Heparin Cofactor II interference by using bovine FIIa or short incubation time) and faces few challenges such as limited availability in some area and a cost that is slightly higher than that of aPTT. In addition, anti-Xa assays allow accurate measurement of all heparin(s) derivatives and particularly LMWHs and fondaparinux.\n\nSince the first reports in the mid-eighties, some small sized studies have compared the two monitoring strategies mainly retrospectively designed (7-11). Even though, one single prospective randomized management study evaluated the comparison between the two monitoring strategies with clinical end-points i.e. recurrence of thrombosis and bleeding complication in a cohort of 131 patients with VTE . All concluded to a trend toward higher, or at least similar, safety/efficacy/efficiency when patients were monitored using antiXa activity vs. aPTT. Even though differences were not significant due to the lack of power of these studies.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria:\n\n* acute venous thromboembolism,\n* acute coronary syndrome\n* receiving UFH therapy.\n\nExclusion Criteria:\n\n* non-willing to participate in the study,\n* thrombolytic therapy,\n* previous treatment with heparin (UFH) of more than one day before randomization,\n* history of heparin-induced thrombocytopenia.\n* other conditions considering by study clinians that are not suitable for the trail.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Myocardial Infarction",
+    "Venous Thromboembolism",
+    "Stroke",
+    "Bleeding"
+  ],
+  "overall_status": "UNKNOWN"
+}

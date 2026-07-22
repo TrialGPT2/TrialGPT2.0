@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04053062",
+  "title": "LIGHT-PSMA-CART in Treating Patients With Castrate-Resistant Prostate Cancer",
+  "brief_summary": "This is a single center, single arm Phase I study to establish the safety and efficacy of intravenously administered lentivirally transduced LIGHT-PSMA-specific CAR modified autologous T cells (PSMA-CART cells) in patients with CRPC.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Fully understand and voluntarily sign informed consent.\n* Male, aged 18 to 75 years old.\n* Expected survival \\> 6 months.\n* CRPC patients: Prostate cancer is still progressing after continuous androgen deprivation therapy. Including, castrate levels of serum testosterone (\\<50ng/dl or \\<1.7nmol/L); or prostate specific antigen (PSA) increased more than 50% at intervals of one week or three consecutive times, and PSA\\>1 ug/L; or imaging scans revealed two or more new lesions or enlargement of soft tissue lesions that met the criteria for evaluating solid tumor response.\n* CRPC patients received abiraterone or chemotherapy for 3 months or more, and were ineffective or progressive (PSA continued to rise for 3 months, or bone scan/whole-body MRI/PET-CT showed local recurrence or new metastasis).\n* Immunohistochemical staining of repetitive biopsy tissues showed the expression of PSMA in tumor cells was more than 50%.\n* ECOG score \\<2.\n* Hgb \\> 10 g/dl.\n* PLT \\> 100\u00d7109/L.\n* ANC \\> 1.5\u00d7109/L.\n\nExclusion Criteria: Subjects who meet any of the following exclusion criteria will be excluded\n\n* Prior treatment with any immunotherapy, including CART therapy, tumor vaccine therapy, radium-223, checkpoint inhibitors.\n* Prior treatment with any PSMA targeting therapy.\n* Subjects with severe mental disorders.\n* Subjects with severe cardiovascular diseases: a, New York Heart Association (NYHA) stage III or IV congestive heart failure; b, history of myocardial infarction or coronary artery bypass grafting (CABG) within 6 months; c, clinical significance of ventricular arrhythmia, or history of unexplained syncope, non-vasovagal or dehydration; d, history of severe non-ischemic cardiomyopathy; e, the left ventricular ejection fraction (LVEF \\< 55%) was decreased by echocardiography or MUGA scan (within 8 weeks before PBMC collection), and abnormal interventricular septal thickness and atrioventricular size associated with myocardial amyloidosis.\n* Patients with ongoing or active infection.\n* Aspartate aminotransferase or Alanine aminotransferase \\>2.5\\*ULN; CK\\>1.5\\*ULN; CK-MB\\>1.5\\*ULN; TnT\\>1.5\\*ULN.\n* Total bilirubin \\>1.5\\*ULN.\n* Partial prothrombin time or activated partial thromboplastin time or international standardized ratio \\> 1.5\\*ULN without anticoagulant treatment.\n* History of participation in other clinical studies within 3 months or treatment with any gene therapy product.\n* Intolerant or allergic to cyclophosphamide or fludarabine.\n* Subjects not appropriate to participate in this clinical study judged by investigators.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Castrate-Resistant Prostate Cancer"
+  ],
+  "overall_status": "SUSPENDED"
+}

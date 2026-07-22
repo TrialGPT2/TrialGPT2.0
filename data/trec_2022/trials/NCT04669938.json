@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04669938",
+  "title": "Role of the Microbiota in the Evolution of the SARS-CoV-2 Disease,COVID-19, in Hospitalized Patients",
+  "brief_summary": "Patients hospitalized for COVID-19 may need intensive care (e.g. mechanical ventilation) during hospitalization. Some risk factors are already known but better targeting of such patients is still needed, at least because existing risk factors are not strong enough to provide an accurate prediction. Care organization would benefit for such a predictive tool.\n\nOropharyngeal and gut microbiota could potentially fill a significant gap in predictive performances. The investigators therefore propose to sample 200 patients (oropharyngeal and rectal swab) admitted in infectious disease department at Bichat Hospital and at high risk of needing intensive care during hospitalization. The investigators plan to perform metagenomic sequencing and bioinformatic analysis of these samples to characterize the diversity of bacterial species present in the oropharynx and the gut and to identify new factors associated with the need for intensive care. Aside metagenomic analyses, The investigators will perform semi-quantitative cultures of the oropharyngeal and gut microbiota to identify and quantify pathogens in order to predict the risk of bacterial infections in COVD-19 patients.\n\nFor patients transferred in intensive care unit, The investigators will to perform another series of samples to better characterize the evolution of microbiota during mechanical ventilation and identify factors associated with the risk of developing a ventilator-associated pneumonia.\n\nMicrobiota data will be considered together with the host genotype, the viral sequence and a deep immunological profiling to identify the main determinants of the evolution toward severity of COVID-19.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patient with documented SARS-CoV-2 infection requiring hospitalization.\n\nExclusion Criteria:\n\n* Lack of consent\n* Patients hospitalized in an intensive care unit\n* Patient under guardianship or curatorship",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult patient with documented SARS-CoV-2 infection requiring hospitalization.",
+  "condition": [
+    "Covid19"
+  ],
+  "overall_status": "UNKNOWN"
+}

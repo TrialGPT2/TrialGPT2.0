@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03110887",
+  "title": "Monitoring Outcome in Neonatal Thrombocytopenia",
+  "brief_summary": "Rationale: Approximately 10% of neonates admitted to neonatal intensive care units develop a major hemorrhage. In an attempt to avert this severe complication various preventive measures have been implemented. One of these is the transfusion of platelets to premature neonates with low platelet counts. However, this practice is not supported by scientific evidence. Most neonates with low platelet counts never experience a major bleeding and platelet transfusions may carry risks of volume overload or infection. Therefore, it is important to treat only those patients that truly benefit from this intervention. We urgently need a scientifically based tool to predict which premature neonates are at risk for major bleeding. A few prediction models do exist, but these only allow assessment of bleeding risk at baseline, and do not correct for changes in clinical status during the admission period. We believe that adding this feature to our prediction model will significantly improve our ability to predict bleeding. The prediction model will also be helpful in developing individualized transfusion guidelines as it helps us to predict which neonates would benefit from prophylactic platelet transfusions.\n\nMain objective: to develop a dynamic prediction model for bleeding in preterm neonates with low platelet counts.\n\nStudy design: retrospective observational cohort study.\n\nStudy population: neonates with a gestational age at birth of \\< 34 weeks admitted to a neonatal intensive care unit (NICU), with a thrombocyte count of less than 50x109/L will be included.\n\nAssessments: only data generated through standard care will be collected. This includes platelet counts, cerebral ultrasounds, information about bleeding and transfusions, and multiple clinical variables.\n\nMain study endpoint: major bleeding during admission\n\nStatistical analyses: dynamic prediction model using landmarking.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* gestational age \\<34 weeks at birth\n* platelet count \\<50x10\\^9/L\n\nExclusion Criteria:\n\n* readmission to NICU (only first admissions are included. Postnatal transfers from non-NICU hospitals are included)\n* major congenital malformations\n* high suspicion of spurious platelet count\n* thrombocytopenia exclusively in the context of exchange transfusion",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Admitted to participating neonatal intensive care unit, gestational age \\>34 weeks.",
+  "condition": [
+    "Neonatal Thrombocytopenia",
+    "Intraventricular Hemorrhage",
+    "Platelet Transfusion"
+  ],
+  "overall_status": "COMPLETED"
+}

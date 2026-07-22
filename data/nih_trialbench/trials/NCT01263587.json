@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT01263587",
+  "title": "Hepatitis B Research Network Adult Cohort Study",
+  "brief_summary": "The primary purpose of this study is to describe participants with hepatitis B virus (HBV) infection and identify factors that may cause the disease to activate or worsen.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "The study population will be recruited from multi-site clinical centers in the United States and Canada including primary care hospitals and community centers.\n\nInclusion criteria\n\n* Written informed consent\n* At least 18 years of age\n* Hepatitis B surface antigen (HBsAg) positive and either:\n\n  * Pregnant\n  * Anti-Hepatitis D positive\n  * Diagnosed with acute Hepatitis B infection or experiencing a hepatitis flare\n  * Immune tolerant or immune active phenotype\n  * Potentially eligible for the Immune Regulation and Costimulation in Natural History of Chronic Hepatitis B ancillary study (NCT01298037).\n\nExclusion Criteria:\n\n* Hepatic decompensation\n* Hepatocellular carcinoma (HCC)\n* Liver transplantation\n* Current hepatitis B antiviral treatment (except pregnant women and patients who are anti-HDV positive)\n* Known Human immunodeficiency virus (HIV) co-infection (patients with Hepatitis D (HDV) or Hepatitis C (HCV) co-infection are not excluded).\n* Medical or social condition which in the opinion of the investigator will interfere with or prevent follow-up per protocol\n* Unable or unwilling to return for follow-up visits",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population will be recruited from multi-site clinical centers in the United States and Canada including primary care hospitals and community centers.",
+  "condition": [
+    "Hepatitis B"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational cohort study of adults with hepatitis B virus infection, not a therapeutic trial. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference prior systemic therapy for advanced disease, as this is a non-interventional observational study of HBV-infected adults. No line-of-therapy restrictions or requirements are specified."
+    }
+  ]
+}

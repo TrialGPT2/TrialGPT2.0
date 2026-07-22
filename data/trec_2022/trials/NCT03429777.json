@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT03429777",
+  "title": "Validation of a Smartphone-Based Hearing-in-Noise Test (HearMe)",
+  "brief_summary": "The purpose of this project is to validate a quick, easy-to-use and administer smartphone hearing-in-noise test. The Hearing-in-Noise Test (HINT) measures an individual's ability to hear speech in quiet and in noise. HINTs are traditionally done testing both ears together as binaural hearing ability is key in noisy settings and everyday, functional hearing.\n\nThe app (called HearMe) can potentially be used to easily and quickly collect hearing-in-noise and speech-in-noise measurements. The smartphone app developed is a hearing-in-noise test that presents the subject with a series of stimuli consisting of a spoken three-digit sequence presented at a varying hearing-to-noise ratio. For each stimulus presentation, the user tap the three-digit sequence. The duration of the app is less than 3 minutes. For this project the investigators will test at least 50 subjects with hearing loss and 50 control subjects between the ages of 18-80. The subjects will be invited to take the app. The approach for this pilot study is to characterize hearing-in-noise thresholds (also referred to as a speech-reception threshold) as measured by the app in both subject groups, and relate it to the phenotype of each group as a preliminary evaluation of the app as well as a preliminary validation against their routinely collected measurements of hearing function (pure-tone audiometry thresholds).\n\nThe study will assess the validity of the test construct in measuring hearing-in-noise thresholds, and serve as a foundation for further iterative designs of the app and future validation and characterization studies. This study seeks to validate a developed smartphone HINT on an initial cohort of patients and controls. It is anticipated that patients with hearing loss will display higher signal-to-noise ratio thresholds (as measured by the iPhone app) compared to controls.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SCREENING",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age-matched (18-100)\n* Healthy normal controls with no known hearing loss\n* Patients with clinically assessed hearing loss\n\nExclusion Criteria:\n\n* Complete hearing loss/deafness\n* Cognitive decline or dysfunction, dementia",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hearing Loss",
+    "Hearing Disorders",
+    "Hearing Abnormality",
+    "Hearing Disability",
+    "Tinnitus"
+  ],
+  "overall_status": "WITHDRAWN"
+}

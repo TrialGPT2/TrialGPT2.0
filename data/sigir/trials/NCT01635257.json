@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01635257",
+  "title": "Accuracy of Multi-organ Ultrasound for the Diagnosis of Pulmonary Embolism",
+  "brief_summary": "Patients with suspected Pulmonary Embolism (PE) and a high clinical probability or a high D-dimer level should undergo a second level diagnostic test such as Multidetector Computed Tomography Angiography (MCTPA). Unfortunately MCTPA involves radiation exposure, is expensive, is not feasible in unstable patients and has contraindications. UltraSound (US) is safe and rapidly available even in unstable patients. Many authors evaluated the diagnostic role of Compression Ultrasound Scan (CUS) for detecting limbs Deep Vein Thrombosis (DVT), TransThoracic Echocardiography (TTE) for detecting Right Ventricular Dysfunction (RVD) or Thoracic UltraSound (TUS) for detecting subpleural infarcts in patients with suspected PE. No previous studies have investigated the diagnostic accuracy of CUS, TTE and TUS combined (multiorgan US) for the diagnosis of PE. This study evaluates the diagnostic accuracy of multiorgan US.\n\nMethods. Consecutive patients that underwent MCTPA in the Emergency Department for clinical suspicion of PE and with a simplified Well's score\\>4 (PE likely) or with a D-dimer value \u2265500ng/ml were enrolled in the study. MCTPA was considered the gold standard for PE diagnosis. A multiorgan US was performed by an emergency physician sonographer before MCTPA. PE was considered echographically present if CUS was positive for DVT or TTE was positive for RVD or at least one pulmonary subpleural infarct was detected with TUS. The accuracy of the single and multiorgan US was calculated.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with clinical suspected pulmonary embolism\n* Simplified Well's score\\>4 (PE likely) or D-dimer value \u2265500ng/ml\n* Patients that undergo MCTPA in the Emergency Department for suspected pulmonary embolism\n\nExclusion Criteria:\n\n* Refused consent\n* Less than 18 years old\n* Not possible to perform ultrasound scan within 3 hours before MCTPA",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients more than 18 years presenting to three emergency departments with clinical suspected pulmonary embolism. Clinical suspected pulmonary embolism is defined as new onset or worsening dyspnea, chest pain, syncope or shock/Hypotension without an alternative obvious cause",
+  "condition": [
+    "Pulmonary Embolism"
+  ],
+  "overall_status": "COMPLETED"
+}

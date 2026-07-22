@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02506244",
+  "title": "mHealth Screening to Prevent Strokes",
+  "brief_summary": "The purpose of this study is to investigate whether it is possible to identify a high-risk cohort suitable for screening for asymptomatic atrial fibrillation using claims data, and then engage those individuals in a mobile health technology-enabled home monitoring program in order to document previously undiagnosed atrial fibrillation, and provide clinical evidence of an outcomes benefit associated with this early detection.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Participants:\n\nThe study population will be derived from the Aetna and Medicare populations.\n\nInclusion Criteria:\n\n* Male or females age \\> 75 or\n* Male age \\> 55, or females age \\> 65, and\n* Prior CVA, or\n* Heart failure, or\n* Diagnosis of both diabetes and hypertension, or\n* Mitral valve disease, or\n* Left ventricular hypertrophy, or\n* COPD requiring home O2, or\n* Sleep apnea, or\n* History of pulmonary embolism, or\n* History of myocardial infarction, or\n* Diagnosis of obesity\n\nExclusion Criteria:\n\n* Current or prior diagnosis of atrial fibrillation, atrial flutter or atrial tachycardia\n* Receiving chronic anticoagulation therapy\n* Hospice care\n* End stage renal disease\n* Diagnosis of moderate or greater dementia\n* Implantable pacemaker and/or defibrillator\n* History of skin allergies to adhesive patches\n* Known metastatic cancer\n* Aetna Compassionate Care Program (ACCP) participants - individuals with advanced illness and limited life expectancy",
+  "minimum_age": "55 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Atrial Fibrillation"
+  ],
+  "overall_status": "COMPLETED"
+}

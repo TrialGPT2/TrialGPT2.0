@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04005235",
+  "title": "FOT Assessment of Hemi-diaphragm Dysfunction After Upper Extremity Nerve Blocks",
+  "brief_summary": "Upper extremity nerve blocks of the brachial plexus using local anesthetic can inadvertently affect the ipsilateral phrenic nerve and result in hemidiaphragm dysfunction. Ultrasonography is often used to assess for hemidiaphragm dysfunction after brachial plexus nerve blocks. Alternately, post-operative chest x-rays can also be used to document unilateral hemidiaphragm elevation secondary to phrenic nerve dysfunction. Newly developed passive breathing testing devices (Forced Oscillometry Technique - FOT) use small composite pressure waveforms (5-37Hz) imposed on top of normal breathing and measure the resulting reflected oscillations to assess the mechanical properties of the lungs. The lung resistance R(f) and reactance X(f) are automatically mathematically derived from the reflected pressure waveforms returning from the respiratory system to the FOT device. In this study, we will assess if FOT can be used to detect changes in lung mechanics (lung resistance R(f) and reactance X(f)) after ultrasound proven hemidiaphragm dysfunction secondary to brachial plexus nerve block.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patients \\> 18 y\n* American Society of Anesthesiologists physical status class 1-3\n* Undergoing upper extremity surgery which requires a pre-operative brachial plexus nerve block as part of their routine standard of care.\n\nExclusion Criteria:\n\n* Contraindication to nerve block\n* Pregnant patients\n* Patient refusal or inability to provide informed consent\n* Pre-existing hemidiaphragm dysfunction\n* Any significant neurologic dysfunction, or inability to visualize the diaphragm during baseline sonographic assessment\n* Inability to comply with FOT measurements",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult patients requiring interscalene or supraclavicular nerve blocks as part of their routine standard of care, who develop ultrasound confirmed ipsilateral hemdiaphragm dysfunction.",
+  "condition": [
+    "Diaphragm Elevated",
+    "Paresis"
+  ],
+  "overall_status": "TERMINATED"
+}

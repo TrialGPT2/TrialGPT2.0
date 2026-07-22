@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT02047786",
+  "title": "A Comparison of Appendicectomy Outcomes in Children Between Paediatric and General Surgical Centres in Scotland",
+  "brief_summary": "Introduction\n\nAppendicectomy (or appendectomy in US usage) is the single most commonly performed emergency surgical operation performed on British children. Previous investigation of outcomes following appendicectomy has suggested that specialist surgeons and high volume centres have fewer \"negative\" appendicectomies (i.e. the appendix found to be non-diseased), although there has not been consistent association found between hospital type or surgeon experience and complication rate or admission rate.\n\nScotland has 3 dedicated children's surgery centres but straightforward children's surgery such as appendicectomy is also carried out in the country's general surgical centres. Appendicectomy outcome variations have not been explored in the Scottish National Health Service (NHS).\n\nAim\n\nThis study will compare appendicectomy outcomes in children between Scotland's specialist paediatric centres and general surgical centres.\n\nMethods\n\nThis is a retrospective study of all appendicectomies performed in Scotland during the period from 1st January 2001 - 31st December 2010, on children aged 2 - 12 years old. It will use routinely collected administrative data from the Information Services Division of NHS National Services Scotland.\n\nThe study will compare risk-adjusted 30 day/in-patient mortality, 30 day re-admission rate, 30 day re-operation rate, post-operative length of stay and negative appendicectomy rates.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* All patients aged 2 - 12 years old who within the 10 year period of January 2001 - December 2010 are entered on the SMR01 database as having a code for appendicectomy.\n* Episodes will be extracted with the following codes:\n\nOPCS (Office of Population Censuses and Surveys), revision 4.5\n\nH01 Emergency excision of appendix\n\nExclusion Criteria:\n\n* We will exclude patients for whom incidental appendicectomy has occurred at the same time as another major abdominal surgical procedure.\n* We will exclude patients who are non-resident in Scotland since we will be unable to derive depravity index and urban-rural classification, and may not have access to information on co-morbidities and mortality.",
+  "minimum_age": "2 Years",
+  "maximum_age": "12 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "All children resident in Scotland, who undergo appendicectomy during the study period specified.",
+  "condition": [
+    "Appendicitis"
+  ],
+  "overall_status": "COMPLETED"
+}

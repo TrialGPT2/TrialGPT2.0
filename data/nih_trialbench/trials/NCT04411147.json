@@ -1,0 +1,40 @@
+{
+  "nctid": "NCT04411147",
+  "title": "A Longitudinal Study of COVID-19 Sequelae and Immunity",
+  "brief_summary": "Background:\n\nCOVID-19 is a disease caused by the SARS-CoV-2 virus. It infects the respiratory tract. Some people who get COVID-19 have only mild symptoms. But for others, infection leads to pneumonia, respiratory failure, and, in some cases, death. Researchers want to learn more about any effects that may persist after people recover from COVID-19.\n\nObjective:\n\nTo learn about any long-term medical problems that people who have recovered from COVID-19 might have, and whether they develop an immune response to SARS-CoV-2 that provides protection against reinfection.\n\nEligibility:\n\nPeople age 18 and older who have recovered from documented COVID-19 or were in close contact with someone who had COVID-19 but did not get the infection\n\nDesign:\n\nParticipants will be screened over 2 visits. During visit 1, they will answer questions about any symptoms they are having and will be tested for SARS-CoV-2 infection which will involve a nasal swab sample or other FDA approved test. If the test is negative, they will proceed to the second visit, which will include:\n\nPhysical examination\n\nMedical history\n\nMental health interview (which may be recorded if the participant agrees)\n\nChest x-ray (for recovered COVID-19 participants only)\n\nBlood and urine tests\n\nPregnancy test (if needed)\n\nLung function test (for recovered COVID-19 participants only)\n\n6-minute walk test (for recovered COVID-19 participants only)\n\nQuestionnaires about their general and mental health\n\nLeukapheresis to collect white blood cells (optional).\n\nParticipants will be put into 1 of 2 groups: the COVID-19 group or the close contact group.\n\nParticipants will have study visits every 6 months for 3 years. They will repeat some of the screening tests. Participants in the COVID-19 group may have visits more often if they develop symptoms that suggest re-infection with SARS-CoV-2.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, all individuals must meet all of the following criteria:\n\n1. Stated willingness to comply with all study procedures and availability for the duration of the study\n2. Age 18 years or older.\n3. Ability of participant to understand and the willingness to sign a written informed consent document.\n4. Hemoglobin of 9.0 gm/dl or higher\n5. Willingness to give consent for the storage of blood samples for research.\n6. Have a physician or clinic outside NIH to manage underlying medical conditions or agreeing to establish care with an outside physician or clinic for any medical conditions requiring treatment that may be diagnosed as a result of protocol participation.\n\nCOVID-19 Survivor Group\n\n1. Documented prior COVID-19 as evidenced by:\n\n   1. detection of SARS-CoV-2 RNA or antigen in nasopharyngeal swab, sputum or other sample source with EUA/approval from the FDA; or\n   2. a positive antibody test using an assay that has received emergency use authorization (EUA) from the Food and Drug Administration (FDA) and a history clinical manifestation compatible with COVID-19.\n2. Greater than 6 weeks since onset of COVID-19 symptoms and no fever for at least 1 week. For individuals with asymptomatic infection, screening will not occur until at least 4 weeks after the last positive SARS-CoV-2 PCR or antigen test.\n\nCOVID-19 Close Contact\n\n1. Living in the same household as a COVID-19 survivor during the time of illness or, being within approximately 6 feet (2 meters) of a COVID-19 case for a prolonged period of time or having direct contact with infectious secretions of a COVID-19 case (e.g., being coughed on).\n2. No diagnosis of COVID-19 or current symptoms suggestive of COVID-19\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Current abuse of alcohol or other drugs that, in the judgement of the Principal Investigator (PI) could interfere with patient compliance.\n2. Inability to travel to the NIH Clinical Center for study visits\n3. Any medical or mental health condition that, in the judgement of the PI, would make the volunteer unable to participate in the study.\n4. Positive SARS-CoV-2 PCR at screening visit\n5. Positive test for antibodies to SARS-CoV-2 nucleocapsid protein at the screening visit (control group only).\n6. History of any of the following in the past 14 days: fever \\> 38.2 degrees Celsius; new or worsening respiratory symptoms (e.g. cough, dyspnea).\n7. Pregnancy",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Primary Clinical",
+  "condition": [
+    "COVID-19"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of COVID-19 survivors and close contacts, with no cancer or systemic therapy for advanced disease involved. There is no line-of-therapy intent applicable to this trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "COVID-19 Survivor Group",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes individuals who have recovered from COVID-19. There is no mention of cancer or systemic therapy for advanced disease, so line-of-therapy intent is not applicable."
+    },
+    {
+      "cohort_label": "COVID-19 Close Contact",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes individuals who were close contacts of COVID-19 cases but did not contract the disease. There is no mention of cancer or systemic therapy for advanced disease, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nctid": "NCT04784351",
+  "title": "Prediction of Expected Length of Hospital Stay Using Machine Learning",
+  "brief_summary": "This is a retrospective observational study drawing on data from the Brigham and Women's Home Hospital database. Sociodemographic and clinic data from a training cohort were used to train a machine learning algorithm to predict length of stay throughout a patient's admission. This algorithm was then validated in a validation cohort.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Was a subject in the Brigham and Women's Home Hospital study and has a completed record in the study's database.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects admitted at Brigham and Women's Hospital and Brigham and Women's Faulkner Hospital who meet primary diagnosis, age, and residence within 5 mile requirements and are enrolled in home hospital.",
+  "condition": [
+    "Infection",
+    "Heart Failure",
+    "Chronic Obstructive Pulmonary Disease",
+    "Asthma",
+    "Gout Flare",
+    "Chronic Kidney Diseases",
+    "Hypertensive Urgency",
+    "Atrial Fibrillation Rapid",
+    "Anticoagulants; Increased"
+  ],
+  "overall_status": "UNKNOWN"
+}

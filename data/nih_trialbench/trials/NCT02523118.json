@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT02523118",
+  "title": "OMEGA: Outcome Measures in Eosinophilic Gastrointestinal Disorders Across the Ages",
+  "brief_summary": "The purpose of this observational study is to find the best measures to define how well a person with eosinophilic disorder is doing. People with EoE, EoG, EoN and EoC normally undergo endoscopy and/or colonoscopy where cells are collected for microscopic analysis. Treatments are then decided based on how the cells look. We are aiming to compare different tissue components such as inflammatory cell types with clinical symptoms. We want to see if scores on standard questionnaires can give us an idea how well the person is doing.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Males or females 3 years of age and older\n* Mucosal eosinophilia:\n\nEoE ≥ 15 eosinophils/HPF in the distal or proximal esophagus EoG ≥ 30 eosinophils/HPF in 5 HPF\\&#39;s in the body and/or antrum EoN ≥ 53 eosinophils/HPF in the duodenum and/or ≥ 56 eosinophils/HPF in the jejunum and/or ileum EoC ≥ 84 eosinophils/HPF from the transverse or descending colon and/or ≥ 32 eosinophils/HPF from the rectosigmoid colon or a biopsy from any colonic location with ≥ 100 eosinophils/HPF\n\n\\- Presence of symptoms is required for patients who are newly diagnosed but not required for patients who were previously diagnosed.\n\nExclusion Criteria:\n\n* History of intestinal surgery other than G tube placement\n* Enrolled in a blinded investigational study at the time of the first study visit\n* Have esophageal stricture (\\&lt;3mm)\n* Have other identifiable causes for eosinophilia (except Inflammatory Bowel Disease): infections, Gastrointestinal (GI) cancer, other GI inflammatory disease (e.g., Ulcerative Colitis or Crohn\\&#39;s Disease)",
+  "minimum_age": "3 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Males and females ages 3 or greater with EoE, EoG, EoN or EoC.",
+  "condition": [
+    "Eosinophilic Gastrointestinal Disorders (EGIDs)",
+    "Eosinophilic Esophagitis",
+    "Eosinophilic Gastritis",
+    "Eosinophilic Gastroenteritis",
+    "Eosinophilic Colitis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling patients with eosinophilic gastrointestinal disorders regardless of prior treatment history. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they specify any restrictions or requirements regarding lines of therapy. Both newly diagnosed and previously diagnosed patients are eligible, but line-of-therapy intent is not addressed."
+    }
+  ]
+}

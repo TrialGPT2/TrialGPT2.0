@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT01979588",
+  "title": "How Does the Clinical Tool 'What's Going Around' Affect Clinical Practice",
+  "brief_summary": "Previous work has shown that the epidemiological context of a patient's presentation can provide important information for clinicians to aid in diagnosis and treatment. With current electronic health records, it is increasingly possible to perform syndromic surveillance that is local and specific to a patient's characteristics.\n\nThe investigators have developed algorithms for syndromic surveillance for a number of conditions in which contextual information might be of use to treating clinicians. The syndromic surveillance algorithms already developed are for influenza-like-illness, whooping cough, asthma exacerbation, Group A Streptococcal pharyngitis, and gastroenteritis infection.\n\nThe investigators plan on studying these tools with a clustered randomized control cohort study evaluating how clinical decision making is affected by use of these tools by outpatient general practitioners. The goal is to incorporate these validated algorithms into a quality improvement tool which will provide point-of-care clinical decision support to clinicians",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\nAll patients seen in a Northshore University HealthSystem outpatient clinic (Family Medicine, Internal Medicine or Pediatric) between the Nov 1 2013 to Oct 31 2014\n\nExclusion Criteria:\n\nNone",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Influenza Like Illness",
+    "Asthma",
+    "Group A Streptococcal Infection",
+    "Pertussis"
+  ],
+  "overall_status": "COMPLETED"
+}

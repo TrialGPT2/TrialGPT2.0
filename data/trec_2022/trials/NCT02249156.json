@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02249156",
+  "title": "The Effect of Financial Incentives on Utilization of Low-cost Providers",
+  "brief_summary": "Several employers in the US have introduced a program where their employees receive a financial incentive to receive lower cost care. Under this \"Rewards\" program, patients are free to choose providers but if they visit a pre-determined low-cost laboratory or radiology facility (called a \"rewards provider\"), they receive a financial incentive. The financial incentive is typically in the form of a Health Savings Account (HSA) contribution. The dollar amount varies by employer. This study will use medical claims data to examine if this program leads to an increase in the volume of services performed by low-cost providers and decreased health care spending.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n\\- Employee or dependent of an intervention or control employer\n\nExclusion criteria:\n\n\\- Not continuously enrolled in health plan and therefore some claims may be missing",
+  "minimum_age": "1 Year",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population is composed of employees of both the intervention and control employers. We will use medical health plan claims from 2012 to 2014 for laboratory and imaging services across the study population. Health plan claims data will be provided by Castlight Health. The approximate number of providers of laboratory and radiology services who will provide care to this population will be 475,000.",
+  "condition": [
+    "Receipt of Radiology Studies",
+    "Receipt of Laboratory Tests"
+  ],
+  "overall_status": "WITHDRAWN"
+}

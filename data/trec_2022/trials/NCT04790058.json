@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04790058",
+  "title": "CSRS Implementation - A Pilot Study",
+  "brief_summary": "Syncope is a common reason for emergency department (ED) presentation. While often benign, some patients have serious and life-threatening underlying causes, both cardiac and non-cardiac, which may or may not be apparent at the time of the initial ED assessment. Identifying which patients will benefit from further investigation, ongoing monitoring and/or hospital admission is essential to reduce both adverse outcomes and the high costs. Our group has spent over a decade developing the evidence base for a risk stratification tool directed at optimizing the accuracy of ED decisions: the Canadian Syncope Risk Score (CSRS). This tool is now ready for the final phase of its introduction into clinical practice, namely a robust, multicentre implementation trial of the CSRS based practice recommendations to demonstrate its real-world effectiveness. Prior to the launch of the large-scale implementation trial, a pilot study to assess primarily the feasibility and secondarily the effectiveness is needed.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "1. Physician: physicians involved in ED syncope care\n2. Patients:\n\n   * Inclusion Criteria: adult (aged \\> 18 years) patients who present within 24 hours of syncope\n   * Exclusion Criteria:\n\n     * non-syncope (prolonged LOC \\>5 minutes, change in the mental status from baseline, patients with witnessed obvious seizure, or head trauma preceding the LOC),\n     * those unable to provide proper details - e.g., intoxication, and those with significant trauma requiring admission as per international consensus.\n     * patients who had a serious underlying condition identified during the index ED evaluation\n     * hospitalization for a reason other than syncope work-up (i.e. unable to cope at home).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The investigator will study the effect of Knowledge Translation on physicians involved in ED syncope care and the effect of the practice recommendations on patients, ED management and safety in 30-days and in 1-year. As the unit of randomization is the ED, all patients presenting to the ED with syncope among whom no serious condition was identified during the index ED evaluation and who did not require consultation/ hospitalization for a non-syncope related reason will be included in the study for analysis. The investigator will use the Canadian Emergency Department Information System presenting complaints suggestive of syncope/pre-syncope or an ED discharge diagnosis of syncope using discharge diagnoses fields or ICD-10 code R.55 for syncope to identify patients.",
+  "condition": [
+    "Syncope"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

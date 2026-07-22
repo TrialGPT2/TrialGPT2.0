@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04000490",
+  "title": "External Validation of the SCARE Score",
+  "brief_summary": "Chest pain is a very common reason for resorting to the call center. The etiologies are very varied, ranging from benign pathologies to some that may involve, in the short term, the vital prognosis such as Acute Coronary Syndrome (ACS). ACS is a partial or complete occlusion of a coronary artery that causes potentially irreversible myocardial pain unless prompt treatment is undertaken. ACS represents 120 000 cases per year in France and causes about 18 000 deaths. There is currently no support score for the assessment of chest pain. However, reducing the duration of management of ACS is essential in order to hope to reduce the associated morbidity and mortality. In 2016, SAMU45's team established a predictive ACS score for the assessement of chest pain in SAMU 45 (France) based on the prospective study of 1367 patients. Seven items significantly associated with this risk of ACS could be highlighted: age, sex, smoking, typicality (potentially constrictive chest pain radiating potentially to the shoulders and / or jaw) pain, inaugural character of pain (ie first episode of this type), presence of sweats and the physician's belief to be in the presence of an ACS. These seven variables make up the SCARE score. This had good internal discrimination (AUC at 0.81) and excellent calibration (\"p\" of Hosmer-Lemeshow at 0.74). This score makes it possible to stratify the risk of ACS, by using epidemiological elements but also the physician's belief, whose Negative Predictive Value (VPN) proved excellent.\n\nThe objective of this new project is to confirm by an external validation via a multicentric study the robustness of this score and thus be able to consider its use in front of any chest pain regulated in France by a call center.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Any patient over the age of 18 calling call center for chest pain\n\nNo-inclusion Criteria:\n\n* Posttraumatic chest pain,\n* Age under 18,\n* Patient not speaking French,\n* Patient refusing to participate in the study or refusing care\n* Patient not affiliated with social security,\n* Patients incarcerated in a penitentiary center,\n* Patients under guardianship, curatorship or safeguard of justice.\n\nExclusion Criteria:\n\n\\- Patient refusing to participate in the study or refusing care",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Any patient over the age of 18 calling call center for chest pain",
+  "condition": [
+    "Assessment",
+    "Chest Pain",
+    "ACS - Acute Coronary Syndrome"
+  ],
+  "overall_status": "COMPLETED"
+}

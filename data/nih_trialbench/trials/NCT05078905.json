@@ -1,0 +1,42 @@
+{
+  "nctid": "NCT05078905",
+  "title": "Vaccine Responses to SARS-CoV-2 and Other Emerging Infectious Diseases",
+  "brief_summary": "Background:\n\nVaccines against SARS-CoV-2, the virus that causes COVID-19, have been highly effective against preventing severe disease. But the protective effects of these vaccines appear to wane over time. Researchers want to learn why.\n\nObjective:\n\nTo learn more about how the immune system responds to vaccines against infections like SARS-CoV-2.\n\nEligibility:\n\nHealthy adults ages 18 or older who are scheduled to receive either a new vaccine or a booster shot against SARS-COV-2 or another emerging infection.\n\nDesign:\n\nParticipants will be screened with a medical history and blood and urine tests.\n\nParticipants will have up to 8 study visits in 1 year. Each visit should last less than 2 hours. At each visit, participants will give blood samples. Some blood samples will be used for genetic testing. They will also give updates on their health.\n\nAfter the first study visit, participants will receive either a first vaccination or a booster shot. They must get the vaccine in their community or workplace. They will not get the vaccine at NIH.\n\nThis study currently focuses on SARS-CoV-2, but it will expand to other infectious diseases as they emerge and become the target of new vaccines.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nGeneral Inclusion Criteria for All Groups:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Stated willingness to comply with all study procedures and availability for the duration of the study\n2. Age 18 years or older\n3. Hemoglobin \\>= 9.0 grams per deciliter (g/dL) or \\>= 11.2 for women who are pregnant.\n4. Willingness to give consent for the storage of blood samples for research\n5. Ability of subject to understand and the willingness to sign a written informed consent document\n\nInclusion Criteria for Primary (New) Vaccination Group:\n\n1\\. No history of having received a dose of the vaccine for the infectious disease being studied. Subjects who have enrolled under another Laboratory of Immunoregulation (LIR) protocol and had samples drawn prior to vaccination will also be eligible for enrollment.\n\nInclusion Criteria for Secondary (Booster) Vaccination Group:\n\n1\\. Willingness to return for baseline research blood collection prior to booster vaccination.\n\nEXCLUSION CRITERIA:\n\n1. Current abuse of alcohol or other drugs that, in the judgement of the Principal Investigator (PI) could interfere with patient compliance.\n2. Any medical or mental health condition that, in the judgement of the PI, would make the volunteer unable to participate in the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals greater than 18 years of age who are scheduled to receive a initial or booster vaccination to an emerging infectious disease.",
+  "condition": [
+    "COVID-19",
+    "Vaccination",
+    "Healthy Volunteer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a vaccine immunology study in healthy adults, not a cancer trial, and does not involve systemic therapy for advanced disease or lines of therapy. The study includes cohorts for primary (first) vaccination and booster (subsequent) vaccination.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Primary (New) Vaccination Group",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes participants with no prior history of receiving the vaccine for the infectious disease being studied. There is no concept of systemic therapy or lines of therapy for advanced disease in this context."
+    },
+    {
+      "cohort_label": "Secondary (Booster) Vaccination Group",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes participants who are receiving a booster vaccination. There is no mention of systemic therapy or lines of therapy for advanced disease, as this is a vaccine study in healthy adults."
+    }
+  ]
+}

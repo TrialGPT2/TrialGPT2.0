@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT06609616",
+  "title": "Feasibility of Measuring Volume of Inspiration Via Noninvasive Motion Sensors",
+  "brief_summary": "Background:\n\nLung problems develop in up to 20% of people after they have surgery. While under general anesthesia, people breathe slower and draw in less air. They may have difficulty returning to normal deep breathing as they recover. Some may develop life-threatening complications. An approved device called an incentive spirometer is used to help measure and improve a person s breathing after surgery. Researchers want to find out if a motion sensor placed on the chest can also measure the volume of air a person inhales as they breathe.\n\nObjective:\n\nTo determine if a motion sensor on the chest can measure the volume of air a person breathes.\n\nEligibility:\n\nHealthy adults aged 18 years and older.\n\nDesign:\n\nParticipants will have 1 clinic visit. The visit will last 10 to 30 minutes.\n\nThey will fill out a form with their age, sex, height, and weight.\n\nA small, plastic motion sensor will be taped to their chest on 1 or both sides.\n\nParticipants will breathe through a tube attached to an incentive spirometer. They will take 18 breaths of different volumes, both deep and shallow.\n\nResearchers will use the data collected from the motion sensors to measure how the chest moves at different levels of breathing. The motion sensor data will be used to create a software program that converts chest wall motion to the volume of air inhaled for a given breath in real time.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DEVICE_FEASIBILITY",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this proof-of-concept study, an individual must meet all the following criteria:\n\n1. Provision of signed and dated informed consent form.\n2. Stated willingness to comply with all study procedures and availability for the duration of the study.\n3. Male or female sex, aged 18-100.\n4. Ability of subject to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Pregnancy.\n2. Known allergic reactions to adhesive.\n3. Patients with an altered mental status that precludes understanding and consenting for the procedure and compliance with the study activities.\n4. Patients with known pulmonary conditions including pulmonary fibrosis, asthma, COPD, or chronic bronchitis.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Postoperative Pulmonary Complications (PPCs)"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-oncology study enrolling only healthy adults with no history of pulmonary conditions. There is no line-of-therapy intent as no cancer patients or systemic therapies are involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls only healthy adults without pulmonary conditions; there is no mention of cancer, systemic therapy, or lines of therapy for advanced disease. Line-of-therapy intent is not applicable."
+    }
+  ]
+}

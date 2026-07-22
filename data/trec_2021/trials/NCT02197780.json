@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT02197780",
+  "title": "Head-to-head Comparison of Two Fecal Biomarkers to Screen Children for IBD",
+  "brief_summary": "RATIONALE:\n\nA substantial proportion of children and teenagers with suspected inflammatory bowel disease (IBD) referred for endoscopy do not have the disease. The investigators designed a clinical decision rule that included a calprotectin stool test to discern which patients require further investigations. The accuracy of this diagnostic strategy is 88.5% with a low risk of missing IBD cases. Although the number of negative endoscopies was reduced after introduction of this strategy, still 22% of the referred children and teenagers underwent an unnecessary invasive test. S100A12 (calgranulin C) is a cytoplasmic protein secreted exclusively by activated neutrophils and this stool marker may be more IBD-specific than calprotectin.\n\nOBJECTIVE:\n\nTo determine whether the specificity of S100A12 is superior to the specificity of calprotectin without sacrificing sensitivity\n\nHYPOTHESIS:\n\nInclusion of the calgranulin C stool test will improve the specificity of the screening-strategy.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Eligible patients are those aged between 6 and 18 years with at least one of the following criteria:\n\n* Persistent diarrhea (at least 4 wks)\n* Recurrent abdominal pain with diarrhea (at least 2 episodes in 6 months)\n* Rectal bloodloss\n* Peri-anal disease\n\nOR at least two of the following criteria:\n\n* Involuntary weight loss\n* First degree family member with IBD\n* Anemia (HB \\< -2 SD for age and gender)\n* Increased marker of inflammation (ESR \\>20 mm/hour or CRP \\>10 mg/L)\n* Extra-intestinal symptoms (erythema nodosum, arthritis, uveitis, thromboembolism, aphtous ulcera)\n\nWe did not define any exclusion criteria.",
+  "minimum_age": "6 Years",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Eligible for inclusion are consecutive children and teenagers who consult their pediatrician and have gastro-intestinal symptoms suggestive of IBD. Participating centers are located in the Northern and Southern region of the Netherlands and the Flemish-speaking region of Belgium.",
+  "condition": [
+    "Abdominal Pain",
+    "Rectal Bloodloss",
+    "Diarrhea",
+    "Inflammatory Bowel Disease",
+    "Crohn's Disease",
+    "Ulcerative Colitis",
+    "Irritable Bowel Syndrome"
+  ],
+  "overall_status": "COMPLETED"
+}

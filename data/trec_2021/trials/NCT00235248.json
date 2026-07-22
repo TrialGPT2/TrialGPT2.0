@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00235248",
+  "title": "Aortic Arch Related Cerebral Hazard Trial (ARCH)",
+  "brief_summary": "The ARCH is a controlled trial with a sequential design and with a prospective, randomized, open-label, blinded-endpoint (PROBE) methodology. The objective is to compare the efficacy and tolerance (net benefit) of two antithrombotic strategies in patients with atherothrombosis of the aortic arch and a recent (less than 6 months) cerebral or peripheral embolic event.\n\nHypothesis:\n\nThe association of clopidogrel 75 mg/d plus aspirin 75 mg/d is 25% more effective than an oral anticoagulant (target International Normalized Ratio \\[INR\\] 2 to 3) in preventing brain infarction, brain hemorrhage, myocardial infarction, peripheral embolism, and vascular death.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\nPatients of both sexes aged \u2265 18 years with the following 4 inclusion criteria:\n\n* One of the 3 following ischemic events in the preceding 6 months:\n\n  * Transient ischemic attack (TIA)\n  * Non-disabling brain infarcts:\n\n    * Inclusion within 6 months after onset\n    * Duration of symptoms and signs greater than 24 hours\n    * Neurological signs at the time of randomization with a Rankin Scale grade 3 or less\n    * With normal computed tomography (CT) scan or CT scan showing a brain infarct (even hemorrhagic infarct)\n  * Peripheral embolism\n* Atherosclerotic plaque in the thoracic aorta is defined as wall thickness \u2265 4 mm where the protruding material is the largest, measured at transesophageal echocardiography with multiplane transducer or a plaque less than 4 mm but with mobile component.\n* Informed consent signed\n* Life expectancy \\> 3 years\n\nExclusion Criteria:\n\n* Other causes of embolism:\n\n  * Cardiac: endocarditis, atrial fibrillation, intra-cardiac thrombus, valvular prosthesis, rheumatic valvulopathy, left ventricular aneurysm, or ejection fraction less than 25%\n  * Atherosclerotic stenosis ipsilateral to the embolic territory: internal carotid artery stenosis greater than 70%, or severe (judgment of the investigator) intracranial stenosis, or scheduled carotid endarterectomy (in that case inclusion is possible 30 days after the procedure)\n  * Uncommon causes: dissection, vasculitis, procoagulant state, or sickle cell disease\n* Other exclusion criteria:\n\n  * Intercurrent illness with life expectancy less than 36 months\n  * Pregnancy and non-menopausal women\n  * Unwillingness to participate\n  * Poor medication compliance expected\n  * Toxicomania\n  * Absolute indication for anticoagulant therapy (e.g. atrial fibrillation, intracardiac thrombus, prosthetic valve)\n  * Scheduled for carotid endarterectomy (randomization is possible 30 days after endarterectomy)\n* CT scan with an intracranial lesion other than brain infarction (space occupying mass, intracranial hemorrhage)\n* Transesophageal echocardiography (TEE) with plaque \u2265 4 mm in thickness distal to the supposed embolized artery (judgement of the investigator).\n* Contraindication to clopidogrel, aspirin, and oral anticoagulants",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Brain Infarction",
+    "Transient Ischemic Attack",
+    "Embolism"
+  ],
+  "overall_status": "COMPLETED"
+}

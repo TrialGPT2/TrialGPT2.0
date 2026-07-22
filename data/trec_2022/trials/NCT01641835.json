@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01641835",
+  "title": "Optical Coherence Tomography (OCT) Data Collection Study",
+  "brief_summary": "Collect OCT data to evaluate the range and age trend of ocular measurements.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Subject is not an employee of the eye clinic.\n* Age \u226518 to 90.\n* Able and willing to undergo the test procedures, give consent, and to follow instructions.\n* Healthy eye without prior intraocular surgery (except cataract surgery and Lasik) and without clinically significant vitreal, retinal or choroidal diseases, diabetic retinopathy, or disease of the optic nerve.\n* Caucasian decent (self-reported).\n* Negative history of glaucoma.\n* Intraocular pressure \u226421mmHg.\n* Best corrected visual acuity \u22650.5.\n* Refraction between +6 and -6 diopters and astigmatism \u2264 2 diopters.\n* Normal visual field with Glaucoma Hemifield Test and Mean Deviation within normal limits.\n* Clinically normal appearance of the optic disc, with normal appearing neuroretinal rim with respect to color and shape. The optic disc is examined ophthalmoscopically and by evaluation of stereo photographs.\n* When both eyes are eligible, both eyes enter the study for inter-eye asymmetry; one randomly selected eye will be used for all other measures.\n\nExclusion Criteria:\n\n* Unreliable visual field. The reliability indices should be used as guide as well as the perimetrist's notes.\n* Unusable disc stereo photos.\n* Inability to undergo the tests.\n* Insufficient quality of Spectralis OCT images (this is not determined until after Spectralis OCT examination, and is an unusual circumstance). Minimum requirements are:\n\n  * Retina completely included in image frame,\n  * Quality Score \u2265 20 in the stored ART mean images, and\n  * For ONH-R scan: Center position error \u2264 100 \u03bcm.\n* Note: Inability of a subject to perform one of the two scan patterns or insufficient image quality in one scan pattern does not exclude the subject or eye from the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "No eye disease.",
+  "condition": [
+    "Glaucoma"
+  ],
+  "overall_status": "COMPLETED"
+}

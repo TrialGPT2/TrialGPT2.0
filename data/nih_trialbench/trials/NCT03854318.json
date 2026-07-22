@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT03854318",
+  "title": "Longitudinal Studies of Patient With FPDMM",
+  "brief_summary": "Background:\n\nGenes tell the body and its cells how to work. Familial platelet disease (FPD) or FPD with associated malignancies (FPDMM) is caused by a variant in the gene RUNX1. People with this disease may have problems with their blood and bleed for a long time when they are injured. Researchers want to learn more about RUNX1 variants and FPD.\n\nObjective:\n\nTo learn more about FPD in people with RUNX1 variants to lead to better diagnosis, monitoring, and treatment.\n\nEligibility:\n\nPeople any age with a suspected or confirmed RUNX1 variant\n\nPeople who have a family member with the variant\n\nDesign:\n\nAll participants will be screened with a phone call and a blood, saliva, or cheek cell sample.\n\nParticipants with a suspected or confirmed variant will have 1 visit. It will last about 2 days. They will then have visits at least once a year.\n\nVisits will include:\n\n* Medical history and physical exam\n* Blood tests or saliva sample\n* Possible skin biopsy: A small piece of the participant s skin will be removed.\n* Bone marrow aspiration or biopsy: The participant s bone marrow will be removed by needle from a large bone such as the hip bone.\n* Possible apheresis: Blood will be removed from the body and certain blood cells will be taken out. The rest of the blood is returned to the body.\n\nBetween visits, participants with a suspected or confirmed variant will keep a diary of disease symptoms and signs.\n\nSamples from all participants may be used for genetic testing",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITIERIA:\n\nPatients enrolled in this protocol will have been referred with a known or suspected variant in the RUNX1 gene. Patients with suspected RUNX1 variants are those with clinical features of FPD but who have not been tested for RUNX1, or who were negative on standard testing. The Principal Investigator, along with consulting specialists, will review the medical records of prospective patients and offer enrollment based upon the potential to help the individual, to learn from the patient, or to initiate clinical or basic research suggested by the patient's workup. Persons interested in participation may be given a screening questionnaire to determine eligibility. The questions about hematologic manifestations in the screening questionnaire are important to help us determine if RUNX1 variants are likely to be pathogenic, or if there is a high clinical suspicion of RUNX1 (abnormal platelets, bleeding, bruising, leukemia etc.). Unaffected family members may be asked to enroll in the study to provide specimens (saliva, blood, skin) for genetic testing, next-generation sequencing, and other related studies. Enrolled subjects can be any sex and any age. There are no upper or lower age restrictions on this study.\n\nEXCLUSION CRITIERIA:\n\nThere are no exclusionary criteria.",
+  "minimum_age": "1 Day",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients (and direct family members of patients) enrolled in this protocol will have been referred with a known or suspected RUNX1 mutation.",
+  "condition": [
+    "Inherited Hematological Diseases",
+    "Rare Diseases",
+    "FPDMM"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study enrolling patients with suspected or confirmed RUNX1 variants and their family members, regardless of prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease; all patients with suspected or confirmed RUNX1 variants and their family members are eligible regardless of treatment history. This is an observational study with no therapeutic intervention or line-of-therapy restrictions."
+    }
+  ]
+}

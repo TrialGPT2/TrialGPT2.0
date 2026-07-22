@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT00726323",
+  "title": "A Phase II Study of GSK1363089 (Formerly XL880) for Papillary Renal-Cell Carcinoma (PRC)",
+  "brief_summary": "This clinical study is being conducted at multiple sites to determine the best confirmed response rate, safety, and tolerability of GSK1363089 treatment in papillary renal cell carcinoma. Papillary renal cell carcinoma may be classified into hereditary and sporadic forms; subjects with either classification will be accepted into this study.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of PRC with metastatic disease or bilateral multifocal renal tumors localized to kidneys. Measurable disease, ECOG performance status of \\</= 2.\n* Adequate bone marrow reserve, hepatic, renal, and cardiovascular function.\n\nExclusion Criteria:\n\n* Radiation to \\>/=25% of bone marrow within 14 days of GSK1363089, more than 1 prior anti-cancer therapy, received prior treatment with a c-met inhibitor, brain metastases,\n* Any uncontrolled intercurrent illness,\n* Pregnant or breastfeeding,\n* HIV positive",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Carcinoma, Renal Cell"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with metastatic or multifocal papillary renal cell carcinoma who have received no more than one prior anti-cancer therapy. Both treatment-naïve and patients with one prior line for advanced disease are eligible.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 1,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility allows patients with metastatic or multifocal PRC who have had no more than one prior anti-cancer therapy. Patients with no prior systemic therapy for advanced disease (treatment-naïve) are eligible, as are those who may have had only adjuvant therapy. The phrase 'more than 1 prior anti-cancer therapy' is exclusionary, so both 1L and adjuvant-only patients are allowed."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT03892265",
+  "title": "A Longitudinal Cohort Study to Evaluate Cardiovascular Risk Factors and Disease in Haiti",
+  "brief_summary": "Investigators will establish a longitudinal cohort of \\~3,000 adults \\>18 years in Port-au-Prince using multistage random sampling, and follow them longitudinally to evaluate the prevalence and incidence of cardiovascular disease risk factors and diseases. Cardiovascular risk factors include hypertension, diabetes, obesity, dyslipidemia, kidney disease, poor diet, cigarette smoking, physical inactivity, and inflammation. Cardiovascular disease include angina and myocardial infarction, heart failure, stroke, and CVD mortality. It is anticipated that hypertension prevalence will be \u226510% in 18-30 year olds, that hypertension incidence will be \\>10 events/1000 person years. Association of determinants and risk factors with CVD will also be examined. Whole blood, serum, plasma, stool, and urine samples will be biobanked for future studies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* age \\> or = 18 years, primary residence in the study area of Port-au-Prince (defined as having slept at the household at least once in the past two weeks and considers the household their primary residence with no plans to move in the next 24 months),\n* able to provide consent for study procedures,\n* agrees to study procedures, and\n* willing to be contacted at a new residence if a move occurs\n\nExclusion Criteria:\n\n* serious medical conditions or cognitive impairment preventing study participation as judged by research physicians,\n* unable to speak and understand French or Creole.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population will include 3,000 adults \\>=18 years from a population-representative sample. Participants will be selected via multistage random sampling. Investigators will randomly select approximately 2,045 GPS waypoints across census blocks with the number of waypoints per block proportional to the IHSI estimated population size of each block. GPS waypoints will be randomly selected from satellite area maps, using ArcGIS software, and identified with GPS devices.",
+  "condition": [
+    "Hypertension",
+    "Diabetes",
+    "Obesity",
+    "Kidney Diseases",
+    "Dyslipidemias",
+    "Smoking",
+    "Alcohol Use, Unspecified",
+    "Physical Inactivity",
+    "Poor Diet",
+    "Inflammation",
+    "Myocardial Infarction",
+    "Heart Failure",
+    "Stroke",
+    "Cardiac Death"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

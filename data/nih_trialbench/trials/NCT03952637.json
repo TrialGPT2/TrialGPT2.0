@@ -1,0 +1,44 @@
+{
+  "nctid": "NCT03952637",
+  "title": "A Phase 1/2 Study of Intravenous Gene Transfer With an AAV9 Vector Expressing Human Beta-galactosidase in Type I and Type II GM1 Gangliosidosis",
+  "brief_summary": "Background:\n\nGM1 gangliosidosis is a disorder that destroys nerve cells. It is fatal. There is no treatment. People with GM1 are deficient in a certain enzyme. A gene therapy may help the body make this enzyme. This could improve GM1 symptoms.\n\nObjective:\n\nTo test if a gene therapy helps Type I and Type II GM1 gangliosidosis symptoms.\n\nEligibility:\n\nType I subjects will be male and female \\>= 6 months \\<= 12 months of age at the time of full ICF signing.\n\nType II subjects will be male and female \\> 12 months old and \\< 12 years old at the time of full ICF signing.\n\nDesign:\n\nParticipants will be screened with their medical history and a phone survey.\n\nParticipants will stay at NIH for 8-10 weeks.\n\nParticipants will have baseline tests:\n\nBlood, urine, and heart tests\n\nHearing tests\n\nUltrasound of abdomen\n\nEEG: Sticky patches on the participant s head will measure brain function.\n\nLumbar puncture: A needle will be stuck into the participant s spine to remove fluid.\n\nMRI scans, bone x-rays, and bone scans: Participants will lie in a machine that takes pictures of the body\n\nIQ tests\n\nNeurology exams\n\nCentral line placement\n\nSkin biopsy: A small piece of the participant s skin will be removed.\n\nSpeech tests\n\nParticipants will have an x-ray while swallowing food.\n\nParticipants will take drugs by mouth and IV. This will get their immune system ready for therapy.\n\nParticipants will get the gene therapy by IV. They may stay at NIH for a week to watch for side effects.\n\nParticipants will have visits 3 and 6 months after treatment. Then visits will be every 6 months for 2 years. Then they will have a visit at 3 years. Visits will take 4-5 days.\n\nParticipants will return to NIH once a year for 2 years for tests in an extension study....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nType I subjects\n\n* Male or female subjects \\>= 6 months old and \\<= 12 months old at time of full ICF signing\n* Biallelic mutations in GLB1\n* Documented deficiency of Beta-galactosidase enzyme by clinical laboratory testing\n* Phenotype consistent with a diagnosis of Type I GM1 gangliosidosis\n\n  * Symptomatic subjects: as determined by the opinion of the Principal Investigator and based on the criteria set forth by Brunetti-Pierri et al:\n\n    * Age of symptom onset \\<= 6 months of age\n    * Rapidly progressive with developmental delay and hypotonia\n  * Pre- symptomatic subjects: must have mutations confirmed to be associated with the Type I subtype\n* AAV9 antibody titers \\<=1:50\n* Agree to reside within 50 miles of the study site for at least 1 month following treatment\n\nType II subjects\n\n* Vineland-3 Adaptive Behavior composite standard score greater than or equal to 40\n* Male or female subjects \\> 6 months old and \\< 12 years old at time of full ICF signing\n* Biallelic mutations in GLB1\n* Documented deficiency of beta-galactosidase enzyme by clinical laboratory testing\n* Phenotype consistent with a diagnosis of Type II GM1 gangliosidosis, with symptom onset after the first year of life\n* AAV9 antibody titers \\<=1:50\n* Agree to reside within 50 miles of the study site for at least 1 month following treatment\n\nEXCLUSION CRITERIA:\n\n* AAV9 antibody titers \\>1:50\n* Contraindications to concomitant medications\n* Serious illness that would not allow travel to the study site\n* Unwilling to undergo study interventions as outlined in the Schedule of Events\n* Subjects receiving other unapproved, off-label or experimental therapies for GM1 gangliosidosis (i.e. miglustat, Tanganil) within the last 60 days\n* Any prior participation in a study in which a gene therapy vector or stem cell transplantation was administered\n* Pregnant or lactating subjects\n* Immunizations of any kind in the month prior to screening\n* Evidence of cardiomyopathy on history, exam, or additional testing (echocardiogram or electrocardiogram) or other cardiac disease that in the opinion of the investigator would deem the subject unsafe to participate in the trial\n* Indwelling ferromagnetic devices that would preclude MRI/fMRI/MRS imaging\n* Ongoing medical condition that is deemed by the Principal Investigator to interfere with the conduct or assessments of the study\n* History of infection with human immunodeficiency virus (HIV), hepatitis A, B, or C, or tuberculosis.\n* History of or current chemotherapy, radiotherapy or other immunosuppressive therapy within the past 30 days. Corticosteroid treatment may be permitted at the discretion of the PI\n* Abnormal laboratory values considered clinically significant per the investigator\n* Failure to thrive, defined as:\n\n  \\-- Falling 20 percentiles (20/100) in body weight in the 3 months preceding Screening/Baseline\n* Underlying defect in immune function\n* History of multiple and severe life-threatening infections",
+  "minimum_age": "6 Months",
+  "maximum_age": "12 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lysosomal Diseases",
+    "Gangliosidosis",
+    "GM1"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a gene therapy trial for patients with Type I and Type II GM1 gangliosidosis, including both symptomatic and pre-symptomatic subjects. There is no mention of prior systemic therapy for advanced disease, and prior treatment is not required or specified.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Type I",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility for Type I subjects does not require any prior systemic therapy for advanced disease; both symptomatic and pre-symptomatic patients are eligible. Exclusion criteria only mention prior gene therapy or stem cell transplantation, not prior systemic therapy."
+    },
+    {
+      "cohort_label": "Type II",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Type II subjects are eligible regardless of prior systemic therapy for advanced disease, and there is no requirement for prior treatment. Exclusion criteria focus on prior gene therapy or stem cell transplantation, not systemic therapy."
+    }
+  ]
+}

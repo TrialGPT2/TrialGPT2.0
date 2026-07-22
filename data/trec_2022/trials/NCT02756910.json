@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02756910",
+  "title": "Perioperative Accuracy of the Raiing Wireless Axillary Thermometer",
+  "brief_summary": "A new wireless axillary thermometer from Raiing Medical uses a proprietary system, iThermonitor (WT701), to provide better estimates of core temperature than a conventional axillary probe. Improvement results in part because the axillary probe measures and records temperatures continuously every 4 seconds and includes software to compensate for ambient temperature and positional changes including arm abduction.\n\nWhether the iThermonitor is sufficiently accurate for clinical use remains unknown. The investigators thus propose to evaluate the system in perioperative patients who often experience thermal perturbations over a range of several \u00b0C. Specifically, the investigators propose to determine the precision and accuracy of iThermonitor in surgical patients and during the initial hour of recovery. As in previous studies, the investigators will consider the thermometer sufficiently accurate for clinical use if most Raiing temperatures are within \u00b10.5\u00b0C of the reference temperature.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* adults having an American Society of Anesthesiologists (ASA) physical status of 1-3\n* must be scheduled for surgery of the abdomen or pelvis that is expected to last 1.5-4 hours\n* require general endotracheal anesthesia and insertion of a Foley catheter\n\nExclusion Criteria:\n\n* patients in whom neither esophageal nor nasopharyngeal temperature monitoring is practical\n* patients in whom active intravenous infusion is required in both arms\n* patients who are allergic to hydrogel",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult surgery patients",
+  "condition": [
+    "Major Surgery Under General Anesthesia"
+  ],
+  "overall_status": "COMPLETED"
+}

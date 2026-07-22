@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT01235546",
+  "title": "Study of Effectiveness and Safety of Azithromycin-based Extended-spectrum Prophylaxis to Prevent Post Cesarean Infection",
+  "brief_summary": "The Cesarean Section Optimal Antibiotic Prophylaxis (C/SOAP) study is a large pragmatic multi-center randomized clinical trial designed to evaluate the comparative effectiveness and safety of azithromycin-based extended-spectrum antibiotic prophylaxis (azithromycin plus standard narrow-spectrum cephalosporin) relative to standard single-agent cephalosporin (preferably prior to surgical incision) to prevent post-cesarean infection.\n\nHypothesis: Compared to narrow-spectrum prophylaxis (i.e. cefazolin alone, or clindamycin if cephalosporin allergy) prior to surgical incision, the addition of extended-spectrum prophylaxis (azithromycin + cefazolin) reduces the incidence of post-cesarean infection.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n\\-\n\nPregnant Women aged 14 years and over at \u2265 24 weeks' viable gestation who will undergo unscheduled/non-elective cesareans with either:\n\n1. Labor (spontaneous or induced): active labor (ongoing contractions and at least 4cm dilated or contractions for at least 4 hours with documented cervical change of \u22651cm dilatation or \u226550% effacement), or\n2. Membrane rupture (standardized to duration of at least 4 hours prior to randomization).\n\nExclusion Criteria:\n\n* Patient unwilling or unable to provide consent\n* Multiple pregnancy\n* Known azithromycin (or other macrolide) allergy\n* Vaginal delivery\n* Elective or scheduled cesarean prior to labor or membrane rupture.\n* Azithromycin, erythromycin or other macrolide antibiotic use within 7 days of enrollment.\n* Clinical chorioamnionitis or any other active bacterial infection (e.g. pyelonephritis, pneumonia, abscess) at time of randomization.\n* Patient is unable or unlikely to follow-up after delivery (e.g. no prenatal care or a non-resident patient)\n* Fetal demise or major congenital anomaly\n* Significant liver disease defined as known cirrhosis or elevated transaminases of at least 3-fold upper limit of normal\n* Significant renal disease defined as serum creatinine known to be \\>2.0 mg/dl or on dialysis.\n* Active congestive heart failure (EF\\<45%) or pulmonary edema\n* Active diarrhea at time of delivery\n* Any patient with significant electrolyte abnormalities such as hypokalemia or hypocalcemia\n* Any patient with structural heart disease or arrhythmias, or taking any medications known to prolong the QT interval\n* Patient currently being treated with efavirenz, nelfinavir or fluconazole",
+  "minimum_age": "14 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Endometritis",
+    "Wound Infection",
+    "Abscess",
+    "Surgical Site Infection"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00467675",
+  "title": "Establishing Ambulatory Glucose Profiles for People Without Diabetes Using CGM Data",
+  "brief_summary": "In a previous study we used the FreeStyle Navigator Continuous Glucose Monitoring (CGM) System to obtain 30 days of glucose measurements from 30 people with diabetes treated with insulin. The purpose of this study is to characterize glycemia (glucose) control in 30 people without diabetes and to compare these data to the 30 people with diabetes from a previous study. Through this approach it may be possible to develop a means of establishing a model of normal glucose patterns and a basis of comparison with glucose patterns in people with diabetes.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Male or female\n* Within normal range for two hour OGTT glucose level (\\<140 mg/dl)\n* Within normal range for fasting glucose level (\\<100 mg/dl)\n* Within normal range for total insulin level as measured by radioimmunoassay\n* BMI \\<30kg/m2\n* Age 21-75 years of age, inclusive (15 subjects in the 21-49 years of age group, 15 subjects in the 50-75 years of age group)\n* Willing to give informed consent\n* Capable of following the protocol and instructions of study staff\n* Available for scheduled visits\n* Access to telephone communications\n\nExclusion Criteria:\n\n* Under 21 years of age or over 75 years of age\n* Abnormal OGTT\n* Previous history of diabetes\n* Outside of normal insulin range\n* BMI \\> 30kg/m2\n* Unable to follow protocol\n* Unable to read and write in English\n* Skin abnormalities at insertion sites\n* Allergy to adhesives\n* Any concomitant medical condition that would likely affect the evaluation of device performance\n* Taken prednisone or cortisone medications in the previous 30 days\n* Blood transfusion within the past 90 days\n* Blood donation within the past 30 days\n* Metabolic syndrome (NCEP ATP III guidelines)\n* Any medical condition that would affect glucose (per investigator decision)",
+  "minimum_age": "21 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "NonDiabetes",
+    "Glucose Variability",
+    "CGM"
+  ],
+  "overall_status": "COMPLETED"
+}

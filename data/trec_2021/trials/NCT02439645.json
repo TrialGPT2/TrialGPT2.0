@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02439645",
+  "title": "A Registry to Determine the Clinical and Genetic Risk Factors for Torsade De Pointes",
+  "brief_summary": "This is a registry to examine genetic and clinical predictors of torsade de pointes events.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "For simplicity, we will plan to include all possible cases of TdP meeting criteria (see below) into the registry.\n\nExclusion criteria include:\n\n1. age \\<18 years old\n2. inability to obtain informed consent from the patient or a family member\n3. no exclusion on the basis of race or gender.\n\nInclusion criteria include:\n\ntorsade de pointes clinical syndrome according to one of the following three clinical criteria:\n\n1. Definite TdP: At least 3 beats of polymorphic ventricular tachycardia (VT) or ventricular fibrillation (VF) on a 12-lead ECG or rhythm strip with documented QTc \\> 450 ms in men or QTc \\> 470 in women (excluding patients with conduction block or AF at baseline, see below) prior to arrhythmic event.\n2. Probable TdP: At least 3 beats of polymorphic VT or VF on a 12-lead ECG or rhythm strip with QTc \\> 450ms (men) or 470ms (women) after the event, or polymorphic VT or VF episode not meeting criteria for 'definite TdP' but determined by the adjudicating physician to be likely TdP. For patients having a cardiac arrest, at least 1 hour after restoration of normal rhythm or after secondary hypoxia or electrolyte abnormalities have been ruled out (confounders of QT prolongation often seen post-arrest47) will be required.\n3. Possible TdP: Unexplained syncope in a patient presenting with QTc \\> 450ms (men) or 470ms (women).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Any patient in which informed consent can be obtained, with a history of torsade de points (see below designation).",
+  "condition": [
+    "Long qt Syndrome",
+    "Torsade de Pointes"
+  ],
+  "overall_status": "TERMINATED"
+}

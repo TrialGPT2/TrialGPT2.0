@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT05616650",
+  "title": "Focal Therapy With Stereotactic Body Radiation Therapy (SBRT) for Patients With a Single Prostate Tumor",
+  "brief_summary": "Background:\n\nThe current standard treatment of prostate cancer is either surgery or radiation. Typically, this includes either the removal or radiation of the whole prostate gland. Many people now seek out focal therapy options to decrease the side effects of treatment. Until now, several forms of physical destruction with heat (thermal ablation), cold (cryotherapy), sound waves (HIFU), laser (FLA), and electrical energy (IRE). A new type of radiation (SBRT) may be an effective way to cure men of early-stage prostate cancer with fewer side effects than standard treatments.\n\nObjective:\n\nTo see how people with untreated localized prostate cancer will respond to focal therapy with SBRT.\n\nEligibility:\n\nPeople aged 18 years and older with untreated localized prostate cancer (prostate cancer which has not spread outside of the prostate gland).\n\nDesign:\n\n* Participants will undergo screening including blood tests, an MRI, a PSMA PET/CT (18F-DCFPyL), and a biopsy.\n* Small, non-radioactive, gold seeds about the size of a grain of rice will be placed in and/or around the tumor to help target the radiation treatment.\n* Radiation (SBRT) will occur in 2 separate sessions about 1 week apart. No sedation is used, these sessions are painless. Each session will take about 1-2 hours. Participants can go home afterwards.\n* Follow-up will continue for 2 years with repeat scans (MRI and PSMA PET/CT) and blood (PSA) tests.\n* After two years, a biopsy will be done to understand the impact of this new treatment on prostate cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Participants must have histologically confirmed, low or intermediate risk prostatic adenocarcinoma verified by biopsy (NIH Laboratory of Pathology confirmation is required).\n* Unifocal prostate cancer defined as a single focus of prostate cancer on MRI and PSMA PET/CT imaging which is correlated with a positive targeted biopsy.\n* Age \\>=18 years.\n* ECOG performance status \\<=2 (Karnofsky \\>60%).\n* Men must agree to use highly effective contraception with their partner (barrier method of birth control; abstinence) for the duration of study participation and up to 120 days after the last radiation treatment.\n* Ability of individual to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n* Participants with NCCN high-risk prostate cancer features (Gleason score \\>=8, \\>cT2c, or PSA \\>= 20 ng/mL).\n* Participants with prostate biopsies which show \\>= grade group 2 adenocarcinoma determined to be outside of the radiographically visible lesion (systematic biopsies which map to a radiographically detected lesion are not an exclusion criterion).\n* Participants in whom concurrent systemic Androgen Deprivation Therapy (ADT) or chemotherapy is planned.\n* Participants who are receiving any other investigational agents.\n* Participants found to have pelvic or distant metastases on pre-treatment staging studies.\n* Participants with an AUA-SI/IPSS score \\> 18.\n* Participants who have previously received curative treatment for a prior or the current diagnosis of prostate cancer.\n* Active urinary tract infection assessed by urinalysis.\n* Human immunodeficiency virus (HIV)-infected individuals who are not on effective anti-retroviral therapy. Participants on anti-retroviral therapy with undetectable viral load within the 6 months prior to registration are eligible for this trial.\n* Participants with hepatitis B virus (HBV) infection who have not been treated and cured.\n* Participants with chronic HBV at screening must have an undetectable HBV viral load on suppressive therapy.\n* Participants with hepatitis C virus (HCV) infection who have not been treated and cured.\n* Participants with HCV infection who are currently on treatment, are eligible if they have an undetectable HCV viral load at screening.\n* Anatomic relationship between the tumor and adjacent normal tissues judged to be unfeasible for the planned treatment by the PI.\n* Participants with connective tissue diseases.\n* Participants with radiation hypersensitivity syndromes.\n* Ongoing active inflammatory bowel disease within the radiation field.\n* Participants with prior medical comorbidity or surgical history involving the low pelvis which is expected to confer a high risk of toxicity to the experimental radiation regimen.\n* Ineligibility or unwillingness to undergo a contrast-enhanced MRI due to inadequate renal function (eGFR \\< 30), severe claustrophobia, a weight above tolerance of the scanner (\\> 350 lbs.), a body size unable to fit into the scanner, or implanted devices incompatible with an MRI (implanted cardiac devices, surgical hardware, retained shrapnel, cerebral aneurysm clips, or other incompatible objects.\n* Unwillingness to undergo an 18F-DCFPyL PET/CT or known allergy to the 18F-DCFPyL tracer.\n* Contraindication or inability to undergo fiducial marker implantation.\n* History of prior radiotherapy overlapping with the intended radiation field.\n* Uncontrolled intercurrent illness, factors, or social situations that would limit compliance with study requirements.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Prostatic Neoplasms",
+    "Prostate Cancer",
+    "Prostate Adenocarcinoma"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with untreated, localized prostate cancer who have not received any prior systemic therapy for advanced disease. The study is focused on first-line, definitive focal therapy with SBRT in a treatment-naïve population.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility requires untreated, localized prostate cancer with no prior curative treatment for the current or prior diagnosis, and excludes patients who have received systemic therapy (e.g., ADT or chemotherapy). Only patients who are treatment-naïve for advanced disease are eligible."
+    }
+  ]
+}

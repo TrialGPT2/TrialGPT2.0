@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04773899",
+  "title": "COVID-19 Associated Endothelial Dysfunction Study",
+  "brief_summary": "SARS-CoV-2 enters human cells through the binding of the spike protein with angiotensin converting enzyme-2 (ACE2), a membrane receptor highly expressed in immune or non-immune cells, and in many organs, including lungs and endothelial cells.\n\nIn COVID-19 disease, the infection of endothelial might cause an acute endothelial dysfunction.\n\nThe objective of this study is to demonstrate that patients COVID19 (+) hospitalized in ICU present an acute endothelial dysfunction (compared with COVID19 (-) also hospitalized in ICU).\n\nThis acute endothelial dysfunction could lead to organ failure, systemic immune dysregulation and thrombosis.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion criteria :\n\n* Adult patient (\u2265 18 ans)\n* Affiliation to the French National Healthcare System\n* Voluntary patient who have given oral consent\n\nCohort C1, COVID19 (+) patients hospitalized in ICU :\n\n* Patient admitted to ICU within 72 hours before inclusion\n* Patient presenting SARS-COV2 pneumonia diagnosed by CT scan or by COVID-19 PCR test.\n\nCohort C2, COVID19 (-) patients hospitalized in ICU :\n\n* Patient admitted to ICU within 72 hours before inclusion\n* All COVID19 PCR tests carried out in the 15 days prior inclusion are negative\n* All the CT scans possibly performed since the acute event do not show COVID19 pulmonary lesions\n* Matching with the cases C1 COVID 19 (+) patients on sex, age (threshold at 65 years), treated hypertension, treated diabetes mellitus.\n\nCohort C3, elective surgery patients who are not hospitalized in ICU :\n\n* ASA 1 classification (no major comorbidity, a normaly healthy patient)\n* Asymptomatic to COVID19 according to French Anesthesiology Society 2020 :\n\n  * No major symptoms among : measured fever \\> 38\u00b0C, dry cough, shortness of breath or high respiratory rate (\\>20/min), anosmia, ageusia\n  * No more than one minor symptom among : sore throat, rhinorrhea, chest pain, myalgia, general alteration or severe tiredness, confusion, disorientation, headache, diarrhea, nausea or/and vomiting, rash/ frostbite/cracking on fingers or hand\n* No positive COVID19 PCR test within 15 days prior to inclusion\n\nNon-inclusion criteria :\n\n* Proven sepsis (Procalcitonin \\>1.0 \u00b5g/l) in the 24 hours prior to inclusion\n* End-stage kidney disease with dialysis\n* Patient with haemodynamic failure treated by norepinephrine\n* Patient with traumatic brain injury\n* Intubated patient and/or sedated\n* Pregnant woman, parturient and nursing mother\n* Person restricted in liberty by an administrative or judicial decision\n* Patient concerned with admission for psychiatric care\n* Adult person subject to a legal protection measure or unable to express consent\n\nExclusion criteria :\n\n\u2022 Cohorts C2 and C3 : positive COVID-19 PCR test within 5 days after inclusion",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19",
+    "Microcirculation"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,60 @@
+{
+  "nctid": "NCT01623167",
+  "title": "Eltrombopag With Standard Immunosuppression for Severe Aplastic Anemia",
+  "brief_summary": "Background:\n\n* Severe aplastic anemia is a rare and serious blood disorder. It happens when the immune system starts to attack the bone marrow cells. This causes the bone marrow to stop making red blood cells, platelets, and white blood cells. Standard treatment for this disease is horse-ATG and cyclosporine, which suppress the immune system and stop it from attacking the bone marrow. However, this treatment does not work in all people. Some people still have poor blood cell counts even after treatment.\n* Eltrombopag is a drug designed to mimic a protein in the body called thrombopoietin. It helps the body to make more platelets. It may also cause the body to make more red and white blood cells. Studies have shown that eltrombopag may be useful when added to standard treatment for severe aplastic anemia. It may help improve poor blood cell counts.\n\nObjectives:\n\n\\- To test the safety and effectiveness of adding eltrombopag to standard immunosuppressive therapy for severe aplastic anemia.\n\nEligibility:\n\n\\- Individuals at least 2 years of age who have severe aplastic anemia that has not yet been treated.\n\nDesign:\n\n* Participants will be screened with a physical exam, medical history, and blood tests. Blood and urine samples will be collected.\n* Participants will start treatment with horse-ATG and cyclosporine. Treatment will be given according to the standard of care for the disease.\n* Cohort 1: After 14 days, participants will start taking eltrombopag. They will take eltrombopag for up to 6 months.\n* Cohort 2: After 14 days, participants will start taking eltrombopag. They will take eltrombopag for up to 3 months.\n* Cohort 3 and Extension Cohort: Participants will start taking eltrombopag on Day 1. They will take eltrombopag for up to 6 months.\n* Participants may receive other medications to prevent infections during treatment.\n* Treatment will be monitored with frequent blood tests. Participants will also fill out questionnaires about their symptoms and their quality of life.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "-INCLUSION CRITERIA:\n\n1. Severe aplastic anemia characterized by Bone marrow cellularity less than 30 percent (excluding lymphocytes)\n\n   AND\n\n   At least two of the following:\n   * Absolute neutrophil count less than 500/microL\n   * Platelet count less than 20,000/microL\n\n   Absolute reticulocyte count less than 60,000/microL\n2. Age greater than or equal to 2 years old\n3. Weight greater than 12 kg\n\nEXCLUSION CRITERIA:\n\n1. Known diagnosis of Fanconi anemia\n2. Evidence of a clonal disorder on cytogenetics performed within 12 weeks of study entry. Patients with super severe neutropenia (ANC less than 200 /microL) will not be excluded initially if cytogenetics are not available or pending. If evidence of a clonal disorder consistent with myelodysplasia is later identified, the patient will go off study.\n3. Prior immunosuppressive therapy with any ATG, alemtuzumab, or high dose cyclophosphamide\n4. SGOT or SGPT \\>5 times the upper limit of normal\n5. Subjects with known liver cirrhosis in severity that would preclude tolerability of cyclosporine and eltrombopag as evidenced by albumin \\< 35g/L\n6. Hypersensitivity to eltrombopag or its components\n7. Infection not adequately responding to appropriate therapy\n8. Moribund status or concurrent hepatic, renal, cardiac, neurologic, pulmonary, infectious, or metabolic disease of such severity that it would preclude the patient s ability to tolerate protocol therapy, or that death within 7-10 days is likely\n9. Potential subjects with cancer who are on active chemotherapeutic treatment or who take drugs with hematological effects will not be eligible\n10. Current pregnancy, or unwillingness to take oral contraceptives or use a barrier method of birth control or practice abstinence to refrain from pregnancy if of childbearing potential during the course of this study\n11. Inability to understand the investigational nature of the study or to give informed consent or does not have a legally authorized representative or surrogate that can provide informed consent.",
+  "minimum_age": "2 Years",
+  "maximum_age": "95 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Severe Aplastic Anemia"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with severe aplastic anemia who have not received prior immunosuppressive therapy for their disease. All cohorts are for first-line treatment of severe aplastic anemia.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Cohort 1",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Patients must not have received prior immunosuppressive therapy with ATG, alemtuzumab, or high dose cyclophosphamide. This cohort is for first-line treatment of severe aplastic anemia."
+    },
+    {
+      "cohort_label": "Cohort 2",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Patients must be treatment-naïve to immunosuppressive therapy for severe aplastic anemia. Prior ATG, alemtuzumab, or high dose cyclophosphamide are exclusionary."
+    },
+    {
+      "cohort_label": "Cohort 3",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "No prior immunosuppressive therapy for severe aplastic anemia is allowed. This cohort is for first-line therapy."
+    },
+    {
+      "cohort_label": "Extension Cohort",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Patients must not have received any prior immunosuppressive therapy for severe aplastic anemia. This is a first-line treatment cohort."
+    }
+  ]
+}

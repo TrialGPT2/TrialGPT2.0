@@ -1,0 +1,29 @@
+{
+  "nctid": "NCT03176927",
+  "title": "Biomagnetic Characterization of Gastric Dysrhythmias III",
+  "brief_summary": "There is a tremendous clinical need for a noninvasive technique that can assess gastric electrical activity and would be repeatable without any exposure to radiation. Investigators developed a new technique allowing to use noninvasive methods to assess bioelectrical activity in the gastrointestinal system. This has enabled to characterize the normal and pathologic physiology of the stomach through the use of noninvasive magnetogastrogram (MGG) records. Primary hypothesis for this proposal is that analysis of gastric slow wave uncoupling and propagation in multichannel MGG discriminates between normal and pathological gastric electrical activity. Eventually, investigators envision this research leading to new insights for gastrointestinal conditions such as gastroparesis, functional dyspepsia and chronic idiopathic nausea that would inform clinical management of these debilitating diseases.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Participants between ages 12-80\n* Diabetic patients with gastroparesis, diabetic patients without gastroparesis and who are willing to have a gastric emptying test if they have not had one in the last 6 months and an IV inserted.\n* Patients with idiopathic gastroparesis\n* Total or partial gastrectomy patients\n* Children (ages 12-17) with functional dyspepsia\n* Children (ages 12-17) with chronic nausea\n\nExclusion Criteria:\n\n* Those with claustrophobia who cannot lie still under the SQUID for the length of time required.\n* Normal participants with known intestinal complications\n* Pregnant females (females who are able to have children will be given a pregnancy test).\n* Morbid obesity (these patients are presumably unable to lie under the current generation of SQUID devices).\n* Patients with a history of cardiac arrhythmias, taking anticoagulants, or greater than 80 years of age will be excluded.",
+  "minimum_age": "12 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Diabetics Without Symptoms of Gastroparesis",
+    "Diabetic Gastroparesis",
+    "Idiopathic Gastroparesis",
+    "Total or Partial Gastrectomy",
+    "Chronic Nausea",
+    "Functional Dyspepsia"
+  ],
+  "overall_status": "COMPLETED"
+}

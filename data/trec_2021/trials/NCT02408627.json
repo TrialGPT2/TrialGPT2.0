@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02408627",
+  "title": "EEG@HOME (Phase 3a of the Project, Comparison of EEG-recordings)",
+  "brief_summary": "The goal of this project is the development of an EEG-cap (min. 21 electrodes) with user-friendly active dry electrodes that meets the expectations of the users regarding comfort and esthetics, without losing sight of the functional and technical demands for recording high quality EEG signals. The purpose is to use the EEG-cap to investigate clinical neurological disorders (e.g. epilepsy). The EEG-cap could also be used at home so that hospital admission in the EMU can be avoided for some patients and an increasing number of patients can be examined.\n\nPhase 3 of the Project will be divided into a Phase 3a and Phase 3b.\n\nPhase 3a of the project will comprise of an EEG-registration with the different types of electrodes in epilepsy patients with prominent interictal epileptiform discharges (IEDs) on EEG. For each epilepsy patient the EEG-recording with dry electrodes will be compared to the EEG-recordings with conventionally used wet electrodes (bridge and cup electrodes). Each EEG-recording will take approximately 10 minutes.\n\nMinimum 2 - maximum 10 epilepsy patients will be included.\n\nThere will be an visual and clinical evaluation of the EEG-signals (blinded) and a technical evaluation of the EEG-signals. User experience will also be collected.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Epilepsy patients with prominent interictal epileptiform discharges (IEDs) on EEG\n\nExclusion Criteria:\n\n* Epilepsy patients with no prominent interictal epileptiform discharges (IEDs) on EEG",
+  "minimum_age": "6 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Epilepsy"
+  ],
+  "overall_status": "COMPLETED"
+}

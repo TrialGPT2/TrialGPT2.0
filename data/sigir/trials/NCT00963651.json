@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT00963651",
+  "title": "GE Healthcare VolumeRAD Lung Nodule Detection Study",
+  "brief_summary": "To perform a multiple reader, multiple case (MRMC) observer study assessing the detection performance of VolumeRAD tomosynthesis of the chest in detecting lung nodules.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Scheduled for chest CT as part of their needed medical care;\n* If available, individuals who have had previous imaging to suggest they fulfill the needs of the study;\n* 18 years of age, or older;\n* In good enough physical condition to stand motionless and hold their breath during the image acquisition procedures.\n\nExclusion Criteria:\n\n* Children under 18 years of age;\n* Women who are pregnant or who suspect they may be pregnant;\n* Individuals who on previous imaging are shown to have objects in or around the lungs that might produce substantial artifacts that would obscure pulmonary nodules;\n* Individuals who on recent imaging had active lung or pleural disease that would obscure pulmonary nodules;\n* Individuals with more than 5 pulmonary nodules between 5mm and 20mm in diameter in either right or left lung.\n* Individuals suspected to have more than 15 total nodules between 3mm and 20mm. NOTE that up to 20 nodules between 3mm and 20mm will be allowed in the final study sample.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants will include those referred for x-ray computed tomography (CT) of the chest for suspicion of a pulmonary nodule or other unrelated reasons.",
+  "condition": [
+    "Pulmonary Nodule, Solitary",
+    "Multiple Pulmonary Nodules"
+  ],
+  "overall_status": "COMPLETED"
+}

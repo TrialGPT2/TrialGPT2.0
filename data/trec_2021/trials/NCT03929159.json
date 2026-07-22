@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03929159",
+  "title": "Correlating MicroRNA Changes With Sepsis Outcomes",
+  "brief_summary": "This trial studies how changes in microRNAs may correlate with sepsis outcomes. Sepsis is a type of severe infection of the blood stream, and its diagnosis may be obscured by many other conditions such as surgery, trauma, and cancer. MicroRNAs are biomarkers found in the blood and tissue. Blood samples may help correlate changes in microRNA expression to patient reactions to a sepsis infection.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Electively scheduled for surgical operation that require general anesthesia and expected duration of hospitalization of longer than one day (for patients in Perioperative Evaluation \\& Management \\[POEM\\]) or high clinical suspicion of sepsis by the emergency physician (for patients in emergency center)\n* Ability to give informed consent. If the patient is incapacitated and unable to give informed consent, the next-of-kin or a person who has the power of attorney must be present for informed consent.\n* For patients in the emergency center only, two or more of the following SIRS criteria:\n\n  * Leukocytes \\> 12,000/mm\\^3 or \\< 4,000/mm\\^3 or \\> 10% immature (band) forms, provided that no filgrastim or pegfilgrastim was administered within 30 days and no leukemia\n  * Heart rate \\> 90 beats/minute (min)\n  * Respiratory rate \\> 20 breaths/min or partial pressure of carbon dioxide (CO2) \\< 32 mmHg\n  * Oral temperature \\> 38 degrees Celsius (C) or \\< 36 degrees C or axillary temperature \\> 37 degrees C or \\< 35 degrees C\n\nExclusion Criteria:\n\n* Inability to give informed consent or a person who has power of attorney for medical decision is not available\n* Being moribund (for patients in emergency center) or cancellation of surgery (for patients in POEM)\n* Active \"Do Not Resuscitate\" or \"Do Not Intubate\" order",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients electively scheduled for surgical operation requiring anesthesia and hospitalization of longer than 1 day, or patients with high clinical suspicion of sepsis",
+  "condition": [
+    "Septicemia"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

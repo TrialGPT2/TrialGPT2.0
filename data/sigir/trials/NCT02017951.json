@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02017951",
+  "title": "Geographic Influences on Appendicectomy Outcomes",
+  "brief_summary": "Introduction\n\nAppendicitis is a common condition which represents a significant resource burden for the Scottish National Health Service (NHS). It is unknown whether there are significant differences in outcomes following appendicectomy which may be explained by geographic factors.\n\nAims\n\nThe aim of this study is to describe appendicectomy outcomes in Scotland as they vary by the urban-rural nature of the patient's home location and travel time from hospital.\n\nMethods\n\nThis research study is a retrospective observational enquiry which will utilise administrative data from the Information Services Division (ISD) of NHS National Services Scotland. Patient episodes will be identified by a procedure code for appendicectomy, and the urban-rural classification of patients will be derived from postcode data. Travel time from hospital will also be estimated through postcode data. The investigators will study a 10 year period from January 2001 to December 2010.\n\nPrimary outcome measures will be risk-adjusted 30 day/inpatient mortality, 30 day readmission rate, 30 day re-operation rate, length of stay and negative appendicectomy rates.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* All patients, of all ages, undergoing appendicectomy (OPCS code H01) during the time period January 2001 - December 2010.\n\nExclusion Criteria:\n\n* Patients undergoing appendicectomy for whom this is incidental to a more major abdominal procedure.\n* Patients non-resident in Scotland.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All Scottish residents undergoing appendicectomy during the study period.",
+  "condition": [
+    "Appendicitis"
+  ],
+  "overall_status": "COMPLETED"
+}

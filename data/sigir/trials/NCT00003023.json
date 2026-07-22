@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00003023",
+  "title": "Monoclonal Antibody A1G4 Plus BCG in Treating Patients With Cancer",
+  "brief_summary": "RATIONALE: Monoclonal antibodies can locate tumor cells and either kill them or deliver tumor-killing substances to them without harming normal cells. Combining monoclonal antibody A1G4 with BCG may kill more tumor cells.\n\nPURPOSE: Phase I trial to study the effectiveness of monoclonal antibody A1G4 plus BCG in treating patients with cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed GD2 positive tumors which include:\n\n  * High risk neuroblastoma (stage IV, or N-myc amplified, or localized neuroblastoma multiply recurrent)\n  * Recurrent or metastatic osteosarcoma\n  * Recurrent or metastatic GD2 positive sarcomas\n* If free of disease, patient must be fully recovered from toxic effects or complications of prior treatments (chemotherapy or surgery)\n\n  * No greater than 6 months since last chemotherapy or surgery before first injection of A1G4\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* Any age\n\nPerformance status:\n\n* Not specified\n\nLife expectancy:\n\n* At least 6 months\n\nHematopoietic:\n\n* Absolute neutrophil count greater than 500/mm\\^3\n* Absolute leukocyte count greater than 500/mm\\^3\n* Peripheral T-cell phytohemagglutinin activation (PHA) at least 50% of normal\n\nHepatic:\n\n* Not specified\n\nRenal:\n\n* Not specified\n\nCardiovascular:\n\n* No significant heart disease (NYHA class III or IV)\n\nOther:\n\n* No other serious intercurrent illnesses\n* No active infections requiring antibiotics\n* No active bleeding\n* No primary immunodeficiency\n* Not pregnant or nursing\n* Adequate contraception required of all fertile patients\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No concurrent antibiotics\n* No prior mouse antibodies and detectable human antimouse antibody (HAMA) titer\n\nChemotherapy:\n\n* See Disease Characteristics\n* At least 6 weeks since nitrosoureas\n* At least 4 weeks since other systemic chemotherapy\n\nEndocrine therapy:\n\n* No concurrent nonsteroidal anti-inflammatory agents\n* No concurrent corticosteroid\n\nRadiotherapy:\n\n* At least 4 weeks since radiotherapy\n* No prior radiation therapy to the spleen\n\nSurgery:\n\n* See Disease Characteristics\n* No splenectomy",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Neuroblastoma",
+    "Sarcoma"
+  ],
+  "overall_status": "COMPLETED"
+}

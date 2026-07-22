@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04402281",
+  "title": "Use of suPAR Algorithm for the ED Decision Making",
+  "brief_summary": "Will the use of a clinical decision algorithm in the ED improve discharge or admission decisions.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* All patients above 18 years\n* who are having blood taken for biochemical analysis when attending the ED\n\nExclusion Criteria:\n\n* Acute medical patients that do not have blood drawn for routine biochemical testing.\n* Pregnant\n* Under 18 years old\n* Terminally ill patients.",
+  "minimum_age": "18 Years",
+  "maximum_age": "104 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients during the study period who signed the consent",
+  "condition": [
+    "Critical Illness"
+  ],
+  "overall_status": "COMPLETED"
+}

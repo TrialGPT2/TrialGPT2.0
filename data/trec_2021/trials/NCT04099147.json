@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04099147",
+  "title": "Diagnosis and Characterization of Non-Alcoholic Fatty Liver Disease Based on Artificial Intelligence.",
+  "brief_summary": "A key element in the diagnosis of non-alcoholic fatty liver disease (NAFLD) is the differentiation of non-alcoholic steatohepatitis (NASH) from non-alcoholic fatty liver (NAFL) and the staging of the liver fibrosis, given that patients with NASH and advanced fibrosis are those at greatest risk of developing hepatic complications and cardiovascular disease. There are still no available non-invasive methods that allow for correct diagnosis and staging of NAFLD. The implementation of Artificial Intelligence (AI) techniques based on artificial neural networks and deep learning systems (Deep Learning System) as a tool for medical diagnoses represents a bona fide technological revolution that introduces an innovative approach to improving health processes.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Subjects aged 19-74 belonging to the ETHON cohort or registered in the Hepamet Spanish registry of NAFLD or the European NAFLD registry\n\nExclusion Criteria:\n\n* Subjects that not fulfill the inclusion criteria and those who did not sign informed consent to participate in the ETHON cohort or to be registered in the mentioned registers.",
+  "minimum_age": "19 Years",
+  "maximum_age": "74 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study has four phases: Phases I and II refer to both unsupervised and supervised artificial intelligence learning to identify clusters and build diagnostic algorithms. They will be carried out on data generated from the ETHON cohort. Phase III will consist on applying deep learning system technology as a support strategy to stratify liver biopsies in NALFD patients according to their grade of necro-inflammation and stage of fibrosis. Liver biopsies collected in the Spanish registry of NAFLD up to the beginning of the study will be used. Finally, a phase IV of validation will be performed with data from patients that are going to be registered in the European and Spanish registries of NAFLD.",
+  "condition": [
+    "Non-alcoholic Fatty Liver Disease (NAFLD)"
+  ],
+  "overall_status": "UNKNOWN"
+}

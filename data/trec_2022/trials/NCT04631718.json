@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04631718",
+  "title": "MRI QSM Imaging for Iron Overload",
+  "brief_summary": "The overall goal of this project is to develop and validate a novel technique for Magnetic Resonance Imaging (MRI)-based Quantitative Susceptibility Mapping (QSM) of the abdomen, for non-invasive assessment of liver iron deposition. In this work, study team will develop and optimize advanced data acquisition and image reconstruction methods to enable QSM of the abdomen. Further, investigators will determine the accuracy, repeatability, and reproducibility of abdominal QSM for iron quantification in patients with liver iron overload.\n\nExcessive accumulation of iron in various organs, including the liver, which affects both adult and pediatric populations, is toxic and requires treatment aimed at reducing body iron stores. Accurate assessment of liver iron concentration is critical for the detection and staging of iron overload as well as for longitudinal monitoring during treatment.\n\nIn summary, this project will develop a novel MRI-based QSM technique designed for the abdomen and will validate it in pediatric and adult patients with liver iron overload. Upon successful validation, QSM will provide accurate, repeatable, and reproducible quantification of LIC based on a fundamental property of tissue.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Ages 10 years or older at University of Wisconsin - Madison\n* Age 5 years or older at Stanford\n* Known or suspected iron overload\n\nExclusion Criteria:\n\n* Patients with contraindication to MRI (e.g. pacemaker, contraindicated metallic implants, etc)\n* Pregnant or trying to become pregnant (as determined by self-report during MRI safety screening)\n* Patients requiring intravenous (IV) conscious sedation for imaging are not eligible; patients requiring mild, oral anxiolytics for the MRI will be allowed to participate as long as the following criteria are met:\n\n  * The subject has their own prescription for the medication.\n  * The informed consent process is conducted prior to the self-administration of this medication\n  * They come to the research visit with a driver",
+  "minimum_age": "5 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with known or suspected iron overload will be identified and recruited from the UWHC Hematology Adult and Pediatric clinics or Stanford Hospital and Clinics. Briefly, patients will be identified and recruited in collaboration with patient providers (either by introduction during a clinical visit or by a referral from a physician), using flyers posted in relevant clinics, or from previous related studies where the patient consented to being contacted about future research opportunities.",
+  "condition": [
+    "Hemochromatosis",
+    "Iron Overload"
+  ],
+  "overall_status": "COMPLETED"
+}

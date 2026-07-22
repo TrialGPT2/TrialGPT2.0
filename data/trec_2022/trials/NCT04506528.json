@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT04506528",
+  "title": "COVID EHR COHORT at the University of Wisconsin",
+  "brief_summary": "This cohort study will obtain electronic health record (EHR) data (limited data set) from 21 health systems affiliated with the Cancer Center Cessation Initiative (C3I) network or health systems with large numbers of COVID-19 patients to explore whether smoking status, cancer history, and other risk factors among patients diagnosed with COVID-19 are associated with mortality and/or COVID-19 disease severity/complications. Each site will provide data from their health system EHR on a regular basis that includes all patients identified as having COVID-19 at some point in the interval from February 1, 2020, through January 31, 2022.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* COVID-19 ICD-10-CM diagnosis (U07.1 or J12.82) during a healthcare visit and/or\n* COVID-19 positive PCR test and/or\n* COVID-19 positive antigen test\n\nExclusion Criteria:\n\n* N/A",
+  "minimum_age": "0 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients with COVID-19 in the 21 participating healthcare systems",
+  "condition": [
+    "COVID-19",
+    "Cancer",
+    "Nicotine Dependence",
+    "Pulmonary Disease",
+    "Cardiovascular Diseases",
+    "Immunosuppression Disorders"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT00597987",
+  "title": "BRCA1 Haploinsufficiency and Gene Expression",
+  "brief_summary": "The purpose of this study is to collect a blood sample from patients that may be used for research purposes. These blood samples will be used by researchers at this institution to study the causes of breast and ovarian cancer, and to better understand how these cancers develop. We are trying to discover differences in the ways cells work in women with a high genetic risk of developing breast or ovarian cancer. Early data suggest that some genes may be turned on or off in different ways based upon whether or not a woman has a high genetic risk of developing breast or ovarian cancer. The primary objective is to test the hypothesis that BRCA1 haploinsufficiency regulates gene expression on the X chromosome. This hypothesis will be tested by comparing the gene expression profiles of BRCA1 heterozygotes (cases) to an age-matched group of unaffected women who are not BRCA1 mutation carriers (controls).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nFor acquisition of control specimens, samples already collected under IRB approved protocol 99-030 will be used. This protocol was a tissue and blood acquisition protocol entitled \"Collection of Tissue, Blood, and Cells to Be Used for Studying the Causes, Prevention, Diagnosis, and Treatment of Breast Cancer\". Patients have already given consent and signed a research authorization for to use their blood specimens for this purpose. Controls will also be collected from patients who have previously undergone genetic counseling through the Clinical Genetics Service at MSKCC and tested negative for a germline mutations in BRCA1. These individuals will be approached and asked to donate a sample at the time of their results appointment. Blood samples from cases will be collected from patients who have tested positive for a germline mutation in BRCA1. These women will have been participants in MSKCC protocols such as 96-51 and 97-29, or tested at outside institutions and receiving followup care at MSKCC. Any patient with a presumed pathogenic mutation in BRCA1 will be eligible for inclusion.\n\nExclusion Criteria:\n\nSubjects will be eligible without regard to age, racial, or ethnic status. Subjects with any personal history of cancer will be excluded. Attending physicians authorized to obtain informed consent may exercise discretion in excluding individuals for appropriate medical or other (e.g., minors, mentally impaired) reasons. Patients with an unclassified variant in BRCA1 will be excluded as the functional significance of these variations is unknown.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "The study will be performed using lymphocyte RNA samples from 50 women with BRCA1 mutations and 50 age-matched controls without BRCA1 mutations. Class comparison analysis will be performed on the gene expression data.",
+  "condition": [
+    "BRCA1 Mutations"
+  ],
+  "overall_status": "COMPLETED"
+}

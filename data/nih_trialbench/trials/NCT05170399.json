@@ -1,0 +1,82 @@
+{
+  "nctid": "NCT05170399",
+  "title": "Vaccine Responses in Patients With B Cell Malignancies",
+  "brief_summary": "Background:\n\nPeople with B cell malignancies (blood cancers) often cannot mount a full immune response to infections or certain vaccines. Bruton tyrosine kinase inhibitors (BTKis), which are used to treat blood cancers, may also negatively affect a person s response to certain vaccines. Researchers want to learn more about vaccine responses in people with certain types of blood cancers. The findings may help develop better vaccine strategies for people with these cancers.\n\nObjective:\n\nTo learn how well vaccines work in people who have certain types of blood cancers.\n\nEligibility:\n\nAdults aged 18 years or older who have chronic lymphocytic leukemia (CLL), Waldenstrom macroglobulinemia, or certain non-Hodgkin lymphomas.\n\nDesign:\n\nParticipants will get one or more vaccines for illnesses such as COVID-19, hepatitis B, and shingles. They can choose which vaccines they receive. They will give a blood sample before they get each vaccine. Some vaccines require a second dose 3-6 weeks later. Participants may give an optional blood sample with the second vaccine dose. About 4 weeks after they finish each vaccine series, they will give another blood sample. They will have 2-3 study visits per vaccine.\n\nParticipants may receive a booster dose for some vaccines. The booster dose is optional. They will give another blood sample with the booster dose.\n\nParticipants will have pregnancy tests, if needed.\n\nParticipants with CLL who receive BTKis may be asked to pause treatment for up to 7 weeks.\n\nParticipants may give follow-up blood samples up to 2 times a year for 5 years. These blood samples are optional.\n\nParticipation will last for up to 5 years after each vaccine series is received.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Diagnosis of CLL, FL, MCL, MZL, NHL NOS or WM\n* Must fulfil one of the following criteria to be enrolled in one study arm per vaccine received:\n\n  1. Patients with CLL AND one of the following:\n\n     i. Arm 1: Must be treatment naive (no prior cancer directed therapy)\n\n     ii. Arm 2: Patients that have received prior cancer directed therapy and are currently not receiving active treatment\n\n     iii. Arm 3: Must be receiving treatment with a BTKi. This arm is not available to patients receiving the HEPLISAV-B vaccine\n\n     iv. Arm 4: Must be receiving treatment with a BTKi for \\>= 6 months prior to vaccination and be willing to hold their treatment for up to 7 weeks around the time of each vaccination. This arm is not available to patients who have had a prior episode of disease flare during periods of drug hold, or for patients with CLL that is actively progressing.\n\n     v. Arm 5: Must be receiving treatment with a BCL-2 inhibitor\n\n     Or\n  2. Patients with FL, MCL, MZL, NHL NOS or WM AND one of the following:\n\n     i. Arm 1: Must currently not be receiving active treatment (treatment na(SqrRoot) ve or previously treated)\n\n     ii. Arm 2: Must be receiving treatment with targeted therapies (e.g. BTKi, BCL-2 inhibitors, PI3K inhibitors, immunomodulatory agents, proteasome inhibitors)\n* If prior exposure to Hepatitis-B vaccination, must have documentation of negative serologic response\n* Age \\>= 18 years\n* Able to comprehend the investigational nature of the protocol and provide informed consent\n\nEXCLUSION CRITERIA:\n\n1. Female patients who are currently pregnant\n2. History of severe allergic reaction to vaccines\n3. Concomitant inherited immunodeficiency\n4. Any life-threatening illness, medical condition, or organ system dysfunction that, in the investigator s opinion, could compromise the subject s safety or put the study outcomes at undue risk.\n5. Receive cytotoxic chemotherapy within 2 weeks prior to vaccination\n6. Receive intravenous immunoglobulin (IVIG) within 2 months prior to vaccination\n7. Receive anti-CD20 and/or anti-CD19 monoclonal antibody therapy within 6 months prior to vaccination\n8. Receive cellular therapy (e.g. CAR-T cells) within 12 months prior to vaccination\n9. History of allogeneic stem cell transplantation",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lymphoma"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with CLL, WM, or certain non-Hodgkin lymphomas across multiple arms based on treatment history and current therapy status. Both treatment-naïve and previously treated patients, including those on active targeted therapies, are eligible depending on the arm.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "CLL Arm 1: Treatment-naive",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Patients with CLL who are treatment-naïve (no prior cancer-directed therapy) are eligible. This includes patients who have not received any systemic therapy for advanced disease."
+    },
+    {
+      "cohort_label": "CLL Arm 2: Previously treated, not on active treatment",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Patients with CLL who have received prior cancer-directed therapy and are currently not receiving active treatment are eligible. This requires at least one prior line of systemic therapy for advanced disease."
+    },
+    {
+      "cohort_label": "CLL Arm 3: On BTKi",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Patients with CLL who are currently receiving treatment with a BTKi are eligible. This implies at least one prior line of systemic therapy for advanced disease."
+    },
+    {
+      "cohort_label": "CLL Arm 4: On BTKi ≥6 months, willing to hold",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Patients with CLL who have been on BTKi for at least 6 months and are willing to hold treatment are eligible. This requires at least one prior line of systemic therapy for advanced disease."
+    },
+    {
+      "cohort_label": "CLL Arm 5: On BCL-2 inhibitor",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Patients with CLL who are currently receiving treatment with a BCL-2 inhibitor are eligible. This implies at least one prior line of systemic therapy for advanced disease."
+    },
+    {
+      "cohort_label": "Other B cell malignancies Arm 1: Not on active treatment",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Patients with FL, MCL, MZL, NHL NOS, or WM who are not currently receiving active treatment (treatment-naïve or previously treated) are eligible. Both treatment-naïve and previously treated patients are allowed."
+    },
+    {
+      "cohort_label": "Other B cell malignancies Arm 2: On targeted therapy",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Patients with FL, MCL, MZL, NHL NOS, or WM who are currently receiving targeted therapies (e.g., BTKi, BCL-2 inhibitors, PI3K inhibitors, immunomodulatory agents, proteasome inhibitors) are eligible. This requires at least one prior line of systemic therapy for advanced disease."
+    }
+  ]
+}

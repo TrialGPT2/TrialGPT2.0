@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT02577536",
+  "title": "PregSource: Crowdsourcing to Understand Pregnancy",
+  "brief_summary": "PregSource uses a crowd-sourcing approach, asking pregnant women to enter information regularly and directly about their pregnancies throughout gestation and the early infancy of their babies into online surveys and trackers via a website and/or mobile application (\"app\"). In exchange, participants can track their data over time, print out reports to share with their healthcare team, and see how they compare to other women. In addition, PregSource will provide participants with links to trusted, evidence-based information about pregnancy management, issues, and complications.\n\nMore information is available at: https://pregsource.nih.gov",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Women who are pregnant\n\nExclusion Criteria:\n\n* Males\n* Women who are not pregnant\n* Women under 18 years of age or older than 70 years of age\n* Women who are unable to provide consent for themselves, and for whom a parent, legal guardian, or legally authorized representative does not provide consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "All pregnancy women 18 years of age or older.",
+  "condition": [
+    "Pregnancy",
+    "Pregnancy Complications",
+    "Morning Sickness",
+    "Diabetes, Gestational",
+    "Placenta Diseases",
+    "Birth Weight"
+  ],
+  "overall_status": "COMPLETED"
+}

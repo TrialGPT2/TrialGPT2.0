@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04479319",
+  "title": "Decision Support System Algorithm for COVID-19 Diagnosis",
+  "brief_summary": "COVID-19 is an infectious disease caused by a newly discovered Coronavirus which was first identified in Wuhan, China in December 2019. Then the novel coronavirus outbreak was described and announced as a pandemic by World Health Organization (WHO) on March 11, 2020.\n\nReverse transcription-polymerase chain reaction (RT-PCR) is currently the gold standard test for diagnosis of COVID-19. Nevertheless, due to its high false-negative rates (%10-50), diagnosis and treatment decisions do not depend on RT-PCR alone. Clinical presentation of patient and radiological findings are also important. However, neither clinical presentation nor computed tomography (CT) findings are specific for COVID-19. As a consequence of these challenges, the diagnosis of the disease and the protection of the community health become more difficult. The investigators of this study hypothesized that deep learning-based decision support system may help for definitive diagnosis of COVID-19. The aim is to develop a deep learning-based decision support system algorithm based on clinical presentation of patient, laboratory and CT findings and RT-PCR data. Previously, deep learning algorithms with the use of widely known deep neural network architectures such as Inception, UNet, ResNet were developed. However all of these studies were based on CT findings. There are not any deep learning study in literature combining the clinical, radiological, and laboratory findings of patients.\n\nThe project is based on the available data of COVID-19 patients that will be obtained from the Ministry of Health. Then the data will be evaluated for relevance and reliability and labeled for the training of machine. Following the anonymization of data, data will be processed according to the predetermined inclusion-exclusion criteria. Thorax CT data will be labeled as typical / indeterminate / atypical / negative for COVID-19 pneumonia. Also, CT images of patients with known non-COVID-19 diseases will be labeled for the training of machine. Then, fever, lymphocyte count, neutrophil to lymphocyte ratio, contact information, RT-PCR findings will be labeled. Subsequently, the patients will be labeled and the machine will be trained with deep learning method with the help of this grouped and labeled data. Following the training phase, the algorithm will be tested and if the machine reaches the target specificity and sensitivity, the prototype will be tested. And then, the prototype will be embedded into the hospital software system. This software and algorithm will serve as an early warning system for clinicians and provide a better diagnostic rate especially with decreasing false-negative results. The effects of a pandemic cannot be measured by only the number of people diagnosed and isolated, or treatment provided. A pandemic affects not only community health but also individuals' psychological status, education, teaching methods, working models, daily lifestyles, producer/consumer behaviors, supply/demand balance; in other words every single area of life. On top of that, a pandemic causes long-term damages hard to reverse. The software will increase the diagnostic success rates, help to control the pandemic and minimize the collateral damages mentioned above. The investigators believe that, the product that will be produced at the end of this project will be of great benefit in controlling the secondary wave of COVID-19 expected to occur.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patients with a differential diagnosis of COVID-19\n\nExclusion Criteria:\n\n* Patients who are under 18 year-old\n* Patients who have not either Thorax CT or SARS-CoV-2 RT-PCR",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult patients with a differential diagnosis of COVID-19 and tested for it with Thorax CT and RT-PCR in Turkey.",
+  "condition": [
+    "Covid19"
+  ],
+  "overall_status": "COMPLETED"
+}

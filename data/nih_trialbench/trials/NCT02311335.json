@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT02311335",
+  "title": "Genes Involved in Lipid Disorders",
+  "brief_summary": "Background:\n\n\\- Genes are the instructions our body uses to function. Researchers can look for changes, or variants, in the genes. The goal of this study is to find new gene changes that lead to lipid disorders. Older research methods looked at one or a few genes at a time. Genomic sequencing looks at most of the genes at once. Genomic sequencing may find the cause researchers haven t been able to find from past methods.\n\nObjectives:\n\n\\- To better understand genetic causes of lipid disorders through genomic sequencing.\n\nEligibility:\n\n\\- People age 2 and older with unusual lipid disorders, and their relatives.\n\nDesign:\n\n* Participants will be screened with a physical exam and medical history. They will have blood taken. They may give a saliva sample.\n* Based on the screening test, researchers will chose 3-5 family members to perform the genomic sequencing. The sequencing will be done on a sample of DNA collected during the blood draw and saliva sample.\n* Participants may be invited to take part in other protocols that may involve imaging of their heart or blood vessels. They do not have to participate. If they do, they will sign a separate consent for those tests.\n* If a participant s family member cannot travel to the NIH, the NIH documents and consent will be reviewed during a teleconference. A blood or sputum kit will be mailed to them.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIndex cases to be included are those with unusual dyslipidemia. Relatives of affected individuals may also be included as appropriate.\n\nChild Index: greater than or equal to 2 years older\n\nAdult Index: greater than or equal to18 years older\n\nChild relatives (siblings, cousins): greater than or equal to 2 years older\n\nAdult Relative: greater than or equal to18 years older\n\n(Biological parent, aunt, uncle or grandparent)\n\nEXCLUSION CRITERIA:\n\n1. Inability or unwillingness to provide informed consent or assent\n2. Prisoners or other institutionalized persons will not be allowed to participate.\n3. Children \\<2 years of age.",
+  "minimum_age": "2 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Entire population.",
+  "condition": [
+    "Lipid Disorders"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational genetic study of individuals with lipid disorders and their relatives. There is no cancer therapy or line-of-therapy intent in this protocol.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer treatment or systemic therapy for advanced disease. It is a genetic research protocol enrolling individuals with lipid disorders and their relatives, with no mention of prior lines of therapy."
+    }
+  ]
+}

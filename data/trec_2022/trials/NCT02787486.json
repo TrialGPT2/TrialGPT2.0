@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT02787486",
+  "title": "Expanded Noninvasive Genomic Medical Assessment: The Enigma Study",
+  "brief_summary": "In January 2007, the American Congress of Obstetricians and Gynecologists (ACOG) revised its guidelines that now recommend physicians are ethically obligated to fully inform all pregnant women that screening for fetal chromosomal abnormalities including biochemical screening tests and invasive procedures such as CVS or amniocentesis is available, regardless of age. Further, it is entirely up to the patient to decide whether or not she wishes to be screened for fetal chromosomal abnormalities without judgment from the physician.\n\nNoninvasive laboratory-developed tests (LDTs) that detect an abnormal amount of maternal and fetal DNA in an expectant mother's blood sample (known as circulating cell-free DNA) are now available. These LDTs have not been cleared or approved by the U.S. Food and Drug Administration (FDA). Although LDTs to date have not been subject to U.S. FDA regulation, certification of the laboratory is required under the Clinical Laboratory Improvement Amendments (CLIA) to ensure the quality and validity of the test.\n\nTo sample collection study will obtain whole blood specimens from pregnant subjects to be used for development of prenatal assays to assist in the screening for fetal genetic abnormalities, infectious and other diseases, and blood group typing through detection of circulating cell-free DNA extracted from maternal plasma.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Subject is willing to provide informed consent and comply with study procedures\n* Pregnant female, 18 to 54 years of age carrying a singleton fetus of 8 to 22 weeks gestational age\n* Willing to provide a study blood sample in accordance with the protocol\n* Willing to allow access to her medical records to collect pregnancy outcome information\n* Willing to provide consent for release of fetal karyotype if an invasive procedure (CVS or amniocentesis) is performed during the pregnancy\n* Subject is known to be at risk for one or more of the following:\n* fetal gene and chromosome abnormalities (e.g., T21, T18, T13, microdeletion syndromes, sex chromosome abnormalities)\n* congenital fetal infection (e.g. toxoplasmosis, syphilis, HIV, rubella, CMV, HSV)\n* irregular blood group antigens (subject or father of the baby)\n* other condition amenable to noninvasive prenatal testing such as a single gene disorder (e.g., CF, sickle cell, Fragile X)\n\nExclusion Criteria:\n\n* No fetal heart activity detected\n* Mother or father have known chromosomal abnormalities (including known balanced translocations)\n* Women with active or history of malignancy",
+  "minimum_age": "18 Years",
+  "maximum_age": "54 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "All pregnant women undergoing standard maternal serum screening for fetal aneuploidy will be considered for enrollment as well as those with a priori risk factors for fetal aneuploidy.",
+  "condition": [
+    "Down Syndrome",
+    "Edwards Syndrome",
+    "Patau Syndrome",
+    "Klinefelter Syndrome",
+    "Turner Syndrome",
+    "DiGeorge Syndrome",
+    "Chromosome Deletion",
+    "Aneuploidy"
+  ],
+  "overall_status": "COMPLETED"
+}

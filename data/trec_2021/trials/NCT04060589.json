@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04060589",
+  "title": "ReIMAGINE Prostate Cancer Risk",
+  "brief_summary": "ReIMAGINE Prostate Cancer Risk is a multi-centre, prospective, observational, longitudinal cohort study of men referred to secondary care with a suspicion of prostate cancer. The aim of the study is to develop a robust baseline risk stratification system for men at risk of prostate cancer.\n\nMen whose serum Prostate Specific Antigen (PSA) level is 20ng/ml or less, whose multi-parametric magnetic resonance imaging (mpMRI) scan has been scored as Prostate Imaging Reporting and Data System (PIRADS)/LIKERT score 3, 4 or 5, and who have been advised and accepted the need for a targeted and systematic prostate biopsy will be invited to take part in the study and be asked to donate blood, urine, imaging files and prostate biopsy for biomarker analysis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Any man with PSA 20 or less (value recorded \\<90 days before study entry)\n* Men who have undergone a prostate MRI as a standard NHS diagnostic work-up\n* MRI lesion conforming to Likert/PIRADS 3, 4 or 5\n* Radiological stage T3b or less\n* Clinical or radiological stage N0 and M0\n* No anti-androgen exposure in the preceding 6 months (5-alpha reductase inhibitors permitted)\n* No prior treatment for prostate cancer (chemical, biological, ablative, surgical, radiotherapy)\n* Previous trans urethral resection of the prostate (TURP) is permitted\n* Willing and able to provide written informed consent.\n\nExclusion Criteria:\n\n* Men unable to donate tissue, blood or urine.\n* Previous prostate cancer treatment\n* Previous prostate biopsy \\<12 months from date of the mpMRI scan used to assess study eligibility (scoring PIRADS/Likert 3, 4 or 5)",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "Men who have been referred to secondary care with a suspicion of prostate cancer",
+  "condition": [
+    "Prostate Cancer"
+  ],
+  "overall_status": "UNKNOWN"
+}

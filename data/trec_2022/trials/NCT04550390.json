@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04550390",
+  "title": "Study of the Analytical Performance of Different Salivary Self-collection Methods for the Detection of COVID-19",
+  "brief_summary": "Since March 2020, the SARS-CoV type coronavirus infection (SARS-CoV-2; nCoV19; COVID-19) is considered pandemic. As early as April 2020, the World Health Organization recommended the implementation of mass screening of populations, with the aim of identifying cases and contacts and controlling viral spread. Since the end of lock-down on May 11, 2020,the screening policy has been intensified to fight against COVID-19. Virological tests by RT-PCR are thus accessible to all, without a prescription and reimbursed by health insurance. The French government has also set a quantitative target of 1 million tests per week. In order to meet this target, the number of sampling centers has been increased (mobile structures, etc.).\n\nScreening tests are currently carried out using a nasopharyngeal swab analyzed by RT-PCR for the detection of viral RNA. This type of sample has several technical and logistic constraints. It must be carried out by personnel who are authorized and trained in this procedure and in appropriate hospital hygiene practices. It exposes the sampling personnel to possible contamination through nasopharyngeal secretions or coughing that may occur during sampling. With the increase in screening, there are sometimes insufficient numbers of sampling personnel and there is significant market pressure for swabs and virological transport media.\n\nIn addition, these swabs are uncomfortable or even painful for the patient, which could imply a reluctance to be screened. They are also complicated in children, whether they are rhino- or oropharyngeal.\n\nAn alternative to the nasopharyngeal swab, which is the subject of this project, would be to have one or more reliable sampling methods that are less restrictive than the nasopharyngeal swab (\"gold standard\"). Thus, we propose to test and compare the results obtained by molecular biology techniques on nasopharyngeal, salivary and buccal swabs.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* To be at least 18 years of age\n* To come at hospital for SARS-CoV-2 screening\n* To be able to receive a nasopharyngeal swab\n\nExclusion Criteria:\n\n* People under 18 years of age\n* Inpatient in intensive care\n* Pregnant or breastfeeding woman\n* Individual with dry syndrome (Gougerot-Sj\u00f6gren syndrome)\n* Taking treatments that reduce salivary volume (anticholinergic activity)\n* People with a COVID-19 diagnosis confirmed by a molecular biology method \\>7 days ago\n* Contraindication to oral swabbing",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population is composed of people coming for COVID-19 screening to one of the four military training hospitals involved,either spontaneously or during cluster investigations.\n\nPatients hospitalized in these hospitals with non-severe illness and symptoms related to COVID-19 for less than 7 days will also be eligible to the study.",
+  "condition": [
+    "SARS-CoV Infection"
+  ],
+  "overall_status": "COMPLETED"
+}

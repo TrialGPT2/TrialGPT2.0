@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03370926",
+  "title": "FET-PET and Multiparametric MRI for High-grade Glioma Patients Undergoing Radiotherapy",
+  "brief_summary": "Glioblastoma is the most common malignant brain tumor in adults. The primary treatment consists of maximal tumor removal followed by radiotherapy (RT) with concomitant and adjuvant temozolomide. Tumor recurrence after chemoradiotherapy has previously been shown to be predominantly within or at the margin of the irradiated volume, but distant failure are not rare, especially in patients with MGMT methylation.Traditionally, RT has been planned based on on planning CT with co-registered postoperative MRI, with the addition of a clinical target volume margin of 2-3 cm to account for infiltrative odema.\n\nTo better characterize the disease, more specific physiological and/or metabolical markers of tumor cells, vascularization and hypoxia measured on multiparametric MRI as perfusion, diffusion and spectroscopy alongside with PET tracer like Fluoro\u00e9thyl-L-tyrosine (\\[18F\\]-FET) are now available and suggest that aggressive areas, like uptake of PET tracer and vascularity are present outside areas of contrast enhancement usually irradiated. These informations could be incorporated to optimize the treatment of radiotherapy.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* 18 Years or older\n* Histologically confirmed newly diagnosed glioblastoma or anaplastic astrocytoma\n* Patients must have undergone surgery with macroscopic complete resection or incomplete resection with residual disease less than 5 cm on MRI\n* An MRI or a scan 48h after surgery should be available\n* WHO \u2264 2\n* Indication for adjuvant radiotherapy\n* Surgery must have been performed 45 days before the start of radiotherapy.\n* Ability to understand and to give consent\n\nExclusion Criteria:\n\n* Age \\< 18 Years.\n* Prior radiation therapy to the brain\n* Any usual formal indication against MRI (claustrophobia, metallic objects or implanted medical devices in body: pacemaker, clips, prostheses ...)\n* Allergic reaction to FET\n* Pregnant women or nursing mothers\n* Refusal to use effective contraception at study entry and throughout the study if patient is of childbearing age.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients diagnosed with anaplastic astrocytoma or glioblastoma who are referred for adjuvant radiotherapy.",
+  "condition": [
+    "Glioblastoma Multiforme",
+    "Anaplastic Astrocytoma",
+    "Radiotherapy"
+  ],
+  "overall_status": "UNKNOWN"
+}

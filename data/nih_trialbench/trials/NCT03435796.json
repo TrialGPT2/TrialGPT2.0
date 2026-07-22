@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT03435796",
+  "title": "Long-Term Follow-up Protocol for Participants Treated With Gene-Modified T Cells",
+  "brief_summary": "This is a prospective study for the long-term follow-up (LTFU) of safety and efficacy for all pediatric and adult participants exposed to Gene-modified (GM) T-cell therapy participating in a previous Celgene sponsored or Celgene alliance partner sponsored study.\n\nParticipants who received at least one infusion of GM T cells will be asked to enroll in this LTFU protocol upon either premature discontinuation from, or completion of the prior parent treatment protocol.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n* Received at least one gene-modified (GM) T-cell infusion in a previous Celgene sponsored, Juno Therapeutics, other affiliates of BMS, or Celgene alliance partner-sponsored trial, and have discontinued, or completed the post-treatment follow-up period in the parent treatment protocol, as applicable.\n* Must understand and voluntarily sign an Informed Consent Form/Informed Assent Form prior to any study-related assessments/procedures being conducted.\n\nExclusion Criteria:\n\nNot Applicable\n\nOther protocol-defined inclusion/exclusion criteria apply",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Neoplasms"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a long-term follow-up protocol for patients who previously received gene-modified T-cell therapy on a Celgene or partner-sponsored trial. The line-of-therapy intent is not defined by this protocol, as eligibility depends on prior participation in a parent trial, which may have included patients at various lines of therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility requires prior receipt of gene-modified T-cell therapy on a parent trial, but this protocol does not specify any line-of-therapy requirements. The line-of-therapy intent is determined by the original parent study, which is not described here."
+    }
+  ]
+}

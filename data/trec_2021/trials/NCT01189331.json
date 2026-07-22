@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01189331",
+  "title": "CT Coronary Angiography and Computational Fluid Dynamics",
+  "brief_summary": "Angiographically obtained fractional flow reserve(FFR) could provide functional and clinical information about stenotic lesion, but the invasiveness and measuring difficulty of FFR make it unfamiliar to perform. CT coronary angiography is non-invasive tool to evaluate lesion severity and lately developing computational fluid dynamics could provide functional information. The investigators build a patient specific model of computational fluid dynamics by CT coronary angiography and evaluate the functional significance by measuring fractional flow reserve via CT coronary angiography and computational fluid dynamics, and investigate its long-term prognostic implications.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Significant stenosis at CT angiography\n* Normal ejection fraction on echocardiography\n* Informed consented patient\n\nExclusion Criteria:\n\n* total occlusion and collateral flow to target vessel\n* AV conduction abnormality\n* Left ventricular hypertrophy\n* significant valvular heart or primary myocardial disease",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Coronary Artery Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

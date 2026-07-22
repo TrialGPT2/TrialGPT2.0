@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT01759225",
+  "title": "Registry of Cardiovascular Disease Patients",
+  "brief_summary": "A computerized registry of cardiovascular disease patients in a large health maintenance organization in Israel. The registry is aimed to be used by health professionals to identify cardiovascular disease patients and to follow the courses of their illnesses and risk factors.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinical Diagnosis of the following:\n\nIschemic Heart Disease,MI,non-MI,congestive heart failure,peripheral vascular disease, cerebrovascular disease CVA,TIA,patients with first AMI diagnosis from community physicians if they were hospitalized for lasting at least 3 days during a 30-day period prior to diagnosis.\n\n* Patients with prior coronary artery bypass grafting(CABG) or percutaneous coronary intervention (PCI), using relevant Current Procedural Terminology (CPT) codes\n\nExclusion Criteria:\n\n* patients who were diagnosed as suffering from CHD by primary physician or general hospitals prior to 2000 with no further indication\n* Patients whose primary physician reported that the patient is CHD-free providing adequate medical records",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The electronic registry includes all patients that had been diagnosed twice or more by hospital or outpatient cardiologists, primary physicians, or pediatricians with at least one of the following clinical diagnoses, classified according to the International Classification of Diseases, Ninth revision (ICD-9) codes: Ischemic Heart Disease,MI,non-MI,congestive heart failure,peripheral vascular disease, cerebrovascular disease CVA,TIA, Patients with prior coronary artery bypass grafting(CABG) or percutaneous coronary intervention (PCI), using relevant Current Procedural Terminology (CPT) codes were also included in the registry.",
+  "condition": [
+    "Ischemic Heart Disease",
+    "Congestive Heart Failure",
+    "Peripheral Vascular Disease",
+    "Cerebrovascular Disease",
+    "Atrial Fibrillation",
+    "Cerebrovascular Atherosclerosis"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION"
+}

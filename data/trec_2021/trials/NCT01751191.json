@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01751191",
+  "title": "HVPG for Rebleeding Risk Stratification",
+  "brief_summary": "Background: In patients with cirrhosis on secondary prevention of variceal rebleeding with non-selective beta-blockers (NSBBs), the risk of rebleeding and death is markedly higher in those failing to achieve a good hemodynamic response (HVPG reduction \u226520% of baseline values or \u226412mmHg). However a substantial proportion of non-responders will never rebleed, thus appearing protected by NSBBs although non-detected by HVPG response. This low sensitivity hampers risk stratification and diminishes the cost-effectiveness of assessing the hemodynamic response to NSBBs. This is particularly relevant in prevention of rebleeding since in this scenario the risk of rebleeding and of other portal hypertension related complications is very high, which calls for early institution of effective therapy.\n\nBaseline HVPG bears prognostic significance with regards to risk of developing varices, decompensation, hepatocellular carcinoma and death1,2,7,8,18-27. However, no studies have investigated whether adding data from baseline HVPG may improve the sensitivity of the criteria defining a good or poor hemodynamic response.\n\nHypothesis: Adding data from baseline HVPG may improve the sensitivity of the criteria defining a good or poor hemodynamic response.\n\nObjective: Exploring the prognostic value of basal HVPG that better discriminate those non-responders who do not re-bleed under prophylactic treatment with NSBBs.\n\nMethods: Observational cohort study. Training set: patients from two longitudinal studies conducted at the Hepatic Hemodynamic laboratory of the Hospital Cl\u00ednic of Barcelona to assess the prognostic value of HVPG changes during continuous therapy with NSBBs for preventing variceal rebleeding. Validation set for chronic hemodynamic response: patients from two longitudinal studies conducted at the Hepatic Hemodynamic laboratory of the Hospital de Sant Pau of Barcelona to assess the prognostic value of HVPG changes during continuous therapy with NSBBs for preventing variceal rebleeding; a third cohort composed of patients undergoing acute hemodynamic response to intravenous propranolol will be studied.\n\nAll patients received a preplanned follow-up in the outpatient clinic at 1, 3, and 6 months, and every 6 months thereafter in the original studies.\n\nEnd-point: bleeding from portal hypertensive sources (esophago-gastric varices or portal hypertensive gastropathy) (defined according to Baveno criteria 32), death or liver transplantation.\n\nEthical aspects: All patients have given their written informed consent to use their data in the original studies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nLiver Cirrhosis Admission for bleeding from esophageal varices in the previous 7 days Baseline HVPG \\>12 mmHg Subsequent long-term treatment with NSBB (propranolol or nadolol) Second measurement of HVPG after 1-3 months of therapy\n\nExclusion Criteria:\n\nHepatocellular carcinoma Portal vein thrombosis Contraindications to beta-blockers Cholestatic liver disease",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with liver cirrhosis who already experienced a esophageal variceal bleeding, requiring therapy with non-selective beta-blockers for their portal hypertension.",
+  "condition": [
+    "Liver Cirrhosis",
+    "Portal Hypertension"
+  ],
+  "overall_status": "COMPLETED"
+}

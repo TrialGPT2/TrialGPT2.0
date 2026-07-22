@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01991457",
+  "title": "Fludarabine / Total Body Irradiation Regimen for ALLO HCT in Acute Lymphoblastic Leukemia",
+  "brief_summary": "The goal of this research is to test if the conditioning regimen, fludarabine and total body irradiation (FluTBI), can lead to a safer and more effective stem cell transplant treatment regimen for ALL patients older than 40 years of age and/or younger patients with high risk medical conditions. The primary objective is to establish the efficacy of allo HCT in older ALL patients using myeloablative FluTBI conditioning regimen. The investigators are also assessing the safety and toxicity of allo HCT in older ALL patients using myeloablative FluTBI conditioning regimen.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Disease Criteria:\n\n  * ALL in complete remission (CR) at the time of transplant. Remission is defined as \"less than 5.0% bone marrow lymphoblasts by morphology,\" as determined by a bone marrow aspirate obtained within 2 weeks of study registration.\n  * Philadelphia chromosome positive ALL is allowed.\n  * Lymphoid blastic crisis of CML will be included (provided that patients achieve CR).\n* Age Criteria: Equal or above age 40 and up to 65 years. If younger than 40, there must be comorbidities which preclude the patient to undergo CyTBI conditioning regimen.\n* Organ Function Criteria: All organ function testing should be done within 28 days of study registration.\n* Cardiac: Left ventricular ejection fraction (LVEF) \u2265 50% by MUGA (Multi Gated Acquisition) scan or echocardiogram.\n* Pulmonary: FEV1 (Forced expiratory volume in 1 second) and FVC (Forced vital capacity) \u2265 50% predicted, DLCO (alveolar diffusion capacity for carbon monoxide) (corrected for hemoglobin) \u2265 50% of predicted.\n* Renal: The estimated creatinine clearance (CrCl) must be equal or greater than 60 mL/min/1.73 m2 as calculated by the Cockcroft-Gault Formula:\n\nCrCl = (140-age) x weight (kg) x 0.85 (if female)/72 x serum creatinine (mg/dL).\n\n* Hepatic:\n\n  * Serum bilirubin 2.0 g/dL\n  * Aspartate transaminase (AST)/alanine transaminase (ALT) 2.5 ULN\n  * Alkaline phosphatase 2.5 ULN\n* Performance status: Karnofsky \u2265 70%\n* Consent: Patient must be informed of the investigational nature of this study in accordance with institutional and federal guidelines and have the ability to provide written informed consent prior to initiation of any study-related procedures, and ability,in the opinion of the principal investigator, to comply with all the requirements of the study.\n* Presence of a willing adult HLA-matched sibling (excluding identical twin) or HLA-matched unrelated donor meeting all the criteria for routine allo HSCT. All donors will be evaluated for eligibility and suitability per the standard of care according to the FACT and NMDP guidelines.\n\nExclusion Criteria:\n\n* Non-compliant to medications.\n* No appropriate caregivers identified.\n* HIV1 (Human Immunodeficiency Virus-1) or HIV2 positive\n* Active life-threatening cancer requiring treatment other than ALL\n* Uncontrolled medical or psychiatric disorders.\n* Uncontrolled infections, defined as positive blood cultures within 72 hours of study entry, or evidence of progressive infection by imaging studies such as chest CT scan within 14 days of registration.\n* Active central nervous system (CNS) leukemia\n* Preceding allogeneic HSCT\n* Receiving intensive chemotherapy within 21 days of registration. Maintenance type of chemotherapy will be allowed.",
+  "minimum_age": "40 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Adult Lymphoblastic Lymphoma"
+  ],
+  "overall_status": "COMPLETED"
+}

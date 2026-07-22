@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT04328961",
+  "title": "Hydroxychloroquine for COVID-19 Post-exposure Prophylaxis (PEP)",
+  "brief_summary": "This is a clinical study for the prevention of SARS-CoV-2 infection in adults exposed to the virus. This study will enroll up to 2000 asymptomatic men and women 18 to 80 years of age (inclusive) who are close contacts of persons with laboratory confirmed SARS-CoV-2 or clinically suspected COVID-19. Eligible participants will be enrolled and randomized to receive the intervention or placebo at the level of the household (all eligible participants in one household will receive the same intervention).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Men or women 18 to 80 years of age inclusive, at the time of signing the informed consent\n* Willing and able to provide informed consent\n* Had a close contact of a person (index) with known PCR-confirmed SARS-CoV-2 infection or who is currently being assessed for COVID-19. Close contact defined as:\n\n  1. Household contact (i.e., residing with the index case in the 14 days prior to index diagnosis)\n  2. Medical staff, first responders, or other care persons who cared for the index case without personal protection (mask and gloves)\n* Less than 4 days since last exposure (close contact with a person with SARS-CoV-2 infection) to the index case\n* Body weight \\< 100 kg (self-reported)\n* Access to device and internet for Telehealth visits\n\nExclusion Criteria:\n\n* Known hypersensitivity to HCQ or other 4-aminoquinoline compounds\n* Currently hospitalized\n* Symptomatic with subjective fever, cough, or sore throat\n* Current medications exclude concomitant use of HCQ\n* Concomitant use of other anti-malarial treatment or chemoprophylaxis\n* History of retinopathy of any etiology\n* Psoriasis\n* Porphyria\n* Known bone marrow disorders with significant neutropenia (polymorphonuclear leukocytes \\< 1500) or thrombocytopenia (\\< 100 K)\n* Concomitant use of digoxin, cyclosporin, cimetidine, or tamoxifen\n* Known liver disease\n* Known long QT syndrome\n* Use of any investigational or non-registered drug or vaccine within 30 days preceding the first dose of the study drugs, or planned use during the study period",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID-19",
+    "Corona Virus Infection",
+    "SARS (Severe Acute Respiratory Syndrome)",
+    "SARS-CoV-2"
+  ],
+  "overall_status": "COMPLETED"
+}

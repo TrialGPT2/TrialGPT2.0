@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04836286",
+  "title": "Determining the Impact of Emotive Intelligent Spaces",
+  "brief_summary": "Many children (age 3-6) living in the Mountain West (MW) region face unique challenges that can affect their health and welfare, such as lower socioeconomic status, and limited access to healthcare and education. The proposed project aims to address those health and education gaps by improving children's self-regulation (i.e., the ability to control emotional and behavioral impulses), a critical cognitive skill that underpins future mental health and academic achievement. The project will test the effectiveness of an innovative intervention mechanism, the Emotive Intelligent Space (EIS).\n\nThe EIS consists of two adjacent 3 x 5 sq. ft. wooden wall panels with colored LED lights, creating a 90-degree semi-private space. The adaptable colored lightings are controlled by a machine learning algorithm that is developed based on a co-investigator's prior study. The EIS harnesses the power of artificial intelligence to detect children's emotions from physiological data in real-time and to translate physiological signals into environmental changes (i.e., adaptable colored lighting) that adequately respond to children's emotions, resulting in improved self-regulation, physiological stress responses, and cognitive performance.\n\nThe objective of this proposal is to determine the effect of EIS on children's (age 3-6) self-regulation, physiological, and cognitive outcomes by employing a repeated ABAB experimental design (A = no intervention, B = EIS intervention). The hypothesis is that EIS will positively impact children's self-regulation, physiological stress response, and cognitive performance. Based on a priori power analysis, 40 preschool and kindergarten children will be recruited from early childhood programs in the rural areas near Moscow, ID. During the experiment, children will be assessed under a combination of A and B conditions. A digital wristband will capture children's real-time physiological responses (i.e., Galvanic skin response, body temperature, and blood volume pulse). A machine learning algorithm will immediately translate the physiological data into three basic emotions (i.e., happy, angry/fearful, sad) represented by children's choice of colors on the EIS. A series of ANCOVA analyses will be used to determine the mean differences in self-regulation, physiological, and cognitive scores under baseline and treatment conditions.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Typically developing children without color blindness\n\nExclusion Criteria:\n\n* Children with color blindness",
+  "minimum_age": "3 Years",
+  "maximum_age": "6 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Color Perception"
+  ],
+  "overall_status": "COMPLETED"
+}

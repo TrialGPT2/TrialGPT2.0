@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT02629107",
+  "title": "Functional Magnetic Resonance Imaging Sleep Study With Auditory Stimuli",
+  "brief_summary": "Background:\n\nAn electroencephalogram (EEG) measures the brain s electrical activity. EEG shows that the louder the sound needed to wake a person, the deeper the person s sleep. Researchers are using functional magnetic resonance imaging (fMRI) to study people during sleep so they can view brain activity in 3D. But they still need to correlate fMRI with sound thresholds, like the EEG.\n\nObjective:\n\nTo measure brain activity during sleep using fMRI and EEG.\n\nEligibility:\n\nHealthy people ages 18 34 who can sleep on their back for several hours.\n\nDesign:\n\nParticipants will be screened online about their sleep and general health.\n\nAt a screening visit, participants will have:\n\nPhysical exam\n\nHearing exam\n\nMRI scan. A strong magnetic field and radio waves take pictures of the brain. Participants will lie down on a bed that slides into the scanner, which is shaped like a cylinder.\n\nParticipants will wear an actigraph on their wrist that records their motor activity.\n\nParticipants will follow a 2-week routine. This includes regular in-to-bed and out-of-bed times and limits on alcohol, caffeine, and nicotine.\n\nDuring the overnight visits, participants will have:\n\nFemale subjects will have a urine pregnancy test.\n\nfMRI. A coil will be placed over the head. Participants will do tasks shown on a computer screen inside the scanner.\n\nEEG. Small electrodes on the scalp will record brain waves while sleeping or doing a task in the scanner.\n\nParticipants will be asked to try to sleep while researchers collect fMRI and EEG data. Participants eyes will be monitored with a video camera. Headphones will deliver sounds to wake them up throughout the night.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. able to give informed consent;\n  2. in good general heath;\n  3. between the ages of 18 and 34 years;\n  4. able to sleep on your back for several hours (with breaks).\n\nEXCLUSION CRITERIA:\n\n1. have a medical condition like diabetes or uncontrolled hypertension;\n2. have a psychiatric or neurologic condition like depression or stroke;\n3. have ever had a seizure;\n4. have a sleep disorder like insomnia or sleep apnea;\n5. work night shifts;\n6. have metal in your body such as pacemakers, metal prostheses, or aneurysm clips that would make MRI scanning unsafe;\n7. are pregnant or nursing;\n8. drink too much caffeine (6 or more cups of coffee per day or 10 or more cups of caffeinated soda per day);\n9. use too much alcohol (15 or more alcoholic beverages per week for men and 8 or more alcoholic beverages per week for women);\n10. use too much nicotine (nicotine use within 30 minutes of waking);\n11. are afraid of enclosed spaces;\n12. have known hearing problems;\n13. regularly use a prescription or over-the-counter drug to help you sleep or stay awake;\n14. are an employee, contractor, or volunteer of the Laboratory of Functional and Molecular Imaging in the National Institute of Neurological Disorders and Stroke.",
+  "minimum_age": "18 Years",
+  "maximum_age": "34 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Volunteers will be recruited from the community and NIH employees.",
+  "condition": [
+    "Normal Physiology"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology, non-interventional sleep study enrolling healthy volunteers with no history of cancer or systemic therapy. There is no line-of-therapy intent.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls only healthy volunteers with no mention of cancer or systemic therapy. There are no requirements or allowances for prior lines of therapy for advanced disease."
+    }
+  ]
+}

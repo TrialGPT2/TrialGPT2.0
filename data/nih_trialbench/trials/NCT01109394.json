@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT01109394",
+  "title": "Comprehensive Omics Analysis of Pediatric and Adult Solid Tumors and Establishment of a Repository for Related Biological Studies",
+  "brief_summary": "Background:\n\n\\- Laboratory investigators who are studying common childhood cancers are interested in developing a tissue repository to collect and store blood, serum, tissue, urine, or tumors of children who have cancer or adults who have common childhood cancers. To develop this repository, additional samples will be collected from children and adults who have been diagnosed with common childhood cancers such as leukemia and tumors of the central nervous system.\n\nObjectives:\n\n\\- To collect and store blood, serum, tissue, urine, or tumor samples of children who have cancer or adults who have common childhood cancers.\n\nEligibility:\n\n* Individuals who have been diagnosed with a common childhood cancer (e.g., leukemia) regardless of patient age.\n* Children, adolescents, and adults who have been diagnosed with a type of cancer more commonly found in adults.\n\nDesign:\n\n* Extra blood, serum (the liquid part of blood), tissue, urine, or tumor samples will be collected from participants at a time when sampling is required for medical care or as part of a research study.\n* No additional procedures will be performed for the sole purpose of obtaining additional tumor tissue, aside from what is required for clinical care.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* SUBJECT INCLUSION CRITERIA:\n\nPediatric or adult subjects with one of the following:\n\n* Diagnosis of any tumor, malignancy, pre-malignant disorder, or suspected premalignant familial syndromes, regardless, of patient age;\n* Biological relatives of any patient with a tumor, malignancy, pre-malignant disorder, or suspected familial pre-malignant syndrome, regardless of patient age or the diagnosis of an adult malignancy or pre-malignant disorder;\n* Healthy Volunteer without history of malignancy nor a family member currently being treated for cancer who are undergoing surgery, treatment or during well visits;\n* Biospecimens can be collected with minimal additional risk to the subject during sampling or procedures required for routine patient care.\n* Human samples, specimens and data collected on IRB approved protocols that are now closed\n* Ability of subject, Legally Authorized Representative (LAR), or parent/legal guardian of children \\<=18 to understand and be willing to sign an IRB-approved informed consent document that permits the use of the tumor and other samples for genomic-based molecular characterization projects.\n\nInclusion Criteria for Social and Behavioral Outcome Interviews:\n\n* Parent/caregiver of a participating pediatric or adult patient who is being treated for, or who has previously been treated for any form of pediatric cancer.\n* Must be able to give consent and sign the informed consent document.\n* Able to understand the English language.\n\nEXCLUSION CRITERIA:\n\nNone",
+  "minimum_age": "4 Weeks",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects with a diagnosis of any tumor or malignancy regardless of age, or without malignancy undergoing surgery, other treatment or normal well visit. Suspicion of a familial premalignant condition. Biological relatives of a subject with a pediatric or adult tumor or malignancy or with suspected familial cancer syndrome.",
+  "condition": [
+    "Sarcoma",
+    "Endocrine Tumors",
+    "Neuroblastoma",
+    "Retinoblastoma",
+    "Renal Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a biospecimen repository study enrolling pediatric and adult patients with any tumor, malignancy, or pre-malignant disorder, regardless of prior therapy or disease stage. There are no restrictions on prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes any patient with a tumor, malignancy, or pre-malignant disorder, regardless of age, disease stage, or prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, and patients who have only received adjuvant or neoadjuvant therapy are eligible."
+    }
+  ]
+}

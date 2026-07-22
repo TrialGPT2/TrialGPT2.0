@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02603640",
+  "title": "\" Virtual Brain \"-Based Interpretation of Electrophysiological Signals in Epilepsy",
+  "brief_summary": "Epilepsy is a major neurological disorder, affecting of the order of 0.5 to 1% of the population. It is a very invalidating disease, with high impact on quality of life. In a large proportion of cases, medication cannot prevent seizures; surgical removal of the regions responsible for seizures is then the only way to cure patients. However, results crucially depend on the correct delineation of the epileptogenic zone.\n\nIn this context, computational modeling, under the form of a \"virtual brain\" is a powerful tool to investigate the impact of different configurations of the sources on the measures, in a well-controlled environment.\n\nIn this project, the simulate in a biologically realistic way MEG (Magnetoencephalography) and EEG (Electroencephalography) fields produced by different configurations of brain sources, which will differ in terms of spatial and dynamic characteristics will be offered to participants. The research hypothesis is that computational and biophysical models can bring crucial information to clinically interpret the signals measured by MEG and EEG. In particular, the hypothesis can help to efficiently address some complementary questions faced by epileptologists when analyzing electrophysiological data.\n\nThe strategy will be three-fold:\n\ni) Construct a virtual brain models with both dynamic aspects (reproducing both hyperexcitability and hypersynchronisation alterations observed in the epileptic brain) and a realistic geometry based on actual tractography measures performed in patients ii) Explore the parameter space though large-scale simulations of source configurations, using parallel computing implemented on a computer cluster.\n\niii) Confront the results of these simulations to simultaneous recordings of EEG, MEG and intracerebral EEG (stereotactic EEG, stereoelectroencephalography (SEEG)). The models will be tuned on SEEG signals, and tested versus the surface signals in order to validate the ability of the models to represent real MEG and EEG signals.\n\nThe project constitutes a translational effort from theoretical neuroscience and mathematics towards clinical investigation. A first output of the project will be a database of simulations, which will permit in a given situation to assess the number of configurations that could have given rise to the observed signals in EEG, MEG and SEEG. A second - and major - output of the project will be to give the clinician access to a software platform which will allow for testing possible configurations of hyperexcitable regions in a user-friendly way. Moreover, representative examples will be made available to the community through a website, which will permit its use in future studies aimed at confronting the results of different signal processing methods on the same 'ground truth' data.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Epilepsy patients with planned intracerebral exploration (SEEG)\n* informed patient\n* patient affiliated to French social security\n\nExclusion Criteria:\n\n* Patients under 18\n* Pregnant or breastfeeding women\n* Patients deprived of liberty by legal decision\n* Patients not covered by social security\n* Patients who did not sign informed consent\n* patients who cannot undertake MRI exam",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Epilepsy"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04289506",
+  "title": "Validation of Molecular and Protein Biomarkers in Sepsis",
+  "brief_summary": "Background:\n\nSepsis (blood poisoning) is a clinical syndrome characterised by a dysregulated host response to infection causing life-threatening organ dysfunction which results in admission to an intensive care unit. It typically shows an initial harmful inflammation resulting from the immune system's overreaction to a severe infection. It is a major healthcare problem, affecting millions of people worldwide. In the UK, it kills over 37,000 people/year, costing the NHS \u00a32.5 billion a year, and is increasing in incidence. Despite extensive efforts to tackle this burden, at present, however, there are no specific and effective therapies for this illness.\n\nSepsis is a potentially life-threatening condition caused by a severe infection. When someone develops sepsis, inflammation occurs not just at the site of the infection but throughout the whole body. This widespread inflammation can be very harmful. It is known that similar responses occur in other conditions, not relating to infection.\n\nThe investigators are recruiting patients with severe infections causing organ failure (also known as severe sepsis/ septicaemia and septic shock) and also patients where widespread inflammation, not related to infection, causes organ failure. In this study the investigators hope to find out whether certain groups of genetic and blood based protein markers of sepsis can forewarn the clinicians to this condition and also highlight patients who are responding well to the treatment.\n\nAlthough it is known that the majority of the patients suffering from sepsis will survive their ICU stay and leave the hospital alive, there is insufficient data how these patients do on a longer term, i.e. after some time at home. To date there is little information on the ability of the observed genetic and blood based protein markers to predict the functional status of the patients surviving these conditions.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Inclusion Criteria for community-acquired Sepsis and Septic Shock\n\n  1. Age =\\> 18\n  2. Admission to hospital within 72 hours of symptoms onset and development of clinical signs of sepsis\n  3. Diagnosis of sepsis\n\n     * SEPSIS is defined as a (1) DEFINED FOCUS OF INFECTION AND (2) SOFA\\>2, with at least ONE organ specific SOFA subscore =2.\n\n       1. (1) DEFINED FOCUS OF INFECTION is indicated by either i. An organism grown in blood or sterile site OR ii. An abscess or infected tissue (e.g. pneumonia, peritonitis, urinary tract, vascular line infection, soft tissue, etc).\n       2. (2) The SOFA score criteria are described in the Appendix \\[7\\]\n     * SEPTIC SHOCK is defined as SEPSIS plus the presence of hypotension requiring the use of vasopressors to maintain mean arterial pressure of 65 mmHg or greater and having a serum lactate level greater than 2 mmol/L persisting after adequate fluid resuscitation \\[8\\]\n\nInclusion Criteria for Critically Ill patients without infection\n\n1. Patients admitted to the ICU following out-of hospital cardiac arrest OR Patients admitted to the ICU following major trauma (ISS\\>12) OR Patients admitted to the ICU following pancreatitis\n2. Have multiorgan failure as defined by SOFA\\>2, with at least ONE organ specific SOFA subscore =2.\n3. Patients must not be receiving antibiotics for treatment of known or suspected infection\n4. patient already has or will require arterial cannulation as part of standard treatment\n\nExclusion Criteria:\n\n* 1\\. Patients who are on immune-modulating therapy (e.g., methotrexate, prednisolone \\>5mg/day, or other immunosuppressants) for any length of time within 6 months of index admission 2. Patients with acquired cellular immune deficiency (E.g. active HIV infection or AIDS); 3. Patients with concurrent blood-borne viral infections (E.g. Hepatitis B or C) 4. Patients with any haematological malignancy in their past medical history; 5. Patients who are on chronic haemodialysis; 6. Solid organ transplant recipients; 7. Patients who have biopsy, image or endoscopy proven liver cirrhosis; 8. Patients who are not expected to survive beyond 90 days due to the advancement of their underlying disease.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with organ dysfunction due to infection and no-infectious causes.",
+  "condition": [
+    "Sepsis",
+    "Cardiac Arrest",
+    "Pneumonia",
+    "Abdominal Sepsis",
+    "SIRS"
+  ],
+  "overall_status": "UNKNOWN"
+}

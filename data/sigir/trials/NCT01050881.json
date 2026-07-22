@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01050881",
+  "title": "Notification of Donors With Positive Microbiology Markers",
+  "brief_summary": "Each year around 200 blood donors in the UK are found to be infected with blood-borne diseases (HIV, hepatitis B, hepatitis C, and HTLV), while several others have been identified as having an increased risk of variant Creutzfeldt-Jakob Disease (vCJD). Although the notification procedures for these infections vary, their effectiveness and appropriateness have never been evaluated in a systematic study.\n\nThe proposed research has been designed to assess the responses of blood donors to notification and their satisfaction with how they were informed about the infection. The study will be implemented using standard questionnaire-based measures (French et al, 2004; Marteau \\& Bekker, 1992).\n\nThe study will involve approximately 600 blood donors who were informed of an infection or possible infection with blood-borne diseases in 2008 and 2009, and approximately 100 donors notified of possible risk of vCJD infection in 2005. A comparable group of 2005 donors will be included to control for the effects of time. As the majority of donors testing positive donated to NHS Blood and Transplant (NHSBT), the participants will be identified from the NHSBT database only, and their availability confirmed through their GP or specialist clinician. A standardized questionnaire will be then sent to all those identified as eligible.\n\nThe study will last 12 months, but direct participant involvement will be limited to the time required to complete the questionnaire, which should take under one hour. To safeguard confidentiality, no identifiable personal data will be used in the analysis. Where demographic or medical information already held by NHSBT is retrieved to minimise response burden, this will be pseudonymised before use.\n\nThe study is sponsored by the blood services for England, Wales, Scotland and Northern Ireland. The results will be used to inform notification procedures in the future.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* deferred blood donor status, and\n* deferral due to a positive result of a routine blood test for HIV, or hepatitis B, or hepatitis C, or HTLV, or having been identified as at risk of vCJD; and\n* deferral occured in 2008 or 2009 (2007 for the pilot; 2005 for those at risk of vCJD); and\n* donor registered at one of the NHSBT centres (English Blood Service in England and Wales);\n\nExclusion Criteria:\n\n* not a blood donor; or\n* no record of notification having taken place; or\n* a member of Armed Forces or other profession where contact at the address provided could lead to a breach of confidentiality; or\n* deferred before 2008 (if not in the pilot or notified of increased risk of vCJD);\n* deferred as a result of a non-routine test or syphilis infection only; or\n* donor registered with and notified by the Welsh, Scottish or Northern Irish Blood Services;",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All donors testing positive for microbiology markers in 2008 and 2009, and those identified as at risk of vCJD in 2008.",
+  "condition": [
+    "Human Immunodeficiency Virus",
+    "Hepatitis B",
+    "Hepatitis C",
+    "Human T-lymphotropic Virus I & II",
+    "Creutzfeldt-Jakob Syndrome"
+  ],
+  "overall_status": "COMPLETED"
+}

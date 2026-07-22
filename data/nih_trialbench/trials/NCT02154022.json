@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT02154022",
+  "title": "Collection of Pharmacokinetic Samples From People With Unanticipated Response, Significant Toxicity or Concern of Future Toxicity",
+  "brief_summary": "Background:\n\n\\- Certain drugs - even when they are meant to help people - cause side effects. These are unwanted effects of the drug. There are many reasons why a drug might cause side effects in one person and not in another. It may be because of how much of the drug is in the person s blood at one time. Researchers want to study the blood of people having drug side effects to better understand why they happen.\n\nObjective:\n\n\\- To obtain blood samples from participants being treated with an investigational or FDA approved drug at the NIH who are having or are anticipated to have bad side effects that are thought to be due to large amount of the drug in their blood. The samples will be used to assess the cause of the side effects.\n\nEligibility:\n\n\\- People 2 years and older who are currently enrolled in clinical trials at the NIH Intramural Research Program (IRP).\n\nDesign:\n\n* Participants will give blood samples.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Any individuals greater than or equal to 2 years of age who are currently enrolled in IRB approved NIH Intramural Research Program (IRP) clinical trials are eligible. (Exception: Participants \\<18 years old will not be eligible for probe administration.)\n* Ability of subject or a Legally Authorized Representative (LAR) to understand and the willingness to sign a written informed consent document.\n* Individuals who have received or are anticipated to receive an investigational agent or FDA approved therapy at the NIH who meet one of the following criteria:\n\n  * Individuals in whom altered pharmacokinetics are anticipated to occur based on pharmacogenetics, history of toxicities with similar agents, drug interactions, or other patient-specific factors which may alter absorption, distribution, metabolism, or excretion. OR\n  * Individuals who are exhibiting unusual response or toxicity that is believed to be due to high drug concentration in order to assess the cause of toxicity and adverse events.",
+  "minimum_age": "2 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Any participants greater than or equal to 2 years of age who are currently enrolled in IRB approved NIH Intramural Research Program (IRP) clinical trials are eligible.",
+  "condition": [
+    "Cancer",
+    "Solid Tumors",
+    "Neoplasm"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This is a pharmacokinetic sampling study enrolling participants from any NIH IRP clinical trial who are receiving investigational or FDA-approved drugs and have or are anticipated to have significant toxicity or altered pharmacokinetics. There are no restrictions on prior lines of therapy for advanced disease, and patients at any stage of treatment, including those who have only received adjuvant or neoadjuvant therapy, may be eligible.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes any individuals currently enrolled in NIH IRP clinical trials who are receiving or anticipated to receive investigational or FDA-approved therapy, regardless of prior lines of therapy or disease stage. There is no mention of restrictions based on prior systemic therapy for advanced disease, and adjuvant-only patients are eligible if they meet the toxicity or pharmacokinetic criteria."
+    }
+  ]
+}

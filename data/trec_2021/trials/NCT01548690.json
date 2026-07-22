@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01548690",
+  "title": "Safety Study of Ornithine Phenylacetate to Treat Patients With Acute Liver Failure/Severe Acute Liver Injury",
+  "brief_summary": "This Phase 2a clinical study is designed to provide data on OCR-002 in patients with acute liver failure/acute liver injury (ALF/ALI) in regard to:\n\n* safety and tolerability;\n* metabolism of the compound to glutamine and phenylacetylglutamine (PAGN);\n* its effect on circulating ammonia levels and neurological function in patients with and without impaired renal function after continuous infusion at different infusion rates.\n\nSubjects will receive up to 120 hours (5 days) of drug infusion, followed by a 30 day follow-up visit post infusion. It is anticipated that this early safety and tolerability study, with appropriate PK/PD data, will lead to a development program for the use of OCR-002 in the treatment of hyperammonemia either due to ALF or possibly other liver conditions. The hypotheses are:\n\n* Treatment with OCR-002 is safe and tolerable in patients with acute liver failure/acute liver injury due to acetaminophen overdose or drug-induced liver injury, autoimmune hepatitis, viral hepatitis or indeterminate etiologies.\n* A dose of 10-20g/24h (0.42-.83g/h) will achieve steady state plasma concentrations within 6-12h with little additional accumulation in the ALI/ALF setting.\n* Treatment with OCR-002 will reduce ammonia and improve neurological function in patients with acute liver failure/severe acute liver injury.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Men and women, ages 18-65 (have not reached their 66th birthday).\n2. Acute liver failure, defined as the development of coagulopathy (International normalized ratio \\[INR\\] \u22651.5) with encephalopathy in a patient with no prior history of liver disease, with onset of symptoms within 28 days of the inciting event. Patients may have either a history of acetaminophen overdose (defined as \\>4 g/day within 7 days of presentation) and/or detectable acetaminophen levels in the serum, with a pattern of liver function tests typical for acetaminophen toxicity (bilirubin \\< 10 mg/dL and alanine aminotransferase (ALT) \u22651000 IU/L), or a diagnosis of hepatitis A, hepatitis B, drug-induced liver injury, autoimmune hepatitis or indeterminate cause based on standard criteria.\n3. ALI patients may also be enrolled (those meeting the above criteria plus coagulopathy (INR \u2265 2.0) and no evidence of encephalopathy)\n4. Written informed consent from the patient (ALI) or patient's legally authorized representative or family member if he/she is considered encephalopathic (ALF).\n5. Ammonia level \u226560 \u03bcmol/L at baseline (within 8h prior to T0/initiation of infusion).\n6. Serum creatinine levels as follows:\n\n   1. Cohort 1: Creatinine \u22641.5 mg/dL; and\n   2. Cohort 2: Creatinine \\>1.5 mg/dL and \\<10mg/dL.\n7. Mean arterial pressure of \\>65 mmHg.\n\nExclusion Criteria:\n\n1. History of chronic liver disease.\n2. Signs of overt cerebral herniation, or uncontrolled intracranial hypertension by intracranial pressure (ICP) monitoring (if applicable).\n3. Evidence of Wilson's disease, alcoholic hepatitis, biliary obstruction, ischemic hepatitis, severe acute renal tubular necrosis (ATN) due to shock, or any patient with ongoing hypotension.\n4. Significant gastrointestinal bleeding (coffee grounds per nasogastric tube and/or melena).\n5. Hemodynamic instability, defined by a mean arterial pressure of \\<65 mmHg.\n6. Cardiopulmonary complications such as pulmonary edema, aspiration pneumonia, heart failure.\n7. QT interval of \\>500msec at baseline EKG.\n8. Pregnancy.\n9. History of malignancy that has not been cured or any cancer in remission for less than 1 within the past 5 year. Non-melanoma skin cancers do not preclude participation in the trial.\n10. Concomitant administration of drugs known to interfere with renal excretion of phenylacetylglutamine or those medications that may induce hyperammonemia such as haloperidol, valproic acid and systemic corticosteroids (prohibited during the study). Alternative ammonia modifying agents such as lactulose and rifaximin are not considered standard of care and are prohibited during the study period.\n11. Any other health condition that would preclude participation in the study in the judgment of the principal investigator.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Liver Failure",
+    "Acute Liver Injury"
+  ],
+  "overall_status": "COMPLETED"
+}

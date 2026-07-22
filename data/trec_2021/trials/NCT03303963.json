@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03303963",
+  "title": "DIAgnostics for Multidrug Resistant Tuberculosis in Africa",
+  "brief_summary": "Recent advances in molecular diagnostics of tuberculosis, especially the GeneXpert Mycobacterium tuberculosis/Rifampicin test have reduced the time to diagnose Rifampicin Resistant Tuberculosis (RR-TB) but only rifampicin resistance is diagnosed, leading to presumptive diagnosis of resistance to isoniazid and maybe other drugs. Thus in low and middle income countries, most drug sensitivity testing relies on phenotypic drug resistance testing, which takes up to 4 months. In addition, currently, culture on monthly sputum samples is recommended by the World Health Organization for follow-up of Rifampicin Resistant Tuberculosis patients under treatment. Unfortunately, culture is often not locally available and samples need to be transported from field to culture laboratories. The associated transport delays lead to high rates of contamination and false negative culture, particularly in laboratories in low resource settings. Many gaps for the diagnosis and management of RR-TB patients still need to be addressed and the DIAMA project (DIAgnostics for Multidrug resistant tuberculosis in Africa) study aims to address some of them.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion criteria:\n\n* Being \u2265 15 year old\n* Having a positive test on GeneXpert (M. tuberculosis) with or without resistance detected to rifampicin\n* Willing and able to provide written informed consent, or for minors: assent from and consent from a legal representative\n\nExclusion Criteria: None",
+  "minimum_age": "15 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Two multi center observational studies will be conducted:\n\nStudy 1: Cross sectional study for Tuberculosis(TB) cases aged \u2265 15 (all Rifampicin resistant (RR) ones (new cases or retreatment patients) and equal number of Rifampicin sensitive retreatment patients from the same country) with comparison of TB resistance diagnostic test performance at baseline. There are 2 phases in this project; phase 1 is the comparison of Deeplex results against the phenotypic results and WGS (Gold standard), phase 2 is the comparison of MolBio TrueNat and GeneXpert 2nd generation results against Deeplex and WGS (gold standard).\n\nStudy 2: Cohort study of RR-TB patients (recruited in Study 1) under treatment with comparison of the performance of FDA and GeneXpert compared to solid culture",
+  "condition": [
+    "Tuberculosis, Multidrug-Resistant"
+  ],
+  "overall_status": "COMPLETED"
+}

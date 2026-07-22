@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04603560",
+  "title": "Personalizing Intervention to Reduce Clinical Inertia in the Treatment of Hypertension",
+  "brief_summary": "This is a three-arm pragmatic randomized controlled trial to test two interventions targeting clinical inertia in hypertension compared to control, followed by predictive modeling to identify factors that are associated with intervention responsiveness. Study investigators will use EHR data to identify providers of patients whose hypertension treatment was not intensified. Primary care physicians will then be randomized to one of three arms: pharmacist e-detailing, provider dashboards, or no intervention (control). After the intervention, the investigators will conduct virtual interviews with select providers from each arm. A predictive modeling approach will then be used to identify patient and provider characteristics that are associated with inertia and with responsiveness to each intervention.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Provider Inclusion Criteria:\n\n* Primary care physician\n* Practicing in primary care at Massachusetts General Hospital\n* Caring for at least 2 patients: (1) aged 18-79, (2) for whom the recent BP history in the last 18 months is above goal, (3) whose most recent BP at an outpatient visit was above goal, and (4) who did not have their hypertension treatment regimens intensified (dose increase, new medication, or medication exchange) at or since that time. The BP goal will be \\<140/90 for all patients. To accommodate changes in care delivery that occurred during the COVID surge, outpatient visits will include in-office and virtual visits that had vitals recorded in the EHR the same day.\n\nProvider Exclusion Criteria:\n\n* fewer than 100 patients on their primary care panel\n* practice less than one session per week\n\nPatient Inclusion Criteria:\n\n* had a blood pressure greater than 140/90 mmHg at 2+ PCP visits in the past 12 months\n* treatment was not intensified at any of these visits\n\nPatient Exclusion Criteria:\n\n* excluded from the hypertension registry\n* currently pregnant or post-partum 6 months\n* receiving hospice care",
+  "minimum_age": "18 Years",
+  "maximum_age": "79 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hypertension"
+  ],
+  "overall_status": "COMPLETED"
+}

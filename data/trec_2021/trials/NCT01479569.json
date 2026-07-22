@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01479569",
+  "title": "Pericardiocentesis With Magnetic Resonance Imaging",
+  "brief_summary": "Background:\n\n\\- Pericardiocentesis uses a needle and small tube to drain fluid from space around the heart. The most common reason to perform this procedure is that the fluid is interfering with heart function. This procedure is usually guided by X-rays. However, researchers want to try the procedure using magnetic resonance imaging (MRI) instead of X-rays. MRI guidance may be more precise than X-rays, which can make the procedure easier and more effective.\n\nObjectives:\n\n\\- To test whether MRI guidance can improve pericardiocentesis.\n\nEligibility:\n\n\\- Individuals at least 18 years of age who need to have pericardiocentesis.\n\nDesign:\n\n* Participants will have a physical exam before the procedure. Blood samples will be taken.\n* The pericardiocentesis will be performed using MRI guidance. The procedure may take up to 2 hours.\n* If for some reason the MRI guidance is not successful, participants will have the regular X-ray procedure. The MRI system will be used to take high-quality pictures afterward to check the results....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Adult patients, age greater than or equal to 18\n* Undergoing medically necessary diagnostic or therapeutic pericardiocentesis\n\nEXCLUSION CRITERIA:\n\n* Cardiogenic shock (sustained systolic blood pressure less than or equal to 80 mm Hg despite volume repletion on physical examination or requiring catecholamine support)\n* Women who are pregnant or nursing\n* Unable to undergo magnetic resonance imaging\n\n  * Cardiac pacemaker or implantable defibrillator\n  * Cerebral aneurysm clip\n  * Neural stimulator (e.g. TENS-Unit)\n  * Any type of ear implant\n  * Ocular foreign body (e.g. metal shavings)\n  * Metal shrapnel or bullet.\n  * Any implanted device (e.g. insulin pump, drug infusion device), unless it is labeled safe for MRI\n\nEXCLUSION CRITERIA FOR GADOLINIUM-BASED CONTRAST AGENTS:\n\n* Renal excretory dysfunction, estimated glomerular filtration rate \\< 30 mL/min/1.73M(2) body surface area according to the Modification of Diet in Renal Disease criteria\n* Glomerular filtration rate will be estimated using the MDRD 2005 revised study formula:\n\n  --eGFR (mL/min/1.73M(2))=175x(standardized s(cr)) (-1.154) x (age) (-0.203) x 0.742 (if the subject is female) or x1.212 (if the subject is black)\n* Subjects meeting this exclusion criterion may still be included in the study but may not be exposed to gadolinium-based contrast agents.\n\nRATIONALE FOR SELECTION CRITERIA:\n\n* This is a technical development study with the prospect of direct benefit to individual research subjects. The selection criteria are designed to minimize risk while attaining the scientific objectives of the study.\n* Adult subjects are sought from among patients already undergoing medically necessary pericardiocentesis. Children are excluded from this first proof-of-concept experience to maximize safety; we anticipate a follow-on protocol that includes children.\n* Subjects are excluded if they are not suitable for rapid entry into an interventional MRI environment, so mechanical ventilation and cardiogenic shock are exclusion criteria in this early experience.\n* Subjects with renal excretory dysfunction might be injured by gadolinium exposure and are not exposed to gadolinium-based contrast agents. Pregnant subjects are excluded because of unknown risk and no benefit to a fetus. Magnetic resonance imaging will be used to guide pericardiocentesis, so subjects must be eligible to undergo magnetic resonance imaging safely.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cardiac Magnetic Resonance Imaging"
+  ],
+  "overall_status": "TERMINATED"
+}

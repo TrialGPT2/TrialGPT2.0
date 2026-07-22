@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT04305431",
+  "title": "Dietary Behavior Intervention in African Americans at Risk for Cardiovascular Disease",
+  "brief_summary": "Background:\n\nThe risk of heart disease among African Americans is still common despite a greater understanding of the disease and better approaches to managing it. Healthy cooking and eating patterns can help reduce the risk of heart disease. But things like access to grocery stores and knowledge of good nutrition can affect these healthy patterns. Researchers want to see if community-based programs can help.\n\nObjective:\n\nTo learn about the cooking behaviors of African American adults at risk for heart disease. Also, to see if a community-based cooking intervention will affect home-cooking behaviors.\n\nEligibility:\n\nAfrican American adults 18 and older who live in Wards 7 and 8 of Washington, D.C., and have at least one self-reported risk factor for heart disease\n\nDesign:\n\nPhase I participants will complete a survey. It asks about their medical history, lifestyle, stress level, and eating habits. They will take part in a focus group. During this, they will talk about what they eat and what foods are available to them. Participation lasts 1 day for 3 hours at Pennsylvania Avenue Baptist Church in Washington, D.C.\n\nPhase II participants will go to shared cooking events at Pennsylvania Avenue Baptist Church. These will be held once a week for 6 weeks. They will be led by a trained chef. Participants will visit the NIH Clinical Center 3 times. Transportation will be provided if they need it. They will have physical exams and have blood drawn. They will be interviewed and complete questionnaires. A dietician will review the food they eat. An occupational therapist will assess their cooking skills. They will keep a daily cooking journal. Participation lasts 18 weeks.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "* FIRST PHASE:\n\nA sample of AA adults (n= 20) living in Wards 7 or 8 of Washington, D.C. will be recruited for this phase.\n\nINCLUSION CRITERIA:\n\nEnglish-speaking\n\nSelf-identified AA adults (defined as age greater than or equal to 18)\n\nLive in Wards 7 or 8 in Washington, D.C.\n\nAt least one self-reported risk factor for CV disease known by participant or told to participant by a clinician within the last 12 months. Specific risk factors are:\n\n* overweight or obese (self-reported height and weight compute to BMI if needed greater than or equal to 25)\n* elevated waist to hip ratio\n* elevated cholesterol\n* clinical hypertension or prehypertension\n* prediabetes\n* elevated fasting glucose level on laboratory report\n* current smoker or prior (within the past 12 months) smoker.\n\nEXCLUSION CRITERIA:\n\nUnder the age of 18\n\nDo not live in Wards 7 or 8 in Washington, D.C.\n\nNo risk factors for CVD\n\nOr adults not of AA descent (self-identified)\n\nNon-English speaking\n\nSECOND PHASE:\n\nA sample of AA adults (n= 35) living in Wards 7 or 8 of Washington, D.C. will be recruited for this phase.\n\nINCLUSION CRITERIA:\n\nEnglish-speaking\n\nSelf-identified AA adults (defined as age greater than or equal to 18)\n\nWho live in Wards 7 or 8 in Washington, D.C.\n\nAt least one self-reported risk factor for CV disease known by participant or told to participant by a clinician within the last 12 months. Specific risk factors are:\n\n* overweight or obese (self-reported height and weight compute to BMI if needed \\>= 25)\n* elevated waist to hip ratio\n* elevated cholesterol\n* clinical hypertension or prehypertension\n* prediabetes\n* elevated fasting glucose level on laboratory report\n* current smoker or prior (within the past 12 months) smoker.\n\nNot pregnant at the time of screening and enrollment.\\*\n\nWilling to not attend or enroll in another cooking/culinary education program or class during participation in this study\n\nNot enrolled currently or in the prior 12 months (at time of recruitment) in another ongoing cooking/culinary education program or class\n\nEXCLUSION CRITERIA:\n\nAAs who are not age greater than or equal to 18\n\nAA Adults not living in Wards 7 or 8 in Washington, D.C.\n\nAA Adults living in the same household as another participant\n\nAA adults without at least one risk factor for CVD\n\nOr adults not of AA descent\n\nNon-English speaking\n\nThose enrolled currently or in the prior 12 months at time of recruitment in another ongoing cooking/culinary education program\n\nThose not willing to not attend or enroll in another cooking/culinary education program or class during participation in this study\n\n\\* If individuals become pregnant during their participation, they can continue to participate if they want to. The pregnant participant will not undergo DEXA scanning procedure.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Diet",
+    "Cooking"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a behavioral intervention trial in African American adults at risk for cardiovascular disease, not an oncology trial. There is no systemic therapy for advanced disease involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced disease. Eligibility is based on cardiovascular risk factors and participation in a dietary intervention, not prior lines of cancer therapy."
+    }
+  ]
+}

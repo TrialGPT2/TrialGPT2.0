@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT05153967",
+  "title": "Cooperative Assessment of Late Effects for SCD Curative Therapies",
+  "brief_summary": "Sickle Cell Disease is one of the most common genetic diseases in the United States, occurring in approximately 1 in 400 births. Approximately 100,000 individuals are diagnosed with SCD in the United States. Mortality for children with SCD has decreased substantially over the past 4 decades, with \\>99% of those born in high resource settings, including the United States, France, and England, now surviving to 18 years of age. However, the life expectancy of adults with SCD is severely shortened. Dysfunction of the heart, lung, and kidney is directly associated with decreased life expectancy. With the variety of curative therapies that are now available for SCD, long-term health outcomes studies are time-sensitive. As of now, efforts to determine long-term health outcomes following curative therapies for SCD have been limited. Though curative therapies initially should provide a cure for symptoms of SCD, there is the risk of late health outcomes to consider. Defining health outcomes following curative therapy is essential to improve personalized decision-making when considering curative versus disease-modifying therapeutic options. The primary goal of this study is to determine whether curative therapies for individuals with SCD will result in improved or worsening heart, lung, and kidney damage when compared to individuals with SCD receiving standard therapy. The investigators will also explore whether certain genes are associated with a good or bad outcome after curative therapy for SCD.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria\n\n* Confirmed laboratory diagnosis of SCD\n* Ability to give informed consent\n* Ability to provide pre- and post-curative therapy data\n* Treated with either one HSCT or with standard disease-modifying therapy\n\nExclusion Criteria\n\n•History of non-compliance",
+  "minimum_age": "4 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants will be patient volunteers from the sickle cell disease clinics and transplant centers of participating study sites.",
+  "condition": [
+    "Sickle Cell Disease",
+    "Pulmonary Disease",
+    "Renal Disease",
+    "Heart Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This observational study enrolls patients with sickle cell disease who have received either curative therapy (such as hematopoietic stem cell transplant) or standard disease-modifying therapy. The trial does not specify lines of therapy for advanced/metastatic disease, as it is not an oncology trial and does not address systemic therapy for advanced cancer.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria require a diagnosis of sickle cell disease and treatment with either one hematopoietic stem cell transplant or standard disease-modifying therapy. There is no mention of systemic therapy for advanced/metastatic disease, lines of therapy, or adjuvant/neoadjuvant therapy, as this is not an oncology trial."
+    }
+  ]
+}

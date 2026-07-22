@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03461159",
+  "title": "Operant Conditioning for Neuromodulation",
+  "brief_summary": "Emerging evidence demonstrates that animals and people can exert control over the level of excitability in spinal and corticospinal neural circuits that contribute to movement. This discovery has important implications, as it represents a new strategy to improve motor control in people of all ability levels, including those with neurological conditions. Operant conditioning is a well-studied mechanism of learning, in which the modification of a behavior can be brought about by the consequence of the behavior, and reinforcement causes behaviors to become more frequent. In recent years, operant conditioning has been applied to spinally-mediated reflex responses in mice, rats, monkeys and people. By electrically stimulating a peripheral nerve, recording the muscle response, and rewarding responses that are within a desirable range, it is possible to increase or decrease the neural circuit's excitability. This may alter the level of resting muscle tone and spasticity, as well the muscle's contribution to planned movements and responses to unexpected events. Operant conditioning of spinal reflexes has been applied to a lower limb muscle in healthy people and those with spinal cord injuries. In this project, we will expand the use of operant conditioning to muscles of the upper limb, demonstrating feasibility and efficacy in healthy people and people post-stroke. We will determine whether operant conditioning can be used to decrease excitability of spinal reflexes that activate a wrist flexor muscle. Additionally, in a separate group of healthy people, we will determine whether operant conditioning can be used in a similar way to increase corticospinal excitability. We will stimulate the motor cortex with transcranial magnetic stimulation to elicit motor evoked potentials in the same wrist flexor muscle, and will reward responses that exceed a threshold value. We will examine the effects of these interventions on motor control at the wrist, using an innovative custom-designed cursor-tracking task to quantify movement performance. We will determine whether changes in spinal reflex excitability or corticospinal excitability alter motor control. The overall goal of this research is to develop a new, evidence-based strategy for rehabilitation that will improve recovery of upper limb function in people after stroke.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria for Healthy Group:\n\n* Able and willing to provide informed consent\n* Normal function of both upper extremities\n* Generally in good health\n\nExclusion Criteria for Healthy Group:\n\n* Any self-reported disease or disorder that might affect this study, including neurologic, psychiatric, muscular, orthopedic, cardiac, vascular, pulmonary, hematologic, infectious, immune, gastrointestinal, urogenital, integumentary, oncologic, or endocrine conditions\n* Any self-reported or demonstrated loss of sensation, passive range of motion, or motor function affecting any part of the upper limb on either side\n\nInclusion Criteria for Stroke Group:\n\n* Able and willing to provide informed consent\n* Subcortical ischemic stroke OR incomplete spinal cord injury, diagnosed by a neurologist at least 3 months before enrollment\n* Upper limb sensorimotor impairment on one or both sides, as indicated by a score of 10 to 56 out of 66 points on the Fugl-Meyer Assessment of the Upper Extremity\n* Cognitive ability that is normal or only mildly impaired, as indicated by a score of 9 or less on the Short Blessed Test\n* Normal receptive and expressive language abilities, as indicated by a score of 0 on the Best Language item of the National Institutes of Health Stroke Scale\n\nExclusion Criteria for Stroke Group:\n\n* Any self-reported or medically documented disease or disorder that might affect this study, including other neurologic conditions besides stroke or spinal cord injury, psychiatric, muscular, orthopedic, cardiac, vascular, pulmonary, hematologic, infectious, immune, gastrointestinal, urogenital, integumentary, oncologic, or endocrine conditions\n* Diagnosis of hemorrhagic stroke or hemorrhagic conversion\n* Diagnosis of an infarct affecting the motor cortex",
+  "minimum_age": "21 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke",
+    "Healthy"
+  ],
+  "overall_status": "RECRUITING"
+}

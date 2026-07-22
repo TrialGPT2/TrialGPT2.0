@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04138706",
+  "title": "Initial Vancomycin Taper for the Prevention of Recurrent Clostridium Difficile Infection",
+  "brief_summary": "The first line therapy for an initial episode of CDI (Clostridium difficile infection) is 10-14 days of oral vancomycin which is now recommended over metronidazole in the 2018 guidelines from the Association of Medical Microbiologists and Infectious Diseases of Canada (AMMI). Although response rates for the treatment of a first episode of CDI now approach 90%, approximately 25% of patients who have a complete response will develop recurrence (rCDI) within 8 weeks. Doctors' ability to predict recurrence is evolving, but remains very limited.\n\nThe investigators hypothesize that by extending initial vancomycin therapy with a 2-week tapering regimen this will reduce the risk of rCDI. Starting at the end of the initial 14 days of therapy, participants will be randomized to receive an additional 14-days of placebo or vancomycin taper (125 mg orally twice daily x 7 days followed by 125 mg orally once daily x 7 days). This taper was chosen as it represents two steps of a commonly used 4-week vancomycin taper.\n\nThe investigators' proposal to evaluate the extension of initial treatment from 14 to 28 days with a tapering dose of vancomycin represents a practical clinical trial that capitalizes on oral vancomycin's safety profile, worldwide availability, and relatively low cost.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* All consecutive adult patients (inpatients and outpatients) who have a treated first episode or first recurrence of CDI.\n* CDI will be defined by a positive PCR for toxin gene and/or detection of toxin by EIA or CCA along with three or more episodes of diarrhea within 24 hours\n* Patients with a positive test with less than three bowel movements may be included if they initially presented with ileus or if they had pseudomembranous colitis visualized on colonoscopy\n\nExclusion Criteria:\n\n* Clinical:\n\n  1. Toxic megacolon at presentation not resolved by day 10\n  2. For the current episode of CDI: use of metronidazole monotherapy\\*, fidaxomicin, fecal microbiota transplant or intravenous immunoglobulins\n\n     \\*Participants may be eligible if they are initially treated with metronidazole but switch to oral vancomycin within 3 days (i.e. maximum 3 days of metronidazole monotherapy).\n  3. Previous or current colectomy\n  4. Severe allergy/intolerance to oral vancomycin\n  5. Patient is expected to die within 3 months from another disease or is expected to be admitted to a palliative care unit\n  6. Failure to achieve clinical cure (as above) by day 10\n  7. More than 2 episodes of C. difficile in the last 5 years.\n  8. Documented history of sensorineural hearing loss (other than presbycusis and noise induced hearing loss). The following patients with documented previous subtypes of sensorineural hearing loss will be excluded from the trial: Meni\u00e8re's disease, multiple sclerosis affecting auditory nerves, otic syphilis, viral cochleitis, autoimmune disorders, previous drug induced hearing loss, and otherwise unexplained sudden sensorineural hearing loss (SSNHL)\n  9. Known pregnancy or planning to become pregnant during the study period\n  10. Women who are breast feeding\n* Administrative:\n\n  1. Expected transfer to a palliative care unit or non-study hospital;\n  2. No provincial health insurance\n  3. Previously enrolled\n  4. No reliable means of outpatient contact\n  5. Incompetent without healthcare proxy\n  6. Patient stated inability to come to follow up appointments.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Clostridium Difficile Infection"
+  ],
+  "overall_status": "COMPLETED"
+}

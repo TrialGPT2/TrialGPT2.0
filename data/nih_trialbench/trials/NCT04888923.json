@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04888923",
+  "title": "Natural History of the Human Biological Response to Environmental Exposure and Injury",
+  "brief_summary": "Background:\n\nEnvironmental exposures like pollution, diet, and stress can help cause human diseases, or make them worse. Researchers want to better understand how injury and inflammation are caused by these exposures. They want to collect biological and environmental samples and other data. They may use the samples to measure a range of factors, like hormones, toxins, and chemicals. This will help them improve their studies.\n\nObjective:\n\nTo identify and understand how environmental exposures contribute to human disease.\n\nEligibility:\n\nHealthy adults ages 18 and older\n\nDesign:\n\nParticipants will be screened with questions about their health history, demographics, and medicines they take.\n\nParticipants may give blood, hair, stool, saliva, and/or urine samples. They may have a skin punch biopsy to collect skin cells. They may give fingernail or toenail clippings. They may give a sample of exhaled breath.\n\nParticipants may give a sputum sample. They will inhale a saline mist and cough mucus into a cup.\n\nParticipants may have their nasal passages brushed, scraped, or washed.\n\nParticipants may give cheek cell samples. They will swish mouthwash and spit it into a cup.\n\nParticipants who produce sperm may give samples.\n\nParticipants may have bronchoscopy to collect fluid. A saline solution will be put into their lung and then suctioned out, washing areas of the lung.\n\nParticipants may have a pelvic or transvaginal ultrasound. They may have lung function tests.\n\nParticipants may collect household dust, urine, or stool at home.\n\nParticipants will complete surveys about their health, diet, and exposures.\n\nParticipation will last for one or more study visits.\n\nParticipants may be contacted in the future to take part in other studies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Stated willingness to comply with all study procedures and availability for the duration of the study.\n2. Ability to provide informed consent.\n3. Able to read and speak English.\n4. Male or female, aged greater than or equal to 18.\n5. Able to travel to the NIEHS CRU for study visits.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Not willing to have samples stored for future use.\n2. Current pregnancy or lactation, by participant verbal confirmation.\n3. Any condition that, in the investigator s opinion, places the participant at undue risk for complications associated with required study procedures.",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The general community sample will be from Durham, Raleigh, Chapel Hill and other nearby cities close to the NIEHS Clinical Research Unit (CRU).",
+  "condition": [
+    "Inflammation",
+    "Normal Controls",
+    "Metabolic Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling healthy adults to investigate the biological response to environmental exposures. There is no cancer diagnosis or systemic therapy for advanced disease involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria specify only healthy adults aged 18 and older, with no mention of cancer, systemic therapy, or lines of therapy for advanced disease. This study does not pertain to oncology treatment lines."
+    }
+  ]
+}

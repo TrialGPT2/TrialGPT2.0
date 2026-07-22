@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02063633",
+  "title": "PET With Respiratory Gating Technique in Evaluation of Response and Normal Tissue Effect in Thoracic Cancer",
+  "brief_summary": "Technologic advances in the field of radiation oncology have made in possible to deliver a highly conformal and accurate radiation dose to a target tissue. Accompanying the rapid implementation of these novel techniques is often a reduction in the radiation margins, which reinforces the importance of accurate target delineation, and reduces the side effect of therapy.\n\nF-18 FDG PET/CT is widely used in oncology, including complete whole body staging, restaging and monitoring of tumor response in different types of cancers. As to non-oncology application, inflammation in almost any tissue will result in increased FDG accumulation. However, the normal tissue with sparing radiation may show subtle change, and would be difficult to be detected. FDG PET/CT was limited in the spatial resolution of 5 mm and low FDG-avid disease. To be evaluation of the interval change of metabolic response before and after radiotherapy of thoracic malignancies, we plan to initiate a prospective study trail the takes advantages of recent technical advances of technique in 4-dimensional PET/CT (4-D PET/CT) with respiratory gating system.\n\nRespiratory motion creates artifacts in PET and PET/CT images, and can alter diagnosis. The tumor edge would be blurred due to respiratory movement, and be underestimated the uptake value. Also, semi-quantitative measurement, standard uptake value (SUV), combined with parameters such as the lesion site and shape, which is commonly used to make the final assessment of disease would be mis-estimated.\n\nThe study aims to investigate the correlation of 4-D PET/CT with respiratory gating methods and free breathing PET/CT when processing primary thoracic malignancy and normal tissue effect.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with thoracic cancer who will be scheduled further radiotherapy.\n* Aged 20-80 years old.\n\nExclusion Criteria:\n\n* Pre-existing chronic lung disease, such as COPD, interstitial lung disease, cystic lung disease, et al.\n* Pregnancy.\n* Any medical contraindication of FDG PET study.",
+  "minimum_age": "20 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Thoracic cancer who will be scheduled further radiotherapy",
+  "condition": [
+    "To Correlate RPM Respiratory-gating Methods Analyses, Treatment Response, and Normal Tissue Metabolic Effect.",
+    "Application in Clinical Outcomes and Prediction of Prognosis."
+  ],
+  "overall_status": "UNKNOWN"
+}

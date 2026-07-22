@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03525691",
+  "title": "Enhanced Lung Protective Ventilation With ECCO2R During ARDS",
+  "brief_summary": "Acute Respiratory Distress Syndrome (ARDS) is associated with a mortality rate of 30 - 45 % and required invasive mechanical ventilation (MV) in almost 85 % of patients\\[1\\]. During controlled MV, driving pressure (i.e., the difference between end-inspiratory and end-expiratory airway pressure) depends of both tidal volume and respiratory system compliance. Either excessive tidal volume or reduced lung aeration may increase the driving pressure. ARDS patients receiving tidal volume of 6 ml/kg predicted body weight (PBW) and having a day-1 driving pressure \u2265 14 cmH2O have an increased risk of death in the hospital\\[2\\]. Seemly, in the LUNG SAFE observational cohort, ARDS patients having a day-1 driving pressure \\< 11 cmH2O had the lowest risk of death in the hospital\\[1\\]. Hence, driving pressure acts as a major contributor of mortality in ARDS, and probably reflects excessive regional lung distension resulting in pro-inflammatory and fibrotic biological processes. Whether decreasing the driving pressure by an intervention change mortality remains an hypothesis; but one of means is to decrease the tidal volume from 6 to 4 ml/ kg predicted body weight (PBW). However, this strategy promotes hypercarbia, at constant respiratory rate, by decreasing the alveolar ventilation. In this setting, implementing an extracorporeal CO2 removal (ECCO2R) therapy prevents from hypercarbia. A number of low-flow ECCO2R devices are now available and some of those use renal replacement therapy (RRT) platform. The investigators previously reported that combining a membrane oxygenator (0.65 m\u00b2) within a hemofiltration circuit provides efficacious low flow ECCO2R and blood purification in patients presenting with both ARDS and Acute Kidney injury\\[3\\].\n\nThis study aims to investigate the efficacy of an original ECCO2R system combining a 0.67 m\u00b2 membrane oxygenator (Lilliput 2, SORIN) inserted within a specific circuit (HP-X, BAXTER) and mounted on a RRT monitor (PrismafleX, BAXTER). Such a therapy only aims to provide decarboxylation but not blood purification and has the huge advantage to be potentially implemented in most ICUs without requiring a specific ECCO2R device. The study will consist in three periods:\n\n* The first period will address the efficacy of this original ECCO2R system at tidal volume of 6 and 4 ml/kg PBW using an off-on-off design.\n* The second part will investigate the effect of varying the sweep gas flow (0-2-4-6-8-10 l/min) and the mixture of the sweep gas (Air/O2) on the CO2 removal rate.\n* The third part will compare three ventilatory strategies applied in a crossover design:\n\n  1. Minimal distension: Tidal volume 4 ml/kg PBW and positive end-expiratory pressure (PEEP) based on the ARDSNet PEEP/FiO2 table (ARMA).\n  2. Maximal recruitment: 4 ml/kg PBW and PEEP adjusted to maintain a plateau pressure between 23 - 25 cmH2O.\n  3. Standard: Tidal volume 6 ml/kg and PEEP based on the ARDSNet PEEP/FiO2 table (ARMA).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria:\n\n* ARDS moderate or severe (Berlin criteria)\n* Onset \\< 48 h\n* Driving pressure \u2265 11 cmH2O\n\nExclusion Criteria:\n\n* Lack of consent or social protection\n* Chronic respiratory failure (requiring Oxygen or NIPPV)\n* Severe hypoxemia: PaO2/FIO2 \\< 80 with PEEP \u2265 18 cmH2O AND FIO2= 1\n* Acute Renal Failure requiring RRT\n* DNR order or death expected within the next 72 hours\n* Planned surgery or transport out-of-ICU expected within the next 72 hours\n* Heparin allergy\n* Contraindication to jugular vein catheterization\n* Intracranial Hypertension",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "ARDS, Human",
+    "Ventilator-Induced Lung Injury"
+  ],
+  "overall_status": "TERMINATED"
+}

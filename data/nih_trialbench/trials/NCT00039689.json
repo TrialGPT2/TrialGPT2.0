@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00039689",
+  "title": "Leukapheresis Procedures to Obtain Plasma and Lymphocytes for Research Studies on Antiretroviral Naive HIV-1 Research Participants",
+  "brief_summary": "There is evidence that early and aggressive treatment with antiretroviral drugs can prevent the loss of immune cell function that accompanies HIV infection. This study will use leukapheresis (drawing blood, separating out the white cells and returning the blood to the patient) to obtain blood cells from HIV-infected patients in either the acute or chronic stage of infection who are being treated with early highly active antiretroviral therapy (HAART). Leukapheresis is necessary to obtain enough cells to delineate the response of B cells to CD4+ T cell help, the CD8 factors associated with suppression of viral replication and normalization of immune function, and natural killer function relative to HIV disease.\n\nStudy participants will be adult (older than 18 years) HIV primary or acutely affected patients (those with a history of exposure to HIV but not yet showing chronic symptoms of HIV disease) and HIV chronically infected patients (those infected with HIV for longer than 12 months or showing other symptoms of HIV disease) who are not receiving HAART at the beginning of the study. The study seeks to enroll 30 primary and 30 chronic patients. Pregnant women will not be enrolled in the study; women who become pregnant will be dropped from the study.\n\nLeukapheresis will be performed on each patient before HAART therapy begins and then three times a year. Each session will take between 1 and 3 hours.\n\nThis longitudinal study will enable researchers to examine the function of certain B cells, natural killer cells, and CD8+ T cells in people who do not have chronic HIV disease and in those who do have the disease and are treated with HAART.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Adult (18 years old or older) with HIV-1.\n  2. Adequate venous access for research blood collection.\n  3. Positive HIV antibody immunoassay and a positive confirmatory HIV test (as defined by current CDC criteria). Tests may be done in our clinic or by an outside provider. For individuals with suspected early HIV-1, the following additional criteria may be used: HIV-1 RNA levels of \\>2,000 copies/ml with a negative result from an HIV antibody immunoassay.\n  4. Willingness to be able to make follow up visits at least once in the next 4 months and prior to the initiation of antiretroviral therapy (ART).\n  5. Blood pressure \\< 180/100; pulse rate between 50-100 unless a lower pulse rate is considered normal for the volunteer.\n  6. Adequate blood counts (hemoglobin greater than or equal to 9.0 g/dL, hematocrit greater than or equal to 28 percent, platelets greaterhan or equal to 50,000).\n  7. Willingness and ability to give informed consent including consent for the storage of blood samples and genetic testing.\n  8. Antiretroviral naive, no antiretroviral use in the last six months, or previously enrolled 02-I-0202 participants on whom there are samples stored in the repository.\n\n     1. Participants who acquire HIV-1 while taking ART for pre-exposure prophylaxis will be eligible for enrollment as long as they meet diagnostic criteria for HIV positivity.\n     2. Participants who enroll under another LIR apheresis protocol within the past three months and complete the apheresis within 4 weeks of starting ART will also be eligible for enrollment.\n     3. Participants with limited (no more than 4 weeks before screening visit) recent use of ART may be eligible for study participation if, the opinion of the investigator, the ART usage will not impact the scientific validity of the protocol.\n\nEXCLUSION CRITERIA:\n\n1. Pregnant and / or breastfeeding.\n2. Be currently abusing alcohol or other drugs that potentially could interfere with the participant s compliance or safety.\n3. Have a condition which in the opinion of the investigators would make the participant ineligible for the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants will be recruited from existing cohorts of individuals participating in National Institute of Allergy and Infectious Diseases (NIAID) who meet the Inclusion/Exclusion Criteria. Additional local and regional recruitment may be done using direct mailing to infectious disease physicians, internet ad campaigns, social media outlets, print ads, and from local clinics via the NIAID patient recruitment contract with Matthews Media Group.",
+  "condition": [
+    "HIV"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This study enrolls HIV-1 infected adults who are antiretroviral therapy (ART) naïve or have had minimal prior ART exposure, to collect blood samples before initiation of ART. All participants must not be receiving ART at study entry.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": null,
+      "category": "1L",
+      "line_of_therapy_text": "Eligible participants are antiretroviral naïve, have had no ART in the last six months, or have had only limited (no more than 4 weeks) recent ART use. No prior systemic therapy for advanced HIV is allowed at study entry."
+    }
+  ]
+}

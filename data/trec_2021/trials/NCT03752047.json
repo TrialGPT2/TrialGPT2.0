@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03752047",
+  "title": "Can Respiratory Rate Predict the Risk of Deterioration of Septic Patients",
+  "brief_summary": "The primary objective is to determine if the trend in Respiratory Rate measurements provided by the device under investigation can be used to predict an increase in Sequential/Sepsis-related Organ Failure Assessment (SOFA) score.\n\nThe RR trend will be measured as the difference between the RR recorded by the device at a point 15 minutes after commencement of treatment, as per the standard of care for patients suspected of being septic, and a point 3 hours following this.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion criteria\n\n* \u2265 18 Years\n* Admitted for a minimum of 12 hours\n* Have been diagnosed with sepsis\n\nSepsis diagnosis confirmed by documented or suspected infection (ordering of blood culture or other microbiological investigation by the clinician) and \u22651 of the following presenting within the first 4 hours of admission:\n\n* Fever or hypothermia, Core temperature \\> 38.3 or \\< 36 \u00b0C\n* Heart rate \\> 90/min\n* Respiratory rate \\> 20/min\n* Altered consciousness/mental state, defined as GCS \\< 15\n* Hyperglycemia, (BS \\> 6.7 mmol/L non-diabetic)\n* LKC \\> 12 \\*10\\^9 or \\< 4\\*10\\^9,\n* Normal LKC with \\> 10 % immature cells,\n* CRP \\> highest normal local lab. Interval\n* Hypotension: Systolic BP \\<90 mmHg, or drop in systolic BP \\> 40\n* Hypoxemia: PaO2 \\< 8.5 Kpa or PaO2/FiO2 \\< 40 or tissue perfusion: P-lactate \\> 1.6\n* Creatinine . 177 \u00b5mol/L\n* Acute oliguria (Diuresis per hour ,0.5 ml/kg/t or 45 ml/t in 2 hours)\n* Coagulopathy: Spontaneous INR \\> 1.5, or apt \\> 60 sec, thrombocytopenia\n* Paralytic ileus (absence of bowel sounds)\n* Hyperbilirubinemia \\> 34\u00b5mol/L\n* Are willing to voluntarily sign a statement of informed consent to participate in this investigation\n\nExclusion criteria\n\n* Allergic to medical grade skin adhesive\n* Pregnant women during second and third trimester\n* Continuous long term steroid use. Defined as not using steroids in the 4 weeks previous to enrolment\n* Patients under the influence of substance abuse (drug or alcohol) that may interfere with their ability to cooperate and comply with the investigation procedures\n* Any disorder, including cognitive dysfunction, which would affect the ability to accurately complete questionnaires and freely give full informed consent. This will be determined by the Abbreviated Mental Test Score (AMT) Cannot be followed a second time if admitted again at a later date during the study period",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "For this investigation, the population of interest are patients admitted to the Acute Medical Unit (AMU) with sepsis or that develop sepsis during their admission.",
+  "condition": [
+    "Sepsis"
+  ],
+  "overall_status": "COMPLETED"
+}

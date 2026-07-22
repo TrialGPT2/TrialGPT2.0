@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01903564",
+  "title": "Fetal and Neonatal Magnetophysiology",
+  "brief_summary": "Fetal research and clinical practice has been hampered by a lack of suitable investigational techniques. Currently, ultrasound is the only widely used method of studying fetal anatomy and physiology, but it has significant limitations for assessment of cardiac rhythm. The proposed study will allow us to investigate fetal magnetocardiography (fMCG) as a new tool for the study of normal and abnormal fetal heart rate and rhythm, with a goal of demonstrating probable benefit from use of the device in patients with serious fetal arrhythmia. We propose a study that will last 1-2 years and will provide data to aid in assessing the safety and effectiveness of fMCG for diagnosis and management of patients with abnormal fetal heart rate and rhythm. We hope that the data from the study will support a Humanitarian Device Exemption (HDE) application for the subject device. The safety and efficacy study designs are described below. High-risk subjects will undergo echocardiography as part of their routine clinical management, and our results will be compared to the echocardiography results, as well as with postnatal ECG, when available. (Since many arrhythmias resolve prior to birth, either due to resolution of disease or due to treatment, only a limited number of diseases allow postnatal comparison). For rhythms that persist after birth, the diagnostic utility of fMCG and echocardiography will be assessed by computing the sensitivity (Sn) and specificity (Sp) relative to postnatal ECG for the following prenatal modalities: (i) the fMCG, (ii) the original (referral) echo, (iii) if available, the in-lab echocardiogram at the time of the fMCG study. Secondary endpoints will assess changes in diagnosis and in clinical management due to the additional information provided by fMCG, compared to the information provided by echocardiography alone.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nNormal subjects: normal, healthy adult women with uncomplicated pregnancies\n\nHigh-risk cohort: The primary inclusion criterion is diagnosis of serious fetal arrhythmia, which is defined as sustained low or high heart rate. Low heart rate, or bradycardia, and high heart rate, or tachycardia, are based on normative values for gestation (usually below 110 -120 beats/min, or above 160-180 beats/min). Intermittent bradycardia and tachycardia are also important to detect because these arrhythmias may become incessant over the course of pregnancy and have implications for patient management. Abnormal repolarization, such as long QT syndrome (LQTS), is another important class of arrhythmia. Fetuses with a family history of LQTS or a suspicious rhythm (low heart rate, intermittent AV block, or ventricular tachycardia) will also be studied.\n\nExclusion Criteria:\n\nThe pregnant women subjects must by aged 18 or older. High-risk subjects cannot participate if their physician in consultation with the lead physician of the study does not grant permission for them to participate in the study due to risk of travel or other reason.",
+  "minimum_age": "18 Years",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "We plan to study a total of 180 subjects. Sixty will be pregnant women with uncomplicated pregnancies; 120 will be pregnant women with pregnancies complicated by fetal arrhythmia or a condition that puts the fetus at risk of fetal arrhythmia. We refer to these cases as \"high-risk\" due to the presence of or risk of arrhythmia to the fetus. The pregnant mothers will be age 18 or older. They will be studied as early as 15 weeks' gestation and may be asked to return, if their physician determines that additional fMCG studies are necessary.",
+  "condition": [
+    "Fetal Arrhythmia",
+    "Abnormality in Fetal Heart Rate or Rhythm",
+    "Long QT Syndrome"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01824654",
+  "title": "Enhanced Guidance for Endovascular Repair of Abdominal Aortic Aneurysm",
+  "brief_summary": "An increasing incidence of abdominal aortic aneurysms (AAA) is observed in our ageing population. Since it is less invasive, endovascular repair (EVAR) by stent-graft (SG) insertion is frequently indicated in patients with intermediate and high-operative risk. Patient selection and stent planning for EVAR is done on CT-scans based on specific anatomic criteria. SG are inserted in the catheterization laboratory under digital substraction angiography (DSA) and fluoroscopic guidance. With this technology, no soft-tissue differentiation is available during the intervention and important information are lacking such as thrombus and aneurysm extension close to proximal and distal landing zones. Our team has recently patented a software allowing the extraction of the AAA (lumen and thrombus) from pre-operative CT-scanner. In collaboration with Siemens medical, the investigators have integrated this technology to the Siemens workstation in the catheterization laboratory. The investigators can now import the aortic lumen and thrombus meshes segmented from pre-operative CT-scans and perform a rigid registration with fluoroscopy and DSA data to enhance visualization of soft tissue during EVAR.\n\nOur preliminary results are encouraging in terms of feasibility and visualization. However, the delivery device of the SG and the guidewire used during the intervention are stiff and induce a deformation of aortic lumen and thrombus. This deformation impairs the accuracy of rigid registration. The investigators propose to improve registration accuracy by implementing an elastic deformation of aortic lumen and wall based on the segmentation of endovascular devices (delivery device, guidewires and catheters) inserted during the procedure and by biomechanical modeling.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with a clinical indication for EVAR/FEVAR of AAA and meeting anatomic inclusion criteria on preoperative enhanced CT-scan compatible with an endovascular repair.\n* Willing and capable of providing informed consent\n\nExclusion Criteria:\n\n* Contraindication to endovascular repair\n* Creatinine clearance \\< 30ml/min\n* History of severe allergy to iodinated contrast (anaphylaxis, bronchospasm)\n* Absence of recent previous thin-slice enhanced CT-scanner examination (stent planning based on MRI examination or non-enhanced CT examination).",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Aortic Aneurysm, Abdominal"
+  ],
+  "overall_status": "COMPLETED"
+}

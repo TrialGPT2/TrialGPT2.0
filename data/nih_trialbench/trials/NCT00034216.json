@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT00034216",
+  "title": "Collection of Blood From Patients With Cancer",
+  "brief_summary": "This study will collect blood from patients with cancer to study the level of cells which decrease the immune response (suppressor cells) before and after chemotherapy. Patients 18 years of age and older with cancer may participate. This study does not involve treatment.\n\nParticipants will have about 50 ml (3 tablespoonfuls) of blood drawn. Depending on their condition, patients may be invited to enroll in a clinical research study involving chemotherapy, radiotherapy, or surgery. Additional 40-ml blood samples may be drawn during the course of treatment.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPatients with a known or suspected malignancy and healthy volunteers 18 years of age and older are eligible.\n\nPerformance status of ECOG 0, 1, 2, or 3 for admission to this protocol.\n\nAbility to understand and the willingness to sign a written informed consent document.\n\nINCLUSION FOR APHERESIS:\n\nNote: Effective with Amendment CC, participants will no longer be asked to undergo apheresis. This content is being retained for historical reference.\n\nHemoglobin greater than or equal to 10 mg/dL and platelet count \\> 75,000/mm(3)\n\nWeight greater than 25 kg\n\nHIV negative\n\nProthrombin Time - within normal limits\n\nPartial Thromboplastin Time - within normal limits\n\nMedically indicated central line in place or adequate peripheral venous access\n\nEXCLUSION CRITERIA:\n\nNone.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Primary clinical; healthy volunteers may include NIH employees",
+  "condition": [
+    "Prostate Cancer",
+    "Breast Cancer",
+    "Colon Cancer",
+    "Lung Cancer",
+    "Liver Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-treatment observational study collecting blood from patients with any cancer, regardless of prior therapy. There are no restrictions on prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes all patients with a known or suspected malignancy, with no mention of prior systemic therapy requirements or restrictions. Patients who have received only adjuvant or neoadjuvant therapy, or no therapy at all, are eligible. There are no line-of-therapy limitations."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03025464",
+  "title": "Validation of Sleep Apnea Screening Device Phase II",
+  "brief_summary": "Obstructive sleep apnea (OSA) is the most common type of sleep apnea. The marketplace currently does not have an affordable, easy-to-use, over-the-counter, home-based OSA screening device. An affordable, available, FDA-approved and easy-to-use over-the-counter OSA screening tool would allow greater screening of at-risk individuals, especially in underserved communities with low socioeconomic status, hopefully encouraging a greater proportion of such individuals to seek treatment for their condition. Over the past year, this investigative team has engineered a small screening device (Zerify\u00ae) for OSA and obtained preliminary evidence of its efficacy in a clinical population under a NIMHD-sponsored Phase I STTR award. Phase I Specific Aims 1 and 2 focused on developing a small (1.5 x 2.5 x 0.2 inches) semiconductor sensor that could store sound/motion data, transfer these data to a computer, and detect non-clinical simulated apnea events with a specificity and specificity exceeding 90%. Phase I Specific Aim 3 established the preliminary psychometric performance data of the screening device in a clinical sample of 52 patients (13% African American, 6% Asian, 4% Mixed or Other Race) against gold-standard polysomnography. Phase II proposal aims to optimize the engineered hardware and associated OSA algorithms, create a patient companion app and wireless healthcare provider dashboard, and compare the efficacy of this screening device to the most commonly utilized sleep apnea screener, the home sleep apnea test (HSAT).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "SCREENING",
+  "raw_criteria": "Inclusion Criteria:\n\n* Must be over 18 and referred by medical staff for an assessment for suspected sleep apnea using either a home sleep apnea testing device or in-lab PSG equipment\n\nExclusion Criteria:\n\n* Pregnancy\n* Heart disease including congestive heart failure or a pacemaker\n* Breathing disorder (emphysema or chronic obstructive breathing disorder)\n* Neurological disorder such as Parkinson's Disease\n* Restless leg syndrome or Periodic limb movement\n* Allergies to metal\n* Pre-existing skin conditions where sensor would be attached",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Obstructive Sleep Apnea"
+  ],
+  "overall_status": "TERMINATED"
+}

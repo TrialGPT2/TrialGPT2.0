@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02466828",
+  "title": "qBOLD MRI of Glioblastoma Multiforme for Assessment of Tumor Hypoxia.",
+  "brief_summary": "Glioblastoma multiforme (GBM) is the most common primary malignant brain neoplasm in adults. Despite recent diagnostic and therapeutic advances, including aggressive surgical resection and chemoradiation, the prognosis of GBM has improved only slightly over the past two decades, with median survival of approximately 15 months. Tumor hypoxia is a feature of GBM that contributes to poor outcome through multiple mechanisms such as 1) overexpression of enzymes that play roles in temozolomide resistance, the main chemotherapeutic agent in GBM and 2) increase expression of cancer stem cells which are more resistant to radiation. Hypoxic tumour regions are associated with higher rates of progression and recurrence.\n\nIn this study the investigators will use an advanced MRI technique called qBOLD to non-invasively measure oxygenation in GBM and obtain targeted biopsies. The investigators take advantage of physical characteristics of Ferumoxytol (Feraheme\u00ae) which is an iron supplement, and utilize two recent technical advances not previously used in human tumours to quantitatively measure oxygenation in GBM.\n\nPrior knowledge of hypoxia can assist in prognostication and individualization of treatment planning with special focus on hypoxic regions by targeted radiation dose or regimen modulation; consideration of more intensive chemotherapy regimens; more aggressive and targeted surgical resection and closer short-term clinical and imaging follow-ups.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Adult (\\>18 year old) patients with newly diagnosed GBM presenting to our centre for surgical management and post-operative chemoradiation\n2. Creatinine clearance \\> 60 ml/minute\n3. Able to tolerate an MR scan\n4. Capable of providing informed consent.\n\nExclusion Criteria:\n\n1. Prior brain surgery or radiation\n2. History of liver disease requiring liver MRI (due to accumulation of ferumoxytol in Kupffer cells which can affect liver MRI for up to 3 months)\n3. On more than two antihypertensive medications\n4. History of allergy or adverse reaction to iron supplements\n5. Prior treatment with ferumoxytol\n6. Large (\\>50%) hemorrhagic component in the solid enhancing part of the tumor\n7. Need for emergency craniotomy.\n8. Pregnant patients\n9. Breast feeding\n10. Serum ferritin of \\>800 ng/mL",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Glioblastoma",
+    "Hypoxia"
+  ],
+  "overall_status": "COMPLETED"
+}

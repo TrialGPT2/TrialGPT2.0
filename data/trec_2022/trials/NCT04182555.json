@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04182555",
+  "title": "Identification of Jaundice in Newborns Using Smartphones",
+  "brief_summary": "Neonatal jaundice is a common and most often harmless condition. However, when unrecognized it can be fatal or cause serious brain injury. Three quarters of these deaths are estimated to occur in the poorest regions of the world. The treatment of jaundice, phototherapy, is in most cases easy, low-cost and harmless. The crucial point in reducing the burden of disease is therefore to identify then children at risk. This results in the need for low-cost, reliable and easy-to-use diagnostic tools that can identify newborns with jaundice.\n\nBased on previous research on the bio-optics of jaundiced newborn skin, a prototype of a smartphone application was developed and tested in a pilot study and the application refined.\n\nThis smartphone application will now be evaluated in a clinical trial set in two hospitals in Norway. The smartphone application gives immediate estimates of bilirubin values in newborns, and these estimates will be compared to the bilirubin levels measured in standard blood samples, as well as the results from ordinary transcutaneous measurement devices.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SCREENING",
+  "raw_criteria": "Inclusion Criteria:\n\n* Born in St.Olavs hospital, Trondheim or in Haugesund Hospital, Norway\n* Born with gestational age \\>36+6\n* Birth weight \u2265 2500g and \\<4500g\n* Age 1 - \\<15 days\n* Are having a blood sample performed, as newborn screening or for jaundice assessment\n\nExclusion criteria:\n\nInfants needing intensive treatment. This includes:\n\n* Infants in the need for respiratory support\n* Infants with conditions that could compromise skin circulation, as sepsis, heart failure or other\n* Infants that have received phototherapy",
+  "minimum_age": "1 Day",
+  "maximum_age": "14 Days",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Jaundice, Neonatal",
+    "Hyperbilirubinemia, Neonatal"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,49 @@
+{
+  "nctid": "NCT00032513",
+  "title": "Genetic Studies of Chronic Active Epstein-Barr Disease",
+  "brief_summary": "Epstein-Barr virus (EBV) is a member of the human herpes virus family that infects more than 95 percent of the U.S. population. Most infections occur in childhood and cause no symptoms; in adolescents and adults, EBV often causes infectious mononucleosis. It has also been associated with certain forms of cancer. Chronic Epstein-Barr virus (CAEBV) is a rare disease, primarily of children and young adults, that leads to life-threatening infections.\n\nThis study seeks to identify genetic mutations responsible for CAEBV. A secondary goal is to learn more about the natural history of CAEBV.\n\nThe study will examine blood and tissue samples from up to 50 patients (age 3 and above) with CAEBV and up to 150 of their relatives (age 1 and above). Autopsy samples may be included in the study. Up to 300 anonymous blood samples from the NIH Clinical Center Blood Transfusion Medicine will also be examined for comparison.\n\nNo more than 450 milligrams (30 tablespoons) of blood per 8 weeks will be drawn from adult patients, and no more than 7 milliliters per kilogram of blood per 8 weeks will be drawn from patients under age 18. Local health care providers will refer patients to the study and will obtain the samples. Some patients may also be seen at the NIH Clinical Center. Those patients will have a full medical history and physical examination, along with chest X-ray, blood counts, blood chemistry, EBV serologies, and viral load. Other tests, such as CT scan or MRI, may be performed if medically indicated. Patients will be asked to undergo leukapheresis.\n\nIn vitro tests on the blood or tissue samples will include analysis for proteins or genes that are involved in the immune response; cloning of portions of patient DNA; transformation of B cells with EBV; measurement of the ability of patient blood cells to kill EBV-infected cells; determination of lymphocyte subsets; and determination of antibodies to EBV or other herpes viruses.\n\nIf a genetic cause for CAEBV is found, the investigators will be available to discuss the results with patients in person or by telephone. Genetic indications of risk for other diseases will also be discussed with patients.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* ELIGIBILITY CRITERIA\n\nCAEBV PATIENTS\n\nStudy size: up to 150 patients\n\nSex distribution: male and female\n\nAge range: 1 year old and above\n\nPatients with known or suspected CAEBV and their relatives will be recruited by referrals from health care providers. The rarity of this disease will markedly limit the number of patients available to study; therefore, we will enroll patients who are 1 year of age and older. However, children under the age of 3 years old will be enrolled as samples- only participants and not be evaluated at the Clinical Center.\n\nPatient recruitment is irrespective of racial and ethnic group or sex. NIAID investigators will be available to answer questions and discuss general aspects of CAEBV and identified genes or modifier genes with participants or their providers.\n\nEligibility criteria: To be considered having CAEBV, a patient must have:\n\n1. a severe progressive illness that began as a primary EBV infection, or associated with positive EBV-specific antibody titers (IgG-VCA, ; EA or EBNA) not otherwise explained AND\n2. evidence of major organ involvement such as lymphadenitis, hemophagocytosis, meningoencephalitis, persistent hepatitis, splenomegaly, interstitial pneumonitis, bone marrow hypoplasia, uveitis AND\n3. detection of elevated levels of EBV DNA, RNA or proteins in affected tissues OR elevated levels of EBV DNA in the peripheral blood\n\nExclusion Criteria:\n\n(a) Any other condition that, in the opinion of the investigator, would make the patient unsuitable for enrollment or could interfere with the patient participating in the study.\n\nRELATIVES OF CAEBV PATIENTS:\n\nStudy size: up to 150 relatives of CAEBV patients\n\nAge range: 3 years and above\n\nTo determine the genetic basis for this syndrome, the evaluation of blood, saliva and/or previously obtained tissue specimens from healthy relatives of CAEBV patients will serve as controls. No tissue biopsies will be performed on healthy relatives. We will\n\nperform some of the studies listed on samples from normal relatives.\n\nUNRELATED VOLUNTEERS\n\nStudy size: up to 300 persons\n\nAge range: 18 years and above\n\nPanels of anonymous blood samples will be obtained through NIH Clinical Center Blood Transfusion Medicine to determine if identified genetic changes are mutations or polymorphisms.",
+  "minimum_age": "1 Year",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with known or suspected CAEBV and their relatives will be recruited by referrals from health care providers or self-referrals.@@@@@@",
+  "condition": [
+    "Chronic Active Epstein-Barr Virus"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational genetic study of patients with chronic active Epstein-Barr virus (CAEBV), their relatives, and unrelated controls. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "CAEBV Patients",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they restrict or require any prior lines of therapy. This is a genetic and natural history study, not a treatment trial."
+    },
+    {
+      "cohort_label": "Relatives of CAEBV Patients",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Healthy relatives are enrolled as controls for genetic analysis. There are no requirements or restrictions regarding prior systemic therapy."
+    },
+    {
+      "cohort_label": "Unrelated Volunteers",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Unrelated volunteers provide anonymous blood samples for genetic comparison. Prior therapy history is not relevant or mentioned."
+    }
+  ]
+}

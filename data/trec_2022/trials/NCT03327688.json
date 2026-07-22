@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT03327688",
+  "title": "Point-of-care Ultrasound in Finland",
+  "brief_summary": "This study has two aims.\n\n1. Deep venous thrombosis (DVT) is a common suspected medical condition. If it cannot be excluded clinically and using D-dimer, ultrasound examination is required. An option for traditional radiologist-performed ultrasound is a 2-point compression ultrasound (2-CUS). The safety of this technique is proven. However there does not exist any data on costs comparing traditional and 2-CUS pathways in primary health care. This study will evaluate the total cost of both pathways by conducting a cost-minimization analysis. It will also study the effect of a simple ultrasound education on the referrals to hospital due to suspected DVT.\n\n   Hypothesis 1: Short education in ultrasound will reduce significantly referrals to hospital and save resources.\n2. Length of stay (LOS) in emergency department (ED) is related to increased mortality, morbidity, prolonged hospital stay and probably patient satisfaction. LOS of patients with a point-of-care ultrasound (POCUS) performed by an emergency physician (EP) will be compared to those that have a radiology performed ultrasound examination. Further examination and accuracy of POCUS will be noted.\n\nHypothesis 2: POCUS can shorten LOS significantly in selected clinical conditions",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Emergency department patient\n* A suspected medical condition, that can be confirmed or excluded by basic POCUS exam, including: free fluid in pleura, pericardium or intraperitoneal space, abdominal aorta aneurysm, gallbladder stones, urine retention, deep venous thrombosis in lower limb, pneumothorax, early pregnancy with non-specified location (confirming intrauterine pregnancy), hydronephrosis.\n* Emergency medicine specialist or resident decides to perform a POCUS exam\n\nExclusion Criteria:\n\n* age under 18\n* not able to give informed consent in Finnish",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Deep Vein Thrombosis",
+    "Abdominal Aortic Aneurism",
+    "Pneumothorax",
+    "Gallbladder Diseases",
+    "Hydronephrosis",
+    "Pregnancy, Ectopic",
+    "Ascites",
+    "Pleural Effusion",
+    "Pericardial Effusion"
+  ],
+  "overall_status": "COMPLETED"
+}

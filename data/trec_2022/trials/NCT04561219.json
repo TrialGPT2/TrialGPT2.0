@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04561219",
+  "title": "Nitazoxanide Therapy for Patients With COVID-19 Pneumonia",
+  "brief_summary": "Multicenter, randomized, placebo-controlled, parallel, blinded, interventional, treatment clinical trial with two arms.\n\nPopulation: 500 Hospitalized patients with pneumonia derived from COVID-19 (Coronavirus Disease-19), either confirmed by RT-PCR (Real Time polymerase chain reaction), or suggested by typical findings on the computed tomography scan symptomatic.\n\nExperimental group: nitazoxanide 500mg 8 / 8 hours for 5 days. Control group: placebo 8/8 hours for 5 days.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients requiring supplemental oxygen \\[peripheral oxygen saturation (SpO2) \\< 93%\\], admitted to hospital with COVID-19 symptoms associated with chest computed tomography (CT) scan suggestive of viral pneumonia or positive nasopharyngeal swab test for SARS-CoV2 (RT-PCR)\n* Age equal or superior to 18 years\n* Non-pregnant women\n* Willingness to receive study treatment\n* Providing written and informed consent or the same consent signed by a family member\n\nExclusion Criteria:\n\n* Impossibility to use oral medications\n* History of severe liver disease (Child Pugh C class)\n* Previous renal failure\n* Severe heart failure (NYHA 3 or 4)\n* COPD (GOLD 3 and 4)\n* Neoplasia in the last 5 years\n* Known autoimmune disease\n* Individuals with known hypersensitivity to study drug\n* Previous treatment with the study medication during the last 30 days\n* Clinical suspicion of tuberculosis and bacterial pneumonia",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19",
+    "Corona Virus Infection",
+    "Pneumonia, Viral"
+  ],
+  "overall_status": "COMPLETED"
+}

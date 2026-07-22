@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT01577862",
+  "title": "Colistin and Rifampicin for MDR-Acinetobacter",
+  "brief_summary": "Acinetobacter baumannii causes severe infections (pneumonia, bacteremia, organ space) with high lethality in hospitalised critically ill patients. It can acquire resistance to all classes of antibiotics (multidrug resistance, MDR) except an 'old' drug, colistin, which may be the only therapeutic option. However, colistin is not registered for this indication. The addition of rifampicin to colistin has been shown to be synergistic in vitro, and may be promising in vivo, but this combination has not been studied in comparison with colistin alone.\n\nThe purpose of this randomised, open-label, multicentre clinical trial is to assess whether the association of colistin and rifampicin reduces significantly the mortality of patients with severe MDR A. baumannii infections compared with colistin alone.\n\nThe trial will enroll 210 patients from intensive care units (ICU) of five tertiary care hospitals where MDR A. baumannii infection is endemic with epidemic phases. Patients will be randomly allocated to either colistin alone (control arm) or colistin plus rifampicin (experimental arm).\n\nPrimary end point is overall mortality, defined as death occurring within 30 days from randomisation.\n\nSecondary end points will be disease-specific death, microbiological eradication, hospitalization length, emergence of resistance to colistin during treatment.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* clinical and microbiological evidence of a severe infection due to multi-drug resistant A. baumannii during hospitalization\n* susceptibility of the A. baumannii isolate to colistin (MIC \\< or =2 mg/l).\n\nExclusion Criteria:\n\n* age below 18 years\n* treatment with one of the study drugs prior to the diagnosis of A. baumannii infection\n* severe liver dysfunction\n* history of prior hypersensitivity to the study drugs",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Infection Due to Resistant Bacteria",
+    "Pneumonia, Ventilator-Associated",
+    "Hospital Acquired Pneumonia",
+    "Infection of Bloodstream",
+    "Infectious Disease of Abdomen"
+  ],
+  "overall_status": "COMPLETED"
+}

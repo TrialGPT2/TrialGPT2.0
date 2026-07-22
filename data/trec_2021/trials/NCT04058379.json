@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04058379",
+  "title": "Artificial Intelligence Analysis of Initial Scan Evolution of Traumatic Brain Injured Patient to Predict Neurological Outcome",
+  "brief_summary": "We assume that an early iterative automatic CT scan analysis (D0, D1 and D3) by different AI approaches will allow an early differentiation of the tissues evolution after TBI. Our objective is to couple theses scan profiles to a neurological evolution, measured by therapeutic intensity.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\> or = 18 years old\n* Closed TBI\n* Primary admission in Grenoble University Hospital\n* Initial CT scan with visible cerebral lesion rated at least 3 on abbreviated injury score (AIS)\n* In ICU for an expected length of 48 hours\n* Social security system affiliation\n\nExclusion Criteria:\n\n* Life expectation \\<48 hours\n* In ICU for more than 24h\n* Transferred from another hospital\n* Patients corresponding to articles L1121-5, L1121-6, L1121-7, L1121-8 (under legal protection) of French Public Health Code\n* Patient in exclusion time of another study",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Trauma, Brain"
+  ],
+  "overall_status": "UNKNOWN"
+}

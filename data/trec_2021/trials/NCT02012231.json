@@ -1,0 +1,29 @@
+{
+  "nctid": "NCT02012231",
+  "title": "Phase I/IIa Study to Evaluate the Safety, PK, PD, and Preliminary Efficacy of PLX8394 in Patients With Advanced Cancers.",
+  "brief_summary": "The study objective is to evaluate the safety, pharmacokinetics (PK), and pharmacodynamics (PD) of orally administered PLX8394 in patients with advanced solid tumors. An additional objective is to identify a Recommended Phase 2 (RP2D) for further evaluation in the Extension Cohorts (Phase IIa portion).\n\nThe study objective of the Extension Cohorts (PART 2 portion) is to assess the objective tumor response and the PK, PD, and safety of PLX8394 when the RP2D is used in patients with advanced BRAF-mutated cancers.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \u2265 18 years\n* Measurable disease by RECIST 1.1 criteria (solid tumors)\n* ECOG performance status of 0-2\n* Life expectancy \u2265 3 months\n* Adequate hematologic, hepatic, and renal function:\n\n  1. Solid Tumors - Absolute neutrophil count \u2265 1.5 \u00d7 109/L, Hgb \\> 9 g/dL, platelet count \u2265 100 \u00d7 109/L, AST/ALT \u2264 2.5 \u00d7 ULN, bilirubin \u2264 2, creatinine \u2264 1.5 \u00d7 ULN or calculated CrCl \\>50 mL/min (Cockcroft-Gault formula)\n  2. Hairy Cell Leukemia - Absolute neutrophil count \u2264 1.0 \u00d7 109/L, Hgb \u2264 10.0 g/dL or platelet count \u2264 100 \u00d7 109/L; AST/ALT \u2264 2.5 \u00d7 ULN, bilirubin \u2264 2, creatinine \u2264 1.5 \u00d7 ULN or calculated CrCl \\>50 mL/min (Cockcroft-Gault formula)\n* Women of child-bearing potential must have a negative serum pregnancy test within 14 days of initiating study drug and must agree to use an acceptable method of birth control from the time of the negative pregnancy test up to 6 months after the last dose of study drug. Urine pregnancy testing during the study and in follow-up per country specific requirements. Fertile men must also agree to use an acceptable method of birth control while on study drug and up to 6 months after the last dose of study drug.\n* Completion of previous chemotherapy, immunotherapy, or radiation therapy at least 2 weeks before study drug initiation, with resolution of all associated toxicity (to \u2264 Grade 1 or Baseline)\n* Willingness and ability to provide written informed consent prior to any study-related procedures and to comply with all study requirements\n* Eligibility for medical insurance coverage\n\n  1\\. DOSE-ESCALATION COHORTS\n* advanced solid tumors that are refractory to standard therapy, have no standard therapy, or are considered by the investigator to be inappropriate for standard therapy\n\n  2\\. EXTENSION COHORTS\n* Cancers with a BRAF-activating mutation as assessed by a CLIA-certified method\n\n  a. Melanoma\n* unresectable Stage IIIC or Stage IV disease (sub-cohort 1a: BRAF/MEK/ERK inhibitor na\u00efve, sub-cohort 1b: BRAF/MEK/ERK inhibitor pre-treated) b. Non-melanoma Solid Tumors\n* advanced anaplastic thyroid cancer, advanced papillary thyroid cancer, and advanced solid tumors (e.g., colorectal cancer, non-small cell lung cancer, cholangiocarcinoma, etc) that are refractory to standard therapy, relapsed after standard therapy, have no standard therapy, or are considered by the investigator to be inappropriate for standard therapy c. Hairy Cell Leukemia\n* histologically confirmed classical hairy cell leukemia that failed to achieve CR or PR to initial purine analog-based therapy, relapsed \u2264 2 years after purine analog-based therapy, or a history of intolerance to purine analogs\n\nExclusion Criteria:\n\n* Extension Cohorts (except 1b) - Previous treatment with a selective BRAF/MEK/EKR inhibitor\n* Symptomatic brain metastases. Patients with untreated brain metastasis \u2264 1 cm can be considered eligible if deemed asymptomatic by the investigator upon consultation with the medical monitor and do not require immediate radiation or steroids. Patients with brain metastasis that is treated and stable for 1 month may be considered eligible if they are asymptomatic and on stable dose of steroids or if they do not require steroids following successful local therapy.\n* Investigational drug use within 28 days (or \\< 5 half-lives, whichever is shorter) of the first dose of PLX8394\n* Major surgical procedure, open biopsy (excluding skin cancer resection), or significant traumatic injury within 14 days of initiating study drug (unless the wound has healed) or anticipation of the need for major surgery during the study\n* Uncontrolled intercurrent illness\n* Active secondary malignancy unless the malignancy is not expected to interfere with the evaluation of safety and is approved by the Medical Monitor. Examples of the latter include basal or squamous cell carcinoma of the skin, in-situ carcinoma of the cervix, and isolated elevation of prostate-specific antigen. Patients with a completely treated prior malignancy and no evidence of disease for \u2265 2 years are eligible.\n* Refractory nausea and vomiting, malabsorption, external biliary shunt, or significant bowel resection that would preclude adequate absorption\n* Baseline mean QTcF \u2265 450 ms (males) or \u2265 470 ms (females)\n* Women who are breast-feeding or pregnant\n* Known chronic HIV, HCV, or HBV infection",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Melanoma",
+    "Thyroid Cancer",
+    "Colorectal Cancer",
+    "Non-small Cell Lung Cancer",
+    "Cholangiocarcinoma",
+    "Histiocytosis",
+    "Hairy Cell Leukemia"
+  ],
+  "overall_status": "TERMINATED"
+}

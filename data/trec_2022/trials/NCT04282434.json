@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04282434",
+  "title": "DNA Methylation Dynamics Underlying Arterial Remodeling in PAH Patients: CLEOPAHTRA Clinical Trial",
+  "brief_summary": "To identify epigenetic-sensitive modifications and novel biomarkers linked to pathogenesis of pulmonary arterial hypertension (PAH), we will perform the first study analyzing differentially-methylated regions (DMRs) in circulating T cells (CD04+ and CD08+) isolated from peripheral blood of patients undergoing right heart catheterization. Moreover, we will perform RNA deep sequencing on lung tissue biopsies to validate if DNA methylation signatures in circulating T cells could reflect perturbations of gene expression in lung tissues.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Newly diagnosed patients with World Health Organization (WHO) Group I PAH.\n* \u2265 18 years\n* Documentation of the following hemodynamic parameters by right heart catheterization, performed at time of study enrolment:\n* Mean pulmonary arterial pressure (mPAP) \\> 25 mmHg at rest or mPAP \\> 30 mm Hg with exercise.\n* Pulmonary arterial wedge pressure (PAWP) \u2264 15 mm Hg.\n* Pulmonary vascular resistance (PVR) \u2265 240 dynes.sec.cm-5 (e.g., \u2265 3.0 Wood units)\n\nExclusion Criteria:\n\n* Patients who meet the criteria for inclusion into WHO Groups II, III, IV or V.\n* Do not meet the required hemodynamic criteria for entry into the study.\n* Patients with known history of cancer, malignancy disorders, active infections, and chronic or immune-mediated diseases.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "30 PAH patients (familial and idiopathic) vs 30 sex and age-matched subjects.",
+  "condition": [
+    "Pulmonary Arterial Hypertension",
+    "Pulmonary Arterial Remodeling"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00002971",
+  "title": "O(6)-Benzylguanine in Treating Patients With Malignant Glioma",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.\n\nPURPOSE: Phase I trial to study the effectiveness of O(6)-benzylguanine given before surgery to patients who have malignant glioma.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Must be undergoing a diagnostic/therapeutic craniotomy for biopsy/resection of recurrent or newly diagnosed (or presumed) cerebral anaplastic astrocytoma or glioblastoma multiforme\n\n  * Patients undergoing stereotactic biopsy or partial resection are eligible\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nPerformance status:\n\n* SWOG 0-2 OR\n* Karnofsky 60-100%\n\nHematopoietic:\n\n* WBC at least 3,500/mm3\n* Absolute neutrophil count at least 1,800/mm3\n* Platelet count at least 125,000/mm3\n* Hemoglobin at least 9 g/dL\n\nHepatic:\n\n* Bilirubin less than 1.5 mg/dL\n* SGOT less than 2 times upper limit of normal\n\nRenal:\n\n* Creatinine less than 1.5 mg/dL OR\n* Creatinine clearance greater than 70 mL/min\n\nCardiovascular:\n\n* No cardiovascular illnesses that cannot be adequately controlled with\n* appropriate therapy or would increase risk, e.g.:\n* Severe cardiac disease such as uncontrolled arrhythmias or conduction\n* defects\n* Major problems with edema (e.g., residual leg swelling from deep venous\n* thrombosis)\n* Recent coronary artery disease\n* Poorly controlled hypertension (systolic pressure greater than 180 mm Hg,\n* diastolic pressure greater than 110 mm Hg)\n\nOther:\n\n* No other medical illnesses that cannot be adequately controlled with\n* appropriate therapy or would increase risk, e.g.:\n* Major problems with edema (e.g., Cushing's syndrome)\n* Major psychiatric illness\n* No other malignancy requiring active therapy\n* Not pregnant or nursing\n* Fertile patients must us effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* Must have failed or received no prior treatment with a nitrosourea,\n* procarbazine, or temozolomide\n* No prior O6-benzylguanine\n* At least 4 weeks since prior chemotherapy and recovered\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* At least 6 weeks since prior radiotherapy\n* No prior radiotherapy to greater than 10-20% of bone marrow\n\nOther:\n\n* No concurrent therapy for any other malignancy\n* At least 2 weeks since other prior investigational drug",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Brain and Central Nervous System Tumors"
+  ],
+  "overall_status": "COMPLETED"
+}

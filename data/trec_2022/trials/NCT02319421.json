@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02319421",
+  "title": "Reducing the Risk of Alarm Fatigue Through the Use of Focused Management in Safety Huddles",
+  "brief_summary": "Context: Alarm fatigue is a threat to hospital patient safety. National surveys reveal that high alarm rates interrupt patient care, reduce trust in alarms, and lead clinicians to disable alarms entirely. Safety huddles offer an appropriate forum for reviewing alarm data and identifying patients whose high alarm rates may necessitate safe tailoring of alarm limits.\n\nObjectives: To evaluate the impact of a focused physiologic monitor alarm reduction intervention integrated into safety huddles that involves discussing safe monitor parameter adjustments on the physiologic monitor alarm rates of individual patients with high alarm rates who meet \"low acuity\" criteria.\n\nStudy Design: A prospective, quasi-experimental pilot study of the impact of the huddle intervention on the alarm rates of low acuity high alarm rate individual patients discussed in huddles in the PICU. The huddle intervention will consist of a script to facilitate the discussion of the alarm data.\n\nSetting/Participants: Participants will include all low acuity patients and their providers in the PICU at The Children's Hospital of Philadelphia.\n\nStudy Interventions and Measures: The primary outcome is the rate of crisis and warning alarms per patient day for intervention cases as compared with others in the high alarm / low acuity cohort. Safety measures will include unexpected changes in patient acuity or code blue events within one week of monitor change or discharge.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Eligible primary participants will be the physicians and nurse practitioners caring for the PICU patients who are discussed as part of the huddle interventions. Eligible secondary participants will include all low acuity patients in the PICU at The Children's Hospital of Philadelphia.\n\nInclusion Criteria Primary Subjects: Any physician or nurse practioner caring for an intervention patient or control patient in the PICU at CHOP\n\nSecondary Subjects:\n\n* Low acuity patients as determined by Optilink Guidelines\n* High alarm patients (top 10-20%)\n* Admission to the PICU\n\nExclusion Criteria Primary Subjects: None\n\nSecondary Subjects: Patients who are medically ready for transfer out of ICU or discharge home (status continuously tracked by charge nurse). Patients who are medically ready for transfer out have an accepting service in place and a bed ready on the floor.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Clinical Alarms"
+  ],
+  "overall_status": "COMPLETED"
+}

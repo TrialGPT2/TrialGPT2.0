@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT04968288",
+  "title": "Natural History of KSHV-Associated Multicentric Castleman s Disease",
+  "brief_summary": "Background:\n\nKaposi s sarcoma herpes virus (KSHV) causes several kinds of cancer, Kaposi sarcoma (KS), a form of Multicentric Castleman s Disease (MCD) and a type of lymphoma known as Primary Effusion Lymphoma (PEL). These cancers can occur alone or at the same time in the same patient. MCD can cause a lot of symptoms and problems with various organs in the body, making patients feel quite unwell. If unrecognized, the disease can be fatal. Medications such as rituximab alone or in combination with chemotherapy may help treat MCD but there is little known about the long term effects and the natural course of MCD.\n\nObjective:\n\nTo better understand the biology of KSHV-MCD to help identify how this disease causes illness and how cancer treatments known to be effective in MCD may help patients with this condition. This study also aims to help identify ways to treat the disease by providing other standard cancer treatments that would be useful to use to treat MCD based on what we know about this condition.\n\nEligibility:\n\nPeople 18 years of age and older with KSHV-MCD.\n\nDesign:\n\nParticipants will be screened with:\n\nMedical history\n\nPhysical exam\n\nCT scan\n\nBlood and heart tests\n\nParticipants will have an initial evaluation. This will include:\n\nReview of participants symptoms and ability to perform their normal activities\n\nBlood and urine tests\n\nImaging studies such as CT and PET scans. Participants may have a contrast agent injected into their arm.\n\nPhotographs to document skin lesions\n\nOptional skin biopsy. For this, a small piece of the skin will be removed.\n\nOptional lymph node needle biopsy\n\nOptional samples of the fluid in the space around the lungs, intestines, or heart\n\nOptional sample of the liquid that surrounds the brain and spinal cord\n\nSaliva samples\n\nDEXA scan to examine the bones\n\nQuestionnaires\n\nOptional limb measurements or cognitive tests\n\nPhysicians will give participants recommendations about treatment.\n\nAfter their initial evaluation and any treatment, participants will have additional visits. These will occur every 3 months for the first year, then every 6 months for the second year, and then once a year for up to 1 year.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Biopsy proven KSHV-associated MCD, confirmed in the Laboratory of Pathology (LP), CCR\n* Age \\>=18 years.\n* ECOG performance status \\<=4 (Karnofsky \\>=20%).\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n* Participants may be co-enrolled in other protocols, including investigational studies to treat KSHV-associated malignancies.\n\nEXCLUSION CRITERIA:\n\n* Any condition or set of circumstances that in the opinion of the investigators would make participation in this study unsafe or otherwise inappropriate for a given individual.\n* Pregnancy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "primary clinical",
+  "condition": [
+    "Multicentric Castleman s Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study of KSHV-associated Multicentric Castleman's Disease (MCD) with no restrictions on prior lines of systemic therapy. Patients are eligible regardless of prior treatment history.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "any line",
+      "line_of_therapy_text": "The eligibility criteria do not specify any requirements or restrictions regarding prior lines of systemic therapy for advanced disease. Patients may enroll regardless of their prior treatment history, including those who are treatment-naïve or previously treated."
+    }
+  ]
+}

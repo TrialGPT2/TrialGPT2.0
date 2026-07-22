@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02639390",
+  "title": "Robotic Training for Stroke Neurorehabilitation",
+  "brief_summary": "The overall goal is to further develop a robotic exoskeleton for neurorehabilitation of arm function after stroke. The investigators previously developed a novel training protocol that combined the ARMin and HandSOME exoskeletons. This is one of only a few arm exoskeletons that allow coordinated whole limb training in reach and grasp tasks with both virtual and real objects. However, the robot has a very large inertia and friction, and only gross grasp patterns are available. In development work, the investigators will significantly modify the AMRin and HandSOME to deliver a state-of-the-art lightweight robotic exoskeleton capable of retraining a wide range of functional activities. In the subsequent testing phase, a clinical trial will examine the effects of robotic training in chronic stroke subjects.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 21 or older\n* Ischemic or hemorrhagic stroke (with confirmatory neuroimaging) that occurred more than 6 months before entering the study\n* Presence of voluntary hand activity indicated by a score of at least 1 on the finger mass extension/grasp release item of the Fugl-Meyer Test of Motor Function\n* Adequate cognitive status, as determined by clinical evaluation\n* No upper extremity injury or conditions that limited use prior to the stroke\n\nExclusion Criteria:\n\n* Cannot give informed consent\n* Have clinically significant fluctuations in mental status within a month of enrollment\n* Were not independent prior to the stroke as measured by scores \\<95 on the Barthel Index or \\>1 on the Modified Rankin Scale\n* Have hemispatial neglect as determined by \\>3 errors on the Star Cancellation Test\n* Have severe sensory loss as determined by a score of 2 on the sensory item of the NIHSS\n* Receiving oral or injected antispasticity medications during study treatment\n* Pain that interferes with daily activities\n* History of prior stroke",
+  "minimum_age": "21 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke"
+  ],
+  "overall_status": "TERMINATED"
+}

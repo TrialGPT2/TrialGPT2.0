@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01415921",
+  "title": "Safety Study of Pyridostigmine in Heart Failure",
+  "brief_summary": "Heart failure, a common heart disease affecting nearly 6 million Americans, is associated with high rates of hospitalization and death. Abnormalities in the autonomic nervous system are thought to play an important role in the progression of heart failure. This proposal aims to determine whether novel application of pyridostigmine, a drug currently approved by the FDA only for the treatment of neuromuscular disease, can improve autonomic nervous system function in heart failure patients.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 21-75 years\n* Symptomatic NYHA Class II-III heart failure \\>6 months\n* Left ventricular ejection fraction \\<35%\n* Previous implantation of implantable cardiovertor defibrillator or pacemaker\n* Guideline-recommended heart failure treatment for \\> 3 months\n* Able and willing to provide written informed consent\n\nExclusion Criteria:\n\n* Contraindications to cholinergic stimulation\n* Heart failure primarily attributable to genetic, valvular, infiltrative diseases\n* Persistent atrial fibrillation\n* Sick sinus syndrome\n* Pacemaker dependency during exercise\n* Severe chronotropic incompetence with peak exercise heart rate \\< 100 min-1\n* Severe exercise intolerance (unable to complete first stage of Bruce Protocol)\n* Coronary or cerebral atherothrombotic events within the past year\n* Hospitalization of emergency room visit for heart failure within last 3 months\n* ICD shock in last 6 months\n* Diabetes mellitus with peripheral neuropathy\n* Autonomic or peripheral neuropathy of any cause\n* Systolic blood pressure \\<90 or \\>160 mmHg\n* Resting heart rate \\<60 or \\>100 min-1\n* Serum sodium \\< 132 mmol/L\n* Serum creatinine \\>2.5 mg/dl\n* Liver function tests \\>3 times upper limit of normal\n* Severe anemia (Hemoglobin \\<10 gm/dl)\n* FEV1.0 \\< 60% of predicted or FEV1.0/FVC ratio \\<70%\n* PR interval \\>240 msec or second or third degree heart block on electrocardiogram\n* Exercise limited primarily by angina or non-cardiac co-morbid condition\n* Pregnant or breast-feeding women\n* Current treatment with medications known to interact with pyridostigmine\n* Known intolerance of oral preparations containing bromides\n* Any condition (e.g., psychiatric illness or active substance abuse) or situation that, in the investigator's opinion, may put the subject at significant risk, may confound the study results, or may interfere significantly with the subject's ability to adhere with study procedures.",
+  "minimum_age": "21 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Heart Failure"
+  ],
+  "overall_status": "COMPLETED"
+}

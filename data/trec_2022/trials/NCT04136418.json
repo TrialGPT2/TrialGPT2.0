@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04136418",
+  "title": "Predict&Prevent: Use of a Personalised Early Warning Decision Support System to Predict and Prevent Acute Exacerbations of COPD",
+  "brief_summary": "COPD is a common complex disease with debilitating breathlessness; mortality and reduced quality of life, accelerated by frequent lung attacks (exacerbations). Changes in breathlessness, cough and/or sputum production often change before exacerbations but patients cannot judge the importance of such changes so they remain unreported and untreated. Remote monitoring systems have been developed but none have yet convincingly shown the ability to identify these early changes of an exacerbation and how severe they can be.\n\nThis study asks if a smart digital health intervention (COPDPredict\u2122) can be used by both COPD patients and clinicians to improve self-management, predict lung attacks early, intervene promptly, and avoid hospitalisation.\n\nCOPDPredict\u2122 consists of a patient-facing App and clinician-facing smart early warning decision support system. It collects and processes information to determine a patient's health through a combination of wellbeing scores, lung function and biomarker measurements. This information is combined to generate personalised lung health profiles. As each patient is monitored over time, the system detects changes from an individual's 'usual health' and indicates the likelihood of imminent exacerbation of COPD. When this happens, alerts are sent to both the individual and the clinician, with instructions to the patient on what actions to take. Any advice from clinicians can be exchanged via the App's secure messaging facility. If patients have followed the action plan but fail to improve or if an episode triggers an 'at high risk alert', clinicians are further prompted to case manage and intervene with escalated treatment, including home visits, if necessary.\n\nThe COPDPredict\u2122 intervention aims to assist patients and clinicians in preventing clinical deterioration from COPD exacerbations with prompt appropriate intervention.\n\nThis study will randomise 384 patients who have frequent exacerbations, from hospitals in the West Midlands, to either (1) standard self-management plan (SSMP) with rescue medication (RM), or (2) COPDPredict\u2122 and RM.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinically diagnosed chronic obstructive pulmonary disease (COPD), confirmed by post-bronchodilator spirometry and defined as a ratio of Forced Expiratory VolumeFEV1 to Forced Vital Capacity \\<0.7 and \\<lower limit of normal for age post bronchodilator use\n* \u22652 Acute Exacerbations of COPD (AECOPD) in the previous 12 months according to the patient and/or \u22651 hospital admission for AECOPD\n* Exacerbation free for at least 6 weeks\n* An age of at least 18 years\n* Willing and able to comply with the data collection process out to 12 months from randomisation\n* Ability to consent\n* Ability to use intervention as judged by the investigator at screening, upon demonstration of the system to the patient\n\nExclusion Criteria:\n\n* Life expectancy \\< 12 months\n* Patients with active infection, unstable co-morbidities at enrolment or very severe comorbidities such as grade IV heart failure, renal failure on haemodialysis or active neoplasia or significant cognitive impairment;",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chronic Obstructive Pulmonary Disease"
+  ],
+  "overall_status": "UNKNOWN"
+}

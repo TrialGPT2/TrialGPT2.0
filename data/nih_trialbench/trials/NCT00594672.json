@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00594672",
+  "title": "Age-Related Eye Disease Study (AREDS) Follow-Up",
+  "brief_summary": "This study is a 5-year extension of the AREDS protocol, in which investigators followed the natural course of age-related macular degeneration (AMD) and cataracts. Participants in the former AREDS protocol are eligible for this study.\n\nParticipants have a complete eye examination once a year and are contacted at least once a year between visits to check on their status. The eye examination includes measurement of visual acuity (vision chart test) and examination of the inside of the eye after the pupils have been dilated with eye drops. Photographs of the inside of the eye may be taken using a special camera that flashes a bright light in the eye. A blood sample may be obtained to test for cholesterol level and genes related to inflammation.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nParticipants will be eligible if they:\n\n* Were enrolled in the AREDS or AREDS2 protocol and successfully completed the final AREDS or AREDS2 follow-up visit.\n* Can understand and provide informed consent.\n\nEXCLUSION CRITERIA:\n\nParticipants will not be eligible if they:\n\n* Are under the age of 50.\n* Are not able to return to NIH for examination for the duration of the trial.\n* Have any systemic diseases that compromise the ability to provide adequate ophthalmologic examination.",
+  "minimum_age": "50 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants who were enrolled in the AREDS or AREDS2 protocol and successfully completed the final AREDS or AREDS2 follow-up visit.",
+  "condition": [
+    "Age-Related Macular Degeneration",
+    "Cataract"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a long-term observational follow-up study of participants from the original AREDS and AREDS2 trials, with no intervention or systemic therapy for advanced disease. Line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This is an observational study enrolling participants from previous AREDS/AREDS2 trials, with no mention of systemic therapy for advanced disease. There are no requirements or restrictions regarding prior lines of therapy."
+    }
+  ]
+}

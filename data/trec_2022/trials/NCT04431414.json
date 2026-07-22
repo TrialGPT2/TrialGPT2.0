@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04431414",
+  "title": "A Study of Immune Responses to the Virus That Causes COVID-19",
+  "brief_summary": "The purpose of this study is to learn more about the acute response to infection with and recovery from the virus called severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Some people know this virus by the name \"coronavirus.\" It can cause the disease called COVID-19.\n\nThe information gained from the study can be used to help develop better tests for SARS-CoV-2 infection and COVID-19 disease and may help in developing future vaccines, other prevention strategies, and treatments.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 18 years or older.\n* Test result indicating presence of SARS-CoV-2 virus. Sites must have results from assays that are approved as FDA-emergency use authorized or as standard-of-care by other applicable regional governing bodies. For timing of testing, please see group specific criteria below.\n* Ability and willingness to provide informed consent.\n* Willingness to have clinical research staff come to place of residence or hospital if needed.\n* Willingness to be followed for the planned duration of the study.\n* Assessment of understanding: volunteer demonstrates understanding of this study.\n* Agreement to allow access to medical records.\n* Asymptomatic participants:\n\n  * No current symptoms.\n  * No symptoms consistent with COVID-19 within 2 weeks prior to positive test according to the clinical judgement of the investigating clinician. Symptoms include, but are not limited to, fever, headache, sore throat, cough, dyspnea, rhinorrhea, diarrhea, myalgias, chills, and anosmia. Please refer to https://www.cdc.gov/coronavirus/2019-ncov/symptomstesting/symptoms.html for the current list of symptoms consistent with COVID-19.\n  * Positive SARS-CoV-2 RNA test or antigen test within six days prior to enrollment (target time) up to 10 days prior to enrollment (upper allowable window).\n* Symptomatic (non-hospitalized) participants:\n\n  * Onset of mild symptoms consistent with COVID-19 within 6 days prior to enrollment (target time) up to 14 days prior to enrollment (upper allowable window). Symptoms of COVID-19 to be determined by the clinical judgement of the investigating clinician including-- but not limited to-- fever, headache, sore throat, cough, dyspnea, rhinorrhea, diarrhea myalgias, chills, and anosmia. Please refer to https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html for the current list of symptoms consistent with COVID-19.\n  * Positive SARS-CoV-2 RNA test or antigen test within six days prior to enrollment (target time) up to 10 days prior to enrollment (upper allowable window).\n* Symptomatic (hospitalized) participants\n\n  * Participant hospitalized for COVID-19 within 3 days prior to enrollment (note: there is no timeframe for either symptom onset or timing of SARS-CoV-2 PCR or antigen testing for hospitalized participants)\n\nExclusion Criteria:\n\n* Any medical, psychiatric, occupational, or other condition that, in the judgment of the investigator, would interfere with, or serve as a contraindication to, protocol adherence or a volunteer's ability to give informed consent.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants who have tested positive for SARSCoV-2 virus by RT-PCR or antigen testing.",
+  "condition": [
+    "SARS-CoV-2",
+    "COVID-19"
+  ],
+  "overall_status": "COMPLETED"
+}

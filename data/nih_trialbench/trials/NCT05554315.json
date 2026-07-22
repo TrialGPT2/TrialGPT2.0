@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT05554315",
+  "title": "Speckle Plethysmography Pulse Transit Time as a Marker of Blood Pressure Changes",
+  "brief_summary": "Background:\n\nBlood pressure is one of the key markers of cardiovascular health. High blood pressure, also called hypertension, can increase the risk of heart disease or stroke. Monitoring a person s blood pressure continuously over a 24-hour period at home is the best way to diagnose hypertension, but the equipment currently used to do it is cumbersome. This natural history study will test a new technique for monitoring blood pressure continuously over time.\n\nObjective:\n\nTo test a new technique (speckle plethysmography) for measuring blood pressure in healthy adults.\n\nEligibility:\n\nHealthy people aged 18 years and older.\n\nDesign:\n\nParticipants will come to the clinic a minimum of 2 times.\n\nThe screening visit will last up to 2 hours. Participants will have a physical exam. Their vital signs will be taken.\n\nThe clinical visit will last up to 1 hour. Participants will recline in a chair. Sensors to measure the activity of the heart will be placed on their chest. Different sensors will be placed on two fingers and one big toe. A device to measure blood pressure will be placed on one arm.\n\nWhile wearing the sensors, participants will undergo 3 tests:\n\nThey will be asked to breathe slowly for 2 minutes.\n\nThey will be asked to solve a math problem.\n\nThey will immerse one hand or foot into an ice bath for up to 2 minutes.\n\nEach test will be followed by a 5-minute recovery period.\n\nParticipants may elect to return for up to 3 more visits during the following week.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Male or female, aged 18 or greater.\n* In good general health as evidenced by medical history and physical.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Any active cardiovascular or pulmonary disorders or use of vasoactive medications.\n* History of aneurysm or stroke.\n* Pregnant by history.\n* History of fainting or seizures.\n* An open cut, sore, or bone fracture on or near the hands or feet.\n* Known retinopathy, intraocular lens implantation, or glaucoma.\n* Any other condition that in the opinion of the investigator would place the participant at unacceptable risk.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Male or female, aged 18 or greater in good general health as evidenced by medical history",
+  "condition": [
+    "Blood Pressure"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-oncology, natural history study enrolling healthy adults with no mention of cancer or systemic therapy. There is no line-of-therapy intent relevant to advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls healthy adults without cancer or prior systemic therapy; line-of-therapy for advanced disease is not applicable."
+    }
+  ]
+}

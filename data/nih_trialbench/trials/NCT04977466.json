@@ -1,0 +1,57 @@
+{
+  "nctid": "NCT04977466",
+  "title": "NIH Intramural Research Program s Pregnancy Registry Protocol for Subjects and Their Partners",
+  "brief_summary": "Background:\n\nIn 2018, the NIH intramural research program had almost 23,000 people taking part in active clinical research studies. Half of those people were female. More than a third were of child-bearing age. Researchers want to use data from this group to create a pregnancy registry. It will be used to collect data about pregnancy and birth outcomes related to unplanned exposure to research products. These products may include drugs, vaccines, treatments, and interventions.\n\nObjective:\n\nTo collect data about pregnancies and births from people who took part in an NIH clinical trial and their partners who became pregnant while in the study or shortly after.\n\nEligibility:\n\nPeople of any age and their partners who took part in an NIH clinical trial and became pregnant while in the study or within 1 year after.\n\nDesign:\n\nParticipants will be screened by phone. Their clinical trial history will be verified.\n\nParticipants will be interviewed in person, by phone, or virtually. They will be asked about their health and their trial experience in relation to their pregnancy. They will give details about their pregnancy and baby (if appliable). They will be interviewed every 6 months for 1 year after the birth of their baby, as applicable.\n\nData from both NIH and outside medical records will be used. Participants will give their doctor s name and contact details. They will provide a release for their records to be used. If needed, they will provide a release for their baby s records.\n\nData will be coded and stored in a database on an in-house NIH secure server. Data may be used in future studies",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* All Participants\n\n  * Able and willing to provide written informed consent for study participation.\n  * Stated willingness to comply with all data collection study activities\n  * Male or female, aged 0-100 years\n  * Participant or partner of a participant on NIH protocol\n* Group #1 (Pregnant Female NIH Participants)\n\nFemale NIH study participants with a confirmed pregnancy that occurred during or within 1 year after the last day of intervention during participation in NIH intramural clinical trials AND that meet at least one of the following criteria/assessments:\n\n* Positive pregnancy test (serum or urine)\n* Auscultation of fetal heart tones\n* Clinical assessment of fetal movement\n* Demonstration of pregnancy by ultrasound\n\n  * Group #2 (Male and Female Partners)\n\nMale or female partners of women who participated in NIH intramural clinical trials and that became pregnant while they were on study or within 1 year of the last day of intervention.\n\n-Group #3 (Pregnant Female Partners of Male or Female NIH Clinical Trial Participants)\n\nFemale partners of NIH intramural clinical trial participants who became pregnant while their partner was or within 1 year after the last day of intervention after their partner was on a study AND who meet at least one of the following criteria/assessments:\n\n* Positive pregnancy test (serum or urine)\n* Auscultation of fetal heart tones\n* Clinical assessment of fetal movement\n* Demonstration of pregnancy by ultrasound\n\n  * Group #4 (Neonate or Offspring of a Pregnant Female Participant or Pregnant Female Partner)\n\nOffspring from birth to 12 months of age and born to:\n\n* Females who participated in an NIH intramural clinical trial and became pregnant while on study or within 1 year after.\n* Female partners of women or men who participated in an NIH intramural clinical trial who became pregnant while they were on study or within 1 year after.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Participation in NIH research studies that do not meet criteria of a clinical trial, such as natural history or observational studies\n* Pregnancy that occurs/occurred more than 1 year after NIH clinical trial participation",
+  "minimum_age": "1 Day",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants of NIH IRP protocols.",
+  "condition": [
+    "Pregnancy Outcome"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This is a pregnancy registry enrolling participants or their partners who became pregnant during or within 1 year after participation in any NIH clinical trial, regardless of cancer diagnosis or treatment history. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Group #1 (Pregnant Female NIH Participants)",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on pregnancy during or within 1 year after participation in any NIH clinical trial, with no mention of cancer, advanced disease, or prior systemic therapy. No line-of-therapy restrictions are specified."
+    },
+    {
+      "cohort_label": "Group #2 (Male and Female Partners)",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This group includes partners of NIH clinical trial participants who became pregnant during or within 1 year after the participant's study intervention. There are no requirements regarding cancer diagnosis or prior systemic therapy."
+    },
+    {
+      "cohort_label": "Group #3 (Pregnant Female Partners of Male or Female NIH Clinical Trial Participants)",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This group includes female partners of NIH clinical trial participants who became pregnant during or within 1 year after the participant's study intervention. No line-of-therapy or cancer-specific criteria are described."
+    },
+    {
+      "cohort_label": "Group #4 (Neonate or Offspring of a Pregnant Female Participant or Pregnant Female Partner)",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This group includes neonates or offspring born to eligible pregnant participants or partners. There are no requirements regarding cancer or prior systemic therapy."
+    }
+  ]
+}

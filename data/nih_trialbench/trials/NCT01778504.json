@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT01778504",
+  "title": "Studying Childhood-onset Behavioral, Psychiatric, and Developmental Disorders",
+  "brief_summary": "Background:\n\n\\- Many psychiatric, behavioral, and developmental disorders are genetic. This means that they tend to run in families. Some begin in childhood, while others do not appear until adulthood. Researchers want to look at people of all ages who have these disorders that started in childhood. They will also look at relatives of people with these disorders. This information will allow doctors to learn more about childhood behavioral problems and how they are inherited. It may also help doctors treat those disorders.\n\nObjectives:\n\n\\- To study the onset and treatment of childhood behavioral, psychiatric, and developmental disorders.\n\nEligibility:\n\n* Individuals of any age who have a psychiatric, autism spectrum, or developmental disorder, or other behavioral problems.\n* Family members of individuals with the above disorders. This group may include parents, grandparents, siblings, aunts/uncles, cousins, and children.\n\nDesign:\n\n\\- Participants will be screened with a medical history and physical exam. They may have a psychiatric history with tests of thinking, judgment, and behavior. Brain imaging scans may be performed to look at brain function.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nParticipants will be eligible if they:\n\n1. Are aged birth to 99 years\n2. Have a diagnosed or undiagnosed neuropsychiatric disorder, neurodevelopmental disability or abnormal behaviors.\n3. Have the ability to understand and sign an informed consent on behalf of themselves or their minor children, or have a legal guardian (or designated DPA).\n4. Are under the care of a primary physician.\n\nEXCLUSION CRITERIA:\n\nParticipants will not be eligible if they:\n\n* Are unwilling or unable to be evaluated and followed as clinically indicated. Examples might include children with severe behavioral problems who refuse physical examination.\n* The participant does not have a primary healthcare provider.",
+  "minimum_age": "1 Day",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Up to 1000 people with psychiatric, behavioral, or developmental disorders will be enrolled in this study.",
+  "condition": [
+    "Neuropsychiatric Disorder",
+    "Neurological Disorder",
+    "Neurodevelopmental Disorder",
+    "Sleep"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of individuals with childhood-onset behavioral, psychiatric, and developmental disorders, as well as their family members. There is no systemic therapy for advanced disease specified or required for eligibility.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention any requirement or restriction regarding prior systemic therapy for advanced disease. The study includes individuals with neuropsychiatric or neurodevelopmental disorders and their relatives, with no reference to cancer therapy or lines of treatment."
+    }
+  ]
+}

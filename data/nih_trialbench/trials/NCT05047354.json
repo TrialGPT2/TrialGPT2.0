@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT05047354",
+  "title": "Biochemical and Phenotypical Aspects of Smith-Lemli-Opitz Syndrome and Related Disorders of Cholesterol Metabolism",
+  "brief_summary": "Background:\n\nSmith-Lemli-Opitz Syndrome (SLOS) is a genetic disorder. It can cause birth defects and developmental delays. There is no cure for SLOS or other inherited diseases related to cholesterol production or storage. The data gained in this study may help researchers find ways to measure how well future treatments work.\n\nObjective:\n\nTo learn more about SLOS and related disorders and how these diseases affect participants and relatives.\n\nEligibility:\n\nPeople of any age who have or are suspected to have SLOS or another inherited disease related to cholesterol production or storage. Relatives are also needed.\n\nDesign:\n\nParticipants will be screened with a medical record review.\n\nParticipants will have visits every 6 to 12 months. They will have a physical exam. They will fill out a survey about their medical and behavioral history. They may have an eye exam. They may have a neurodevelopmental assessment. They may have a hearing test. Their outer and middle ears may be examined. Their ability to speak, understand speech, eat, and swallow may be assessed. They may get X-rays while they chew and swallow. Their functional ability and needs for adaptive devices or braces may be assessed. They may have a lumbar puncture. Photographs may be taken of their face and body.\n\nParticipants who cannot visit the NIH and relatives will have a virtual visit once a year. They will talk about their medical history and symptoms. They give blood, urine, and skin samples at a lab near their home. They will fill out a survey about their medical and behavioral history.\n\nParticipation will last for several years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nMales or females of any age with any one of the following:\n\n* Clinical, biochemical, or genetic diagnosis of Smith-Lemli-Opitz Syndrome OR\n* Clinical, biochemical, or genetic diagnosis of desmosterolosis, lathosterolosis, CHILD syndrome, X-linked dominant chondrodysplasia type2 or another inborn error of cholesterol synthesis OR\n* Clinical suspicion of an inborn error of cholesterol synthesis, metabolism or impaired cholesterol homeostasis. Clinical observations may include, but are not limited to lipid-laden macrophages, abnormal LDL, HDL, total cholesterol, triglycerides, abnormal lipid\n\nelectrophoresis, lipid storage in other tissues. OR\n\n-Biologic parents of affected individuals or known carriers based on previously done genetic testing who are willing and able to provide samples of any or all of the following: blood, urine, a skin biopsy, and/or tissue derived from clinically indicated surgery or autopsy.\n\nEXCLUSION CRITERIA:\n\n* Affected individuals who cannot travel to the NIH because of their medical condition will be excluded from on-site participation. They may participate in the telemedicine or in the biomaterials parts of the study.\n* Affected individuals who, in the opinion of the investigator, are unable to comply with the protocol or have medical conditions that would potentially increase the risk of participation will be excluded from on-site participation. They may participate in the telemedicine or in the\n\nbiomaterials parts of the study.\n\n* Carrier adults who are unable to or unwilling to provide any of the following samples: Blood, urine, skin biopsy sample or tissue derived from clinically indicated surgery or skin biopsy.\n* Female participants who are pregnant will be excluded from evaluations requiring sedation, radiation and LP. Total blood draw volumes will be kept at a minimum or if anemia of pregnancy is known, no blood will be taken for research testing.",
+  "minimum_age": "1 Day",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Male or female of any age with disorder of cholesterol metabolism. No geographic restrictions.",
+  "condition": [
+    "Smith Lemli Opitz Syndrome",
+    "CHILD Syndrome",
+    "Lathosterolosis",
+    "Desmosterolosis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational study enrolling patients with Smith-Lemli-Opitz Syndrome and related cholesterol metabolism disorders, regardless of prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, and there are no restrictions or requirements regarding previous treatments. This is an observational study including all patients with the relevant diagnoses, regardless of treatment history."
+    }
+  ]
+}

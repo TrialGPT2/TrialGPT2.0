@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT00542503",
+  "title": "Using Magnetic Resonance Imaging to Predict People Who Are Likely to Develop Flash Pulmonary Edema (The PREDICT Study)",
+  "brief_summary": "Flash pulmonary edema is a sudden, abnormal build-up of fluid in the lungs. It is usually caused by heart failure and can be life threatening. The purpose of this study is to determine if a new form of magnetic resonance imaging (MRI) can identify abnormal blood flow to the lungs and predict increased risk of developing flash pulmonary edema among older adults.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Participants must be diagnosed with one of the following conditions:\n\n  1. Diabetes with a fasting glucose level greater than or equal to 126 mg/dl and has been receiving treatment for more than 5 years\n  2. High blood pressure with a history of a systolic blood pressure level greater than 140 mm Hg and a diastolic blood pressure level greater than 85 mm Hg while on medication\n  3. Coronary artery disease\n\nExclusion Criteria:\n\n* Prior heart attack encompassing greater than 5% of the left ventricular mass (total MB greater than 3 or Troponin I greater than 2)\n* Heart attack, acute coronary syndrome (ACS), or angina within the 1 year prior to study entry\n* Medical inability to use any cardiovascular magnetic resonance device (e.g., implanted electronic devices, intracranial metal, claustrophobia, closed angle glaucoma)\n* Medically unable to receive dobutamine\n* 3-vessel or left main coronary artery disease\n* Moderate to severe valvular heart disease\n* Left ventricular ejection fraction (LVEF) less than 25%\n* History of pulmonary edema\n* Serum creatinine level greater than 2.4 mg/dL or estimated glomerular filtration rate (eGFR) less than 30 mL/min\n* Use of an investigational drug or device within the 30 days prior to study entry\n* Diagnosed with any systemic disease, including cancer, with a reduced life expectancy of less than 12 months\n* Chronic atrial fibrillation",
+  "minimum_age": "55 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "People with diabetes, high blood pressure, or coronary artery disease",
+  "condition": [
+    "Heart Failure, Congestive"
+  ],
+  "overall_status": "COMPLETED"
+}

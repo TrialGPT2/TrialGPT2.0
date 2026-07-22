@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03642418",
+  "title": "User-Friendly Spirometer and Mobile App for Self-Management and Home Monitoring of Asthma Patients",
+  "brief_summary": "The primary goal of this proposal is to use an in-home, smartphone-enabled, hand-held spirometer to determine the FEV1% predicted ranges that predict the Yellow Zone threshold.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Physician-diagnosed mild or moderate persistent asthma\n2. On controller therapy \\[inhaled corticosteroid (ICS), ICS + leukotriene receptor antagonist (LTRA), or ICS + long-acting beta agonist (LABA)\\] for at least the previous six months\n3. At least one severe exacerbation requiring systemic corticosteroids in the previous year\n4. Baseline FEV1 \\>/= 70% predicted for age, gender, and height according to published reference standards\n5. Parental consent and the child's assent\n\nExclusion Criteria:\n\n1. Chronic obstructive respiratory disorder other than asthma (e.g., cystic fibrosis, primary ciliary dyskinesia)\n2. Severe persistent asthma, as evidenced by any of the following:\n\n   * 3 hospitalizations\n   * 6 severe exacerbations in the previous year on chronic oral corticosteroid therapy daily symptoms\n3. Inability to perform acceptable spirometry\n4. History of collapsed lung\n5. History of syncope with forced exhalation\n6. Not owning an iOS\u2122 device (e.g., iPhone\u00ae, iPod\u00ae, or iPad\u00ae)\n7. Lacking access to wireless local area networking (Wi-Fi\u2122)",
+  "minimum_age": "6 Years",
+  "maximum_age": "15 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Children 6 to15 years old with mild to moderate persistent asthma seen in the outpatient clinic",
+  "condition": [
+    "Asthma Acute",
+    "Asthma in Children",
+    "Asthma Chronic",
+    "Asthma Attack"
+  ],
+  "overall_status": "COMPLETED"
+}

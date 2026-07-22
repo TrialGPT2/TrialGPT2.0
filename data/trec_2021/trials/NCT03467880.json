@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT03467880",
+  "title": "Multicenter Study of Impulse Oscillometry in Chinese",
+  "brief_summary": "The purpose of this study is to establish the reference values of impulse oscillometry (IOS) in healthy Chinese, and compare the indices of IOS in patients with lung disease, such as chronic obstructive pulmonary disease (COPD), asthma, interstitial lung disease (ILD), and upper airway Obstruction (UAO).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria for healthy subjects:\n\n* life-long non-smokers\n* no symptoms and history of chronic cardiopulmonary diseases (chronic bronchitis, asthma, lung cancer, pulmonary fibrosis, pulmonary tuberculosis, chronic heart diseases, etc.)\n* no abnormal findings on physical examination\n* written informed consent was obtained\n\nInclusion Criteria for COPD:\n\n* Diagnosis of chronic obstructive pulmonary disease (COPD), as classified by the Global Initiative for Chronic Obstructive Lung Disease (GOLD) guidelines and post-bronchodilator FEV1/FVC (forced vital capacity) \\< 70%.\n\nInclusion Criteria for asthma:\n\n* Diagnosis of asthma, as classified by national and international asthma guidelines.\n\nInclusion Criteria for ILD:\n\n* ILD diagnosis confirmed by lung biopsy, X ray or BALF analysis.\n\nInclusion Criteria for UAO:\n\n* Diagnosis of UAO.\n\nExclusion Criteria for healthy subjects:\n\n* upper or lower respiratory infection within 4 weeks\n* long-term exposure to harmful gas or particles\n* using \u03b2-blocker for treatment\n* pregnant women, epileptic\n* other diseases or surgeries potentially affecting lung function",
+  "minimum_age": "4 Years",
+  "maximum_age": "95 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects will be recruited from outpatient clinics.",
+  "condition": [
+    "Healthy Subjects",
+    "Chronic Obstructive Pulmonary Disease",
+    "Asthma",
+    "Interstitial Lung Disease",
+    "Upper Airway Obstruction"
+  ],
+  "overall_status": "UNKNOWN"
+}

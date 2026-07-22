@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04315623",
+  "title": "RCA for CRRT in Hyperlactatemia Patient With Increased Bleeding Risk",
+  "brief_summary": "The purpose of this single center, randomized, control, open-labeled study is to evaluate the effect and safety of RCA versus no anticoagulation for CRRT in hyperlactatemia patients with increased bleeding risk.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age\u226516 years\n* Hyperlactatemia (Lactic acid or serum lactate level \\> 2 mmol/L)\n* Required CRRT\n* Increased bleeding risk: PLT \\< 40 x 109, aPTT \\> 60 s, INR \\> 1.5, bleeding or active bleeding within 7 days, recent trauma or surgery (especially head trauma and neurosurgery), recent stroke, intracranial venous malformation or aneurysm, retinal hemorrhage, uncontrolled hypertension, and epidural catheter implantation.\n\nExclusion Criteria:\n\n* Drugs (biguanide, linezolid, cyanide, etc.) and congenital metabolic disorders (glucose-6 phosphatase and 1,6 phosphofructosase deficiency) and mitochondrial damage caused hyperlactatemia.\n* Receiving systemic anticoagulant treatment (heparin/lmol/warfarin/aspirin, etc.) within 24 hours.\n* Critical patients with lactic acid \u226515mmol\\\\L (with a mortality of 100%) were excluded\n* Patients with APTT \\> 100S were excluded (retrospective data suggested that this type of patients received CRRT treatment should last for more than 24 hours)\n* Patients who are pregnant or during lactation\n* Severe liver failure: child-pugh score \\>10 (chronic severe liver failure), MELD score \\> 30 (acute severe liver failure), total bilirubin \\>51 mol/L\n* Patients with internal fistula were treated with CRRT\n* Unable to cooperate with treatment due to mental problems (such as depression and mental illness)\n* CRRT with arteriovenous fistula, or the prescribed treatment time \\< 12 hours",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Continuous Renal Replacement Therapy",
+    "Hyperlactatemia",
+    "Bleeding"
+  ],
+  "overall_status": "UNKNOWN"
+}

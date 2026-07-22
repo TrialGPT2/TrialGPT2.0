@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT01463878",
+  "title": "Enteral Nutrition and Glycemic Variability Neurological Intensive Care Unit Study",
+  "brief_summary": "Primary Objective:\n\nTo determine the effects of a diabetes specific enteral formula compared to a standard formula supplemented with protein (isocaloric and isonitrogenous) on the mean blood glucose and glycemic variability in a homogenous group of critically ill patients in a neurological ICU. Blood glucose will be recorded every minute using a continuous blood glucose monitor. The primary end points will be the difference between the mean blood glucose levels and the glucose variability between the control and intervention groups for the time period that the patient is in the ICU and receiving tube feeds and for up to a maximum of 14 days.\n\nSecondary Objectives:\n\nTo determine the effects of the diabetes specific versus standard tube feeds on the change in muscle thickness and volume measured by 2-dimensional ultrasound imaging during the patients ICU stay.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients aged between 18 and 89 years old\n* Patients with critical illness including ischemic or hemorrhagic stroke, epidural/subdural bleeds and subarachnoid hemorrhage\n* Patients who are expected to stay in the ICU for at least 5 days\n* Hyperglycemia is not an inclusion criteria\n\nExclusion Criteria:\n\n* Patients who have received or will be treated with systemic corticosteroids.\n* Patients who will be receiving high doses of propofol (\\>40 cc/hr)\n* Patients with type 1 Diabetes\n* Patients with sepsis or acute trauma\n* Patients with an expected stay in the ICU of less than 4 days\n* Patients who are unable to receive enteral nutrition or who have medical conditions precluding nutrition by the enteral route including allergies to formula components\n* Pregnant and lactating patients\n* Patients with prior history of gastroparesis\n* Patients with acute kidney failure (creatinine \\> 2.5mg/dl)\n* Patients with acute liver failure (bilirubin \\> 2.0 mg/dl)",
+  "minimum_age": "18 Years",
+  "maximum_age": "89 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Subarachnoid Hemorrhage",
+    "Intracranial Hemorrhage",
+    "Ischemic Strokes",
+    "Subdural Hematoma"
+  ],
+  "overall_status": "TERMINATED"
+}

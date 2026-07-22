@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03199833",
+  "title": "Reaching Training Based on Robotic Hybrid Assistance for Stroke Patients ( RETRAINER-S2 )",
+  "brief_summary": "Stroke is the third most common cause of death and the main cause of acquired adult disability in high-income countries. The most common deficit after stroke is motor impairment of the contralateral arm, with more than 80% of stroke survivors experiencing this condition in the acute phase, and only half regaining some useful upper limb function after six months.\n\nWithin the European project RETRAINER (grant agreement No 644721), the consortium developed a platform for the rehabilitation of the upper limb after stroke, which combines a passive forearm-hand orthosis for hand-wrist motion stabilization, selective fingers constraining and grasp movement facilitation, Functional Electrical Stimulation (FES) of the extrinsic hand flexor muscles and of the extrinsic hand extensor muscles, interactive objects, and voluntary effort. The system also provides a graphical user interface which helps the therapist set the training session and save the training data and parameters, and provides the subject a visual feedback about his/her active involvement in the exercise. The training consists of the execution of a series of exercises involving the affected arm during daily life activities. Typical exercises include controlled wrist flexion and extension, controlled fingers flexion and extension, anterior reaching and grasping on a plane or in the space, moving an object on a plane or in the space.\n\nThe aim of this clinical study it to evaluate the efficacy of this novel training platform on patients between two weeks and nine months after their first stroke, who preserved at least a visible muscle contraction for the arm and shoulder muscles. Participants are randomized in an experimental and a control group. The control group is trained with an advanced rehabilitative program, including physical training, occupational therapy, FES, and virtual reality, while the experimental group is trained with the RETRAINER system for about 30 minutes, in addition to the same program of the control group. The daily training time is the same for the two groups. The intervention consists of three sessions a week for nine weeks. Patients are assessed at baseline, soon after the end of the intervention, and in a 4-week follow-up visits. It is planned to recruit 68 subjects for this study. Since the RETRAINER platform was built on the up-to-date theory of motor re-learning, which supports task-oriented repetitive training, a close temporal association between motor intention and stimulated motor response, and an intensive and frequent training paradigm, the study's hypothesis is that the experimental group shows a greater treatment effect than the control group.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adults male and/or female, 18-85 years old\n* Patients who have suffered a first stroke with major unilateral functional impairment\n* Acute event between two weeks and nine months before study enrollment\n* Motricity Index of the affected side must be under 80% of best expected performance.\n* No major contralateral impairment must be present (Motricity Index of the non-affected side more than 80% of normality)\n* Residual muscular activity for forearm muscles (MRC \\> o = 1)\n* Mini-Mental State Examination \\> 20\n\nExclusion Criteria:\n\n* Limitation for using the device due to impairment of Passive Range of Motion and/or\n* Pain due to Spasticity evaluated using Modified Ashworth Scale\n* Previous history of major neurological or psychiatric disorders\n* allergy to electrodes",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT02863250",
+  "title": "Australian and New Zealand Massive Transfusion Registry",
+  "brief_summary": "Severe and un-stopped blood loss can occur for a number of different reasons including after a serious injury, delivery of a baby and following other medical and surgical emergencies. The investigators understanding of how to best treat people with serious bleeding is still incomplete, with many questions remaining. These include questions regarding how many people have serious bleeding events, what happens to them and the best way to treat them.\n\nThe Massive Transfusion Registry (MTR) is a register of patients who have experienced major blood loss that required a massive transfusion in any clinical setting.\n\nThe MTR uses electronic data extraction and data linkage methodologies. Pre-existing clinical data from hospital data sources, including Laboratory Information Systems (for transfusion history and laboratory results) and Health Information Services databases (for Patient demographics and admission data), are electronically extracted by staff employed at the participating hospitals. The data is then sent to the MTR Research Team, located at Monash University, where it is then linked, analysed and stored.\n\nThe establishment of a Massive Transfusion Registry will be a unique and important resource for clinicians in Australia, New Zealand and internationally, for Blood Services and for the broader community. It will provide valuable observational data regarding the types and frequency of conditions associated with critical bleeding requiring massive transfusion, the use of blood component therapy (i.e. ratios and quantities of different types of red cell to non- red cell components) and patient outcomes.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* aged 18 years or over\n* 5 or more units of red blood cells in any 4 hour period\n\nExclusion Criteria:\n\n* nil",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients admitted to participating hospitals, aged 18 years or over, who have had a critical bleeding event that necessitated a massive transfusion (defined as 5 or more units of red blood cells in any 4 hour period), in any clinical context.",
+  "condition": [
+    "Massive Transfusion",
+    "Trauma",
+    "Cardiothoracic Surgery",
+    "Gastrointestinal Bleeding",
+    "Vascular Surgery",
+    "Obstetric Bleeding",
+    "Liver Transplant"
+  ],
+  "overall_status": "RECRUITING"
+}

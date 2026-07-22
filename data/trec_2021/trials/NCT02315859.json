@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02315859",
+  "title": "Validation of New Non-Invasive Parameters of Diastolic Suction in the Left Ventricle",
+  "brief_summary": "It is known that, at the end of the cardiac ejection period, potential energy is stored in elastic fibers of the heart, which promotes the suction of blood from the atria during early filling. The investigators have developed a new ultrasound-based method to quantify this suction effect. Here, it is necessary to reduce the complex 3-dimensional cardiac mechanics in a 1-dimensional (piston-like) pump system. In the study, several steps of model reduction will be tested. Each reduction is intended to allow non-invasive measurements to become increasingly simple and feasible at reduced echo quality. The reference method is the invasive data obtained from a pressure-volume conductance catheter. To increase the supply of potential energy in the elastic fibers, a substance (dobutamine) is administered for transient strengthening of the force of contraction.\n\nHypothesis: There is a good agreement between the new, non-invasive parameters and the invasive reference method for the quantification of the suction effect of the left ventricle, and the good correlation persists even with increasing model simplification.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* 1\\. Patients referred to elective percutaneous coronary angiography\n* Stable cardio-pulmonary conditions\n* Sinus rhythm\n* Written informed consent to participate to the study\n\nExclusion Criteria\n\n* Patients referred to emergency coronary intervention\n* 2\\. Prior myocardial infarction, wall-motion-abnormalities, stenosis \u226550%\n* Prior cardiac surgery\n* More than mild left-sided valve disease\n* Documented pulmonary disease leading to dyspnea NYHA II or more, including history of asthma bronchiale\n* Any restrictive LV filling pattern without eccentric LV hypertrophy, such as in infiltrative myocardial diseases\n* Pericardial diseases, including prior pericardiotomy and pericardial effusions.\n* Pacemaker, implantable cardioverter-defibrillator (ICD) or cardiac resynchronization therapy device (CRT)\n* Known adverse reactions to Dobutamin or Esmolol\n* Women who are pregnant or breast feeding (\u03b2-HCG \\> 10 IU/L)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Population with a large variety of clinical conditions leading to dyspnea (for example hypertensive or hypertrophic heart disease, dilated cardiomyopathy), and where no significant coronary artery disease or regional wall-motion abnormalities are identified.",
+  "condition": [
+    "Diastolic Heart Failure"
+  ],
+  "overall_status": "COMPLETED"
+}

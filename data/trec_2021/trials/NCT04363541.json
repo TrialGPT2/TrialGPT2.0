@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04363541",
+  "title": "Local Thermotherapy for Patients With Mild-to-moderate COVID-19",
+  "brief_summary": "The etiological agent of the current pandemic is a (+)ssRNA virus. SARS-CoV-2 is infecting thousands of people in the world with a fatality rate that varies from 0.1 to 5% in affected countries, thereby causing enormous economic losses. Few antibiotics have shown any efficacy in their combat, but have not yet proven adequate to stop the spread of the disease, nor are there any approved vaccines at the moment. From experiments in plants ongoing infections by RNA viruses, using thermotherapy, which is the application of heat at a temperature between 35-43 \u00b0C, the investigators know that raising the temperature affects the transcription of viral proteins due to the formation of small RNA molecules that interrupt the replication process by grouping in specific regions of the RNA molecule, preventing and inhibiting transcription. These small molecules are called small interfering RNAs (siRNAs). This feature has been used through thermotherapy in humans to combat the rapid replication of cells (i.e. cancer cells), attack cells infected by RNA viruses, and in the treatment of some parasitic infections.There are various commercially available devices for thermotherapy use in humans; they are mainly being used to ease muscle pain. They work by increasing the temperature in the range recommended for thermotherapy in humans 39-43 \u00b0 C. Therefore, the investigators consider this treatment modality can be used to aid in the elimination of SARS-CoV-2 from the human body, decreasing viral load, which could allow the immune system time for its control and elimination.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Patient with symptoms of COVID-19 (fever, headache, cough, sore throat, myalgias, arthralgias, shortness of breath, anosmia, fatigue, diarrhea, vomit, or conjunctivitis) meeting criteria for mild or moderate COVID-19 according to the following criteria:\n\n   1. Mild COVID-19: With or without mild pneumonia. Peripheral oxygen arterial saturation (SaO2) greater than or equal to 94% (90% in Mexico City and Guadalajara) at room air. Does not meet criteria of moderate, severe, or critical COVID-19.\n   2. Moderate COVID-19: Patient with pneumonia and risk factors for disease progression; meeting all the following: Shortness of breath, peripheral oxygen arterial saturation (SaO2) greater than or equal to 94% (90% in Mexico City and Guadalajara) with a maximum 3 L/min of supplementary oxygen, does not meet criteria for severe, or critical COVID-19.\n2. Patient with less than or equal to 5 days from symptom onset\n3. Participant understands the intervention and procedures and accepts randomization.\n\nExclusion Criteria:\n\n1. Suspected or confirmed pregnancy at evaluation\n2. Severe decompensation of any of the patient's underlying diseases\n3. Previous diagnosis of COVID-19 with complete resolution of symptoms for at least 2 days.\n4. Patients meeting criteria for severe or critical COVID-19 at evaluation:\n\n   1. Severe COVID-19 - Patient with \u22651 of the following: tachypnea (\u226530 breaths per minute), peripheral oxygen arterial saturation (SaO2) less than or equal to 93% (89% in Mexico City and Guadalajara) with a maximum 3 L/min of supplementary oxygen (patients requiring \u22654 L/min will be considered to have progressed to severe COVID-19), or PaO2/FiO2 ratio \\<300.\n   2. Critical COVID-19 - Patient with ARDS, shock, multiorgan failure, or any other condition requiring admission to an intensive care unit.\n\nElimination Criteria:\n\n1. Participant retires consent to participate in the study\n2. Patient requiring \u22654 L/min of supplementary oxygen in the 24 hours of hospitalization (in the case that randomization occurred in the first 24 hours of hospitalization)\n3. Two negative tests against SARS-CoV-2 (a sequential diagnostic strategy will be implemented to reduce losses due to false negative tests).\n4. Patient that do not tolerate thermotherapy and requests to stop receiving the intervention.\n5. Transfer to another medical unit in the first 5 days of inclusion in the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID-19",
+    "Thermotherapy"
+  ],
+  "overall_status": "RECRUITING"
+}

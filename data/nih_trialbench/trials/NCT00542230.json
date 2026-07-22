@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT00542230",
+  "title": "Blood Sampling for Research Related to Sickle Cell Disease",
+  "brief_summary": "This study will collect representative blood samples from healthy children and adults and from children and adults who have unique red blood cell features that are related to sickle cell disease. Sickle cell disease is a blood disease that limits the ability of red blood cells to carry oxygen throughout the body. The purpose of the study is to collect a variety of blood samples that may then be used to investigate advances and potential new drug treatments for sickle cell disease.\n\nVolunteers must be at least 18 years of old. Samples will be taken both from healthy volunteers and from volunteers who have unique red blood cell features that are related to sickle cell disease. Candidates will be screened with a medical history.\n\nDuring the study, participants will undergo a one- to two-hour outpatient procedure at the National Institutes of Health Clinical Center. Once researchers have explained the study and obtained the participant s consent, participants will donate 8 cc (approximately 2 teaspoons) of blood.\n\nBecause repeat testing helps researchers validate study findings, participants who have the unique red blood cell features mentioned above may also be asked if they are willing to return and donate another 2 cc to 8 cc of blood for additional studies. The amount of blood drawn will not exceed 50 ml with any eight-week period for adults or 7 cc within any six-week period for children.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Patients with sickle cell trait\n* Patients with known hemoglobinopathies involving one or two genes for sickle hemoglobin\n* Healthy volunteers for control experiments\n* Age range: adults greater than or equal to 18 years of age\n\nEXCLUSION CRITERIA:\n\n* Subjects who are unable to comprehend the investigational nature of the laboratory research are ineligible to enroll in this protocol.\n* As a safety precaution in handling the blood samples, patients with HIV, Hepatitis B or Hepatitis C will be excluded from the study. HIV, Hepatitis B or Hepatitits C testing will not be done under this study. Participants must be co-enrolled under another NIH protocol where the screening evaluation has been performed.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "primary clinical",
+  "condition": [
+    "Sickle Cell Trait",
+    "Sickle Cell Disease",
+    "Sickle Cell Anemia"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study collecting blood samples from healthy volunteers and patients with sickle cell disease or related hemoglobinopathies. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls both healthy volunteers and patients with sickle cell trait or hemoglobinopathies, with no mention of prior systemic therapy for advanced disease. There are no eligibility criteria related to prior lines of therapy."
+    }
+  ]
+}

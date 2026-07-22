@@ -1,0 +1,50 @@
+{
+  "nctid": "NCT06222203",
+  "title": "Surveillance for Malignant Transformation of Neurofibromatosis Type 1 (NF1) Related Peripheral Nerve Sheath Tumors (PNST)",
+  "brief_summary": "Background:\n\nNeurofibromatosis type 1 (NF1) is a genetic disease that can cause many symptoms. About half of people with NF1 will develop benign (noncancerous) tumors along nerves in the skin, brain, and other parts of the body. Sometimes, though, these tumors can become cancerous. Researchers do not yet know how to predict which tumors will become cancerous.\n\nObjective:\n\nTo test a new method for predicting which benign NF1 tumors will become cancerous.\n\nEligibility:\n\nPeople aged 3 years and older with a clinical or genetic diagnosis of NF1.\n\nDesign:\n\n* Participants will be screened with a review of their medical history. All participants will have a baseline visit. They will have bood tests and imaging scans. They will have a physical exam. They will answer questions about their family history. Participants aged 8 years and older will take tests of their thinking skills and their emotional health.\n* Some participants may be asked to undergo more tests. These may include another type of imaging scan and a biopsy: A small sample of tissue may be removed from the tumor.\n* Participants will be divided into two groups: those believed to be at low risk and those believed to be at high risk of developing cancer.\n* Participants in the high-risk group will be asked to return for their next visit in 1 month to 3 years.\n* Participants in the low-risk group will be asked to return for their next visit in 6 months to 5 years.\n* Participants may also have follow-up visits by phone throughout the study. They will be in the study for 10 years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nHigh-Risk and Low-Risk NF1 Cohorts\n\n* Age \\>= 3 years old\n* Participants with clinical or genetic diagnosis of NF1.\n* Participants with a diagnosis of mosaic or segmental NF1 are also eligible.\n* Individuals may have (High-Risk Cohort) or not have (Low-Risk Cohort) at least one of the following characteristics:\n\n  * Microdeletion or 844-848 missense variants or other variants associated with increased risk of malignant peripheral nervous sheath tumor (MPNST)\n  * Family history of MPNST / atypical neurofibromatous neoplasm of unknown biologic potential (ANNUBP) / atypical neurofibromas (ANF)\n  * Personal history of MPNST/ANNUBP/ANF or neurofibroma with CDKN2A loss\n  * Prior radiation therapy at any site\n  * Large plexiform neurofibroma (PN) burden (\\>= 350 mL)\n  * Presence \\>= 1 DNL at baseline\n* The ability of the individual, parent/guardian or Legally Authorized Representative (LAR) to understand and the willingness to sign a written consent document for participation.\n\nEXCLUSION CRITERIA:\n\nHigh-Risk and Low-Risk NF1 Cohorts\n\n\\- Inability or unwillingness to undergo MRI imaging\n\nINCLUSION CRITERIA:\n\nParent Cohort\n\n* Parent or guardian of pediatric individuals (8-17 years old) in High-Risk or Low-Risk Cohorts.\n* The ability of the parent/guardian or LAR to understand and the willingness to sign a written consent document for parent/guardian participation in this study.\n\nEXCLUSION CRITERIA:\n\nParent Cohort\n\n\\- None.",
+  "minimum_age": "3 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants aged \\>= 3 years old with a clinical or genetic diagnosis of NF1; parents or guardians of participants ages 8-17 years old.",
+  "condition": [
+    "Neurofibromatosis 1",
+    "Nerve Sheath Neoplasms"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study of individuals with NF1 to monitor for malignant transformation of peripheral nerve sheath tumors. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "High-Risk NF1 Cohort",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on genetic and clinical risk factors for malignant transformation, not prior systemic therapy. There are no criteria specifying prior lines of therapy for advanced disease."
+    },
+    {
+      "cohort_label": "Low-Risk NF1 Cohort",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on absence of high-risk features, not prior systemic therapy. There are no criteria specifying prior lines of therapy for advanced disease."
+    },
+    {
+      "cohort_label": "Parent Cohort",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes parents or guardians of pediatric participants and is not relevant to line-of-therapy intent."
+    }
+  ]
+}

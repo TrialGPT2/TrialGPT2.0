@@ -1,0 +1,43 @@
+{
+  "nctid": "NCT06503159",
+  "title": "Hippocampal Network Changes Following Mindfulness Training in Tobacco Vaping Adolescents in an Open-label, Pilot Study",
+  "brief_summary": "The purpose of this translational bench-to-bedside study is to examine the neurobiological effects of an evidence-based technology-delivered mindfulness training (MT) program on vaping-related rsFC alterations in hippocampal networks and testing whether changes in rsFC ((Delta)rsFC) in these networks predict reduction in tobacco vaping behaviors in adolescents. The study also aims to test the accessibility and feasibility of using this mindfulness-based stress reduction (MBSR) platform as an implementation for widespread MT in adolescents....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\nNon-Vaping group:\n\n1. For adolescents aged 17 and under, parental/guardian informed consent to participate in the study\n2. English language fluency\n3. Males and females; Age 13-18 enrolled in grades 9-12, or the summer after graduation.\n4. No MRI contraindications\n5. No evidence of current psychosis, mania, or significant suicidality\n6. If on medication for depression, anxiety or ADHD, dose has been stable for 3 months\n7. No DSM-5 diagnosis of moderate or severe SUD related to a psychoactive substance, including tobacco, in the past year\n8. Access to necessary resources for participating in a technology-based intervention, which includes smartphone ownership for this study\n9. No use of nicotine more than 5 times in their life, and none at all in the last 30 days prior to enrollment.\n\nVaping group:\n\n1. For adolescents aged 17 and under, parental/guardian informed consent to participate in the study\n2. English language fluency\n3. Males and females; Age 13-18 enrolled in grades 9-12, or the summer after graduation.\n4. No MRI contraindications\n5. No evidence of current psychosis, mania, or significant suicidality\n6. If on medication for depression, anxiety or ADHD, dose has been stable for 3 months\n7. No DSM-5 diagnosis of moderate or severe SUD related to another psychoactive substance (other than tobacco) in the past year\n8. Vape a nicotine containing product at least 10 days in the past 30 days\n9. Access to necessary resources for participating in a technology-based intervention, which includes smartphone ownership for this study\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study based on self and or parent-report unless otherwise noted:\n\nVaping or Non-Vaping Group:\n\n1. Chronic medical conditions associated with cerebral blood flow abnormalities per PI/MAI determination after review of the medical history.\n2. Neurological conditions that may interfere with MRI data quality per PI/MAI determination after review of the medical history.\n3. Neurodevelopmental disorders that are likely to significantly affect data in the judgment of the MAI/PI\n4. Non-penetrating traumatic brain injury with loss of consciousness \\> 30 minutes or significant sequalae persisting longer than 2 weeks or any penetrating traumatic brain injury.\n5. Changing dose of psychotropic medication in past 3 months\n6. Current regular meditation or yoga practice averaging \\>10 min/day for \\>2 days per week\n7. Pregnancy, self-report upon protocol entry, but by urine test prior to MRI scan.",
+  "minimum_age": "13 Years",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Vaping Teens",
+    "Healthy Volunteers"
+  ],
+  "overall_status": "TERMINATED",
+  "line_of_therapy_overall_summary": "This is a behavioral neuroscience study in adolescents examining the effects of mindfulness training on hippocampal networks in both tobacco-vaping and non-vaping groups. There is no cancer diagnosis or systemic therapy for advanced disease involved, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Non-Vaping group",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes adolescents with no significant history of nicotine use and no cancer diagnosis; systemic therapy for advanced disease is not relevant."
+    },
+    {
+      "cohort_label": "Vaping group",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes adolescents who vape nicotine but have no cancer diagnosis; systemic therapy for advanced disease is not relevant."
+    }
+  ]
+}

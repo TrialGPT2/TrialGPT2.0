@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT01371630",
+  "title": "Inotuzumab Ozogamicin and Combination Chemotherapy in Treating Patients With Acute Lymphoblastic Leukemia",
+  "brief_summary": "This phase I/II trial studies the side effects and best dose of inotuzumab ozogamicin and to see how well it works when given together with combination chemotherapy in treating patients with acute lymphoblastic leukemia. Inotuzumab ozogamicin is a monoclonal antibody, called inotuzumab, linked to a toxic agent called N-acetyl-gamma-calicheamicin dimethyl hydrazide (CalichDMH). Inotuzumab attaches to CD22 positive cancer cells in a targeted way and delivers CalichDMH to kill them. Immunotherapy with monoclonal antibodies, such as blinatumomab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving inotuzumab ozogamicin together with combination chemotherapy may be a better treatment for acute lymphoblastic leukemia.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Patients age 60 years or older with previously untreated ALL pre-B, Philadelphia chromosome (Ph-) negative or (Ph+) positive ALL Minimal prior therapy (less than 1 week of steroids, vincristine, and/or 1 dose of anthracycline or alkylating agents) are allowed.\n2. Patients unfit \u2265 18 - \\< 60 years of age with previously untreated ALL pre- B, Philadelphia chromosome (Ph-) negative or (Ph+) positive ALL (includes patients initiated on first cycle of hyper-CVAD before cytogenetics known. These patients could have received one or two cycles of chemotherapy with or without other TKIs and still eligible.\n\n   These patients are defined as having at least one of the below comorbidities:\n   1. ECOG performance status \u2265 2\n   2. Severe cardiac disorder (e.g., congestive heart failure requiring treatment, ejection fraction \u2264 50%, or chronic stable angina)\n   3. Severe pulmonary disorder (e.g., DLCO \u2264 65% or FEV1 \u2264 65%)\n   4. Creatinine clearance \\< 45 mL/min, and\n   5. Hepatic disorder with total bilirubin \\> 1.5 x upper limit of normal\n\n   <!-- -->\n\n   1. If they achieved CR, they are assessable only for event-free and overall survival, or\n   2. If they failed to achieve CR, they are assessable for CR, event-free, and overall survival\n3. Patients age 60 years and older unfit for intensive chemotherapy with one or more comorbidities (e.g., renal insufficiency, heart disease, cardio-vascular disease, uncontrolled hypertension, diabetes, respiratory problems, among others) and a PS of \u2265 1. All ages of Jehovah's witness are eligible.\n4. Zubrod performance status 0-3.\n5. Adequate liver function (bilirubin \\< 1.95 mg/dL and SGPT or SGOT \\< 3 x upper limit of normal \\[ULN\\], unless considered due to tumor), and renal function (estimated creatinine clearance \u226550 mL/min/1.73 m2). Even if organ function abnormalities are considered due to tumor, the upper limit for bilirubin is \\< 2.6 mg/dL and creatinine \\< 3 mg/dL.\n6. Provision of written informed consent.\n7. Patients in first remission are eligible.\n8. Patients with refractory-relapsed ALL, Burkitt lymphoma, Burkitt-like lymphoma with 11q aberration, high-grade B-cell lymphoma with MYC and BCL2 and/or BCL6 rearrangements, and high-grade B-cell lymphoma not otherwise specified with marrow involvementBof any age are eligible.\n\nExclusion Criteria:\n\n1. Newly diagnosed Burkitt's Leukemia or Lymphoma, T-cell ALL or lymphoblastic lymphoma.\n2. Patient with active heart disease (NYHA class \\> 3 as assessed by history and physical examination).\n3. Patients with a cardiac ejection fraction (as measured by either MUGA or echocardiogram) \\< 40% are excluded.\n4. Patients with active hepatitis are excluded.\n5. Pregnant or breast-feeding women are excluded.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "B Acute Lymphoblastic Leukemia With t(9;22)(q34.1;q11.2); BCR-ABL1",
+    "B Acute Lymphoblastic Leukemia, Philadelphia Chromosome Negative",
+    "Burkitt-Like Lymphoma With 11q Aberration",
+    "High Grade B-Cell Lymphoma With MYC and BCL2 and/or BCL6 Rearrangements",
+    "High Grade B-Cell Lymphoma, Not Otherwise Specified",
+    "Recurrent B Acute Lymphoblastic Leukemia",
+    "Recurrent Burkitt Lymphoma",
+    "Refractory B Acute Lymphoblastic Leukemia",
+    "Refractory Burkitt Lymphoma"
+  ],
+  "overall_status": "RECRUITING"
+}

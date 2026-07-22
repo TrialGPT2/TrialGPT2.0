@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04579237",
+  "title": "Development and Evaluation of Techniques for Computer Aided Detection and Diagnosis From Existing Radiologic Images",
+  "brief_summary": "Background:\n\nRadiologic images are getting more complex. They are also being used more often. Medical personnel are overwhelmed with data. Computer Aided Detection (CAD) and diagnosis may be able to improve medical care. Researchers want to create and test ways to use CAD. To do this, they want to use data from the Clinical Center s Department of Diagnostic Radiology.\n\nObjective:\n\nTo create algorithms and software that accurately detect and characterize lesions, model anatomy, and monitor diseases on radiologic studies.\n\nEligibility:\n\nPeople of all ages who have radiologic exams stored in the clinical PACS (picture archiving system) of the Clinical Center since July 6, 1953 with no end date. People with target lesions of any kind will be included.\n\nDesign:\n\nThis study will use existing data. Participants will include males and females of all ages. They will be chosen by keyword search on NIH databases.\n\nThe data that is used may include CT, MRI, ultrasound, and other images. It may include a participant s name, date of birth, and date of exam. It may include the name of the doctor, radiologist, and hospital. Data such as age, gender, race, disease, and treatment may be used. Other data from charts or studies may be used.\n\nImaging data of all organs of the body will be studied.\n\nData will be kept in computers and servers. The equipment will be password protected. Printouts will be stored in locked rooms.\n\nThis study will last 10 years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* All radiologic exams available in the clinical PACS (picture archiving system) of the Clinical Center taken from July, 6, 1953 with no end date.\n* Males and Females of all ages.\n* Patients with target lesions of any kind will be included\n* Patients without the target lesion will be included to determine the specificity of the computer aided detection or diagnosis algorithm\n\nEXCLUSION CRITERIA:\n\nNone",
+  "minimum_age": "1 Year",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Special classes of subjects, such as pregnant women, children, cognitively impaired individuals, or others likely to be vulnerable will be included since the data has already been obtained under an IRB-approved protocol and there are no anticipated additional risks from this research",
+  "condition": [
+    "Radiology Information Systems"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

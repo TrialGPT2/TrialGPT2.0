@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT00001620",
+  "title": "Screening for Hematology Branch Protocols",
+  "brief_summary": "This study allows the evaluation of subjects in order to determine their ability to safely participate in other active research studies.\n\nAfter subjects complete the screening process, they will be offered the opportunity to participate in an active research study, or if no appropriate studies are available information and recommendations will be provided for other treatment options....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nSubjects will be entered on this protocol at the time of their first visit to the NIH Clinical Center outpatient clinic or inpatient service if:\n\nThe subject carries the diagnosis of a disorder for which the NHLBI has an active research protocol, and based on information received from an outside physician, he/she appears to meet at least preliminary eligibility criteria for that protocol.\n\nOR\n\nThe subject is a donor for a subject for which the NHLBI has an active stem cell transplant protocol and based on information received from an outside physician, he/she appears to meet preliminary eligibility as a donor.\n\nOR\n\nThe subject is a normal volunteer for which the NHLBI has an active study recruiting healthy normal volunteers and he/she appears to meet preliminary eligibility as a normal volunteer.\n\nAge greater than or equal to 2 and Weight greater than 12 kg. (Healthy Volunteer age greater than or equal to 8)\n\nThe subject, the subject s guardian (if the subject is a minor), or the subject s legally authorized representative (LAR) is capable of informed consent, and willing to sign the consent form after initial counseling by clinical staff. Separate consent forms for all interventional or surgical procedures will be obtained after explanation of the specific procedure.\n\nEXCLUSION CRITERIA:\n\nAll subjects not fulfilling the inclusion criteria will be considered ineligible.",
+  "minimum_age": "2 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects referred for active National Heart, Lung, and Blood Institute (NHLBI) research protocols, donors and healthy volunteers@@@@@@",
+  "condition": [
+    "Hematologic Disease and Disorders",
+    "Donors",
+    "Healthy Volunteer"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This is a screening protocol to assess eligibility for other hematology branch studies and does not itself treat or select patients based on prior lines of therapy for advanced disease. No specific line-of-therapy intent applies to this protocol.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This is a screening protocol for potential enrollment in other studies; it does not specify or restrict prior lines of systemic therapy for advanced disease. Eligibility is based on preliminary fit for other protocols, not prior treatment history."
+    }
+  ]
+}

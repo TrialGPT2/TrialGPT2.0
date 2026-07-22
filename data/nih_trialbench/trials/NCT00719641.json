@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT00719641",
+  "title": "Experimental Device to Improve Colonoscopy",
+  "brief_summary": "This study will test the use of a new device called a segmental stiffening wire (SSW) in colonoscopy to correct a problem called looping. Colonoscopy is the best test for detecting early colon cancer and removing growths called polyps, which can become colon cancer. Sometimes the flexible tube (colonoscope) used in the procedure loops at a certain point as it advances through the colon, making it difficult to move further and causing the patient pain from excessive stretching of the colon. The SSW is designed to prevent this by stiffening the part of the tube that would otherwise form the loop.\n\nHealthy subjects between 50 and 80 years of age and healthy subjects 40 years and older who have a family history of colon cancer may be eligible for this study.\n\nParticipants undergo colonoscopy a day after self-administering a bowel cleansing preparation. The first part of the procedure is done similarly to that of a flexible sigmoidoscopy, and no sedation or pain medication is used. The colonoscope is inserted into the rectum and advanced about one-third the length of the colon. Pain or discomfort should be mild to moderate cramping and a feeling of having to move the bowels. The subject is asked to score his or her pain level at this point using a standard pain scale. If there is pain, the procedure is stopped and an x-ray is taken to determine if the colonoscope has looped. If it has, the loop is undone and the SSW is used. Another x-ray is then taken to document that the loop has been prevented with the SSW, and the procedure is completed as per standard medical practice. Subjects are taken to the recovery area, informed of the test results and then discharged home in the care of an accompanying adult.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nColonoscopy is indicated based on well-established national guidelines. This includes volunteers age 50 or greater who are at average risk for colon cancer, and volunteers age 40 or greater who are at increased risk based on a personal history of colon polyps or a family history of colon polyps or cancer.\n\nVolunteer meets the criteria of Anesthesia Level 1 or 2.\n\nVolunteer agrees to undergo the study procedures.\n\nEXCLUSION CRITERIA:\n\nOngoing psychiatric history including volunteers who have been hospitalized for psychiatric reasons, have missed significant number of days of work for psychiatric reasons, or who admit to suicidal ideations.\n\nFormer or current history of alcohol or drug dependency.\n\nHistory of colonic resection.\n\nPregnancy.\n\nAge greater than 80 or less than 40.\n\nPrior radiation to the abdomen or pelvis.\n\nAmerican Society of Anesthesiologists Grade 3, 4, or 5.\n\nAllergy or other contraindications to midazolam or fentanyl.",
+  "minimum_age": "40 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy subjects between 50 and 80 years of age and healthy subjects 40 years and older who have a family history of colon cancer may be eligible for this study.",
+  "condition": [
+    "Colonoscopy",
+    "Looping",
+    "Prevent Looping",
+    "Colon Cancer Screening"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a study of a device used during screening or surveillance colonoscopy in healthy volunteers at average or increased risk for colon cancer. There is no treatment for advanced or metastatic disease involved, and no systemic therapy lines are relevant.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls healthy volunteers undergoing colonoscopy for screening or surveillance based on age and risk factors. There is no mention of advanced disease or prior systemic therapy, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

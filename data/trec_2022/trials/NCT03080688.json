@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT03080688",
+  "title": "Prizma Pulse Oximeter Evaluation",
+  "brief_summary": "This study is intended to evaluate performance of the new design sufficiently to support performance claims for an FDA 510K submission or ISO technical file. Specifically:\n\n* SpO2 value range 70% to 100%\n* 10 or more subjects, at least 3 of dark pigmentation\n* At least 200 data points\n* Meeting the following test required by the 2013 FDA Guidance on Pulse Oximeters - Premarket Notification Submissions and by ISO 80601-2-61 on Pulse Oximeters:\n* 2013 FDA Guidance on Pulse Oximeters - Premarket Notification Submissions:\n\n  * 4.1. ACCURACY OF PULSE OXIMETERS\n  * 4.1.1 IN VIVO TESTING FOR SPO2 ACCURACY UNDER LABORATORY CONDITIONS\n* ISO 80601-2-61:2011 Annex EE.2 and clause 201.12.1.101.2\n\n  * 201.12.1.101 SpO2 accuracy of pulse oximeter equipment\n  * 201.12.1.101.2 Determination of SpO2 accuracy",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Both male and female subjects\n* Healthy subjects capable of undergoing controlled hypoxemia to the levels outlined in the desaturation profile below.\n* Meeting the demographic requirements listed above.\n\nExclusion Criteria:\n\n* Smokers or individuals exposed to high levels of carbon monoxide that result in carboxyhemoglobin levels over 3% as tested by the BYL.\n* Subjects who would be placed under medical risk under the desaturation profile listed below.\n* Significant arrhythmia\n* Age below 21 or over 50\n* Pregnant women",
+  "minimum_age": "21 Years",
+  "maximum_age": "50 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Selection of patients, both male and female, who meet the eligibility criteria (see below)",
+  "condition": [
+    "Oxygen Deficiency"
+  ],
+  "overall_status": "COMPLETED"
+}

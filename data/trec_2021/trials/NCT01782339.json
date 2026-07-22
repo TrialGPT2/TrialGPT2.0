@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01782339",
+  "title": "A Novel Single Arm Phase II Study for Relapsed Germ Cell Tumours With Poor Prognosis",
+  "brief_summary": "The treatment of germ cell tumours is considered to be one of the major successes in the area of cytotoxic chemotherapy. Even in patients who relapse after first line therapy, a durable remission rate of between 25% and 60% has been seen using further chemotherapy. In 1999, researchers at St Bartholomew's Hospital developed the GAMEC protocol (combination chemotherapy with filgrastim, actinomycin D, methotrexate, etoposide, cisplatin). Results from this study showed that 50% of patients with relapsed testicular cancer could be cured using this treatment. When we reviewed the individual patients it was clear that older patients (\\>35yrs) or patients with a raised Lactate Dehydrogenase (a blood test that monitors cancer activity), did not do as well. In addition, patients whose original tumour started in their chest (mediastinal germ cell tumour) have tended to do badly if they relapse. We have been developing a study for patients who fulfil at least one of these criteria. The GAMIO study (filgrastim, actinomycin D, methotrexate, irinotecan, oxaliplatin) has recently closed due to problems with high levels of toxicity from the irinotecan. GAMMA is a new study that will use paclitaxel instead of irinotecan and oxaliplatin instead of cisplatin. We expect that this treatment with oxaliplatin will be less damaging to the kidneys than cisplatin. Both oxaliplatin and paclitaxel and oxaliplatin and irinotecan have similar activity in relapsed patients in the phase II setting. We hope to improve on our previous results with this substitution and see if this will lead to an improvement in the cure rate of relapsed germ cell tumours with poor prognosis and reduce the side effects compared to our standard treatment. In addition, we do not expect any hearing damage and the treatment requires a shorter hospital stay.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Germ Cell Tumour (GCT)\n* Relapsed or progression on or following platinum-based chemotherapy (rising tumour markers or progressive disease on PET CT Scan prior to entering study)\n* Neutrophil count \\>1.0x109/l\n* Platelets \\>70x109/l\n* Haemoglobin \\>100g/l (may be transfused)\n* Glomerular filtration rate \\>40ml/min (determined by EDTA clearance or calculated creatinine clearance using the Cockcroft - Gault equation if unable to perform EDTA clearance)\n* Males and females aged 16-65 years\n\n  a) Male patients must have IGCCCG2 prognostic score, low to very high\n* Patients must be sterile or agree to use adequate contraception during the period of therapy\n* ECOG Performance status 0-3\n* Able and willing to give written informed consent and comply with the protocol study procedures.\n\nExclusion Criteria:\n\n* Other malignancy except basal cell carcinoma\n* Significant co-morbidity likely to make delivery of this treatment unsafe\n* Currently enrolled in any other investigational drug study\n* Previous chemotherapy with oxaliplatin, methotrexate or Actinomycin D\n* Patients who have peripheral neuropathy with functional impairment",
+  "minimum_age": "16 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Germ Cell Tumour"
+  ],
+  "overall_status": "COMPLETED"
+}

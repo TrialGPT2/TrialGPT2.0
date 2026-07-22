@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02648009",
+  "title": "Metabolic Imaging of the Heart Using Hyperpolarized (13C) Pyruvate Injection",
+  "brief_summary": "The prevalence of congestive heart failure (CHF) in Canada is high, representing one of the health care system's most expensive diagnoses. Despite major advances in medicine, the mortality and morbidity from CHF remains great. Currently, magnetic resonance imaging (MRI) is used for non-invasive imaging of the cardiovascular system to enable the structure and anatomy of the organ to be visualized. However, current MRI methods have limitations when assessing and aiding in the management of CHF. A new imaging method has recently been developed that is showing great promise as a tool in the management of patients with CHF. Rapid imaging of biochemical reactions within myocytes using MRI has recently become possible through the use of the Dynamic Nuclear Polarization (DNP) and dissolution method. DNP-dissolution results in an intravenous contrast agent that is \"hyperpolarized\", producing a magnetic signal that is enhanced by up to 100,000 fold. The particular agent is carbon-13 labelled pyruvate. In this study, we demonstrate the first 13C-metabolic images of the human heart, along with the required hardware and data acquisition methods.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria\n\n* Written consent\n* Age: 19 to 50 in Arm 1, 30 to 75 in Arm 2\n* Group 2A and 2E participants have left-ventricular hypertrophy\n* Group 2B and 2F participants have diagnosed hypertrophic cardiomyopathy\n* Group 2C and 2G participants are stable outpatients with NYHA class 1-3 heart failure with evidence of elevated LV mass (LVH), irrespective of LVEF.\n* Group 2D and 2H participants are stable patients with type 2 DM who have a HcA1c between 6.5-9% on oral hypoglycemic agents\n\nExclusion Criteria\n\n* Contraindications to MRI or MRI contrast agents\n* Hemoglobin \u2264 9.0 gm/dL (only Group 2 participants)\n* Glomerular filtration rate (based on MDRD Equation) \\< 30 ml/min/1.73m2 (only Group 2 participants)\n* Any condition leading to a life expectancy \\<1 year\n* Medically diagnosed claustrophobia\n* Have received, or are scheduled to receive, another investigational medicinal product from 1 month prior to 1 month after inclusion in this study\n* BMI of less than 18.5 or greater than 32\n* Group 1: medically diagnosed heart disease",
+  "minimum_age": "19 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hypertension",
+    "Hypertrophy"
+  ],
+  "overall_status": "RECRUITING"
+}

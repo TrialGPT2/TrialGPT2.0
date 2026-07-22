@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT02089789",
+  "title": "Clinical and Basic Investigations Into Known and Suspected Congenital Disorders of Glycosylation",
+  "brief_summary": "Background:\n\n\\- Proteins, fats, and other molecules are the body s building blocks. Many of these molecules must have sugars, or chains of sugars, attached to work properly. People with congenital disorders of glycosylation (CDGs) cannot attach these sugars or sugar chains properly. A child or adult with a CDG can have symptoms in different parts of the body, including brain, nerves, muscles, liver, and immune system. Researchers want to learn more about these diseases to understand better what is causing the problems.\n\nObjective:\n\n\\- To learn more about CDGs.\n\nEligibility:\n\n\\- People 1 month to 2 years old may be seen as outpatients or by telehealth. Patients 2-80 years with CDG or suspected to have a CDG may be seen under this protocol as inpatients, outpatients or by teleheath.\n\nDesign:\n\n* CDG participants may be seen as inpatients, outpatients or by teleheath. Inpatient stays may last 2-5 days.\n* They will have:-Medical history and physical exam. They will answer questions about their CDG.\n* Blood taken several times. Their skin will be numbed, then a needle will take blood from an arm vein.\n* Samples taken of their skin, urine, and maybe stool and spinal fluid.\n* Photos taken of their whole body. They can wear underwear and cover their eyes.\n* Brain MRI. They will lie on a table that slides in and out of a metal cylinder. The scanner makes loud knocking noises so they can wear earplugs.\n* Abdomen ultrasound. Sound waves take images of the body from the outside.\n* Hand/wrist X-rays for young patients. They may have a full-body X-ray.\n* DEXA bone density scan. Participants will lie on a table under a scanner.\n* Echocardiogram and electrocardiogram for heart activity. Pads are stuck on the skin and the electrical activity of the heart is recorded.\n* Tests of hearing, thinking, motor skills, and speech.\n* Children participants may have tests done under sedation if it will benefit them directly.\n* CDG participants may have other procedures during their visit. They may have follow-up visits every year.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nParticipants 1 month or older will have been or will be referred to this protocol with a known or suspected CDG. Participants over two years of age will be admitted only if they are medically stable and require admission to the Clinical Center for diagnosis. One or more probands may be admitted to the NIH Clinical Center for investigation as well as carrier family members.\n\nSome participants will be relatives of patients with known CDG s, and their specimens will be obtained for the purpose of heterozygote testing and to serve as controls to help diagnose the proband. Participants may be seen as inpatients, outpatients or via Telehealth. In some cases, biologic samples may be obtained remotely and sent to the Gahl lab.\n\nEXCLUSION CRITERIA:\n\n* Participants under 1 month of age will not be seen at the NIH Clinical center because care is more readily proffered to older individuals at the Clinical Center.\n* Participants over two years of age will not be admitted if they are medically unstable and do not require admission to the Clinical Center for diagnosis.\n* Pregnant women and newborns are excluded.",
+  "minimum_age": "1 Month",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Anyone with a congenital disorder of glycosylation",
+  "condition": [
+    "Congenital Disorders of Glycosylation"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational study enrolling patients with known or suspected congenital disorders of glycosylation (CDG) for clinical and laboratory investigations. There is no systemic therapy for advanced disease involved, and no line-of-therapy restrictions are specified.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The protocol does not mention any systemic therapy for advanced disease or prior treatment requirements. Eligibility is based solely on diagnosis or suspicion of CDG, with no reference to lines of therapy."
+    }
+  ]
+}

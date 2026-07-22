@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04711863",
+  "title": "Fluvoxamine for Adults With Mild to Moderate COVID-19",
+  "brief_summary": "This clinical trial aims to determine if fluvoxamine, a selective serotonin reuptake inhibitor with high affinity for the sigma-1 receptor, can be used in mild to moderate COVID-19 to prevent the progression to severe COVID-19. Fluvoxamine is an anti-depressant drug approved by the FDA for the treatment of obsessive-compulsive disorder and has a potential for immune modulation as a sigma-1 receptor agonist. The investigational use of fluvoxamine for the treatment of COVID-19 is approved by the South Korean Ministry of Food and Drug Safety.\n\nThis study is performed fully-remotely at COVID-19 community treatment centers, temporary facilities in Seoul, Korea, to accommodate and monitor asymptomatic to moderately symptomatic case-patients who do not require hospital admission.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Men and women age 18 and older\n2. Laboratory-confirmed SARS-CoV-2 patients who have mild to moderate symptoms related to COVID-19 infection and are admitted to community treatment centers in Seoul, Korea\n3. Has symptoms consistent with COVID-19 with onset \u22647 days of randomization\n\n   * Currently symptomatic with one or more of the following symptoms: fever, cough, myalgia, shortness of breath, nausea, anorexia, diarrhea, vomiting, anosmia (inability to smell), ageusia (inability to taste), sore throat, headache\n4. Has laboratory-confirmed SARS-COV-2 infection (positive RT-PCR test) \u2264 3 days of randomization\n5. Able to provide informed consent\n\nExclusion Criteria:\n\n1. Severe illness enough to require hospitalization or already meeting the study's primary endpoint for clinical deterioration\n2. Patients who cannot take oral medication\n3. Pregnancy or breastfeeding\n4. History of the psychiatric disorder including major depressive disorder\n5. Patients who are taking or took selective serotonin reuptake inhibitors, serotonin and noradrenaline reuptake inhibitor, or tricyclic anti-depressants within 2 weeks\n6. Patients who are taking an anti-epileptic drug\n7. Patients who are taking co-prescribed drugs (as below) which are contraindicated by manufacturers due to drug-drug interaction\n\n   * Alosetron, tizanidine, theophylline, clozapine, olanzapine (drugs with a narrow therapeutic index that are primarily metabolized by cytochrome P450 1A2)\n   * Donepezil, sertraline (sigma-1 receptor agonists)\n   * Warfarin (increased risk of bleeding)\n   * Phenytoin (rationale: fluvoxamine inhibits its metabolism)\n   * Clopidogrel (fluvoxamine inhibits its metabolism from pro-drug to active drug which raises the risk of cardiovascular events)\n   * Monoamine oxidase inhibitors (linezolid, rasagiline, selegiline), triptans (sumatriptan, naratriptan, almotriptan, frovatriptan, zolmitriptan, rizatriptan), lithium, tramadol (rationale: to prevent the possible development of serotonin syndrome)\n   * Alprazolam, diazepam (fluvoxamine modestly inhibits the metabolism of these drugs): The patient could be enrolled in case of agreeing 25% dose reduction of these medications.\n8. Already enrolled in another COVID-19 medication trial\n9. Medical comorbidities such as severe underlying lung disease (chronic obstructive pulmonary disease on home oxygen, interstitial lung disease, pulmonary hypertension), decompensated cirrhosis, chronic viral hepatitis, congestive heart failure (stage 3 or 4 per patient report and/or medical records), chronic kidney disease, or end-stage renal disease requiring renal replacement therapy\n10. Immunocompromised (solid organ transplant, bone-marrow transplant, acquired immune deficiency syndrome, on biologics and/or high dose steroids \\[\\>20mg prednisone per day\\])\n11. Unable to provide informed consent (e.g., moderate-severe dementia diagnosis)\n12. Unable to perform the study procedures (self-assessment of oxygen saturation, blood pressure, and temperature using self-monitoring equipment)",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Severe Acute Respiratory Syndrome Coronavirus 2",
+    "Coronavirus Infection",
+    "Mild to Moderate COVID-19"
+  ],
+  "overall_status": "SUSPENDED"
+}

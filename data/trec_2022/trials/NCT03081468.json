@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03081468",
+  "title": "The PUPIL Study - Automated, Quantitative Pupil Assessment Using Binocular OCT",
+  "brief_summary": "In current, clinical ophthalmology, a range of specialised testing allows comprehensive evaluation of ocular health. These tests have typically evolved over many years to ensure their clinical validity. For example, the assessment of visual acuity has traditionally been measured with Snellen letter charts from a distance of six metres (20 feet), leading to the phrase \"20/20 vision\". Despite this, the limitations of Snellen testing are well established and more sophisticated testing is now available (e.g., logMAR testing using ETDRS (Early Treatment Diabetic Retinopathy Study) charts). Many other diagnostic tests have undergone similar cycles of refinement, often over extended time periods. Therefore, it should be incumbent on any new device to undergo detailed evaluation of its validity (how its measurements agree with other testing) and its repeatability (the variability when a further measurement is obtained in short time period, by the same operator and under the same conditions).\n\nBinocular OCT extends the application of OCT devices beyond that of simple, cross- sectional imaging to a diverse array of diagnostic tests. The binocular design also removes the need for additional personnel to perform testing (i.e., the device can be self-operated in an automated manner), and allows for novel testing to be performed that is not possible with monocular imaging. In particular, binocular OCT devices have the potential to perform automated, quantitative pupillary measurements - an entirely novel application for this imaging modality.\n\nThis study will assess the validity and repeatability of pupil measurements using binocular OCT.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion criteria for participants with eye disease will include:\n\n* Presence of RAPD as measured with RAPDx\n* Presence of retinal disease, glaucoma or neuro-ophthalmic conditions that affect the optic nerve\n* Male or female, aged 18 years or older\n* Ability to understand nature/purpose of the study and to provide informed consent\n* Ability to undergo binocular OCT imaging\n* Ability to follow instructions and complete the study\n* Ability to speak English\n\nExclusion criteria for participants with eye disease will include:\n\n* Optical media opacity sufficient to preclude adequate ocular imaging with OCT\n* Ptosis (drooping of the upper eyelid) sufficient to preclude visualization of the pupils using OCT\n* Significant pupil irregularity that precludes reliable measurement of RAPD\n* Any condition that is likely to interfere with pupillary constriction (e.g., iris pathology)\n* Hearing impairment sufficient to interfere with hearing instructions\n* Any condition which, in the investigator's opinion, would conflict or otherwise prevent the subject from complying with the required procedures, schedule, or other study conduct.\n\nInclusion criteria for healthy subjects will include:\n\n* No self-reported ocular history (although wearing corrective prescription glasses is permitted)\n* Male or female, aged 18 years or older\n* Ability to understand nature/purpose of the study and to provide informed consent\n* Ability to undergo binocular OCT imaging\n* Ability to follow instructions and complete the study\n* Ability to speak English\n\nExclusion criteria for healthy subjects will include:\n\n* Presence of ocular pathology, including ptosis or pupil irregularities\n* Hearing impairment sufficient to interfere with hearing instructions\n* Any condition which, in the investigator's opinion, would conflict or otherwise prevent the subject from complying with the required procedures, schedule, or other study conduct.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants with eye disease (retinal disease, glaucoma, and neuro-ophthalmic conditions), and confirmed relative afferent pupillary defect as measured with RAPDx, and participants with no ocular abnormality (\"healthy volunteers\") will be recruited for the study.",
+  "condition": [
+    "Healthy Volunteers",
+    "Relative Afferent Pupil Defect",
+    "Pupil Anomaly"
+  ],
+  "overall_status": "COMPLETED"
+}

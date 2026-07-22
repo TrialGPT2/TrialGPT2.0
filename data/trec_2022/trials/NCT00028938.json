@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00028938",
+  "title": "Chemotherapy and Radiation Therapy With or Without Epoetin Alfa in Treating Patients With Stage IIIA or Stage IIIB Non-Small Cell Lung Cancer",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to damage tumor cells. Epoetin alfa may stimulate red blood cell production and prevent or treat anemia in patients who are undergoing radiation therapy and chemotherapy. It is not yet known if chemotherapy combined with radiation therapy is more effective with or without epoetin alfa in treating non-small cell lung cancer.\n\nPURPOSE: Randomized phase III trial to determine the effectiveness of chemotherapy combined with radiation therapy with or without epoetin alfa in treating patients who have stage IIIA or stage IIIB non-small cell lung cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed stage IIIA or IIIB non-small cell lung cancer (NSCLC)\n\n  * Squamous cell carcinoma\n  * Adenocarcinoma (including bronchoalveolar cell)\n  * Large cell anaplastic carcinoma (including giant and clear cell carcinomas)\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nPerformance status:\n\n* Karnofsky 60-100%\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* Granulocyte count at least 1,500/mm3\n* Platelet count at least 100,000/mm3\n* Hemoglobin 11.0-15 g/dL\n* If hemoglobin is 11.0-11.9 g/dL then the following lab values are required:\n\n  * Iron greater than 60 mcg/mL\n  * Transferrin saturation greater than 20%\n  * Ferritin at least 100 mg/mL\n  * Iron binding capacity less than 400 mcg/dL\n  * RBC folate normal\n  * B12 normal\n\nHepatic:\n\n* Bilirubin less than 1.5 mg/dL\n* AST less than 2 times upper limit of normal\n\nRenal:\n\n* Creatinine clearance at least 20 mL/min\n\nCardiovascular:\n\n* No uncontrolled hypertension\n\nPulmonary:\n\n* FEV1 at least 0.8 L\n\nOther:\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No known hypersensitivity to mammalian cell-derived products or human albumin\n* No other concurrent or prior malignancy within the past 2 years except non- melanoma skin cancers\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* At least 30 days since prior transfusion\n* No prior epoetin alfa or experimental forms of epoetin alfa\n\nChemotherapy:\n\n* No prior chemotherapy for NSCLC\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* No prior radiotherapy for NSCLC\n\nSurgery:\n\n* At least 2 weeks since prior thoracotomy\n\nOther:\n\n* No concurrent therapy for iron, folate, or B12 deficiency\n* No other concurrent anti-cancer therapy",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lung Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

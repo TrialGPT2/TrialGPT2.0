@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT01805869",
+  "title": "Oral Specimen and Data Acquisition Study of Subjects Requiring Third Molar Removal",
+  "brief_summary": "Background:\n\n\\- The third molars (wisdom teeth) normally grow in during late adolescence or early adulthood. Many people need or choose to have these teeth removed with oral surgery. Normally, the removed teeth and tissue are thrown away as medical waste. However, oral health researchers want to collect the teeth and tissue for research. They also want to encourage dentists at the National Institutes of Health to improve their skills in oral surgery. This study will collect the teeth and tissue of people who need to have oral surgery to remove their wisdom teeth.\n\nObjectives:\n\n* To provide continued dental skills training for dentists at the National Institutes of Health.\n* To collect teeth and tissue samples following wisdom tooth removal surgery.\n\nEligibility:\n\n\\- Individuals between 16 and 50 who need to have their wisdom teeth removed.\n\nDesign:\n\n* This study will involve a minimum of three visits. There will be a screening visit, a surgery visit, and at least one follow-up visit.\n* Participants will be screened with a physical exam and medical history. A full dental exam with x-rays will be given to evaluate the need for surgery.\n* At the second visit, participants will have oral surgery to remove their wisdom teeth. The teeth and tissue removed during the surgery will be collected for study.\n* Participants will receive drugs to control the pain after surgery. They will also be able to contact a dentist if there are any problems.\n* Between 7 and 21 days after surgery, participants will have a followup visit to check the healing. If they are having no problems, this will be the last visit. If there are any postsurgery issues, they will be scheduled for additional visits as needed.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Ages greater than or equal to 16-50 years\n* Clinical evidence of need for third molar extraction as determined by medical, dental, and radiographic evaluation by a NIDCR oral surgeon\n* Willing to allow for the collection of extracted waste tissue (e.g., teeth, alveolar bone, excessive gingival tissue) to be used for research\n* In good general health as defined by the American Society of Anesthesiologists (ASA) status I or II\n* Able to understand and sign an informed consent\n\nEXCLUSION CRITERIA:\n\n* Pregnant or nursing women\n* Unable to have third molar extraction as determined by NIDCR surgeon/dentist, due to medical conditions (beyond ASA I or II), complexity of the surgery, or history that precludes safe outpatient conscious sedation. These clinical decisions will be based on the risks and benefits related to the surgery.",
+  "minimum_age": "16 Years",
+  "maximum_age": "50 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The protocol will enroll a convenience sample of 10,000 subjects ages \\>16-50 in need of clinically indicated extraction of third molars.",
+  "condition": [
+    "Stomatognatic",
+    "Tooth Diseases",
+    "Diseases",
+    "Tooth",
+    "Tooth Impaction"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is not an oncology trial and does not involve systemic therapy for advanced disease. The study enrolls individuals needing third molar (wisdom tooth) extraction for oral health research and dental training purposes.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The trial does not involve cancer, systemic therapy, or lines of therapy for advanced disease. Eligibility is based solely on the need for third molar extraction, not prior treatment history."
+    }
+  ]
+}

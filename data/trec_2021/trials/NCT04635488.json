@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04635488",
+  "title": "Prediction Model for Lateral Lymph Node Metastasis",
+  "brief_summary": "Mid to low-lying rectal cancer patient with enlarged lateral lymph node befor treatment and receiving lateral lymph node dissection would be enrolled. Radiomics parameters of lateral lymph nodes would be extracted by expert software. Then a part of the nodes would be used as the training set to build the prediction model, and the another part nodes would be used as the validation set.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* middle to low-lying rectal adenocarcinoma patients with enlarged lateral lymph node \u22655mm for short diameter in CT and/or MRI\n\nExclusion Criteria:\n\n* other kind of rectal tumor including neuroendocrine and malignant.\n* high location rectal cancer.\n* recurrent rectal cancer",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "patients with rectal cancer.",
+  "condition": [
+    "Rectal Cancer"
+  ],
+  "overall_status": "UNKNOWN"
+}

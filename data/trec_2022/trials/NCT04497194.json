@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04497194",
+  "title": "Registry of COVID-19 Patients at AOUI Verona",
+  "brief_summary": "The registry of COVID-19 patients was designed to collect epidemiolgical, demographic, clinical, anamnestic and outcome information together with serological and microbiological samples from COVID-19 patients admitted at the University Hospital of Verona (Azienda Ospedaliera Universitaria Integrata, AOUI Verona). All SARS-CoV 2 positive patients admitted and able to give an informed consent are included, irrespectively of age and gender.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* PCR for SARS-CoV 2 positive on NPS swab or high suspicion of SARS-CoV 2 with ongoing swab;\n* All ages;\n* All genders;\n* Informed consent obtained.\n\nExclusion Criteria:\n\n* Failure to obtain the informed consent.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "COVID-19 patients admitted at the University Hospital of Verona (Azienda Ospedaliera Universitaria Integrata, AOUI Verona).",
+  "condition": [
+    "Coronavirus Disease 2019"
+  ],
+  "overall_status": "COMPLETED"
+}

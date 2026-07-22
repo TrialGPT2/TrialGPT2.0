@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02039375",
+  "title": "Safety Study of Post Intravenous tPA Monitoring in Ischemic Stroke",
+  "brief_summary": "Intravenous (IV) tissue plasminogen activator (tPA) is the only FDA-approved therapy for treatment of acute ischemic stroke. In the United States, IV tPA is typically administered in the Emergency Department (ED) for patients presenting with acute ischemic stroke within 4.5 hours of symptom onset. It is current practice that post-tPA patients are monitored in an intensive care unit or intensive care unit (ICU)-like setting for at least 24 hours, in part due to frequent vital sign and neurological monitoring that is currently the standard of care. However, rigorous evidence to support this practice is largely lacking. In a retrospective analysis of 153 patients receiving IV tPA at Johns Hopkins Hospital (JHH) and Johns Hopkins Bayview Medical Center (JHBMC), investigators have shown that most patients who have ICU needs in the first 24 hours after tPA administration develop such needs by the end of the tPA infusion. Patients without ICU needs by the end of the tPA infusion, do not require further ICU resources if patients' presenting NIH Stroke Scale (NIHSS) is below 10. This study is a prospective clinical trial that aims at establishing the first proof-of-concept and feasibility of whether patients with a low NIHSS (NIHSS 9 or less) and that do not need ICU care by the end of the tPA infusion, can be monitored safely in a non-ICU setting with a novel monitoring protocol. Identifying post-tPA patients who can be safely monitored in a non-ICU environment may improve cost-effective utilization of ICU resources and reduce the length of hospitalization for stroke patients.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* Ability to provide written informed consent (or a Legally Authorized Representative (LAR) available to provide informed consent) and comply with study assessments for the full duration of the study.\n* Age 18-80 years\n* Patients to be included will be diagnosed as having an acute ischemic stroke by history and physical exam and receive IV tPA within 4.5 hours of symptom onset according to current guidelines for acute stroke care.\n* NIHSS at presentation \\<10\n* Patients do not have ICU needs in the judgment of the treating ED physician or neurologist by the end of the tPA infusion\n* NIHSS at the end of tPA infusion \\<10\n\nExclusion Criteria:\n\n* For patients receiving IV tPA according to the current standard of care, the following exclusion criteria apply:\n\n  * Age \\<17 or \\>80\n  * ICU need or indication by the end of the tPA infusion\n  * NIHSS \\>9 at presentation or at the end of the tPA infusion\n  * Indication/need for endovascular recanalization therapy",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke",
+    "Ischemic Stroke"
+  ],
+  "overall_status": "COMPLETED"
+}

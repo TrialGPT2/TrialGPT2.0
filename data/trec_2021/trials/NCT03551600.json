@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03551600",
+  "title": "Splanchnic and Renal Tissue Oxygenation During Enteral Feedings in Neonates With Patent Ductus Arteriosus",
+  "brief_summary": "Patent ductus arteriosus (PDA) is a common problem in the neonatal intensive care unit and can be secondary to prematurity or congenital heart disease (CHD). PDA is the most common cardiovascular abnormality in preterm infants, and is seen in 55% of infants born at 28 weeks, and 1000 grams or less. In addition to producing heart failure and prolonged respiratory distress or ventilator dependence, PDA has been implicated in development of broncho-pulmonary dysplasia, interventricular hemorrhage, cerebral ischemia, and necrotizing enterocolitis (NEC). In an Israeli population study 5.6% of all very low birth weight infants (VLBW) were diagnosed with NEC, and 9.4% of VLBW infants with PDA were found to have NEC. In a retrospective analysis of neonates with CHD exposed to Prostaglandin E found that the odds of developing NEC increased in infants with single ventricle physiology, especially hypoplastic left heart syndrome. The proposed pathophysiological explanation of NEC and PDA is a result of \"diastolic steal\" where blood flows in reverse from the mesenteric arteries back into the aorta leading to compromised diastolic blood flow and intestinal hypo-perfusion. Prior studies have demonstrated that infants with a hemodynamically significant PDA have decreased diastolic flow velocity of the mesenteric and renal arteries when measured by Doppler ultrasound, and an attenuated intestinal blood flow response to feedings in the post prandial period compared to infants without PDA. Near Infrared Spectroscopy (NIRS) has also been used to assess regional oxygen saturations (rSO2) in tissues such as the brain, kidney and mesentery in premature infants with PDA. These studies demonstrated lower baseline oxygenation of these tissues in infants with hemodynamically significant PDA. These prior NIRS studies evaluated babies with a median gestational age at the time of study of 10 days or less. It is unknown if this alteration in saturations will persist in extubated neonates with PDA at 12 or more days of life on full enteral feedings.\n\nIn the present study the investigators hypothesize that infants with a PDA, whether secondary to prematurity or ductal dependent CHD, will have decreased splanchnic and renal perfusion and rSO2 renal/splanchnic measurements will be decreased during times of increased metabolic demand such as enteral gavage feeding. To test this hypothesis the investigators have designed a prospective observational study utilizing NIRS to record regional saturations at baseline, during feedings, and after feedings for 48 hours.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* PDA secondary to prematurity\n\n  1. Premature infants of \u2264 32 weeks gestational age at birth\n  2. Patent ductus arteriosus diagnosed via echocardiogram\n  3. Feeding volume \u2265 70 ml/kg/day\n  4. Stable Clinical Condition (no vasopressors, no clinical sepsis)\n  5. Age \u2265 12 days of life\n\nControl group\n\n1. Premature infants of \u2264 32 weeks gestational age at birth\n2. No PDA\n3. Feeding volume \u2265 70 ml/kg/day\n4. Stable Clinical Condition (no vasopressors, no clinical sepsis)\n5. Age \u2265 12 days of life\n\nPDA secondary to CHD and Prostaglandin E (PGE)\n\n1. Infants of \u2265 32 weeks gestational age at birth\n2. Ductal dependant congenital heart disease\n3. PGE infusion\n4. No prior cardiac surgery\n5. Any bolus feedings 10 ml/kg/day or more\n6. Stable Clinical Condition (no vasopressors, no clinical sepsis)\n7. Age \u2265 12 days of life\n\nControl Group\n\n1. Infants of \u2265 32 weeks gestational age at birth\n2. No know congenital heart defect including PDA.\n3. No prior cardiac surgery\n4. Feeding volume \u2265 1/2 of total fluid volume \\~50- 70 ml/kg/day\n5. Stable Clinical Condition (no vasopressors, no clinical sepsis)\n\nExclusion Criteria:\n\n* Lack of parental consent\n* Multiple congenital anomalies\n* Unstable clinical condition\n* Prior abdominal pathology (medical/surgical necrotizing enterocolitis within the last 14 days, gastroschisis, or other abdominal abnormality)",
+  "minimum_age": "12 Days",
+  "maximum_age": "6 Months",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Preterm, Late preterm, and term infants",
+  "condition": [
+    "Infant, Premature",
+    "Congenital Heart Disease",
+    "Patent Ductus Arteriosus",
+    "Necrotizing Enterocolitis"
+  ],
+  "overall_status": "COMPLETED"
+}

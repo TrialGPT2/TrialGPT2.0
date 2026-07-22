@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01698489",
+  "title": "The Very Large Database of Lipids",
+  "brief_summary": "Closer examination of granular lipid data in a large population offers numerous opportunities to generate new knowledge, ranging from studies examining concordance between commonly used lipid parameters to phenotypic characterization of rare or extreme disorders of lipid metabolism, opening possibilities to better personalize future treatment of abnormal blood lipids.\n\nSTUDY POPULATION:\n\nThe Very Large Database of Lipids (VLDL) includes adults and children who were clinically referred for a Vertical Auto Profile (VAP). Patient samples originated predominantly from outpatient primary care clinics in the U.S. (85%), along with specialty clinics and inpatient settings.\n\nLIPID MEASUREMENTS:\n\nThe VAP test (VAP Diagnostics Lab, Birmingham, Alabama, USA) directly measures cholesterol concentrations of low density lipoprotein, very low density lipoprotein, intermediate density lipoprotein, high density lipoprotein, their subfractions, and lipoprotein(a). Triglycerides in the database are directly measured using the Abbott ARCHITECT C-8000 system (Abbott Park, Illinois, USA). Lipid distributions in the database closely match those from the population-representative National Health and Nutrition Examination Survey (NHANES).\n\nSTUDY PROCEDURES:\n\nThis database was investigator-initiated. Only de-identified data reach the investigational site. The master database is housed at The Johns Hopkins Hospital in Baltimore, Maryland, and maintained by Drs. Jones and Martin. The current database (2nd harvest) includes 5,051,467 patients whose laboratory samples were collected from October 1, 2015 and June 30, 2019. Only electronic data, and not blood samples, are sent to Hopkins. The academic investigators have unrestricted access to study data, take responsibility for the accuracy of analyses, and have authority over manuscript preparation and submission.\n\nVARIABLES:\n\nThe variables currently in the VLDL database are testing date, age, sex, fasting/nonfasting, and components of the VAP test. From these primary variables, many additional variables were derived for inclusion in the master database. Other analytes measured by validated assays in subsets of the VLDL database include apolipoprotein B (apoB), apolipoprotein A1 (apoAI), high-sensitivity C-reactive protein (hsCRP), homocysteine, uric acid, insulin, hemoglobin A1c, 25-hydroxy vitamin D, cystatin C, lipoprotein-associated phosphatase (Lp-PLA2), thyroid stimulating hormone (TSH), free T3 and T4, pro-brain natriuretic peptide (pBNP), direct bilirubin, creatine phosphokinase (CPK), creatinine and other components of the comprehensive metabolic panel, magnesium, and phosphate.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Patients with age and lipid data are included in the master database. Eligibility criteria are specific to each individual study.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients clinically referred for VAP density gradient ultracentrifugation.",
+  "condition": [
+    "Lipid Disorders and Lipid Measurement"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

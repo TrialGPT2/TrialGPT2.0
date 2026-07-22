@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04692675",
+  "title": "Multiparametric Magnetic Resonance Imaging of the Prostate to Assess Disease Progression and Genomics in Patients Undergoing Active Surveillance for Prostate Cancer",
+  "brief_summary": "Background:\n\nActive surveillance (AS) is a standard approach to treat low and intermediate risk prostate cancer. For AS, disease progression is monitored. AS uses biopsies, prostate specific antigen (PSA) blood tests, and other tools. Researchers want to see if multiparametric magnetic resonance imaging (mpMRI) can help improve AS.\n\nObjective:\n\nTo see if mpMRI can improve how people are monitored during AS.\n\nEligibility:\n\nMen age 18 and older who have been diagnosed with prostate cancer within the last 2 years.\n\nDesign:\n\nParticipants will undergo AS. Their PSA level will be checked once a year via blood test. They will have a digital rectal exam once a year.\n\nParticipants will have biopsies every 2-3 years. Needles will be put into different parts of the prostate. The needles are guided by ultrasound imaging.\n\nParticipants will also have targeted biopsies with mpMRI and MRI guided fusion (MRI-US fusion). MRI-US fusion combines previous MRI images with live ultrasound images. For MRIs, participants will lie on their stomach on the scanner table. A coil may be placed in the rectum.\n\nParticipants will have a physical exam and medical record review at least every 3 years. Their weight and vital signs will be checked. They will give data about their daily activities, side effects, and symptoms.\n\nEvery 2-3 years, participants will fill out surveys about their prostate health and quality of life.\n\nParticipants may give blood, urine, prostate secretion, and saliva samples. The samples will be used for research.\n\nParticipation will last for as long as the participant does not need actual treatment for his prostate cancer....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Participants must have confirmed histopathological diagnosis of adenocarcinoma of the prostate within 2 years prior to study entry. Pathologic diagnosis must be confirmed by Laboratory of Pathology, NCI. If archival tissue is unavailable or insufficient for this purpose, a fresh biopsy will be collected.\n* Biopsy confirmed prostate cancer with Gleason less than or equal to 3+4=7 (primary pattern 3)\n* Clinical stage: cT1C or cT2A\n* Adult males, greater than or equal to 18 years old\n\nNOTE: Children are excluded because prostate cancer is not common in pediatric populations. Women are not eligible because this disease occurs only in men.\n\n* Ability of subject to understand and the willingness to sign a written informed consent document All participants should have a consent signed that demonstrates an understanding of active surveillance and the decision to choose active surveillance for their prostate cancer.\n* Subjects must be co-enrolled to NCI protocol 16-C-0010 Care of the Prostate Cancer Patient and Prospective Procurement of Prostate Cancer Tissue\n\nEXCLUSION CRITERIA:\n\n* Metastatic prostate cancer/locally advanced disease\n* Previous radiation to the pelvis\n* Contraindications to prostate biopsy, including:\n\n  * Bleeding disorder that is not currently treated and stable with normal INR values greater than 2 and PT, PTT less than or equal to 1.5 times the upper limit of normal value.\n  * Severe immunocompromise with CD4 count of less than 200 in HIV patients and bone marrow transplantation patients and or patients with severe combined immunodeficiency.\n  * Severe hemorrhoids grade 3 and above\n  * Prior surgery in the pelvis that prevents accurate imaging or biopsy including low anterior resection or abdominoperineal resection.\n  * Prior focal or whole gland therapy of the prostate for prostate cancer\n* Contraindication to mpMRI, including allergy or sensitivity to contrast agents or insufficient renal function to safely tolerate MRI contrast agent\n* mpMRI evidence of greater than or equal to T3 disease, including seminal vesicle invasion (SVI), extraprostatic extension (EPE) or locoregional spread of disease\n* Any other medical conditions deemed by the PI or associates to make the participants ineligible for protocol procedures",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Prostate Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls men with newly diagnosed, localized prostate cancer who are undergoing active surveillance and have not received any prior systemic therapy for advanced disease. The study population is treatment-naïve for advanced/metastatic disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligible patients must have localized prostate cancer (cT1C or cT2A) and be on active surveillance, with no prior systemic therapy for advanced or metastatic disease allowed. There is no mention of prior adjuvant or neoadjuvant therapy, but the population is newly diagnosed and treatment-naïve for advanced disease. Patients who have not received any systemic therapy for advanced disease are included."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03890939",
+  "title": "Effect of Servo-Ventilation on CO2 Regulation and Heart Rate Variability",
+  "brief_summary": "Obstructive Sleep Apnea-Hypopnea Syndrome (OSAHS) is a condition where the upper airway partially collapses and closes. This can lead to sleep problems including low oxygen levels, poor sleep, elevated carbon dioxide levels in the blood, and activation of the sympathetic nervous system. Results from having disrupted sleep may be excessive daytime sleepiness along with behavioral, functional, cardiovascular and cognitive dysfunction. Continuous Positive Airway Pressure (CPAP) is the most effective treatment for OSAHS. CPAP stabilizes the airway and prevents instability and collapse. Other forms of positive airway pressure that are approved for the treatment of OSAHS include automatically adjusting CPAP, Bi-level Positive Airway Pressure (BiPAP), and automatically adjusting BiPAP. Automatically adjusting CPAP (Auto CPAP) evaluates the airflow pattern and adjusts pressure to optimize airflow. AutoSV (Auto Servo Ventilation) is a mode of positive airway pressure used to treat obstructive and complex central sleep apnea.\n\nIn the prior study, the investigators found that the Auto S7 device led to more positive ventilation outcomes. Specifically, there was prolongation of QTc interval (the calculated time from the Q wave to the end of the T wave) and a tendency for greater premature ventricular contractions. The mechanistic basis for this could be attributable to excessive ventilation and related pro-arrhythmic effects of hypocapnia, though the investigators had not performed measures (partial pressure of CO2 (PaCO2) to detect this.\n\nIn the current study, the investigators would like to investigate the hypothesis that the S7 device leads to lower PaCO2 levels than other devices, and whether these effects are augmented in individuals with complex sleep apnea in the setting of systolic heart failure.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Ability to provide consent\n* Currently prescribed servo ventilation therapy at home\n* At least two weeks of recent adherence and efficacy data from PAP device demonstrating adequate use of therapy (at least 4 hours of use per night and use on at least 10 of 14 nights)\n* Individuals with complex sleep apnea (obstructive sleep apnea with central apneas) and preserved left-ventricular ejection fraction (LVEF \\> 45%) and/or heart failure with preserved ejection fraction (HFrEF) who are currently on ASV therapy.\n* Individuals with complex sleep apnea (predominantly obstructive sleep apnea with central apneas) and reduced left-ventricular ejection fraction (LVEF \\< 45%) and/or heart failure with reduced ejection fraction (HFrEF) who are currently on ASV therapy.\n\nExclusion Criteria:\n\n* Participants who are acutely ill, medically complicated or who are medically unstable\n* Participants in whom PAP therapy is otherwise medically contraindicated\n* Participants who are claustrophobic\n* Symptomatic (\"Symptomatic\" defined as hospitalized for heart failure or a change in cardiac medications, within the last two months) chronic heart failure (NYHA 2-4) AND moderate to severe predominant central sleep apnea\n* Participants with previously diagnosed respiratory failure or respiratory insufficiency and who are known to have elevated arterial carbon dioxide levels while awake (PaCO2 \u2265 55mmHg).\n* Participants requiring any kind of oxygen therapy\n* Participants who have had surgery of the upper airway, nose, sinus, eyes, or middle ear within the previous 90 days.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sleep Apnea, Mixed",
+    "Heart Failure"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00042614",
+  "title": "Study of Heart Transplant Rejection",
+  "brief_summary": "This study will investigate the causes of acute and chronic rejection of transplanted hearts. To find better ways to detect, treat and possibly prevent heart transplant rejection, more information about the cause is needed. Acute and chronic heart transplant rejection may be caused by certain substances the body produces in response to the new heart. This study will try to find a blood or urine test that detects genes and proteins that can serve as markers of rejection. Such a test may lead to earlier detection and improved treatment.\n\nPatients 18 years and above who are on a wait list for heart transplant at a UNOS-approved heart transplant center, whose institutional review board has approved this protocol, may be eligible for this study. Healthy volunteers will also be included in the study to establish a database of normal values for comparison with patients undergoing heart transplant. In addition, patients who have had a heart transplant within the past 1 to 5 years will be enrolled in a pilot study. Normal volunteers will be screened for participation with an electrocardiogram (EKG) and echocardiogram, non-invasive tests to evaluate heart function.\n\nParticipants will undergo the following procedures:\n\n* Review of medical records Patients who have had a heart transplant and those on a wait list to receive a heart will have their medical records reviewed to collect information on their condition.\n* Blood samples 60 cc (about 3 tablespoons) of blood will be collected from all participants by needle stick in a vein. The sample will be analyzed for genes and proteins that might predict heart rejection. In addition, many genes in blood cells and cells lining blood vessels that are unrelated to heart transplant rejection and whose functions or significance are unknown will also be examined for ideas for future research. Patients enrolled while on a wait list will, after transplantation, have an additional 44 cc (about 2 tablespoons) of blood collected at each heart biopsy and rejection episode during the first year of transplant, and 60 cc collected with each yearly biopsy for the next 9 years.\n* Urine samples Between 100 and 300 cc (3 to 10 ounces) of urine may be collected from all participants to confirm blood test results",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA - for Transplant Patients:\n\n  1. Adult heart transplant center generally accepts patients within the physiologic age range of 12 to 65 years old, however, for our study heart transplant patients must be 18 years of age or above.\n  2. Indication for cardiac transplantation as outlined by the 24th Bethesda Conference on Cardiac Transplantation. These are as follows:\n* Peak VO(2) less than 10 ml/kg per minute or less than 50% of maximal predicted VO(2) with achievement of anaerobic metabolism.\n* Severe cardiac ischemia consistently limiting routine activity not amenable to surgical or percutaneous revascularization.\n* Recurrent symptomatic ventricular arrhythmias refractory to all accepted therapeutic modalities.\n\nEXCLUSION CRITERIA - for Transplant Patients:\n\nAdult heart transplant centers exclude infants, toddlers, and children with a physiologic age less than 12, and adults with advanced physiologic age (less than 65), however, for our study we will exclude heart transplant patients less than 18 years of age.\n\nThe final decision to exclude a candidate from cardiac transplantation will be made by the hospital's heart transplant committee. The committee uses, as a guideline, the criteria outlined in the 24th Bethesda conference.\n\nINCLUSION CRITERIA - for Control Subjects:\n\nAny healthy normal man or women who is the appropriate age and gender for matching to a transplant patient.\n\nEXCLUSION CRITERIA - For Control Subjects:\n\n1. EKG with evidence of clinically relevant heart disease.\n2. Echocardiogram with evidence of clinically relevant heart disease.\n3. Any disease process that is not well controlled by medications.\n4. Total tobacco use for greater than one month over the last 5 years.\n5. Symptoms of coronary or cardiac insufficiency.\n6. More than one major risk factor for coronary artery disease excluding gender or age.\n7. Confirmed intrauterine pregnancy in women.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who have had heart transplants, Patients Awaiting Heart Transplant, and Controls screened to obtain. Controls matched to patients for age, gender and race.@@@",
+  "condition": [
+    "Heart Transplantation"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study of heart transplant patients and healthy controls to investigate markers of transplant rejection. There is no systemic therapy for advanced disease or line-of-therapy intent relevant to oncology.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls heart transplant recipients, patients on the transplant waitlist, and healthy controls. There is no mention of systemic therapy for advanced/metastatic disease or any oncology-specific line-of-therapy criteria."
+    }
+  ]
+}

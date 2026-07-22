@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04708158",
+  "title": "Novaferon for COVID-19 Treatment Trial (NCTT-005)",
+  "brief_summary": "A multicenter, randomized, double-blind, placebo-controlled trial for hospitalized moderate COVID-19 patients",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Written informed consent has been obtained from the participants with age of over 20 years at the time of signing the informed consent.\n* SARS-CoV-2 infection is diagnosed by the positive SARS-CoV-2 detection of RT-PCR tests within 72 hours before the start of administration of the investigational drug\n* Less than 6 days from onset of COVID-19 symptoms to starting the administration of the investigational drug. The symptoms are defined as one or more of the following: fever (37.5 \u00baC or higher), respiratory symptoms (cough, shortness of breath, chest pain, sore throat, running nose, nasal congestion, etc.), headache, malaise, abdominal pain, diarrhea, nausea, vomiting, loss of smell, loss of taste, or other COVID-19 symptoms defined by investigators or physicians.\n* Have at least one of the following findings.\n* Oxygen saturation (SpO2) measured by pulse oximeter is less than 96% and more than 93%.\n* Chest X-ray or CT scan shows pneumonia findings suggestive of COVID-19 infection\n* Need hospitalization and COVID-19-related medical care.\n* Require no supplemental oxygen.\n* Women (less than 12 months after the last menstrual period) who have a negative pregnancy test (urine hCG qualification) and agree to take oral contraceptives or use condom during study period.\n\nExclusion Criteria:\n\n* History of hypersensitivity to interferon or Novaferon or any excipients of interferon or Novaferon.\n* Having received other antiviral treatments (Favipiravir, Remdesivir, Interferon, etc.).\n* CTCAE Grade 3 or higher liver dysfunction (ALT / AST\\> 5ULN) or renal dysfunction (eGFR \\<30 mL / min / 1.73 m2).\n* Active infections or other medical conditions that contraindicate inhalation therapy.\n* Inappropriate for inclusion in the clinical trial as determined by investigators.",
+  "minimum_age": "20 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03537495",
+  "title": "Pharmacokinetic Study of Linezolid for TB Meningitis",
+  "brief_summary": "Tuberculosis meningitis (TBM) is the most severe manifestation of TB, resulting in death or neurological disability in up to 50% of affected patients, despite antibacterial treatment. This TBM treatment follows the model for pulmonary TB by using the same first-line TB drugs (a combination of rifampicin, isoniazid, pyrazinamide and ethambutol) and the same dosing guidelines, although it is known that penetration of two of these drugs (rifampicin and ethambutol) into cerebrospinal fluid (CSF) is limited. Improvement of treatment of TBM is urgently needed.\n\nTo do so, a combination of two interventions will be investigated in this study. A series of phase II clinical trials on higher doses of the pivotal TB drug rifampicin in Indonesian patients with TBM have shown that the dose of rifampicin can be increased from 10 mg/kg orally (standard dose) up to 30 mg/kg orally, resulting in a strong increase in exposure to this drug in plasma and CSF, no increase in grade III or IV adverse effects, and a reduction in mortality. Similarly, higher doses of rifampicin up to 35 mg/kg resulted in strong increases in plasma concentrations; the doses were well tolerated and reduced time to sputum conversion in African pulmonary TB patients.\n\nNext to a higher dose of rifampicin, the approved antibacterial drug linezolid seems a good candidate for a new TBM regimen. The drug penetrates well into the CSF and is applied successfully against other central nervous system (CNS) infections (e.g. caused by penicillin-nonsusceptible Streptococcus pneumoniae, vancomycin-resistant enterococci and methicillin-resistant Staphylococcus aureus). In a study in China, linezolid in a dose of 600 mg BID orally strongly increased recovery of patients with TBM response. Linezolid is also being investigated as a new drug for (drug-resistant) pulmonary TB in numerous studies, in a dose of 1200 mg once daily. More severe adverse effects to this drug typically occur only after prolonged treatment during several months, not during short-term treatment.\n\nOverall, linezolid is expected to be a promising and tolerable candidate for a new intensified TBM treatment regimen consisting of a backbone of high dose rifampicin plus linezolid.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age: 18 years old or older\n* Clinically diagnosed as TB meningitis patient\n* CSF/blood glucose ratio \\< 0.5\n* Willing to participate in the study by signing informed consent\n\nExclusion Criteria:\n\nPatients who have one of the following criteria will be excluded:\n\n* Failure to diagnostic lumbar puncture\n* Confirmed cryptococcus meningitis (LFA) in HIV-positive patients; or diagnosed as bacterial meningitis based on clinical assessment and routine CSF examination.\n* Treatment for tuberculosis for more than 3 days before admission\n* History of TBM\n* Current treatment with: MAO inhibitors, direct and indirect acting sympathomimetic drugs, vasopressive drugs, dopaminergic compounds, buspiron, serotonin reuptake inhibitors, tricyclic antidepressants, triptans, tramadol and meperidine\n* History (\\< 2 weeks before start of linezolid) of taking any MAO inhibitors\n* Pregnant or lactating females\n* Hepatic insufficiency (ALT\\>5x upper normal limit)\n* Kidney dysfunction (eGFR \\<50ml/min)\n* Known hypersensitivity to rifampicin and/or linezolid\n* Rapid clinical deterioration at time of presentation (sepsis, decreasing consciousness, or signs of cerebral oedema or herniation)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Tuberculosis, Meningeal",
+    "Linezolid"
+  ],
+  "overall_status": "COMPLETED"
+}

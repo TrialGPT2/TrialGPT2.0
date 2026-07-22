@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02152358",
+  "title": "PTH - Preemptive Treatment for Herpesviridae",
+  "brief_summary": "The aim of this study is to show that a preemptive treatment by ganciclovir (for positive CMV viremia) or aciclovir (for positive HSV oro-pharyngeal PCR) is able to increase the number of ventilator-free days at Day 60.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* mechanical ventilation \\> 96 hrs and expected duration of mechanical ventilation of at least 2 days\n* positive blood CMV PCR (500 IU/ml) OR positive oropharyngeal HSV PCR\n* age \\> 18 years\n* informed consent\n* negative pregnancy test\n\nExclusion Criteria:\n\n* \\< 18 years\n* Receiving ganciclovir or aciclovir or another antiviral agent active against HSV/CMV\n* Had received antiviral agent active against HSV/CMV during the previous month\n* Hypersensitivity to aciclovir/ganciclovir\n* Pregnancy\n* Breast feeding\n* Bone marrow failure\n* Solid organ recipients\n* Bone marrow recipients\n* HIV positive patients\n* Receiving immunosuppressive agents\n* SAPS II \\> 75\n* Withdrawing/withholding\n* Neutropenia (\\< 500 mm3)\n* Thrombocytopenia (\\< 25 G/L)\n* ICU readmission",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Viral Pneumonia"
+  ],
+  "overall_status": "COMPLETED"
+}

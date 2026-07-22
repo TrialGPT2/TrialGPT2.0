@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT01463462",
+  "title": "Electronic Catheter Stethoscope",
+  "brief_summary": "This is an observational, exploratory study designed to collect (record) and analyze normal and abnormal sound data from the human bladder during surgery using a novel sensor-based catheter system (Electronic Catheter Stethoscope) and to develop algorithms to detect changes of baseline bladder and ureteral function. The Electronic Catheter Stethoscope device will measure acoustic and pressure data within the bladder. The measurements will be used to detect any leakage from the bladder and/or changes in baseline ureteral flow by correlation of sound data with surgical data reported by the surgeon. These data will be used to develop algorithms to detect changes of baseline bladder and ureteral function. The algorithms will be tested in future clinical trials.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria\n\n* age 18 or older\n* plan to have one of the following types of surgery:\n\n  * laparoscopic or abdominal gynecological surgery\n  * vaginal surgery\n* able to provide written informed consent\n\nExclusion Criteria\n\n* under 18 years of age\n* bilateral tubal ligation as the single reason for surgery\n* current pregnancy\n* unable to provide written informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Current patients having gynecological surgery",
+  "condition": [
+    "Pelvic Organ Prolapse",
+    "Gynecologic Cancers",
+    "Uterine Leiomyomata",
+    "Adenomyosis",
+    "Endometrial Hyperplasia",
+    "Other Abnormal Uterine and Vaginal Bleeding",
+    "Pelvic Mass",
+    "Pelvic Pain"
+  ],
+  "overall_status": "COMPLETED"
+}

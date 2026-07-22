@@ -1,0 +1,50 @@
+{
+  "nctid": "NCT00462605",
+  "title": "MS-275 and GM-CSF in Treating Patients With Myelodysplastic Syndrome and/or Relapsed or Refractory Acute Myeloid Leukemia or Acute Lymphocytic Leukemia",
+  "brief_summary": "This phase II trial is studying how well giving MS-275 together with GM-CSF works in treating patients with myelodysplastic syndrome and/or relapsed or refractory acute myeloid leukemia. MS-275 may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the cancer. Colony-stimulating factors, such as GM-CSF, may increase the number of immune cells found in bone marrow or peripheral blood. Giving MS-275 together with GM-CSF may be an effective treatment for myelodysplastic syndrome and acute myeloid leukemia",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosis of 1 of the following diseases by bone marrow aspiration and/or biopsy:\n\n  * Myelodysplastic syndromes (MDS) meeting the following criteria:\n  * Must have 1 of the following subtypes:\n  * Refractory anemia (RA) (no RA with 5q-syndrome),\n  * RA with ringed sideroblasts or\n  * Refractory cytopenia with multilineage dysplasia\n* Myelodysplastic syndromes (MDS) meeting the following criteria:\n\nMust have 1 of the following subtypes:\n\n* Refractory cytopenia with multilineage dysplasia and ringed sideroblasts,\n* RA with excess blasts (RAEB)-1, RAEB-2,\n* Myelodysplastic syndromes, unclassified or\n* Chronic myelomonocytic leukemia\n\n  * International Prognostic Scoring System score of intermediate-2 or high-risk\n  * Acute myeloid leukemia (AML) meeting 1 of the following criteria:\n  * Relapsed or refractory AML, including any of the following subtypes:\n  * \\* AML with recurrent cytogenetic abnormalities (i.e., AML with 11q23 \\[MLL\\] abnormalities)\n* AML with multilineage dysplasia\n* AML that is therapy-related\n* AML, not otherwise categorized (M0 \\[minimally differentiated\\], M1 \\[without maturation\\], M2 \\[with maturation\\], M4 \\[myelomonocytic leukemia\\], M5 \\[monoblastic/monocytic leukemia\\], M6 \\[erythroid leukemia\\], and M7 \\[megakaryoblastic leukemia\\])\n\n  * Untreated AML\n* Newly diagnosed patients are eligible provided they do not qualify for potentially curative intensive chemotherapeutic regimens\n\n  * Acute lymphocytic leukemia (ALL) meeting 1 of the following criteria:\n* Relapsed or refractory ALL\n* Patients with any measurable residual disease are eligible, including cytogenetic abnormalities\n\n  * Untreated ALL\n* Newly diagnosed patients are eligible provided they do not qualify for potentially curative intensive chemotherapeutic regimens, including any of the following:\n* Patients who have refused chemotherapy for untreated ALL\n* Patients who are deemed to be poor candidates medically for ALL induction chemotherapy\n\n  * Relatively stable bone marrow function for \\> 7 days prior to study entry\n* WBC count that has not doubled within the past 7 days\n* WBC =\\<10,000/mm\u00b3\n\n  * No uncontrolled peripheral leukemia (i.e., blast count \\> 30,000/mm\u00b3)\n  * No active CNS disease\n* Lumbar puncture with negative cytology required for patients with clinical symptoms of active CNS disease\n\n  * Not a candidate for a potentially curative allogeneic stem cell transplantation OR considered a poor candidate for such a procedure due to age, medical comorbidities, or lack of a suitable donor\n  * Hemoglobin \\>= 8 g/dL (transfusions allowed)\n  * Creatinine =\\< 2.0 mg/dL\n  * Bilirubin =\\< 1.6 mg/dL (unless secondary to hemolysis)\n  * AST or ALT =\\< 3 times upper limit of normal (unless disease-related)\n  * Not pregnant or nursing\n  * Negative pregnancy test\n  * Fertile patients must use effective contraception\n  * No untreated or progressive infections\n  * No history of intolerance to sargramostim (GM-CSF)\n  * Recovered from all treatment-related toxicities\n  * More than 2 weeks since prior therapy for AML, ALL, or MDS, including chemotherapy, hematopoietic growth factors, or biologic therapy such as monoclonal antibodies\n  * Concurrent hydroxyurea allowed during course 1 for control of leukocytosis if WBC \\> 30,000/mm\u00b3\n  * ECOG performance status 0-2",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Adult Acute Lymphoblastic Leukemia in Remission",
+    "Adult Acute Megakaryoblastic Leukemia (M7)",
+    "Adult Acute Minimally Differentiated Myeloid Leukemia (M0)",
+    "Adult Acute Monoblastic Leukemia (M5a)",
+    "Adult Acute Monocytic Leukemia (M5b)",
+    "Adult Acute Myeloblastic Leukemia With Maturation (M2)",
+    "Adult Acute Myeloblastic Leukemia Without Maturation (M1)",
+    "Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities",
+    "Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)",
+    "Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)",
+    "Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)",
+    "Adult Acute Myelomonocytic Leukemia (M4)",
+    "Adult Erythroleukemia (M6a)",
+    "Adult Pure Erythroid Leukemia (M6b)",
+    "Chronic Myelomonocytic Leukemia",
+    "de Novo Myelodysplastic Syndromes",
+    "Myelodysplastic/Myeloproliferative Neoplasm, Unclassifiable",
+    "Previously Treated Myelodysplastic Syndromes",
+    "Recurrent Adult Acute Lymphoblastic Leukemia",
+    "Recurrent Adult Acute Myeloid Leukemia",
+    "Refractory Anemia",
+    "Refractory Anemia With Excess Blasts",
+    "Refractory Anemia With Ringed Sideroblasts",
+    "Refractory Cytopenia With Multilineage Dysplasia",
+    "Secondary Acute Myeloid Leukemia",
+    "Secondary Myelodysplastic Syndromes",
+    "Untreated Adult Acute Lymphoblastic Leukemia",
+    "Untreated Adult Acute Myeloid Leukemia"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT04349189",
+  "title": "Venous Thrombosis Biomarkers in Sickle Cell Disease and Sickle Cell Trait",
+  "brief_summary": "Background:\n\nVenous thromboembolism (VTE) includes the abnormal clotting of blood in a deep vein of the upper or lower limbs (deep vein thrombosis) that may travel to and block a blood vessel in the lung (pulmonary embolism). Some people with sickle cell disease (SCD)-a red blood cell disorder-seem to be at greater risk for developing these blood clots. Researchers want to study the blood of people with SCD and VTE as well as healthy people to develop better treatments to prevent blood clots.\n\nObjective:\n\nTo study blood clotting in SCD because it is the most common cause of vascular death after a heart attack or stroke.\n\nEligibility:\n\nPeople ages 18-80 who have SCD (with or without a history of blood clots) or the trait for SCD, and healthy volunteers\n\nDesign:\n\nParticipants will be screened with medical history, physical exam, and medical records review. They will give blood samples.\n\nParticipants will have phone calls either every 3 months or once a year, for 2 years. They will give updates on their health. They may give additional medical records. The phone calls may last up to 30 minutes.\n\nIf participants have a VTE or pain crisis episode, they may visit the Clinical Center. These visits may last up to 4 hours. They will repeat the screening tests and give blood samples.\n\nSome participants may be invited to take part in blood studies.\n\nAfter 2 years, some participants will have a follow-up visit at the Clinical Center.\n\nParticipation will last for about 2 years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nSickle cell disease with and without VTE\n\n* Sickle cell disease (HbSS, HbSC and HbS/beta-thalassemia genotypes) in steady state.\n* Diagnosis of at least one or more VTE within 5 years of study enrolment confirmed by radiologic imaging (for SCD patients with VTE).\n* Absence of clinical history of VTE (for SCD controls)\n* Between 18 and 80 years of age.\n* Ability to provide informed written consent.\n\nSickle cell trait\n\n* Sickle cell disease (HbAS genotype).\n* Absence of clinical history of VTE\n* Between 18 and 80 years of age.\n* Ability to provide informed written consent.\n\nEthnically matched controls\n\n* Between 18 and 80 years of age.\n* African, or of African descent.\n* Ability to provide informed written consent.\n* Absence of clinical history of VTE\n\nEXCLUSION CRITERIA:\n\nSCD with and without VTE\n\n* Pregnancy (test done at enrollment; if a subject becomes pregnant during the study period, samples will not be obtained while the subject is pregnant and the subject will be taken off study).\n* Patients on exchange transfusion or having received a simple blood transfusion in the past 60 days.\n* Active viral infection as evidenced by testing positive for hepatitis B surface antigen or hepatitis C virus (HCV) antibody (Ab) with signs of active hepatitis B or C virus infection. If the subject is positive for HCV Ab, a reverse transcriptasepolymerase chain reaction test will be conducted. Subjects with hepatitis C may be rescreened after receiving appropriate hepatitis C treatment.\n* Testing positive for human immunodeficiency virus 1 or 2 Ab with evidence for ongoing active infection (i.e., CD 4 count \\<400/microL and viral load \\>100,000 copies/ml) on antiretroviral therapy.\n* Active acute inflammatory disorders rheumatoid arthritis or systemic lupus erythematosus on disease modifying therapy.\n* Diabetes mellitus judged to be under poor control by the Investigator evidenced by a single fasting sugar value \\>250gm/dl or requiring \\>3 antidiabetic agents, including insulin (all insulins are considered 1 agent); use of insulin per se is not exclusionary.\n\nSCT and ethnically matched controls\n\n* Diagnosis of any of the following chronic disease or conditions: Sickle cell disease (HbSS, HbSC and HbS/beta-thalassemia genotypes).\n* Clinical history of VTE.\n* Pregnancy (test done at enrollment; if a subject becomes pregnant during the study period, samples will not be obtained while the subject is pregnant and the subject will be taken off study.\n* Active viral infection as evidenced by testing positive for hepatitis B surface antigen or hepatitis C virus (HCV) antibody (Ab) with signs of active hepatitis B or C virus infection. If the subject is positive for HCV Ab, a reverse transcriptasepolymerase chain reaction test will be conducted. Subjects with hepatitis C may be rescreened after receiving appropriate hepatitis C treatment.\n* Testing positive for human immunodeficiency virus 1 or 2 Ab with evidence for ongoing active infection (i.e., CD 4 count \\<400/microL and viral load \\>100,000 copies/ml) on antiretroviral therapy.\n* Active acute inflammatory disorders rheumatoid arthritis or systemic lupus erythematosus on disease modifying therapy.\n* Diabetes mellitus judged to be under poor control by the Investigator evidenced by a single fasting sugar value \\>250gm/dl or requiring \\>3 antidiabetic agents, including insulin (all insulins are considered 1 agent); use of insulin per se is not exclusionary.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The natural history of SCD 04-H-0161 protocol (NCT00081523) will specifically be leveraged to recruit participants with VTE. In this study we will assess feasibility of establishing a prospective natural history study of thrombosis in SCD. Establishing feasibility could lead to recruitment of SCD patients experiencing thrombosis, particularly those that are understudied including patients with HbSC disease.",
+  "condition": [
+    "Sickle Cell Disease",
+    "Venous Thrombosis",
+    "Sickle Cell Trait",
+    "Hypercoagulable State",
+    "Venous Thromboembolism"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-interventional biomarker study enrolling patients with sickle cell disease (with or without VTE), sickle cell trait, and healthy controls. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention any requirements or exclusions based on prior systemic therapy for advanced/metastatic disease. This is a biomarker study in sickle cell disease, sickle cell trait, and healthy controls, and line of therapy is not addressed."
+    }
+  ]
+}

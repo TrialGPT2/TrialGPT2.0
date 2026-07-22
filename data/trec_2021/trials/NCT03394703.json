@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03394703",
+  "title": "Korean Lung Cancer Screening Project",
+  "brief_summary": "Lung cancer is by far the leading cause of cancer death and has a lower relative survival rate than other types of cancer because most lung cancers are detected at an advanced stage when they are first diagnosed.\n\nRecently, a randomized control trial suggests that low-dose computed tomography (LDCT) enables an early stage detection and it has been increasingly accepted as an efficient screening method for high-risk individuals to reduce lung cancer mortality.\n\nIn 2011, The National Lung Screening Trial (NLST) in the U.S. has produced results that screening high-risk smoking groups (who have at least 30 pack-year smoking history and currently smoke or have quit within the past 15 years) aged 55 to 74 years with LDCT reduced lung cancer mortality by 20%.\n\nBased on the evidence, Korean National Cancer Center has developed and published the guideline of lung cancer screening using LDCT for high-risk populations in 2015. The guideline recommends annual LDCT screening for high-risk smoking groups aged 55 to 74 years, with at least 30 pack-year smoking history and current smokers or past smokers who quit smoking within 15 years.\n\nThe Korean Lung Cancer Screening project (K-LUCAS), a nationwide, multicenter, prospective study started to evaluate the effectiveness and feasibility of lung cancer screening with LDCT for considering implementation of a national lung cancer screening program in Korea.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "We select participants based on the following criteria.\n\n* Inclusion Criteria (1)\n\n  * Age : 55-74 years old\n  * Smoking history of at least 30 pack-years\n\n    1. current smokers\n    2. past smokers who quit smoking within 15 years\n* Inclusion Criteria (2) The lung cancer risk prediction model considers various lung risk factors in addition to age, smoking history and smoking quit duration. This includes drinking amount, physical activity, family history of cancer, information on lung disease and so on, in participant selection. Following criteria is applied when the lung cancer risk prediction model is used for participant selection.\n\n  * Age : 50-74 years old\n  * Smoking history of at least 20 pack-years\n\n    1. current smokers\n    2. past smokers who quit smoking within 15 years\n* Exclusion Criteria:\n\n  * Lung cancer diagnosed and treated\n  * Inability to move without help (ECOG status 2 or higher)\n  * Have been treating regularly for tuberculosis, pneumonia and interstitial lung disease\n  * Treated for any cancer within the last 5 years (\\*Exception: Thyroid cancer, Skin cancer)\n  * A chest CT examination less than 6 months",
+  "minimum_age": "55 Years",
+  "maximum_age": "74 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "High-risk smoking groups of current smokers and past smokers",
+  "condition": [
+    "Lung Cancer"
+  ],
+  "overall_status": "UNKNOWN"
+}

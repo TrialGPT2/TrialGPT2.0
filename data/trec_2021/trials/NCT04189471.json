@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04189471",
+  "title": "Improving Outcomes for Patients With Life-Threatening Neurologic Illness",
+  "brief_summary": "Background:\n\nWhile the intensive care of patients with life-threatening brain illnesses has advanced tremendously, a large number of therapies are still without proper scientific support.\n\nThis can be partly explained by the fact that mechanisms of initial brain injury are still not well understood. Why additional neurological injury occurs during a patient's stay in the NeuroCritical Care Unit (NCCU) despite current best, evidence-based clinical practices, is also not well understood. However, over the past decade, better tools have become available to measure and monitor the impact of our clinical care on the rapidly changing physiology and chemistry of the injured brain. Some of these tools are CT, MRI, ultrasound, and catheter-based technology measuring blood flow and metabolism. These tools have enabled earlier detection of injury and complications and newer therapeutic strategies.\n\nPurpose:\n\nExamine disease pathways common to all brain injuries seen in the University of Maryland's 22-bed NCCU. Life-threatening neurological illnesses cared for in the NCCU include massive stroke, bleeding in and around the brain (subarachnoid hemorrhage, intracerebral hemorrhage, subdural hemorrhage, intraventricular hemorrhage), brain tumors, difficult to control seizures, neurologic infections, nerve and muscle diseases (such as myasthenia gravis or Guillain-Barre Syndrome), and spinal cord disorders among others. Many NCCU patients are comatose or paralyzed and may suffer injuries in other parts of the body as well.\n\nThis effort will require the creation of a robust clinical database for the capture of data including patient characteristics (age, sex), clinical characteristics, medical treatments, surgical interventions, physiological data (such as vital signs, cerebral blood flow, intracranial pressure, cerebral oximetry, etc), laboratory data, and standard-of-care diagnostic studies such as electroencephalography (EEG), ultrasound, CT, MRI, and angiograms. Similar databases exist at other major centers for neurocritical care and have been instrumental to the identification of characteristics both predictive of and associated with outcomes of patients long after their stay in the NCCU.\n\nIn addition, the samples collected will be included in the University of Maryland Medicine (UMM) Biorepository which is a shared resource to enable biomedical research by University of Maryland faculty.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* clinical diagnosis of potentially life-threatening neurological illness\n* admitted to Neuro ICU within 14 days of initial injury\n\nExclusion Criteria:\n\n* known pre-existing neurological deficits related to a developmental disorder\n* prior severe stroke\n* prior severe dementia\n* prior severe head injury\n* prisoners",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients in University of Maryland Medical Center's Neurocritical Care Unit with potentially life-threatening neurological illness aged 18 and older.",
+  "condition": [
+    "Intracerebral Hemorrhage",
+    "Subarachnoid Hemorrhage",
+    "Intraventricular Hemorrhage",
+    "Nontraumatic Haemorrhage",
+    "Status Epilepticus"
+  ],
+  "overall_status": "RECRUITING"
+}

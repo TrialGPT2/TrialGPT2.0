@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04342234",
+  "title": "Neural Network to Calculate Morphology of the Cleft Palate to Reduce Cleft Lip and Palate Treatment Burden.",
+  "brief_summary": "This study is to develop a neural network to compute palatal three dimensional (3D) geometry by using routinely taken intraoral/palatal photographs and palatal casts of infants with cleft lip and palate deformity for reducing cleft lip and palate treatment burden. Data of palatal casts and palatal images of cleft patients routinely treated at the University Hospital Basel will be analyzed.The collection of large data helps in developing a neural network that will allow the computation of the 3D geometry from single photographs.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with cleft lip and palate malformation with available routinely performed plaster cast model from palatal impressions, intraoral scans from the palate and corresponding images of the cleft palate (1970 till 2025)\n\nExclusion Criteria:\n\n* Existence of a documented rejection",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with cleft lip and palate malformation with available routinely performed plaster cast model from palatal impressions and/or intraoral scans of palate, and corresponding images of the cleft palate treated in the past as well as future patients treated at University hospital Basel (USB) for the last 50 years will be included (1970 till 2025). Models were (until 2020) and intraoral scans are (since 2020) taken routinely in newborns and for follow-up (age 1-20 years) according to WHO Guidelines.",
+  "condition": [
+    "Cleft Palate",
+    "Orofacial Cleft"
+  ],
+  "overall_status": "RECRUITING"
+}

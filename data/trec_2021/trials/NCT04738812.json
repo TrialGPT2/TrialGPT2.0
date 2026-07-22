@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04738812",
+  "title": "Determination of Adequate Tuberculosis Regimen in Patients Hospitalized With HIV-associated Severe Immune Suppression",
+  "brief_summary": "DATURA trial is a phase III, multicenter, two-arm, open-label, randomized superiority trial to compare the efficacy and the safety of an intensified tuberculosis (TB) regimen versus standard TB treatment in HIV-infected adults and adolescents hospitalized for TB with CD4 \u2264 100 cells/\u03bcL over 48 weeks:\n\n* Intensified TB treatment regimen: increased doses of rifampicin and isoniazid together with standard-dose of pyrazinamide and ethambutol for 8 weeks in addition to prednisone for 6 weeks and albendazole for 3 days\n* WHO standard TB treatment regimen.\n\nThe continuation phase of TB treatment will be identical in the two arms: 4 months of rifampicin and isoniazid at standard doses.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "INCLUSION CRITERIA\n\n* Patient (and legally designed representative of minor patient) able to correctly understand the trial and to sign the informed consent\n* Aged \u2265 15 years\n* Confirmed HIV-1 infection as documented at any time prior to trial entry per national HIV testing procedures\n* CD4 count \u2264 100 cells/\u03bcL\n* Hospitalized for a newly diagnosed TB, defined by:\n\n  * Any positive Xpert\u00ae MTB/RIF specimen (sputum, urine, pus, other),\n  * Or a positive urine lipoarabinomannan (LAM) test,\n  * Or an abnormal chest X-ray compatible with active TB\n\nEXCLUSION CRITERA\n\n* Initiation of TB drugs for more than 7 days\n* History of TB treatment during the last 6 months\n* Central neurological symptoms, including but not restrictive to TB meningitis\n* Suspected TB pericarditis\n* Documented Mycobacterium tuberculosis strain resistant to rifampicin using rapid molecular testing (Xpert\u00ae MTB/RIF)\n* Any concomitant medication or known hypersensitivity contraindicating any component of the TB treatment\n* HIV-2 co-infection\n* Current treatment with ART containing protease inhibitors\n* Any contraindication to efavirenz and dolutegravir\n* Severe associated diseases requiring corticosteroids or for which corticosteroids are contra-indicated\n* Impaired hepatic function with ALT (SGPT) \\> 5 times the upper limit of normal (ULN) value\n* Creatinine clearance \\< 30 mL/min/1.73m2 (according to either the MDRD or the CKD-EPI formula)\n* Pregnancy or breastfeeding",
+  "minimum_age": "15 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Tuberculosis",
+    "HIV-1-infection",
+    "Immuno-Deficiency"
+  ],
+  "overall_status": "COMPLETED"
+}

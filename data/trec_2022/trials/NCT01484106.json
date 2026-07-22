@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01484106",
+  "title": "Cardiac Output Monitoring Managing Intravenous Therapy (COMMIT) to Treat Emergency Department Severe Sepsis",
+  "brief_summary": "The primary objective of this study is to test whether a fluid resuscitation protocol guided by non-invasive hemodynamic measures reduces the progression of organ dysfunction (defined by an increase in the Serial Organ Failure Assessment Score \u2265 1 over the first 72 hours) in sepsis patients presenting to the Emergency Department without evidence of shock.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Adult patients \\> 18 years with old suspected or confirmed infection\n2. At least two of the following four criteria (SIRS):\n\n   1. Temperature \\> 38 or \\< 36o C\n   2. Heart rate \\> 90 bpm\n   3. Respiratory rate \\> 20 bpm or PaCO2\\< 32 mmHg\n   4. White blood cell count \\>12,000 or \\<4,000 per mm3; or \\>10% bandemia\n3. Lactate \u22652.0 and \u22644.0 mMol/L\n4. Enrollment within 6 hours of ED presentation within 2.5 hours of meeting eligibility criteria\n\nExclusion Criteria:\n\n1. Age \\< 18 years\n2. On vasopressor therapy\n3. Systolic blood pressure \\< 90 mmHg\n4. Received more than 3-liter crystalloid fluid prior to randomization\n5. Patient presenting with pulmonary edema\n6. Patient presenting with acute coronary syndrome\n7. Patient presenting with new onset cardiac arrhythmia\n8. Patient presenting with trauma, including burns\n9. Patient requires immediate surgery\n10. Patient presenting with stroke\n11. Patient with end stage renal disease on renal replacement therapy\n12. Patient with known pregnancy\n13. Patient being treated with immunosuppressive therapy for organ transplant",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sepsis"
+  ],
+  "overall_status": "COMPLETED"
+}

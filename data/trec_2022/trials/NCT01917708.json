@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT01917708",
+  "title": "Bone Marrow Transplant With Abatacept for Non-Malignant Diseases",
+  "brief_summary": "This is a single arm, phase I study to assess the tolerability of abatacept when combined with cyclosporine and mycophenolate mofetil as graft versus host disease prophylaxis in children undergoing unrelated hematopoietic stem cell transplant for serious non-malignant diseases as well as to assess the immunological effects of abatacept. Participants will be followed for 2 years.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Must be between the ages of 0-21 years at the time of admission for transplant.\n* Must have one of the following diseases:\n\n  1. Glanzmann thrombasthenia\n  2. Wiskott-Aldrich syndrome or other combined immune deficiency\n  3. Chronic-granulomatous disease\n  4. Severe congenital neutropenia (with resistance to granulocyte-colony stimulating factor (GCSF) or chronic requirement of GCSF doses \u226510 mcg/kg)\n  5. Leukocyte adhesion deficiency\n  6. Shwachman-Diamond syndrome\n  7. Diamond-Blackfan anemia ((transfusion dependent, including steroid failure or inability to wean steroids)\n  8. Thalassemia major\n  9. Fanconi anemia\n  10. Hemophagocytic lymphohistiocytosis (inherited or acquired refractory to therapy or with recurrent episodes of hyperinflammation)\n  11. Dyskeratosis-congenita\n  12. Hurler Syndrome\n  13. Chediak-Higashi syndrome\n  14. Acquired (immune; non-inherited, non-congenital) severe aplastic anemia\n  15. Sickle cell disease (SCD) (Hgb SS or S-Beta 0 thalassemia) will be eligible between ages 3 and 9.99 and with severe disease.\n  16. Other inherited or congenital marrow failure syndromes complicated by severe aplastic anemia\n  17. Other inherited or congenital red blood cell disorders requiring monthly chronic transfusion therapy.\n  18. Congenital platelet disorders requiring frequent platelet transfusions (patient must have received at least 10 transfusions in the last 3 years).\n  19. Other inherited or congenital granulocyte disorders resulting in at least three inpatient hospitalizations in the past three years for infection.\n* Must have an unrelated adult donor (marrow or PBSC) who is at least a 7/8 match (A, B, C, DRB1; the mismatch can be at an allele or antigen level) or an unrelated cord blood unit that is matched at least seven of eight loci (A, B and C antigen level-DRB1 allele level) and provides a minimum pre-cryopreservation total nucleated cell (TNC) dose of 7.5 x 107 TNC/kg recipient weight. Mismatches at the DRB1 locus may be at an antigen or allele level.\n\nExclusion Criteria:\n\n* Human leukocyte antigen (HLA) matched related donor.\n* Severe combined immune deficiency.\n* Bridging (portal to portal) fibrosis or cirrhosis of the liver.\n* Pulmonary: diffusing capacity of the lung for carbon monoxide (DLCO) (corrected for hemoglobin), forced expiratory volume (FEV1) or forced vital capacity (FVC) \\< 40% of predicted. In child unable to perform pulmonary function testing, a chronic need for supplemental oxygen will serve as the exclusionary criterion.\n* Severe renal dysfunction defined as estimated glomerular filtration rate (GFR) of \\<60 ml/min/1.73m2.\n* Severe cardiac dysfunction defined as shortening fraction \\< 25%.\n* Neurologic impairment other than hemiplegia, defined as full-scale intelligence quotient (IQ) less than or equal to 70, quadriplegia or paraplegia, inability to ambulate, or any impairment resulting in decline of Lansky performance score to \\< 70%.\n* Clinical stroke within 6 months of anticipated transplant.\n* Karnofsky or Lansky functional performance score \\< 50%\n* HIV infection.\n* Uncontrolled viral, bacterial, fungal or protozoal infection at the time of study enrollment.\n* Patient with unspecified chronic toxicity serious enough to detrimentally affect the patient's capacity to tolerate bone marrow transplantation.\n* Patient or patient's guardian(s) unable to understand the nature and risks inherent in the blood and marrow transplant process.\n* History of non-compliance severe enough in the estimation of the treating team to preclude the patient from undergoing unrelated donor transplantation.\n* Patient is pregnant or lactating\n* Patients HLA antibody testing demonstrates an antibody directed against a disparate HLA molecule.",
+  "minimum_age": "",
+  "maximum_age": "21 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hurler Syndrome",
+    "Fanconi Anemia",
+    "Glanzmann Thrombasthenia",
+    "Wiskott-Aldrich Syndrome",
+    "Chronic Granulomatous Disease",
+    "Severe Congenital Neutropenia",
+    "Leukocyte Adhesion Deficiency",
+    "Shwachman-Diamond Syndrome",
+    "Diamond-Blackfan Anemia",
+    "Dyskeratosis-congenita",
+    "Chediak-Higashi Syndrome",
+    "Severe Aplastic Anemia",
+    "Thalassemia Major",
+    "Hemophagocytic Lymphohistiocytosis",
+    "Sickle Cell Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03175107",
+  "title": "Exergaming in Upper Extremities for Persons With Parkinson's Disease",
+  "brief_summary": "The purpose of the PD\\_manager project is to explore and develop innovative ecosystem management for people with Parkinson's disease. The research part contains expert analysis of diagnostic tests and decomposition of activity, accompanied by modern IT. The results of the analysis will be compared with the results of clinical trials that fall under the routine clinical pathways in monitoring a patient with Parkinson's disease. The primary motor symptoms, such as tremor, bradykinesia and impaired balance, and other symptoms, such as sleep disturbances, speech and cognitive perception, will be assessed by unobtrusive sensors (shoe insoles, bracelets) and sensors embedded in a mobile phone. The collected data will be analyzed using data mining methods and a platform for clinical decision support will be developed. This way, dependency of the patients on other persons will be reduced and the patients' quality of life improved. The patients will be motivated to follow the prescribed diet and take regular medication; the patients' activities will be monitored by occupational therapists and physiotherapists. A technical system will be designed as a computing platform in the open architecture cloud (FI-WARE), which will allow the use of commercially available sensors.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DEVICE_FEASIBILITY",
+  "raw_criteria": "Inclusion Criteria:\n\n* Parkinson disease or Parkinsonism (characteristic symptoms such as rigidity, extrapyramidal symptoms), with functional disorders in upper extremities and minor problems at daily activities;\n* Level 2-3 in the Hoehn and Yahr Scale.\n\nExclusion Criteria:\n\n* Any communicable disease;\n* Severe vision impairment.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Parkinson Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

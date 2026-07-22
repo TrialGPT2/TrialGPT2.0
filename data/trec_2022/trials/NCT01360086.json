@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01360086",
+  "title": "Fluorouracil, Cisplatin, Leucovorin Calcium, and Cetuximab in Treating Patients With Adenocarcinoma of the Stomach or Gastroesophageal Junction",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as fluorouracil, cisplatin, and leucovorin calcium, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as cetuximab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Giving more than one drug (combination chemotherapy) together with cetuximab before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed. Giving these drugs after surgery may kill any tumor cells that remain after surgery.\n\nPURPOSE: This phase II trial is studying the side effects of giving fluorouracil, cisplatin, and leucovorin calcium together with cetuximab and to see how well they work in treating patients with adenocarcinoma of the stomach or gastroesophageal junction.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adenocarcinoma of the stomach or gastroesophageal junction\n\n  * Stage IB, II, or III disease according to TNM classification OR type I, II, or III disease according to Siewert classification\n\n    * TNM: T1N1-3, T2N0-3, T3N0-3, or T4N0-3 (no T1N0 or M1)\n  * Disease considered operable with curative intent\n* No gastric scirrhous carcinoma (linitis plastica)\n\n  * Forms with independent cells are not considered linitis\n* Measurable disease according to RECIST V1.1\n* No planned esophagectomy without thoracotomy in patients with adenocarcinoma of the gastroesophageal junction type I\n\nPATIENT CHARACTERISTICS:\n\n* WHO performance status 0-2\n* Polynuclear neutrophil count \u2265 1,500/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Creatinine clearance \\> 50 mL/min\n* Bilirubin \\< 1.5 times normal\n* Serum albumin \\> 30 g/L\n* Prothrombin time \u2265 80%\n* FEV1 \\> 1 L in case of thoracotomy\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No known cirrhosis\n* No other progressive condition that has not been stabilized including the following:\n\n  * Hepatic failure\n  * Renal failure\n  * Respiratory failure\n  * NYHA class III-IV congestive heart failure\n  * Unstable angina\n  * Myocardial infarction in the past 6 months\n  * Significant arrhythmias in the past 12 months\n* No recent weight loss exceeding 15%\n* No interstitial pneumonia\n* No other malignant tumor within the past 5 years except for basal cell skin carcinoma or cancer in situ of the cervix\n* No psychological, familial, or geographical reasons that will preclude the patient being monitored regularly\n* No persons deprived of liberty or under guardianship (Disability Act)\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior chemotherapy or radiotherapy for gastric cancer\n* No other concurrent anticancer treatment, immunotherapy, or hormone therapy\n* No prior abdominal or thoracic radiotherapy",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Adenocarcinoma of the Gastroesophageal Junction",
+    "Gastric Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04324463",
+  "title": "Anti-Coronavirus Therapies to Prevent Progression of Coronavirus Disease 2019 (COVID-19) Trial",
+  "brief_summary": "ACT is a randomized clinical trial to assess therapies to reduce the clinical progression of COVID-19.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Outpatient trial:\n\nInclusion criteria:\n\n1. Symptomatic and laboratory-confirmed diagnosis of COVID-19.\n2. Age \u2265 30 years.\n3. High risk: either age \u226570 or one of the following: male; obesity (BMI \u226530); chronic cardiovascular, respiratory or renal disease; active cancer; diabetes.\n4. Within 7 days (ideally 72 hours) of diagnosis, or worsening clinically.\n\nExclusion criteria:\n\n1. General: advanced kidney disease; advanced liver disease; pregnancy (known or potential) or lactation.\n2. Colchicine: allergy or planned use; current or planned use of cyclosporine, verapamil, HIV protease inhibitor, azole antifungal, or macrolide antibiotic (except azithromycin).\n3. ASA: allergy; high risk of bleeding, current or planned use of other anti-thrombotic drugs (e.g., P2Y12 inhibitors, direct oral anticoagulants, vitamin K antagonists, heparins)\n\nInpatient trial:\n\nInclusion criteria:\n\n1. Symptomatic and laboratory-confirmed diagnosis of COVID-19.\n2. Age \u226518 years.\n3. Within 72 hours (ideally 24 hours) of admission, or worsening clinically.\n\nExclusion criteria:\n\n1. General: advanced kidney disease; advanced liver disease, pregnancy (known or potential) or lactation, already ventilated for \\>72 hours.\n2. Colchicine: allergy or planned use; current or planned use of cyclosporine, verapamil, HIV protease inhibitors, azole antifungals, or macrolide antibiotics (except azithromycin).\n3. ASA and rivaroxaban: allergy; high risk of bleeding; estimated GFR \\<15 ml/min; current or planned use of P2Y12 inhibitors or therapeutic doses of anticoagulants\\* (e.g., direct oral anticoagulants, vitamin K antagonists, heparin, LMWH), current or planned use of strong inhibitors of both CYP 3A4 and P-gp (e.g., lopinavir/ritonavir, carbamazepine, ketoconazole). \\*Note that prophylactic doses of anticoagulants can be used in patients who are randomized to control.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Coronavirus",
+    "Severe Acute Respiratory Syndrome"
+  ],
+  "overall_status": "COMPLETED"
+}

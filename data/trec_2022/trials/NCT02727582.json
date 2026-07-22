@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02727582",
+  "title": "Pharmacometric Optimization of Second Line Drugs for MDR Tuberculosis Treatment",
+  "brief_summary": "Multidrug-resistant (MDR) tuberculosis (TB), defined as simultaneous resistance to isoniazid and rifampin, has been declared a global emergency. Treatment outcomes are poor, driven by toxicity and limited efficacy of the 2nd-line anti-TB drugs.\n\nAlthough there is evidence that both anti-TB activity and most of the toxicity of the key drugs are related to drug exposure, the pharmacokinetic/pharmacodynamic (PK/PD) relationships in patients with MDR-TB are poorly characterized. Moreover potential synergy of drug combinations has not been identified in the context of MDR-TB, dosing has not taken into account the concentrations needed to suppress resistance, and the role of minimum inhibitory concentrations (MICs) in dosing is poorly studied.\n\nThere are therefore opportunities to optimize drug doses and combinations to improve efficacy, and reduce toxicity. Based on this observational study of patients on standard treatment for MDR-TB, our proposal builds on novel methodologies we have developed, largely for drug sensitive TB:\n\n1. The application of computational analytical techniques to tease out the individual contributions of anti-TB drugs used in combination\n2. The development of a treatment response biomarker model based on time-to-positivity in liquid culture of serial sputum samples.\n3. The in vitro determination of PK targets for anti-TB activity and the suppression of resistance using the hollow fiber models of Mycobacterium tuberculosis (Mtb) (HFM-TB).\n\nThus the research will enhance our understanding of current modalities of TB treatment, while contributing research approaches for future regimen optimization.\n\nThis protocol describes the clinical research component (points 1\\&2).\n\nAim 1: To characterize the effects of 2nd-line drug exposures on treatment response in MDR-TB patients. The 2nd-line drugs to be examined are those comprising the standardized regimen used in South Africa: kanamycin, pyrazinamide, moxifloxacin, ethionamide and terizidone.\n\nHypothesis: Amongst patients on standard MDR-TB treatment, variation in drug exposure has a quantifiable impact on the rates at which viable Mtb are cleared from the sputum.\n\nAim 2: To identify drug exposures associated with the risk of treatment-related toxicities in patients on a standard 2nd-line regimen for MDR-TB.\n\nHypothesis: The risks of specific toxicities associated with kanamycin, pyrazinamide, moxifloxacin, ethionamide and terizidone are linked to drug concentrations.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nAge \\> 18 years Current diagnosis of pulmonary MDR-TB or rifampicin-monoresistant TB\n\nBaseline sputum sample with positive Gene Xpert MTB/RIF test, or confirmed positive Mycobacterium tuberculosis culture displaying resistance to rifampicin with or without isoniazid resistance on standard DST.\n\nEligible for standard MDR-TB treatment regimen (see Table 1), or, started on standard MDR-TB regimen within the past 1 month.\n\nWritten confirmation of informed consent to participate.\n\nPregnant women satisfying all other eligibility criteria may be enrolled.\n\nExclusion Criteria:\n\nCritically ill or medically unstable\\* e.g. organ failure - on ventilator, receiving dialysis for acute renal failure, fulminant hepatitis (\\*can be recruited once stabilized if still eligible), or severe haemoptysis.\n\nUnwilling to participate, or unable to understand the Participant information and provide full informed consent.\n\n\\-",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "142 Xpert MTB/RIF positive adults (\\>18 years of age), with or without HIV, and starting the standard 5-drug regimen for MDR-TB. The MDR-TB regimen also applies to patients who have rifampicin mono-resistant TB so these patients will also be eligible for the study.",
+  "condition": [
+    "Multidrug-resistant Tuberculosis"
+  ],
+  "overall_status": "COMPLETED"
+}

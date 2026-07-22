@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT00092222",
+  "title": "Virotherapy and Natural History Study of KHSV-Associated Multricentric Castleman s Disease With Correlates of Disease Activity",
+  "brief_summary": "This study will gain information about a rare disorder called KSHV-associated multicentric Castleman s disease (MCD). KSHV, a virus, causes several kinds of cancer, including some forms of MCD. KSHV stands for the Kaposi s sarcoma herpes virus, also called human herpes virus-8, or HHV-8. Researchers want to understand the biology of KSHV-MCD to identify how this disease causes illness and to find ways to treat it. There is no standard therapy effective for all cases of KSHV-MCD. The disease is often fatal, and about half the people who have it die within 2 years of diagnosis.\n\nParticipants ages 18 and older may be eligible for this study. Participation entails more drawing of blood and having repeated tumor biopsies than if patients received treatment in a non-research setting. Researchers would like to learn more about the relationship of KSHV and Castleman s disease symptoms, and they want to obtain at least three biopsies in this study.\n\nThere are some side effects of experimental therapy that participants may take for KSHV-MCD. Zidovudine, or Retrovir , is used at a high dose. It is given orally or through a vein, four times daily, for 7 days or longer. Zidovudine can cause nausea, vomiting, decreased bone marrow function, and decreased blood counts. Combined with valganciclovir, or Valcyte , it is likely to be more toxic to bone marrow. Valganciclovir can cause problems with bone marrow function, leading to low blood counts, sterility, and defects in a fetus. Combined with zidovudine, valganciclovir may cause more toxicity to the bone marrow. It is given twice daily for 7 days or longer. Bortezomib, or Velcade , is given for a few seconds by a rapid push through a needle into the vein. It is given twice weekly for four doses and then stopped for 1 week. Bortezomib can sometimes cause low blood pressure; it also can cause gastrointestinal problems and a low blood platelet count. Rituximab and liposomal doxorubicin are drugs given by a catheter into a vein. Interferon-alpha is given by injection into the skin. Those drugs are not experimental, but their use in Castleman s disease is experimental.\n\nSome participants may be treated with a combination of chemotherapy followed by interferon-alpha. Interferon-alpha is infected into the skin by a needle. The natural form of interferon is produced by the body and helps to control viral infections. KSHV decreases the effect of the body s interferon, and the researchers want to see if giving higher doses of interferon will help to control KSHV infection.\n\nA positron emission tomography (PET) scan, for research purposes only, may be done up to three times a year. A radioactive sugar molecule called fluorodeoxyglucose, or FDG, is used. It is believed that activated lymphocytes that may be found in participants disease might use more FDG because these cells burn more glucose fuel.\n\nThis study may or may not have a direct benefit for participants. However, detailed assessments made throughout the study may provide information to help the doctors treat KSHV-MCD better.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAge greater than or equal to 18 years.\n\nBiopsy proven KSHV-associated MCD, confirmed in the Laboratory of Pathology, CCR.\n\nWilling to give informed consent.\n\nEXCLUSION CRITERIA:\n\nAny abnormality that would be scored as NCI CTC Grade IV toxicity that is unrelated to HIV, its treatment, or to MCD that would preclude protocol treatment and/or observation only.\n\nPresence of another malignancy requiring current treatment that would preclude the use of all of the study treatments or the ability to monitor the natural history of MCD untreated.\n\nPregnant women are excluded from this study as certain of the study agents have the potential for teratogenic effects\n\nAny condition or set of circumstances that in the opinion of the investigators would make participation in this study unsafe or otherwise inappropriate for a given individual.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lymphoproliferative Disorder",
+    "HHV-8",
+    "Malignancy",
+    "HIV"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This study enrolls adults with biopsy-proven KSHV-associated multicentric Castleman disease (MCD) regardless of prior lines of systemic therapy. There are no restrictions on prior treatment, so both treatment-naïve and previously treated patients are eligible.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility criteria do not specify any required or maximum number of prior systemic therapies for advanced disease; patients may be treatment-naïve or previously treated. The protocol allows enrollment regardless of prior therapy history."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03207997",
+  "title": "MRI Quantification of Pulmonary Fibrosis in Scleroderma Patients",
+  "brief_summary": "Assessment of pulmonary fibrosis is currently based on high-resolution CT (HRCT) and pulmonary function tests (PFT) such as forced vital capacity, (FVC) and carbon monoxide diffusion (DLCO). These techniques allow a semi-quantitative analysis of the pulmonary disease but are imperfect. The mains weaknesses are the lack of reproducibility, the limited sensitivity and for CT the resulting radiation dose.\n\nRecent advances in MRI sequences allow exploring the lung parenchyma with millimeter slice thickness. Development of computer-assisted post-processing such as elastic registration opens new perspectives in the functional study of the lung parenchyma, especially the analysis of its deformation during the respiratory cycle and therefore of its elasticity.\n\nPulmonary involvement in scleroderma is present in 70 to 100% of patients and is the leading cause of death. Initial assessment of pulmonary involvement and follow-up are important for therapeutic decisions and patient prognosis. Quantitative analysis should be developed to reliably evaluate pulmonary fibrosis and increase the reproducibility.\n\nThe purpose of our study is to evaluate the feasibility of quantifying pulmonary fibrosis by successively performing full inspiration then full expiration volumetric MR acquisitions using a VIBE - Volumetric Interpolated Breath-hold examination sequence. Post processing of the 2 volumes using elastic registration is performed to evaluate pulmonary deformation in the normal and fibrotic lung areas, hypothesizing that it would be different.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients aged 18 years or older\n* Having a diagnosis of diffuse or limited cutaneous systemic sclerosis (EULAR criteria 2013)\n* Referred for cardiac MRI\n* Having a thoracic assessment (CT and PFT) within 3 months\n* with social security insurance\n* Having given their consent\n\nExclusion Criteria:\n\n* MRI-related contraindications:\n\n  * Pacemaker\n  * Mechanical heart valve\n  * Intracranial vascular clips before 1993\n  * Foreign metallic ocular body\n  * Cochlear Implant\n  * Claustrophobic patients\n  * Pregnant woman\n\n    * Disease in exacerbation\n    * Orthopnea\n    * Inability to hold a 17-second apnea\n    * Patients in the exclusion period following a previous search\n    * Absence of thoracic evaluation by CT and PFT within 3 months",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Scleroderma"
+  ],
+  "overall_status": "COMPLETED"
+}

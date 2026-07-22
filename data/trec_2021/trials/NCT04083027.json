@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04083027",
+  "title": "Non-mass Enhancement in Breast MRI",
+  "brief_summary": "Breast Magnetic Resonance Imaging (MRI) has been proven to be the most sensitive method in detection of breast cancer with sensitivity reaching 68-100%. The most frequent indication for breast MRI is screening for high-risk patients with a 20% or greater lifetime risk of developing breast cancer. Other indications include; assessment of extent of disease and screening of the contralateral breast in patients who are newly diagnosed with primary breast cancer. Evaluation of residual disease post Breast Conserving Surgery (BCS) with positive margins, loco-regional recurrence detection, as well as response to neoadjuvant chemotherapy are also well visualized by breast MRI. Furthermore, assessment of inconclusive mammography finding without a sonographic correlate, suspicious nipple discharge without a sono-mammographic or galacto-graphic correlate and evaluation of metastatic axillary lymphadenopathy in case of unknown primary tumor are all indications in which breast MRI has shown high sensitivity.\n\nBreast MRI also helps in identifying multifocal/multicentric or contralateral breast malignancies which was not detected by conventional imaging. Moreover, MRI gives more accurate data about local extension of invasive breast cancer and in situ tumors than other conventional modalities. In some patients newly diagnosed to have cancer breast, breast MRI is able to detect additional lesions that has not been found in mammography or breast ultrasound in 6 - 34% in the ipsilateral breast and 3 - 5% in the contralateral breast. These additional breast lesions are classified into focus, mass, and non-mass enhancement (NME) on MRI.\n\nNon-mass enhancement (NME) is defined as an enhancing abnormality that is not associated with the three-dimension volume of a mass, shape and outlining, and they are separate from the Background Parenchymal Enhancement (BPE). The fifth edition of the American College of Radiology (ACR) Breast Imaging-Reporting and Data System (BI-RADS) lexicon has erased some ambiguities, and modified terminologies from the fourth edition to provide more precise evaluation in descriptions of the distribution and Internal Enhancement Patterns (IEPs) of NME, contributes in quality assurance, better communication with physicians, and enhances patient care.\n\nFor morphological assessment of NME, distribution is described as focal, linear, segmental, regional, multiple regions, and diffuse. And the IEPs are characterized as homogeneous, heterogeneous, clumped, and clustered ring. NME may be benign as Pseudoangiomatous Stromal Hyperplasia (PASH), apocrine metaplasia and radiation effect; high risk such as Atypical Ductal Hyperplasia (ADH), flat epithelial atypia, intraductal papilloma, radial scar or complex sclerosing lesion, or malignant as Ductal Carcinoma in-situ (DCIS), Invasive Ductal Carcinoma (IDC), and Invasive Lobular Carcinoma (ILC).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* all female with mean age 50 \u00b1 17 having breast MRI\n\nExclusion Criteria:\n\n* Contraindications of MRI as pacemakers, aneurysmal clipping, retained metallic foreign bodies, or claustrophobic patients\n* Pregnant women especially in the first trimester.",
+  "minimum_age": "33 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Female patients with mean age 50 \u00b1 17",
+  "condition": [
+    "Breast Neoplasm"
+  ],
+  "overall_status": "COMPLETED"
+}

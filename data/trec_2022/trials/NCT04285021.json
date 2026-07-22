@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT04285021",
+  "title": "Prediction of Disease Severity in Young Children Presenting With Acute Febrile Illness in Resource-limited Settings",
+  "brief_summary": "Note that this is a study that is co-sponsored by Medecins Sans Frontieres, Spain, and the University of Oxford.\n\nThe primary objective is to develop a risk prediction algorithm, combining measurements of host biomarkers and clinical features at the point-of-triage, for children with an acute febrile illness in resource-limited settings.\n\nThe secondary objectives are to determine which host biomarkers, feasible for measurement at the point-of-care, are predictive of disease severity. Additionally to determine the optimal combination of clinical features (including demographics, anthropometric data, historical variables, vital signs, clinical signs and clinical symptoms), feasible for assessment by limited-skill health workers, that is predictive of disease severity.\n\nThe tertiary objectives are to explore the impact of different methods of outcome classification on development of the risk prediction algorithm, and to explore the performance of the algorithm to predict disease severity in key presenting clinical syndromes and aetiologies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria\n\nThe participant may enter the study if ALL of the following apply:\n\n1. Caretaker is willing and able to give informed consent for participation in the study;\n2. Aged \\> 28 days and \\< 5 years \\[day of birth = Day 1\\];\n3. Axillary temperature at presentation \u2265 37.5\u00b0C OR axillary temperature at presentation \\< 35.5\u00b0C OR history of fever in last 24h;\n4. Onset of illness \u2264 two weeks.\n\nExclusion Criteria\n\nThe participant may not enter the study if ANY of the following apply:\n\n1. Accident or trauma is the cause for child's presentation;\n2. Presentation \u2264 72 hours after routine immunisations;\n3. Known chronic medical condition including immunosuppression (for example, oncological conditions, HIV infection, thalassaemia, current steroid use), active chronic infection (for example, tuberculosis, hepatitis B virus), active cardiorespiratory conditions (for example, symptomatic or currently medicated congenital heart disease, cardiomyopathy or bronchiectasis);\n4. Admission to any health facility during the current illness;\n5. Previously enrolled in the study for a different acute illness;\n6. Receipt of \\> 15 minutes of inpatient treatment.",
+  "minimum_age": "28 Days",
+  "maximum_age": "5 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Children aged \\> 28 days and \\< 5 years presenting to the study site with an acute febrile illness",
+  "condition": [
+    "Sepsis"
+  ],
+  "overall_status": "COMPLETED"
+}

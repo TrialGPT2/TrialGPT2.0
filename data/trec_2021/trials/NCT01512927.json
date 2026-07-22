@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01512927",
+  "title": "Electro Stethoscope in Detect Arteriovenous Fistula (AVF) Stenosis",
+  "brief_summary": "The incidence and prevalence of end-stage renal disease (ESRD) in Taiwan are both the highest worldwide from 2001 to 2008. In Taiwan, more than 90% of the ESRD patients are hemodialysis patients. Either arteriovenous fistula (AVF) or arteriovenous graft (AV graft) is essential for the vascular access of these patients. However, frequent AVF stenosis or thrombosis occurs in 10-30% hemodialytic patients, and the rates are even higher, around 30-70%, in those who has a past history of AVF/AV graft stenosis. Therefore, early detection of AVF stenosis is essential in caring for these hemodialysis patients in terms of medical economics and psychological impact. Unfortunately, angiographic study is expensive and invasive and needs contrast medium injection. The diagnostic accuracy of color duplex ultrasound in AVF stenosis remains satisfactory, but it is not always available when decreased AVF flow or an acute thrombotic event occurs. Continuous AVF/ AV graft flow monitoring by patient himself is a better option in terms of long-term care. Previous study indicated that stethoscope waveform analysis could be used as an alternative to diagnosis of vascular stenosis. Therefore, we aim to investigate AVF/ AV graft stenosis by using the electronic stethoscope (3M Littmann) for AVF sound recording, followed by software analysis by using waveform decomposition, principle component analysis (PCA) and sequential forward selection algorithm \\[xx\\]. Our study results will provide a new diagnostic option, which is low cost, non-invasive and self-monitoring, of AVF stenosis in ESRD patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age is more than 20 year-old.\n2. End-stage renal disease with regular hemodialysis for more than one year\n\nExclusion Criteria:\n\n1\\. AVF/ AV graft is not located in upper arm.",
+  "minimum_age": "20 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "150",
+  "condition": [
+    "Arteriovenous Fistula"
+  ],
+  "overall_status": "UNKNOWN"
+}

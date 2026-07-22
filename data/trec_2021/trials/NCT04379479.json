@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04379479",
+  "title": "Clinical Effect of Dialyzable Leukocyte Extract in Suspected or Confirmed Cases of COVID-19 (FUTURE-T)",
+  "brief_summary": "Main goal: To generate information on the efficacy and safety of Dialyzable Leukocyte Extract (DLE) as an aid in the treatment of patients with acute respiratory infection (suspected or confirmed cases of COVID-19).\n\nPrimary goal: To generate information on the efficacy of DLE as an aid in symptomatic treatment, by reducing the signs and symptoms of acute respiratory infection (suspected/confirmed cases of COVID-19).\n\nSecondary goals:\n\n1. To evaluate clinical deterioration and respiratory alarm data.\n2. To evaluate the duration of the clinical picture.\n3. To explore cytokine changes associated with the therapeutic effect induced by DLE.\n4. To obtain data on the safety of DLE as an aid in the symptomatic treatment of acute respiratory infection (suspected/confirmed cases of COVID-19).\n5. To generate information to validate the contingency scale to assess the severity of acute respiratory disease (suspected/confirmed cases of COVID-19).\n\nJustification The systemic inflammatory response has been recognized as being responsible for COVID-19 complications. Immunomodulation strategies to control it are currently being considered, including the use of systemic steroids to down-regulate the systemic inflammatory response, the use of human immunoglobulin and even chloroquine given its anti-inflammatory and antiviral qualities; however, none of these treatments has been sufficiently studied or has shown any significant change in the clinical course of infected patients.\n\nDue to the importance of the COVID-19 pandemic and in the absence of specific treatment, it is important to implement new treatments that allow modulating the immune response, and one strategy may be the addition of DLE to symptomatic and supportive treatment.\n\nHypotheses by goals.\n\n1. The addition of DLE to the symptomatic treatment could decrease the severity of the clinical outcome (signs and symptoms) in individuals with an acute respiratory infection (cases suspected/confirmed by COVID-19).\n2. The addition of DLE to the symptomatic treatment could decrease the clinical deterioration due to the acute respiratory infectious process (suspected/confirmed cases of COVID-19).\n3. The addition of DLE to the symptomatic treatment could decrease the duration of the clinical outcome (suspected/confirmed cases of COVID-19).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Adults who agree to participate and sign informed consent.\n2. Suspected case, according to the operational definition (CONAVE).\\*\n3. In the case of confirmed cases, will be those individuals who meet the operational definition of a suspected case and have a confirmed diagnosis by molecular biology, according to the operational definition (CONAVE).\\*\\*\n4. The time of acute respiratory symptoms should be no longer than 72h.\n5. Negative to the rapid test for influenza A/B.\n6. Live in an urban area with easy access for visits.\n\n   * Person of any age that has presented at least two of the following signs and symptoms: cough, fever or headache\n\nAccompanied by at least one of the following signs or symptoms:\n\nDyspnea (signal of severity) Arthralgia Myalgia Odynophagia / pharyngeal burning Rhinorrhea Conjunctivitis Chest pain\n\n\\*\\*SARS-CoV2 infection confirmed by molecular diagnostic by one laboratory from the National Network of Public Health Laboratories recognized by InDRE.\n\nExclusion Criteria:\n\n1. Pregnancy.\n2. Evidence of severe acute respiratory infection, even if it meets the criteria for a suspected or confirmed case.\n3. Hepatic insufficiency\n4. Diseases that occur with immunosuppression or therapeutic immunosuppression.\n5. Heart diseases; controlled hypertension is allowed.\n6. Metabolic diseases; controlled diabetes mellitus is allowed.\n7. Individuals who have been treated with DLE in the last 6 months.\n\nCONAVE: National Committee for Epidemiological Surveillance. InDRE: Institute of Epidemiological Diagnosis and Reference.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID-19",
+    "SARS-CoV-2 Infection"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT02231840",
+  "title": "NIAAA Natural History Protocol",
+  "brief_summary": "Background:\n\n\\- About 17 million adults had an alcohol use disorder in 2012. Researchers want to follow people that have alcohol problems and want treatment, as well as those who do not want treatment and healthy volunteers. They also want to gather information on people with and without alcohol problems, including information on genes and biological processes in the body.. This will help them better understand, prevent, and treat alcohol problems.\n\nObjective:\n\n-To look at a broad range of traits in people who are healthy people and people with alcohol problems. To study them for potential eligibility for other research protocols conducted at the NIH Clinical Center.\n\nEligibility:\n\n* Adults age 18 and older.\n* Not being pregnant or imprisoned.\n\nDesign:\n\n* Participants will have a physical exam. They will answer questions about their health and alcohol and drug use. They will have an electrocardiogram to check their heart. They will have blood, urine, and breath alcohol tests.\n* Participants without alcohol problems, or who have them but do not want treatment, can sign the second consent for screening and research.\n* Participants that have alcohol problems and want treatment will be treated at the NIH Clinical Center. They will be offered to sign the second consent at a later time.\n* Participants may join an inpatient treatment and detox program. It could last up to 6 weeks. Or they may join an outpatient program. Some may do both.\n* After discharge, participants may be called and asked questions about their drinking and health.\n* If participants sign the second consent, they:\n* will complete paper- and computer-based questionnaires.\n* will give blood samples.\n* may have a brain scan using magnetic resonance imaging. They will lie on a table that slides in and out of a cylinder that takes pictures. The machine makes loud noises. They will get earplugs.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAs this is a natural history protocol of alcohol use as a continuum, in order to be eligible to participate in this study, an individual must meet the following criterion:\n\n* Age \\>=18 years of age\n* Willingness to complete the study including genetic and MRI tests.\n\nWe will assign participants to one of two groups in this study:\n\n* Treatment-seeking individuals (Patients that want to stop alcohol use and will require medical management to achieve sobriety) and\n* Non-treatment-seeking participants (Patients or healthy volunteers who want to continue their current alcohol use).\n\nAll participants are initially phone-screened for eligibility and their desire for treatment of AUD (or lack of it) will determine their group allocation. Their self-report of health status, pregnancy, legal status, and willingness to complete the study including the genetics and MRI test will be assessed in the phone screen and determine eligibility.\n\nEXCLUSION CRITERIA:\n\nThis is a natural history protocol of alcohol use as a continuum. Potential participants are pre-screened on the phone and, based on the information provided on the phone, the following categories are excluded because they are not suitable study participants for this protocol:\n\n* Individuals \\< 18 years of age\n* Prisoners\n* Pregnant candidates\n* Candidates having a severe medical or mental health disorder that would impair participation in the study\n\nAll participants are initially phone-screened for eligibility: age, legal status, pregnancy, and severe medical conditions will be assessed using information reported in the phone screen to determine eligibility for the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "We will enroll a total of 7500 participants. Any individual (Bullet)18 years of age who expresses interest in participating in this study and/or other research studies offered at NIAAA during the brief telephone pre-screening may be enrolled. Participants may be individuals with no current or past AUD, as well as individuals who meet current or past DSM criteria for AUD. Healthy volunteers and other volunteers will also be enrolled in this protocol.",
+  "condition": [
+    "Alcohol Use Disorder"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history protocol for alcohol use disorder and healthy volunteers, not a cancer trial. There is no systemic therapy for advanced disease or line-of-therapy intent applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced disease. No line-of-therapy intent is defined or applicable to this protocol."
+    }
+  ]
+}

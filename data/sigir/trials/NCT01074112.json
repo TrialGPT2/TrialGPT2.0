@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT01074112",
+  "title": "Keller Prehospital Ultrasound Study",
+  "brief_summary": "The study is based on the premise that ultrasound is not commonly used in an ambulance. There are some departments that do deploy it into the field, but of those departments there is almost no data collected about its use. Currently Paramedics are not recognized by insurance companies as health care providers capable of performing ultrasound. If there were more data on the subject that may eventually change. We are hoping to prove that not only is ultrasound useful in an ambulance, but that paramedics are good at interpreting the results. We will save images, the paramedic's diagnosis and some basic information about the call. We will not save any protected health information (PHI) or any information linking the subject to the study. The data collected will be sent to a non-biased ultrasound reviewer to grade the images for the accuracy of diagnosis and the quality of the view obtained. This data will be used to formulate a report and statistics on paramedic's ability to perform ultrasound in the field.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Activation of the Keller Fire Rescue Emergency Medical Service\n* Meets disease process criteria described earlier\n\nExclusion Criteria:\n\n* Does not meet the disease process criteria",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Residents and visitors of Keller,TX and the cities that Keller Fire Rescue provides mutual aide services to",
+  "condition": [
+    "Ultrasonography",
+    "Multiple Trauma",
+    "Kidney Calculi",
+    "Aortic Aneurysm, Abdominal",
+    "Pregnancy",
+    "Catheterization, Venous"
+  ],
+  "overall_status": "UNKNOWN"
+}

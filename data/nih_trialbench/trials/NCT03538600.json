@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT03538600",
+  "title": "Sample Collection From Healthy Volunteers for Assay Optimization",
+  "brief_summary": "Background:\n\nThe Laboratory of Immune System Biology (LISB) works with other labs at the National Institutes of Health. They study how parts of living things come together to make a whole. LISB designs and improves research tests on human samples like blood and cells. In order to do its work, LISB needs to have a lot of these samples available.\n\nObjective:\n\nTo collect biological specimens to use for designing and improving research tests. Specimens include blood, stool, saliva, and skin/mucosal swabs.\n\nEligibility:\n\nHealthy people ages 3-80\n\nDesign:\n\nParticipants will be screened with an interview about their general health and their medical history. They will have a physical exam and blood tests.\n\nIf the results of the screening are normal, participants will be asked to give one or more of these samples:\n\nBlood will be drawn from an arm vein with a needle and syringe.\n\nMucus and skin will be collected by rubbing the area with a cotton swab. The areas may include the top of the tongue, inside the cheek, nostrils, behind the ear, elbow pit, or vagina.\n\nParticipants will spit into a tube to collect saliva.\n\nParticipants will pass stool into a plastic container that fits in the toilet under the seat. They will get sampling kits and instructions.\n\nOver the next 5 years, if more samples are needed, participants will be contacted to set up another visit to the NIH. These visits will each take about 1 hour.\n\nAbout every 2 years, when participants come to NIH for a visit, extra blood will be collected. It will be tested for HIV and hepatitis B and C.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Aged 3-80 years.\n  2. Able to provide informed consent (for ages \\>=18 years) or has a parent or guardian who can provide informed consent on their behalf (for ages \\<18 years).\n  3. Agree to allow biological samples to be stored for future research.\n  4. Willing to provide blood, stool, saliva, skin/mucosal/tonsil swabs, and/or skin punch biopsy specimens.\n\nEXCLUSION CRITERIA:\n\nIndividuals meeting any of the following criteria will be excluded from study participation:\n\n1. Pregnancy.\n2. History of autoimmune or autoinflammatory disease.\n3. Diabetes mellitus.\n4. Cancer chemotherapy within the past 5 years.\n5. Currently receiving treatment for an active malignancy.\n6. Surgery within the past 8 weeks.\n7. History of recent (within the past 30 days) infection.\n8. History of significant, active parasitic, amebic, fungal, or mycobacterial infections within the past 5 years (as determined by the PI).\n9. Infected with HIV and/or hepatitis B and/or C.\n10. Use of an oral or inhaled glucocorticoid within the past 30 days.\n11. History of a bleeding disorder.\n12. Screening lab values are both outside of the NIH Department of Laboratory Medicine normal reference range and deemed clinically significant by the PI.\n13. Receipt of an immunosuppressant or immunomodulatory drug within the past 30 days.\n14. Receipt of a live-attenuated vaccine within the past 30 days.\n15. Receipt of any other type of vaccine within the past 14 days.\n16. Current or past use (within the past 90 days) of immunoglobulin therapy.\n17. Current use of illicit drugs (per subject report).\n18. Current use of nicotine-containing products, including cigarettes and chewing tobacco, nicotine patches, gum, electronic cigarettes, etc.\n19. Current alcohol use disorders (criteria per Diagnostic and Statistical Manual of Mental Disorders, fifth edition).\n20. Any condition that requires active medical intervention or monitoring to avert serious danger to the individual s health or wellbeing.\n21. Any condition that, in the opinion of the PI, contraindicates participation in this study or would significantly affect immune profile.\n\nCo-enrollment guidelines: Participants may be co-enrolled in other studies. The PI may withdraw them from this study for any reason that may contraindicate participation.",
+  "minimum_age": "3 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy Volunteers between the ages of 3-80.",
+  "condition": [
+    "Healthy Volunteers"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This study enrolls healthy volunteers for biospecimen collection and assay optimization. There is no cancer diagnosis or systemic therapy for advanced disease involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria specify only healthy volunteers without mention of cancer or systemic therapy for advanced disease. No line-of-therapy intent is applicable."
+    }
+  ]
+}

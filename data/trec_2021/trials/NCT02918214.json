@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02918214",
+  "title": "Prognostic Assessment of Diastolic and Systolic Left Ventricular Function in Septic Shock",
+  "brief_summary": "Sepsis induces a reversible systolic and diastolic cardiac dysfunction. The presence of a left ventricular (LV) diastolic dysfunction during septic shock could favor harmful volume overload. Recently, a meta-analysis suggested a negative prognostic role of LV diastolic dysfunction in septic patients (Od Ratio: 1.82; 95%CI: 1.12 - 2.97; p = 0.02) but its external validity is hampered by the numerous limits and the heterogeneity of the studies. To date, a pathophysiological link between LV diastolic dysfunction associated with septic shock and the water balance (reflecting volume overload) remains to establish. In addition, small size studies reported an excess of mortality in patients with septic shock who were diagnosed with a high cardiac output. However, no large cohort has yet confirmed the negative prognostic role of a hyperkinetic hemodynamic profile at the initial phase of septic shock.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient hospitalized in ICU for septic shock:\n\n  * Documented or highly suspected infection (clinically or microbiologically)\n  * Causing an organ failure defined as an acute change in total SOFA score \u2265 2 points (baseline SOFA score can be assumed to be zero in the absence of pre-existing organ dysfunction)\n  * And low blood pressure (sBP \\< 90 mmHg or a decrease of more than 40 mmHg compared to baseline, or mBP \\< 65 mmHg) despite a fluid loading of 30 mL/kg (except if clinical or radiological sign of pulmonary fluid overload) requiring vasopressor infusion to maintain mBP \\> 65 mmHg\n  * And lactate level \\> 2 mmol/L\n* Patient older than 18 years old affiliated to the French Social Security\n* Non-opposition of the patient (or of its next-of-kin) to participate in the study\n\nExclusion Criteria:\n\n* Ongoing dobutamine or epinephrine infusion\n* Severe left valvular disease (severe stenosis, severe regurgitation \u2265 grade 3)\n* Constrictive pericarditis (invalidate the mitral tissue Doppler imaging)\n* Pregnant women\n* Patient with estimated life expectancy \\< 24h.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients will be recruited in the ICU but also in Emergency Departments if they present with septic shock before ICU admission",
+  "condition": [
+    "Septic Shock",
+    "Echocardiography",
+    "Diastolic Dysfunction",
+    "Hyperkinesia"
+  ],
+  "overall_status": "COMPLETED"
+}

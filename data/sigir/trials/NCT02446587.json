@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02446587",
+  "title": "Optimizing Patient's Selection for Endovascular Treatment in Acute Ischemic Stroke",
+  "brief_summary": "SELECT is a multicenter, observational prospective study implementing a protocol to acquire imaging and clinical variables known to affect clinical outcomes after endovascular therapy in an effort to evaluate and compare the different selection methods and criteria currently used in practice for acute ischemic stroke patients in the anterior circulation with large vessel occlusion. The study aim is to evaluate prospectively different selection methodologies for endovascular therapy, to compare them against each other to identify which method provides the highest predictive ability in the selection of patients for IAT and to devise a formula that predicts patients' outcomes.\n\nThis study will enroll patients based on the recent AHA guidelines (July 2015) regarding treatment of patients with acute ischemic strokes and large artery occlusions in the anterior circulation.\n\nOur goal is to collect complete imaging, clinical, and 90 day follow up data on 250 endovascular therapy patients as well as up to 250 concurrent medical management patients as a comparison group.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nEligible patients will be:\n\n1. Adults (\u226518years) with the final diagnosis of an acute ischemic stroke\n2. CT-Angiogram proven, large artery occlusion (LAO) in the internal carotid artery (ICA), middle cerebral artery (MCA -M1 or M2 site) locations\n3. NIH Stroke Scale \u22656 (NIHSS) OR proven LAO on imaging (must be from designated LAO listed on inclusion #2)\n4. LSN (last seen normal) to groin puncture (\u2264 8 hours) in thrombectomy arm; LSN to presentation to endovascular capable center (\u2264 8 hours) in medical arm\n5. Baseline modified Rankin Scale score of 0-1\n6. Signed Informed Consent obtained\n7. Subject willing to comply with the protocol follow-up requirements\n8. Anticipated life expectancy of at least 3 months\n9. IV-tPA eligible patients must meet AHA guidelines\n\nExclusion Criteria:\n\nPatients are excluded if:\n\n1. Inability to undergo CT-Angiography and/or CT-Perfusion imaging (e.g., renal insufficiency, iodine/contrast allergy)\n2. Co-morbid psychiatric or medical illnesses that would confound the neurological assessments\n3. Subject is participating in another mechanical neuro-thrombectomy device trial (intervention) or any other trial where the study procedure or treatment might confound the study endpoint.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Eligible patients will be adults (\u226518 with the final diagnosis of an acute ischemic infarction and large artery occlusion in anterior circulation strokes). Given the observational design of the study there will be no stringent exclusion based on stroke severity or IV tPA treatment",
+  "condition": [
+    "Stroke",
+    "Ischemic Stroke"
+  ],
+  "overall_status": "COMPLETED"
+}

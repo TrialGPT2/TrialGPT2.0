@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT02465528",
+  "title": "Ceritinib Rare Indications Study in ALK+ Tumors",
+  "brief_summary": "This is Proof-of-Concept (POC) study to assess the preliminary antitumor activity and safety and tolerablity using ceritinib (LDK378) in the treatment of life threatening tumors that are characterized by ALK genetic alteration (and/or overexpression in some diseases).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient has a histologically or cytologically confirmed diagnosis of ALK positive (ALK+) tumor other than Non-Small Cell Lung Cancer (NSCLC).\n* Patient must provide an archival or fresh tumor tissue before the first dose of the study drug for ALK testing at a Novartis designated central laboratory.\n* Patient has WHO Performance Status (PS) \u2264 2\n* Patient must have received at least one line of prior systemic treatment for recurrent, locally advanced and/or metastatic disease, and may have discontinued for:\n\n  * Disease progression as defined by RECIST 1.1 for solid tumors; by RANO for GBM and by Cheson assessment criteria for lymphoma, or\n  * Intolerance described as any discontinuation due to an AE of any grade despite appropriate supportive treatment\n* Patient has at least one measurable lesion as defined by appropriate guidelines. A lesion at a previously irradiated site may only be counted as a target lesion if there is clear sign of progression since the irradiation.\n* Patient has received no chemotherapy, immunotherapy or stem cell therapy at least 4 weeks before starting ceritinib\n* Radiotherapy and prior ALK inhibitors must be stopped at least 1 week prior to starting ceritinib\n* Recovered from all toxicities related to prior anticancer therapies to grade \u2264 1 (Common Terminology Criteria for Adverse Events \\[CTCAE\\] v4.03).\n\nExclusion Criteria:\n\n* Patient has ALK+lung cancer\n* Patient with symptomatic CNS metastases who are neurologically unstable or have required increasing doses of steroids within the 2 weeks prior to study entry to manage CNS symptoms.\n* Patient with acute or chronic GI disease that may significantly alter the absorption of ceritinib.\n* Patient with a history of pancreatitis or history of increased amylase or lipase that was due to pancreatic disease.\n* Patient has history of interstitial lung disease or interstitial pneumonitis, including clinically significant radiation pneumonitis.\n* Patient has clinically significant, uncontrolled heart disease and/or recent cardiac event (within 6 months).\n* Patient has evidence of active viral hepatitis, including Hepatitis A, B or C (testing for viral hepatitis is not mandatory).\n* Patient has known diagnosis of human immunodeficiency virus (HIV) infection (HIV testing is not mandatory).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Tumors With Aberrations in ALK",
+    "Anaplastic Large Cell Lymphoma",
+    "Inflammatory Myofibroblastic Tumor",
+    "Glioblastoma"
+  ],
+  "overall_status": "TERMINATED"
+}

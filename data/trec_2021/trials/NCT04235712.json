@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04235712",
+  "title": "Implementation of Harmonized Depression Outcome Measures in a Health System",
+  "brief_summary": "Working with a health system, the investigators will recruit practices to participate in the pilot study, consent and enroll patients with major depressive disorder, and collect the PHQ-9 from those patients at three timepoints (baseline, 6 months post-enrollment, and 12 months post-enrollment). The PHQ-9 will be captured either at an office visit or directly from patients. The investigators will build and implement an open-source SMART on FHIR app to collect key data from the EHR, combine that data with the PHQ-9 results, and present the measurements back to the clinicians. The investigators will then obtain feedback from clinicians on the value and usefulness of the app.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients age 18 and older\n* Diagnosis of major depression or dysthymia\n* Willing and able to provide informed consent\n\nExclusion Criteria:\n\n* There are no exclusion criteria for this study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study will collect data on approximately 50 patients with a diagnosis of major depression or dysthymia from a total of five practices within the same health system.",
+  "condition": [
+    "Major Depression",
+    "Dysthymia"
+  ],
+  "overall_status": "COMPLETED"
+}

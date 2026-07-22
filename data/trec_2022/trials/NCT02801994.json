@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02801994",
+  "title": "Impact of Proportional Assisted Ventilation on Dyspnea and Asynchrony in Mechanically Ventilated Patients",
+  "brief_summary": "Rational. The mismatch between the activity of the respiratory muscles and the assistance delivered by the ventilator results in patient-ventilator disharmony, which is commonly observed in ICU patients and is associated with dyspnea and patient-ventilator asynchrony. Both dyspnea and asynchrony are in turn associated with a worse prognosis. Unlike conventional modes of mechanical ventilation, such as pressure support ventilation (PSV) that deliver a constant level of assistance regardless of the patient effort, Proportional Assisted Ventilation (PAV) adjusts the level of ventilator assistance to the activity of respiratory muscles. To date, data on the impact of PAV on dyspnea and patient ventilator asynchrony are scarce and most studies have been conducted in healthy subjects or in ICU patients who had no severe dyspnea nor severe asynchrony. To our knowledge, there are no data in patients with severe patient-ventilator dysharmony.\n\nStudy Aim. To evaluate the impact of PAV on dyspnea and patient-ventilator asynchrony in ICU mechanically ventilated patients in intensive care with severe patient-ventilator disharmony defined as either severe dyspnea or severe patient-ventilator asynchrony.\n\nPatients and Methods. Will be included 24 ICU mechanically ventilated patient exhibiting severe patient-ventilator dysharmony with PSV. The intensity of dyspnea will be assessed by the VAS, the ICRDOSS and by the electromyogram of extradiaphragmatic inspiratory muscles and pre inspiratory potential collected from the electroencephalogram. The prevalence of patient-ventilator asynchrony will be quantified.\n\nExpected results. It is anticipated that the switch from PSV to PAV will decrease the prevalence and severity of dyspnea and the prevalence of patient-ventilator asynchrony.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\nPatients will be included as soon as the meet the following criteria.\n\n* Intubation and mechanical ventilation for a respiratory cause with severe hypoxemia defined as a PaO2 to FiO2 ratio \\<300 recorded at least once during the present ICU stay.\n* PSV ventilation for \\> 6 hours.\n* Severe patient-ventilator disharmony defined by either\n\n  * a dyspnea \u2265 4 on a visual analogic scale (VAS) from 0 to 10 with respiratory rate \u2265 24 /minute and a drawing of neck muscles,\n  * or by an asynchrony index (IA) \u2265 10%, defined as = number of asynchrony events/total respiratory rate (ventilator cycles +wasted efforts) \u00d7 100\n* No improvement of disharmony despite an optimization of ventilator setting defined as follows.\n\n  * No improvement of dyspnea or double triggering despite an increase of the level of pressure support that should not generate a tidal volume \\> 10 ml/kg\n  * No improvement of ineffective efforts despite a decrease of the level of pressure support or generation of a dyspnea (defined as VAS\\>4) in response of the decrease of the level of pressure support.\n* Decision of the physician in charge of the patient to switch mechanical ventilation from PSV mode to PAV.\n* Remaining duration of mechanical ventilation estimated \u2265 24 hours.\n* Patient able to communicate (Richmond Agitation and Sedation Scale between -1 and +1).\n\nExclusion Criteria:\n\n* Exclusion criteria will be as follows.\n\n  * Severe hypoxemia defined as a PaO2 to FiO2 ratio \\<150 mmHg.\n  * Delirium according to the CAM-ICU (1)\n  * Hemodynamic instability defined by the need for intravenous fluids or catecholamine during the previous 24 hours.\n  * Age \\<18 years; pregnant woman.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Dyspnea"
+  ],
+  "overall_status": "COMPLETED"
+}

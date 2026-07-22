@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT05155046",
+  "title": "18F-DCFPyL Imaging as a Method to Assess Treatment Response to Stereotactic Body Radiation Therapy",
+  "brief_summary": "Background:\n\nIdentifying medium- and high-risk prostate cancer early may allow for treatments to work. But identification can be hard. Researchers want to see if a radiotracer used during PET scans can help.\n\nObjective:\n\nTo test how an imaging agent called 18F-DCFPyL detects response to standard prostate cancer treatment.\n\nEligibility:\n\nPeople ages 18 and older with newly diagnosed prostate cancer who have no evidence of distant metastatic disease and plan to get stereotactic body radiation therapy (SBRT) with or without androgen deprivation therapy (ADT).\n\nDesign:\n\nParticipants will be screened with:\n\nMedical history\n\nPhysical exam\n\nBlood tests\n\nMRI\n\nParticipants will have baseline MRI and PET/CT scans. For the MRI, they may get a contrast agent by IV injection. For the PET/CT scan, they will get an IV injection of 18FDCFPyL. About 1 to 2 hours later, they will get the PET/CT scan. During the scans, participants will lie on their back and remain still for 45 minutes to 1 hour. These scans will be repeated at different points during the study.\n\nParticipants will get SBRT with or without ADT.\n\nParticipants will complete questionnaires about their quality of life.\n\nParticipants will be asked about any symptoms they are having. They will also be asked about medications they are using. They may have a physical exam.\n\nParticipants will give blood and urine samples. They will give a tumor sample from a biopsy they have had in the past.\n\nAfter treatment, participants will have follow-up visits. These will occur 1 month after treatment, then every 3 months for a year, and then every 6 months for 1 more year.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Biopsy proven localized prostate cancer in whom stereotactic body radiation treatment (SBRT) with or without neoadjuvant androgen deprivation therapy (ADT) is planned for definitive management (NIH laboratory of pathology confirmation is not required).\n* Must have at least 1 MRI detected, biopsy proven localized prostate cancer.\n* Age \\>= 18 years\n* ECOG performance status \\<= 2\n* For individuals with evidence of human immunodeficiency virus (HIV) infection, individuals must be on effective anti-retroviral therapy with undetectable viral load within the prior 6 months are eligible.\n* For individuals with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable on suppressive therapy, if indicated.\n* For individuals with a history of hepatitis C virus (HCV), the infection must have been treated and cured. For individuals with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load.\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n* Men must agree to use adequate contraception with their partner (hormonal or barrier method of birth control; abstinence) for the duration of study participation and 2 months after the last 18F-DCFPyL scan.\n\nEXCLUSION CRITERIA:\n\n* Receiving prior androgen deprivation therapy, radiotherapy, or surgery for prostate cancer.\n* Any condition that is likely to interfere with study procedures or results.\n* Individuals in whom pelvic nodal irradiation is planned.\n* Serum creatinine \\> 2 times the upper limit of normal.\n* Weighing \\> 350 lbs (weight limit for scanner table), or unable to fit in imaging gantry.\n* Evidence of tumor spread beyond the prostate/seminal vesicles (lymph nodes, metastases).\n* Contraindications to radiation or SBRT.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Localized Prostate Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with newly diagnosed, localized prostate cancer who have not received any prior systemic therapy, radiotherapy, or surgery for prostate cancer. All participants are treatment-naïve for advanced disease and will receive SBRT with or without neoadjuvant ADT as definitive management.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility requires no prior androgen deprivation therapy, radiotherapy, or surgery for prostate cancer, and only newly diagnosed, localized cases are included. Patients must be treatment-naïve for advanced disease, and only those planned for definitive SBRT (with or without neoadjuvant ADT) are eligible."
+    }
+  ]
+}

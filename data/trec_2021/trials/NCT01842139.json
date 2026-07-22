@@ -1,0 +1,29 @@
+{
+  "nctid": "NCT01842139",
+  "title": "Vaccine Therapy and Basiliximab in Treating Patients With Acute Myeloid Leukemia in Complete Remission",
+  "brief_summary": "This randomized phase I trial studies the side effects and best way to give vaccine therapy together with basiliximab in treating patients with acute myeloid leukemia (AML) in complete remission. Vaccines made from the WT1 peptide may help the body build an effective immune response to kill cancer cells. Montanide ISA 51 VG and poly-ICLC may enhance this response. Monoclonal antibodies, such as basiliximab, can block cancer growth in different ways. Some block the ability of cancer to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. It is not yet known whether WT1 126-134 peptide vaccine with Montanide ISA 51 VG is more effective than with poly-ICLC when given together with basiliximab in treating AML",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with Hematological malignancies, including AML, MDS, CML in blast phase and other conditions at the investigator's discretion.\n* Bone marrow biopsy-confirmed CR or CRi, more than CR1 is allowed, such as CR2 or CR3. The enrollee is deemed not a candidate for stem cell transplant due to advanced age or co-morbidities; or the enrollee does not have donor available; or enrollee refuses stem cell transplant due to personal belief; or stem cell transplant is not current standard of care. Patients who are post stem cell transplant in CR or CRi are allowed if they are off immunosuppression,and not treated with systematic steroid for GVHD\n* Karnofsky performance status index \\> or = 80%\n* Written informed consent\n* Absolute neutrophil count \\> or = 500/\u03bcl\n* Platelet count \\>= 20,000/\u03bcl with transfusion\n* Creatinine = or \\< 2 x upper limit of normal (ULN)\n* Serum glutamic oxaloacetic transaminase (SGOT) and serum glutamic pyruvate transaminase (SGPT) = or \\< 5 x ULN\n* Bilirubin = or \\< 3 x ULN\n* Human leukocyte antigens (HLA) typing: patient must express HLA-A2\n* Age \\> 18 years and \\< 85 years\n* Electrocardiogram (EKG) without evidence of arrhythmia or changes that indicate acute ischemia\n* Pulse oximetry showing oxygen saturation of at least 90% on room air\n* No irreversible coagulopathy, international normalized ratio (INR) =\\< 2\n* No sign of tumor lysis syndrome, uric acid needs to be in normal range prior to treatment\n* Not in diabetic ketoacidosis (DKA), sickle cell crisis, and not having severe peripheral vascular disease on active anti-coagulation treatment\n\nExclusion Criteria:\n\n* Pregnant or nursing women; women who still have child-bearing potential must be tested for urinary or serum beta human chorionic gonadotropin (\u03b2HCG)\n* Biological or chemotherapy in the 4 weeks prior to the start of dosing\n* Patients with intrinsic immunosuppression, including seropositivity for human immunodeficiency virus (HIV) antibody; patients should be tested for HIV\n* Serious concurrent infection, including active tuberculosis, hepatitis B, or hepatitis C; patients should be tested for hepatitis B surface antigen and hepatitis C antibody; patients who are hepatitis C antibody (Ab) positive can be eligible if they are PCR negative\n* Active or history of confirmed autoimmune disease\n* Concurrent systemic corticosteroids (except physiologic replacement doses) or other immunosuppressive drugs (eg. cyclosporin A)\n* Active or history of autoimmune disease including but not limited to rheumatoid arthritis (rheumatoid factor \\[RF\\]-positive with current or recent flare), inflammatory bowel disease, systemic lupus erythematosus (clinical evidence with antinuclear antibody \\[ANA\\] 1:80 or greater), ankylosing spondylitis, scleroderma, multiple sclerosis, autoimmune hemolytic anemia, and immune thrombocytopenic purpura; seropositivity alone will not be considered positive\n* Psychiatric illness that may make compliance to the clinical protocol unmanageable or may compromise the ability of the patient to give informed consent; patients with clinical evidence of dementia should have a competent designee participate in decision",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Adult Acute Myeloid Leukemia in Remission",
+    "Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities",
+    "Adult Acute Myeloid Leukemia With Del(5q)",
+    "Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)",
+    "Adult Acute Myeloid Leukemia With t(15;17)(q22;q12)",
+    "Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)",
+    "Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04730752",
+  "title": "Validation and Comparison of the Appendicitis Inflammatory Response Score and Adult Appendicitis Score",
+  "brief_summary": "Acute appendicitis is one of the most frequent reasons of emergency laparotomy in adults. Symptoms of acute appendicitis overlap with other clinical conditions and might present as a challenge, especially in the early phases. Despite the advances and widespread use of imaging modalities, still negative laparotomies are performed with the initial diagnosis of acute appendicitis. Several scoring systems are developed by using various clinical and laboratory parameters in order to improve the diagnostic accuracy and prevent unnecessary laparotomies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Presenting to ER with right lower quadrant pain\n* Patients between 18-65 years old.\n\nExclusion Criteria:\n\n* Patients receiving immun-suppressive therapy\n* Patients with diagnosed malignancy\n* Presence of mental retardation\n* Patients with previous right hemicolectomy\n* Patients with previous appendectomy\n* Pregnant women",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients between 18-65 years old, presenting to ER with right lower quadrant pain.",
+  "condition": [
+    "Acute Appendicitis",
+    "Acute Appendicitis With Rupture"
+  ],
+  "overall_status": "COMPLETED"
+}

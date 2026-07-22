@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02445183",
+  "title": "COPDGene/Lung Cancer Center Database",
+  "brief_summary": "The COPDGene\u00ae / Lung Cancer Database Study is a nested case-control study. This study is an ancillary study to COPDGene\u00ae Phase 1 and Phase 2. Lung cancer cases, which have been reported by COPDGene\u00ae subjects since the time of COPDGene\u00ae study enrollment, will be retrospectively verified with additional medical data collection pertaining to lung cancer. Additional 'control' subjects will also be identified and verified as a 'no lung cancer controls'. Data previously collected through the COPDGene\u00ae Study, including QCT results and clinical results (medication use, rate of acute exacerbations of COPD, etc) will be used as variables for analysis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Subjects must meet all of the following criteria\n\n  1. Be enrolled in COPDGene\u00ae Phase 1 with or without enrollment in Phase 2 with newly diagnosed, (within the time of enrollment), non-small cell lung cancer (NSCLC) or small-cell lung cancer (SCLC).\n  2. Documented GOLD stage 1-4 COPD or a history of smoking with no COPD\n  3. Signed HIPAA Research Authorization and a Release of Protected Health Information form to collect and review medical records regarding lung cancer diagnosis, treatment, and outcome",
+  "minimum_age": "40 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects eligible for study are those enrolled in the COPDGene\u00ae. Subjects will be screened for enrollment through the COPDGene\u00ae longitudinal follow-up questionnaire or during their Phase 2 visit. Those patients that answer yes to \"since the last follow up have you been diagnosed with cancer?\" will be contacted by a study coordinator and offered enrollment in the COPDGene\u00ae/Lung Cancer Database.",
+  "condition": [
+    "Lung Cancer",
+    "COPD"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02894775",
+  "title": "Factors Influencing Inclusion in Digestive Cancer Clinical Trials",
+  "brief_summary": "Since the early 1990s, evidence-based medicine has played an increasingly important role in decision-making for the treatment of patients with cancer. The highest level of evidence is attributed to the results of randomized comparative studies, and the public health authorities require proof from randomized therapeutic trials before authorizing the use of new treatments. Patients included in therapeutic trials benefit either from the best current treatment (control group) or from a treatment supposed to present a better or similar efficacy, together with an extremely rigorous surveillance protocol. Inclusion in a randomized therapeutic trial represents the optimal therapeutic strategy.In order to optimize the fight against cancer, French public health policies have led to the progressive implementation of successive nationwide \"Cancer Plans\" since 2003. One of the objectives is to increase the proportion of patients included in clinical research trials. Thus, the fraction enrolled in France has progressively increased but remained low at around 8% in 2010. The current 2014-2019 plan aims to expand inclusion to 50,000 patients per year. In a context of socio-economic inequalities that concern resources, residence and access to services, identifying factors that determine inclusion in trials will in turn highlight the reasons for non-inclusion.\n\nThe aim of this study was to determine, at a population level, the influence of demographic characteristics and socio-economic status of patients with digestive cancer on inclusion in a clinical trial.\n\nBetween 2004 and 2010, 4632 patients were recorded by the Burgundy Digestive Cancer Registry. According to a balancing score, the 136 patients included in a clinical trial were matched with 272 patients who met the eligibility criteria for trials. Deprivation was measured by the ecological European deprivation index. A conditional multivariate logistic regression was performed.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* patient with digestive cancer residing in Burgundy, France\n\nExclusion Criteria:\n\n* associated cancer",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "patients with invasive digestive cancer",
+  "condition": [
+    "Digestive Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

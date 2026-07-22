@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04497454",
+  "title": "Mechanical Ventilation Strategy for Coronavirus Disease 2019 (COVID-19)",
+  "brief_summary": "This is a prospective, randomized, single-center, open-label controlled trial, designed to compare the efficacy of two ventilation strategies (Low Tidal Volume and positive end-expiratory pressure (PEEP) based on the Acute Respiratory Distress Syndrome (ARDS) Network low PEEP-fraction of inspired oxygen inspired oxygen fraction (FIO2) Table versus Low Driving Pressure and PEEP guided by Electrical Impedance Tomography (EIT) in reducing daily lung injury score in patients with acute respiratory distress syndrome caused by COVID-19. The two strategies incorporate different prioritizations of clinical variables. The PEEP-FIO2 table strategy aims to reduce lung overdistension, even if it requires tolerating worse gas exchange. EIT-guided strategy prioritizes mechanical stress protection, avoiding alveolar overdistension and collapse.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\nPatients under mechanical ventilation with ARDS (Berlin definition) caused by SARS-COV2 infection:\n\n* ARDS diagnosis in less than 24 hours\n* Respiratory System Compliance of 0.6 mL/cmH2O/Kg of PBW\n\nExclusion Criteria:\n\n* Age \\< 18 years\n* Active bronchopleural fistula\n* History of chronic and disabling respirator disease, requiring home oxygen treatment\n* Chronic pulmonary arterial hypertension (pulmonary artery systolic pressure \\> 40 mmHg)\n* Huge intrathoracic tumoral mass\n* Electrical impedance tomography monitoring contraindications (as thoracic wounds or burns, electronic implantable devices)\n* Hemodynamic instability (systolic pressure \\< 80 mmHg or mean arterial pressure \\< 60 mmHg, despite vasopressor drugs; and/or heart rate \\< 55bpm) - this patient may be included after recovered from hemodynamic instability\n* Not drained pneumothorax or subcutaneous emphysema or bronchopleural fistula\n* Patients at risk of intracranial hypertension development or post Cardiopulmonary resuscitation (first 72 hours)\n* Pregnancy\n* Impossibility of monitoring with EIT\n* Not committed to full support or life expectation \\< 24 hours\n* Legal responsible or clinical team refusal to participate in the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Respiratory Distress Syndrome",
+    "Mechanical Ventilation",
+    "SARS (Severe Acute Respiratory Syndrome)"
+  ],
+  "overall_status": "UNKNOWN"
+}

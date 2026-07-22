@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03505216",
+  "title": "Swiss Paediatric Airway Cohort",
+  "brief_summary": "The Swiss Paediatric Airway Cohort (SPAC) is a national, prospective clinical cohort of children and adolescents who visit physicians in Switzerland for recurrent wheeze, cough, and exercise- or sleep-related respiratory problems. SPAC aims to answer important questions on clinical phenotypes, prognosis, diagnosis and treatment. SPAC is part of routine care, and only clinically indicated investigations are done. The comprehensive baseline assessment includes a detailed questionnaire to families, plus test results, diagnoses and treatments from hospital records. Follow-up is via monthly questionnaires the first 12 months and thereafter annual questionnaires to families, and data from follow-up visits.\n\nCurrently, 4344 patients from 10 clinics and hospitals in Switzerland (Aarau, Basel, Bern, Chur, Horgen, Lausanne, Luzern, St. Gallen, Worb, Zurich) have been enrolled.\n\nSPAC provides real-life data on children visiting the Swiss health care system for common respiratory problems. It will provide a research platform for health services research, and for nested clinical and transitional studies.\n\nPublications and plain language summaries are listed on the study website: https://www.spac-study.ch/publikationen/",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Children and adolescents aged 0-16 years\n* Resident in Switzerland\n* Seen in a paediatric pulmonary outpatient clinic due to respiratory problems\n* Parents and patients above age 14 must be able to sign an informed consent form\n\nExclusion Criteria:\n\nPrior diagnosis of cystic fibrosis, primary ciliary dyskinesia, severe heart disease, oncological disease, neuromuscular disease or severe disability",
+  "minimum_age": "0 Years",
+  "maximum_age": "16 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Paediatric pulmonology outpatient clinics in Switzerland",
+  "condition": [
+    "Asthma",
+    "Wheezing",
+    "Cough",
+    "Exercise Induced Bronchospasm",
+    "Inspiratory Laryngeal Obstruction",
+    "Dysfunctional Breathing"
+  ],
+  "overall_status": "RECRUITING"
+}

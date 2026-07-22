@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03504046",
+  "title": "Safety and Feasibility Evaluation of the APS APP",
+  "brief_summary": "This clinical trial is a safety and feasibility study to assess the performance of artificial pancreas (AP) system using the Zone Model Predictive control (Zone-MPC) and Health Monitoring System (HMS) algorithms embedded into the APS APP platform.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \u2265 18 and \u2264 75 years at the time of screening.\n* Clinical diagnosis of type 1 diabetes for at least one year.\n* Has been using an insulin pump for at least 6 months at the time of screening.\n* HbA1c \\< 10.5%.\n* Bolus for all meals and snacks that contain \u2265 5 grams of carbohydrate.\n* Willing to perform at least 7 fingerstick blood glucose tests a day.\n* If using Apidra (insulin glulisine) at home and planning to use the Tandem t:AP pump for the closed-loop session, willing to switch to Novolog or Humalog for the closed-loop session.\n* Willing to refrain from taking acetaminophen products for the duration of the clinical trial.\n* Willing to abide by the study protocol and use study-provided devices, including the Omnipod OR Tandem Pump, Dexcom CGM, glucometer, ketone meter and APS APP on the study phone device.\n\nExclusion Criteria:\n\n* Pregnancy\n* One or more episodes of hypoglycemia requiring an emergency room visit or hospitalization in the past 6 months.\n* One or more episodes of hyperglycemia requiring an emergency room visit or hospitalization in the past 6 months.\n* Known unstable cardiac disease or untreated cardiac disease, as revealed by history or physical examination.\n* Dermatological conditions that would preclude wearing a CGM sensor or Pod/infusion site.\n* One or more seizures in the past year.\n* Any condition that could interfere with participating in the trial, based on investigator judgment.\n* Participation in another pharmaceutical or device trial at the time of enrollment or during the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Type 1 Diabetes Mellitus"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT06732414",
+  "title": "A Biorepository of Multiple Allergic Diseases (MADREP) With Longitudinal Follow-Up",
+  "brief_summary": "Background:\n\nAllergic or sinus diseases can affect the skin, sinuses, airways, and other parts of the body. Examples include pollen and environmental allergies, food allergies, asthma, and eczema. To learn more about how to prevent and treat these diseases, researchers need to study data, blood, fluid, and tissue samples from people affected by them.\n\nObjective:\n\nTo collect data, blood, fluid, and tissue samples from people with allergic or sinus diseases.\n\nEligibility:\n\nPeople aged 3 to 100 years with allergic or sinus diseases.\n\nDesign:\n\nParticipants will have at least one clinic visit, and most participants will have a baseline visit, annual visit, and an end of study visit. The duration of the study is 1 to 3 years. During the first clinic visit, the following procedures will be done to collect data, blood, fluid, and tissue samples:\n\n* Blood will be collected.\n* Cells and fluid may be collected from the inside of the nose using a long swab, and a small piece of skin may be scraped from inside the nose.\n* Skin cells will be collected by rubbing with a cotton swab.\n* A urine sample will be collected.\n* Allergy skin prick tests. Allergy-causing substances will be placed on the back or arm and the skin underneath gently scratched. If the participant is allergic to the substance, the skin may become red, itchy, and swollen locally ( at the site of the test).\n* Lung function test. Participants will breathe into a machine that measures the air moving in and out of their lungs.\n* If, as part of their routine care, participants are undergoing procedures such as having nasal polyps removed, skin tissue samples taken, or gastrointestinal biopsies, additional tissues may be collected for this study.\n* Participants will complete online questionnaires regarding their symptoms, health, and life.\n\nParticipants may return for more visits for up to 3 years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1)Aged 3 to 100 years.\n\n2a) Suspected or confirmed allergic, atopic, respiratory, or nasal/sinus disorder or have suspected or confirmed history of an immune dysregulatory disorder, OR\n\n2b) Have a clinical history of an immediate hypersensitivity reaction to aeroallergens, food, insect stings, or medications.\n\n3\\) Able to provide informed consent.\n\n4\\) Have or are willing to obtain a non-NIH primary physician who will manage all health conditions and be responsive for emergency medical treatment, if required.\n\n5\\) Willing to allow storage of blood, skin swabs, nasal fluid/brushings, bodily fluids, and other clinically appropriate tissue specimens or data generated during participation for future use in medical research.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this\n\nstudy:\n\n1. Any condition(s) or diagnosis, physical and/or psychological, that the investigator feels precludes the patient from participation in the study.\n2. For additional skin biopsies only:\n\n   1. Individuals who have a history of keloid formation\n   2. Children (\\<18 years old)\n   3. Participants who are pregnant\n3. For additional nasal-sinus polyp biopsies only:\n\n   1. Individuals on blood thinners unless they have already been stopped for the procedure\n   2. Children (\\<18 years old)\n   3. Participants who are pregnant\n4. For skin prick testing\n\n   a. Participants who are pregnant.\n5. Endoscopic Biopsy\n\n   1. Uncontrolled asthma or Grade 3 or higher by the American Society of Anesthesiologist's Physical Status Classification System (https://www.asahq.org/standards-and-practice-parameters/statement-on-asaphysical-status-classification-system)\n   2. History of adverse reaction to conscious sedation or general anesthesia required for endoscopy\n   3. Hemoglobin \\< 11 g/dL\n   4. Platelet count \\< 100,000 microL\n   5. Pregnant or breastfeeding\n   6. Severe hypoxemia due to chronic pulmonary disease\n   7. Recent abdominal surgery\n   8. Anticoagulant therapy that cannot be interrupted\n   9. Younger than 18 years of age\n\nParticipants will be selected in an equitable manner from the available pool of potentially eligible individuals, without regard to factors such as sex, gender, race, ethnicity, sexual orientation, or socioeconomic status.",
+  "minimum_age": "3 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants aged 3 and older with suspected or diagnosed allergic diseases of varying types will be enrolled. Participants will be generally healthy, community-dwelling participants without severe medical needs requiring hospitalization.",
+  "condition": [
+    "Allergy, Sinus Disorders, Atopic Diseases, Asthma, Allergic Rhinitis, Atopic Dermatitis, EoE, Drug a"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional biorepository study enrolling patients with allergic or sinus diseases, regardless of prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they specify any requirements or exclusions based on prior lines of therapy. This is a biorepository study for allergic or sinus diseases, not an oncology trial."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT00044122",
+  "title": "Study of Factors Regulating Mast Cell Proliferation",
+  "brief_summary": "This study will examine growth factors that promote and inhibit mast cell proliferation resulting in mastocytosis, a disease of excessive mast cells in the body. These cells can release chemicals that cause itching, blisters, flushing, bone pain and abdominal pain.\n\nPatients up to 80 years of age with mastocytosis may be eligible for this 1-day study. Participants will have one visit at NIH lasting up to 8 hours, during which they will undergo the following tests and procedures:\n\n* Medical history and physical examination.\n* Laboratory studies, if medically indicated.\n* Blood tests to identify genetic changes important in the growth, development, and functioning of mast cells.\n* Bone marrow aspiration and biopsy.\n\nFor the bone marrow procedure, the skin over the hipbone and the outer surface of the bone itself are numbed with local anesthesia. Then, a special needle is inserted into the hipbone and about 1 tablespoon of bone marrow is drawn into a syringe. Another needle is inserted into the same area to collect a small piece of the bone marrow. Additional procedures may include allergen testing, urinalysis, and 24-hour urine collection.\n\nParticipants will receive an evaluation of their mastocytosis.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* PATIENT PARTICIPANT INCLUSION CRITERIA:\n\nParticipants with mastocytosis zero to 80 years of age may participate in telehealth visits, and two to 80 years of age may participate on-site at NIH Clinical Center.\n\nHistologic evidence of increased mast cell number by bone marrow and/or skin biopsy or documentation of mastocytosis in the skin\n\nsupported with a photograph of diagnostic skin lesions\n\nMust be under the care of a primary care physician to be enrolled.\n\nAbility to provide informed consent.\n\nPATIENT PARTICIPANT EXCLUSION CRITERIA:\n\nAnemia with hemoglobin less than 8 g/dL, hematocrit less than 24.\n\nAny condition that in the opinion of the investigator contraindicates participation in this study.\n\nRELATIVE INCLUSION CRITERIA:\n\nTwo to 80 years of age.\n\nA biological relative without the diagnosis of mastocytosis by skin examination or histologic evidence in a skin or bone marrow biopsy\n\nParticipant has a primary medical care provider outside the NIH\n\nAbility to provide informed consent.\n\nRELATIVE EXCLUSION CRITERIA:\n\nAny condition that in the opinion of the investigator contraindicates participation in this study.",
+  "minimum_age": "1 Day",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "primary clinical",
+  "condition": [
+    "Mastocytosis",
+    "Monoclonal",
+    "Bone Marrow",
+    "Tryptase"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study enrolling patients with mastocytosis regardless of prior systemic therapy. There are no requirements or restrictions regarding prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they restrict or require any specific treatment history. This is an observational study focused on the biology of mastocytosis, not on treatment lines."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01077596",
+  "title": "Carcinogenicity Study of Bupropion",
+  "brief_summary": "There is a lack of toxicology data on one bupropion metabolite, and limited literature examining bupropion use and cancer risk. This study evaluates the association between bupropion exposure and the development of cancer of the prostate, breast, lung, colon/rectum, urinary bladder, and uterus by comparing the risk of cancer in bupropion users with other antidepressant users. Because there is no evidence that bupropion is associated with any particular cancer, we have chosen the six most common cancers diagnosed in the United States to optimize statistical power/precision for cancer-site specific comparisons. Two US population-based data resources with automated claims, pharmacy, and tumor registry data are included in this study. Using a nested case-control design, this study will compare the incidence of cancer in patients exposed to bupropion with the incidence in patients exposed to other antidepressants.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n\\-\n\nExclusion Criteria:\n\n* Cancers diagnosed within 12 months of initiation (i.e., new use) of antidepressant pharmacotherapy will be excluded to account for a minimum period for the development of cancer (cancer latency) and to be consistent with other studies of antidepressants and cancer.\n* Patients with a history of any cancer (cancer diagnosis recorded in the tumor registries anytime before the first antidepressant prescription recorded during the study period)\n* Any antidepressant use within 6 months of January 1, 1996",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "New users of antidepressants January 1, 1996 through December 31, 2006, regardless of indication for use (depression, smoking cessation, other) in Henry Ford Health System and Kaiser Permanente Health Plan of Northern California. The study population is limited to individuals 18 years of age or older with medical and pharmacy benefits and at least 6 months of health plan enrollment before the first antidepressant prescription. Patients with a history of any cancer (cancer diagnosis recorded in the tumor registries anytime before the first antidepressant prescription recorded during the study period) are excluded. Cases and controls will be selected from this cohort of antidepressant-exposed study subjects.",
+  "condition": [
+    "Depressive Disorder",
+    "Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

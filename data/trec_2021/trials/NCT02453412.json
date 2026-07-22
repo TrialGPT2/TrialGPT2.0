@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02453412",
+  "title": "Preoperative Arteriovenous Fistula Simulation Study (ShuntSimulationStudy)",
+  "brief_summary": "Patients suffering from end-stage renal disease (ESRD) are dependent on renal replacement therapy (dialysis). The majority of dialysis is facilitated by hemodialysis. For hemodialysis a vascular access is necessary, preferable an arteriovenous fistula (AVF) in which a vein is directly anastomosed to an artery. In order to use the AVF for hemodialysis three criteria have to be met; the minimal flow over the AVF is 600 mL/min, the diameter is at least 6 mm, and the AVF is located less than 6 mm under the skin. Unfortunately, approximately half of the patients (50%) are confronted with an AVF that does not meet these criteria; the so called non-maturation or primary failure. In case of non-maturation the AVF is not only unusable for dialysis, but also requires reinterventions on short- and long-term. Firstly to mature the AVF, and secondly, when the AVF is matured, to keep the vascular access. Using a computational simulation postoperative flow can be predicted. Based on patient-specific duplex measurements, the model can calculate the flow that can be expected following vascular access surgery for all AVF configurations; fore- or upper arm. These calculations lead to an advice which configuration is indicated; a flow that exceeds 600 mL/min, leading to maturation. Potentially the aforementioned 50% of non-maturation can be reduced. The patient then has an adequate vascular access and reinterventions are adverted, resulting in a decrease of costs, hospital demand, and an increase of the patients' quality of life. When the expected reduction of non-maturation is confirmed, the computational tool can be offered to other hospitals.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Incident patients that enter the pre-dialysis program because of end-stage renal failure and need for vascular access.\n* Permanent dialysis patients in need of a new VA in the contralateral arm because of a previous failed access.\n* Patients in which treatment of first choice is the creation of an autologous AVF.\n* Patients with adequate arteries and veins (duplex) for creation of RC-, BC- or BBAVF.\n* Patients that signed the written informed consent.\n\nExclusion Criteria:\n\n* Patients with contraindications for creation of an autologous AVF (skin infection, ischemia, heart failure)\n* Patients with a previous vascular access in the ipsilateral arm.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Kidney Failure, Chronic",
+    "Arteriovenous Fistulae"
+  ],
+  "overall_status": "COMPLETED"
+}

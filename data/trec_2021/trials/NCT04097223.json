@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04097223",
+  "title": "A Study Based on Health Insurance Data About the Treatment of Patients Who Have Been Newly Diagnosed With Chronic Obstructive Pulmonary Disease (COPD)",
+  "brief_summary": "A retrospective analysis study in COPD patients for an exact follow-up period of 12 months (in subgroup analyses: 24 and 36 months); censoring of patients will only be done in case a patient died during the respective follow-up period.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* All patients who were continuously insured by the sickness fund for the entire period (01/01/2013-30/06/2018) or, in case a patient deceased after index date, for the time until death\n* A patient will be included as an incident COPD patient if either a hospital documented at least one COPD diagnosis (International Statistical Classification of Diseases and Related Health Problems (ICD-10 J 44.-) or a specialist (pneumologist) documented at least 2 confirmed COPD diagnoses (above ICD-10) code) in two different quarters; the first of the above diagnoses is defined as index diagnosis; inclusion period is defined as lasting from 01/01/2014 until 30/06/2017\n* Patients should not have received any COPD diagnosis (ICD-10 J44.-) or any COPD-associated medication in the 12 months pre-index period\n* Patient should have, at date of incident COPD diagnosis (index date), an age of at least 40 years\n\nExclusion Criteria:\n\n* Patients received , at least one confirmed inpatient asthma diagnosis or two confirmed outpatient diagnoses of asthma (ICD-10: J45) by pneumologists",
+  "minimum_age": "40 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "A retrospective analysis of patients with Chronic Obstructive Pulmonary Disease (COPD) based on current German COPD guidleines.",
+  "condition": [
+    "Pulmonary Disease, Chronic Obstructive"
+  ],
+  "overall_status": "COMPLETED"
+}

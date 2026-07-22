@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT05299554",
+  "title": "Long-term Safety Study of Chronocort in the Treatment of Participants with Congenital Adrenal Hyperplasia",
+  "brief_summary": "This phase III study is an open-label extension study to be conducted at approximately 21 investigational sites across 3 countries. The study will evaluate the long-term safety and tolerability of Chronocort in participants aged 16 years and over when used as treatment for Congenital Adrenal Hyperplasia (CAH).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Participants with Congenital Adrenal Hyperplasia (CAH) who have successfully completed Chronocort study DIUR-006 (sites in France and US only) or study DIUR-014.\n* Participants who are capable of giving signed informed consent/assent, which includes compliance with the requirements and restrictions listed in the study's informed consent form (ICF) and in the protocol.\n\nExclusion Criteria:\n\n* Participants with clinical or biochemical evidence of hepatic or renal disease e.g., creatinine \\>2 times the upper limit of normal (ULN) or elevated liver function tests (alanine aminotransferase \\[ALT\\] or aspartate aminotransferase \\[AST\\] \\>2 times the ULN).\n* Participants with a history of malignancy (other than basal cell carcinoma successfully treated \\>26 weeks prior to entry into the study).\n* Participants with a history of bilateral adrenalectomy.\n* Participants with any other significant medical or psychiatric conditions that in the opinion of the Investigator would preclude participation in the study.\n* Participants with a co-morbid condition requiring daily administration of a medication or consumption of any material that interferes with the metabolism of glucocorticoids.\n* Participants on regular daily inhaled, topical, nasal, or oral steroids for any indication other than CAH.\n* Participants anticipating regular prophylactic use of additional steroids e.g., for strenuous exercise.\n* Participation in another clinical study of an investigational or licensed drug or device within 3 months prior to inclusion in this study, except for another clinical study with the current formulation of Chronocort.\n* Females who are pregnant or lactating.\n* Participants, who in the opinion of the Investigator, will be unable to comply with the requirements of the protocol.\n* Participants who routinely work night shifts and so do not sleep during the usual night-time hours.\n* Participants with a body weight of 50 kg or less (Note: this exclusion criterion is only applicable for French sites).",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Congenital Adrenal Hyperplasia"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This is an open-label extension study for patients with Congenital Adrenal Hyperplasia (CAH) who have completed prior Chronocort studies. The trial does not address lines of therapy for advanced/metastatic malignancy, as it is not an oncology trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls CAH patients who completed previous Chronocort studies (DIUR-006 or DIUR-014). There is no mention of systemic therapy for advanced/metastatic malignancy, and the concept of line of therapy for advanced disease does not apply to this trial."
+    }
+  ]
+}

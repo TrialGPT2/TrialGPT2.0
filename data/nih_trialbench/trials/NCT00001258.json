@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT00001258",
+  "title": "Studies of Frontal Lobe Brain Functioning in Schizophrenia",
+  "brief_summary": "The purpose of this study is to use brain imaging technology to investigate the role of the frontal lobe of the brain in the thinking of individuals with schizophrenia and other neuropsychiatric disorders and healthy volunteers.\n\nParticipants in this study will undergo a positron emission tomography (PET) scan of the brain while performing neuropsychological tests. Some of the tests involve cognitive operations that depend upon the frontal cortex. Interactions between frontal lobe activation, cognitive behavior, and neuropharmacology will be assessed by measuring regional cerebral blood flow (rCBF) during treatment with drugs that may affect frontal lobe physiology.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION/EXCLUSION CRITERIA:\n\nParticipants in this study will reflect the diversity of the community. No one will be excluded or discriminated against on the grounds of race, gender, religion or ethnic background. Every attempt will be made to include women and minorities in the study population. Children will not be studied because of radiation exposure limits on this group.\n\nNormal control subjects will be recruited through the NIH normal volunteer program and through advertisement in the community and primarily through the \"Genetic Study\" under protocol 95-M-0150. An additional control group of non-schizophrenic siblings of patients with schizophrenia will also be recruited (from the community and protocol 95-M-0150, A Neurobiological Investigation of Patients with Schizophrenia Spectrum Disorders and Their Siblings). Control subjects will be matched to the patient groups by age, sex, and handedness. Control subjects with history of psychiatric or neurologic disorders or medical illnesses or surgeries that might have relevance to the investigation of brain physiology will be excluded. Normal subjects taking medications with relevance to cerebral blood flow and metabolism will be excluded from study.\n\nPatients with schizophrenia will be recruited from the inpatient population of the NIMH Wards at the NIH Clinical Center and the sibling study protocol 95-M-0150. Diagnoses will be made by the NIMH clinical staff in accordance with DSM-IV(R). Patients with history of neurological illness other than those of interest to the study, or other medical illness or surgery that might have impact on the study of brain physiology, will be excluded. Inpatients on the NIMH Schizophrenia Ward who have signed protocol 89-MH-160 \"Inpatient Evaluation of Neuropsychiatric Patients) will be studied when they have been withdrawn from all medications for two to four weeks. They will also be studied when they are stabilized on medication; however, no treatment decisions, for inpatients or outpatients, will be based upon this study. All inpatients will be carefully monitored on the NIMH/NIH wards as per protocol 89-MH-160.\n\nAdditional neuropsychiatric patients (such as those with affective disorder, Parkinson's Disease, special genetic disorders (e.g. William's Syndrome), and other neuropsychiatric disorders) will be recruited from the medical community, from NIH inpatient and outpatient services, and through the National Alliance for the Mentally Ill (NAMI). Patients will be identified by the presence of typical symptoms and signs elicited by history and examination. Diagnoses will conform to accepted diagnostic guidelines where applicable. Such patients will be excluded from study for 1) history of psychiatric or neurologic disorders other than those under investigation, 2) medical illnesses or surgeries that might have relevance to the investigation of brain physiology, 3) current medications that are not under investigation and that have relevance to cerebral blood flow and metabolism, and 4) IQ less than 70. Outpatients may be admitted overnight if necessary or otherwise applicable (e.g. those from out of town).\n\nNo cognitively impaired nonschizophrenic subjects are studied in this protocol. For Parkinsons Disease patients, information is obtained from referring physicians, from NIH medical records for participants already enrolled in the NIH system, and by phone from the potential participant. Further assessment is carried out by a neurologist or psychiatrist upon arrival at the NIH. For Williams syndrome patients, IQ testing is done off-site by a certified clinical neuropsychologist who refers patients for our study and who has followed large numbers of these rare individuals for years.",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with schizophrenia spectrum disorder and normal volunteers",
+  "condition": [
+    "Healthy Subjects",
+    "Schizophrenia",
+    "Parkinson Disease"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational brain imaging study enrolling patients with schizophrenia, other neuropsychiatric disorders, and healthy controls. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced or metastatic disease, as this is an observational imaging study. There are no requirements or exclusions based on prior lines of therapy."
+    }
+  ]
+}

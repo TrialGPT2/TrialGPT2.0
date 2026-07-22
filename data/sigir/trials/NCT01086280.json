@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01086280",
+  "title": "Risk of Cardiovascular Events in Patients With Type 2 Diabetes Initiating Oral Antidiabetic Treatments",
+  "brief_summary": "The purpose of this study is to compare the incidence of major cardiovascular events among patients with type 2 diabetes who are new initiators of Saxagliptin and those who are new initiators of oral anti-diabetic drugs (OADs)in classes other than Dipeptidyl peptidase IV (DPP4) inhibitors.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* Newly prescribed Saxagliptin or an OAD in a class other than DPP4 inhibitors\n* Enrolled in the respective database for at least 180 days prior to the first prescription for Saxagliptin or other OAD in a class other than DPP4 inhibitors\n\nExclusion Criteria:\n\n* Patients identified with a diagnostic code for any of the cardiovascular outcomes of interest within the 180-day baseline period\n* Patients prescribed a DPP4 inhibitor during the baseline period",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "This study will be carried out using databases containing administrative claims data (HIRD and Medicare in the U.S.) and electronic medical records (GPRD and THIN in the UK). The US population includes patients from health plans in the northeast, southeastern, mid-Atlantic, central, mid-western, and western regions (HIRD) as well as US citizens 65 years of age and older (Medicare). The UK population includes patients seeking medical care from general practitioners (GPRD and THIN)",
+  "condition": [
+    "Diabetes Mellitus, Type 2"
+  ],
+  "overall_status": "COMPLETED"
+}

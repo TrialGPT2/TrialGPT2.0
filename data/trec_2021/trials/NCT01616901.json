@@ -1,0 +1,30 @@
+{
+  "nctid": "NCT01616901",
+  "title": "Wean Obese Study : Determination of the Optimal Spontaneous Breathing Trial for Obese Patient",
+  "brief_summary": "The decision to extubate a patient after acute respiratory failure is based on clinical observation and measurement of pulmonary mechanics. Current extubation criteria(tidal volume, respiratory frequency...) lack of specificity. The best way to evaluate and predict patients breathing abilities after extubation is to challenge him to a spontaneous breathing trial (SBT) with endotracheal tube in place immediately before extubation to predict the patient's ability to breathe spontaneously after extubation. The intention is to approximate, while the patient is still intubated, the work of breathing that will be required of the patient after extubation. Different approaches of ventilatory settings are currently used for the preextubation SBT, whether pressure support ventilation (PSV), continuous positive airway pressure (CPAP), or spontaneous ventilation through an endotracheal tube (T piece), all supported by literature with different benefits. To the investigators knowledge, few studies define which mode of ventilation most closely approximates the work of breathing during spontaneous respiration after extubation, and none have studied a specific population of obese patient in respiratory weaning. The main objective of the investigators study is to determine, between five different SBT, which one is the best to approximate the work of breathing of obese patient after extubation.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* BMI \\> 30 kg/m2\n* Weaning procedure achieved, ongoing for extubation\n\nExclusion Criteria:\n\n* Contra indication for nasogastric catheter placement",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Obesity",
+    "Respiratory Failure",
+    "PSV 7cmH2O PEEP 7cmH2O",
+    "PSV 7 cmH2O PEEP 0 cmH20",
+    "CPAP 7 cmH2O",
+    "PSV 0 cmH20 PEEP 0 cmH2O",
+    "T-Tube",
+    "Post-extubation in Spontaneous Breathing and/or in NIV"
+  ],
+  "overall_status": "COMPLETED"
+}

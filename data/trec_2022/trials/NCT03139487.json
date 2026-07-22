@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT03139487",
+  "title": "A Randomized Phase II Open Label Study to Compare the Safety and Efficacy of Subcutaneous Dalteparin Versus Direct Oral Anticoagulants for Cancer-associated Venous Thromboembolism",
+  "brief_summary": "This is an open label, multi-center, and randomized phase II trial designed to compare the safety and efficacy of direct oral anticoagulants and subcutaneous dalteparin in patients with acute venous thromboembolism and upper gastrointestinal, hepatobiliary, or pancreatic cancer, based on a group sequential design. Enrolled patients will be randomized in a 1:1 ratio. Patients will be stratified by performance status, type of cancer, chemotherapy and medical centers.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed locally advanced or metastatic active cancer including Esophageal cancer, Esophagogastric junction cancer, Stomach cancer, Gastrointestinal stromal disease, Ampulla of Vater cancer, Duodenal cancer, Hepatocelluar carcinoma, Biliary cancer (cholangiocarcinoma, gall bladder cancer), Pancreatic cancer\n* Newly diagnosed deep vein thrombosis in any site and/or pulmonary thromboembolism on the basis of CT or doppler ultrasound image with or without symptoms\n* Male or female \u2265 18 years, \\< 80 years old age\n* Adequate major organ function including the following: Hematopoietic function: Platelet \u2265 75,000/mm3, Hepatic function: alanine aminotransferase levels 3 x upper limit of normal (if, with liver metastasis, alanine aminotransferase levels 5 x upper limit of normal), Aspartate Transaminase levels 3 x upper limit of normal (if, with liver metastasis, Aspartate Transaminase levels 5 x upper limit of normal), Renal function: estimated glomerular filtration rate \u2265 30 ml/min, Adequate coagulation time: prothrombin time \u2264 2 international normalized ratio, activated partial thromboplastin time 1.5 x upper limit of normal\n* Able to understand and comply with the requirement of the study and to provide written informed consent\n\nExclusion Criteria:\n\nPatients will be excluded from the study for any of the following reasons:\n\n* Hemodynamically unstable pulmonary thromboembolism\n* Use with P-gp and strong CYP3A4 Inhibitors (e.g., ketoconazole, itraconazole, lopinavir/ritonavir, ritonavir, indinavir/ritonavir, and conivaptan) or inducers (e.g., carbamazepine, phenytoin, rifampin, St. John's wort)\n* Lack of physical integrity of the upper gastrointestinal tract or malabsorption syndrome (e.g. patients with partial or total gastrectomy can enter the study, but not those with a jejunostomy probe), or inability to take oral medication\n* Patients with current bleeding\n* Recent history of major or uncontrolled bleeding within the previous 4 weeks\n* Severe malnutrition, BMI \\< 16\n* Patients who are receiving a therapeutic dose of rivaroxaban, low molecular weight heparin, fondaparinux, or unfractionated heparin for more than 72 hours before enrollment\n* Administration of a fibrinolytic agent for treatment of the current episode\n* Uncontrolled systolic blood pressure \u2265 180 mmHg or diastolic blood pressure \u2265 110 mmHg\n* Patients who have to keep concurrent antiplatelet agent (e.g. aspirin, clopidogrel)\n* Patients who have clinical significant liver cirrhosis (Child Pugh score \u2265 7)\n* Inadequate cardiovascular function: New York Heart Association class III or IV heart disease, Unstable angina or myocardial infarction within the past 6 months, History of significant ventricular arrhythmia requiring medication with antiarrhythmics or significant conduction system abnormality\n* Serious concurrent infection or nonmalignant illness that is uncontrolled or whose control may be jeopardized by complications of study therapy, including infective endocarditis\n* History of or current brain metastases\n* Life expectancy less than 3 months",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cancer-associated Thrombosis",
+    "Esophageal Cancer",
+    "Stomach Cancer",
+    "Hepatocellular Carcinoma",
+    "Pancreatic Cancer",
+    "Duodenal Cancer",
+    "Esophagogastric Junction Cancer",
+    "Malignant Gastrointestinal Stromal Tumor",
+    "Ampulla of Vater Cancer",
+    "Biliary Cancer (Cholangiocarcinoma, Gall Bladder Cancer)"
+  ],
+  "overall_status": "UNKNOWN"
+}

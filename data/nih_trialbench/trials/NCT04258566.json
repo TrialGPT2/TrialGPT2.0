@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04258566",
+  "title": "Electromagnetic Tracking and Optical Imaging With ICG for Hepatic Biopsies",
+  "brief_summary": "Background:\n\nLiver cancer is the sixth most common cancer worldwide. Diagnosing liver cancer usually requires a liver sample. Getting the best sample helps determine whether cancer is present and what kind of cancer it is. But sampling can be difficult. This study will look at combining two devices to provide better liver samples.\n\nObjective:\n\nTo see if combining fusion imaging and optical imaging can better sample areas of concern in the liver and determine the presence of disease.\n\nEligibility:\n\nPeople ages 18 and older who need a liver biopsy as part of diagnosis or treatment.\n\nDesign:\n\nParticipants will be screened with:\n\nReview of imaging\n\nMedical history\n\nPhysical exam\n\nBlood test results\n\nParticipants will have a dye injected into a vein 24 hours before their biopsy. They will be monitored for 30 minutes for any side effects.\n\nFor the biopsy, participants skin will be numbed. They may have stickers placed on their belly to help guide the needle. They will have a CT scan to plan the needle s pathway. For the scan, they will lie in a machine that takes pictures of the body. A small camera will be placed near the needle to take pictures of the liver. A medical GPS tracking system will be used. This will guide the needle into the area of the participant s liver where the biopsy will be taken.\n\nAfter the biopsy, participants will recover in the hospital for 4 6 hours.\n\nAfter the procedure, researchers will take the participants biopsy tissue and look at it to try to compare new ways to picture the sample.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Patients must have imaging findings consistent with hepatocellular carcinoma or other liver neoplasms or metastasis, for whom image-guided percutaneous biopsy is planned as clinically indicated or IRB-approved under a separate research protocol.\n* Patients must have at least one lesion that can readily be biopsied per Principal Investigator.\n* Age \\>18 years.\n* Patients must have the ability to understand and the willingness to sign a written informed consent document.\n* Evidence of post-menopausal status or negative urinary or serum pregnancy test for female pre-menopausal patients. Women will be considered post-menopausal if they verbally report amenorrhea for 12 months without an alternative medical cause, or have had surgery or received chemicals to induce menopause.\n\nEXCLUSION CRITERIA:\n\n* History of hypersensitivity reactions to Indocyanine Green (ICG), iodinated contrast, or sulfur-containing compounds.\n* Pregnant women and nursing mothers are excluded from this study because of exposure to radiation from CT scanning associated with the biopsy\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, uncontrolled cardiac arrhythmia, or psychiatric illness/social situations that, in the opinion of the Principal Investigator, would limit compliance with study requirements",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hepatocellular Carcinoma"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients who require a liver biopsy for diagnosis or treatment of liver neoplasms, including hepatocellular carcinoma or metastases, regardless of prior systemic therapy history. There are no restrictions based on prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on the need for a liver biopsy due to imaging findings of liver neoplasms or metastases, with no mention of prior systemic therapy requirements or restrictions. The protocol does not specify whether patients must be treatment-naïve or previously treated, nor does it address adjuvant-only patients."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04506684",
+  "title": "Reveal LINQ Respiration Clinical Study",
+  "brief_summary": "The LINQ\u2122 Respiration study will collect and characterize Reveal LINQ\u2122 derived respiration data from patients undergoing a simulated 24-hour time period while being monitored with capnography.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient is \u2265 55 years old\n* Patient (or patient's legally authorized representative) is willing and able to provide written informed consent\n* Patient is willing and able to comply with the study procedures\n* Patient has an active Medtronic Reveal LINQ device that has been implanted for \u2265 60 days and no more than 3 years\n\nExclusion Criteria:\n\n* Patient has an existing condition that necessitates the use of supplemental oxygen\n* Patient has an active acute respiratory infection or a respiratory disorder that may affect ability to perform respiratory maneuvers\n* Patient has NYHA Class IV heart failure per most recent assessment\n* Any concomitant condition that might endanger the patient through participation in the study or interfere with study procedures, as assessed by the investigator\n* Patient is enrolled in another study that could confound the results of this study\n* Patient has an existing implantation of Medtronic IPG, ICD, CRT-D or CRT-P device",
+  "minimum_age": "55 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The target population for the LINQ Respiration study will include subjects who are \u2265 55 years old and implanted with a Reveal LINQ device for \u226560 days and no longer than 3 years. In addition, a minimum of 30% of all enrolled subjects will have a documented history of heart failure.",
+  "condition": [
+    "Respiratory Rate"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03158493",
+  "title": "Assessment of qSOFA in the Latin America Sepsis Institute Database",
+  "brief_summary": "Recently, the Society of Critical Care Medicine (SCCM) and the European Society of Intensive Care Medicine (ESICM) have published new definitions of sepsis, known as Sepsis 3, based on a fairly robust analysis of large, essentially American, databases. In addition to the new definition, a new screening score was suggested, named quickSOFA (qSOFA). This score is positive if two of three variables are present: respiratory rate higher than 22 ipm, reduced level of consciousness and systolic blood pressure lower than 100 mmHg. Although the receiver operator characteristics (ROC) curves suggest an adequate predictive validity for the new score, a lot of controversy around its sensitivity as a screening tool mainly in settings with high mortality rates. Current national Brazilian data show that sepsis mortality in our country, especially in public hospitals from the Unified Health System (SUS), is very high and well above world mortality. The impact of using the qSOFA in these settings is not known. In this context, the present study aims to evaluate the potential impact of using qSOFA as a screening tool in Brazilian private and public institutions. The hypothesis is that the use of qSOFA as a screening tool will have a low sensitivity. As a consequence, patients with the diagnosis of sepsis, with organ dysfunction, will not be detected by this tool. The hypothesis was also that those patients with a qSOFA negative will have a high mortality rate, mainly in Brazilian public hospitals.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Suspected source of infection\n* Presence of any of the following organ dysfunction\n\n  * Systolic blood pressure \\<90 mmHg or mean arterial pressure \\<65 mmHg or fall in systolic blood pressure\\> 40 mmHg.\n  * Creatinine\\> 2.0 mg / dl or diuresis less than 0.5 ml/kg/h in the last 2 hours OR\n  * Bilirubin\\> 2mg/dl,\n  * Platelet count\\<100,000,\n  * Lactate\\> 2 mmol/dl (or above the reference value),\n  * Coagulopathy (RNI\\> 1.5 or APTT\\>60 sec),\n  * PaO2/FiO2 ratio \\<300 or recent or increased O2 need to maintain SpO2\\> 90\n\nExclusion Criteria:\n\n* End of life care\n* Previous sepsis episode in the same hospital admission",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with sepsis and sepsis shock, defined by the presence of any organ dyfunctionn",
+  "condition": [
+    "Sepsis"
+  ],
+  "overall_status": "COMPLETED"
+}

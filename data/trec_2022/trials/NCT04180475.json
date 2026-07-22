@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04180475",
+  "title": "Adherence to Medical Treatments for Telemedicine Patients",
+  "brief_summary": "This study will test the feasibility of MedRem, a novel medication reminder and tracking system on wearable wrist devices, specifically with the Apple Watch 4. The study team will load the MedRem app onto two Apple Watch 4s for use during the study. As the device is placed on the wrist, it is free from the limitations of smartphones. However, one of the major challenges in developing interactive systems for wrist devices is their form factor. The touch screens available on these devices are tiny and much smaller compared to smart phones and tablet computers. MedRem enables user interactions by incorporating speech recognition and text-to-speech features along with clever interface design. The tiny display of the device is used for minimal inputs and outputs, while a user can retrieve and provide more information from/to the system through voice commands. Personalized models are built and updated over time to reduce errors in recognizing users' voice commands, and thus better user experience is provided.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n* Phase 1 (Controls)\n\n  * 18 - 75 years old\n  * Good general health (self-reported), with no history of cerebral vascular accident (CVA)\n  * English-speaking\n  * Willingness and ability to comply with scheduled visits and study procedures\n\nPhase 2 (Stroke Patients)\n\n* 18 - 75 years old\n* English-speaking\n* Willingness and ability to comply with scheduled visits and study procedures\n* Have requirements for home- based therapy regimens (i.e. physical/occupational therapy)\n* Require medications for secondary stroke prevention (e.g. antithrombotic therapy to prevent ischemic stroke, stroke risk factor management with blood pressure, diabetes, cholesterol medications).\n* Have a Modified Rankin Scale for Neurologic Disability (MDS) of 2 - 4\n\nExclusion Criteria:\n\n* Phase 1 (Controls)\n\n  * Pregnant women, fetuses, neonates, children, prisoners, cognitively impaired, non-English speaking subjects\n  * Prohibitive cognitive impairments or language deficits\n  * Does not have wireless internet connection at home\n\nPhase 2 (Stroke Patients)\n\n* Pregnant women, fetuses, neonates, children, prisoners, cognitively impaired, non-English speaking subjects\n* Have a Modified Rankin Scale for Neurologic Disability (MDS) of 0-1 or 5\n* Prohibitive cognitive impairments or language deficits\n* Significant weakness, dystonia, or spasticity that will prevent proper use and response to the Apple Watch device\n* Live in nursing home or rehabilitation facility\n* Does not have wireless internet connection at home",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke",
+    "Medication Adherence"
+  ],
+  "overall_status": "TERMINATED"
+}

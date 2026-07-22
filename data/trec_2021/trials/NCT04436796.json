@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04436796",
+  "title": "The International Diabetes Closed Loop (iDCL) Trial: Protocol 4",
+  "brief_summary": "The investigators aim to compare the efficacy and safety of an AID system using an adaptive MPC algorithm versus SAP (which may or may not include PLGS; to be referred to as SAP) in people with type 1 diabetes.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis, based on investigator assessment, of type 1 diabetes for at least one year and using insulin for at least 1 year\n* Using an insulin pump for at least 3 months (which may include use of automated features)\n* Familiarity and use of a carbohydrate ratio for meal boluses\n* Age \u226518.0 years old\n* For females, not currently known to be pregnant. If female and sexually active, must agree to use a form of contraception to prevent pregnancy while a participant in the study. A negative serum or urine pregnancy test will be required for all females of child-bearing potential. Participants who become pregnant will be discontinued from the study. Also, participants who during the study develop and express the intention to become pregnant within the timespan of the study will be discontinued.\n* If using a personal CGM, willingness to use a Dexcom G6 CGM and discontinue personal CGM use during the study\n* Willing not to begin use of, or not to continue use of if currently using, a personal AID (closed loop control) system during the study; note if the system offers an open-loop mode or can be switched to a PLGS mode that is compatible with the Dexcom G6, the system may be used during the study in these modes only\n* Willingness to switch to lispro (Humalog) or aspart (Novolog) if not using already, and to use no other insulin besides lispro (Humalog) or aspart (Novolog) during the study\n* Willingness not to start any new non-insulin glucose-lowering agent during the course of the trial, and not to use Afrezza during the trial\n* Investigator believes that the participant can successfully and safely operate all study devices and is capable of adhering to the protocol\n\nExclusion Criteria:\n\n* Use of Afrezza or any non-insulin glucose-lowering agent other than metformin (including GLP-1 agonists, DPP-4 inhibitors, SGLT-2 inhibitors, sulfonylureas) unless participant is willing to discontinue during the trial.\n* Two or more episodes of DKA requiring an emergency room visit or hospitalization in the past 6 months\n* Two or more episodes of severe hypoglycemia with seizure or loss of consciousness in the last 6 months\n* Hemophilia or any other bleeding disorder\n* A medical or other condition that in the opinion of the investigator could create a safety concern for the participant or put the study at risk. History of frequent severe hypoglycemia or history of frequent severe hyperglycemia and/or ketosis, without emergency room visit or hospitalization, due to poor diabetes self-management may be disqualifying per investigator judgment\n* Participation in another pharmaceutical or device trial at the time of enrollment or during the study",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Type 1 Diabetes"
+  ],
+  "overall_status": "COMPLETED"
+}

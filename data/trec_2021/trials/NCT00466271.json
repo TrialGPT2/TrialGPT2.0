@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT00466271",
+  "title": "Prediction of Significant Hepatic Fibrosis in HCV Carriers With PNALT by SAPI- A Validation Study",
+  "brief_summary": "The purpose of the study is to validate the diagnostic accuracy and reproducibility of SAPI to predict significant hepatic fibrosis in HCV patients with PNALT who are scheduled to receive combination therapy with pegylated interferon plus ribavirin and percutaneous liver biopsies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age older than 18 years\n* HCV RNA and anti-HCV positivity for more than 6 months\n* 4 consecutive normal ALT values (\\< 40 IU/L for men and \\< 34 IU/L for women)at 3 months apart over a period of 12 months\n\nExclusion Criteria:\n\n* HBV and HCV co-infection\n* HBV and HIV co-infection\n* History of heavy alcohol use (\\> 50 gram/day)\n* Autoimmune liver diseases\n* Metabolic liver diseases\n* Presence of hepatocellular carcinoma\n* Bleeding tendency\n* Decline liver biopsies",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "HCV carriers with persistently normal ALT levels who will receive percutaneous liver biopsy",
+  "condition": [
+    "Chronic Hepatitis C",
+    "Hepatic Fibrosis"
+  ],
+  "overall_status": "COMPLETED"
+}

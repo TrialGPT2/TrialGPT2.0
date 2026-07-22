@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02826343",
+  "title": "New Technology to Assess Treatment for Chronic Obstructive Pulmonary Disease (COPD)",
+  "brief_summary": "First, the investigators will image patients with hyperpolarized xenon (Xe) magnetic resonance imaging (MRI) to develop the technique of hyperpolarized xenon MRI at the University of Virginia (UVA). Magnetic Resonance (MR) sequences will need to be developed and optimized for the equipment at UVA. These sequences will need to be evaluated in healthy adults for comparison with results obtained and in adults with lung diseases to optimize the sequences for the detection and evaluation of lung diseases. The MR pulse sequences need to be optimized for the parameters of a human MR coil and the gas exchange characteristics in healthy and diseased lungs.\n\nSecond, the investigators propose to exploit the power of Xe129 MRI as a diagnostic tool to monitor therapeutic responses of a combination inhaler, Advair, which contains a long-acting beta-adrenoceptor agonist (LABA) and an inhaled corticosteroid (ICS) - two major classes of the current COPD therapeutics. The investigators will characterize the functional changes of the lungs with COPD at baseline, and investigate the responses of the lungs to the treatment after a three-month trial. Also the investigators will compare corresponding results obtained by Xe129 dissolved phase (DP) MRI to the results obtained by gadolinium-based dynamic contrast-enhanced perfusion MRI (perfusion MRI) and high resolution computed tomography (HRCT) of the lung to indirectly validate the Xe129 DP MRI technique. The investigators anticipate that the results from this project will greatly improve the investigators understanding of the lung functional responses of COPD subjects to current therapeutics. Also, the investigators expect that this project will provide evidence to consider Xe129 MRI as a diagnostic strategy to assess and monitor therapeutic responses of existing and new pharmaceuticals, and thus Xe129 MRI will stimulate development of novel therapies for COPD in the future",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Subjects should be at their clinical baseline on the day of imaging\n* Subjects must be clinically stable in order to participate in the study\n* Smoking history \\>10 pack years\n* Subjects must not be currently taking Advair or have taken it within 4 weeks prior to screening\n* No subject will be withdrawn from Advair to participate in this study\n\nThe subjects with COPD will be categorized according to the Global Initiative for Chronic Obstructive Lung Disease (GOLD) COPD severity classification:\n\n* Class 1: forced expiratory volume at one second (FEV1)/forced vital capacity (FVC) \\< 70 and FEV1 \\> 80% predicted;\n* Class 2: FEV1/FVC \\< 70 and 50% \\< FEV1 \\< 80% predicted;\n* Class 3: FEV1/FVC \\< 70 and 30% \\< FEV1 \\< 50% predicted;\n* Class 4: FEV1/FVC \\< 70 and FEV1 \\< 30% predicted\n\nExclusion Criteria:\n\n* Continuous oxygen use at home\n* Blood oxygen saturation of 92% less than as measured by pulse oximetry on the day of imaging\n* FEV1 percent predicted less than 25%\n* Pregnancy or lactation\n* Claustrophobia, inner ear implants, aneurysm or other surgical clips, metal foreign bodies in eye, pacemaker or other contraindication to MR scanning\n* Subjects with any implanted device that cannot be verified as MRI compliant will be excluded.\n* Chest circumference greater than that of the xenon MR and/or helium coil. The circumference of the coil is approximately 42 inches.\n* History of congenital cardiac disease, chronic renal failure, or cirrhosis.\n* Inability to understand simple instructions or to hold still for approximately 10 seconds.\n* History of respiratory infection within 2 weeks prior to the MR scan\n* History of myocardial infarction (MI) , stroke and/or poorly controlled hypertension.\n* Known hypersensitivity to albuterol or any of its components, or levalbuterol\n* Glomerular filtration rate (GFR) \\< 60 ml/min/1.73 m2 or known hypersensitivity to Gd-contrast agents based on a serum creatinine drawn within 30 days of the MRI\n* Acute kidney injury\n* History of paraproteinemia syndromes such as multiple myeloma\n* Hepatorenal syndrome\n* Liver transplant",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pulmonary Disease, Chronic Obstructive"
+  ],
+  "overall_status": "COMPLETED"
+}

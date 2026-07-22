@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT02236078",
+  "title": "Brief Bactericidal Activity of Anti-Tuberculosis Drugs",
+  "brief_summary": "The investigators will determine the bactericidal activity of high-dose isoniazid against M. tuberculosis isolates that are (1) susceptible to isoniazid at 2.0 mcg/ml but resistant at 0.1 and 0.4 mcg/ml or (2) susceptible at 0.4 mcg/ml but resistant at 0.1 mcg/ml when tested in the BD MGIT 960 system. Further, the investigators will investigate the molecular genetic determinants of these differences in susceptibility.\n\nTo achieve these objectives the investigators will carry out an innovative variation on early bactericidal activity (EBA) study methodology. Patients at risk for drug-resistant TB will be screened for INH resistance using approved molecular assays. In those with INH-resistant TB, the investigators will quickly perform phenotypic DSTs using the direct method in the Bactec Mycobacterium Growth Indicator Tube (MGIT) 960 system, so results will be available within 7 days. If the DST results show the susceptibility patterns noted above, patients will receive 900 mg/d INH (600 mg if \\<45kg), and assess its effect with serial quantitative sputum cultures for 6 days. If the concentration of viable bacteria decreases significantly, the investigators will interpret this to mean the drug is having an effect. If not, the drug is ineffective. After 6 days, the patients will resume treatment according to national guidelines.\n\nIn case the investigators identify drugs that are effective under these conditions, the investigators will sequence known and putative genes associated with the action of these drugs for the mycobacterial isolates from these patients.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Written informed consent\n* INH resistance by approved molecular genetic test\n* Phenotypic drug susceptibility test results match one of the required patterns\n* Sputum microscopy positive for acid fast bacilli\n\nExclusion Criteria:\n\n* Ineligible for MDR TB treatment according to national guidelines\n* HIV infection with CD4 count less than 50\n* Pregnancy\n* Incarceration\n* Too sick to participate (Karnofsky score \\<60, arterial pO2\\<90, respiratory rate repeatedly \\>25/min, clinician's judgment)\n* Hepatic enzymes \\>3x normal\n* Estimated glomerular filtration rate \\<60 mL/min/1.73 m2\n* Unable to provide adequate sputum specimen",
+  "minimum_age": "8 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Tuberculosis",
+    "Drug-resistant Tuberculosis",
+    "Isoniazid Resistant Tuberculosis (Disorder)"
+  ],
+  "overall_status": "COMPLETED"
+}

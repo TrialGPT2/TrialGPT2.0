@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT06730126",
+  "title": "Study of the ITK Inhibitor Soquelitinib to Reduce Lymphoproliferation and Improve Cytopenias in Autoimmune Lymphoproliferative Syndrome (ALPS)-FAS Patients",
+  "brief_summary": "Background:\n\nAutoimmune lymphoproliferative syndrome (ALPS) is a rare disorder of the immune system caused by a mutation in the FAS gene. In ALPS, the body stores too many germ-fighting cells called lymphocytes. This can lead to an enlarged spleen and lymph nodes. Current treatments for ALPS can have many adverse effects. Better treatments for ALPS are needed.\n\nObjective:\n\nTo test a study drug (soquelitinib) in people with ALPS.\n\nEligibility:\n\nPeople aged 16 years and older with ALPS.\n\nDesign:\n\nParticipants will have 8 clinic visits and 6 remote visits within 1 year.\n\nParticipants will be screened. They will have a physical exam with blood and urine tests. Some may have tests of their lung function.\n\nSoquelitinib is a tablet taken by mouth twice a day. Participants will record their doses and any symptoms on a paper or online form.\n\nBlood tests and other procedures will be repeated during study visits. Three visits will include imaging scans. Participants will lie on a table that slides through a doughnut-shaped machine while X-rays capture pictures of the inside of their body.\n\nSome participants may be able to remain in the study for a second year.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible to participate in this study, an individual must meet all the following criteria:\n\n1. Aged \\>= 16 years.\n2. Able to provide informed consent (for ages \\>= 18 years) or has a parent(s) or guardian(s) who can provide permission to participate on their behalf (for ages \\<18 years).\n3. Has a documented diagnosis of ALPS-FAS.\n4. Has clinical evidence of active disease, defined as at least one enlarged lymph node and/or enlarged spleen.\n5. If currently on corticosteroid therapy, then dose is less than 20 mg/day (prednisone equivalent) and has been stable for at least 4 weeks.\n6. For participants to be seen at the NIH CC, co-enrolled on NIH protocol 93-I-0063.\n7. Participants who can become pregnant or who can impregnate their partner must agree to either remain sexually abstinent or use two highly effective methods of contraception when engaging in sexual activities that can result in pregnancy, beginning 28 days before baseline until 3 months after the last dose. One method must be a barrier (eg, internal or external condom, cervical cap, or diaphragm). The second method may be any of the following:\n\n7a. Oral contraceptive pill or hormonal patch or ring.\n\n7b. Parenteral hormonal contraceptive implant.\n\n7c. Intrauterine device.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Profound grade 3 or 4 cytopenias that cannot be improved with immunomodulatory treatments prior to enrolling in the clinical trial and starting the study drug. Per investigator discretion, individuals on a single agent may be included if the dose is stable for 12 weeks at screening and is not expected to confer additive toxicity.\n2. Renal impairment, defined as serum creatinine \\>1.5 mg/dL (or 133 micromol/L) or estimated glomerular filtration rate \\<60 mL/min/1.73 m\\^2.\n3. Liver impairment, defined as bilirubin, alanine aminotransferase, or aspartate aminotransferase greater than 2.5 times the upper limit of normal.\n4. History of EBV-associated lymphoma.\n5. Active EBV infection with EBV load \\>300 copies/mL.\n6. Tuberculosis infection (active or latent) or undergoing tuberculosis treatment.\n7. Infection with HIV or hepatitis B or C.\n8. Current other invasive or systemic fungal, bacterial, or viral infection requiring therapy.\n9. History of opportunistic infection within the previous 180 days.\n10. History of invasive malignancy that required systemic therapy within the last 3 years.\n11. Current use of moderate or strong cytochrome P450 isozyme (CYP)3A inhibitors or inducers that cannot be stopped before day 0.\n12. Current use of P-glycoprotein (P-gp) inhibitors that cannot be stopped before day 0.\n13. Known hypersensitivity or contraindication to CT contrast agent.\n14. Pregnant or breastfeeding.\n15. Any condition that, in the opinion of the study team contraindicates participation in this study.",
+  "minimum_age": "16 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Autoimmune Lymphoproliferative Syndrome"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with ALPS-FAS regardless of prior systemic therapy history. There are no requirements or restrictions regarding prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "The eligibility criteria do not specify any minimum or maximum number of prior systemic therapies for advanced disease. Patients may be treatment-naïve or previously treated, and there are no exclusions based on prior lines of therapy."
+    }
+  ]
+}

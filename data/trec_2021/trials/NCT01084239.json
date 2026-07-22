@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01084239",
+  "title": "Multicenter Study to Rule Out Myocardial Infarction by Cardiac Computed Tomography",
+  "brief_summary": "The growing availability of cardiac computed tomography (CT)\\* in emergency departments (EDs) across the U.S. expands the opportunities for its clinical application, but also heightens the need to define its appropriate use in the evaluation of patients with acute chest pain. To address this need, we performed a randomized diagnostic trial (RDT) to determine whether integrating cardiac CT, along with the information it provides on coronary artery disease (CAD) and left ventricular (LV) function, can improve the efficiency of the management of these patients (i.e. shorten length of hospital stay, increase direct discharge rates from the ED, decreasing healthcare costs and improving cost effectiveness while being safe).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Participant had at least five minutes of chest pain or equivalent (chest tightness; pain radiating to left, right, or both arms or shoulders, back, neck, epigastrium, jaw/throat; or unexplained shortness of breath, syncope/presyncope, generalized weakness, nausea, or vomiting thought to be of cardiac origin) at rest or during exercise within 24 hours of ED presentation, warranting further risk stratification, as determined by an ED attending.\n2. 2 or more cardiac risk factors (diabetes, hypertension, hyperlipidemia, current smoker and family history of coronary artery disease).\n3. Able to provide a written informed consent.\n4. \\<75 years of age, but \\>40 years of age.\n5. Able to hold breath for at least 10 seconds.\n6. Sinus rhythm.\n\nExclusion Criteria:\n\n1. New diagnostic ischemic ECG changes (ST-segment elevation or depression \\> 1 mm or T-wave inversion \\> 4 mm) in more than two anatomically adjacent leads or left bundle branch block\n2. Documented or self-reported history of CAD (MI, percutaneous coronary interventions \\[PCIs\\], coronary artery bypass graft \\[CABG\\], known significant coronary stenosis \\[\\>50%\\])\n3. Greater than 6 hours since presentation to ED.\n4. BMI \\>40 kg/m2\n5. Impaired renal function as defined by serum creatinine \\>1.5 mg/dL\\*\n6. Elevated troponin-T (\\> 0.09 ng/ml)\n7. Hemodynamically or clinically unstable condition (BP systolic \\< 80 mm Hg, atrial or ventricular arrhythmias, persistent chest pain despite adequate therapy)\n8. Known allergy to iodinated contrast agent\n9. Currently symptomatic asthma\n10. Documented or self-reported cocaine use within the past 48 hours (acute)\n11. On Metformin therapy and unable or unwilling to discontinue for 48 hours after the CT scan\n12. Contraindication to beta blockers (taking daily antiasthmatic medication): This exclusion only applies to patients with a heart rate \\>65 bpm at sites using a non-dual source CT scanner\n13. Participant with no telephone or cell phone numbers or no address (preventing follow-up)\n14. Participant with positive pregnancy test. Women of childbearing potential, defined as \\<2 years of menopause in the absence of hysterectomy or tube ligation, must have a pregnancy test performed within 24 hours before the CT scan.\n15. Participant unwilling to provide a written informed consent.",
+  "minimum_age": "40 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Coronary Syndrome",
+    "Myocardial Infarction",
+    "Unstable Angina Pectoris"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04627766",
+  "title": "Validation of Continuous Monitoring of Vital Signs in Children With a Connected Patch",
+  "brief_summary": "Small connected devices monitoring vital signs do not exist in children although they could be very useful to monitor patients once they have left the pediatric intensive care unit (PICU) in order to early identify patients at risk of PICU readmission.\n\nThe main objective of this study is to assess the accuracy of a connected thoracic patch (VT-Patch) for the continuous monitoring of vital signs in PICU patients.\n\nThis monitoring device will be used to monitor children in PICU for 8 hours and results will be compared to the standard of care in the unit which is the Philips monitoring system.\n\nThe investigators will assess the device's accuracy for the monitoring of 4 vital signs (SpO2, heart rate, respiratory rate and temperature) and perform exploratory assessment of three additional parameters (EKG, blood pressure and movement capture). The skin colour of each participant will be categorized based on Fitzpatrick scale and non-invasive spectroscopic method.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Children (0 to 18 years old) admitted in St. Justine's Hospital's PICU.\n* PICU monitoring for the next 24 hours\n\nExclusion Criteria:\n\n* Recent cardiac or thoracic surgery\n* Thoracic skin lesion that contraindicates the VT-Patch\n* No parental consent\n* Intermittent presence of one study observer in the patient room is considered inappropriate by the physician or the nurse in charge because of the child's medical condition",
+  "minimum_age": "0 Years",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Vital Signs"
+  ],
+  "overall_status": "RECRUITING"
+}

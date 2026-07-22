@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04031261",
+  "title": "National Validation and Sensitivity to Change of the SAQ",
+  "brief_summary": "DESIGN A multi-centre mixed methods study of a new asthma specific quality of life questionnaire including limited clinic data.\n\nAIMS To collect further quantitative data to validate a new asthma quality of life scale, the Severe Asthma Questionnaire (SAQ).\n\nTo determine the Minimum Clinically Important Difference (MCID) of the SAQ\n\nOUTCOME MEASURES\n\nQuestionnaires:\n\n1. The Severe Asthma Questionnaire (SAQ)\n2. The Mini Asthma Quality of Life Questionnaire (MiniAQLQ)\n3. The EQ-5D-5L\n4. The Asthma Control Test (ACT)/ Asthma Control Questionnaire (ACQ)\n5. Global Rating of Change Questionnaire (GRCQ)\n\n   Clinical data comprises:\n6. Spirometry\n7. BMI\n8. Asthma severity\n9. Health care utilisation: ED attendance in the last 12 months, Hospital admissions in the last 12 months;\n10. Number of exacerbations in the last 12 months requiring OCS Prednisolone dose mg/day (if oral steroid dependent).\n\nPOPULATION All patients aged 16 years or over, who have attended one of three participating UK specialist asthma centres for the validation study and with data also collected from Derriford Hospital's Chest Clinic (DHCC) for use in determining Minimum clinically Important difference.\n\nELIGIBILITY Over 16 years of age Diagnosis of Severe Asthma\n\nDURATION 18 months",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Part 1: National Validation\n\nInclusion Criteria:\n\n* All patients must have a diagnosis of severe asthma, be taking high dose inhaled corticosteroids (GINA step 4 \\& 5), and be aged 16 years or over.\n\nExclusion Criteria:\n\n* Patients that are unwilling to participate will be excluded from the study.\n* In the opinion of the physician responsible for the care of the patient, the patient has a condition, other than asthma, which is significantly contributing to their respiratory symptoms, e.g. lung cancer, heart failure or severe Chronic Obstructive Pulmonary Disease (COPD).\n* The SAQ is currently only translated into British English. Therefore, if the participant is unable to read in English, they will be unable to participate.\n\nPart 2: Sensitivity to change\n\nInclusion Criteria\n\n* Patients commencing a biologic treatment for their severe asthma (GINA step 4 \\& 5), as per NICE guidelines.\n\nExclusion Criteria\n\n* Patients will be excluded from the study if they are unwilling to participate\n* In the opinion of the physician responsible for the care of the patient, the patient has a condition, other than asthma which is significantly contributing to their respiratory symptoms, e.g. lung cancer, heart failure or severe COPD.",
+  "minimum_age": "16 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients must have a diagnosis of severe asthma, be taking high dose inhaled corticosteroids (GINA step 4 \\& 5), and be aged 16 years or over.",
+  "condition": [
+    "Asthma",
+    "Severe Asthma"
+  ],
+  "overall_status": "COMPLETED"
+}

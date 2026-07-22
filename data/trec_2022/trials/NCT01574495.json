@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01574495",
+  "title": "Evaluating Error Augmentation for Neurorehabilitation",
+  "brief_summary": "This is a sub-project of a larger NIDRR Grant. One promising form of robotic training that leverages the power of neuro-plasticity is error augmentation. In this paradigm the computer singles out and magnifies a stroke survivor's movement errors from a desired trajectory, thus forcing the subjects to strengthen their control. Using the VRROOM, a state-of-the-art system which uses haptics (robotic forces) and graphics (visual display) interfaces, a subject's desired trajectory can be determined and the movement errors can be amplified in real-time with dramatic results. This project evaluates a practical approach of error augmentation, using therapist-driven trajectories. The investigators intend to determine clinical efficacy of several types of therapist-assisted error augmentation on retraining the nervous system in functional activities. The investigators will test two experimental treatments in a crossover design. The investigators hypothesize that combined haptic and visual error augmentation will lead to the best functional recovery.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* adult (age \\>18)\n* survived a single cortical stroke at least 6 months previously involving ischemia or hemorrhage of the middle cerebral artery (MCA),\n* demonstrated the presence of some active shoulder and elbow movement (characterized by Fugl-Meyer Assessment Upper Extremity scores ranging from 15-50 for ARM 1; 25-50 for ARM 2).\n\nExclusion Criteria:\n\n* diffuse or multiple lesion sites or multiple stroke events\n* bilateral paresis\n* severe spasticity or contracture (Modified Ashworth \u22653\n* severe concurrent medical problems\n* severe sensory deficits\n* cerebellar strokes resulting in severe ataxia\n* significant shoulder pain\n* focal tone management with Botulinim Toxin (Botox\u00ae) injection to the hemiparetic upper extremity (UE) within the previous four months,\n* aphasia that would influence the ability to perform the experiment\n* cognitive impairment (Mini Mental State Examination \\< 23/30)\n* affective dysfunction that would influence the ability to perform the experiment\n* depth perception impairment (\\< 3 on Stereo Circle Test)\n* visual field cut or hemispatial neglect that would influence the ability to participate in the activity\n* inability to provide informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke"
+  ],
+  "overall_status": "COMPLETED"
+}

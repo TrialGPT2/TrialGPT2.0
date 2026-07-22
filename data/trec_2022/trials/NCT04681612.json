@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04681612",
+  "title": "The Prognostic Role of Indices of Sympathetic Nervous System Overdrive in MINOCA",
+  "brief_summary": "Myocardial infarction with non-obstructive coronary arteries (MINOCA) occurs in 1-13% of all patients with acute myocardial infarction (AMI). According to most studies MINOCA patients seem to have a more favorable prognosis compared to the obstructive AMI ones, but face a significant risk for recurrent events of angina. It has been demonstrated that sympathetic nervous system (SNS) overdrive during the acute phase of an acute coronary syndrome (ACS) has a deleterious impact on cardiovascular morbidity and mortality and this is the reason why contemporary treatment strategy of ACS aims towards the inhibition of SNS mechanisms. In the setting of MINOCA, however, data are scarce regarding the prognostic role of SNS activation and the concomitant utility of a similar therapeutical approach.\n\nThe aim of this study is to investigate the potential role of SNS in cardiovascular prognosis of MINOCA patients. In the same context, this study is the first, to the investigators' knowledge, registry where the working diagnosis of MINOCA will be confirmed with cardiac magnetic resonance (CMR) imaging.\n\nThis is an observational cohort study with a prospective follow-up of 18 months enrolling all patients aged 38-85 years old who fulfill the diagnostic criteria of MINOCA. Patients will receive treatment according to the latest guidelines and consensus documents. Assessment of SNS will include calculation of indices of heart rate and blood pressure variability, as well as the measurement of muscle sympathetic nerve activity (MSNA) during the first 14 days following the event. Follow-up will include a phone contact at 3, 6 and 12 months to record potential primary endpoints and a clinic visit at 18 months to reassess clinical and lab parameters and record primary and secondary endpoints. Definition of primary endpoints includes hospitalization for new onset of ACS, heart failure, stroke or transient ischemic attack, cardiovascular death or death from any cause. Secondary endpoints include the burden of arrythmias estimated from 24hr ECG recording, recurrent angina assessed via Seattle Angina Questionnaire (SAQ) and the general health condition and quality of life (QoL) assessed using SF-12 questionnaire.\n\nThe results of this study are expected to reveal the prognostic role of SNS assessment in patients with MINOCA with a potential clinical implication in a treatment approach towards the inhibition of SNS mechanisms.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients 35-85 years old.\n* Signed ICF.\n* Cases fulfilling the MINOCA criteria according to working group position paper and after CMR confirmation of ischemic pattern LGE (excluding myocarditis and Takotsubo)\n\nExclusion Criteria:\n\n* Age \\<35 and \\>85 years old\n* Myocarditis or Takotsubo (CMR confirmation)\n* No CMR available (CKD stage IV-V, pacemaker)\n* Inability to assess SNS (polyneuropathy, peripheral neuropathy, dysautonomy, permanent AF)\n* Severe valvular disease\n* LVEF\\<35%\n* Life expenctancy less than the follow up period on recruitement\n* Active cancer on treatment\n* Psychiatric illness compromising follow up",
+  "minimum_age": "35 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients hospitalized with MINOCA according to working group position paper and after CMR confirmation of ischemic pattern LGE (excluding myocarditis and Takotsubo)",
+  "condition": [
+    "Myocardial Infarction With Nonobstructive Coronary Arteries"
+  ],
+  "overall_status": "UNKNOWN"
+}

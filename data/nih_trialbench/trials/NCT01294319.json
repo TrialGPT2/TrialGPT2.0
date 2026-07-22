@@ -1,0 +1,38 @@
+{
+  "nctid": "NCT01294319",
+  "title": "Evaluation of Cortisol Resistance in Young Sedentary and Endurance-Trained Men",
+  "brief_summary": "This study proposes to examine multiple aspects of the hypothalamic-pituitary-adrenal axis in younger endurance trained and sedentary men, and in older sedentary men.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nMen aged 18 to 30 years of age are required for the young endurance trained and sedentary groups; men aged 65-80 years for the older study group, who will meet criteria for sedentary men below. Women and children are excluded to enhance homogeneity of responses and avoid the influence of menstrual cyclicity on the HPA axis.\n\nSedentary:\n\n* Less than one hour physical activity per week for three years\n* No change in exercise anticipated for 6 weeks\n\nTrained:\n\n* Greater than 45km (28 miles) running per week for at least 3 months\n* No change in exercise anticipated for 6 weeks\n\nFor all participants:\n\n* All races\n* Sleep-wake cycle with sleeping at night, wakening between 5 and 8 AM\n* BMI between 18 and 25 kg/M2\n* Normal TSH and free T4\n\nEXCLUSION CRITERIA:\n\nFor all participants:\n\n* Sleep disorders as assessed by sleep apnea questionnaire\n* Smoking\n* No more than 2 servings of alcohol daily\n* Medications known to affect the HPA axis or steroid metabolism, including narcotics, Glucocorticoids, megace or CYP3A4 modulators\n* History of psychiatric or endocrine disorders\n* Marijuana or other illicit drug use\n* Recent appendicular or skeletal injury\n* Uncontrolled hypertension\n* Chronic pain requiring daily medication\n* Current treatment with medications related to mineralocorticoid function such as potassium, ACE-inhibitors, ARBs, diuretics, spironolactone\n* Frailty score of 4-7 on the Canadian Study of Health and Aging frailty scale (Rockman 2005)\n* Overtraining syndrome will be an exclusion and will be assessed by questionnaire\n* Abnormal creatinine level (greater than 1.2 mg/dl)\n* Liver function tests greater than two fold normal\n* Benzodiazepine use",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Cortisol Resistance",
+    "Negative Feedback",
+    "ACTH",
+    "Mineralcorticoid",
+    "Glucocorticoid"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-oncology study evaluating cortisol resistance in young sedentary and endurance-trained men, as well as older sedentary men. There is no mention of systemic therapy for advanced disease, and line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference cancer, systemic therapy, or lines of therapy for advanced disease. This study is not oncology-related, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

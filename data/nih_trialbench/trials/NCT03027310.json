@@ -1,0 +1,42 @@
+{
+  "nctid": "NCT03027310",
+  "title": "Clinical and Physiological Studies of Tremor Syndromes",
+  "brief_summary": "Background:\n\nResearchers have some data on how the brain controls movement and why some people have tremor. But the causes of tremor are not fully known. Researchers want to study people with tremor to learn about changes in the brain and possible causes of tremor.\n\nObjective:\n\nTo better understand how the brain controls movement, learn more about tremor, and train movement disorder specialists.\n\nEligibility:\n\nPeople ages 18 and older with a diagnosed tremor syndrome\n\nHealthy volunteers ages 18 and older\n\nDesign:\n\nParticipants will be screened with:\n\n* Medical history\n* Physical exam\n* Urine tests\n* Clinical rating scales\n* Health questions\n* They may have electromyography (EMG) or accelerometry. Sensors or electrodes taped to the skin measure movement.\n\nParticipation lasts up to 1 year.\n\nSome participants will have a visit to examine their tremor more. They may have rating scales, EMG, and drawing and writing tests.\n\nParticipants will be in 1 or more substudies. These will require up to 7 visits. Visits could include the following:\n\n* EMG with accelerometry\n* Small electrodes taped on the body give small electric shocks that stimulate nerves.\n* MRI: Participants lie on a table that slides into a cylinder that takes pictures of the body while they do simple tasks.\n* Small electrodes on the scalp record brain waves.\n* A cone with detectors on the head measures brain activity while participants do tasks.\n* A wire coil held on the scalp gives an electrical current that affects brain activity.\n* Tests for thinking, memory, smell, hearing, or vision\n* Electrodes on the head give a weak electrical current that affects brain activity.\n* Photographs or videos of movement\n\nParticipant data may be shared with other researchers.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA FOR TREMOR PATIENTS:\n* Patients diagnosed with a tremor syndrome, including, but not limited to\n\n  * Essential tremor (per definition of the Tremor Research Group)\n  * Parkinson disease (per UK Brain Bank criteria)\n  * Focal tremor such as isolated head tremor, voice tremor\n  * Task-specific tremor such as primary writing tremor\n  * Orthostatic tremor\n  * Patients with other tremor syndromes such as dystonic tremor, intention tremor, etc.\n* Age 18 or older\n* Able to give informed consent\n* Agree to not drink caffeine or alcohol for 12 hours before phenotyping and selected sub-study visits because both agents can modify brain activity and may confound outcome measures.\n\nINCLUSION CRITERIA FOR HEALTHY VOLUNTEERS:\n\n* Age 18 or older.\n* Able to give informed consent.\n* Agree to not consume caffeine or alcohol for 12 hours before selected sub-study visits because both agents may modify the activity of the brain during the study.\n\nEXCLUSION CRITERIA FOR TREMOR PATIENTS:\n\n* Problematic alcohol use, as defined by a score of 8 or higher on the WHO Alcohol Use Disorders Identification Test (AUDIT).\n* History of a brain tumor, a stroke, traumatic brain injury, epilepsy or a history of seizures.\n* History of psychotic disorder, Bipolar Disorder or a current depressive episode.\n* History or clinical evidence of another neurologic disorder than a tremor syndrome as defined above, which may interfere with the ability to comply with protocol requirements or interpret the obtained results.\n\nEXCLUSION CRITERIA FOR HEALTHY VOLUNTEERS:\n\n* Have abnormal findings of clinical significance on the neurological examination that may affect the scientific integrity of the study\n* Problematic alcohol use, as defined by a score of 8 or higher on the WHO Alcohol Use Disorders Identification Test (AUDIT)\n* History of a brain tumor, a stroke, traumatic brain injury, epilepsy or a history of seizures.\n* History of psychotic disorder, Bipolar Disorder or a current depressive episode.\n\nADDITIONAL EXCLUSION CRITERIA FOR MOVEMENT DISORDER PATIENTS AND HEALTHY VOLUNTEERS SPECIFICALLY FOR MRI:\n\nWe will follow the NMR Center guidelines for MR safety.\n\nSome of the exclusions are:\n\n* Have non-MRI compatible metal in the body, such as a cardiac pacemaker, brain stimulator, shrapnel, surgical metal, clips in the brain or on blood vessels, cochlear implants, artificial heart valves or ferromagnetic fragments in the eye or oral cavity as these make having an MRI unsafe.\n* Unable to lie flat on the back for the expected length of the experiment.\n* Have uncontrolled movements of the head.\n* Have an abnormality on the brain imaging or neurologic examination not related to the diagnosis.\n* Uncomfortable being in a small space for the expected length of the experiment.\n* Non-removable body piercing or tattoo posing MRI risk\n* Pregnancy.\n\nADDITIONAL EXCLUSION CRITERIA FOR TREMOR PATIENTS AND HEALTHY VOLUNTEERS FOR TMS AND MRI:\n\n* Ferromagnetic metal in the cranial cavity or eye, e.g. aneurysm clip or ocular foreign body.\n* Implanted electronic device including deep brain stimulation systems.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Experimental subjects will include healthy volunteer subjects and patients with tremor syndromes including, but not limited to ET, PD-tremor, and dystonic tremor. The diagnosis will be made by a movement disorders neurologist at the NINDS movement disorders clinics. Healthy volunteers will be recruited for the following purposes: (1) to optimize data acquisition and analysis techniques; and (2) to serve as negative controls for clinical, imaging, and biological variables measured in the patient cohorts. Without data obtained from healthy volunteers, there is no way to determine whether subtle findings in tremor (e.g., physiological tremor) are truly abnormal. The inclusion of healthy volunteers therefore allows to correctly threshold and quantify observed abnormalities. Healthy volunteers may also include non-affected family members of patients with tremor",
+  "condition": [
+    "Parkinson Disease",
+    "Dystonia",
+    "Essential Tremor"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling adults with tremor syndromes and healthy volunteers to study the physiology and causes of tremor. There are no requirements or restrictions regarding prior systemic therapy for advanced disease, as this is not an interventional oncology trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Tremor Patients",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on diagnosis of a tremor syndrome, with no mention of prior systemic therapy for advanced disease. There are no requirements or exclusions related to lines of therapy for advanced/metastatic disease."
+    },
+    {
+      "cohort_label": "Healthy Volunteers",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Healthy volunteers are eligible if they have no neurological disease; prior systemic therapy for advanced disease is not relevant or mentioned."
+    }
+  ]
+}

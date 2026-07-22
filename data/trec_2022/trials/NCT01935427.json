@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT01935427",
+  "title": "Comparison of Compensatory Reserve Index to Intravascular Volume Change and Stroke Volume",
+  "brief_summary": "This study is designed to validate implementation of the CRI algorithm in the CypherOx CRI system.\n\nHealthy human subjects will undergo progressive reduction in central blood volume to the point of hemodynamic instability (defined by a precipitous fall in systolic blood pressure (SBP) below 70 mmHg and/or voluntary subject termination due to discomfort (such as sweating, nausea, or dizziness) to validate the following hypotheses:\n\nThe CypherOx CRI system will A. Trend intravascular volume changes (hemorrhage) B. Trend stroke volume changes and C. The CRI trend value is not relative to an initial CRI reading, instead it is an actual CRI trend value that does not require calibration or being placed during normal physiological conditions.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Healthy nonsmoking normotensive (\\<140/90) males or females.\n* Age 18 to 55 yr.\n* Normal clinical results from a Medical History and Physical form DD 2807-1\n* Military or civilian.\n* Documentation of a negative pregnancy test within 24 hours prior to each study period, if necessary.\n* Not obese, as defined by body mass index (BMI) \\< 30, unless individual is athletic (BMI may not be the best method of assessing obesity in athletic individuals). BMI is calculated as the weight in kilograms divided by the square of the height in meters.\n\nExclusion Criteria:\n\n* (a) Age \\<18 and \\>55 years.\n* Individuals taking prescription drugs, non-prescription drugs or herbal medicines known to alter autonomic function unless cleared by the Medical Screener.\n* Subjects using prescription medications within 30 days before initiation of the experiments unless cleared by the Medical Screener.\n* Subjects with a history of alcohol or drug abuse which inhibits the subject's ability to complete this study.\n* Smokers.\n* Subjects with signs of cardiovascular abnormalities (e.g., hypertension (\\> 140/90), autonomic dysfunction (Shy-Drager Syndrome, Bradbury-Eggleston syndrome, sinus arrhythmia, idiopathic orthostatic hypotension), fainting disorder, etc.).\n* Subjects with respiratory illnesses (e.g., asthma, Chronic Obstructive Pulmonary Disease, Reactive Airway Disease, etc.).\n* Subjects with a history of anaphylaxis.\n* Subjects with allergies to medications not cleared by the Medical Screener. Individuals reporting a history of pre-syncopal/syncopal episodes or orthostatic hypotension.\n* Subjects with a history or family history of abnormal blood clotting, clots in deep veins in the legs or pelvis, or blood clots to the lungs.\n* Individuals taking prescription medications for hypertension (high blood pressure). (l) Individuals with known or suspected abdominal hernias\n* Pregnancy, trying to become pregnant, or breastfeeding",
+  "minimum_age": "18 Years",
+  "maximum_age": "55 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy non-pregnant volunteers with no cardiovascular disease or other health issues.",
+  "condition": [
+    "Hemorrhage"
+  ],
+  "overall_status": "COMPLETED"
+}

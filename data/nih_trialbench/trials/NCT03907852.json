@@ -1,0 +1,45 @@
+{
+  "nctid": "NCT03907852",
+  "title": "Phase 1/2 Trial of Gavo-cel (TC-210) in Patients With Advanced Mesothelin-Expressing Cancer",
+  "brief_summary": "Gavocabtagene autoleucel (gavo-cel; TC-210) is a novel cell therapy that consists of autologous genetically engineered T cells expressing a single-domain antibody that recognizes human Mesothelin, fused to the CD3-epsilon subunit which, upon expression, is incorporated into the endogenous T cell receptor (TCR) complex.\n\nThis Phase 1/2 study aims to establish the recommended Phase 2 dose (RP2D) and subsequently evaluate the efficacy of gavo-cel, with and without immuno-oncology agents, in patients with advanced mesothelin-expressing cancers, with overall response rate and disease control rate as the primary Phase 2 endpoints.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient is at least 18 years of age at the time the Informed Consent is signed.\n* Patient has a pathologically confirmed diagnosis of either Malignant Pleural/Peritoneal Mesothelioma (MPM), Serous Ovarian Adenocarcinoma, Cholangiocarcinoma, or Non-Small Cell Lung Cancer (NSCLC) at screening.\n* Patient's tumor has been pathologically reviewed by the central laboratory. For Serous Ovarian Adenocarcinoma, patients must have confirmed positive MSLN expression on \\>/= 30% of tumor cells that are 1+, 2+, and/or 3+ by immunohistochemistry (IHC). Ovarian patients will subsequently be stratified into two groups: high MSLN expression (\\>/= 50% of tumor cells that are 2+ and/or 3+) or low MSLN expression (\\>/= 30% of tumor cells that are 1+, 2+, and/or 3+ not meeting criteria for the high MSLN expression group). MPM patients must have MSLN expression of \\>/= 50% of tumor cells that are 2+ and/or 3+ by IHC. Cholangiocarcinoma and NSCLC patients must have MSLN expression of \\>/= 30% of tumor cells that are 1+, 2+, and/or 3+ by IHC.\n* Prior to gavo-cel infusion, patients must have received at least 1 systemic standard of care therapy for metastatic or unresectable disease, with the exception of Cholangiocarcinoma patients who may have elected not to pursue standard frontline therapy. Regardless of tumor type, patients must not exceed 5 prior lines of therapy (excluding bridging therapy and surgical procedures). More details provided in the clinical protocol.\n* Patient has an Eastern Cooperative Oncology Group performance status 0 or 1.\n* Patient has a left ventricular ejection fraction \\> 45% as measured by resting echocardiogram, with no clinically significant pericardial effusion.\n* Patient is fit for leukapheresis and has adequate venous access for the cell collection.\n* Patient must have adequate organ function as indicated by the laboratory values in the clinical protocol",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Mesothelioma",
+    "Mesothelioma, Malignant",
+    "Mesothelioma; Pleura",
+    "Mesotheliomas Pleural",
+    "Mesothelioma Peritoneum",
+    "Cholangiocarcinoma",
+    "Cholangiocarcinoma Recurrent",
+    "Ovarian Cancer",
+    "Non Small Cell Lung Cancer",
+    "Non Small Cell Lung Cancer Metastatic",
+    "High Grade Ovarian Serous Adenocarcinoma"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "Eligible patients must have received at least one prior systemic therapy for metastatic or unresectable disease, except for cholangiocarcinoma patients who may be treatment-naïve. No more than five prior lines of therapy are allowed, excluding bridging therapy and surgery.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 5,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Patients must have received at least one prior systemic therapy for metastatic or unresectable disease, except cholangiocarcinoma patients who may have had no prior systemic therapy for advanced disease. No more than five prior lines of therapy are allowed. Therefore, both treatment-naïve (for cholangiocarcinoma) and previously treated advanced disease patients are eligible."
+    }
+  ]
+}

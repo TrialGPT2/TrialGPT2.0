@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04434898",
+  "title": "The Assessment of the Diagnosis and Prognosis of Patients With Alzheimer Disease or Parkinson Disease With Cognitive Impairment by Using Diffusion MRI",
+  "brief_summary": "The hypothesis is that the differential extent of microstructural damages in the affected brain regions can be specific to the disease of interest and could reflect the clinical severity. Therefore, the investigator propose that whole brain parcellation of diffusion MRI can be used to improve diagnosis and prediction of clinical outcomes in Parkinson's Disease.\n\n1. A regression model between clinical severity and two year clinical outcomes and diffusion properties from multiple parcellated regions will be developed.\n2. Blind validation will be performed.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nAll subjects should meet the following criteria:\n\n1. Between 50-80 years old\n2. Right-handed\n3. Able to understand study requirements and give informed consent\n4. Agree to return for follow-up checks\n5. Able to suspend intake of medication for at least 12 hours\n\nExclusion Criteria:\n\n* Cardiac pacemaker or defibrillator implantation Intracranial metal device implantation\n* Other major systemic diseases, such as renal failure, heart failure, stroke, AMI/unstable angina, poorly controlled diabetes mellitus, poorly controlled hypertension\n* Alcohol or drug abuse\n* Moderate to severe dementia\n* Severe movement disorders\n* Imaging data is similar to a nuclear medical examination, exclusion criteria is any abnormality that may affect cognitive function as reflected in computer tomography or MRI records, such as hydrocephalus or encephalitis. Mild cortical atrophy is acceptable.\n* History of intracranial surgery including thalamotomy, pallidotomy, and/or deep brain stimulation\n* Major physical or neuropsychiatric disorders\n* Structural abnormalities that may cause dementia, such as cortical infarction, tumour, or subdural hematoma\n* Besides medication for Parkinson's Disease, taking other medication with substances that can pass through the blood-brain barrier\n* Besides medication for Parkinson's Disease, taking other medication for more than 10 years\n* Treatments or concurrent illnesses other than Alzheimer's Disease that could interfere with cognitive function\n* Meet the criteria for dementia (DSM-IV)\n* Head trauma with loss of consciousness greater than 10 minutes\n* Severe loss of sensation",
+  "minimum_age": "50 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "For each specific disease group, the following criteria should be meet:\n\nHealthy volunteers: MMSE score greater than or equal to 26. Mild cognitive impairment patients: a) Clinical Dementia Rating score equal to 0.5, b) Be diagnosed by clinician's judgement of clinical information. MSA patients should fulfill the National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health criteria. PSP patients should fulfil the NINDS-SPSP and Litvan criteria. CBD patients should fulfil the NINDS-SPSP criteria, including limb stiffness or hypokinesia, dystonia, myoclonus, speaking disorders, and cortical sensory loss. The PD patients should be besides the age of onset, fulfil the NINDS-SPSP criteria.",
+  "condition": [
+    "Alzheimer Disease",
+    "Parkinson Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

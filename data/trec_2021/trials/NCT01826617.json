@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01826617",
+  "title": "Configuration of a New Prostate Disease Nomogram Predicting Prostate Biopsy Outcome",
+  "brief_summary": "This study will identify significant clinical parameters and individual risk factors related to certain prostate disease (BPH, prostatitis and prostate cancer). With the identified important correlations, a locally generated bias free nomogram will be constructed for predicting prostate biopsy outcome among Asian men with indications for prostate biopsy. While this study will evaluate the accuracy and predictive value of this novel prostate disease nomogram.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* All patients who had their first Transrectal ultrasound (TRUS) prostate biopsy at the Stone and Prostate Treatment Center of St. Luke's Medical Center-Quezon City . The indication for prostate biopsy is either a suspicious DRE findings or elevated PSA level (\\>4.0ng/ml) or both.\n\nExclusion Criteria:\n\n* non-Asian patient\n* incomplete data provided and patients refused to provide required data\n* Prostate specific antigen done other than St. Luke's Medical Center\n* did not consent for biopsy procedure",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "This is a cross-sectional study prospectively collecting data from all patients who had their first Transrectal ultrasound (TRUS) prostate biopsy at the Stone and Prostate Treatment Center of St. Luke's Medical Center-Quezon City . Data will be collected uniformly for the purpose of building a clinical care prostate biopsy database. The indication for prostate biopsy is either a suspicious DRE findings or elevated PSA level (\\>4.0ng/ml) or both.",
+  "condition": [
+    "Prostate Cancer",
+    "Prostatitis",
+    "Benign Prostatic Hyperplasia"
+  ],
+  "overall_status": "COMPLETED"
+}

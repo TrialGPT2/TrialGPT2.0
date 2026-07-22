@@ -1,0 +1,38 @@
+{
+  "nctid": "NCT06019182",
+  "title": "MEHMO Natural History and Biomarkers",
+  "brief_summary": "This observational natural history study will follow individuals with MEHMO (Mental disability, Epileptic seizure, Hypopituitarism/Hypogenitalism, Microcephaly, Obesity) syndrome or an eIF2-pathway related disorder, who have symptoms such as intellectual delay, seizures, abnormal hormone and blood sugar levels, and decreased motor skills.\n\nNo current treatment for these conditions is available. A major impediment to the testing of potential therapeutic interventions is the lack of well-defined outcome measures. This protocol seeks to identify biochemical and clinical markers to monitor disease progression, and better understand the natural history of these conditions.\n\nAny person diagnosed with MEHMO syndrome or related conditions, who can travel to the NIH Clinical Center can participate in this study.\n\nThe study involves:\n\n* General health assessment and evaluation\n* Imaging studies\n* Laboratory tests\n* Collection of blood, urine, spinal fluid, skin biopsy.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible to participate in this study, an individual must meet the following criteria:\n\nBe \\>= 1-week of age if affected, or \\>=1-month of age if unaffected.\n\nFor Screening:\n\n1. Have a combination of signs/symptoms suggestive of MEHMO syndrome,\n\n   AND\n\n   no or inconclusive molecular testing.\n\n   OR\n2. Be a relative of an individual with MEHMO syndrome/eIF2-related condition and whose genetic may be informative for research.\n\nFor Main Study:\n\n1. Have a combination of signs/symptoms suggestive of MEHMO syndrome,\n\n   AND\n\n   disease-associated variant(s) or variant(s) of uncertain significance in one of the eIF2-pathway related genes\n\n   OR\n2. Be a relative of an individual with MEHMO syndrome/eIF2-related condition, AND a carrier of the pathogenic or likely pathogenic variant.\n\n   OR\n3. Be a non-affected, non-carrier family member of an individual with MEHMO syndrome or an eIF2-pathway related condition.\n\nEXCLUSION CRITERIA:\n\nAny individual who, in the opinion of the Investigators, is unable to comply with the protocol or have medical conditions that would potentially increase the risk of participation will be excluded from participation in this study.",
+  "minimum_age": "1 Week",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Inclusion Criteria: An individual must be \\> 1-week of age if affected, or \\> 1-month of age if unaffected. For Screening: Have a combination of signs/symptoms suggestive of MEHMO syndrome, AND no or inconclusive molecular testing. For Main Study: 1. Have a combination of signs/symptoms suggestive of MEHMO syndrome, AND disease-associated variant(s) or variant(s) of uncertain significance in one of the eIF2-pathway related genes OR 2. Be a first-degree relative of an individual with EIF2S3-related MEHMO syndrome, AND a carrier of the pathogenic or likely pathogenic variant. OR 3. Be a non-affected, non-carrier family member of an individual with MEHMO syndrome or an eIF2-pathway related condition. Exclusion Criteria: Any individual who, in the opinion of the Investigators, is unable to comply with the protocol or have medical conditions that would potentially increase the risk of participation.",
+  "condition": [
+    "Intellectual Disability",
+    "Epilepsy",
+    "Hypogonadisms",
+    "Microcephaly",
+    "Nervous System Malformations",
+    "Obesity"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history observational study of MEHMO syndrome and related eIF2-pathway disorders. There is no systemic therapy for advanced disease involved, and prior treatment history is not relevant to eligibility.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This is an observational study with no systemic therapy intervention; eligibility is based on diagnosis and genetic status, not prior treatment. There are no requirements or restrictions regarding prior lines of therapy for advanced disease."
+    }
+  ]
+}

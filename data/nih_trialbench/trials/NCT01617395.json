@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT01617395",
+  "title": "Relating Genetic and Environmental Risk Scores to Multiple Sclerosis Susceptibility",
+  "brief_summary": "Background:\n\n\\- Research shows that both genes and the environment influence a person s risk for getting multiple sclerosis (MS). However, it is not possible to accurately predict who will develop MS. Researchers want to study people with MS and their family members. They have developed a Genetic and Environmental Risk Score for MS. This score combines information from a person's medical history and genes. It also includes environmental factors that may be related to developing MS. This study will test this risk score to see if it can help predict who will develop MS.\n\nObjectives:\n\n\\- To evaluate a score for genetic and environmental risk factors that may help predict whether a person will develop MS.\n\nEligibility:\n\n* Individuals at least 18 years of age who have MS.\n* Individuals between 18 to 50 years of age who are the parent, brother, sister, or child of a person with MS.\n\nDesign:\n\n* People with MS will allow researchers to look at their personal and medical data. These data will have been collected in other MS-related studies.\n* Relatives of people with MS will fill out a questionnaire and give blood and saliva samples. They will fill out the questionnaire again one year later.\n* Some relatives will have additional optional testing. These tests will include a physical exam and imaging studies. There may also be other tests. These tests may be repeated every 1 to 5 years for 20 years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nGEMS cohort (target n equals 1000)\n\n* First-degree relative (parent, sibling, or child) of a self-reported MS patient.\n* Age 18-50, inclusive, at the time of enrollment into the overall GEMS study.\n* Willingness to be contacted regarding additional follow-up procedures.\n* Cross-sectional subcohort (target n equal 150):\n\n  * Referred by Columbia University Medical Center as having a genetic and environmental risk score (GERS), defined in Section 4.1.1, in the top or bottom 20% of the overall GEMS study.\n* NINDS Longitudinal subcohort (target n equal 100):\n\n  * Ages 18-40, inclusive.\n  * Referred by Columbia University Medical Center as having a GERS in the top 20% of the overall GEMS study.\n  * Willing to undergo additional study procedures at the NIH for up to 20 years, with planned follow-up every year for participants between ages 18 and 25, every 2 years for participants between ages 26 and 30, and every 5 years for participants between ages 31 and 40.\n  * Relative enrolled in NIH study with confirmation of MS diagnosis.\n\nMS patient cohort (target n=1000):\n\n* MS patients (NIH)\n\n  * Co-enrolled in another Neuroimmunology Clinic natural history protocol.\n  * Diagnosis confirmed at NIH.\n  * Age 18 or older.\n* MS patient (non-NIH)\n\n  * First-degree relative (parent, sibling, or child) of an existing GEMS participant.\n  * Able and willing to send medical records associated with their MS diagnosis to NIH.\n* Healthy volunteer cohort (target n=80)\n\n  * Age 18-50, inclusive.\n  * No known first-degree relative (parent, sibling, or child) with MS.\n* All cohorts\n\n  * Able to give informed consent.\n\nEXCLUSION CRITERIA:\n\nGEMS cohort\n\n-Diagnosis of MS.\n\nCross-sectional and NINDS longitudinal subcohorts\n\n* Contraindications to MRI scanning.\n* Diagnosis of another central nervous system disease disease (CNS neoplasm, known cerebrovascular disease, known CNS degenerative diseases, or known CNS inflammatory diseases) at the time enrollment into the study.\n* MS cohort (both)\n\n  --None\n* Healthy volunteer cohort\n\n  * Diagnosis of MS or another central nervous system (CNS neoplasm, cerebrovascular disease CNS degenerative diseases, or CNS inflammatory diseases) or a systemic disease that would interfere with the aims of this study.\n  * Contraindications to MRI scanning.\n\nEligible NIH employees and staff may participate.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Primary clinical",
+  "condition": [
+    "Multiple Sclerosis"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study of genetic and environmental risk factors for multiple sclerosis (MS) in patients, their first-degree relatives, and healthy volunteers. There are no requirements or restrictions regarding prior systemic therapy for advanced disease, as this is not an interventional oncology trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study does not specify any requirements or exclusions based on prior systemic therapy for advanced or metastatic disease. The eligibility criteria focus on MS diagnosis, family history, and age, with no mention of cancer treatment or lines of therapy."
+    }
+  ]
+}

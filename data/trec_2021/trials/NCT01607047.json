@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01607047",
+  "title": "French West Indies Leptospirosis Study",
+  "brief_summary": "Leptospirosis is a zoonosis of worldwide distribution whose incidence is higher in the tropics, where conditions for transmissions are favorable. The disease is endemic in Martinique and Guadeloupe, two Caribbean islands of the French West Indies. In tropical areas, many wild and domestic animals serve as reservoirs for pathogenic Leptospira strains and contaminate the environment by shedding the organisms in their urine. Humans are usually infected through abraded skin or mucous membrane contact with water contaminated by the urine of animal reservoirs, and less frequently by direct contact with animals or their urine. The mean incubation period is 10 days, with a usual range of 2-20 days. Clinical manifestations are protean and the spectrum of symptoms range from subclinical or mild anicteric febrile illness to acute renal failure and respiratory distress syndrome which are associated with high mortality rates.\n\nThe microscopic agglutination test (MAT) and culture are the reference standard test for diagnosis of leptospirosis, but they are only available in reference laboratories and their conclusive results requires convalescent sample or prolonged incubation. At present, only direct detection methods using PCR might provide rapid diagnosis during the early acute stage of the illness, when treatment is likely to have the greatest benefit.\n\nQuantitative PCR also offers the ability to measure level of leptospiremia in clinical samples. Using qPCR based diagnosis, the investigators have the opportunity to study the association of level of leptospiremia and clinical manifestations in French West Indies. All qPCR-positive samples will be used for molecular typing.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adults (more than 18 years)\n* Consulting a participating hospital center (emergency room, full hospitalization, day hospitalization, or outpatient visit).\n* Diagnosis of leptospirosis confirmed by qPCR\n* Possibility of follow-up throughout the 12-week study period.\n* Patient registered in the French medical social security national program\n* Acceptance to participate in the study and in follow-up; informed consent of the patient or a legal representative (patients unable to sign the consent form).\n\nExclusion Criteria:\n\n* Negativity of leptospirosis qPCR based diagnosis\n* Children under 18 years old\n* No possible follow-up after the first visit\n* Refusal to participate in the study\n* Patient not registered in the French medical social security national program",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adults with a leptospirosis diagnosis confirmed by qPCR",
+  "condition": [
+    "Leptospirosis"
+  ],
+  "overall_status": "UNKNOWN"
+}

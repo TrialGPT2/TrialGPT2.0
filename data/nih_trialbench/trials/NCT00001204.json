@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00001204",
+  "title": "Cardiovascular Evaluation of Patients With High Cholesterol and Normal Volunteers",
+  "brief_summary": "Homozygous familial hypercholesterolemia is a rare inherited disease of metabolism. It occurs in less than 1 in 1 million people within the United States. Patients with the disease are typically children and young adults who develop heart disease early in life. Children less than age 5 years with this disease have suffered heart attacks and death.\n\nThe normal process that removes cholesterol particles from the blood stream does not work in patients with this disease. It causes cholesterol to build-up in the arteries and leads to hardening of the arteries (atherosclerosis).\n\nThe goal of this study is to detect and measure atherosclerosis in these patients before it becomes permanent and potentially life threatening. Patients with this disease can participate in this study. Researchers plan to evaluate patients with homozygous familial hypercholesterolemia using new and standard methods for detecting atherosclerosis.\n\nResearchers plan to use information gathered during this study to develop new, promising treatments such as liver transplantation and gene therapy.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nFasting cholesterol greater than 500 mg/dl, low density lipoprotein cholesterol greater than 400 mg/dl, and triglycerides less than mg/dl.\n\nFamily history of hypercholesterolemia and/or cardiovascular disease before the age of 60 years.\n\nTendinous and tuberous xanthomas.\n\nArcus corneae before the age of 30.",
+  "minimum_age": "2 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Familial hypercholesterolemia",
+  "condition": [
+    "Homozygous Familial Hypercholesterolemic"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study evaluating patients with homozygous familial hypercholesterolemia for cardiovascular disease; there is no systemic therapy for advanced disease involved. Line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study does not involve systemic therapy for advanced disease, nor does it specify prior lines of therapy as an eligibility criterion. The focus is on cardiovascular evaluation, not cancer treatment."
+    }
+  ]
+}

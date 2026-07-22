@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00717210",
+  "title": "Randomized Phase III Study of Sequential Radiochemotherapy of Anaplastic Glioma With PCV or Temozolomide",
+  "brief_summary": "Background: The optimal treatment of anaplastic gliomas is controversial. Standard of care in most centers is still radiotherapy. This phase III study compared the efficacy and safety of radiotherapy vs chemotherapy in patients (pts) with newly-diagnosed, supratentorial gliomas of WHO grade III.\n\nMethods: Pts were randomized 2:1:1 between June 1999 and February 2005 in 34 German centers to receive (i) a 6-week course of radiotherapy (1,8-2 Gy fractions, total dose 54-60 Gy) or (ii) four 6-week cycles of CCNU at 110 mg mg/m2 on day 1, vincristine at 2 mg on days 8 and 29 and procarbazine at 60 mg/m2 on days 8-21 or eight 4-week cycles of 200 mg/m2 temozolomide on days 1-5. Treatment was stopped prematurely at disease progression or occurrence of unacceptable toxicity. At this time or at disease progression, treatment in the radiotherapy group was continued with one of the chemotherapies (1:1 randomization) and with radiotherapy in both chemotherapy groups. The primary endpoint was time-to-treatment-failure (TTF) defined as progression after radiotherapy and one chemotherapy in either sequence, or any time before if further therapy could not be employed. Assuming a 50% improvement in TTF of starting with chemotherapy, 318 pts were to be enrolled to provide 80% power to achieve statistical significance at a one-sided level of 0.05.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* written informed consent\n* centrally confirmed anaplastic glioma according to the WHO-classification 1998/2000\n* age \u2265 18 years\n* Karnofsky performance status (KPS) of 70 or higher\n* no prior systemic chemotherapy or radiation therapy of the brain\n* no HIV infection\n* adequate bone marrow reserve, liver function, and renal function\n* Patients on corticosteroids had to be on a stable or decreasing dosage within the 14 days prior to randomization\n\nExclusion Criteria:\n\n* Glioblastoma\n* infratentorial localization of the tumor\n* pregnancy or lactation period\n* serious medical or neurological comorbidity\n* additional malignancy requiring radio- or chemotherapy\n* known hypersensitivity against study drugs\n* inability to swallow\n* frequent emesis\n* psychological. familial, sociological or geographical situations impairing compliance with F/U examinations\n* parallel participation in other studies",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Anaplastic Astrocytoma",
+    "Oligodendroglioma",
+    "Oligoastrocytoma"
+  ],
+  "overall_status": "COMPLETED"
+}

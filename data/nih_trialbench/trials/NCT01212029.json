@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT01212029",
+  "title": "Testing and Calibration of Non-Invasive Optical Imaging Technology for Functional Brain Imaging",
+  "brief_summary": "Background:\n\n\\- Non-invasive functional near infrared (fNIR) imaging techniques use infrared light to detect changes in blood volume and oxygen levels during brain activity. fNIR is being studied as a possible way to examine the brain activity of individuals who are unable to undergo standard brain function imaging techniques (such as functional magnetic resonance imaging, or fMRI). For instance, war veterans who have iron shrapnel in the body are not able to have fMRI scans, and very young children or children with autism and related disorders are often not able or willing to cooperate long enough in the MRI environment to allow full imaging studies to take place. Researchers are interested in comparing the results of fNIR and fMRI performed on healthy volunteers to determine if fNIR produces similarly accurate results.\n\nObjectives:\n\n\\- To examine the capabilities of non-invasive functional near infrared imaging techniques on healthy volunteers and compare the results with the existing outcomes of functional magnetic resonance imaging.\n\nEligibility:\n\n\\- Healthy volunteers at least 18 years of age.\n\nDesign:\n\n* Participants will have one study visit. Depending on the complexity of the task, the whole exam will take between 5 minutes and 1 hour to perform.\n* Participants will be asked to sit as still as possible while wearing a headband that includes light sources and detectors (the fNIR device).\n* Participants will be asked to perform a set of tasks (e.g., reading sentences or counting numbers in one s head). Data will be collected during these experiments.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAge 18 years or greater.\n\nEXCLUSION CRITERIA:\n\n* Healthy volunteers with any skin disease that, in the opinion of the investigator, would interfere with the study measurements.\n* Healthy volunteers with any past or present vascular disease.\n* Known adverse reaction to latex.\n* Any medical condition that, in the opinion of the Principal Investigator would preclude the inclusion of a patient onto this research study.\n* Unable or unwilling to give informed consent.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cognition"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-oncology imaging technology study enrolling only healthy volunteers with no cancer diagnosis or treatment history. There is no line-of-therapy intent applicable to this trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls only healthy volunteers with no mention of cancer or systemic therapy. Line-of-therapy intent is not applicable."
+    }
+  ]
+}

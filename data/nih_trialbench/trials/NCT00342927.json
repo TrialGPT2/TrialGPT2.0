@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT00342927",
+  "title": "Family Investigation of Nephropathy and Diabetes (F.I.N.D.)",
+  "brief_summary": "The Family Investigation of Nephropathy and Diabetes (FIND) is a multicenter study designed to identify genetic determinants of diabetic kidney disease. FIND will be conducted in eleven centers and in many ethnic groups throughout the United States. Two different strategies will be used to localize genes predisposing to kidney disease: a family-based genetic linkage study and a case-control study that utilizes admixture linkage disequilibrium. The center based at the Phoenix office of the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK-Phoenix) will conduct family-based linkage studies among American Indian populations in the southwestern United States.\n\nParticipants (index cases) with diabetes and kidney disease will initially be recruited, and their parents and siblings will also be invited to participate. Genetic material from these participants will be used to genotype markers throughout the genome. Linkage analysis will be conducted to identify particular chromosomal regions containing genes that influence susceptibility to diabetic kidney disease. Linkage analyses will also be used to identify genes influencing traits related to diabetic kidney disease, such as serum creatinine, urinary protein excretion, plasma glucose levels, blood pressure and blood lipid levels. Regions that show evidence for linkage will then be examined in more detail, with both genetic linkage and association studies, to attempt to identify the specific genes that influence diabetic kidney disease, or related traits.\n\nThe identification of genes that influence susceptibility to diabetic kidney disease will lead to a better understanding of how kidney disease develops. In the long run, this may lead to improved treatment and prevention of diabetic kidney disease.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIndex Cases:\n\nIndividuals with diabetes and diabetic nephropathy who are at least 18 years of age.\n\nPotential index cases must have at least one sibling, or both parents available as potential study participants.\n\nPotential index cases must also have diabetic nephropathy. An index case must have nephropathy that is more severe than microalbuminuria. An index case must meet one of the following criteria:\n\n1. Biopsy proven diabetic nephropathy (by medical record review):\n\n   1. Nodular and/or diffuse increases in the mesangial matrix accumulation; and\n   2. Thickened glomerular basement membranes and/or arteriolar hyalinization; and\n   3. Absence of mesangial immunoglobulin or paraprotein deposits by immunoflorecscence microscopy, absence of amyloid deposits by Congo Red staining or electron microscopy, absence of electron dense deposits within the glomerular basement membrane or glomerular capillary subendothelial space; and\n   4. Overt proteinuria, defined as ACR greater than or equal to 300 mg/g, urinary protein creatinine ratio greater than or equal to 0.5 g/g, urinary albumin excretion greater than or equal to 300 mg/24 hr, or urinary protein excretion greater than or equal to 0.5 g/24 hr.\n2. ESRD (including transplant) from presumed diabetic nephropathy:\n\n   Diabetes present for at least 5 years prior to the initiation of replacement therapy and retinopathy at any time;\n\n   or Diabetes present for at least 5 years prior to the initiation of replacement therapy and either greater than or equal to 3 gm protein/24 hours, or a urine protein (mg)/creatinine (mg) greater than or equal to 3.0 or urinary ACR greater than or equal to 3000 mg/g or urinary albumin excretion greater than or equal to 3000 mg/24 hours (historical data acceptable);\n\n   or retinopathy and either greater than or equal to 3 gm protein/24 hours, or a urine protein (mg)/creatinine (mg) greater than 3.0 or urinary ACR greater than or equal to 3000 mg/g or urinary albumin excretion greater than 3000 mg/24 hours (historical data acceptable).\n3. Patient with presumed diabetic nephropathy but not ESRD:\n\nPatient has diabetic retinopathy and either greater than or equal to 1 gram proteinuria/24 hours or a urine protein (mg)/creatinine (mg) greater than or equal to 1.0 or urinary ACR greater than or equal to 1000 mg/g or urinary albumin excretion greater than or equal to 1000 mg/24 hours (historical data acceptable);\n\nor first detection of either greater than or equal to 3 gram protein/24 hours or a urine protein (mg)/creatinine (mg) greater than or equal to 3.0 gram or urinary ACR greater than or equal to 3000 mg/g or urinary albumin excretion greater than or equal to 3000 mg/24 hours at DM duration greater than or equal to 10 years (historical data acceptable).\n\nRecruitment of Family Members:\n\nAny available parent or sibling who is at least 18 years of age will be recruited as a potential participant and will use the same criteria as above.\n\nDNA for individuals in informative families will be submitted to the genotyping laboratory. An informative family is defined as one for which DNA specimens are available for the following individuals:\n\n1. The index case and both parents, or\n2. The index case and at least one other affected sibling who has diabetes and renal disease, or\n3. The index case and at least one unaffected sibling, defined as an individual who has had diabetes for at least 10 years and who has no renal disease (based on evidence obtained from the medical record and from the FIND examination.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Volunteers from the community",
+  "condition": [
+    "Diabetic Nephropathy",
+    "Diabetes Mellitus",
+    "Diabetic Kidney Disease",
+    "Albuminuria"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a genetic epidemiology study of diabetic nephropathy and does not involve cancer or systemic therapy for advanced disease. There is no line-of-therapy intent relevant to oncology clinical trials.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced/metastatic disease. No line-of-therapy criteria are specified or applicable."
+    }
+  ]
+}

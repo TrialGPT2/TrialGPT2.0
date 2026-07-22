@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02668835",
+  "title": "GADGET-PD Genetic and Digital Diagnosis of Essential Tremor and Parkinson's Disease Trial",
+  "brief_summary": "The proposed study will capitalize on the early predictive information stored in an individual's genetic risk for Parkinson Disease (PD) in combination with the subtle features of tremors that can be extracted from movement data gathered by modern compact accelerometers in order to determine if accurate discrimination of essential tremor (ET) from PD can be achieved. Both of these technologies have a proven but somewhat limited ability to inform diagnosis of PD or differentiation of PD from ET - especially at early stages of the disease. The investigators hypothesize that a combination of prior genetic risk and current disease symptomology can synergize for accurate and early discrimination of PD from ET and ultimately inform a cost effective approach to movement disorder diagnosis.\n\nIn this study, the investigators will collect blood from individuals with confirmed late-onset diagnosis of PD and ET. Gold standard diagnosis status will be determined via the Unified Parkinson's Disease Rating Scale (UPDRS) - the accepted clinical gold standard for Parkinson's Disease diagnosis. DNA will be extracted from blood samples to characterize the genetic risk of individuals for PD via proven genetic risk models. In addition, participants will wear a wristwatch-like accelerometer device that will track their movements (tremors) at high temporal resolution and transmit movement data via a smartphone. Cognitive distraction tasks will be administered via mobile phones while simultaneously collecting movement data. Predictive tremor features will be extracted from movement data via signal processing approaches - e.g. discrete wavelet transformation. A final predictive model combining movement tracking information and genetic information will be designed in attempt to distinguish PD from ET individuals.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Idiopathic Parkinson's Disease as defined by the UK brain bank criteria and history of resting tremor, or:\n* Essential Tremor with history of resting tremor. Diagnosis made by a movement disorder specialist.\n* Midstage in disease process for Parkinson's disease with history of resting tremor\n\nExclusion Criteria:\n\n* Dementia as defined by a mini-mental state examination cutoff score of 27\n* Atypical Parkinsonism\n* Akinesia/ rigidity Parkinson's Disease\n* Movement Disorders - Stiff-Person syndrome, choreatic disease, dystonia, progressive supranuclear palsy\n* Motor neuron disease - Multiple sclerosis, amyotrophic lateral sclerosis, motor neuritis, progressive bulbar palsy, progressive muscular atrophy, spinal muscular atrophy\n* Significant neurological comorbidities:\n\n  * Stroke\n  * Brain cancer or brain metastases\n* History of bone marrow transplant\n* Cerebral palsy and spastic paraplegia",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Study population is limited to individuals presenting in Scripps Health clinics with diagnosis of Parkinson's disease or essential tremor.",
+  "condition": [
+    "Parkinson Disease",
+    "Essential Tremor"
+  ],
+  "overall_status": "COMPLETED"
+}

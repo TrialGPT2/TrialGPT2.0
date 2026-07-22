@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01498289",
+  "title": "S1201: Combination Chemo for Patients W/Advanced or Metastatic Esophageal, Gastric, or Gastroesophageal Junction Cancer",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as oxaliplatin, leucovorin calcium, fluorouracil, irinotecan hydrochloride, and docetaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Combining more than one drug may kill more tumor cells. It is not yet known which regimen of combination chemotherapy is more effective in treating tumor cells.\n\nPURPOSE: This randomized phase II trial studies how well oxaliplatin, leucovorin calcium, and fluorouracil work compared to irinotecan hydrochloride and docetaxel in treating patients with esophageal cancer, gastric cancer, or gastroesophageal junction cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Patients must have unresectable advanced or metastatic histologically or cytologically confirmed adenocarcinoma of the esophagus, stomach, or gastroesophageal junction (GEJ)\n\n  * Patients must not have received treatment for metastatic or unresectable disease\n  * Patients must not have brain metastases\n* Patients must have measurable and/or non-measurable disease\n* Patients who have had HER-2 expression testing prior to patient consent to this study must be HER-2 negative; if HER-2 expression has not been tested prior to patient consent to this study, a second specimen must be submitted for HER-2 expression; if the specimen is HER-2 positive (or if HER-2 could not be evaluated), the patient will not be randomized\n* Patients must have completed any prior neoadjuvant and adjuvant therapy for resectable disease at least 180 days prior to registration\n\nPATIENT CHARACTERISTICS:\n\n* Zubrod performance status of 0-1\n* Hemoglobin \u2265 9 g/dL\n* Absolute neutrophil count (ANC) \u2265 1,500/mcL\n* Platelets \u2265 100,000/mcL\n* Total bilirubin \u2264 1.5 mg/dL regardless of whether patients have liver involvement secondary to tumor\n* AST and ALT both \u2264 3 times institutional upper limit of normal (IULN) unless the liver is involved with tumor, in which case both AST and ALT must be \u2264 5 times IULN\n* Serum creatinine \\< 1.5 mg/dL within 28 days prior to registration AND/OR calculated creatinine clearance \\> 60 mL/min\n* Patients must not have motor or sensory neuropathy \\> Grade 1 using CTCAE version 4.0\n* Patients must not be pregnant or nursing; women and men of reproductive potential must have agreed to use an effective contraceptive method\n* No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease-free for five years\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* All palliative radiation therapy alone must be completed at least 14 days prior to registration\n* Patient must have no plans to receive concurrent chemotherapy, hormonal therapy, radiotherapy, immunotherapy, or any other type of therapy for treatment of cancer while on this protocol treatment",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Adenocarcinoma of the Gastroesophageal Junction",
+    "Esophageal Cancer",
+    "Gastric Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

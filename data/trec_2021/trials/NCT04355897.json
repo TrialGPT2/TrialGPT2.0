@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04355897",
+  "title": "CoVID-19 Plasma in Treatment of COVID-19 Patients",
+  "brief_summary": "The investigatores propose to evaluate intravenous administration of convalescent plasma (CP) obtained from COVID19 survivors in patients requiring hospitalization for symptomatic \"high risk\" COVID19 disease as reflected by the presence of elevated hsTPN. Supportive data exist for use of convalescent plasma in the treatment of COVID19 and other overwhelming viral illness. Investigators hypothesize that treatment with COVID19 CP will demonstrate salutary effects on COVID19 disease severity/duration, with the primary objective to reduce mortality and a key secondary objective to reduce the requirement for and/or duration of mechanical ventilation. Finally, as the hospital mortality for patients requiring mechanical ventilation is very high (50 to 80%), these patients will be eligible for COVID19 CP treatment as well, even in the absence of elevated hsTPN. Although considerable overlap of these populations has been observed (elevated hsTPN and requirement for mechanical ventilation) there is not 100% redundancy and it is hopeful that COVID19 CP may provide benefit to these critically ill patients.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 18-80 years\n* Symptomatic CoVID-19 disease requiring hospitalization\n* SARS-CoV-19 PCR positive\n* Elevated hsTPN\n\nExclusion Criteria:\n\n* Multi-organ / system failure\n* Renal insufficiency (eGFR \\<30 or renal replacement therapy)\n* Liver dysfunction (\\>3x ULN SGOT / SGPT)\n* Chronic Immunosuppression therapy\n* Prior organ transplant\n* Prior multiple transfusions for Myelodysplastic syndrome\n* Prior treatment with plasma, immunoglobulin transfusion within 30 days\n* Allergic reaction to blood/ plasma products\n* Pregnant or breast feeding at the time of study\n* Inability to provide informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID 19"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03257735",
+  "title": "A Study of the Gene Mutation Status in Cerebrospinal Fluid, Blood and Tumor Tissue of Non-small Cell Lung Cancer Patients With Brain Metastases",
+  "brief_summary": "Primary lung cancer is one of the most common malignancies in China, with 57 percent of patients being diagnosed at advanced stage. At present, advanced lung cancer has entered the era of precise treatment. So it is very important to determine the gene mutation status of the tumor and prescribe drugs at the targets. Liquid biopsy is a suitable alternative when tumor tissues are difficult to obtain. Liquid biopsy technique refers to the use of human body fluid as a sample source to detect the information of related diseases, including blood, urine, saliva and cerebrospinal fluid. It is non-invasive, fast and simple, and can avoid the problem of insufficient sample size and support for repeated sampling to continuously monitor disease.\n\nWith the increasing incidence of lung cancer and the development of diagnosis and treatment technology, the survival period of patients has been extended, and the incidence and diagnosis rate of the brain metastasis of lung cancer have increased year by year. The brain metastasis of lung cancer is the most common type of brain metastatic tumor. The incidence rate is about 40-50%, and the prognosis is poor--the natural median survival period is about 1-2 months. Because of the impractical intracranial tumor biopsy and very low level of DNA in peripheral blood, cerebrospinal fluid, which makes close contact with brain tumors, becomes potential available samples. Several studies have shown that genetic testing of cerebrospinal fluid is feasible. Therefore, this study aims to test the cerebrospinal fluid, blood and tissue by the latest second-generation sequencing technology at different time points, to dynamically monitor the gene mutation status of cerebrospinal fluid, blood and tissue, to explore the role of cerebrospinal fluid biopsy in the diagnosis and treatment of non-small cell lung cancer with brain metastases.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Male or female, aged over 18 and less than 75 years old\n2. The estimated survival period is greater than 12 weeks\n3. ECOG score is less than 2\n4. Histological diagnosis is non-small cell lung cancer, and there are enough tissue specimens for lung cancer related gene detection\n5. The brain metastasis is confirmed by brain MRI, and the first line treatment of brain metastasis was considered as chemotherapy or target therapy\n6. There must be at least one evaluable lesion based on the criteria of RECIST 1.1 (maximum diameter at least 10mm on spiral CT and MRI)\n7. Patients are tolerable for lumbar puncture with no contraindication\n8. Patients are able to comply with the research requirements and follow-up procedures\n9. Patients must sign the informed consent prior to the beginning of any substantive test procedure (informed consent is subject to approval of the independent ethics committee)\n\nExclusion Criteria:\n\n1. Brain metastases were treated\n2. Intracranial symptoms were obvious, and radiotherapy/surgery was considered in the first line treatment\n3. Histological specimens are not enough to detect lung cancer related genes\n4. Patients were suffering from other types of malignancy\n5. Patients have any contraindications of lumbar puncture\n6. Patients have any uncontrolled systemic disease, including active infection, uncontrolled high blood pressure, diabetes, unstable angina and congestive heart failure, myocardial infarction (1 year) before the start of treatment, severe arrhythmia that needs drugs therapy, coagulant function abnormality, liver or kidney or metabolic disease\n7. Pregnant and lactating pregnant women\n8. Patients were not willing to be followed up",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients were histologically confirmed with NSCLC and identified with new brain metastases by MRI.",
+  "condition": [
+    "Lung Cancer",
+    "Brain Metastases",
+    "Cerebrospinal Fluid",
+    "Next-generation Sequencing"
+  ],
+  "overall_status": "UNKNOWN"
+}

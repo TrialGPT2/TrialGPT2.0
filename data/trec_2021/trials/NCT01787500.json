@@ -1,0 +1,29 @@
+{
+  "nctid": "NCT01787500",
+  "title": "Vemurafenib, Cetuximab, and Irinotecan Hydrochloride in Treating Patients With Solid Tumors That Are Metastatic or That Cannot Be Removed by Surgery",
+  "brief_summary": "This phase I trial studies the side effects and best dose of vemurafenib when given together with cetuximab and irinotecan hydrochloride in treating patients with solid tumors that have spread to other parts of the body or cannot be removed by surgery. Vemurafenib and irinotecan hydrochloride may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as cetuximab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Giving vemurafenib with cetuximab and irinotecan hydrochloride may be a better treatment for solid tumors.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients must have histologically confirmed malignancy that is metastatic or unresectable\n* Cancers with positive BRAF V600 mutation detected by a Clinical Laboratory Improvement Act (CLIA)-certified laboratory\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2\n* Life expectancy of greater than 3 months\n* Patients must have measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria\n* Patients must have a K-RAS wild-type (WT) tumor\n* Absolute neutrophils count \\>= 1500/mcl (within 14 days)\n* Platelets \\>= 100000/mcl (within 14 days)\n* Hemoglobin (Hb) \\>= 9 mg/dl (within 14 days)\n* Total bilirubin =\\< 1.5 mg/dl (within 14 days)\n* Aspartate aminotransferase (AST)/alanine aminotransferase (ALT) =\\< 5 x upper limit of normal if liver metastases present; otherwise, then =\\< 2.5 x upper limit (within 14 days)\n* Estimated creatinine clearance by Cockcroft-Gault equation \\> 30 mL/min (within 14 days)\n* Current treatment may cause harm to the developing human fetus; for this reason women of child-bearing age must have a negative pregnancy test at screening and both women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation, and for 6 months after last dose; should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately\n* Signed informed consent approved by the Institutional Review Board prior to patient entry\n* Expansion cohort: We propose a final expansion cohort for this study in a subset of interest utilizing the recommended dosing of combination; this cohort will include patients harboring characteristics that may predict response of combination or with clinical features that proved to derive most benefit of the study combination during preclinical studies; cancers with positive BRAF (V600) mutation detected by a CLIA-certified laboratory\n\nExclusion Criteria:\n\n* Patient receiving any concurrent chemotherapy\n* Concurrent severe and/or uncontrolled medical disease including, but not limited to, ongoing or active infection requiring intravenous antibiotics, bowel obstruction\n* Symptomatic congestive heart failure (New York Heart Association \\[NYHA\\] class III or IV), or unstable angina pectoris\n* Patients who have had a myocardial infarction, transient ischemic attack, unstable angina, or cardiovascular symptoms (CVS) within 6 months before treatment\n* Presence of symptomatic pleural and/or pericardial effusion not appropriately treated\n* Prolonged corrected QT (QTc) interval (\\>= 450 msec) as calculated by Bazett's formula, or patients with a history of congenital long QT syndrome or uncorrectable electrolyte abnormalities\n* Medical and/or psychiatric problems of sufficient severity to limit full compliance with the study or expose patients to undue risk\n* Known anaphylactic or severe hypersensitivity to the study drugs or their analogs\n* Patient has failed to recover from any prior surgery within 4 weeks of study entry\n* Patient is pregnant, lactating, or breastfeeding\n* Patient has had any treatment specific for tumor control within 3 weeks of dosing with investigational drugs and cytotoxic agents, or within 2 weeks of cytotoxic agent given weekly, or within 6 weeks of nitrosoureas or mitomycin C, or within 5 half-lives of biological targeted agents with half-lives and pharmacodynamic effects lasting less than 5 days\n* Patient is not able to swallow oral medication\n* Patients receiving any medications or substances that are strong inhibitors or inducers of cytochrome P450, family 3, subfamily A, polypeptide 4 (CYP3A4) complex are ineligible\n* Patients with known K-RAS mutant (codon 12 or 13) detected by a Food and Drug Administration (FDA)-approved test in a CLIA-certified laboratory\n* Patients with BRAF WT cancers",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "BRAF NP_004324.2:p.V600X",
+    "KRAS wt Allele",
+    "Metastatic Malignant Solid Neoplasm",
+    "Stage IV Colorectal Cancer AJCC v7",
+    "Stage IVA Colorectal Cancer AJCC v7",
+    "Stage IVB Colorectal Cancer AJCC v7",
+    "Unresectable Solid Neoplasm"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

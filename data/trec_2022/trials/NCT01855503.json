@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01855503",
+  "title": "Breast Cancer Molecular Analysis Protocol",
+  "brief_summary": "This is a molecular testing study for patients with metastatic breast cancer. The purpose of this study is to find defects in the DNA of the cancer that could potentially be treated with US Food and Drug Administration (FDA)approved or investigational drugs. For example, if your cancer has a mutation in the Epidermal Growth Factor Receptor (EGFR) gene (a mutation is a change int he DNA sequence of a gene) that makes this receptor \"superactive\" a drug that inhibits this receptor may also inhibit the growth of the cancer. If this genetic defect is not present in the cancer the same drug may not work. This EGFR gene mutation based patient selection for treatment has worked in lung cancer and we are testing its value in breast cancer. What drugs may be available against particular genetic abnormalities in the context of this clinical study will change over time.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. All patients with metastatic breast cancer who are considered for further systemic therapy are eligible regardless of number of prior therapies.\n2. Patient must have a metastatic lesion that could be safely biopsied with or without image-guidance. The final arbiter to decide what lesion can be biopsied is the physician who will perform the biopsy.\n3. There is no age limit for this study. However, this study will not include children because metastatic breast cancer does not occur in children.\n4. Patients may participate in the biopsy study multiple times to repeat molecular assessment of the cancer after progression.\n5. Patients who undergo routine clinical biopsy of metastatic breast cancer are also eligible to participate in this study. When the routine biopsies are obtained for diagnostic or other purposes, additional biopsies will be taken during the same biopsy session for molecular analysis.\n\nExclusion Criteria:\n\n1\\. Known medical contraindication for needle biopsy procedure such as bleeding disorder, low platelet count, inability to provide informed consent",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Metastatic Breast Cancer",
+  "condition": [
+    "Metastatic Breast Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

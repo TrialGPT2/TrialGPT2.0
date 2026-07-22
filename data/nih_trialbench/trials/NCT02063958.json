@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT02063958",
+  "title": "Safety and Pharmacology of SNX-5422 Plus Everolimus in Subjects With Neuroendocrine Tumors",
+  "brief_summary": "Study is designed to determine the maximum tolerated dose (MTD) of SNX-5422 when given in combination with everolimus.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Males or non-pregnant, non-breastfeeding females 18 years-of-age or older.\n* Archived neuroendocrine tumor sample or biopsy sample (will also be used for genetic testing).\n* Pathologic evidence of chemo-resistant Small Cell Lung cancer (relapse \\<90 days after 1st line), chemo-sensitive Small Cell Lung Cancer (relapse \\>90 days after first line), locally advanced metastatic neuroendocrine tumor of gastro-entero, pancreatic, pulmonary (other than Small Cell Lung) or thymic origin, or advanced renal cell carcinoma for which everolimus is indicated.\n* Measurable (RECIST) indicator lesion not previously irradiated.\n* Life expectancy of at least 3 months.\n* No more than 4 prior lines of systemic anti-cancer therapy.\n* Karnofsky performance score ≥70.\n* Adequate baseline laboratory assessments, including\n\n  * Absolute neutrophil count (ANC) ≥1.5 x 109/L.\n  * WBC \\>3000/microliter\n  * Platelet count of ≥100 x 109/L.\n  * Total bilirubin level ≤1.5 times institutional upper limit of normal (ULN), alanine aminotransferase or aspartate aminotransferase ≤2 x ULN\n  * Hemoglobin ≥9 mg/dL.\n  * Creatinine \\<1.5 X upper limit of normal or estimated plasma creatinine clearance of ≥40 mL/min\n* Signed informed consent form\n* Recovered from toxicities of previous anticancer therapy\n* Subjects with reproductive capability must agree to practice adequate contraception methods.\n\nExclusion Criteria:\n\n* Subjects in whom everolimus is contraindicated.\n* Subjects with clinically significant interstitial lung disease, or obstructive disease without sufficient reserve\n* Carcinoid with hormone related symptoms\n* Neuroendocrine cancer of the thyroid or thymus.\n* Rare pancreatic neuroendocrine cancers such as, insulinomas, glucagonomas, gastrinomas.\n* Prior treatment with any Hsp90 inhibitor.\n* Prior failed treatment with mTOR inhibitors\n* CNS metastases that are symptomatic and /or requiring escalating doses of steroids.\n* Major surgery or significant traumatic injury within 4 weeks of starting study treatment.\n* Conventional chemotherapy or radiation within 4 weeks.\n* Palliative radiation within 2 weeks.\n* The need for treatment with medications with clinically-relevant metabolism by the cytochrome P450 (CYP) 3A4 isoenzyme within 3 hours before or after administration of SNX-5422\n* Screening ECG QTc interval ≥470 msec for females, ≥450 msec for males.\n* At increased risk for developing prolonged QT interval, including hypokalemia or hypomagnesemia, unless corrected to within normal limits prior to first dose of SNX-5422; congenital long QT syndrome or a history of torsade de pointes; currently receiving anti-arrhythmics or other medications that may be associated with QT prolongation.\n* Patients with chronic diarrhea or with Grade 2 or greater diarrhea despite appropriate medical management.\n* Gastrointestinal diseases or conditions that could affect drug absorption, including gastric bypass.\n* Gastrointestinal diseases that could alter the assessment of safety, including irritable bowel syndrome, ulcerative colitis, Crohn's disease, or hemorrhagic coloproctitis.\n* History of documented adrenal dysfunction not due to malignancy.\n* Known seropositive for human immunodeficiency virus (HIV) or hepatitis C virus (HCV).\n* History of chronic liver disease.\n* Active hepatitis A or B.\n* Current alcohol dependence or drug abuse.\n* Use of an investigational treatment from 30 days prior to the first dose of SNX-5422 and during the study.\n* Glaucoma, retinitis pigmentosa, macular degeneration, or any retinal changes detected by ophthalmological examination.\n* Other serious concurrent illness or medical condition.\n* Psychological, social, familial, or geographical reasons that would hinder or prevent compliance with the requirements of the protocol or compromise the informed consent process.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cancer"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with advanced or metastatic neuroendocrine tumors who have received up to four prior lines of systemic anti-cancer therapy. Both previously treated and treatment-naïve patients are eligible, as there is no minimum number of prior lines required.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 4,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility allows patients with no more than 4 prior lines of systemic anti-cancer therapy, with no minimum number specified. Patients who are treatment-naïve for advanced disease, as well as those previously treated (up to 4 lines), are eligible. Adjuvant-only patients are allowed since there is no exclusion based on prior adjuvant/neoadjuvant therapy alone."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00227539",
+  "title": "Positron Emission Tomography in Predicting Response in Patients Who Are Undergoing Treatment With Pemetrexed Disodium and Cisplatin With or Without Surgery for Stage I, Stage II, or Stage III Non-Small Cell Lung Cancer",
+  "brief_summary": "RATIONALE: Diagnostic procedures, such as positron emission tomography (PET), (done before, during, and after chemotherapy) may help doctors predict a patient's response to treatment and help plan the best treatment. Drugs used in chemotherapy, such as pemetrexed disodium and cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving combination chemotherapy after surgery may kill any tumor cells that remain after surgery.\n\nPURPOSE: This phase II trial is studying how well PET works in predicting response in patients who are undergoing treatment with pemetrexed disodium and cisplatin with or without surgery for stage I, stage II, or stage III non-small cell lung cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed non-small cell lung cancer (NSCLC)\n* Stage IB, II, IIIA, or IIIB (T4, N0-1) disease\n\n  * Staging must have been performed 4 weeks prior to study entry with a CT scan of chest, upper abdomen, and fludeoxyglucose F 18 (\\^18FDG) positron emission tomography (PET) scan\n  * Mediastinal evaluation and staging based on combination of CT scan and FDG-PET results\n* If N1 or N2 nodes are found by FDG-PET or CT scan, metastases must be ruled out by brain MRI\n* Measurable and resectable disease\n\n  * T4 lesions must be resectable\n* Eligible for curative surgery\n* No malignant pleural effusion\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nPerformance status\n\n* ECOG 0-1\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Absolute neutrophil count \u2265 1,250/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n\nHepatic\n\n* Bilirubin \u2264 1.5 times upper limit of normal (ULN)\n* AST and ALT \u2264 3.0 times ULN\n\nRenal\n\n* Creatinine clearance \u2265 45 mL/min\n\nPulmonary\n\n* Adequate pulmonary reserve to undergo surgery\n\n  * Predicted FEV\\_1 \\> 0.8 L after resection\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for 3 months after completion of study treatment\n* Able to take corticosteroids\n* Able to take folic acid or vitamin B\\_12 supplements\n* No other malignancy within the past 5 years except nonmelanoma skin cancer or noninvasive cervical cancer\n* No concurrent serious or uncontrolled disorder that would preclude study participation\n* No type I diabetes mellitus\n\n  * Type II diabetes mellitus allowed if glucose is 80-150 mg/dL\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* No concurrent immunotherapy\n* No concurrent prophylactic filgrastim (G-CSF)\n* No concurrent thrombopoiesis-stimulating agents\n\nChemotherapy\n\n* At least 5 years since prior chemotherapy\n\nEndocrine therapy\n\n* No concurrent anticancer hormonal therapy\n\nRadiotherapy\n\n* No prior radiotherapy to the chest\n* No concurrent curative or palliative radiotherapy\n\nSurgery\n\n* Not specified\n\nOther\n\n* At least 30 days since prior non-FDA-approved or investigational agents\n* At least 5 days since prior aspirin or other nonsteroidal anti-inflammatory agents (8 days for long-acting agents \\[e.g., piroxicam\\])\n* No other concurrent anticancer therapy\n* No other concurrent investigational agents",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lung Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

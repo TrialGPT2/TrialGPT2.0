@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03608566",
+  "title": "Russian Severe Asthma Registry",
+  "brief_summary": "The Russian Severe Asthma Registry is a Russian initiative to collect anonymous long-term evidence for patients with severe asthma in Russia",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients aged 12 years or older.\n\n  * Patients with confirmed diagnosis of severe asthma.\n  * Patients receiving treatment according to GINA step 5 or uncontrolled for 4 step. Uncontrolled patients are defined as having symptoms of severe asthma or frequent exacerbations .\n  * Signed informed consent.\n\nExclusion Criteria:\n\n* Patients currently participating in clinical trials at the time of enrolment\n\n  * Intermittent, mild, moderate BA, before verification of the diagnosis.\n  * COPD.\n  * Diseases of the respiratory system, such as tuberculosis, sarcoidosis, IPF, lung cancer.\n  * Vasculitis, systemic connective tissue diseases.\n  * Neoplasm.\n  * Written refusal of the patient to participate in the study after signing an informed consent.",
+  "minimum_age": "12 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients receiving step 4 and 5 treatment (according to GINA, 2017) in accordance with the uncontrolled asthma severity (J.45) in health facilities",
+  "condition": [
+    "Severe Asthma"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,40 @@
+{
+  "nctid": "NCT04433546",
+  "title": "Pemziviptadil (PB1046), a Long-acting, Sustained Release Human VIP Analogue, Intended to Provide Clinical Improvement to Hospitalized COVID-19 Patients at High Risk for Rapid Clinical Deterioration and Acute Respiratory Distress Syndrome (ARDS).",
+  "brief_summary": "This is a multicenter, randomized, double-blind, parallel group study to investigate the efficacy of pemziviptadil (PB1046) by improving the clinical outcomes in hospitalized COVID-19 patients at high risk for rapid clinical deterioration, acute respiratory distress syndrome (ARDS) and death.\n\nThe study will enroll approximately 210 hospitalized COVID-19 patients who require urgent decision-making and treatment at approximately 20 centers in the United States.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Written or witnessed verbal informed consent from patient or remote legal authorized representative (LAR) or remote family member as permitted by governing local or central Institutional Review Board (IRB)/independent Ethic Committee (IEC).\n2. Male or female 18-85 years old hospitalized COVID-19 patients (positive local SARS-CoV2 test)\n3. Receiving oxygen (O2) by face mask or nasal cannula/prongs and/or with elevated markers of cardiac injury or dysfunction (hsTnI or NT-proBNP) as assessed by local testing\n\nExclusion Criteria:\n\nSubjects will be excluded from the study if they meet any of the following criteria:\n\n1. Patients considered unsalvageable or expected to expire within 24 hours\n2. On mechanical ventilation or imminent need for mechanical ventilation expected in the next 24 hours\n3. Evidence of acute end-organ injury in 2 or more organ systems (not including cardiac or pulmonary), such as, renal, hepatic, or CNS injury\n4. Receiving another investigational therapy for treatment or prevention of COVID-19-related hypoxemic respiratory failure or ARDS other than antiviral therapy\n5. Systolic blood pressure (SBP) \\< 95 mmHg and/or diastolic blood pressure (DBP) \\< 50 mmHg or overt symptomatic hypotension during screening\n6. Resting heart rate \\> 110 BPM (beats per minute) during screening\n7. Severe chronic renal failure as measured by the estimated glomerular filtration rate (eGFR) of \\< 30 mL/min/1.73m2 using the local laboratory calculation of eGFR.\n8. Significant liver dysfunction as measured by any one of the following at screening:\n\n   * ALT (Alanine transaminase) \\> 3.0 times ULN (upper limit of normal)\n   * AST (Aspartate transaminase) \\> 3.0 times ULN\n   * Serum bilirubin \u2265 1.6 mg/dL\n9. Any in-patient surgical procedure or hospitalization (defined as \\> 23 hours) within 30 days of subject screening except for prior hospitalization for COVID-19\n10. Known hypersensitivity to study drug or any of the excipients of the drug formulation\n11. Pregnant or lactating female subjects\n12. Any other condition which, in the opinion of the Investigator, would place the subject at increased risk or would preclude obtaining informed consent or confound the objectives of study",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Respiratory Distress Syndrome",
+    "Coronavirus",
+    "Hypoxic Respiratory Failure",
+    "Hypoxemic Respiratory Failure",
+    "Respiratory Complication",
+    "Respiratory Insufficiency",
+    "Cardiac Dysfunction",
+    "Pneumonia",
+    "Pulmonary Edema",
+    "Pulmonary Inflammation",
+    "Respiratory Failure",
+    "Cytokine Storm",
+    "COVID 19",
+    "SARS-CoV-2",
+    "Cardiac Event",
+    "Cardiac Complication",
+    "Cardiac Failure",
+    "Cardiac Infarct"
+  ],
+  "overall_status": "TERMINATED"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04321096",
+  "title": "The Impact of Camostat Mesilate on COVID-19 Infection",
+  "brief_summary": "SARS-CoV-2, one of a family of human coronaviruses, was initially identified in December 2019 in Wuhan city. This new coronavirus causes a disease presentation which has now been named COVID-19. The virus has subsequently spread throughout the world and was declared a pandemic by the World Health Organisation on 11th March 2020. As of 18 March 2020, there are 198,193 number of confirmed cases with an estimated case-fatality of 3%. There is no approved therapy for COVID-19 and the current standard of care is supportive treatment.\n\nSARS-CoV-2 exploits the cell entry receptor protein angiotensin converting enzyme II (ACE-2) to access and infect human cells. The interaction between ACE2 and the spike protein is not in the active site. This process requires the serine protease TMPRSS2. Camostat Mesilate is a potent serine protease inhibitor. Utilizing research on severe acute respiratory syndrome coronavirus (SARS-CoV) and the closely related SARS-CoV-2 cell entry mechanism, it has been demonstrated that SARS-CoV-2 cellular entry can be blocked by camostat mesilate. In mice, camostat mesilate dosed at concentrations similar to the clinically achievable concentration in humans reduced mortality following SARS-CoV infection from 100% to 30-35%.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Cohort 1)\n\n* Documented COVID-19 infection as evidenced by positive PCR (or comparable clinical assay) for SARS-CoV-2\n* Less than 48 hours since time of hospital admission OR if hospital-acquired COVID-19 is suspected, less than 48 hrs since onset of symptoms\n* Adolescents and adults age \\>=18 years\n* Subject or legally authorized representative able to give informed consent\n* Admitted to hospital\n\nCohort 2)\n\n* Documented COVID-19 infection as evidenced by positive PCR (or comparable clinical assay) for SARS-CoV-2\n* One or more of the following symptoms of COVID-19 infection: fever, cough, expectoration, shortness of breath, myalgia, fatigue, or head ache\n* No more than 5 days since the beginning of symptom onset\n* Adolescents and adults age \\>=18 years\n* Subject (or legally authorized representative, for Cohort 1 only) able to give informed consent\n* Do not require immediate hospitalization (newly diagnosed COVID-19 patients who are discharged within 24 hrs of hospital admission are eligible for enrollment)\n* Must be willing to fill out a daily symptom diary\n* Must be available for a daily phone call\n* Must be willing to take their own temperature at least once a day\n\nExclusion criteria\n\n* Any condition that, in the Investigator's opinion, will prevent adequate compliance with study therapy (e.g. the patient is considered to be moribund within the next 72 hrs or has uncontrolled substance abuse that prevents adherence to study medication). Patients needing ventilator treatment are eligible to be enrolled if they fulfill the other in/exclusion criteria.\n* The following laboratory values at baseline (Day 0):\n\n  * Serum total bilirubin \u22653 ULN\n  * Estimated glomerular filtration rate (eGFR) \u226430 mL/min (based on serum creatinine)\n* Known hypersensitivity to Camostat Mesilate\n* Women who are pregnant or breastfeeding, or with a positive pregnancy test as determined by a positive urine or blood beta- human chorionic gonadotropin test during screening or women of child bearing potential\\* who are unwilling or unable to use an acceptable method of contraception (combined estrogen and progestogen hormonal contraception (oral, intravaginal or transdermal), progesteron-only hormonal contraception (oral, injectable or implantable), intrauterine device or intrauterine hormone-releasing system) to avoid pregnancy during the study. Sexual abstinence will only be accepted in cases where this reflect the usual lifestyle.",
+  "minimum_age": "18 Years",
+  "maximum_age": "110 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Corona Virus Infection"
+  ],
+  "overall_status": "COMPLETED"
+}

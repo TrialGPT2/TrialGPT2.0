@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT02127827",
+  "title": "Multiday Fully Closed Loop Insulin Delivery in Monitored Outpatient Conditions",
+  "brief_summary": "Insulin replacement therapy is absolutely required for patients with Type 1 diabetes. The insulin pump provides for continuous subcutaneous insulin infusion (CSII), which can approximate the insulin release patterns of the normal pancreas. Timely and accurate knowledge of ambient glucose levels is important for insulin dose adjustments. Typically, glucose values are measured volitionally, several times a day, using capillary \"fingerstick\" samples. In addition, glucose in the interstitial fluid can be measured automatically and continuously using implantable glucose oxidase-based sensors. Recent study showed that this continuous measurement of glucose levels allows for a fully automated \"closed-loop\" insulin replacement therapy which requires an algorithm that receives glucose data, calculates an appropriate insulin dose, and directs the pump to deliver the insulin dose.The need for development of a closed-loop insulin replacement system that integrates insulin delivery, glucose measurement, and control subsystems will present several challenges to biomedical engineers.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Subject is 18 to 70 years of age at time of screening\n2. Subject's weight is between 50 and 120 kg\n3. A clinical diagnosis of Type 1 diabetes as determined by the Investigator for a minimum of 36 months prior to enrollment\n4. Subject has ongoing use of an insulin pump \u2265 6 months prior to screening\n5. Subject has an glycated hemoglobin value \u2264 9.0% demonstrated at the time of enrollment.\n6. Subject uses a rapid-acting analogue insulin in his/her pump\n7. Patient is willing to undergo all study procedures\n\nExclusion Criteria:\n\n1. Female subject who has a positive serum pregnancy screening test, or who plans to become pregnant during the course of the study\n2. Subject has unresolved adverse skin condition, or unable to tolerate tape adhesive, in the area of sensor placement or device replacement (e.g., psoriasis, rash, Staphylococcus infection)\n3. Subject has a history of hypoglycemic seizure or hypoglycemic coma within the past 12 months\n4. Subject has a history of seizure disorder unrelated to diabetes within the past 12 months\n5. Subject has a history of myocardial infarction, unstable angina, coronary artery bypass surgery, coronary artery stenting, transient ischemic attack (TIA), cerebrovascular accident (CVA), congestive heart failure, ventricular rhythm disturbances, or thromboembolic disease within the past 6 months\n6. Subject has a presence of a cardiac pacemaker or any other device that may be sensitive to radio frequency telemetry\n7. Subject has any condition, including screening lab values that in the opinion of the Investigator may preclude him/her from participating in the study and completing study related procedures\n8. Subject is actively participating in other investigational study (drug or device)\n9. Subjects who consume alcohol daily",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "To Demonstrate That the Closed Loop System Can be Used Safely Over a Few Consecutive Days.",
+    "To Assess Effectiveness in Maintaining Patients' Glucose Levels in the Target Range of 70 to 180 mg/dl, Measured by Blood Glucose Sensor.",
+    "To Evaluate the User Experience With a Closed Loop System"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT03253744",
+  "title": "Prostate SBRT for Locally Recurrent Prostate Cancer After Prior Radiotherapy",
+  "brief_summary": "Background:\n\nProstate cancer is the second leading cause of cancer death in United States (U.S.) men. Radiation is an effective treatment for most patients with localized prostate cancer, but sometimes the tumor returns. Researchers want to see if a highly focused type of radiation can help. It is given in only 5 treatments. It is called stereotactic body radiation therapy (SBRT).\n\nObjective:\n\nTo study the maximum tolerated dose and side effects of stereotactic body radiation therapy in people with a local recurrence of prostate cancer after radiation.\n\nEligibility:\n\nMen at least 18 years old who have recurrent prostate cancer after radiation therapy and no evidence of distant metastatic disease.\n\nDesign:\n\nParticipants will be screened with blood tests, physical exam, and medical history. They may also have:\n\nMagnetic resonance imaging (MRI) scan of the prostate.\n\nPositron emission tomography (PET)/computed tomography (CT) scan. Participants will get an injection of 2-(3-{1-carboxy-5-\\[(6-18F-fluoro-pyridine-3-carbonyl)-amino\\]-pentyl}-ureido)-pentanedioic acid (18F-DCFPyL) for the PET scan. They will lie very still on their back on the scanner table.\n\nSmall samples of prostate tumor tissue will be taken by a needle through the skin or rectum to see if the cancer is in the prostate. Small metal seeds will be placed into the prostate at the same time to help guide the radiation.\n\nAbout 2 weeks later, participants will have a radiation treatment planning CT scan.\n\nParticipants will answer questions about their urine function, bowel function, erectile function, and mood.\n\nParticipants will receive SBRT. They will have 5 radiation treatments over 2 weeks.\n\nParticipants will have follow-up visits. They will have a physical exam, blood tests, and questionnaires.\n\nSix months after ending SBRT, the 18F-DCFPyL PET/CT will be repeated.\n\nParticipants will continue to have routine visits until two years after treatment is completed....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Patients must have histologically confirmed locally recurrent adenocarcinoma of the prostate after prior radiation (external beam radiation therapy (EBRT) or brachytherapy).\n* Prostate-specific antigen (PSA) failure after definitive radiation as defined by the Phoenix criteria (PSA elevation at least 2 nanograms (ng) per deciliter (dL) above post-radiotherapy nadir)\n* Age greater than or equal to 18 years.\n* Eastern Cooperative Oncology Group (ECOG) performance status less than or equal to 2 (Karnofsky greater than or equal to 60%).\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n* Patients who are receiving any other investigational agents.\n* PSA greater than or equal to 20 ng/dL if no prior 2-(3-{1-carboxy-5-\\[(6-18F-fluoro-pyridine-3-carbonyl)-amino\\]-pentyl}-ureido)-pentanedioic acid (18F-DCFPyL) scan obtained (If PSA \\> 20 and 18F-DCFPyL obtained within 3 months prior to enrollment shows no evidence of metastatic disease, subjects may be included in the study)\n* Biochemical recurrence within one year of completion of radiotherapy\n* Need for chronic anticoagulation therapy (chronic low dose aspirin is not an exclusion)\n* Pre-existing and ongoing radiation-related grade 3 bowel or bladder toxicity\n* Inflammatory bowel disease\n* Active Lupus or Active scleroderma\n* Patients with distant metastatic disease (prostate adjacent adenopathy is not an exclusion)\n* Prior prostatectomy\n* Subjects with any coexisting medical or psychiatric condition that is likely to interfere with study procedures and/or results.\n* Subjects with severe claustrophobia that is unresponsive to oral anxiolytics\n* Other medical conditions deemed by the Principal Investigator (or associates) to make the subject unsafe or ineligible for protocol procedures\n* Subjects weighing \\> 350 lbs. (weight limit for scanner table), or unable to fit within the imaging gantry\n* Serum creatinine \\> 2 times the upper limit of normal\n* Total bilirubin \\> 2 times the upper limit of normal OR in patients with Gilbert's syndrome, a total bilirubin \\> 3.0.\n* Liver transaminases (alanine aminotransferase (ALT), aspartate aminotransferase (AST) greater than 3 times the upper limit of normal\n* Patients with positive Human Immunodeficiency Virus (HIV) status and currently requiring treatment with agents known to sensitize to irradiation, such as protease inhibitors.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Prostate Cancer",
+    "Prostatic Neoplasm"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls men with locally recurrent prostate cancer after prior definitive radiotherapy, with no evidence of distant metastatic disease. There is no requirement for prior systemic therapy for advanced/metastatic disease; patients are selected based on local recurrence after radiation.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligible patients must have locally recurrent prostate cancer after prior radiation, with no mention of required prior systemic therapy for advanced/metastatic disease. Patients who have only received prior local therapy (radiation) and no systemic therapy for advanced disease are eligible. Thus, this is a first-line (1L) advanced/local recurrence setting."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00331006",
+  "title": "Rituximab to Treat Severe Hemophilia A",
+  "brief_summary": "Hemophilia A is a serious blood clotting disorder caused by a lack of factor VIII, a specialized protein needed for normal blood clotting to occur. Individuals with this disease may experience spontaneous bleeding, pain and swelling in their joints due to excess bleeding, and bruising. A common treatment for severe hemophilia A is to intravenously replace the deficient blood clotting factor; however, some individuals may develop antibodies to this replacement factor. This study will evaluate the effectiveness of rituximab at reducing the antibodies that develop in response to the replacement factor in individuals with severe hemophilia A.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Severe congenital hemophilia A\n* Documented historical inhibitor titer to factor VIII of at least 5 BU/mL\n* Inhibitor level greater than or equal to 5 BU/mL 5 to 14 days after initial factor VIII exposure during screening\n\nExclusion Criteria:\n\n* Known hypersensitivities or allergies to murine and/or humanized antibodies\n* Currently participating in investigational hemophilia studies\n* HIV infected\n* Any immunodeficiency disorder\n* Liver disease and serum ALT or AST is greater than three times the upper limit of normal, albumin is less than 2.5g/dl, and/or INR is greater than 1.7\n* Received interferon or other immunomodulatory drugs, such as steroids or cytotoxic therapy in the 30 days prior to study entry\n* History of cardiac arrhythmias, any active febrile illness, kidney insufficiency, or pulmonary infiltrates\n* Has previously received rituximab treatment\n* Currently undergoing immune tolerance therapy\n* Evidence of Hepatitis B (HBV) infection, defined as one of the following:\n\n  * HBsAg positive\n  * HBsAg negative, HBsAb negative, HBcAb positive, and HBV DNA positive\n* Participants with a high responding inhibitor (at least 5 BU/mL) first detected fewer than 12 months prior to study entry, unless the participant has failed immune tolerance therapy, defined as one of the following:\n\n  1. Failure to fulfill the criteria for full or partial success within 33 months, as defined by a factor VIII recovery greater than or equal to 66% of expected and half-life greater than or equal to 6 hours measured after a 72-hour treatment-free washout period\n  2. Failure to achieve greater than 20% reduction in inhibitor titer during each interim non-overlapping 6-month period of ITT in the absence of documented infection, with 9 months as the minimum treatment period and 33 months as the maximum possible duration of unsuccessful ITT\n  3. Withdrawal from ITT for any other reason\n* Routinely receive factor VIII concentrate for the treatment of both major and minor bleeding events\n* Has received factor VIII concentrate in the 7 days prior to study entry",
+  "minimum_age": "18 Months",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hemophilia A"
+  ],
+  "overall_status": "COMPLETED"
+}

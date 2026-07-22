@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04852497",
+  "title": "SMART Identification of Ventricular Tachycardia Isthmus",
+  "brief_summary": "Context :\n\nVentricular tachycardia (VT) are serious heart rhythm disorders which can lead to sudden death. A curative treatment for these abnormalities in the cardiac electrical conduction system is possible through an interventional electrophysiology procedure. A catheter is inserted, generally via a femoral access, and is introduced in the heart ventricles in order to collect various 3D electro-anatomical maps.\n\nThe pace-mapping technique developed in Nancy (de Chillou et al, Heart Rhythm 2014) allows the reentrant circuit underlying the VT to be identified, as well as a definition of the target zones to be ablated, using radiofrequency energy with the catheter. The pace-mapping technique consists of stimulating the ventricle from various sites within its internal surface, in order to generate different activation pathways of the myocardium. When an activation pathway is similar to the VT pathway, this means that the stimulation site is located near the pathologic zone to be ablated. The surface electrocardiogram (ECG) is used to compare activation pathways. A 3D correlation ma is then generated: the zones with high correlation (\\>90%) indicated the exit of the reentrant circuit, while rapid transition zones (several %/mm) indicate the entrance of the VT circuit. The pace-mapping technique has several limitations: (i) it requires an ECG recording of the clinical VT of the patient (spontaneous or induced at the beginning of the procedure), however it is not always possible to induce it; (ii) sometimes several VT circuits may be present, rendering the procedure of identification and ablation non-exhaustive.\n\nThe aim of this study is to analyze retrospectively electroanatomical data collected during the intervention, in order to develop a new method for identifying target zones to be ablated, and to compare the results with the conventionally used method.\n\nHypothesis :\n\nThe investigators hypothesize that alternative methods to analyze electroanatomical data (surface ECG and spatial coordinates of the pacing sites) could provide information equivalent to conventional methods (e.g. VT correlation map, VT activation maps etc\u2026) without the need for a reference recording of the clinical VT of the patient.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Ventricular tachycardia ablation between October 2014 and April 2021\n* Patient for whom electroanatomical data are available.\n* Ischemic cardiomyopathy / previous myocardial infarction\n* At least 30 points of pace-mapping during the VT procedure\n\nExclusion Criteria:\n\n* Incomplete data\n* Poor quality ECG recordings\n* Absence of ventricular tachycardia isthmus identified during the procedure",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with ischemic cardiomyopathy admitted for a procedure in the interventional electrophysiology department of the CHRU de Nancy for ventricular tachycardia ablation between October 2014 and April 2021.",
+  "condition": [
+    "Ventricular Tachycardia",
+    "Ischemic Cardiomyopathy"
+  ],
+  "overall_status": "UNKNOWN"
+}

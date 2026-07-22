@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02812225",
+  "title": "Non-blinded Data Collection Study of Concussion Using the BrainPulse(TM)",
+  "brief_summary": "The multi-center study evaluates BrainPulse recordings from subjects with a suspected or confirmed concussion to improve a concussion detection algorithm. Subjects may also consent for a 5 additional follow-ups over a 21-day period to compare the progression of change in their BrainPulse recordings.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age \\>= 5 years old\n2. Suspected or confirmed concussion by medical professional\n3. Not more than 3 days since injury/trauma event\n4. Willing and able to participate in all required study evaluations and allow access to medical testing and records\n5. Signed informed consent/assent, and/or have a legally authorized representative willing to provide informed consent on behalf of the subject\n6. Demonstrates a minimum of 3 of the following symptoms:\n\n   * Headache\n   * Pressure in head\n   * Dizziness\n   * Neck pain\n   * Fatigue/ low energy\n   * Nausea or vomiting\n   * Irritability\n   * Difficulty in concentrating/performing tasks\n   * Memory impairment\n   * Insomnia\n   * Reduced tolerance to stress\n   * Sensitivity to light\n   * Difficulty balancing\n   * Blurred vision\n   * Confusion\n   * More emotional than usual\n   * Sadness\n   * Nervous/Anxious\n   * Vacant stare\n   * Delayed verbal/motor response\n   * 'Feeling like in a fog'\n   * 'Don't feel right'\n\nExclusion Criteria:\n\n1. Wound or open laceration on the head in the area of one of the BrainPulse sensors that would impede use of the BrainPulse device\n2. Any serious medical condition that in the opinion of the medical professional would impair ability to provide informed consent/assent or otherwise disqualify a patient from participation\n3. Currently participating in or planning to participate in another clinical study during the course of the current clinical study\n4. Implantation of any medical device in head (e.g. ventriculoperitoneal shunt)",
+  "minimum_age": "5 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "patients presenting to a hospital emergency department with a mechanism of injury and clinical presentation that is consistent with concussion",
+  "condition": [
+    "Brain Concussion",
+    "Mild Traumatic Brain Injury"
+  ],
+  "overall_status": "COMPLETED"
+}

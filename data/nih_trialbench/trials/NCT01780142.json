@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT01780142",
+  "title": "Longitudinal Observational Study of Severe Asthma",
+  "brief_summary": "Background:\n\n\\- Asthma is a lung condition that causes difficulty breathing and decreased lung function. Some people with asthma have more severe disease symptoms. They may be less responsive to standard treatments such as steroids. Researchers want to compare severe asthmatics with mild or moderate asthmatics or people without asthma over a long period. This information may help identify new treatments for people whose asthma is not well controlled by standard medications.\n\nObjectives:\n\n\\- To compare severe asthmatics with mild or moderate asthmatics, and healthy volunteers, to study the progression and outcomes of the disease.\n\nEligibility:\n\n* Individuals at least 18 years of age who have been diagnosed with asthma for at least 1 year.\n* Healthy volunteers at least 18 years of age.\n\nDesign:\n\n* This study will involve an initial visit to the NIH Clinical Center for all participants. Selected participants may be asked to return for repeat visits over a number of years. The test results from participants with asthma will be compared with those from the healthy volunteers.\n* All participants will be screened with a physical exam and medical history.\n* Participants may (but will not necessarily) have the following tests at each visit:\n* Complete medical history and physical exam\n* Blood, urine, sputum, and nasal cell samples\n* Breath tests and heart and lung function tests\n* Six-minute walk test to measure ability to exercise\n* Imaging studies such as chest x-rays, bone density scans, and sinus scans\n* Allergy skin testing\n* Vocal cord exam\n* Overnight sleep study\n* Participants may remain on the study for as long as they are willing to participate and do not develop health problems that will interfere with the study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* All volunteer subjects must be at least 18 years of age and must be able to provide informed, written consent for participation in this study. Subjects will be recruited irrespective of age, sex, race or ethnicity. Eligibility in the study is determined on the basis of the following inclusion and exclusion criteria.\n\nINCLUSION CRITERIA - ASTHMATICS:\n\n* Subjects must be over 18 years of age.\n* Subjects must have had a diagnosis of asthma, as defined by the American Thoracic Society, for at least one year to enter this study.\n* Subjects must have a history of reversible airflow obstruction, as defined by a positive response to inhaled bronchodilators or a positive methacholine bronchoprovocation challenge by ATS criteria. Severe, refractory asthma will be defined by the 2000 ATS workshop consensus criteria. Refractory asthmatics will meet one or both of the major criteria and at least two minor criteria as outlined in the Protocol. This definition is applicable only to patients in whom (1) other conditions have been excluded, (2) exacerbating factors have been optimally treated, and (3) poor adherence does not appear to be a confounding issue. Compliance or medication adherence will be assessed at the initial and subsequent visits by questioning the subjects about their medication use (self-report).\n* If asthmatic subjects do not fulfill the criteria for severe asthma, they will be classified as mild to moderate asthmatics.\n* Subjects must have the ability to provide informed consent.\n\nINCLUSION CRITERIA - NON-ASTHMATICS:\n\n* Subjects must be at least 18 years of age without a clinical diagnosis of asthma.\n* Subjects must have no evidence of obstructive airway disease, as defined by ATS criteria on spirometry, and a negative methacholine bronchoprovocation challenge.\n* Subjects must have the ability to provide informed consent.\n* Subjects will be matched to asthmatics by gender and age (+/- 10 years).\n\nEXCLUSION CRITERIA:\n\n* Any concurrent condition (medical, social or behavioral) that, in the opinion of the research team, would preclude or confound acquisition or interpretation of data or delivery of care.\n* Subjects must not be pregnant",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Recruitment of subjects will be aimed at selecting our study population of interest, severe asthmatics of both genders and all races over the age of 18 years. Mild and moderately severe asthmatics, as well as age (+/- 10 years) and gender matched healthy volunteers (non-asthmatics), will be enrolled for comparison to severe asthmatics. Asthmatics with other concomitant conditions, e.g. other lung diseases such as COPD, which may confound the data collected, may be excluded from the study.",
+  "condition": [
+    "Asthma"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a longitudinal observational study of severe, mild/moderate asthmatics and healthy volunteers. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, as this is not an interventional oncology trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study includes asthmatic patients (severe, mild, or moderate) and healthy volunteers, with no mention of prior systemic therapy for advanced disease. There are no eligibility criteria related to lines of therapy for advanced/metastatic disease, as this is not an oncology trial."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "nctid": "NCT02900521",
+  "title": "Population-based Brest Stroke Registry",
+  "brief_summary": "The registry is the main objective exhaustive list of cases validated stroke brain on a geographical area defined to calculate an incidence.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnostic validated for one of the following pathologies:\n* Ischemic stroke,\n* Non-traumatic intracranial hematoma\n* Cerebral venous thrombosis Diagnostic after December 31, 2007 Age \\> 15 years on the date of the diagnostic Patient domiciled at the time of the diagnostic in one of the 79 communes defined beforehand\n\nExclusion Criteria:\n\n* Age \u2264 15 years\n* Validated diagnosis (see below, \u00a7 4.2.2) of aneurysmal subarachnoid hemorrhage cerebrovascular\n* Diagnosis made before 1 January 2008\n* Unconfirmed diagnosis\n* Patient domiciled outside the previously defined area of residence",
+  "minimum_age": "15 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Diagnostic validated for one of the following pathologies:\n\n* Ischemic stroke,\n* Non-traumatic intracranial hematoma\n* Cerebral venous thrombosis Diagnostic after December 31, 2007 Age \\> 15 years on the date of the diagnostic Patient domiciled at the time of the diagnostic in one of the 79 communes defined beforehand",
+  "condition": [
+    "Cerebral (CVAs)",
+    "Ischemic Cerebrovascular Accident",
+    "Stroke",
+    "Brain Ischemia",
+    "Brain Hemorrhage",
+    "Ischemic Stroke",
+    "Hemorrhagic Stroke",
+    "Cerebrovascular Disorders",
+    "Transient Ischemic Attack (TIA)"
+  ],
+  "overall_status": "RECRUITING"
+}

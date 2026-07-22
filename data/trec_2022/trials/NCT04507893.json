@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04507893",
+  "title": "Comparison Between Positive and Negative COVID-19 Pneumonia",
+  "brief_summary": "In the late 2019 a new Coronavirus was identified as the cause of a group of atypical interstitial pneumonia cases in Wuhan, a city in the Chinese province of Hubei. In February 2020, the World Health Organization designated COVID-19 disease, which stands for Coronavirus 2019 disease. Following the progressive spread of the infection in other countries of the world, WHO declared the Pandemic on 11 March 2020. Italy was the first European country involved in the spread of the infection and among those with the highest number of victims. The Coronavirus responsible for COVID-19 has, as its main target organ, the respiratory system, being able to determine a serious acute respiratory syndrome similar to that of the cases found during the SARS epidemic of 2003: hence the name of the virus as SARS-CoV-2. The diagnosis of SARS-COV-2 infection is made by direct detection by PCR of viral RNA on different biological materials from patients with suspicious symptoms, and the first level diagnostic test is generally the nasopharyngeal swab. However, even if the specificity of the nasopharyngeal swab is high, its sensitivity can be affected by technical causes (sampling mode), as well as by intrinsic factors related to the method. The purpose of the study is to identify the clinical, laboratory and imaging characteristic which are similar or which can differentiate the hospitalized patients affected by COVID-19 pneumonia (with positive PCR on naso-pharyngeal swab) and patients with pneumonia with negative PCR for COVID-19. To do this, the investigators will compare the clinical, laboratory and imaging characteristics between interstitial pneumonia secondary to SARS-COV-2 infection, confirmed by molecular biology investigations (viral RNA research by PCR on nasopharyngeal swab) and cases of interstitial pneumonia negative to the nasopharyngeal swab.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nAll consecutive patients referred to the Emergency Unit of the \"V. Cervello\" Hospital, in Palermo, Italy, for clinical symptoms suggestive of suspected COVID-19 infection.\n\nIn details, we consider patients referred for one or more of the following manifestations: respiratory symptoms, fever, taste or smell loss.\n\nTo be included their records must include:\n\n* detailed clinical history\n* radiological findings (High-resolution CT, HRCT)\n* results of viral RNA research for SARS-COV2, by PCR on nasopharyngeal swab, repeated two times (at the admission and again after 48 hours from the admission in the Emergency Unit)\n* laboratory results regarding routine hemato-chemical assays\n* oxygen therapy\n* treatment used.\n\nExclusion Criteria:\n\n* age \\<18 years\n* incomplete medical records with respect to the parameters sought",
+  "minimum_age": "18 Years",
+  "maximum_age": "95 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Retrospective, multicenter study, conducted on patients with interstitial pneumonia, admitted, consecutively, to the Internal Medicine I Unit of the \"Villa Sofia - Cervello\" Hospitals of Palermo, and two other Units dedicated to Patients affected with COVID-19, in the same hospital, from March 15, 2020 to May 31, 2020.",
+  "condition": [
+    "Covid19",
+    "Interstitial Pneumonia"
+  ],
+  "overall_status": "COMPLETED"
+}

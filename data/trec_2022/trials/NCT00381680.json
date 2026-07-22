@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT00381680",
+  "title": "Low-Dose or High-Dose Vincristine and Combination Chemotherapy in Treating Young Patients With Relapsed B-Cell Acute Lymphoblastic Leukemia",
+  "brief_summary": "This randomized phase III trial is studying low-dose vincristine to see how well it works compared with high-dose vincristine when given together with different combination chemotherapy regimens in treating young patients with intermediate-risk relapsed B-cell acute lymphoblastic leukemia. Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) and giving the drugs in different ways and different doses may kill more cancer cells..",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosis of acute lymphoblastic leukemia (ALL)\n\n  * Bone marrow with \\> 25% L1 or L2 lymphoblasts (M3 marrow)\n\n    * Patients with \\> 25% L3 marrow lymphoblasts and/or evidence of c-myc translocation are not eligible (considered Burkitt's or mature B-cell leukemia)\n* Intermediate-risk relapsed disease, meeting 1 of the following criteria:\n\n  * Bone marrow relapse \u2265 36 months after initial diagnosis (defined as M3 marrow after previous remission from ALL)\n  * Combined bone marrow and extramedullary (CNS\\* and/or testicular\\*\\*) relapse \u2265 36 months after initial diagnosis\n  * Isolated extramedullary (CNS\\* and/or testicular\\*\\*) relapse \\< 18 months after initial diagnosis\n* The following subtypes are not allowed:\n\n  * T-lineage ALL\n  * Mature B-cell (Burkitt's) leukemia (defined as L3 morphology and/or evidence of c-myc translocation)\n  * Philadelphia-chromosome positive disease\n* No Down syndrome (trisomy 21)\n* Shortening fraction \\>= 27% by echocardiogram OR ejection fraction \\>= 50% by radionuclide angiogram\n* Bilirubin \\< 3.0 mg/dL\n* Not pregnant\n* Fertile patients must use effective contraception\n* No history of peripheral neuropathy \\>= grade 3 within the past month\n* No toxicity (i.e. peripheral neuropathy) \\>= grade 3 attributable to vincristine within the past month\n* At least 5 days since prior intrathecal chemotherapy\n* No prior hematopoietic stem cell or marrow transplantation\n* No prior cranial radiotherapy \\> 1200 cGy (for patients with CNS relapse)\n* No concurrent stem cell transplant\n* No concurrent alternative therapy\n* No concurrent itraconazole in patients receiving vincristine\n* No concurrent intensity-modulated radiotherapy",
+  "minimum_age": "1 Year",
+  "maximum_age": "29 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "B-cell Childhood Acute Lymphoblastic Leukemia",
+    "L1 Childhood Acute Lymphoblastic Leukemia",
+    "L2 Childhood Acute Lymphoblastic Leukemia",
+    "Intermediate Risk Recurrent Childhood Acute Lymphoblastic Leukemia"
+  ],
+  "overall_status": "COMPLETED"
+}

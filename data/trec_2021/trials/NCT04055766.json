@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04055766",
+  "title": "A Diagnostic Test on DeepDoc-an AI-based Decision Support System",
+  "brief_summary": "DeepDoc is an AI-based decision support system for the early etiology diagnosis of neurological diseases using clinical data points from patients admitted to hospital within 24 hours.This study aims to evaluate whether the diagnosis of the DeepDoc AI-based decision support system is better than the doctor's initial diagnosis by a multi-center, superiority diagnostic study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Patients with clinical symptoms or signs suspected of stroke\uff0cmeningitis/encephalitis, vertigo and headache.\n2. Neurological examination results and imaging changes within 24 hours of admission.\n\nExclusion Criteria:\n\nPatients discharged, transferred to the hospital, or died within 24 hours after admission.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "4000 consecutive patients suspected of stroke\uff0cmeningitis/encephalitis, vertigo and headache\uff081000 cases of each disease) are admitted to the department of neurology that consented to involvement in the study.",
+  "condition": [
+    "Stroke",
+    "Headache",
+    "Vertigo",
+    "Meningitis/Encephalitis"
+  ],
+  "overall_status": "UNKNOWN"
+}

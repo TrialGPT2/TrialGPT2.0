@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT01212055",
+  "title": "Apheresis of Patients With Immunodeficiency",
+  "brief_summary": "Background:\n\n\\- Gene therapy is being investigated as a possible treatment for individuals with immunodeficiency diseases or other conditions that make it difficult to fight off infection. Gene therapy avoids problems with donor identification and possible rejection of bone marrow transplant by using the patient s own modified blood cells to help treat the disease. Researchers are interested in collecting stem cells from the blood of individuals with immunodeficiency diseases in order to use the cells to develop potential gene therapy treatments.\n\nObjectives:\n\n\\- To collect blood stem cells from patients with immunodeficiency diseases tto test our ability to correct the defects of these cells in the test tube.\n\nEligibility:\n\n* Individuals between 18 and 40 years of age with immunodeficiency diseases.\n* Individuals with human immunodeficiency virus (HIV) will not be able to participate in this study.\n\nDesign:\n\n* Participants will provide an initial blood sample for disease screening (such as hepatitis B and C, syphilis, or viruses like the Epstein-Barr virus, herpes simplex virus, or toxoplasmosis) and to check kidney and liver function.\n* Starting 5 days before blood donation, participants will receive daily injections of a drug called G-CSF (granulocyte colony stimulating factor, or filgrastim), which pushes stem cells out of the bone marrow and into the bloodstream. Participants will receive the injections at the National Institutes of Health Clinical Center.\n* On day 5, participants will have a single leukapheresis procedure to collect the stem cells from the blood.\n* No additional treatment will be provided as part of this protocol. The cells that are collected will be used fore experiments in the lab and will not be used to treat individuals with these diseases.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "-INCLUSION CRITERIA - PATIENT:\n\n1. Individuals age 18-40 years.\n2. Diagnosis of DOCK8 deficiency, LAD-1, or GATA2 Deficiency:\n\n   -DOCK8 deficiency\n   * Homozygous or compound heterozygous mutations in the DOCK8 gene.\n\n     -LAD-1\n   * Less than 10% CD18 expression on the neutrophil surface.\n\n     -GATA2 Deficiency\n   * Deleterious mutation of GATA2 Gene\n3. Serum creatinine \\<1.5 mg/dL.\n4. Total Bilirubin \\< 3mg/dl, ALT and AST \\< 5X upper limit of normal.\n5. Ability to give informed consent.\n6. Adequate venous access for peripheral apheresis, or consent to use a temporary central venous catheter for apheresis.\n7. Individuals of childbearing age must have a negative urine pregnancy test within one week prior to beginning filgrastim or filgrastim biosimilar administration.\n\nEXCLUSION CRITERIA- PATIENT:\n\n1. HIV infection.\n2. Chronic hepatitis B or hepatitis C virus infection.\n3. History of psychiatric disorder which may compromise compliance with protocol, or which does not allow for appropriate informed consent.\n4. Active infection that is not responding to antimicrobial therapy.\n5. Pregnant Individuals may not participate per OHSRP SOP.\n6. Any Individual who is breastfeeding as the effects of filgrastim or filgrastim biosimilar product on infants is not known.\n7. Sexually active individuals capable of becoming pregnant who are unable or unwilling to use effective form(s) of contraception during the 10 days surrounding filgrastim or filgrastim biosimilar product administration and apheresis procedure(s). Effective forms of contraception include one or more of the following: intrauterine device (IUD), hormonal (birth control pills, injections, or implants), tubal ligation/hysterectomy, partner s vasectomy, barrier methods, (condom, diaphragm, or cervical cap), or abstinence. Males on the protocol must use an effective form of contraception at study entry.\n8. Presence of active malignancy in another organ system other than the hematopoietic system.\n9. Individuals with active pulmonary disease.\n10. History of hypertension that is not controlled by medication, stroke, or severe heart disease. Individuals with symptomatic angina will be considered to have severe heart disease and will not be eligible.\n11. Other medical contraindications to stem cell donation (i.e., severe atherosclerosis, autoimmune disease, iritis or episcleritis, deep venous thrombosis, cerebrovascular accident).\n12. Thrombocytopenia (platelets less than 50,000 per microliter) at baseline evaluation.\n13. Individuals receiving experimental therapy or investigational agents.\n14. Sensitivity to filgrastim, to E. Coli derived products, or to a biosimilar recombinant protein to filgrastim.\n15. Individuals must test negative for transfusion-transmissible infectious agents, including hepatitis B (HBsAg), hepatitis C (anti-HCV), HIV (anti-HIV-1/2).",
+  "minimum_age": "18 Years",
+  "maximum_age": "40 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with DOCK8 deficiency, LAD-1, and GATA2 Deficiency who are between 18 and 40 years of age meeting the eligibility criteria will be considered for the protocol.",
+  "condition": [
+    "LAD-1",
+    "DOCK8",
+    "GATA2 Deficancy"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic apheresis study enrolling patients with immunodeficiency diseases to collect stem cells for laboratory research. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention or restrict prior systemic therapy for advanced disease. The study is not interventional and does not treat advanced malignancy, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

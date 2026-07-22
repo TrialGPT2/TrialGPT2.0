@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT00001302",
+  "title": "A Phase I Study of Infusional Chemotherapy With the P-Glycoprotein Antagonist PSC 833",
+  "brief_summary": "The clinical study entitled \"A Phase I Study of Infusional Chemotherapy with the P-glycoprotein Antagonist PSC 833\" seeks to determine the maximum tolerated dose for a proposed P-glycoprotein antagonist, PSC 833. PSC 833 is a cyclosporine analogue which is purportedly non-nephrotoxic and non-immunosuppressive. It has been shown in in-vitro studies to enhance chemosensitivity as well as cyclosporine and to be far better at increasing intracellular drug accumulation than the concentrations of verapamil which are clinically achievable. The purpose of this study is to define the maximum tolerated dose in combination with vinblastine, and to determine how the drug affects the pharmacokinetics of vinblastine. PSC 833 will most likely reduce the clearance of vinblastine, as reported for the parent compound, cyclosporine. This effect will increase the area under the curve (AUC) of vinblastine, may increase toxicity, and requires that the escalation scheme for PSC 833 be a conservative one. Initially, a 120 hour infusion of vinblastine will be given alone. Then 8 days of PSC 833 will follow to allow monitoring of adverse effects of PSC 833 alone. This first cycle of vinblastine will be given in the absence of PSC 833; in second and subsequent cycles both agents will be combined. Escalation of the PSC 833 will continue until a target concentration is reached, or until the maximum tolerated dose is reached. Clinical responses will be monitored in order to provide the best possible medical care to our patients.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Biopsy proven metastatic cancer, for whom no better therapy exists. All patients are eligible. Enrollment of patients with kidney, breast, ovarian cancers, and lymphomas is encouraged.\n\nA life expectancy of at least 16 weeks, and a performance status (Karnofsky scale) of 70% or greater. Patients without rapidly growing disease.\n\nAny prior therapy except for previous bone marrow transplantation.\n\nWBC greater than 3,000/mm3 and ACG greater than 1,000/mm3; platelets greater than 100,000/mm3.\n\nCreatinine Clearance greater than 50 ml/min; bilirubin less than 1.5 mg/dl; SGOT less than 70u/L; SGPT less than 80u/L.\n\nA signed informed consent and geographic accessibility for the patient to return for follow up and treatment.\n\nNo history of brain metastases.\n\nNot currently receiving treatment with the following agents or any other agent known to significantly interact with cyclosporine, and treatment cannot be discontinued, or changed to another therapeutically equivalent allowable drug: acetazolamide, barbiturates, corticosteroids, diltiazem, erythromycin, fluconazole, ketoconazole, nicardipine, phenothiazines, phenytoin, rifampin, sulfonamides, trimethoprim, verapamil, tamoxifen, progesterone, quinine, quinidine, or amiodarone.\n\nNo symptomatic peripheral neuropathy (grade 2 or greater arising from prior vinca alkaloid therapy).\n\nNo positive serology for HIV.\n\nNo ongoing pregnancy or unwillingness to practice adequate contraception.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Breast Cancer",
+    "Kidney Neoplasm",
+    "Lymphoma",
+    "Neoplasm Metastasis",
+    "Ovarian Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

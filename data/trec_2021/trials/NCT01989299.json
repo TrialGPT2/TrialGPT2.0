@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01989299",
+  "title": "Ventricular Tachyarrhythmia Detection by Implantable Loop Recording in Patients With Heart Failure and Preserved Ejection Fraction",
+  "brief_summary": "Heart failure with preserved ejection fraction (HFPEF) is a large medical problem, for which no drug or device has a recommendation in current heart failure guidelines. Sudden cardiac death is suggested as the most common cause of death in HFPEF patients, although data is sparse. Use of an Implantable Loop Recorder (ILR) may be useful in patients with HFPEF to evaluate the incidence of sustained ventricular tachyarrhythmias. If ventricular tachyarrhythmias are seem frequently, treatment with an Implantable Cardioverter Defibrillator (ICD) may be an option in the future.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nClinical criteria:\n\n1. Age \\>18 years\n2. Written informed consent\n3. HF with moderate to severe symptoms NYHA II or III\n4. Hospitalization or emergency room visit for HF or symptom relief with diuretics within 12 months\n5. Sinus rhythm or AF\n\nEchocardiographic criteria:\n\n1. LVEF \\>40%\n2. Left atrial size (volume \u226534 mL/m2 or LA parasternal diameter \u226545), or left ventricular hypertrophy (septal thickness or posterior wall thickness \u226511 mm) or LV diastolic dysfunction (E/e' \u226513 or mean e' septal and lateral wall \\<9 cm/s).\n\nBiomarker criteria:\n\n1. BNP \\>100ng/L or NT-pro-BNP\\>400ng/L if sinus rhythm\n2. BNP \\>300ng/L or NT-pro-BNP\\>1200ng/L if atrial fibrillation\n\nExclusion Criteria:\n\n1. Patients unwilling or unable to sign informed consent\n2. Patients with a pacemaker or ICD\n3. Indication for ICD therapy according to the ESC guidelines\n4. Life expectancy of less than one year\n5. Significant coronary artery disease or myocardial infarction \\< 3 months\n6. Complex congenital heart disease\n7. Pregnancy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with heart failure with preserved ejection fraction (HFpEF)",
+  "condition": [
+    "Heart Failure With Preserved Ejection Fraction (HFpEF)"
+  ],
+  "overall_status": "COMPLETED"
+}

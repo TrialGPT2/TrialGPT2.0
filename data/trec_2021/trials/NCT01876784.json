@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01876784",
+  "title": "Evaluation of Efficacy, Safety of Vandetanib in Patients With Differentiated Thyroid Cancer",
+  "brief_summary": "Primary Objective:\n\nTo determine the efficacy (as assessed by progression-free survival \\[PFS\\]) of vandetanib when compared to placebo in participants with differentiated thyroid cancer that is either locally advanced or metastatic who are refractory or unsuitable for radioiodine therapy.\n\nSecondary Objectives:\n\n* To determine the efficacy of vandetanib when compared to placebo in this participant population as assessed by efficacy variables including duration of response (DOR), objective response rate (ORR), change in tumour size (TS) and overall survival (OS).\n* To evaluate the pharmacokinetics (PK) of vandetanib in this participant population and potentially investigate any influence of participant demography and pathophysiology on vandetanib PK.\n* To demonstrate an improvement in time to worsening of pain (TWP) in participants treated with vandetanib when compared to placebo in this participant population.\n* To evaluate the safety and tolerability of vandetanib treatment in this participant population.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Provision of informed consent to participate in the study as well as provision of informed consent to provide a sample of a previously obtained archival tumor biopsy.\n* Female or male aged 18 years and older with previously confirmed histological diagnosis of locally advanced or metastatic differentiated (excluding minimally invasive follicular) thyroid cancer not amenable to surgical resection, external beam radiotherapy or local therapy.\n* Measurable disease defined as at least one lesion, not irradiated within 12 weeks of the date of randomization, that can be accurately measured at baseline.\n* Participants must have experienced progression within 14 months and be RAI-refractory/resistant or unsuitable for RAI.\n* Thyroid-stimulating hormone (TSH) suppression below 0.5 mU/L is required.\n* World Health Organization (WHO) or Eastern Cooperative Oncology Group (ECOG) Performance status 0-2.\n* Negative pregnancy test (urine or serum) for female participants of childbearing potential.\n\nExclusion Criteria:\n\n* Inadequate organ function as defined by: (1) Alanine aminotransferase (ALT), aspartate aminotransferase (AST), or alkaline phosphatase (ALP) greater than 2.5\\*upper limit of normal (ULN), or greater than 5.0\\*ULN if judged by the Investigator to be related to liver metastases. (2) Serum bilirubin greater than 1.5\\*ULN. This criterion does not apply to participants with known Gilbert's Disease. (3) Creatinine clearance \\<50 mL/min (calculated by Cockcroft-Gault formula).\n* Risk of prolonged interval between Q and T (QT) on an electrocardiogram (ECG) corrected for heart rate (QTc) as defined by: (1) Current therapy with any medication known to be associated with Torsades de pointes or potent inducers of cytochrome CYP3A4. (2) History of QT prolongation. (3) Congenital long QT syndrome. (4) QT interval corrected for heart rate by the Bazett's method (QTcB) correction unmeasurable or greater than 480 ms on screening ECG.\n* Previous therapy with approved or investigational tyrosine kinase or anti- vascular endothelial growth factor (VEGF) receptor inhibitors or targeted therapies (e.g. multi-targeted kinase inhibitors such as sorafenib, AMG-706, sunitinib, pazopanib, lenvatinib).\n* RAI therapy within 12 weeks prior to first dose of study drug, and radiation therapy other than RAI, including external beam, if not completed prior to randomization.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Differentiated Thyroid Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

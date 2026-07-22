@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03179306",
+  "title": "Cervix Image Sharing Protocol (CISP)",
+  "brief_summary": "The Clinical Epidemiology Unit in the Clinical Genetics Branch of the Division of Cancer Epidemiology, NCI has a strong interest in fostering cervical cancer prevention solutions for all kinds of settings, including lowresource ones that rely on development of robust, low-cost screening and triage tools. Therefore, to support development of algorithms for cervical image recognition software, NCI seeks to share digital cervical images and accompanying clinical data from our large epidemiological studies on HPV and cervical cancer screening with interested and qualified image analysis researchers. To accommodate the many researchers that are interested, we have created this standard protocol to describe a unified process for sharing deidentified cervical images and accompanying de-identified clinical data from the following NCI studies: Costa Rican Natural History Study of HPV and Cervical Neoplasia , ASCUS LSIL Triage Study-- ALTS , SUCCEED and Costa Rica Vaccine Trial .",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* This protocol will include de-identified images and clinical data from NCI studies.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "collection of images and data from other NCI studies",
+  "condition": [
+    "Cervical Cancer",
+    "Cervical Abnormalities"
+  ],
+  "overall_status": "COMPLETED"
+}

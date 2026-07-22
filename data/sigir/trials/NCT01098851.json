@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01098851",
+  "title": "Oxygen Saturation Monitoring During Surgery",
+  "brief_summary": "Patients with Obstructive Sleep Apnea (OSA) have cyclical patterns of lower blood oxygen during sleep because of repeated episodes of upper airway obstruction that cause their breathing to stop. When these patients have surgery, anesthetic drugs may worsen these patterns of lower blood oxygen. This study monitors ten patients at high risk for OSA and ten patients at low risk for OSA during surgery. Patterns of lower oxygen saturations should arise in the high risk group but not the low risk group.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age greater than 21 years\n* Patients scheduled for a procedure that requires analgesia and/or sedation by any route (intravenous, intramuscular, oral, epidural or intrathecal).\n* Patients with an anticipated length of sedation greater than or equal to one hour.\n* Patients in the ASA category I through III.\n* Patients who only receive propofol, benzodiazepines, and opioids.\n\nExclusion Criteria:\n\n* Age less than 21 years\n* Patients whose room air oxygen saturation is \\<90%\n* Patients receiving post-operative positive airway pressure support\n* Previous allergic/contact reactions to adhesives\n* CHF\n* Moderate or severe valvular disease\n* TIA/CVA\n* Carotid stenosis or endarterectomy\n* Anemia (HCT if available \\< 30%)\n* Pulmonary hypertension\n* Dialysis\n* Pregnancy\n* Patients unable to give informed consent",
+  "minimum_age": "21 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Primary care hospital",
+  "condition": [
+    "Sleep Apnea, Obstructive"
+  ],
+  "overall_status": "COMPLETED"
+}

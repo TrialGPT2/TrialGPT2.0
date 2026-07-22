@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03381573",
+  "title": "Long-term Observational Study of the Safety of Roflumilast",
+  "brief_summary": "This is a retrospective cohort study comparing COPD patients aged 40 years and older with new exposure to roflumilast with up to 5 unexposed (ie, not roflumilast-exposed) COPD controls matched by propensity score (PS), age, sex, and year of cohort entry. The study is using electronic healthcare databases in the US (Military Health System database), Germany (GER) (German Pharmacoepidemiological Research Database), and Sweden (SWE) (national databases including healthcare, death, and demographics data). The main objective of this study is to evaluate the long-term safety of roflumilast in the treatment of COPD with main focus on the primary outcome of all-cause mortality and evaluation of potential safety issues identified during the clinical trials of roflumilast. Crude mortality and incidence rates will be compared between roflumilast exposed and unexposed COPD patients and adjusted hazard ratios (HRs) of the primary and secondary outcomes will be calculated.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Exposed Cohort selection\n\nInclusion Criteria:\n\n* Have one or more prescription(s) of roflumilast with the date of first prescription/dispensation defined as the Cohort Entry Date\n* Have active data in the respective database(s) for at least 1 year prior to the Cohort Entry Date\n* Be at least 40 years old at Cohort Entry Date\n* Have a diagnosis of COPD or chronic bronchitis prior to the Cohort Entry Date (databases with outpatient diagnoses) or (databases without outpatient diagnoses) either a hospital diagnosis of COPD or chronic bronchitis prior to the Cohort Entry Date or a proxy for such indication based on prescription data.\n\nNon-Exposed Cohort selection Patients meeting the following inclusion criteria belong in the Non-Exposed Cohort and are eligible as Matched Non-Exposed controls. Each patient in the Non-exposed Cohort selected as matched exposed patient is assigned as a Cohort Entry Date the date of the first roflumilast prescription of the matched exposed patient.",
+  "minimum_age": "40 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "unselected COPD patients aged 40 years and older, reflecting the use of roflumilast in a real-life setting.",
+  "condition": [
+    "COPD"
+  ],
+  "overall_status": "COMPLETED"
+}

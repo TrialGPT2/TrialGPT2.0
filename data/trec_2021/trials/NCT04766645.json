@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04766645",
+  "title": "ACE2 Gender Differences in Stroke With COVID-19",
+  "brief_summary": "The new coronavirus SARS-CoV-2, causes the COVID-19 infection, which showed a form of neurovirulence involving the Central and peripheral Nervous Systems \\[Baig et al, 2020\\]. In a mouse model for human ACE2 expression, the virus entered the brain mainly through the olfactory bulb pathway \\[Netland et al, 2008\\], with an encephalic invasion uniformly lethal even with low viral doses and without lung involvement. The death of the animal was reasonably related to neuronal dysfunction/death in cardiorespiratory bone marrow centers, while the absence of ACE2 prevented severe encephalopathy.\n\nMen has a highly frequency of severe and lethal COVID-19, and the observed gender difference could be related to the regulation of ACE2 receptor expression.\n\nThe ACE2 gene is encoded by a region of the X chromosome that escapes inactivation, so that women have an increased expression of this protein. The process of inactivation of the X chromosome includes DNA methylation with a decrease in the expression of genes that are affected by methylation. In This way an epigenetic mechanism could modulate the expression of ACE2 in a gender-specific way determining its levels and consequently its protective role.\n\nAlso in this regulatory context of ACE2 expression the role of microRNA (miRNA) could be very important. In fact, the untranslated 3' region (UTR) of ACE2 presents a binding sequence for miRNA miR-200c-3p that has been found at high levels of expression in cellular models infected with H5N1 influenza virus \\[Liu et al, 2017\\].\n\nIn addition, high plasma levels of miR-200c-3p were found in patients with severe pneumonia while ACE2 was reduced suggesting a regulatory role of this miRNA in ACE2 receptor expression \\[Liu et al, 2017\\]. Deficiency of 25 (OH)D is common among elderly and obese men (during winter and spring), highlighting the sex-specific difference observed in COVID-19 infection \\[La Vignera et al, 2020\\]. This vitamin, envolved in physical recovery \\[Siotto et al, 2019\\], and in the pathway of the renin angiotensin system, seems important to be assessed in ex-COVID-19 patients with stroke outcomes in admission and at the end of the rehabilitation process.\n\nThe study will consist in:\n\n* Epigenetic study: evaluation of methylation of ACE2 promoter and miR-200c-3p levels.\n* Biochemical analysis: the evaluation of levels of angiotensin II, ACE2 and Vitamin D.\n* Correlation between rehabilitative outcome and biological markers",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* stroke patients (hemorrhagic or ischemic) documented through Magnetic Resonance Imaging (MRI) or Computed Tomography (CT);\n* NeuroCOVID19 stroke patients with double nasopharyngeal swab negative after 24 hours for SARS-Cov2.\n* latency time within 6 months after stroke event;\n* sufficient cognitive and language skills to understand the instructions related to the administration of the assessment scales and to sign informed consent;\n\nExclusion Criteria:\n\n* behavioral and cognitive disorders that may interfere with the therapeutic activity;\n* other orthopaedic or neurological complications that may interfere with the rehabilitation protocol;\n* inability to understand and sign informed consent;",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with first ischemic stroke (of ischemic or hemorrhagic aetiology) in subacute phase (within six months after the acute event), hospitalized at the participating intensive-extensive rehabilitation centers will be included",
+  "condition": [
+    "Neurologic Manifestations"
+  ],
+  "overall_status": "COMPLETED"
+}

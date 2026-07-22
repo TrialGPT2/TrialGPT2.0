@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04517630",
+  "title": "Renal Biomarkers in AKI and COVID-19",
+  "brief_summary": "Severe pneumoniae related to Coronavirus Disease (COVID-19), had a high in-hospital mortality; this condition are worst in subjects with acute kidney disease (AKI); conditioning increased mortality, days of assisted mechanical ventilation (AMV), increased nosocomial infections and high costs. We need many studies for determinated the risk factors for AKI in subjects with COVID-19.\n\nThis study pretends identify the incidence of AKI in subjects with severe pneumoniae by COVID-19, describe the role of some biomarkers in the physiopathology of AKI-COVID-19; and determine the evolution of urinary biomarkers during hospitalization, like neutrophil gelatinase-associated lipocalin (NGAL), tissue inhibitor of metalloproteinases-2 (TIMP-2), insulin-like growth factor binding protein-7 (IGFBP7), and interleukin-6 (IL-6) and the progression of viruria of Severe Acute Respiratory Syndrome (SARS) related to CoronaVirus 2 (CoV2) in subjects with or without AKI.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Subjects over 18 years of age.\n* Subjects admitted with a diagnosis of probable SARS-CoV-2 pneumonia.\n* Subjects with a diagnosis of SARS-CoV-2 pneumonia confirmed by Real-time quantitative-Polymerase Chain Reaction (qRT-PCR).\n* Subjects with qRT-PCR negative for SARS-CoV-2, but who meet clinical and radiological criteria for COVID-19, and no other causes have been identified.\n\nExclusion Criteria:\n\n* Pregnant women\n* Incomplete medical records.\n\nElimination criteria:\n\n* Patients who die within the first 24 hours of entering the institute.\n* Patients discharged for any reason not considered death within the first 48 hours, such as voluntary discharge or transfer to other health institutions.\n* Patients who during their hospitalization report a positive PCR for other non-respiratory viruses without identifying SARS-CoV-2\n* Patients who withdraw their consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Older adults were recruited, with a diagnosis of COVID-19 confirmed by PCR, in their first 48 hours of hospitalization that meet severity criteria, with 5 to 7 degrees of severity according to the WHO classification.",
+  "condition": [
+    "Coronavirus Infection",
+    "Covid19",
+    "SARS (Severe Acute Respiratory Syndrome)",
+    "AKI"
+  ],
+  "overall_status": "COMPLETED"
+}

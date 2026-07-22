@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT03494673",
+  "title": "Prediction of WMH in Migraine Using a BOLD-CVR Map",
+  "brief_summary": "Brain white matter hyperintensities (WMHs) are prevalent in migraineurs, of which the mechanism is still unclear. The investigators aimed to test the spatial association between areas with reduced cerebrovascular reactivity (CVR) to hypercapnic stimuli and consequent development of WMHs.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Migraineurs(patients) :\n\n   * age 18-50 years\n   * migraine with or without aura as defined by the third edition of the International Classification of Headache Disorders (ICHD-3 beta)\n   * migraine duration \\> 6 months\n   * episodic migraine feature headache (\\< 15 attacks/m)\n   * not any preventive medications for migraine\n2. Control:\n\n   * age 18-50 years\n   * no headache disorder requiring painkillers within the past year\n   * no more than moderate intensity of headache within the past year\n   * no headache disorder other than Infrequent episodic tension-type headache as defined by the ICHD-3 beta\n\nExclusion criteria:\n\n* chronic migraine within last month (\u226515 attacks/m)\n* medication overuse headache as defined by ICHD-3 beta\n* other comorbid disease that may affect vascular function (Hypertension, diabetes, hyperlipidemia, cerebral infarction, smoking etc)\n* can not breath 20 L for 1 minute because of basal cardiopulmonary disease (chronic obstructive pulmonary disease, heart failure etc)\n* a disease that can be exacerbated by elevated PCO2 in blood (Interstitial lung disease, amyotrophic lateral sclerosis etc)\n* predicted to be unable to write the headache diary due to cognitive decline\n* contraindications to MRI\n* pregnancy\n* refusal to informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "50 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Controls and migraineurs who visited to a single university hospital",
+  "condition": [
+    "Migraine"
+  ],
+  "overall_status": "UNKNOWN"
+}

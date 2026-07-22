@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01953900",
+  "title": "iC9-GD2-CAR-VZV-CTLs/Refractory or Metastatic GD2-positive Sarcoma and Neuroblastoma",
+  "brief_summary": "The purpose of this study is to find the largest safe dose of GD2-T cells (also called iC9-GD2-CAR-VZV-CTLs) in combination with a varicella zoster vaccine and lymohodepleting chemotherapy. Additionally, we will learn what the side effects of this treatment are and to see whether this therapy might help patients with advanced osteosarcoma and neuroblastoma. Because there is no standard treatment for recurrent/refractory osteosarcoma and neuroblastoma at this time or because the currently used treatments do not work fully in all cases, patients are being asked to volunteer to take part in a gene transfer research study using special immune cells.\n\nThe body has different ways of fighting infection and disease. No single way seems perfect for fighting cancers. This research study combines two different ways of fighting cancer: antibodies and T cells. Antibodies are types of proteins that protect the body from infectious diseases and possibly cancer. T cells, also called T lymphocytes, are special infection-fighting blood cells that can kill other cells, including cells infected with viruses and tumor cells. Both antibodies and T cells have been used to treat patients with cancers. They have shown promise, but have not been strong enough to cure most patients.\n\nInvestigators have found from previous research that a new gene can be put into T cells that will make them recognize cancer cells and kill them. Investigators now want to see if a new gene can be put in these cells that will let the T cells recognize and kill sarcoma and neuroblastoma cells. The new gene is called a chimeric antigen receptor (CAR) and consists of an antibody called 14g2a that recognizes GD2, a protein that is found on sarcoma and neuroblastoma cells (GD2-CAR). In addition, it contains parts of the CD28 and OX40 genes which can stimulate T cells to make them live longer.\n\nInvestigators have found that CAR-T cells can kill some of the tumor, but they don't last very long in the body and so the tumor eventually comes back. T cells that recognize the virus that causes chicken pox, varicella zoster virus (VZV), remain in the bloodstream for many years especially if they are stimulated or boosted by the VZV vaccine. Investigators will therefore insert the GD2-CAR gene into T cells that recognize VZV. These cells are called iC9-GD2-CAR-VZV-specific T cells but are referred to as GD2-T cells for simplicity.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\nProcurement:\n\n* Diagnosis of relapsed or refractory osteosarcoma OR relapsed or refractory high risk neuroblastoma not responsive to standard treatment.\n* Either previously infected with varicella zoster virus(VZV; chicken pox) or previously vaccinated with VZV vaccine\n* Karnofsky/Lansky score of greater than or equal to 50\n* Informed consent explained to, understood by and signed by patient/guardian. Patient/guardian given copy of informed consent\n\nTreatment:\n\n* Diagnosis of relapsed or refractory osteosarcoma OR relapsed or refractory high risk neuroblastoma not responsive to standard treatment.\n* Recovered from the acute toxic effects of all prior chemotherapy\n* Karnofsky/Lansky score of greater than or equal to 50\n* Bilirubin less than or equal to 3x upper limit of normal, AST less than or equal to 5x upper limit of normal, Serum creatinine less than or equal to 2x upper limit of normal, Hgb greater than or equal to 7.0 g/dl, ANC\\>500/uL, platelets \\> 50,000/uL\n* Pulse oximetry of greater than or equal to 90% on room air\n* Sexually active patients must be willing to utilize one of the more effective birth control methods for 6 months after the CTL infusion. Male partner should use a condom.\n* Available autologous transduced cytotoxic T lymphocytes with greater than or equal to 20% expression of GD2 CAR and killing of GD2-positive targets greater than or equal to 20% in cytotoxicity assay\n* Informed consent explained to, understood by and signed by patient/guardian. Patient/guardian given copy of informed consent\n\nExclusion Criteria:\n\nProcurement:\n\n\u2022 Known primary immune deficiency or HIV positivity\n\nTreatment:\n\n* Severe intercurrent infection\n* Known primary immune deficiency or HIV positivity\n* Pregnant or lactating\n* History of hypersensitivity reactions to murine protein-containing products\n* Known allergy to VZV vaccine",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Osteosarcoma",
+    "Neuroblastoma"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

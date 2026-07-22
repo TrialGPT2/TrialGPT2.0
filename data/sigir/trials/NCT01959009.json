@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01959009",
+  "title": "High Frequency Oscillatory Ventilation Combined With Intermittent Sigh Breaths: Effects on Blood Oxygenation and Stability of Oxygenation",
+  "brief_summary": "Background:\n\nVentilator induced lung injury (VILI) remains a problem in neonatology. High frequency oscillatory ventilation (HFOV) provides effective gas exchange with minimal pressure fluctuation around a continuous distending pressure and therefore small tidal volume. Animal studies showed that recruitment and maintenance of functional residual capacity (FRC) during HFOV (\"open lung concept\") could reduce lung injury.\n\n\"Open lung HFOV\" is achieved by delivering a moderate high mean airway pressure (MAP) using oxygenation as a guide of lung recruitment. Some neonatologists suggest combining HFOV with recurrent sigh-breaths (HFOV-sigh) delivered as modified conventional ventilator-breaths at a rate of 3/min. The clinical observation is that HFOV-sigh leads to more stable oxygenation, quicker weaning and shorter ventilation. This may be related to improved lung recruitment. This has however to our knowledge not been tested in a clinical trial using modern ventilators.\n\nPurpose, aims:\n\n* To compare HFOV-sigh with HFOV-only and determine if there is a difference in oxygenation expressed as a/A-ratio and/or stability of oxygenation expressed as percentage time with oxygen saturation outside the reference range.\n* To provide information on feasibility and treatment effect of HFOV-sigh to assist planning larger studies. We hypothesize that oxygenation is better during HFOV-sigh.\n\nMethods:\n\nInfants at 24-36 weeks corrected gestational age already on HFOV are eligible. Patients will be randomly assigned to HFOV-sigh (3 breaths/min) followed by HFOV-only or vice versa for 4 alternating 1-hours periods (2-treatment, double crossover design, each patient being its own control). During HFOV-sigh set-pressure will be reduced to keep MAP constant, otherwise HFOV will remain at pretrial settings. Outcome will be calculated from normal clinical parameters including pulx-oximetry and transcutaneous monitoring of oxygen and carbon-dioxide partial pressures.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Infants at 24-36 weeks corrected gestational age\n* Already ventilated with high frequency ventilation\n* Requiring FiO2=21%-70% to maintain adequate oxygen saturation.\n* Clinical stable\n\n  o i.e. ventilated on current settings for more than just a few hours with stable but not necessarily normalized blood gases or transcutaneous values and oxygen requirement.\n* Parent(s) or guardian able and willing to provide informed consent\n\nExclusion Criteria:\n\n* Major congenital cardiovascular or respiratory abnormalities.\n* The attending neonatologist responsible for the baby considers one of the ventilation modes unsuitable for the infant.\n* Poor skin integrity precluding use of transcutaneous monitoring.\n* Lack of parental signed written informed consent.\n* Parents under 18 years of age.",
+  "minimum_age": "24 Weeks",
+  "maximum_age": "44 Weeks",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Respiratory Distress Syndrome, Newborn",
+    "Bronchopulmonary Dysplasia",
+    "Ventilator Induced Lung Injury"
+  ],
+  "overall_status": "UNKNOWN"
+}

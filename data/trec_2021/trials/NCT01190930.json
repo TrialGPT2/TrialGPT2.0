@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT01190930",
+  "title": "Risk-Adapted Chemotherapy in Treating Younger Patients With Newly Diagnosed Standard-Risk Acute Lymphoblastic Leukemia or Localized B-Lineage Lymphoblastic Lymphoma",
+  "brief_summary": "This partially randomized phase III trial studies the side effects of different combinations of risk-adapted chemotherapy regimens and how well they work in treating younger patients with newly diagnosed standard-risk acute lymphoblastic leukemia or B-lineage lymphoblastic lymphoma that is found only in the tissue or organ where it began (localized). Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving more than one drug (combination chemotherapy), giving the drugs in different doses, and giving the drugs in different combinations may kill more cancer cells.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* B-ALL patients must be enrolled on AALL08B1 or APEC14B1 (if open for the classification of newly diagnosed ALL patients) prior to treatment and enrollment on AALL0932\n\n  * Note: B-LLy patients are not eligible for AALL08B1, and can enroll directly onto AALL0932\n* B-ALL patients must have an initial white blood cell count \\< 50,000/uL\n* Patients must have newly diagnosed National Cancer Institute (NCI) Standard Risk B-ALL or B-LLy Murphy stages I or II; patients with Down syndrome are also eligible\n\n  * Note: for B-LLy patients with tissue available for flow cytometry, the criterion for diagnosis should be analogous to B-ALL; for tissue processed by other means (i.e. paraffin blocks), the methodology and criteria for immunophenotypic analysis to establish the diagnosis of B-LLy defined by the submitting institution will be accepted\n* All patients and/or their parents or legal guardians must sign a written informed consent\n* All institutional, Food and Drug Administration (FDA), and NCI requirements for human studies must be met\n\nExclusion Criteria:\n\n* With the exception of steroid pretreatment (defined below) or the administration of intrathecal cytarabine, patients must not have received any prior cytotoxic chemotherapy for either the current diagnosis of B-ALL or B-LLy or for any cancer diagnosed prior to initiation of protocol therapy on AALL0932\n\n  * Patients receiving prior steroid therapy may be eligible for AALL0932\n* Patients with central nervous system 3 (CNS3) leukemia\n\n  * CNS status must be known prior to enrollment; (Note: the CNS status must be determined based on a sample obtained prior to administration of any systemic or intrathecal chemotherapy, except for steroid pretreatment); B-LLy patients with CNS3 disease are not eligible for this protocol or the COG HR ALL protocol; it is recommended that intrathecal cytarabine be administered at the time of the diagnostic lumbar puncture; this is usually done at the time of the diagnostic bone marrow or venous line placement to avoid a second lumbar puncture; this is allowed prior to registration; systemic chemotherapy must begin within 72 hours of the first dose of intrathecal therapy\n* B-ALL patients with testicular leukemia are not eligible for AALL0932\n* For B-LLy patients the following additional exclusion criteria apply:\n\n  * T-lymphoblastic lymphoma\n  * Morphologically unclassifiable lymphoma\n  * Absence of both B-cell and T-cell phenotype markers in a case submitted as lymphoblastic lymphoma\n  * CNS3-positive disease or testicular involvement\n  * M2 (5% - 25% blasts) or M3 (\\> 25% blasts) marrow\n  * Female patients who are pregnant are ineligible\n  * Lactating females are not eligible unless they have agreed not to breastfeed their infants\n  * Female patients of childbearing potential are not eligible unless a negative pregnancy test result has been obtained\n  * Sexually active patients of reproductive potential are not eligible unless they have agreed to use an effective contraceptive method for the duration of their study participation",
+  "minimum_age": "1 Year",
+  "maximum_age": "30 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Lymphoblastic Leukemia",
+    "Adult B Lymphoblastic Lymphoma",
+    "Ann Arbor Stage I B Lymphoblastic Lymphoma",
+    "Ann Arbor Stage II B Lymphoblastic Lymphoma",
+    "Childhood B Acute Lymphoblastic Leukemia",
+    "Childhood B Acute Lymphoblastic Leukemia With t(9;22)(q34.1;q11.2); BCR-ABL1",
+    "Childhood B Lymphoblastic Lymphoma",
+    "Down Syndrome",
+    "Hypodiploid B Acute Lymphoblastic Leukemia",
+    "Philadelphia Chromosome Positive"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

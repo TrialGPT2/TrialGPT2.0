@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03807414",
+  "title": "Development of a Web-based Multicenter Registry on the Use of oXiris Membrane for EBPTs in Critically Ill Patients",
+  "brief_summary": "The use of extracorporeal blood purification therapies (EBPT) is becoming increasingly widespread worldwide in everyday clinical practice, particularly in the critical care setting. Nonetheless, most of the clinical trials aimed at exploring the effect of EBPT on patients' long-term outcomes have failed to demonstrate consistent results regarding 28 day- or hospital- mortality rates. The aim of this observational prospective registry is to evaluate if there is a cluster of critically ill patients that mostly benefits from extracorporeal blood purification therapies with oXiris membrane.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* critically ill patients in the ICU\n* treatment with oXiris\n\nExclusion Criteria:\n\n* age \\< 18 years",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All critically ill patients undergoing EBPT with oXiris membrane in the enrolling centers will be prospectively observed.\n\nAlthough acute kidney injury will be mostly present among the enrolled population, it will be not strictly required as an inclusion criterion. Similarly, although sepsis will be frequently observed, the systemic inflammatory state leading to multiorgan dysfunction and supported by these extracorporeal treatments might have several different etiologies, such as ischemia-reperfusion, severe acute pancreatitis, intoxication, etc. (i.e. \"sepsis-like syndromes\").",
+  "condition": [
+    "Critical Illness",
+    "Acute Kidney Injury",
+    "Sepsis",
+    "Systemic Inflammatory Response Syndrome"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

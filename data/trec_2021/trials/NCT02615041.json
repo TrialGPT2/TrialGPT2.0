@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02615041",
+  "title": "The Pharmacodynamics of Meropenem in Patient With Ventilator-associated Pneumonia",
+  "brief_summary": "The study was a randomized three-way crossover study. Each subject received meropenem in three regimens at room temperature consecutively: (i) bolus injection of 1 g of meropenem over 10 min every 8 h for 24 h, (ii) 3-h infusion of 1 g of meropenem via an infusion pump at a constant flow rate every 8 h for 24 h, and(iii) 3-h infusion of 2 g of meropenem via an infusion pump at a constant flow rate every 8 h for 24 h.\n\nClinical and laboratory data such as Age,Sex, Body weight, Electrolyte, Vital signs, APACHE II score, BUN, Cr, Blood culture will be collected.\n\nNine patients will be enrolled in this study. After completion of the meropenem therapy for 3 days in this study, all patients will receive other sensitive antibiotics to eradicate their bacterial infections.\n\nMeropenem pharmacokinetic studies were carried out during administration of the third dose of each regimen (16 to 24 h after the start of each regimen). Blood samples (approximately 5 ml) were obtained by direct venipuncture at the following times: before (time zero) and 10 and 30 min and\n\n1, 1.5, 2, 2.5, 3.5, 4, 4.5, 5, 6, and 8 h after the third dose of each regimen.\n\nThe concentrations of meropenem were determined by reverse-phase high-performance liquid chromatography.\n\nConcentration of meropenem in plasma will be simulated in Monte Carlo technique (Computer model) to get PK/PD index (40%T\\>MIC) and reported to % PTA(Probability Target Attainment) and %CFR (Cumulative Faction Response)",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* The patients were eligible for the study if they met the following criteria:\n\n  1. older than 18 years\n  2. clinical suspicion of VAP, defined by a new and persistent infiltrate on chest radiography associated with at least one of the following-purulent tracheal secretions, temperature of 38.3 celsius or higher, or a leukocyte count higher than 10000.\n\nExclusion Criteria:\n\n* Patients were excluded from the study if they were pregnant or in circulatory shock (which was defined as a systolic blood pressure of 90 mmHg and poor tissue perfusion) or had documented hypersensitivity to meropenem or an estimated creatinine clearance(determined by the Cockcroft-Gault method) of 60 ml/min.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Ventilator-Associated Pneumonia"
+  ],
+  "overall_status": "COMPLETED"
+}

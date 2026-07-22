@@ -1,0 +1,39 @@
+{
+  "nctid": "NCT00520130",
+  "title": "Chemotherapy and Unrelated Donor Stem Cell Transplantation for Patients With Cancers of the Blood and Immune System",
+  "brief_summary": "Background:\n\nMajor problems with stem cell transplantation (SCT) for cancer treatment are a lack of suitable donors for patients without a human leukocyte-antigen (HLA) tissue-matched sibling and graft-versus-host disease (GVHD), a serious side effects of immune-suppressing chemotherapy that is given to bring the cancer under control before SCT. In GVHD, the patients immune system attacks the transplanted donor cells.\n\nThis study will try to improve the results of SCT from unrelated HLA-matched donors using targeted immune-depleting chemotherapy to bring the cancer under control before transplantation and to lower the chance of graft rejection, followed by reduced-intensity transplant chemotherapy to make the procedure less toxic.\n\nObjectives:\n\nTo evaluate the safety and effectiveness of targeted immune-depleting chemotherapy followed by reduced-intensity transplant chemotherapy in patients with advanced cancers of the blood and immune system.\n\nTo evaluate the safety and effectiveness of two different drug combinations to prevent GVHD. Both regimens have been successful in preventing GVHD, but they work by different mechanisms and affect the rebuilding of the immune system after the transplant.\n\nEligibility:\n\nPeople 18 to 74 years of age with advanced or high-risk cancers of the blood and immune system who do not have a suitable HLA-matched sibling.\n\nDesign:\n\nAll patients receive chemotherapy before transplant to treat the cancer and suppress immune function.\n\nAll patients receive a conditioning regimen of cyclophosphamide for 4 days and fludarabine for 4 days before SCT to prepare for the transplant.\n\nPatients are randomly assigned to one of two combination drug treatments to prevent GHVD as follows:\n\n* Group 1: Tacrolimus starting 3 days before SCT and continuing for 6 months, plus methotrexate on days 1, 3, 6, and 11 post-SCT, plus sirolimus starting 3 days before the SCT and continues for 6 months following SCT.\n* Group 2: Alemtuzumab for 4 days starting 8 days before SCT, plus cyclosporine starting 1 day before SCT and continuing for 6 months.\n\nPatients receive the donors stem cells and immune cells 2 days after completing the conditioning regimen.\n\nPatients are followed at the clinic regularly for the first 6 months after SCT, and then less often for at least 5 years. Some visits may include bone marrow aspirates and biopsies, blood draws, and other tests to monitor disease status.\n\nA skin biopsy, oral mucosa biopsy, and saliva collection are done to study chronic GVHD.\n\n...",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* ELIGIBILITY CRITERIA RECIPIENT ON STANDARD CARE THERAPY:\n* The patient is 18-74 years of age.\n* The patient has a potentially suitable 8/8 donor if they are between the ages of 69-74 years of age or a potentially suitable 8/8 or 7/8 unrelated donor(s) in the National Marrow Registry or Other Available Registry if they are between the ages of 18-74.\n* The patient currently does not meet the protocol s eligibility/enrollment criteria for any reason.\n* There is a high likelihood that the patient, in the opinion of the principal investigator (PI) or lead associate investigator (LAI), will meet the protocols eligibility/enrollment criteria to proceed to transplant after standard therapy is completed.\n* The patient or legal guardian is able to give informed consent.\n\nEXCLUSION CRITERIA RECIPIENT ON STANDARD CARE THERAPY:\n\n* Human immunodeficiency virus (HIV) infection. There is theoretical concern that the degree of immune suppression associated with the treatment may result in progression of HIV infection.\n* Pregnant or lactating. Patients of childbearing potential must use an effective method of contraception. The effects of the chemotherapy, the subsequent transplant and the medications used after the transplant are highly likely to be harmful to a fetus. The effects upon breast milk are also unknown and may be harmful to the infant.",
+  "minimum_age": "18 Years",
+  "maximum_age": "74 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Myelodysplastic Syndrome",
+    "Hodgkin's Lymphoma",
+    "Non-Hodgkin's Disease",
+    "Acute Leukemia",
+    "Multiple Myeloma"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with advanced or high-risk cancers of the blood and immune system who are candidates for allogeneic stem cell transplantation from unrelated donors. The protocol does not specify a required number of prior systemic therapies for advanced disease, and eligibility is based on transplant candidacy rather than prior lines of therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on having advanced or high-risk hematologic malignancy and suitability for unrelated donor transplant, without specification of prior lines of systemic therapy for advanced disease. The protocol does not mention whether adjuvant-only patients are eligible or excluded, and no minimum or maximum number of prior lines is defined."
+    }
+  ]
+}

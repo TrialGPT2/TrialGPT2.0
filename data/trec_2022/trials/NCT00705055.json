@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT00705055",
+  "title": "Face Anthropometric Pattern Recognition Technology for Computer Aided Diagnosis of Human Genetic Disorders.",
+  "brief_summary": "The hypothesis to be tested: After the construction of a database of anthropometric measurements, the system would extract important features of a given facial surface and be able to match it with existing morphometric figures. A given combination of normal and abnormal measurements will open a \"probable diagnosis\" and a list of \"differential diagnosis\" that will be expressed as percent of matching in a descendent order to the examiner.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* all newborn infants born at the Carmel Medical Center following parental consent, and at Soroka Medical Center.\n\nExclusion Criteria:\n\n* No parental consent; Facial deformation not related to chromosomal or genetic anomalies; babies transferred to the neonatal intensive care unit that need ventilatory support.",
+  "minimum_age": "1 Hour",
+  "maximum_age": "2 Weeks",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Newborn infants born at Carmel Medical Center or at Soroka Medical Center",
+  "condition": [
+    "Genetic Disorders"
+  ],
+  "overall_status": "COMPLETED"
+}

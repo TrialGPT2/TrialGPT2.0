@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00310245",
+  "title": "BASTA Study on STI in HIV Infected Patients",
+  "brief_summary": "This is a single center, independent study. The primary objective is to compare efficacy and safety of continuing a conventional HAART in chronically infected HIV patients with a therapeutic strategy based on long term, immunologically driven treatment interruptions. Evaluation will be based on clinical, immunological and virological response.\n\nPatients will be randomized in a ratio 1:2 to one of the two treatment arms:\n\nControl group continuing the ongoing therapy STI group performing long term CD4 guided structured treatment interruptions In the STI arm patients will stay off therapy until their CD4 count will drop \\< 400 cells/mcL. At that time point patients will resume the HAART regimen they were assuming before STI and will continue HAART until they CD4 count will raise \\> 800 cells/mcL and their HIV-RNA will drop below the detection limit of 50 copies/ml. When both the CD4 count and the viral load will be within these pre-set values they will stop therapy again. There is no limit to the number of interruptions and re-start cycles during the study period The study is powered to evaluate equivalence between the two strategies under the assumption of a failure proportion in the control arm at each time point not greater than 5% and a maximum allowed difference of 15%.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\ni. Age \\> 17 years ii. Informed consent signed iii. Effective ongoing treatment (HIV-RNA \\< 50 copies/ml). Treatment must be based on any triple drug therapy. Patients must be on the same steady therapy for at least 3 months.\n\niv. Current CD4 cell count above 800 cells/\uf06dL\n\nExclusion Criteria:\n\ni. Childbearing or breastfeeding. Women of childbearing potential will be asked to adopt effective contraceptive methods or behaviors ii. Any ongoing grade 4 (WHO) AE or laboratory abnormality with the exclusion of cholesterol, triglycerides for which a grade 3 (AHA) level will be considered an exclusion criteria.\n\niii. Previous use of immunomodulatory agents",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "HIV Infection"
+  ],
+  "overall_status": "COMPLETED"
+}

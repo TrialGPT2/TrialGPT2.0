@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT00923221",
+  "title": "Collection of Blood From Patients With Prostate Cancer",
+  "brief_summary": "Background:\n\n* It is not fully understood why prostate cancer in some men becomes androgen-independent (no longer responds to anti-androgen medication), but genetics likely plays an important role.\n* Genes contain the hereditary information that is passed down from parents to children. Although everyone has the same set of genes, individuals can have different forms of the same gene.\n* Differences in genes may explain, at least in part, why some people develop a more aggressive form of prostate cancer than others.\n\nObjectives:\n\n-To obtain blood samples from patients with prostate cancer to try to identify gene differences associated with progression to the androgen independent state.\n\nEligibility:\n\n-All participants participating in NCI prostate cancer protocols.\n\nDesign:\n\n* Participants with prostate cancer are evaluated in the NCI s Medical Oncology Clinic.\n* Blood samples are collected at the initial visit or at follow-up visits.\n* DNA (genetic material) and white blood cells are extracted from these samples to be used for genotyping and establishment of cell lines.\n* Gene variations are correlated with prostate cancer prognosis and prognostic indicators.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIndividuals 18 years of age and older are eligible.\n\nIndividuals with a diagnosis of prostate cancer are eligible.\n\nEXCLUSION CRITERIA:\n\nChildren are not eligible.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "Primary clinical",
+  "condition": [
+    "Cancer Of Prostate",
+    "Prostate Cancer",
+    "Prostatic Neoplasms",
+    "Metastatic Prostate Cancer",
+    "Prostate"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic biospecimen collection protocol enrolling all patients with prostate cancer, regardless of prior therapy. There are no restrictions on prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes all individuals with a diagnosis of prostate cancer, with no mention of prior therapy requirements or restrictions. Patients who have received only adjuvant/neoadjuvant therapy, as well as those with any number of prior lines for advanced disease, are eligible."
+    }
+  ]
+}

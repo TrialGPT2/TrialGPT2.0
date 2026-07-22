@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT00001244",
+  "title": "Immune Regulation in Patients With Common Variable Immunodeficiency and Related Inborn Errors of Immunity (IEI)",
+  "brief_summary": "This study aims to understand the causes and progression of Common Variable Immunodeficiency (CVID) and related inborn errors of immunity (IEI). These are conditions where the immune system does not function properly, leading to frequent infections and other complications such as gastrointestinal inflammation, lung and liver disease, autoimmune conditions, and an increased risk of certain cancers. By studying patients with CVI and related immune disorders, we hope to develop better ways to diagnose, treat, and prevent complications associated with these conditions.\n\nPatients diagnosed with CVID or related immune disorders must be referred by their physician and medical records reviewed by the study team to confirm eligibility to participate in this study. Once enrolled, participants will undergo various tests, including blood draws, physical exams, and imaging studies like CT scans to track changes over time. We may collect samples such as blood, urine, stool, or saliva for research purposes. If a surgical procedure or biopsy is performed because it is medically necessary, we may collect an additional sample for research testing. Family members of patients may be asked to provide blood samples for comparison. Some tests may be done remotely if participants or family members cannot travel to the study site.\n\nWho Can Participate\n\n* Patients diagnosed with CVI or related IEI, such as X-linked agammaglobulinemia, Blau Syndrome or Yao Syndrome.\n* Participants must be at least 2 years old.\n* Family members of patients may include parents, siblings, grandparents, children, aunts, uncles, and cousins.\n* Pregnant women already enrolled in the study will continue to participate, but new pregnant participants will not be enrolled.\n\nPotential Risks and Benefits\n\n* Risks: Blood draws may cause discomfort, bruising, or infection. Apheresis may cause dizziness, nausea, or muscle cramps; this procedure is to collect specific cells in the blood and is infrequently done on this protocol. Extra biopsies during clinically indicated procedures may increase the risk of complications; they will only be collected after the medically necessary biopsies are taken and if it is safe to collect any extra biopsies.\n* Benefits: Participants may not receive direct medical benefits, but the study will contribute to a better understanding of CVID and related conditions, potentially leading to improved treatments.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Must have a verifiable diagnosis of common variable immune deficiency as defined by a decrease both in IgG and at least one other Ig isotype to below two standard deviations of normal control levels OR B-cell immunodeficiencies related to CVI (defined as selective IgA deficiency, selective IgG isotype deficiency, agammaglobulinemia, and hypogammaglobulinemia associated with Epstein-Barr virus infection), or hypogammaglobulinemia associated with other related inborn errors of immunity. This includes patients with a defined diagnosis of Blau or Yao Syndrome.\n* Must be 2 years old or greater.\n* Patients with repeated infections and suspected of having an inborn error of immunity.\n* Patients must be referred by their primary medical care provider.\n* On investigator s discretion, unaffected family members (mother, father, siblings, children, grandparents, aunts, uncles, and first cousins) may be asked for the provision of blood or buccal specimens for research purposes.\n* Patients who are lactating, may be eligible and will only undergo tests and procedures, and/or receive medications for which data exists that proves that they are minimal risk to the child.\n* Pregnant women will not be newly enrolled onto this protocol, however existing patients who become pregnant while on study will remain on study, as literature about pregnancy in CVI patients is sparse and outside providers have minimal knowledge about managing CVI during pregnancy. Pregnant women will only undergo tests and procedures, and/or receive medications for which data exists that proves that they are minimal risk to the fetus. Pregnant unaffected relatives will not be enrolled in this study).\n* All patients must be willing to have research samples stored for future studies and/or other research purposes.\n* NIH staff and family members of study team members may be enrolled in this study as this population may meet study criteria. Neither participation nor refusal to participate as a subject in the research will have an effect, either beneficial or adverse, on the participant s employment or position at the NIH. Every effort will be made to protect participant information, but such information may be available in medical records and may be available to authorized users outside of the study team in both an identifiable and unidentifiable manner. The NIH investigator will provide and request that the NIH staff member review the Frequently Asked Questions (FAQs) for Staff Who are Considering Participating in NIH Research and the Leavy Policy for NIH Employees Participating in NIH Medical Research Studies (NIH Policy Manual 2300-630-3).\n\nEXCLUSION CRITERIA:\n\n* Presence of other medical illnesses that would preclude individuals from undergoing routine diagnostic testing or testing for immunologic features of immunodeficiency.\n* Presence of a condition or treatment, such as HIV, cytotoxic chemotherapy or malignancy, that in the investigator s opinion could interfere with evaluation of the condition under study.\n* Pregnancy at the time of enrollment.\n* Inability of an adult participant to provide informed consent for themselves (decisionally impaired adult).",
+  "minimum_age": "2 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "General population - Physician referral required",
+  "condition": [
+    "XLA",
+    "CVID",
+    "Yao Syndrome",
+    "Blau Syndrome"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational study enrolling patients with CVID or related inborn errors of immunity, as well as unaffected family members, to study immune regulation. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced or metastatic disease, nor do they specify any requirements or exclusions based on prior lines of therapy. This is an observational study of immune disorders, not a cancer treatment trial."
+    }
+  ]
+}

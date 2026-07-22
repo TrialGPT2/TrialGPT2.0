@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01641679",
+  "title": "PET Evaluation of Recurrent Differentiated Thyroid Cancer",
+  "brief_summary": "After initial treatment of differentiated thyroid cancer patients (DTC) are followed by a blood test, a biomarker called thyroglobulin, in order to detect a possible recurrence. Nowadays patients are treated 'blindly' with high dose radioactive iodine to treat a suspected recurrence. However, the scan made after therapy to verify the effect of the treatment shows that in up to 50% the treatment could be considered as futile.\n\n124I - a radioactive isotope - in combination with whole body PET became recently available for use in the follow-up of DTC. This could make it possible before the therapy with high dose radioactive iodine to determine the extensiveness of the disease and whether effect of the therapy could be expected. Additionally, recurrent DTC lesions that do not accumulate iodine can be found without the futile treatment with 131I. FDG-PET (another PET modality) is able to detect these lesions. The value of FDG-PET before 131I treatment however has not been tested.\n\nThe combination of these two diagnostic tools, 124I-PET and FDG-PET, has a potential to allow earlier and better restaging and selection for treatment",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with a history of differentiated thyroid cancer\n* After complete thyroidectomy and ablation of functional remnants with 131I.\n* Planned for blind high dose 131I treatment based on biochemically suspected recurrence, defined as a Tg-level above 2.0 ng/ml.\n* Ultrasonography of the neck performed \\< 2 months prior to inclusion.\n\nExclusion Criteria:\n\n* Age \\< 18 years\n* Pregnancy\n* Incapacitated subjects\n* Contrast enhanced CT performed \\< 4 months prior to inclusion\n* I-131 therapy performed \\< 12 months prior to inclusion\n* Indication for other therapy modality (ie. surgery in case of a positive ultrasonography, radiotherapy, embolization or chemotherapy)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "100 patients with a history of DTC treated with total thyroidectomy and ablation who now have a suspicion of recurrence outside the neck based on a raised Tg and a negative neck ultrasound",
+  "condition": [
+    "Thyroid Neoplasms",
+    "Differentiated Thyroid Cancer"
+  ],
+  "overall_status": "UNKNOWN"
+}

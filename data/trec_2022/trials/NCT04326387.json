@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04326387",
+  "title": "Evaluation of Novel Diagnostic Tests for COVID-19",
+  "brief_summary": "COVID-19 (also known as Coronavirus) originated in the Wuhan China and has since spread to at least 159 countries around the world. It was declared a pandemic by the World health organisation on the 11th of March 2020. The cases in the United Kingdom continue to increase exponentially with up to 5 683 people diagnosed as on the 22nd of March 2020. It is estimated that 1 in 5 people diagnosed will require hospital admission and 1 in 20 intensive care treatment. By developing and improving diagnostic testing, we can accurately diagnose infected cases to triage appropriate treatments, identify individuals for quarantine in order to prevent transmission and obtain information regarding patient's immune systems.\n\nAt present, the diagnostic test is a highly specific method of genetic amplification called 'Reverse Transcription - Polymerase Chain Reaction' or RT-PCR, which allows detection of very small amounts of genetic mutations caused by the COVID-19 virus. However, this method must be completed in highly specialised facilities, which are few and far between, increasing time to diagnosis (currently 48-72 hours), increasing exposure to non-infected individuals, and overburdening the analysing facilities. The ideal solution is a point of care (POC) test that can give results immediately. This study aims to harness the point of care technology of the SAMBA II device (Diagnostics for the Real World Ltd.), which is a CE-marked device that has been used with success in the identification of Human Immunodeficiency Virus (HIV), by amplifying genetic material without the need to increase and decrease temperatures during the amplification process.\n\nIn the COVIDx study, 200 patients meeting the Public Health England's (PHE) inpatient definition of having suspected COVID-19 will be approached, consented and a sample from throat and nasal swab (combined) or tracheal fluid taken and tested using the SAMBA II method. A combination of the standard PHE RT-PCR and an additional validated laboratory PCR technique will be used as a control in line with standard clinical practice. Patients will undergo an additional serum tests on existing samples as made available after routine clinical assessments to monitor antibody response. Patients will be followed for clinical outcomes at 28 days post-admission.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* 16 years or above\n* Patient requiring hospital admission AND AT LEAST ONE OF\n* Clinical or Radiological evidence of pneumonia\n* Acute respiratory distress syndrome\n* Influenza like illness (defined as fever \\>37.8oC and at least one of the following respiratory symptoms, which much be of acute onset: persistent cough (with or without sputum), hoarseness, nasal discharge or congestion, shortness of breath, sore throat, wheezing, sneezing)\n\nExclusion Criteria:\n\n* Patients who have not had the standard PHE COVID-19 test applied\n* Unwilling or unable to comply with research swab of nose \\& throat or tracheal fluid",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients who meet current PHE hospital inpatient definition of possible case of COVID-19.",
+  "condition": [
+    "Acute Disease",
+    "Coronavirus",
+    "Respiratory Viral Infection"
+  ],
+  "overall_status": "UNKNOWN"
+}

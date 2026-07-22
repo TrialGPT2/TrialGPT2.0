@@ -1,0 +1,39 @@
+{
+  "nctid": "NCT04615065",
+  "title": "Acutelines: a Large Data-/Biobank of Acute and Emergency Medicine",
+  "brief_summary": "Research in acute care faces many challenges, including enrollment challenges, legal limitations in data sharing, limited funding, and lack of singular ownership of the domain of acute care. To overcome some of these challenges, the Center of Acute Care of the University Medical Center Groningen in the Netherlands, has established a de novo data-, image- and biobank named \"Acutelines\". Acutelines is initiated to improve recognition and treatment of acute diseases and obtain insight in the consequences of acute diseases, including factors predicting its outcome. Thereby, Acutelines contributes to development of personalized treatment and improves prediction of patient outcomes after an acute admission.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria, at least one of the following:\n\n* Triaged as one of highest two triage categories (red or orange) according to the Manchester triage system;\n* Triaged as the third highest triage category (yellow) and arrival by EMS of Helicopter Emergency Medical Service (HEMS;\n* Shock\n* Suspicion of sepsis (based on either physicians' suspicion, Sepsis-2 or Sepsis-3 criteria)\n* Acute kidney injury (AKI)\n* Anaphylactic reaction\n* Syncope\n* Intoxication\n* Thrombosis\n* Pulmonary embolism\n* Bleeding while using anti-coagulant drugs\n* Gastro-intestinal bleeding\n* Electrolyte disturbance\n\nExclusion Criteria:\n\n* Referred for organ transplantation as recipient\n* Transfer from other hospital\n* Accidental contact patient material (i.e. internal work-related accident)\n\nWhile data- and imaging will be collected from all these patients, biomaterials will only be collected from patients fulfilling the first criterion (i.e. triaged as one of highest two triage categories \\[red or orange\\] according to the Manchester triage system) and from patients with shock or a suspicion of sepsis.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult patients admitted to the emergency room for emergency medicine, internal medicine \\[including sub-specializations as allergology, acute medicine, oncology, hematology, infectiology, nephrology, vascular medicine, geriatric medicine\\], pulmonology, gastro-enterology and rheumatology.",
+  "condition": [
+    "Acute Disease",
+    "Sepsis",
+    "Pneumonia",
+    "Frailty",
+    "Complication of Treatment",
+    "Pulmonary Embolism",
+    "Thrombosis",
+    "Acute Kidney Injury",
+    "Electrolyte Disturbance",
+    "Hemorrhage",
+    "Shock",
+    "Polypharmacy",
+    "Intoxication by Drug",
+    "Emergencies",
+    "Urinary Tract Infections",
+    "Skin Infection",
+    "Syncope",
+    "Anaphylaxis",
+    "Dyspnea"
+  ],
+  "overall_status": "RECRUITING"
+}

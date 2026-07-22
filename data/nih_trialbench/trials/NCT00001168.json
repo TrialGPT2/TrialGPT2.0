@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00001168",
+  "title": "Evaluation of Lipoproteins",
+  "brief_summary": "Lipoproteins are particles that carry fats such as cholesterol and triglycerides through the blood stream. These particles are involved in causing blood vessel disease that can lead to conditions like hardening of the arteries (atherosclerosis) or heart attacks (myocardial infarctions).\n\nThis study is designed to look closely at the factors affecting lipoproteins. Researchers plan to study patients and normal volunteers by measuring lipoprotein levels in the blood. Patients and volunteers will be placed on a balanced diet during the study. In addition, researchers plan to measure levels of various hormone and enzymes in the blood. Patients and volunteers participating in the study may be asked to undergo more specific tests in order to collect more information about lipoprotein metabolism.\n\nThis study may not provide direct benefits to patients and volunteers participating in it. However, information gathered from this study may help researchers develop better skills and techniques to diagnose and treat patients with diseases of lipoprotein metabolism.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nThe following is a representative list of the types of patient presentations and potential diagnoses eligible for this protocol:\n\nPlasma cholesterol levels greater than 200 mg/dl or less than 120 mg/dl - includes patients with diagnoses such as familial hypercholesterolemia, familial combined hyperlipidemia, sitosterolemia, cholesteryl ester storage disease, Erdheim chester disease, lipoprotein lipase, hepatic lipase or apo-CII deficiency, and dysbetalipoproteinemia.\n\nPlasma LDL-C levels greater than 130 mg/dl or less than 70 mg/dl - includes patients with diagnoses such as familial hypercholesterolemia, familial combined hyperlipidemia, lipoprotein lipase, hepatic lipase, or apo-CII deficiency, sitosterolemia, dysbetalipoproteinemia, abetalipoproteinemia and hypobetalipoproteinemia.\n\nPlasma HDL-C levels greater than 70 mg/dl or less than 25 mg/dl - includes patients with deficiency of cholesteryl ester transfer protein, lecithin cholesterol acyltransferase, phospholipid transfer protein, lipoprotein lipase, hepatic lipase, or apo-CII, and Tangier disease.\n\nPlasma triglyceride levels greater than 150 mg/dl - includes patients with deficiency of lipoprotein lipase, hepatic lipase or apoC-II, dysbetalipoproteinemia, Type IV and Type V hyperlipidemia.\n\nEXCLUSION CRITERIA:\n\nInability to provide informed consent.",
+  "minimum_age": "2 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "unlimited",
+  "condition": [
+    "Evaluation of Plasma Lipoproteins"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study evaluating lipoprotein metabolism in patients with various lipid disorders and healthy volunteers. There is no mention of cancer, advanced disease, or systemic therapy lines in the eligibility criteria.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference cancer, advanced/metastatic disease, or prior systemic therapy. This study focuses on lipid disorders and normal volunteers, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

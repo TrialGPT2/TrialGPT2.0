@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01256554",
+  "title": "Single Session Spine Stereotactic Radiosurgery in Metastatic Epidural Spinal Cord Compression",
+  "brief_summary": "The goal of this clinical study is to learn the feasibility of using a single session of radiation, known as spine stereotactic radiosurgery (SSRS), to treat metastatic epidural spinal cord compression.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Greater than or equal to 18 years old\n2. Radiographically documented metastatic epidural compression on spine Magnetic resonance imaging (MRI) within 4 weeks of registration, defined radiographically, ranging from minimal canal compromise and thecal indentation to actual displacement of the spinal cord.\n3. Maximum of 3 contiguous vertebral levels involved with metastasis in the spine to be irradiated in a single session\n4. Signed Informed consent for irradiation\n5. Diagnosis of cancer including but not limited to non-small cell lung cancer, breast, prostate, renal cell, melanoma, gastrointestinal, sarcoma, thyroid, head and neck primary, and unknown primary tumors\n6. Motor Strength \\>/= 4 out of 5 in extremity or extremities affected by the level of the spinal cord compression\n7. Karnofsky performance status (KPS) \\>/= 40\n8. Patients deemed to be inoperable due to patient refusal, by neurosurgical evaluation, or for any reason\n9. 1 prior course of spine radiotherapy to the current region of interest\n\nExclusion Criteria:\n\n1. Prior irradiation of the site to be treated \\</= 3 months prior to registration\n2. Inability to tolerate lying flat on treatment table for greater than 30 minutes.\n3. Patients unable to undergo MRI of the spine\n4. Patients who have previously received maximum cord tolerance of 45 Gy in 5 weeks conventional fractionation or similar biologically effective dose (BED) to the area of the spine to be treated. Below are the normalized BED at 2 Gy per fraction with alpha/beta=2 for spinal cord in commonly used fractionation schemes in previously irradiated patients. Conventional Radiotherapy (Normalized Biologically Effective Dose) 20 Gy in 5 fractions(30 Gy 2/2), 30 Gy in 10 fractions(37.5 Gy 2/2), 37.5 Gy in 15 fractions(42 Gy 2/2), 40 Gy in 20 fractions(40 Gy 2/2), 45 Gy in 25 fractions(43 Gy 2/2), 50 Gy in 25 fractions(50 Gy 2/2) following equation: nBED is calculated by dividing BED by (1 + d/a/b), where d is 2 Gy and for spinal cord late effect a/b is 2, and we describe the units as Gy 2/2 (i.e., Gy 2/2 = 2-Gy equivalent with a/b = 2)\n5. Patients who are pregnant.\n6. Patients who have cord compression from bone components or configuration",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Metastatic Epidural Spinal Cord Compression"
+  ],
+  "overall_status": "COMPLETED"
+}

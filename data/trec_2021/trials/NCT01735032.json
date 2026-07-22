@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01735032",
+  "title": "Multimodal Imaging in Pre-surgical Evaluation of Epilepsy",
+  "brief_summary": "Epilepsy is the most common chronic neurological disorder in the world, affecting more than 50 million people worldwide. Approximately 35% of patients with epilepsy are refractory to all available antiepileptic drugs. Drug-resistant epilepsies are often partial or focal. Patients with drug-resistant focal epilepsy suffer from an increased risk of death, primarily due to seizure-related fatalities, in comparison with the general population. The only therapeutic option for this form of epilepsy is the surgical removal of the region of the brain responsible for seizures, called the epileptogenic zone (EZ). This requires the precise localization of the EZ based on a comprehensive pre-surgical evaluation of patients.\n\nToday the gold standard for localizing the EZ and validating a non-invasive technique for localization of the EZ remains intracerebral stereo-EEG (stereo-electroencephalography or SEEG) recordings of spontaneous seizures. The implementation strategy of the intracerebral depth electrodes is guided by clinical and neuroimaging data, including anatomical Magnetic Resonance Imaging (MRI), Positron Emission Tomography (PET) with FDG (fluoro-Deoxy-Glucose) and MagnetoEncephaloGraphy (MEG). Although the contribution of each technique in the pre-surgical localization of the EZ has already been shown, no wide-scale study has examined the cumulative contribution of these three techniques.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient with drug-resistant focal epilepsy\n* Candidates for pre-surgical evaluation including FDG PET, MRI, MEG and SEEG recordings.\n* Age 18-65 years\n* EEG-confirmed focal epilepsy for \\>2 years\n* Signed informed consent form.\n\nExclusion Criteria:\n\n* Age \\<18 years and \\>65 years\n* Contraindication to the MRI\n* Pregnant woman\n* Head size incompatible with MEG recordings\n* Adult subject to legal protection measure.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "100 patients with drug-resistant focal epilepsy and candidates for epilepsy surgery will be recruited.",
+  "condition": [
+    "Partial Epilepsy"
+  ],
+  "overall_status": "UNKNOWN"
+}

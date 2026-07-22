@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03299894",
+  "title": "Impact of qSOFA Calculation on the Timing of Antimicrobial Therapy in the Emergency Department",
+  "brief_summary": "The delayed administration of an adequate antimicrobial therapy is a strong predictor of impaired outcome in patients with bacterial sepsis. Therefore, the current Surviving Sepsis Campaign guidelines (2016) recommend that administration of intravenous antimicrobials be initiated within one hour following the recognition of sepsis or septic shock.\n\nThe quick Sepsis-related Organ Failure Assessment (qSOFA) score is a new bedside tool which has been recently proposed by the Third International Sepsis Consensus Definitions Task Force (Sepsis-3) to identify patients with suspected infection who are at greater risk for a poor outcome outside the Intensive Care Unit (ICU). It uses three criteria, assigning one point for low systolic blood pressure (SBP \u2264100 mmHg), high respiratory rate (\u226522 breaths per min) and altered mentation (Glasgow coma scale \\<15). The score ranges from 0 to 3 points. A qSOFA value \u22652 points is associated with a greater risk of death or prolonged ICU stay, these outcomes being more common in infected patients who may be septic than in those with uncomplicated infection. The definite goal of qSOFA is to hasten the management and thus improve the outcome of patients at risk of sepsis or septic shock.\n\nMany patients admitted to the hospital for bacterial sepsis or septic shock are initially managed in the Emergency Department (ED). This study aims at investigating whether the routine calculation of qSOFA at patient triage may hasten the initiation of antimicrobial therapy in patients admitted to the ED with suspected or proven bacterial infection, especially in those with subsequent criteria for sepsis or septic shock (Sepsis-3 definition).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n\u2022 Suspected or proven bacterial infection at emergency department triage\n\nExclusion Criteria:\n\n* Imminent death\n* Pregnancy\n* Breast-feeding\n* For patients managed by a medicalized pre-hospital emergency team before ED admission : administration of a first dose of antimicrobial agent before ED admission\n* Lack of coverage by the public health insurance system\n* Patient's refusal for study enrollment\n* Lack of confirmed bacterial infection (i.e., documented either clinically, microbiologically or by imaging procedures) in patients with a suspected bacterial infection at emergency departement triage",
+  "minimum_age": "18 Years",
+  "maximum_age": "105 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Bacterial Infection",
+    "Intensive Care"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00059592",
+  "title": "Valacyclovir in Immunocompromised Children",
+  "brief_summary": "Shingles is an infection commonly seen in children with a weakened immune system (immunocompromised children). The immune system can be weakened as a result of medications that patients receive for cancer or other serious illness or as a result of a bone marrow transplantation. Shingles in children with a weakened immune system may spread throughout the body and in some instances may be life-threatening. Acyclovir is a medication that is routinely used to treat immunocompromised children with shingles in order to prevent further spread of their shingles and to help them heal faster. Acyclovir is also given to bone marrow transplant patients to prevent reactivation of HSV infection.\n\nValacyclovir is a new drug that is metabolized (broken down in the body) to acyclovir. Valacyclovir is given by mouth and studies done in adults have shown it to be more effective than acyclovir given by mouth.\n\nThe purpose of this study is to\n\n* study the pharmacology of this drug (how the body handles this drug),\n* determine if oral Valacyclovir can be safely given to children with shingles, and\n* determine the type of side effects that occur when oral Valacyclovir is given to immunocompromised children.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients must be \\>/= 2 and \\</= 18 years old.\n* Patients must have a life expectancy of \\> 8 weeks.\n* Patients must be receiving chemotherapy or have been treated with bone marrow transplantation or chemotherapy for an underlying malignancy or medical condition in the past 12 months, or have an underlying immunodeficiency syndrome.\n* Patients must have adequate hepatic function (bilirubin \u2264 1.5 mg/dl: SGPT \\< 3x normal) and adequate renal function (creatinine \u2264 1.2 mg/dl or creatinine clearance \u2265 60 ml/min/1.73 m2).\n* Acute Zoster Infection: Patients must have acute herpes zoster defined as \\</= 3 days of rash, limited to 3 or less dermatomes, and no evidence of dissemination (organ involvement e.g. hepatitis, pneumonitis, encephalitis).\n* Patients must be able to swallow pills or tolerate a suspension of the medication.\n* Children must be able to retain liquids at the time of enrollment.\n* Written informed consent will be obtained from all patients and/or their parents prior to enrollment.\n* Bone Marrow Transplant Patients: Patients without acute zoster infection, but with positive HSV serology who will be treated with acyclovir prophylaxis during the pretransplant period are eligible.\n\nExclusion Criteria:\n\n* Patients with evidence of disseminated VZV infection, as documented by dermatomal zoster at more than 3 dermatomes.\n* Patients with history of VZV infection \\> 3 days.\n* Patients in relapse, (Stratum I only), or unstable medical conditions due to underlying disease.\n* Patients with suspected acyclovir-resistant VZV infection.\n* Patients who received systemic antiherpetic therapy in the previous 2 weeks before the onset of VZV infection.\n* Patients with known history of adverse reaction to acyclovir in the past.",
+  "minimum_age": "2 Years",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Shingles",
+    "Bone Marrow Transplantation"
+  ],
+  "overall_status": "COMPLETED"
+}

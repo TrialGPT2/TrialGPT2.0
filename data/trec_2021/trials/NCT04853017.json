@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04853017",
+  "title": "A Study of ELI-002 in Subjects With KRAS Mutated Pancreatic Ductal Adenocarcinoma (PDAC) and Other Solid Tumors",
+  "brief_summary": "This is a Phase 1 study to assess the safety and efficacy of ELI-002 immunotherapy (a lipid-conjugated immune-stimulatory oligonucleotide \\[Amph-CpG-7909\\] plus a mixture of lipid-conjugated peptide-based antigens \\[Amph-Peptides\\]) as adjuvant treatment of minimal residual disease (MRD) in subjects with KRAS/neuroblastoma ras viral oncogene homolog (NRAS) mutated PDAC or other solid tumors.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* KRAS/NRAS mutated (G12D or G12R) solid tumor\n* Positive for circulating tumor DNA (ctDNA) and/or elevated serum tumor biomarker despite prior standard therapy including surgery and chemotherapy/radiation therapy where applicable\n* Screening CT is negative for recurrent disease\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n\nExclusion Criteria:\n\n* Presence of tumor mutations where specific therapy is approved, and the patient is able to receive the approved therapy\n* Known brain metastases\n* Use of immunosuppressive drugs",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Minimal Residual Disease",
+    "KRAS G12D",
+    "KRAS G12R",
+    "NRAS G12D",
+    "NRAS G12R",
+    "Pancreatic Ductal Adenocarcinoma",
+    "Colorectal Cancer",
+    "Non-small Cell Lung Cancer",
+    "Ovarian Cancer",
+    "Cholangiocarcinoma",
+    "Bile Duct Cancer",
+    "Gallbladder Carcinoma"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02375919",
+  "title": "PERC Rule to Exclude Pulmonary Embolism in the Emergency Deparment",
+  "brief_summary": "The Pulmonary Embolism Rule Out Criteria (PERC) is an 8-item rule, that was derived and tested to rule out the diagnosis of Pulmonary Embolism (PE) in the Emergency Department (ED) amongst low risk patients. Even though meta analyses have confirmed the safety of its utilization, equipoise remains - especially in European country where the prevalence of PE is higher than in the US- on whether this rule could be safely applied to all low risk emergency patients with a suspicion of PE.\n\nThe PROPER Trial is a non inferiority , cluster randomized trial. All centers will recruit patients with a suspicion of PE and a low pre test probability. To rule out the diagnosis of PE, center will use the usual diagnostic strategies with D-dimeres measurement for 6 months, and PERC based strategy for 6 months.\n\nIn the control group (usual strategy), patients will be tested for D-dimeres, followed if positive by a Computed Tomography of Pulmonary Artery (CTPA).\n\nIn the intervention group (PERC Based), patients will be first assessed with PERC score. If PERC=0, then the diagnosis of PE will be exclude with no supplemental investigations. If PERC\\>0, then patients will undergo the usual strategy, with D-dimeres measurement +/- CTPA.\n\nThe primary outcome is the failure percentage of the diagnostic strategy, defined as diagnosed deep venous thrombosis (DVT) or PE at 3 month follow up, among patients for whom PE has been initially ruled out.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Acute onset of, or worsening of dyspnea Or chest pain\n* Low clinical pretest probability of PE, empiricially estimated by the gestalt.\n\nExclusion Criteria:\n\n* Other obvious cause than PE for dyspnea or chest pain\n* Acute severe presentation\n* Contra-indication to CTPA\n* Concurrent anticoagulation treatment\n* Current diagnosed thrombo-embolic event\n* Inability to follow up\n* Prisoners\n* Pregnancy\n* No social security\n* Participation in another intervention trial",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Emergency Patients"
+  ],
+  "overall_status": "COMPLETED"
+}

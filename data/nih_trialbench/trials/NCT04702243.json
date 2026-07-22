@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04702243",
+  "title": "Defining the Genetic Etiology of Suppurative Lung Disease in Children and Adults",
+  "brief_summary": "The investigators will utilize a systematic approach for the diagnostic evaluation of patients to identify characteristics which may distinguish between Primary Immunodeficiency (PID) disorders versus Primary Ciliary Dyskinesia (PCD).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Pediatric subjects (aged 5-17 years): Inclusion criteria include the major criterion (bronchiectasis in \\> 1 lobe on current or chest CT in previous 24 months, if available for review), plus one minor criterion, or two minor criteria, if bronchiectasis is not present, (including at least 1 \"lung\" minor criteria).\n\nAdult subjects (aged 18-45 years): Inclusion criteria include the major criteria (bronchiectasis in \\> 1 lobe on current or chest CT in previous 36 months, if available for review), plus one minor criterion, or three minor criteria, if bronchiectasis is not present, (including at least 1 \"lung\" minor criteria).\n\nInclusion Criteria:\n\nGeneral Criteria\n\n* Age 5-45 years\n* Male and Female Subjects\n* All races and ethnicities\n\nMajor Clinical Criteria\n\n\\- Bronchiectasis in \\> 1 lobe\n\nMinor Clinical Criteria, Lung\n\n* Neonatal respiratory distress (in term neonates with O2 requirement)\n* Chronic wet cough (year-round for at least 12 months)\n* Recurrent episodes of bacterial bronchitis\n* Recurrent pneumonia (confirmed on chest x-ray)\n* Respiratory non-tuberculous mycobacteria (NTM) (documented respiratory NTM culture)\n\nMinor Clinical Criteria, Other\n\n* Chronic nasal congestion\n* Recurrent/chronic paranasal sinusitis\n* Ongoing middle-ear disease and/or tympanostomy tube placement at age ≥ 4 years\n* Organ laterality defect\n* Low nasal nitric oxide (\\< 77 nL/min) (by plateau measurement)\n* Confirmed family history of PID or PCD\n\nExclusion Criteria:\n\n* Anyone who has a confirmed genetic diagnosis of PCD or PID\n* Cystic Fibrosis\n* Alpha-antitrypsin deficiency in adults (18 years and older)\n* Congenital upper or lower airway anomalies\n* Post-lung or heart transplant, or other conditions requiring immunosuppression therapy\n* Other confounding features, such as lung disease due to prematurity (born \\< 28 weeks gestation) or HIV\n* Neurological compromise and evidence of recurrent aspiration\n* Conditions known to be commonly associated with bronchiectasis, such as prior mycobacterium tuberculosis\n* Have not had standard clinical evaluation to address other potential causes of chronic oto-sino- pulmonary disease, particularly cystic fibrosis, aspiration or airway anatomic abnormalities.",
+  "minimum_age": "5 Years",
+  "maximum_age": "45 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects who have suppurative lung disease but without a defined genetic diagnosis.",
+  "condition": [
+    "Primary Ciliary Dyskinesia",
+    "Primary Immune Deficiency",
+    "Kartagener Syndrome"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational study enrolling pediatric and adult patients with bronchiectasis or related symptoms to define the genetic etiology of suppurative lung disease. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they specify any requirements or exclusions based on prior lines of therapy. This is a diagnostic/genetic study, not a therapeutic trial."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nctid": "NCT03717844",
+  "title": "Registry for Adults With Plasma Cell Disorders (PCD's)",
+  "brief_summary": "The primary purpose of this protocol is to create a registry of patients with plasma cell disorders (PCDs), including for example the cancer multiple myeloma (MM), who complete the assessment, previously known as a \"geriatric assessment,\" as is outlined in this protocol. Secondary objectives include measuring the response rate to participation of patients in this study, assessing patient satisfaction with the questionnaire, and gathering information that would lend support for future research into these types of assessments in patients with PCDs. Additionally the study offers an optional blood draw to look at a genetic marker of aging called p16INK4a (IRB 15-1899, IRB 15-0244).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients have an outpatient appointment or are hospitalized inpatient at UNC Cancer Hospitals, or affiliated clinic settings or participating sites for the evaluation and management of a PCD.\n* Patients have a documented diagnosis of PCD defined as the presence of a monoclonal protein and/or monoclonal plasma cell population. Examples of PCDs include but are not limited to monoclonal gammopathy of uncertain significance; smoldering myeloma; multiple (active) myeloma; plasma cell leukemia; Castleman's disease; amyloidosis; light and/or heavy chain deposition disease; Polyneuropathy, Organomegaly, Endocrinopathy,Monoclonal gammopathy and Skin changes (POEMS) syndrome; and cryoglobulinemia.\n* Age \u226518 years.\n* Must consent to participation in this study and agree to complete the assessment at baseline and follow-up time points.\n* Must be able to read and speak English.\n\nExclusion Criteria:\n\n* Physical or psychiatric/behavioral illnesses or problems that the treating clinician feels would preclude successful participation in the study.\n* There are no imaging or lab studies required to determine eligibility.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients have a documented diagnosis of PCD defined as the presence of a monoclonal protein and/or monoclonal plasma cell population.\n\nExamples of PCDs include but are not limited to monoclonal gammopathy of uncertain significance; smoldering myeloma; multiple (active) myeloma; plasma cell leukemia; Castleman's disease; amyloidosis; light and/or heavy chain deposition disease; Polyneuropathy, Organomegaly, Endocrinopathy, Monoclonal gammopathy and Skin changes (POEMS) syndrome; and cryoglobulinemia.",
+  "condition": [
+    "Multiple Myeloma",
+    "Amyloidosis",
+    "Cryoglobulinemia",
+    "Castleman's Disease",
+    "Light Chain Deposition Disease",
+    "Heavy Chain Deposition Disease",
+    "Polyneuropathy Organomegaly Endocrinopathy Monoclonal Gammopathy and Skin Changes",
+    "Smoldering Multiple Myeloma",
+    "Plasma Cell Leukemia"
+  ],
+  "overall_status": "RECRUITING"
+}

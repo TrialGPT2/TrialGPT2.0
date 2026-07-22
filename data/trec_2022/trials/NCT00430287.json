@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT00430287",
+  "title": "Does the Optic Disc Grading Done Visually by Your Doctor Agree With Optic Nerve Testing Which is Done by Machines?",
+  "brief_summary": "The purpose of this study is to determine how well the DDLS (Disc Damage Likelihood Scale) (which is a method used by the eye doctor to evaluate how healthy the optic nerve is) measures up to the standard glaucoma tests: OCT (Optical Coherence Tomography), the HRT (Heidelberg Retinal Tomography) and the HVF (Humphrey Visual Field).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Vision 20/50 or better\n* Less than 3 diopters of astigmatism\n* 3 diopters or less of myopia or hyperopia\n* Pattern Standard Deviation on HVF less than 2.5dB in normals\n* Pattern Standard Deviation on HVF greater than 2.5 db in glaucoma patients\n\nExclusion Criteria:\n\n* Abnormalities of cornea or ocular media\n* Significant ocular pathologies affecting visual field\n* History of hypotony\n* Ocular surgery within 6 months\n* Nystagmus\n* Unreliable visual fields\n* OCT signal strength scan less than 6",
+  "minimum_age": "45 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "glaucoma service",
+  "condition": [
+    "Open Angle Glaucoma"
+  ],
+  "overall_status": "COMPLETED"
+}

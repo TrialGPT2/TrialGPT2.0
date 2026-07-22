@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT02527486",
+  "title": "Seoul National University Airway Registry",
+  "brief_summary": "This is a multicenter, prospective observational cohort study, in which patients with chronic airway diseases including chronic obstructive pulmonary disease(COPD), asthma, asthma-COPD overlap syndrome (ACOS) will be recruited.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "COPD\n\nInclusion Criteria:\n\n* Postbronchodilator FEV1/FVC \\< 0.7 AND chronic respiratory symptom\n\nExclusion Criteria:\n\n\\-\n\nAsthma\n\nInclusion Criteria:\n\n* Never smoker or \\<5PY of smoking history AND Recurrent episodes of asthma symptoms (wheezing, dyspnea, chest tightness, cough) AND (either Positive BDR OR positive metacholine/mannitol/exercise provocation test)\n\nExclusion Criteria:\n\n\\-\n\nACOS\n\nInclusion Criteria:\n\n* COPD AND Asthma (regardless of smoking status)\n\nExclusion Criteria:\n\n\\-",
+  "minimum_age": "20 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "COPD Asthma ACOS Bronchiectasis TB-destroyed lung Other chronic airway diseases",
+  "condition": [
+    "Chronic Obstructive Pulmonary Disease (COPD)",
+    "Asthma",
+    "Asthma With Chronic Obstructive Pulmonary Disease",
+    "Bronchiectasis",
+    "Inactive Tuberculosis of Lung",
+    "Chronic Obstructive Airway Disease"
+  ],
+  "overall_status": "RECRUITING"
+}

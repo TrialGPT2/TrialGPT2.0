@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00115440",
+  "title": "BNCT to Treat Glioma That Has Progressed Following Radiotherapy",
+  "brief_summary": "Boron Neutron Capture Therapy (BNCT) is an experimental radiation therapy technique which is based on the principle of irradiating boron atoms with neutrons. When neutrons have relatively low energy, boron atoms that have been targeted to cancerous tissue using a suitable boron carrier (an amino acid derivative called BPA, boronophenylalanine) will capture the neutrons. As a result from the neutron capture the boron atoms will split into two, producing helium and lithium ions. The helium and lithium ions, in turn, have only a short pathlength in tissue (about 5 micrometers) and will deposit their cell damaging effect mainly within the tumor provided that the boron carrier (BPA) has accumulated in the tumor. In practice, the study participants will receive BPA as an approximately 2-hour intravenous infusion, following which the tumor is irradiated with low energy (epithermal) neutrons obtained from a nuclear reactor at the BNCT facility. BNCT requires careful radiation dose planning, but neutron irradiation will last approximately only for one hour. In this study BNCT is given once. The study hypothesis is that anaplastic astrocytomas and glioblastomas that have recurred following conventional radiotherapy might accumulate the boron carrier compound, and might respond to BNCT.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Histologically confirmed supratentorial glioblastoma or anaplastic astrocytoma.\n* Recurred tumor after surgery and radiotherapy or tumor progressing after radiotherapy.\n* Recurrence/progression has been confirmed by serial MRI scans and a biopsy, or by debulking surgery.\n* The World Health Organization performance status \\<2.\n* WBC \\>2,500/mm3, platelet count \\>75,000/mm3, serum creatinine \\<180 umol/L.\n* A written informed consent\n\nExclusion Criteria:\n\n* Age less than 18\n* Tumor infiltrates into the brain stem or the optic tracts\n* The majority of tumor tissue consists of grade II glioma with only a focal grade III component\n* A minimum gross tumor dose of 17 Gy (W) is not obtained in dose-planning\n* Less than 6 months has elapsed from the last date of external irradiation\n* Less than 4 weeks has elapsed from the last cancer chemotherapy dose prior to giving BNCT\n* The total conventional radiation therapy dose given is more than 61 Gy or less than 50 Gy, or one of nonconventional fractionation schemes has been used (conventional: 1.8-2.0 Gy/day, 5 days per week, weekly dose 9 to 10 Gy)\n* More than approximately 1/3 of the total brain volume has been within the 90% isodose\n* Gliomas where the enhancing tumor volume is larger than 2/3 of the volume of one hemisphere in the MRI examination preceding BNCT\n* More than one radiotherapy course has been given to the brain tumor\n* Untreated congestive heart failure or renal failure\n* Uncontrolled brain oedema despite the use of corticosteroids\n* A cardiac pace-maker or an unremovable metal implant present in the head and neck region that will interfere with MRI-based dose-planning\n* Restlessness or inability to lie in a cast for 30 to 60 minutes\n* Clinical follow-up after therapy cannot be arranged\n* Pregnancy\n* Inability to understand treatment options\n* Unwillingness to take part in the follow-up schedule",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Glioblastoma",
+    "Anaplastic Astrocytoma"
+  ],
+  "overall_status": "COMPLETED"
+}

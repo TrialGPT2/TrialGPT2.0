@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT02393248",
+  "title": "Open-Label, Dose-Escalation Study of Pemigatinib in Subjects With Advanced Malignancies - (FIGHT-101)",
+  "brief_summary": "The purpose of this study will be to evaluate the safety, tolerability, and pharmacological activity of pemigatinib in subjects with advanced malignancies. This study will have three parts, dose escalation (Part 1), dose expansion (Part 2) and combination therapy (Part 3).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Male or female subjects, age 18 years or older on day of signing consent\n2. Part 1: Any advanced solid tumor malignancy; Part 2: Subjects with squamous non-small cell lung cancer, cholangiocarcinoma/gastric cancer, urothelial cancer, breast/endometrial cancer, multiple myeloma, or MPNs that have a tumor or malignancy that has been evaluated and confirmed to harbor genetic alterations in FGF or FGFR genes. A subject's fibroblast growth factor (FGF) or fibroblast growth factor receptor (FGFR) alteration may be based on local or central laboratory results. Part 3: Dose finding: subjects with solid tumor malignancies who qualify for combo therapy; dose-expansion: FGF/FGFR+ subjects qualified to receive combo therapy\n3. Has progressed after prior therapy and there is no further effective standard anticancer therapy available (including subject refuses or is intolerant)\n4. Life expectancy \\> 12 weeks\n5. Eastern Cooperative Oncology Group (ECOG) performance status:\n\n   * Part 1: 0 or 1\n   * Part 2 and 3: 0, 1, or 2\n\nExclusion Criteria:\n\n1. Treatment with other investigational study drug for any indication for any reason, or receipt of anticancer medications within 21 days or 5 half-lives before first dose of study drug\n2. Prior receipt of a selective FGFR inhibitor\n3. History of a calcium/phosphate homeostasis disorder\n4. History and/or current evidence of ectopic mineralization/calcification\n5. Current evidence of corneal disorder/keratopathy\n6. Has a history or presence of inadequate liver, renal, hematopoietic and/or cardiac function parameters outside protocol-defined range\n7. Prior radiotherapy within 2 weeks of study treatment",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lung Cancer",
+    "Solid Tumor",
+    "Gastric Cancer",
+    "Urothelial Cancer",
+    "Endometrial Cancer",
+    "Multiple Myeloma",
+    "Myeloproliferative Neoplasms",
+    "Breast Cancer",
+    "Cholangiocarcinoma",
+    "UC",
+    "MPN"
+  ],
+  "overall_status": "TERMINATED"
+}

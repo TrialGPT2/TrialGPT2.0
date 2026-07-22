@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT04799301",
+  "title": "Developing Biomarkers of Dietary Intake: Dose Dependent Measurement of Sugar Intake",
+  "brief_summary": "Background:\n\nDiet is one of the most modifiable behaviors affecting health. But diet assessment measures that are based on self-report can be inaccurate. Researchers want better ways to address the role of diet in chronic disease. They want to see if stable isotopes can be used to better assess what people eat.\n\nObjective:\n\nTo see if stable isotopes can help scientists identify things people eat.\n\nEligibility:\n\nHealthy adults ages 18 to 65\n\nDesign:\n\nParticipants will be screened with a medical history and physical exam. They will have blood and urine tests. These tests will be repeated during the study.\n\nParticipants will stay in the inpatient unit of the NIH in Phoenix, Arizona, for 13 weeks.\n\nFor 7 days, participants will eat a diet prepared by the NIH kitchen. They will get balanced meals that are 50% carbohydrates, 20% protein, and 30% fat. Then participants will be randomly placed on one of 3 diets containing different percentages of carbohydrates from soda.\n\nParticipants height and weight will be measured. The amount of fat and muscle in their body will be measured by body scans that are similar to x-rays.\n\nParticipants will have oral glucose tolerance tests. They will consume a sugar drink and then give blood samples over 3 hours.\n\nParticipants will give hair and stool samples.\n\nParticipants will complete a diet questionnaire. It assesses their food intake over 24 hours.\n\nParticipants will complete behavioral questionnaires and computer performance tests.\n\nParticipants will have fat biopsies taken from their stomach and thigh.\n\nParticipants will have three 24-hour stays in a metabolic chamber. It is used to measure metabolism.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Body mass index less than or equal to 35 kg/m\\^2 to minimize the impact of body size on isotope measurements.\n* Women and men between the ages of 18-65 years will be recruited for this study\n* Healthy, as determined by medical history, physical examination, and laboratory tests.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Fasting plasma glucose greater than or equal to 126 mg/dL\n* Alopecia totalis or inability to grow hair (at least one inch of hair required to obtain sample)\n* Use of medication affecting metabolism and appetite in the last three months\n* Medically- or self-imposed dietary restrictions that would limit a participant s ability/willingness to consume the diet to which they are randomized\n* Current pregnancy, pregnancy within the past 6 months or currently lactating\n* History or clinical manifestations of acute or chronic disorders or conditions that may affect appetite or EE, (such as, but not limited to type 1 or type 2 diabetes, Cushing s disease, thyroid disorders, coccidiomycoses)\n* Gastrointestinal disease, including inflammatory bowel diseases (e.g. Chron s disease and ulcerative colitis), malabsorption syndromes (e.g. celiac disease), gastric ulcer (active) which may alter metabolism or absorption of study food\n* Current, unstable medical conditions such as hepatitis, renal insufficiency, cancer requiring treatment in the last 5 years (except for nonmelanoma skin cancers or cancers that have clearly been cured), or central nervous system disorders etc. as assessed by history and physical exam\n* Diagnosis of binge eating disorder, anorexia-nervosa, or bulimia-nervosa\n* Evidence of alcohol abuse as defined by greater than or equal to 8-point score on the Alcohol consumption screening AUDIT questionnaire in adults\n* Current use of tobacco products that exceed Low Dependence on the Fagerstrom Test for Nicotine Dependence Tool (score greater than 2)\n* Current use of drugs such as amphetamines, cocaine, or heroin\n* Any condition not specifically mentioned above that, in the opinion of the investigator, may interfere with the study or prove unsafe for participation.\n* Weight change of plus or minus 5% in the last 3 months, per self report.\n* Non-English speaking\n* Inability of participant to understand and the unwillingness to sign a written informed consent document.\n\nConditions not specifically mentioned above may serve as criteria for exclusion at the discretion of the investigators. Additionally, potential subjects might be excluded if they demonstrate a style of interpersonal relationships that would inhibit successful completion of the study.\n\nNon-English-speaking subjects as a population will be excluded from participation in this protocol. One of the secondary hypotheses of the protocol relates to a battery of psychological questionnaires and performances tests which are administered to the volunteers at the beginning and end of the study. There are currently no validated, translated forms of these questionnaires and tests available; therefore, we will restrict enrollment to English speaking subjects only.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Diet Therapy",
+    "Healthy Volunteers"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a biomarker study enrolling healthy adults with no cancer or advanced disease. There is no systemic therapy for advanced disease involved, and line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls healthy adults without cancer or advanced disease; there is no mention of prior systemic therapy for advanced/metastatic disease. Line-of-therapy intent is not applicable."
+    }
+  ]
+}

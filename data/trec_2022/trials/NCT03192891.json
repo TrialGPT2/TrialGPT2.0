@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03192891",
+  "title": "Stress CMR Perfusion Imaging in the United States (SPINS) Study",
+  "brief_summary": "Numerous single-center studies have indicated gadolinium-enhanced stress CMR perfusion imaging has excellent diagnostic accuracy for coronary artery disease and negative clinical event rates, with its diagnostic accuracy exceeding nuclear scintigraphy. However, current prognostic evidence supporting clinical use of stress CMR is limited by study size, single-center settings with a predominance of academic centers, and a lack of \"real-world\" study design. Large-scale multicenter real-world evidence from a registry will provide the much needed information to guide evidence-based clinical adaptation that benefits patient care.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nall of the following at time of imaging: a) male or female at age 35-85 years, b) presence of either of the following sign/symptom that led to stress CMR imaging\n\n1. Symptoms suspicious of ischemia, or\n2. abnormal ECG with a suspicion of coronary artery disease c) Intermediate or high risk of significant coronary disease based on at least 2 of the following conditions:\n\n   1. patient age \\> 50 for male, 60 for female\n   2. Diabetes: by either history or medical treatment\n   3. Hypertension: by either history or medical treatment\n   4. Hypercholesterolemia: by either history or medical treatment\n   5. family history of premature coronary disease: first degree relative at age \\<= 55 male and \\<=65 female\n   6. Body mass index \\> 30\n   7. Any medical documentation of peripheral artery disease\n   8. Any history of myocardial infarction or percutaneous coronary intervention\n\nExclusion Criteria:\n\n1. Prior history of coronary artery bypass surgery (CABG)\n2. Acute myocardial infarction within the past 30 days prior to CMR\n3. any significant non-coronary cardiac conditions confirmed by medical documentation a. severe valvular heart disease, b. non-ischemic cardiomyopathy with left ventricular ejection fraction \\<40%, c. infiltrative cardiomyopathy, d. hypertrophic cardiomyopathy, e. pericardial disease with significant constriction, or\n4. active pregnancy,\n5. any competing conditions leading to an expected survival of \\< 2 years\n6. Known inability to follow-up due to logistical reasons (e.g. patient lives in another country where follow-up is not feasible)",
+  "minimum_age": "35 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Consecutive patients who underwent stress CMR perfusion imaging for evaluation of myocardial ischemia between 2008-2013.",
+  "condition": [
+    "Myocardial Ischemia"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT03892798",
+  "title": "Database Of Clinical Data For Individuals With Variants In The IRF2BPL Gene",
+  "brief_summary": "This protocol serves as a data collection tool for individuals with variants (missense, nonsense, frameshifts) in the IRF2BPL gene (MIM 611720), which causes Neurodevelopmental Regression, Seizures, Autism and Developmental Delay (NEDAMSS, MIM 618088) and may be involved in other neurodevelopmental presentations. This information will be analyzed to develop a better understanding of the findings and progression of symptoms in individuals with variants in the IRF2BPL gene.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Living or deceased individuals with variants in the IRF2BPL gene\n\nExclusion Criteria:\n\n* None",
+  "minimum_age": "2 Months",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population will consist of children and adults who are diagnosed with NEDAMSS and have variants in the IRF2BPL gene.",
+  "condition": [
+    "Autism Spectrum Disorder",
+    "Movement Disorders",
+    "Seizures",
+    "Dystonia",
+    "NEDAMSS"
+  ],
+  "overall_status": "COMPLETED"
+}

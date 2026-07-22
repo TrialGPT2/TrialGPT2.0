@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01726842",
+  "title": "Amblyopia and Strabismus Detection Using a Pediatric Vision Scanner",
+  "brief_summary": "The purpose of this project is to compare the performance of the Pediatric Vision Scanner (PVS) with the Gold Standard Examination to determine the effectiveness of the PVS at detecting amblyopia and strabismus.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion:\n\n* 2-6 years old\n* complete ophthalmic examination including cycloplegic refraction conducted on the same day or within 3 months\n* strabismic, anisometropic, or normal (normal eye examination and refractive error according to AAPOS guidelines)\n* parent provides informed consent\n\nExclusion:\n\n* other ocular disease (includes media opacities, anomalous optic nerve, ptosis, lid hemangioma, conjunctivitis, blepharitis, symptomatic NLD) or systemic disease (JIA, JRA, neurofibromatosis)\n* developmental delay\n* strabismus surgery in the past 6 months",
+  "minimum_age": "2 Years",
+  "maximum_age": "6 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Children presenting for ophthalmic exam at eye clinic.",
+  "condition": [
+    "Amblyopia",
+    "Strabismus"
+  ],
+  "overall_status": "COMPLETED"
+}

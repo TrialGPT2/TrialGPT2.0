@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01386983",
+  "title": "Clinical and Economic Outcomes of Patients Utilizing Combination Therapy for Enlarged Prostates: A Henry Ford Database Assessment",
+  "brief_summary": "This retrospective study aims to assess the clinical and economic impact of early initiation of 5-alpha-reductase inhibitor (5ARI) therapy in patients with enlarged prostate (EP) receiving 5ARI monotherapy or combination therapy with an alpha-blocker (AB) compared to late initiation of 5ARI therapy in patients receiving combination therapy. The Henry Ford Health System databases will be utilized for this study (2000-2008).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Males\n* aged 50 years or older\n* medical claim of EP\n* prescription claim(s) for either a 5ARI or both 5ARI and AB (provided both are within 180 days of index date)\n* continuously eligible for 3 months prior to and at least 5 months after their index prescription date.\n\nExclusion Criteria:\n\n* Patients with prostate or bladder cancer\n* any prostate-related surgical procedure within 5 months of index date\n* prescription claim for finasteride indicative of male pattern baldness; AB monotherapy only; initiation of 5ARI occurring more than 180 days after initiation of AB",
+  "minimum_age": "50 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "This study will identify eligible patient data between April 1, 2000, and December 31, 2007, and allows for patient data to be followed for 3 months prior to and up to 1 year following index prescription date.",
+  "condition": [
+    "Prostatic Hyperplasia"
+  ],
+  "overall_status": "COMPLETED"
+}

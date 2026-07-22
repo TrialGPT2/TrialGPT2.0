@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT03154307",
+  "title": "Repeated TMS at Low Frequencies to Reduce Seizure Occurrence",
+  "brief_summary": "Perform non-invasive neuro-navigated repeated Transcranial Magnetic Stimulation (rTMS) at low frequencies (LF) with the intent to reduce the occurrence of seizures over time (long-term protocol). Seizure reduction and improvements in the quality of life in patients with epilepsy will be associated with increased cortical inhibition resulting from the LF-rTMS sessions over time. This procedure using rTMS at low frequencies (LF-rTMS) between 0.5 and 1 Hz is a safe and painless method for noninvasive focal cortical brain stimulation, which will be evaluated in its efficacy at reducing/suppressing seizures. Accordingly, we propose a clinical trial in patients with epilepsy to test whether LF-rTMS can improve seizure suppression. The location of the presumed 3D source in the brain will be stimulated for few minutes (10 to 15 min.). With the same rTMS modality, we will also perform motor threshold mapping in conjunction with its fully integrated and compatible electroencephalography (EEG) module. Up to 100 individuals 18 to 80 years with epilepsy will be enrolled.\n\nIn addition, a short-term protocol has been added to test whether LF-rTMS can reduce or suppress status epilepticus in medically refractory participants.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Long-term protocol:\n\nInclusion Criteria:\n\n* Experience \u2265 3 seizures/month in the month prior to starting study (any type of seizure will count)\n* No status epilepticus in the last 12 months\n* No change in medication in last 30 days\n\nExclusion Criteria:\n\n* Presence of implanted electronic devices (e.g., pacemaker, medication pump, brain or vagus nerve stimulator, cochlear implant)\n* Presence of intracranial metal (e.g., aneurysm clip)\n* Unable to cooperate with non-sedated, navigated TMS testing\n\nShort-term protocol:\n\nInclusion Criteria:\n\n* Epilepsia partialis continua or status epilepticus\n* At least 2 medications failed\n* At least 24 hours of acute phase\n\nExclusion Criteria:\n\n* Presence of implanted electronic devices (e.g., pacemaker, medication pump, brain or vagus nerve stimulator, cochlear implant)\n* Presence of intracranial metal (e.g., aneurysm clip)",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Epilepsy",
+    "Status Epilepticus",
+    "Epilepsia Partialis Continua",
+    "Epilepsia Partialis Continua, Refractory (Medically)"
+  ],
+  "overall_status": "TERMINATED"
+}

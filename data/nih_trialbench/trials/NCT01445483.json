@@ -1,0 +1,49 @@
+{
+  "nctid": "NCT01445483",
+  "title": "Neuropsychological Changes in Patients Receiving Radiation Therapy for Brain Metastases",
+  "brief_summary": "Background:\n\n* There are no standardized sets of tests to measure changes in neuropsychological functioning in patients treated for brain metastasis (cancer that has spread beyond the original site to the brain).\n* Neuropsychological function has an important effect on quality of life and should be included when determining treatment options.\n\nObjectives:\n\n* To find out if there is a change in patients cognitive (thinking) and daily functioning after standard radiation treatment for brain metastasis that can be measured with tests.\n* To see if any changes on these tests are related to patients response to radiation therapy.\n\nEligibility:\n\n\\- Patients 18 years of age or older who have cancer that has spread to the brain.\n\nDesign:\n\n* Patients receive a 2-week course of radiation therapy to the brain, given daily 5 days a week. Some patients may require stereotactic radiosurgery (an additional boost of radiation therapy to specific sites of brain metastasis).\n* Patients have the following evaluations before and after treatment to determine changes in cognition and functioning:\n* Neuropsychological testing to measure cognitive (thinking) abilities like memory, attention, processing speed, and reading, and fine motor skills.\n* Questionnaires to assess quality of life and daily living skills.\n* Patients have MRI scans and blood and urine tests.\n* At the completion of radiation treatment, patients return to the clinic for follow-up visits at 1, 2, 4, 6, 9 and 12 months for blood and urine tests, physical examination, MRI of the brain, neuropsychological testing and assessments of quality of life and daily living skills.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "-INCLUSION CRITERIA:\n\n1. Patients must be 18 years of age or older.\n2. Pathologically confirmed primary malignancy with at least one intraparenchymal brain metastasis as identified on brain MRI scan with intravenous contrast.\n\n   * Cohort 1 (N=20): KPS greater than 70; Age less than or equal to 65; controlled primary tumor and no extracranial metastases.\n   * Cohort 2 (N=20): KPS greater than 70 and at least one of the following: age greater than 65, uncontrolled or synchronous primary disease, or extracranial metastases\n   * Cohort 3 (N=20): KPS less than 70\n3. Patient must have a primary medical or surgical oncologist in the community or at NCI who is willing to collaborate with the ROB staff in the clinical management of the patient.\n4. All patients must sign a document of informed consent indicating their understanding of the investigational nature and the risks of this study BEFORE any of the protocol related studies are preformed (this does not include routine laboratory tests or imaging studies required to establish eligibility).\n5. Subjects of childbearing or child- fathering potential must be willing to use a medically acceptable form of birth control, which includes abstinence, while they are being treated on this study.\n\nEXCLUSION CRITERIA:\n\n1. Cognitively impaired patients who cannot give informed consent, including patients assigned a power of attorney for medical decisions.\n2. Inability to communicate in the English language.\n3. Pre- existing or active psychiatric or neurologic impairments, not caused by the brain metastasis, which, in the opinion of the investigators, will interfere with the proper administration or completion of the protocol.\n4. Prior Therapy\n\n   * Patients must not have been treated for a previous brain metastasis.\n   * Patients must not have had previous cranial radiation.\n   * Patients must not undergo treatment with an investigational drug for the primary disease within 7 days of baseline neuropsychological testing.\n   * Patients must not receive systemic therapy within 7 days prior to baseline neuropsychological testing.\n   * Patients who have had surgery for their current brain metastasis must wait at least 7 days before baseline neuropsychological testing.\n5. Concurrent Therapy\n\n   * Treatment of primary malignancy with systemic therapy (chemotherapy or biologic agents) cannot be delivered concurrently with the treatment of the intracranial disease. However, treatment of the primary site with local therapy, either surgery or radiotherapy, can be performed concurrently with the treatment of the intracranial disease.\n   * Patients receiving glucocorticoids should be tapered to the lowest possible dose, or stopped altogether, by the treating physician. If glucocorticoid dose is adjusted or given for the first time, the patient must remain on stable dose of glucocorticoids for at least 24 hours prior to initial neurocognitive testing, CT and MR imaging.\n6. Patients needing emergent radiation therapy for their brain metastases will be excluded.\n7. Patients must not have evidence of leptomeningeal metastases.\n8. Patients must not be HIV positive.\n9. Other medical conditions deemed by the PI or associates to make the patient ineligible for protocol investigations.\n10. Pregnant or breast-feeding females are excluded because of the potential mutagenic effects on a developing fetus or newborn.\n11. Clinically significant unrelated systemic illness which in the judgment of the Principal or Associate Investigator would compromise the patient s ability to tolerate this therapy or are likely to interfere with the study procedures or results.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Primary clinical",
+  "condition": [
+    "Brain Metastasis",
+    "Cancer"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with brain metastases who have not received prior treatment for brain metastases or prior cranial radiation. There are no requirements or restrictions regarding prior systemic therapy for advanced disease outside the brain, so patients may be treatment-naïve or previously treated for extracranial disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Cohort 1",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Cohort 1 includes patients with brain metastases who have not had prior treatment for brain metastasis or cranial radiation. There are no restrictions on prior systemic therapy for advanced disease, so both treatment-naïve and previously treated patients are eligible, including those who have only had adjuvant therapy."
+    },
+    {
+      "cohort_label": "Cohort 2",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Cohort 2 includes patients with brain metastases who have not had prior treatment for brain metastasis or cranial radiation. There are no restrictions on prior systemic therapy for advanced disease, so both treatment-naïve and previously treated patients are eligible, including those who have only had adjuvant therapy."
+    },
+    {
+      "cohort_label": "Cohort 3",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Cohort 3 includes patients with brain metastases who have not had prior treatment for brain metastasis or cranial radiation. There are no restrictions on prior systemic therapy for advanced disease, so both treatment-naïve and previously treated patients are eligible, including those who have only had adjuvant therapy."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04825639",
+  "title": "Identifying Risk Factors for Developing AKI in Sepsis",
+  "brief_summary": "A study to evaluate the prevalence of Acute Kidney Injury (AKI) in patients with Diabetic Ketoacidosis (DKA) and sepsis using data collected prospectively to a patient registry. The primary objective is to compare the prevalence of AKI in sepsis and DKA in different age groups in children and investigate the difference in the prevalence of hyperchloremia in the two groups.Secondary objectives are Compare the prevalence of AKI in sepsis and DKA in different age groups in children and investigate the difference in the prevalence of hyperchloremia in the two groups.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria\n\n* Children under 16 years and admitted to PCCU or wards in the past 5 years\n* Diagnosis of DKA or Sepsis/severe bacterial infection/septic shock\n\nDKA - defined as per the British Society for Paediatric Endocrinology and Diabetes (BSPED) guidance. Sepsis is defined based on the International Pediatric Sepsis Consensus Conference guidance (2005)\n\n8.3. Exclusion Criteria\n\n* Any patients identified as above but not able to obtain case notes for any reason.\n* Patients with pre-existing kidney conditions\n* Patients with inborn errors of metabolism",
+  "minimum_age": "0 Days",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Children admitted to PICU with sepsis as per the sepsis consensus conference (2005) definition.\n\nChildren with DKA admitted to PICU and wards. Diabetic Ketoacidosis defined based on the British Paediatric Society of Endocrinology and Diabetes.",
+  "condition": [
+    "Sepsis",
+    "Acute Kidney Injury",
+    "Diabetic Ketoacidosis"
+  ],
+  "overall_status": "COMPLETED"
+}

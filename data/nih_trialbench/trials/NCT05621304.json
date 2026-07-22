@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT05621304",
+  "title": "Optimizing HBV Care Cascade Among Foreign-Born in the United States (FOCUS-HBV Study)",
+  "brief_summary": "Background:\n\nPeople who were born outside of the country are the largest group of adults infected with chronic hepatitis B virus (HBV) in the US. HBV affects the liver. If not treated, HBV infection can lead to serious liver disease, including cancer. One recent study showed that only 35% of foreign-born US adults were aware of their HBV infections. Foreign-born US adults may also have trouble getting proper care after they are diagnosed with HBV. In one small survey, language, cultural, and financial barriers were cited as the biggest reasons for not receiving care. To help more people with HBV, researchers want to learn how to find and overcome any barriers to care.\n\nObjective:\n\nThis natural history study seeks to identify and better understand barriers that prevent foreign-born US adults from getting proper care for HBV infections.\n\nEligibility:\n\nPeople aged 18 years and older with chronic HBV who were born outside of the US.\n\nDesign:\n\nParticipants will visit the NIH clinic 1 time. This visit will take about 20 minutes.\n\nResearchers will review participants medical records and collect information about their HBV.\n\nParticipants will complete a survey. They will answer questions about:\n\nWhere they came from.\n\nWhen they came to the US.\n\nHow well they have adapted to living in the US.\n\nThe health care they have received for HBV.\n\nTheir age, gender, and education.\n\nParticipants will be paid $10 for completing the survey.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Male or female, aged \\>=18 years\n* Diagnosed of chronic HBV (HBsAg-positive)\n* Self-reported country of birth outside of the US\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n-Individuals not able to understand and sign the informed consent document will not be included in the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Foreign Born subjects with Chronic HBV",
+  "condition": [
+    "Chronic Hepatitis B Virus (Hbv)"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational study enrolling foreign-born adults with chronic hepatitis B virus (HBV) infection, regardless of prior treatment history. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria require only a diagnosis of chronic HBV and do not mention prior systemic therapy for advanced disease. There are no specifications regarding prior lines of therapy, adjuvant-only patients, or treatment-naïve status. This is an observational study focused on barriers to care, not on treatment interventions."
+    }
+  ]
+}

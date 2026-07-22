@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04383457",
+  "title": "Covid-19 Triage Using Camera-based AI",
+  "brief_summary": "The vital signs are critical in assessing the severity and prognosis of infections, such as Covid-19. The devices used today for measuring the vital signs have to be in physical contact with the patients. There is an apparent risk of transferring infections from one patient to the next (or to healthcare professionals).\n\nThis project aims to evaluate a new camera-based system for contactless measurement of vital signs as well as an artificial intelligence (AI) predicting hospitalization or death within 30 days. This particular study will evaluate the new system's ability without interfering with standard care of the patient.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. The patient is attending for triage presenting with symptoms of an infection.\n2. Subject has provided informed consent\n3. Age \u226518 years\n4. Fluent in Swedish (reading, writing, conversational)\n5. Mental state is such that he or she is able to understand and give informed consent to participation in the study by signing the Information and Consent Form\n6. The investigator determines that the new method, and the reference methods, can be used as intended with adequate reliability and safety\n7. The time for investigations in this study is estimated to approximately 15-20 minutes. Vital signs will be handed over to the care provider responsible for the further management of the patient saving approximately 5-10 minutes of their time. Hence, the delay in the management of each patient introduced by this study is approximately 10 minutes. Patients deemed being in such a severe medical condition on arrival, that 10 minutes of delay is deemed detrimental will not be included.\n\nExclusion Criteria:\n\n1. Depressed level of consciousness from inclusion up until all investigations are completed (during approximately 15-20 minutes).\n2. Patient request to be withdrawn from the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult patients attending the emergency department at \u00d6stra sjukhuset Gothenburg for a suspected infection.",
+  "condition": [
+    "Coronavirus Infections"
+  ],
+  "overall_status": "COMPLETED"
+}

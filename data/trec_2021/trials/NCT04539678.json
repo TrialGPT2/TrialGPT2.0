@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04539678",
+  "title": "SYTHROM Cohort, Myeloproliferative Neoplasia With Normal CBC and Thrombotic Complications",
+  "brief_summary": "Among the etiologies of thrombosis, myeloproliferative neoplasia (MPN) is quite rare but should be investigated in case of thrombosis of atypical localization (digestive or cerebral) or in the context of recurrent idiopathic thrombosis in a young subject. Thrombosis could reveal an underlying MPN through the identification of a JAK2 V617F mutation. Rarely, MPN with thrombotic complications present with normal complete blood count(CBC). In case of a MPN with a thrombotic event but without CBC abnormality, anti-thrombotic treatment is recommended. But there is no recommendation for the indication of cytoreductive therapy and the clinician's decision is often empirical.\n\nOne of the major complications of for essential thrombocythemia (ET) or polycythemia vera (PV) is thrombosis and an age over 60 is a major risk factor. The treatment of thrombosis associated with TE or PV is based on recommendations the main therapeutic objective of which is to reduce the thrombotic risk. The combination of a cytoreducing agent and antithrombotic treatment is thus proposed in high-risk patients. The efficacy of this management is monitored by assessing CBC with the objective of normalization at \\<400 G/L of platelets for ET patients and \\<45% hematocrit in case of PV.\n\nThe absence of abnormal CBC makes it difficult to justify cytoreduction. The benefit of such a therapy in this context has not been clinically demonstrated. If a cytoreductive therapy is initiated, no biological parameters are available to assess the response to treatment.\n\nThe objective of this observational study is to evaluate the incidence of recurrence of thrombosis in patients whose thrombotic event revealed an underlying MPN with normal CBC. A comparison of groups treated or not with cytoreductive agents will be performed. Longitudinal monitoring of the patients will provide a better understanding of the nature and kinetics of hematological changes in these patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria :\n\n* Adult \u226518 years old\n* Diagnosis of a deep arterial or venous thrombotic event verified by imaging (Doppler or CT scan)\n* Diagnosis of MPN with normal CBC according to WHO 2017 criteria characterized by the detection of a molecular abnormality JAK2V617F mutation (regardless of allelic load), CALR or MPL and/or a bone marrow biopsy with abnormalities in favor of MPN.\n* Normal blood cell count not suggestive of polycythemia vera (hematocrit\\<48% and hemoglobin\\<16g/dL for women; hematocrit\\<49% and hemoglobin\\<16.5g/dL for men), essential thrombocythemia (platelets\\<450 G/L) nor myelofibrosis (white blood cell count\\<11 G/L, no anemia or erythromyelemia associated with splenomegaly) at the time of the thrombotic event.\n\nExclusion Criteria :\n\n* Minors (\\<18 years of age)\n* Microcirculation disorders (erythromelalgia, headaches, paresthesia, ischemia of the extremities)\n* Superficial or deep arterial or venous thrombosis NOT verified by imaging\n* Diagnosis or history of TE, PV or myelofibrosis at time of first thrombotic event\n* Diagnosis of mixed myelodysplastic/myeloproliferative syndrome\n* Diagnosis of unclassifiable MPN with excess blasts at the onset or signs of myelodysplasia as defined by the WHO 2017 classification",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Thrombosis recurrence :treated and untreated patients with cytoreductive agents",
+  "condition": [
+    "Thrombotic Patients",
+    "Diagnosis of Myeloproliferative Neoplasia",
+    "Impact of Treatment With Cytoreducing Agent"
+  ],
+  "overall_status": "COMPLETED"
+}

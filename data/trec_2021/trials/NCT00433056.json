@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00433056",
+  "title": "Long Term Treatment Interruptions",
+  "brief_summary": "LOTTI study Centers\n\nThis a multicenter, multinational study.\n\nClinical phase: III\n\nObjectives\n\nThe primary objective is to compare efficacy and safety of continuing a conventional HAART in chronically infected HIV patients with a therapeutic strategy based on long term, immunologically driven treatment interruptions.\n\nSecondary objectives are:\n\n* To verify the risk of developing viral resistance\n* To verify the effect of the two strategies on metabolic parameters\n* To verify the possibility to steadily discontinue antiretroviral therapy in patients who started it with baseline immunological values higher than those currently recommended by international guidelines for HIV treatment\n* To identify predictive variables of the possibility to safely discontinue antiretroviral therapy\n* To verify the dynamic of CD4+ cell loss and HIV replication after treatment interruption\n\nNumber of Patients: A total of 320 patients.\n\nStudy design:\n\nControlled, Randomized, Open study The study will last 5 years\n\nTreatment arms:\n\nPatients will be randomized in a ratio 1:1 to one of the two treatment arms Control group continuing the ongoing therapy STI group performing long term CD4 guided structured treatment interruptions In the STI arm patients will stay off therapy until their CD4 count will drop \\< 350 cells/mcL (one measurement will be considered sufficient). At that time point patients will resume the HAART regimen they were assuming before STI and will continue HAART until they CD4 count will raise \\> 600 cells/mcL (at least 2 consecutive measurements 2 months apart) and their HIV-RNA will drop below the detection limit of 50 copies/ml (one measurement will be considered sufficient). When both the CD4 count and the viral load will be within these pre-set values they will stop therapy again. There is no limit to the number of interruptions and re-start cycles during the study period\n\nEnd points:\n\nThe primary end-point for the evaluation of the main objective of the study will be clinical. The primary outcome measure will be based on the occurrence of a clinical end-point defined as: disease progression (occurrence of any AIDS defining event), death for any cause or the occurrence of clinical events requiring hospital admission\n\nThe secondary objectives of the study will be evaluated on the basis of:\n\n* Mean variation of blood cholesterol and triglycerides from baseline values.\n* Development of lipodystrophy or modification of a pre-existing lipodystrophy\n* Time off therapy.\n* Variation of CD4 counts and HIV-RNA levels\n* Genotypic tests to be performed in the case of HIV-RNA \\> 1000 copies/ml while on therapy for at least 4 months or one month after each treatment interruption.\n\nStatistics:\n\nThe study is powered to evaluate equivalence between the two strategies under the assumption that, in the control arm, the primary end-point would be observed in a proportion of subjects \\< 7% and that the same proportion in the STI arm would not exceed 10% with a maximum allowed 95%CI of 12%. 320 patients will be needed for alfa = 5% and 1-beta = 80%. The primary analysis will be made according to the intention-to-treat approach and therefore no correction for eventual drop outs is needed. In addition, a secondary per-protocol analysis will be performed.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\> 17 years\n* Informed consent signed\n* Effective ongoing treatment (HIV-RNA \\< 50 copies/ml). Treatment must be based on any triple drug therapy. Patients must be on the same steady therapy for at least 3 months.\n* Current CD4 cell count above 600 cells/mcL and nadir of CD4 cell count \\> 200 cells/mcL\n\nExclusion Criteria:\n\n* Childbearing or breastfeeding. Women of childbearing potential will be asked to adopt effective contraceptive methods or behaviors\n* Any ongoing grade 4 (WHO) AE or laboratory abnormality with the exclusion of cholesterol, triglycerides for which a grade 3 (AHA) level will be considered an exclusion criteria.\n* Previous diagnosis of AIDS\n* Patients with HBV coinfection on active anti-HIV treatment with either lamivudine and/or tenofovir",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "HIV Infections",
+    "AIDS"
+  ],
+  "overall_status": "COMPLETED"
+}

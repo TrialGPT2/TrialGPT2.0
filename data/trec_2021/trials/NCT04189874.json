@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04189874",
+  "title": "Stool Testing With Molecular Assay to Minimize Contact Precautions",
+  "brief_summary": "This study evaluates the impact of infectious diseases molecular-based stool testing compared to conventional stool testing on reducing the need for contact precautions among hospitalized patients. Half of patients' stools will be tested with the molecular assay , while the other half will be tested with conventional testing.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* Any patient in whom an appropriate stool sample has been collected and received by the microbiology laboratory that is:\n\n  1. accompanied by a physician request for microbiologic testing for viruses, bacteria and/or parasites, and is\n  2. appropriate for testing as determined by the microbiology laboratory standard (stool sample must have sufficient consistency to take shape of collection container), and\n  3. patient is admitted to hospital\n  4. Stool testing done between Monday 08:00 and Friday 14:00 a. The Infection Prevention and Control Practitioners (IPAC) are only available to review the stool test results between Monday 08:00 and Friday 17:00. Since IPAC is responsible for all decisions regarding contact isolation initiation and discontinuation, time delays from stool test reporting and decisions regarding contact isolation on the weekends or after 17:00 on weekdays would confound the primary outcome. As a result, FGP testing will only be available between Monday 08:00 and Friday 14:00 during the study period since each FGP test requires approximately 1 hour to complete, and the laboratory can only run 1 test at a time. Outside these hours, only conventional testing will be available.\n\nExclusion Criteria:\n\n1. Immunocompromised patients\n2. Investigation of possible diarrheal outbreak by either public health officials or infection prevention and control practitioners\n3. Nosocomial Clostridioides difficile infection defined as a positive polymerase chain reaction test in any patient who meets any of the following criteria:\n\n   1. Has been hospitalized for \u2265 72 hours and then develops \u2265 3 loose bowel movements per day\n   2. Develops \u2265 3 loose bowel movements per day regardless of length of hospital stay and has been hospitalized in the preceding 3 months for \u2265 48 hours",
+  "minimum_age": "1 Month",
+  "maximum_age": "110 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Infectious Gastroenteritis"
+  ],
+  "overall_status": "COMPLETED"
+}

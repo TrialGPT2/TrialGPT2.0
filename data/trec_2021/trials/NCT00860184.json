@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT00860184",
+  "title": "SmartRisk Stroke Prediction by MRI of Carotid Disease",
+  "brief_summary": "Atherosclerotic plaque at the carotid artery bifurcation is a major source of stroke. The purpose of this investigation is to determine the ability of the SmartRisk software module to predict stroke or stroke-related events due to carotid plaque within a high-risk population. The SmartRisk software module operates on magnetic resonance images (MRI) of the carotid artery wall.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* 50-79% stenosis of the carotid artery\n* age 18 or older\n* no ischemic neurovascular symptoms within preceding 6 months\n\nExclusion Criteria:\n\n* contraindication to MRI (e.g. weight \\> 130 kg, pregnancy)\n* prior or planned carotid endarterectomy or stenting\n* history of atrial fibrillation\n* prior neck irradiation",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patient referred for ultrasound assessment of carotid artery disease",
+  "condition": [
+    "Atherosclerotic Disease, Carotid"
+  ],
+  "overall_status": "UNKNOWN"
+}

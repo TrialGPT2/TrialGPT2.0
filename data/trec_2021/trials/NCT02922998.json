@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02922998",
+  "title": "CD64 and Antibiotics in Human Sepsis",
+  "brief_summary": "The purpose of the study is to find out whether CD64 expression on neutrophils measured by a new bedside test (LeukoDx) within 30 minutes is associated with effective antibiotic therapy in critically ill adult patients at risk of sepsis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* age \\> 18 years\n* critically ill adult patients\n* sepsis\n* SIRS\n* initiation of antibiotic treatment\n* patients \\< 48 hours after admission on ICU\n\nExclusion Criteria:\n\n* multiple admissions on ICU, (\\>1 in last 2 weeks period)\n* leukopenia \\< 1 G/l\n* and thrombocytopenia\n* rhG-CSF or IFN-gamma therapy up to 1 week before inclusion\n* participation in another study receiving drugs or biological within the preceeding 30 days\n* recent longterm corticosteroid treatment\n* HIV\n* patients after organ transplantation treated with immunomodulating drugs\n* pregnant patients or after delivery\n* life expectancy \\< 24 hours\n* polytraumatized patients with reanimation on scene, or infest prognosis\n* patients under high dose corticosteroids or chemotherapy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Critically ill adult patients with SIRS at risk of sepsis with suspected infections in whom application of antibiotics is started",
+  "condition": [
+    "Antibiotic Resistant Infection",
+    "Critical Illness",
+    "SIRS",
+    "Sepsis"
+  ],
+  "overall_status": "COMPLETED"
+}

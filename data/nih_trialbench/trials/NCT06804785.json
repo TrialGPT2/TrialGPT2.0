@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT06804785",
+  "title": "Hybrid Intelligence for Trustable Diagnosis and Patient Management of Prostate Cancer (HIT-PIRADS)",
+  "brief_summary": "The purpose of this study is to develop a new way to diagnose prostate cancer through the use of artificial intelligence. The goal is for this new method to reduce delays in diagnoses and to avoid invasive procedures such as biopsies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Elevated PSA (4.0-10.0 ng/ml) or abnormal digital rectal exam with PSA of 2.00-10.00 ng/ml as indicated in the patient's lab report.\n* Patients must be biopsy naïve, confirmed with patient or medical record.\n* Patients must be male, ≥18 and ≤ 89 years of age.\n* Patient must have a life expectancy ≥10 years, determined by PI.\n* Patients must exhibit an ECOG performance status of 0-2, as noted in their medical record.\n\nExclusion Criteria:\n\n* Patients who are on a 5-α-reductase inhibitor within 12 months of enrollment, as confirmed by medical record.\n* Patients who have had a prostate infection within 1 month of enrollment, as confirmed by medical record.\n* Patients who are receiving or who received prostate cancer treatment (e.g., androgen deprivation therapy, surgery, radiation therapy or adjuvant/neoadjuvant therapy with investigational drugs) per their medical record.\n* Patients who've had an invasive urological procedure within 1 month of enrollment, as confirmed by their medical record and patient reporting.\n* Patients with no access to the rectum for a transrectal ultrasound, as determined by the Urologist.\n* Patients with a contraindication to magnetic resonance imaging (MRI).\n* Vulnerable populations: Prisoners or adult men \\>89 years old.",
+  "minimum_age": "18 Years",
+  "maximum_age": "89 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "Patients at an increased risk of having prostate cancer. An increased risk for prostate cancer means the patient may have had either a blood test which indicated they have an elevated prostate-specific antigen (PSA) (a protein produced by both cancerous and noncancerous tissue in the prostate), or an abnormal exam of the patient's rectum, anus or prostate gland.",
+  "condition": [
+    "Prostate Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls biopsy-naïve men with suspected prostate cancer who have not received any prior prostate cancer treatment, including systemic, adjuvant, or neoadjuvant therapy. The study population is entirely treatment-naïve for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Patients must be biopsy-naïve and must not have received any prostate cancer treatment, including androgen deprivation therapy, surgery, radiation, or adjuvant/neoadjuvant therapy. Only treatment-naïve patients are eligible, and those with any prior therapy are excluded."
+    }
+  ]
+}

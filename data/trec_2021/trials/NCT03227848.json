@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT03227848",
+  "title": "eMurmur ID - Clinical Performance Evaluation",
+  "brief_summary": "The differentiation between innocent and pathologic murmurs through traditional auscultation can often be challenging, which in the end makes the diagnosis strongly dependent on the clinitians experience and clinical expertise. With the development of technology it is now possible to help diagnose heart murmurs using computer aided auscultation systems (CAA). eMurmur ID is an investigational CAA system (not FDA cleared) and the investigators hypothesize that it can distinguish between AHA class I (pathologic murmurs) and AHA class III heart sounds (innocent murmurs and/or no murmurs) with a sensitivity and specificity not worse compared to a similar FDA cleared CAA system on market.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* All age groups of patients will be included from 1day old\n* Patients who are being followed for known congenital heart disease and are returning for follow up\n* Patients referred for a suspected heart murmur\n\nExclusion Criteria:\n\n* Mismatch between the expert physician's diagnosis (auscultation based) and the diagnosis resulting from echocardiography (independently read by a cardiologist blinded to the auscultation results). Note: both, the expert physician and echocardiography results must independently reach the same diagnosis, which is then accepted as the gold standard reference diagnosis to which both devices are compared to. This is necessary because not every pathology visible on an echocardiogram causes an audible murmur, and not every murmur heard by a medical expert might correlate to pathology.\n* Patient whose behaviour does not allow for a standard auscultation by the physician (e.g. a screaming fit).",
+  "minimum_age": "1 Day",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Study participants will be chosen based on the heart murmur types required to meet a specified target patient population. Pre-selection of AHA class I and AHA class III patients will be done to achieve a reasonably similar distribution of murmur types compared to a US patient population. All major pathological and innocent murmur types will be included and their occurrence depending on age will be considered. Number of participants drawn: 120 participants across all ages will be included, 75% pediatric and 25% adult.",
+  "condition": [
+    "Heart Murmurs",
+    "Pathologic Murmurs",
+    "Innocent Murmurs",
+    "Congenital Heart Defect",
+    "Systolic Murmurs",
+    "Diastolic Murmurs"
+  ],
+  "overall_status": "COMPLETED"
+}

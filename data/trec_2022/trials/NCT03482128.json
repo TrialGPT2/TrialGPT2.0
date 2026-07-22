@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03482128",
+  "title": "Blood Transfusion and Postoperative Outcome Before and After Implementing a Coagulation Management Algorithm",
+  "brief_summary": "Implementing coagulation management algorithms based on Point-of-care (POC) testing devices such as thromboelastography (TEG) or rotational thromboelastometry (ROTEM) have been shown to reduce transfusion rates and the occurrence of adverse patient outcomes. Apart from the TEG and ROTEM, another viscoelastic POC measurement technique, the SONOCLOT, can be easily used at the bedsite. However Information regarding a SONOCLOT based coagulation management algorithm however is lacking.\n\nTransfusion rates of allogeneic blood products (Red blood cells = RBC, Fresh frozen plasma = FFP, Platelet concentrates = PLT) and patient adverse outcomes in two cohorts before and after the implementation of a SONOCLOT based coagulation management algorithm were evaluated on an observational basis in 1754 patients undergoing different types of cardiac surgery. The effect of the cohort and 19 predictors on transfusion was assessed by relative R2-values obtained by bootstrapping and a hurdle regression model, comprising a binomial and a Poisson count component. Association of predictors with post-operative outcomes was assessed with a logistic regression model.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion\n\n* Patients undergoing cardiac surgery at the Triemli City Hospital\n* Coronary artery bypass grafting\n* Valve intervention (Aortic/Mitral/Tricuspid)\n* Aortic surgery\n* Time period before implementation of a coagulation management guided by SONOCLOT\n* Time period after implementation of a coagulation management guided by SONOCLOT\n\nExclusion\n\n* Time period during implementation of a coagulation management guided by SONOCLOT\n* Missing data in data base",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients undergoing cardiac surgery at the Triemli City Hospital",
+  "condition": [
+    "Coagulation Disorder, Blood"
+  ],
+  "overall_status": "COMPLETED"
+}

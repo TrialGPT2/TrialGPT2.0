@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT02589977",
+  "title": "Myocardial Perfusion, Oxidative Metabolism, and Fibrosis in HFpEF",
+  "brief_summary": "Unlike heart failure with reduced ejection fraction (HFrEF) where several medicines and devices have been demonstrated to reduce mortality, no such therapies have been identified in HFpEF. This may be in part due to incomplete understanding of the underlying mechanisms of HFpEF.\n\nRecently, impaired myocardial blood flow, reduced myocardial energy utilization, and increased myocardial fibrosis have been postulated to play important pathophysiologic roles in HFpEF. The investigators and others have demonstrated that HFrEF may be associated with altered myocardial energy utilization and \"energy starvation.\" However, there are limited data regarding \"energy starvation\" in HFpEF and the relationships between myocardial blood flow, energy utilization, and fibrosis in HFpEF are largely unknown. Therefore, the purposes of this study are to use non-invasive cardiac imaging techniques to describe cardiac structure, function, blood flow, energetics, and fibrosis, and the relationships between these in order to better understand underlying mechanisms in HFpEF.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "ALL\n\nInclusion Criteria:\n\n* estimated glomerular filtration rate (eGFR) \\> 60 ml/min\n* preserved left ventricular ejection fraction (\\>= 50%) on echocardiography\n\nExclusion Criteria:\n\n* coronary artery disease\n* diabetes mellitus\n* contraindications to cardiac magnetic resonance imaging (CMR)\n* weight \\>350 lbs\n* inability to lie flat for imaging\n* anemia\n* contraindications to regadenoson or aminophylline\n\nHEALTHY\n\nInclusion criteria:\n\n* normal cardiac structure and function on echocardiography\n* BP \\< 140/90\n\nExclusion criteria:\n\n* known cardiovascular disease, cardiac risk factors or use of cardiac medications\n\nHYPERTENSIVE\n\nInclusion criteria:\n\n* history of BP \\>140/90\n* 1 or more antihypertensive medications\n* LV ejection fraction (LVEF) at least 50%\n* current BP \\< 160/90\n\nExclusion criteria:\n\n* known cardiovascular disease or risk factors aside from hypertension or use of cardiac medications\n\nHFpEF\n\nInclusion criteria:\n\n* physician-confirmed diagnosis of HF\n* symptomatic HF\n* LVEF at least 50%\n* elevated LV filling pressure by catheterization, echocardiographic criteria or B-type-natriuretic peptide \\> 100\n* current BP \\< 160/90\n\nExclusion criteria:\n\n* prior history of LVEF below 50%\n* acute decompensated HF\n* moderate or greater valvular disease\n* significant cardiac arrhythmias\n* pericardial disease\n* congenital heart disease\n* primary pulmonary hypertension",
+  "minimum_age": "50 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Heart Failure, Diastolic",
+    "Diastolic Heart Failure",
+    "Hypertension"
+  ],
+  "overall_status": "COMPLETED"
+}

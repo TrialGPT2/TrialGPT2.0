@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT01441089",
+  "title": "Collection of Blood From Patients With Cancer, Other Tumors, or Tumor Predisposition Syndromes for Genetic Analysis",
+  "brief_summary": "Background:\n\n\\- Some genes may be associated with a greater chance of side effects during cancer treatment. These genes may also make certain treatments less effective. Researchers want to collect blood or cheek swab samples from people having cancer treatment to study these genes.\n\nObjectives:\n\n\\- To obtain a blood or cheek swab sample to study genetic differences that may affect cancer treatment.\n\nEligibility:\n\n\\- Individuals with cancer who are being treated at the National Cancer Institute.\n\nDesign:\n\n* Participants will provide a blood sample for study.\n* Participants who have blood-based cancer, such as leukemia, will provide a cheek swab sample.\n* If the blood or cheek swab sample does not have enough genetic material for analysis, an additional sample may be collected.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Any individual currently enrolled in an NIH intramural research program clinical trials receiving treatment.\n* Ability of participant or Legally Authorized Representative (LAR) to understand and be willing to sign the informed consent document.\n* Age \\>= 3 years old\n\nEXCLUSION CRITERIA:\n\n-N/A",
+  "minimum_age": "3 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Any patient enrolled on an IRB approved NIH Intramural Research Program therapeutic clinical trial with cancer, other tumors, or possible genetic tumor predisposition syndromes.",
+  "condition": [
+    "Prostate Cancer",
+    "Breast Cancer",
+    "Lung Cancer",
+    "Ovarian Cancer",
+    "Lymphoma"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic biospecimen collection study enrolling individuals with cancer who are currently receiving treatment on any NIH intramural clinical trial. There are no restrictions on prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility includes any individual with cancer currently receiving treatment on an NIH clinical trial, with no mention of specific lines of therapy for advanced disease. The protocol does not specify whether adjuvant-only patients are eligible or excluded, nor does it define restrictions based on prior systemic therapy."
+    }
+  ]
+}

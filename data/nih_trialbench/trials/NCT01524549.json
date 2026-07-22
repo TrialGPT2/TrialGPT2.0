@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT01524549",
+  "title": "Blood Vessel Study",
+  "brief_summary": "Background:\n\n\\- The endothelium is the inner lining of blood vessels. The cells in this lining help regulate blood flow and immune system function. Problems with endothelial cells can contribute to heart disease, high blood pressure, and diabetes. Certain genes or parts of genes may be related to problems with endothelial function. Researchers want to study healthy adults who have genes that may affect their endothelial function. More information on these genes may provide more information on genetic risk for certain diseases.\n\nObjectives:\n\n\\- To study healthy adults who have genetic markers related to endothelial cell problems.\n\nEligibility:\n\n* Healthy volunteers between 18 and 65 years of age.\n* Current participants of the Environmental Polymorphisms Registry and have certain genes related to endothelial cell problems.\n\nDesign:\n\n* Participants will have a single study visit to collect information and samples.\n* Participants will be screened with a physical exam and medical history. Blood and urine samples will be collected.\n* Participants will have an ultrasound of the artery in the arm and will be given a short-acting medication called nitroglycerin to study blood flow and blood pressure.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Participant of the Environmental Polymorphisms Registry and current contact information available\n* Genotype information available for relevant CYP2J2 and EPHX2 polymorphisms, which indicates:\n\n  * WT for EPHX2 K55R and WT for CYP2J2 7\n  * WT for EPHX2 K55R and heterozygous for CYP2J2 7\n  * WT for EPHX2 K55R and homozygous for CYP2J2 7\n  * WT for CYP2J2 7 and heterozygous for EPHX2 K55R (N=30)\n  * WT for CYP2J2 7 and homozygous for EPHX2 K55R (N=30)\n* Age 18-70 years\n* Willing and able to provide informed consent\n* Able to comply with all protocol procedures\n\nEXCLUSION CRITERIA:\n\n* Currently pregnant or breast feeding\n* Hospitalized for a cardiovascular disease or stroke event within the previous 3 months\n* Current use of long-acting nitrates (e.g., isosorbide mononitrate, isosorbide dinitrate)\n* Current use of medications taken for hypertension.\n* For participants with current daily or chronic use of NSAIDs; unable or unwilling to refrain from taking NSAIDs for 7 days prior to enrollment visit.\n* Current use of insulin for Type I Diabetes\n* Presence of a pacemaker or implanted cardioverter-defibrillator\n* Presence of an irregular heart rhythm (atrial fibrillation) at the study visit\n* Current resting heart rate \\<40 or \\>125 beats per minute\n* Current systolic blood pressure \\<90 or \\>180 mmHg, or diastolic blood pressure \\>110 mmHg\n* Skin sensitivity precluding use of ECG electrodes\n* History of hypersensitivity to nitroglycerin or other nitrates or nitrites\n* History of infection within the preceding 1 week or temperature \\>38 degrees C\n* Unwilling or unable to:\n\n  * Fast (including alcohol and caffeine-containing products) and discontinue tobacco use for 12 hours prior to Visit 1\n  * Withhold all prescribed and over-the-counter medications and supplements the morning of Visit 1, until after the visit is completed\n  * Refrain from taking the following, as needed, medications for 7 days prior to Visit 1:\n\n    * Vasoactive agents, such as decongestants (e.g., pseudoephedrine)\n    * Recreational drugs such as marijuana, cocaine, and amphetamines\n    * Anti-inflammatory agents (NSAIDs), such as ibuprofen, naproxen or aspirin\n    * Sildenafil (Viagra), vardenafil (Levitra), and tadalafil (Cialis)\n\nExclusion of Pregnant and Breast Feeding Women: Any woman who is pregnant or breast feeding will be excluded from this study because nitroglycerin, administered as part of the study, is category C, and it is unknown whether nitroglycerin can cause fetal harm when administered to a pregnant woman or whether it can affect reproductive capacity; it is also unknown whether nitroglycerin is excreted in human milk. Also, hormonal changes associated with pregnancy can significantly influence the proposed measures of endothelial function. Females will have a urine pregnancy test prior to undergoing study procedures.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Genotype data from the EPR will be used to identify potential study participants@@@@@@",
+  "condition": [
+    "Cardiovascular Disease"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-oncology, observational study enrolling healthy volunteers with specific genetic polymorphisms. There is no systemic therapy for advanced disease involved or required for eligibility.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls healthy adults based on genetic markers and does not involve cancer or systemic therapy for advanced disease. No line-of-therapy criteria are specified or relevant."
+    }
+  ]
+}

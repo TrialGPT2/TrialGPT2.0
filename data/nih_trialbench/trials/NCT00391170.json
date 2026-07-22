@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT00391170",
+  "title": "Dexamethasone to Prevent Oral Chronic Graft-versus-Host Disease",
+  "brief_summary": "This study will determine if a dexamethasone mouth rinse can reduce the risk of developing oral chronic graft-versus-host disease (cGVHD) in patients who have undergone a bone marrow (stem cell) transplant procedure. cGVHD is a common complication of stem cell transplantation, resulting from the donor cells attacking the transplant recipient's tissues. In oral cGVHD, the tissues in the mouth are damaged, causing painful mouth sores. Dexamethasone is a corticosteroid that is commonly used to treat inflammation. It is the only corticosteroid available that can be used as a mouth rinse.\n\nPatients 12 years of age or older who have received a stem cell transplant may be eligible to participate if they are enrolled within 70 to 90 days of their transplant. Candidates are screened with a medical history and oral exam.\n\nParticipants are randomly assigned to receive either the dexamethasone rinse or a placebo (a solution that looks and tastes like the dexamethasone rinse but has no active medication). They undergo the following procedures:\n\nTreatment with the study solution. Patients rinse their mouth with the dexamethasone solution or placebo three times a day for 3 months.\n\nClinic visits before starting treatment and at 1, 2 and 3 months after starting the study drug for the following procedures:\n\n* Oral exam (before starting treatment and at each visit).\n* Photographs of the mouth (before starting treatment and at 3 months).\n* Biopsy from inside the cheek (before starting treatment). The inside of the cheek is numbed and a small piece of tissue is removed for examination by a pathologist.\n* Saliva sample collection (before starting treatment).\n* Blood draw (before starting treatment and at each visit).\n* Quality-of-life questionnaires (before starting treatment and at 3 months).\n* Questionnaire to assess level of dry mouth and mouth pain (before starting treatment and at each visit).\n* Review of medications (at each visit).\n* ACTH stimulation test to evaluate adrenal gland function (at 3 months). Patients are given an injection of a drug called \"ACTH\" or \"cosyntropin\" which is a version of a hormone normally produced by the pituitary gland. Blood samples are drawn before the injection and at 30 and 60 minutes after the injection to measure levels of the hormone cortisol.\n\nAfter treatment ends, participants are contacted by telephone every month for 6 months to report any symptoms of cGVHD, and they return to the clinic at 6 months for a final evaluation.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. History of allogeneic hematopoietic stem cell transplantation within 60-90 days of enrollment.\n  2. Age 12 or older.\n  3. Ability to rinse and expectorate study medication rather than swallow it.\n  4. Ability and willingness to come to Clinical Center for follow-up appointments and at the time of development of symptoms/signs suggestive of oral GVHD.\n\nEXCLUSION CRITERIA:\n\n1. Clinically significant oral chronic GVHD at the time of the screening.\n2. Active viral or fungal infection involving oral cavity not resolving by day 90.\n3. Platelet count less than 20,000/ml at the time of the screening appointment.\n4. Life expectancy less than 4 months at the time of enrollment.\n5. Documented hypersensitivity to dexamethasone.\n6. Pregnancy or lactation.\n7. Inability to understand the investigational nature of the study.\n8. Inability to provide informed consent.",
+  "minimum_age": "12 Years",
+  "maximum_age": "110 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Graft vs Host Disease"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients who have recently undergone allogeneic hematopoietic stem cell transplantation and are at risk for developing oral chronic graft-versus-host disease. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, as the intervention is prophylactic in the post-transplant setting.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on having undergone allogeneic stem cell transplantation within 60–90 days, with no mention of prior systemic therapy for advanced disease. The trial is focused on prevention of oral cGVHD, not treatment of relapsed or advanced malignancy, and does not specify or restrict prior lines of therapy."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02433808",
+  "title": "Neostigmine Reversal And Neuromuscular Recovery",
+  "brief_summary": "Patients undergoing surgery often receive paralytic agents (or neuromuscular blocking agents (NMBAs)) to facilitate the procedure. At the end of surgery, the effects NMBAs are reversed with a drug called neostigmine. The use of neostigmine significantly reduces the risk that a patient will be left with muscle weakness in the recovery room. Many anesthesiologists routinely use neostigmine because postoperative muscle weakness may lead to adverse events after surgery. Other anesthesiologists do not routinely administer neostigmine in the operating room because of concerns about potential side effects. Surprisingly, some investigators have reported that neostigmine-induced muscle weakness may occur if the drug is given when the effects of the NMBAs have completely worn off. In contrast, other investigators have not observed this side effect when neostigmine was given at the end of surgery. The aim of this study is to determine whether neostigmine use is associated with muscle weakness when it is given at the time of nearly complete recovery from NMBAs. Muscle strength will be measured using a sensitive monitor (TOF-Watch-SX) and through an examination of the patient for evidence of muscle weakness. Patients will also be evaluated how they recover from anesthesia and surgery.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Ages of 18-80\n* Patients undergoing general anesthesia requiring endotracheal intubation\n* Procedures that do not require maintenance of neuromuscular blockade for completion of the surgical procedure\n\nExclusion Criteria:\n\n* Presence of renal failure (creatinine \\> 2.0 mg/dL)\n* Neuromuscular disease impacting upper airway musculature or neuromuscular monitoring\n* Lack of access to either upper extremity for monitoring\n* Procedure duration less than 30 minutes\n* Requirement for postoperative intubation\n* Patients not achieving a TOF ratio of \u2265 0.9 at the end of surgery will be excluded from either study cohort.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Residual Neuromuscular Block"
+  ],
+  "overall_status": "COMPLETED"
+}

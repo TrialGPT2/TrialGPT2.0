@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT06676059",
+  "title": "SMART-r: Substance Monitoring and Active Relapse Tracking Repository",
+  "brief_summary": "Background:\n\nAbout 1.5 million adults in the US enter alcohol or substance use treatment programs each year. Unfortunately, more than half of patients do not finish their program. For those who start treatment, about 70% return to substance use within weeks or months after starting treatment. To discover why patients drop out of treatment and return to substance use - and what can be done about it - researchers need to learn more about people who use drugs and alcohol.\n\nObjective:\n\nTo create a data repository by gathering survey and smartphone data from adults who use drugs and alcohol in order to conduct future research.\n\nEligibility:\n\nAdults who have used drugs or alcohol in the past and have a Android smartphone. The researchers will recruit targeted demographics at different times throughout the duration of the study period.\n\nDesign:\n\nData will be collected for up to 6 months. All research activities will be online.\n\nParticipants will download a smartphone app called TTRU-Curtis AWARE and keep it active on their phone. The app will run in the background and collect participant data, including: screen unlocks, duration of time the screen is on; apps used; words typed (except passwords); duration and time of phone calls; estimated location (exact location is not collected); and movement, such as how many steps are taken in a day. All personally identifying information is automatically removed before the data is stored (including phone numbers, names, or locations described in messages).\n\nEach day, participants will receive a text with a link to a survey. They will answer questions about their mood, behavior, and substance use from the day before. This survey should take less than 5 minutes to complete.\n\nEvery 30 days, participants will complete a longer survey. They will answer questions about their personal relationships, risky behaviors, mood, substance use, and feelings. They can skip any questions they do not feel comfortable answering. These surveys should take about 30 minutes to complete.\n\nParticipants may opt to allow researchers to access their social media posts.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in the repository, an individual must meet all of the following criteria:\n\n* Must understand and be willing to complete an online informed consent process.\n* Be an adult aged 18 or older.\n* Self-report alcohol or other drug use within the past 30 days.\n* Have an Android smartphone as their primary mobile phone.\n\n  --The TTRU-CURTIS AWARE App does not have iPhone iOS functionality.\n* Have a minimum of 500 sent text messages and 1000 words exchanged through SMS (text messages).\n* Be willing to adhere to the procedures, including downloading the AWARE app onto their smartphone and keeping it active throughout the data collection period, completing baseline questionnaires, daily diary EMAs, and follow-up surveys.\n* Understand and write in English.\n\n  --This exclusion criterion is included because future research on the data collected will include linguistic analysis. all linguistic analyses, we remove rare words (e.g., words must be said by at least 95% of participants). Additionally, there are cultural differences across languages and, thus, interpreting language results across more than one language becomes difficult. As a result, we must keep analysis limited to a single language (English), since words in other languages will not meet that criteria.\n* Live in the United States.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this repository:\n\n-Any impairment severe enough to preclude informed consent or valid self-report.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adults who have used drugs or alcohol in the past and have a Android smartphone. The researchers will recruit targeted demographics at different times throughout the duration of the study period.",
+  "condition": [
+    "Alcoholism",
+    "Substance-Related Disorders"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of adults who have used drugs or alcohol in the past 30 days. There is no cancer diagnosis or systemic therapy for advanced disease involved, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study does not involve cancer or systemic therapy for advanced disease. Eligibility is based on recent substance use, not prior lines of cancer therapy."
+    }
+  ]
+}

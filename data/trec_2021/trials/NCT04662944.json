@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04662944",
+  "title": "A Non-interventional Study to Assess the Influence of Automated Optical Coherence Tomography Image Enrichment With Segmentation Information on Disease Activity Assessment in Patients Treated With Licensed Anti- VEGF Injections",
+  "brief_summary": "RAZORBILL was an observational, multicenter, multinational, open-label, study designed primarily to investigate the influence of automated OCT image enrichment with segmentation information on disease activity assessment in nAMD patients treated with licensed anti-VEGFs",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosis of nAMD\n* Male and Female patients with \u226518 years of age at index\n* Receipt of at least one injection of brolucizumab, ranibizumab or aflibercept during the recruitment period\n* Signed written informed consent\n* Patients for whom a therapy with brolucizumab, ranibizumab or aflibercept is medically indicated according to the respective label\n* Intraretinal and/or subretinal fluid affecting the central subfield of the study eye at screening\n\nExclusion Criteria:\n\n* Patients treated for any other retinal disease than nAMD within 6 months prior to the index date (e.g. patients treated for retinal vein occlusion, diabetic macular oedema, myopic CNV, and have diagnoses of diabetes-related macular degeneration)\n* Central subfield of the study eye affected by fibrosis or geographic atrophy or total area of fibrosis \\>50% of the total lesion in the study eye at screening\n* Any active intraocular or periocular infection or active intraocular inflammation in either eye at index date\n* Patients who have been on anti-VEGF treatment for longer than 3 years (before index date)\n* Patients who have any contraindication and are not eligible for treatment with the chosen anti-VEGF treatment as according to the respective label.\n* Any medical or psychological condition, in the treating physician's opinion, which may hinder the patient from participating in this study for the expected 12 months\n* Patients participating, in parallel, in an interventional clinical trial\n* Patients participating, in parallel, in any other Novartis sponsored NIS generating primary data for an anti-VEGF drug",
+  "minimum_age": "18 Years",
+  "maximum_age": "199 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects being treated for nAMD with brolucizumab, ranibizumab, or aflibercept according to the respective drug label.",
+  "condition": [
+    "Neovascular Age-Related Macular Degeneration"
+  ],
+  "overall_status": "COMPLETED"
+}

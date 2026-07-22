@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04456205",
+  "title": "Inhaled Corticosteroid Withdrawal in Chronic Obstructive Pulmonary Disease (COPD)",
+  "brief_summary": "According to the WISDOM study, withdraw of inhaled steroids has no effect on the acute exacerbation of chronic obstructive pulmonary disease (COPD), but the lung function of patients with COPD is significantly reclined. In the subgroup analysis of this study, patients with COPD were found to have continued to use inhaled steroids in patients with eosinophilic leukocytes greater than 400 cells/ul or whom has more than two episodes of exacerbation per year. However, in SUNSET study, it was pointed out that withdraw of inhaled steroids had no effect on lung function in patients with COPD, but it was also found that in patients with COPD, eosinophilic leukocytes in the blood were greater than 300 cells/ul, have a better therapeutic response in steroid inhalation. In addition, some studies have shown that in patients with COPD, a decline in lung function after discontinuation of inhaled steroids can make the patient's clinical symptoms worse and increase the risk of acute exacerbations. However, in other comprehensive analytical studies, there are different outcomes. There is no statistically significant difference in the risk of acute exacerbation in patients with COPD after discontinuation of inhaled steroids.\n\nIn past studies, it was noted that inhaled steroids cause an increased risk of pneumonia in patients with COPD. However, in these studies, the diagnosis of pneumonia was only from the clinician's suspicion without clear symptom assessment, laboratory examination, microbiological evidence or imaging assessment. Therefore, further research is needed to assess whether patients are suitable for the reduction of inhaled steroids and the impact of COPD in clinical treatment.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Confirmed patients with COPD (at least one lung function test post bronchodilator FEV1/FVC \\<70% before the start of the study)\n* Age \u2265 40 years old\n* No acute attack record within half a year\n* Triple therapy (dual long-acting inhaled bronchodilator and inhaled steroid) is stable for more than six months.\n* Eosinophil count in blood \\<300 cells/ul\n* Clinical symptom assessment CAT score \\<20\n\nExclusion Criteria:\n\n* Suspected or diagnosed with asthma\n* Age \\<40 years\n* Within half a year, there is a record of moderate to severe acute attacks\n* Eosinophil count in blood \u2265300 cells/ul\n* Clinical symptom assessment CAT score \u226520",
+  "minimum_age": "40 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Conformed COPD patients",
+  "condition": [
+    "COPD",
+    "Inhaled Corticosteroid"
+  ],
+  "overall_status": "UNKNOWN"
+}

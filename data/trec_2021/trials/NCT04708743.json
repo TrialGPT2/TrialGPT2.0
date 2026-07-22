@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04708743",
+  "title": "The Tongue Features Associated With Chronic Kidney Disease",
+  "brief_summary": "The Automatic Tongue Diagnosis System (ATDS) was developed to capture tongue images and extract features reliably to assist the diagnosis of TCM practitioners.This project will employ the ATDS verified to extract the tongue features of patients with chronic kidney disease(CKD) including dialysis patients. A TCM indices derived through the non-intrusive tongue diagnosis procedure can provide valuable information for clinical doctors to analyze the current status of a patient and dynamically schedule a treatment plan, facilitating early detection and diagnosis of CKD.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* age over 20 years old;\n* CKD group:CKD stage 3-5 including dialysis patients\n* Healthy group: without any medical history\n\nExclusion Criteria:\n\n* cancer;\n* acute infection;\n* unable to protrude the tongue stably;\n* risk of temporomandibular joint dislocation.",
+  "minimum_age": "20 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects with CKD stage3-5",
+  "condition": [
+    "CKD"
+  ],
+  "overall_status": "UNKNOWN"
+}

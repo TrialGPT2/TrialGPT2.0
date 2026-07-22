@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02610660",
+  "title": "Tracking Outcomes and Practice in Pediatric Pulmonary Hypertension",
+  "brief_summary": "The TOPP-2 registry is an international, non-interventional, prospective registry including children and adolescents newly diagnosed with pulmonary hypertension (PH) to gain further insights in the disease course and long-term outcome of PH in childhood.\n\nPatients will undergo clinical assessments and receive standard medical care, as determined by treating physicians in their daily clinical practice. The TOPP-2 registry is specifically designed to capture the variables that have been proposed as treatment goals in PePH and the reasons for changes in treatment strategy.\n\nThe TOPP-2 registry uses the new clinical classification of PH as outlined at the 5th World Symposium for Pulmonary Hypertension (WSPH) in Nice 2013 and includes new characterizations for children with PH.\n\nThe registry is planned and implemented under the scientific leadership of the Association for Pediatric Pulmonary Hypertension (PePH), independently from the financial sponsors.\n\nAll enrolled patients will have a follow-up period of 18 months.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient must be an incident patient, i.e.newly diagnosed with PH\n* Age at time of diagnosis is at least 3 months and less than 18 years\n* Patients must present with PH belonging to one of the following categories\n\n  * Group 1 according to updated Nice clinical classification\n  * Group 3 according to updated Nice clinical classification\n  * Group 4 according to updated Nice clinical classification\n  * Group 5 according to updated Nice clinical classification\n* PH confirmed by heart catheterisation (HC)\n* At HC, the patient must present with mean pulmonary arterial pressure (PAP) of at least 25 mmHg at rest, a pulmonary vascular resistance index (PVRi) equal to or below 3 Wood units\\*m\\^2 and mean pulmonary arterial wedge pressure (PAWP) below or equal to 15 mmHg\n* In case of congenital heart disease (CHD) patients who had undergone palliative procedure or repair to close systemic to pulmonary shunt, the diagnosis of PH must have been confirmed by HC at least 6 months after surgery/palliative procedure took place\n* For patients with PAH-CHD open shunt, only those considered not operable due to advanced pulmonary vascular disease are eligible\n* Patients to be included into the registry, and/or their legal guardians, must give informed consent. Where applicable patients will be asked for their written assent\n* Participating sites must agree to adhere to the recommendations of the WSPH 2015 Nice, Pediatric Taskforce.\n\nExclusion Criteria:\n\n* Patients belonging to Group 2 according to updated Nice clinical classification",
+  "minimum_age": "3 Months",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "1. Children and adolescents, newly diagnosed with PH (incident PePH patients), meeting the inclusion criteria. A patient is considered an incident patient if the time elapsed between the diagnostic RHC and the initial visit at the site including the patient is less than or equal to three months and if the time between diagnostic RHC and informed consent is less than or equal to six months\n2. Ex-incident patients from the previous TOPP-1 registry.",
+  "condition": [
+    "Hypertension, Pulmonary"
+  ],
+  "overall_status": "COMPLETED"
+}

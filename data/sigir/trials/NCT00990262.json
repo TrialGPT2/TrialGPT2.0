@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00990262",
+  "title": "Rule Out Myocardial Infarction by Computer Assisted Tomography",
+  "brief_summary": "The goal of this research is to determine noninvasively whether detection of coronary stenosis and plaque by multidetector computed tomography (MDCT) in patients with acute chest pain suspected of acute coronary syndrome (ACS) enhances triage, reduces cost and is cost effective. Among the 5.6 million patients with ACP presenting annually in emergency departments (ED) in the United States, a subgroup of two million patients is hospitalized despite normal initial cardiac biomarker tests and electrocardiogram (ECG). This subgroup is at low (20%) risk for ACS during the index hospitalization. Most (80-94%) patients with a diagnosis of ACS have a significant epicardial coronary artery stenosis ( \\>50% luminal narrowing). However, in -10% of patients non-stenotic coronary plaque triggers events, i.e. vasospasms, leading to myocardial ischemia. Since the absence of plaque excludes a coronary cause of chest pain, these patients could in theory be discharged earlier reducing unnecessary hospital admissions. Recent publications demonstrate high sensitivity and specificity of MDCT for the detection of significant coronary stenosis compared with coronary angiography and the detection of coronary plaque as validated with intravascular ultrasound. Using 64- slice MDCT we propose to study 400 patients with ACP, negative initial cardiac biomarkers and non-diagnostic ECG. We will analyze MDCT images for the presence of significant coronary artery stenosis and plaque and correlate the data with the clinical diagnosis of ACS (AHA guidelines) during the index hospitalization to determine the sensitivity and specificity. MDCT data, risk factors, and the results of standard diagnostic tests available at the time of MDCT will be used to generate a multivariate prediction function and derive a clinical decision rule. Based on this decision rule we will compare the diagnostic accuracies and cost effectiveness of competing strategies. We hypothesize that an MDCT- based diagnostic strategy will reduce the time to diagnosis of ACS, number of hospitalizations, and absolute cost of management of patients with acute chest pain compared to standard clinical care and is cost effective.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with any episode \\> five minutes of chest pain being admitted to rule out acute coronary syndrome\n\nExclusion Criteria:\n\n* Positive initial troponin or CK-MB tests\n* Diagnostic ECG changes (ST- segment elevation or horizontal ST- segment depression in more than two contiguous leads)\n* Unstable clinical condition (hemodynamically unstable, ventricular tachycardia, persistent chest pain despite adequate therapy)\n* Creatinine Clearance \\<50 mL/min\n* Known allergy to iodinated contrast agents\n* Patients on metformin therapy unable or unwilling to discontinue therapy for 48 hours after CT scan procedure\n* Known asthma, reactive airway disease\n* Patients currently in atrial fibrillation\n* Previous intolerance to beta blocker\n* Patients that are referred for coronary angiography/PCI by their PCP or cardiologist.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who presented to the emergency department at Massachusetts General Hospital, with acute chest pain and with initial negative biomarkers and normal or non-ischemic ECG",
+  "condition": [
+    "Acute Coronary Syndrome",
+    "Myocardial Infarction",
+    "Unstable Angina Pectoris"
+  ],
+  "overall_status": "COMPLETED"
+}

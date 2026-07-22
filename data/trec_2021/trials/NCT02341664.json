@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT02341664",
+  "title": "Patient and Provider Assessment of Lipid Management Registry",
+  "brief_summary": "The purpose of the Patient and Provider Assessment of Lipid Management Registry (PALM) is to gain a better understanding of physicians' cholesterol medication prescribing practices, patient and physician attitudes and beliefs related to cholesterol management, and current utilization of cholesterol-lowering therapies given the new ACC/AHA guideline recommendations. The PALM Registry hopes to allow for the design of ways to improve cholesterol management and decrease the burden of cardiovascular disease (CVD) in the US.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Prior evidence of clinical atherosclerotic cardiovascular disease (ASCVD) which can include any of the following:\n\n   * Hospitalization for acute myocardial infarction or unstable angina\n   * Coronary revascularization or chronic coronary artery disease with or without angina\n   * Other arterial (carotid, abdominal, renal or lower extremity) revascularization (e.g., surgical bypass, percutaneous intervention, arterial vascular reconstruction, abdominal aortic aneurysm repair, excluding dialysis fistulas or arteriovenous grafts).\n   * Ischemic stroke or transient ischemic attack (TIA)\n   * Imaging evidence of \\> 70% diameter stenosis in any carotid artery or clinical documentation of severe carotid stenosis\n   * Peripheral arterial disease secondary to atherosclerosis (e.g., aortic aneurysm, ankle brachial index \\<0.9, imaging evidence of \\>50% diameter stenosis in any peripheral artery, or claudication)\n2. Currently on statin therapy\n3. Low density lipoprotein cholesterol (LDL-C) level \u2265 130 mg/dL within the last 2 years (treated or untreated)\n4. Age \u2265 65 years\n5. Age \u2265 40 years with at least 1 of the following:\n\n   * Diabetes\n   * Chronic Kidney Disease (CKD), defined as eGFR \\<60 ml/min or documented stage III or higher CKD\n   * 10-year ASCVD risk \u2265 5% (per the 2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk)\n   * 2 or more of the following characteristics: Male sex; Systolic BP \\> 140 mmHg or on medication for hypertension; Current tobacco use\n\nExclusion Criteria:\n\n1. Unable or unwilling to provide informed consent, including but not limited to cognitive or language barriers (reading or comprehension)\n2. Anticipated life expectancy less than 6 months\n3. Participation in any clinical trial involving a medical treatment at the time of enrollment",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "This registry will recruit approximately 175 sites to enroll \\~7,500 patients with cardiovascular risk factors warranting consideration of lipid-lowering therapies as well as those already on statin therapy. Patients will be recruited from outpatient clinics including primary care, internal medicine, family medicine, cardiology, and endocrinology. Patients will be recruited across all regions of the U.S., including rural and urban areas, as well as from minority populations.",
+  "condition": [
+    "Hyperlipidemia",
+    "Hypercholesterolemia",
+    "Cardiovascular Disease",
+    "Diabetes",
+    "Chronic Kidney Disease (CKD)",
+    "Hypertension",
+    "Smoking",
+    "Myocardial Infarction (MI)",
+    "Unstable Angina",
+    "Angina",
+    "Coronary Artery Disease (CAD)",
+    "Stroke",
+    "Transient Ischemic Attack (TIA)",
+    "Carotid Stenosis",
+    "Peripheral Arterial Disease",
+    "Atherosclerosis",
+    "Claudication"
+  ],
+  "overall_status": "COMPLETED"
+}

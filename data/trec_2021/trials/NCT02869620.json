@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02869620",
+  "title": "Institut Paoli Calmettes Thyroid Cancer Database",
+  "brief_summary": "Database of Institut Paoli-Calmettes patients diagnosed with thyroid cancer",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosis of thyroid cancer\n\nExclusion Criteria:\n\n* Non applicable",
+  "minimum_age": "18 Years",
+  "maximum_age": "95 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with a diagnosis of Thyroid Cancer",
+  "condition": [
+    "Thyroid Neoplasms"
+  ],
+  "overall_status": "RECRUITING"
+}

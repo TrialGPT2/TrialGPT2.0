@@ -1,0 +1,38 @@
+{
+  "nctid": "NCT03173924",
+  "title": "18F-DCFPyL PSMA- Versus 18F-NaF-PET Imaging for Detection of Metastatic Prostate Cancer",
+  "brief_summary": "Background:\n\nProstate cancer is the second leading cause of cancer deaths in American men. Few options exist to create images of this type of cancer. Researchers think an experimental radiotracer called 18F-DCFPyL could find sites of cancer in the body.\n\nObjective:\n\nTo see if 18F-DCFPyL can identify sites of prostate cancer in people with the disease.\n\nEligibility:\n\nPeople ages 18 and older who have metastatic prostate cancer\n\nDesign:\n\nParticipants will be screened with:\n\n* Blood tests\n* Physical exam\n* Medical history\n\nParticipants will be assigned to 1 of 2 groups based on their PSA.\n\nParticipants will have 18F-DCFPyL injected into a vein. About 2 hours later they will have a whole-body Positron Emission\n\nTomography/Computed Tomography (PET/CT). For the scan, they will lie on their back on the scanner table while it takes pictures of the body. This lasts about 50 minutes.\n\nOn another day, participants will have 18F -NaF injected into a vein. About 1 hour later, they will have a whole-body PET/CT.\n\nParticipants will be contacted 1 3 days later for follow-up. They may undergo PET/Magnetic Resonance Imaging (MRI) either after having a 18F-DCFPyL PET/CT, or in place of PET/CT imaging. A tube may be placed in the rectum. More coils may be wrapped around the outside of the pelvis.\n\nIf the 18F-DCFPyL PET/CT is positive participants will be encouraged to undergo a biopsy of one of the tumors. The biopsy will be taken through a needle put through the skin into the tumor.\n\nParticipants will be followed for 1 year. During this time researchers will collect information about their prostate cancer, such as PSA levels and biopsy results.\n\nAbout 4-6 months after scanning is completed, participants may have a tumor biopsy. The biopsy will be taken through a needle put through the skin into the tumor.\n\n...",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Age greater than or equal to 18 years old\n* Eastern Cooperative Oncology Group (ECOG) performance score of 0 to 2.\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n* Patients must have confirmation of prostate cancer with identifiable metastatic disease on at least 1 clinically indicated imaging modality. If there is only soft tissue metastasis, one lesion must measure at least 6 mm or greater. OR Documented history of metastatic prostate cancer.\n* Patients must be co-enrolled on a UOB, GMB or ROB protocol\n* Histological confirmation of prostate cancer\n* Patients must be willing to undergo mandatory research biopsy\n\nEXCLUSION CRITERIA:\n\n* Subjects for whom participating would significantly delay the scheduled standard of care therapy.\n* Subjects with any coexisting medical or psychiatric condition that is likely to interfere with study procedures and/or results.\n* Subjects with severe claustrophobia unresponsive to oral anxiolytics\n* Other medical conditions deemed by the principal investigator (or associates) to make the subject unsafe/ineligible for protocol procedures.\n* Subjects weighing greater than 350 lbs. (weight limit for scanner table), or unable to fit within the imaging gantry\n* Serum creatinine greater than 2 times the upper limit of normal",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Metastatic Prostate Cancer",
+    "Prostatic Neoplasms",
+    "Prostate Cancer",
+    "Prostatic Cancer",
+    "Prostate Neoplasms"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with metastatic prostate cancer regardless of prior lines of systemic therapy for advanced disease. There are no restrictions or requirements regarding prior systemic treatment for metastatic disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility requires only a diagnosis of metastatic prostate cancer, with no mention of prior systemic therapy for advanced disease. The protocol does not specify whether prior lines are required or restricted, nor does it address adjuvant-only patients."
+    }
+  ]
+}

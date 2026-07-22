@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01987245",
+  "title": "Plethysmographic Waveform for Monitoring the Quality of Cardiopulmonary Resuscitation",
+  "brief_summary": "Cardiopulmonary resuscitation(CPR) is the key to success for high-quality early cardiopulmonary resuscitation, and its success in the restoration of spontaneous circulation (ROSC), therefore, monitoring the quality of cardiopulmonary resuscitation and early identification ROSC is very important. Now there is no an easy, non-invasive and real-time method to monitor the quality of CPR. In this study the investigators hypothesis the pulse oximeter waveform can real-time monitor the quality of CPR ,and feedback the quality of CPR to the physicians.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* cardiopulmonary arrest, without do-not-resuscitation(DNR) patients\n* After cardiac arrest, there is no more than 10 minutes until basic life support.\n* must be carried out advanced life support (tracheal intubation and end-tidal carbon dioxide monitoring)\n* comply with ethical requirements and signed informed consent\n\nExclusion Criteria:\n\n* DNR patients\n* rib fractures\n* hemorrhagic shock caused cardiac arrest\n* severe anemia, hemoglobin less than 7g/dl\n* tension pneumothorax without closed drainage\n* pulmonary embolism or pericardial tamponade caused cardiac arrest\n* onychomycosis\n* people who paint fingernails\n* clearly influential peripheral oximetry underlying diseases (such as Raynaud's phenomenon, vasculitis)\n* The study physicians believe there is any case is not suitable for inclusion.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "emergency room sample of multi-centers",
+  "condition": [
+    "Cardiopulmonary Arrest",
+    "Cardiopulmonary Resuscitation",
+    "Return of Spontaneous Circulation",
+    "Pulse Oximeter Plethysmographic Waveform"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00001208",
+  "title": "Botulinum Toxin for the Treatment of Involuntary Movement Disorders",
+  "brief_summary": "BTX has been used since the 1980s in support of the research mission of NINDS. Initial studies were focused on expanding the applicability of BTX treatment to movement disorders and exploring new indications. We evaluated the efficacy of an alternative serotype, type F. Under other protocols, we continue to study the physiology of movement disorders and BTX response.\n\nThe application of BTX therapy to movement disorders requires an understanding of BTX preparation and handling. The treatment must be tailored to the disorder under treatment and to its expression in the individual patient. Users must know the specific techniques of injection, including the use of EMG and ultrasound guidance. This protocol allows us to train physicians in all aspects of the use of BTX. It also provides us with a cohort of patients, receiving a standard method of treatment and with a stable response to BTX injection, for participation in other protocols on movement disorders and on the responses to BTX injection.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Patients 2 years and older, will be eligible for participation if they have a disorder that, in the judgment of the treating physician, might be amenable to treatment with BTX.\n  2. Applicable disorders include but are not limited to dystonia, hemifacial spasm, blepharospasm, tremor, spasmodic dysphonia, tics, vocal fold tremor, oral lingual dyskinesia, tardive dyskinesia, spasticity, and spasmodic dysphonia.\n\nEXCLUSION CRITERIA:\n\n1. Women who are planning on becoming pregnant, are pregnant or breastfeeding, for the duration of the condition.\n2. Subjects who require treatment with an aminoglycoside antibiotic, until treatment is complete.\n3. For laryngeal injections, subjects must have a paradoxical vocal fold movement with intermittent stridor due to either gastroesophageal reflux or emotional disorders",
+  "minimum_age": "2 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with a movement disorder will be enrolled.",
+  "condition": [
+    "Movement Disorders"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with various involuntary movement disorders who may benefit from botulinum toxin (BTX) therapy, regardless of prior lines of systemic therapy. There are no requirements or restrictions regarding prior systemic treatments for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on having a disorder potentially amenable to BTX, with no mention of prior systemic therapy for advanced disease. The protocol does not specify any requirements or limits regarding prior lines of therapy, nor does it address adjuvant-only patients."
+    }
+  ]
+}

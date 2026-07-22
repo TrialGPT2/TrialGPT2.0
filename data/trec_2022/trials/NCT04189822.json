@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT04189822",
+  "title": "Hearts in Rhythm Organization (HiRO)National Registry and Bio Bank",
+  "brief_summary": "The Hearts in Rhythm Organization (HiRO) is a national network of Canadian researchers/clinicians, working towards a better understanding of the rare genetic causes of sudden cardiac death (SCD).\n\nCanadian adult and pediatric electrophysiology centres across Canada work together to gather data and bio sample in a national data registry and bio bank hoping to improve the detection and treatment of inherited heart rhythm disorders to prevent sudden death.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* All Canadian patients referred for cardiac investigations related to inherited heart rhythm (IHR) conditions will be invited to participate if they meet the following criteria:\n\n  * They understand the registry/bio bank purpose, potential risks and willingly sign consent\n  * Recognized genetic syndromes; Long QT syndrome (LQT), Short QT Syndrome (SQT), catecholaminergic polymorphic ventricular tachycardia (CPVT), Brugada (BrS), Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC), Familial Cardiac Conduction Disease (FCCD).\n  * Deceased cases of SCD, suspicious for an inherited heart rhythm condition. Included with signed consent from next of kin (NOK).\n  * IHR patients referred for risk of SCD enrolled (includes first degree and second degree relatives) SCD syndromes seen in heart rhythm clinics; Unexplained cardiac arrest (UCA), Early Repolarization (ER), Idiopathic Ventricular Fibrillation (IVF), Short Coupled IVF (SCIF), Polymorphic Ventricular Tachycardia Not Otherwise Diagnosed (PMVT, NYD), Sudden Arrhythmic Death Syndromes (SADS) that are SCD cases with negative autopsy results.\n  * Mendelian cardiomyopathies (hypertrophic cardiomyopathy (HCM), Mendelian Dilated Cardiomyopathy (DCM) including Lamin and Phosopholambin (LMNA, \\& PLN), and Left Ventricular Non -Compaction (LVNC).\n\n    \\*\\*Must have either a probable or definite clinical diagnosis, first degree relative (FDR) with a known diagnosis, gene carrier (disease causing or likely disease causing by American College of Medical Genetics (ACMG 2015), or may be second degree relative (SDR) with inability to screen intervening relative\n  * Carriers of a pathogenic or likely-pathogenic variant for an inherited arrhythmia or cardiomyopathy related gene, not otherwise fitting inherited or cardiomyopathy diagnostic criteria\n\nExclusion:\n\nPatients referred for cardiac investigations related to inherited heart rhythm conditions will be excluded from participating if they meet the following criteria:\n\n* Unwilling or are unable to provide informed consent\n* Known sarcoidosis\n* Mitral valve Prolapse unless unexplained cardiac arrest or syncope with documented PMVT\n* Heart Failure/Non-Familial Dilated Cardiomyopathy DCM without a positive family history of affected FDRs or SDRs\n* Aortopathies including Marfan Syndrome, Ehlers Danlos, Familial Thoracic Aortic Aneurysm and Dissection\n* Neuromuscular disease\n* Familial hypercholesterolemia",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The registry will include all willing participants seen as patients in the HiRO network that are evaluated for familial risk of sudden death. The registry will include, inheritable heart rhythm conditions including but not restricted to; Brugada Syndrome, Long QT syndrome, hypertrophic cardiomyopathy (HCM), catecholaminergic polymorphic ventricular tachycardia (CPVT), and arrhythmogenic right ventricular cardiomyopathy (ARVC) and uncommon variants of ARVC that are listed fully in the inclusion criteria section of this protocol as well as first degree family members.",
+  "condition": [
+    "Sudden Cardiac Arrest",
+    "Sudden Arrhythmic Death Syndrome",
+    "Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC)",
+    "Long QT Syndrome (LQTS)",
+    "Hypertrophic Cardiomyopathy (HCM)",
+    "Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION"
+}

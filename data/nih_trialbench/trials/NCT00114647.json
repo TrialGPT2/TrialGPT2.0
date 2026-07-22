@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00114647",
+  "title": "Apheresis to Obtain Plasma or White Blood Cells for Laboratory Studies",
+  "brief_summary": "This study will collect blood plasma and white blood cells from individuals using a procedure called apheresis. Apheresis is a method of collecting larger quantities of certain blood components that can safely be collected through a simple blood draw. The blood components will be used in laboratory research studies.\n\nPatients 18 years of age and older who are currently enrolled in a NIH clinical research protocol may participate in this study. Relatives of patients and normal healthy volunteers will also be enrolled.\n\nIndividuals will undergo one of the following two apheresis procedures:\n\n* Automated pheresis Blood is drawn through a needle placed in an arm vein and circulated through a cell separator machine. The plasma (liquid part of the blood) and white cells are extracted, and the red cells are re-infused into the donor through the same needle or a needle in the other arm. An anticoagulant (medication to prevent blood from clotting) is usually added to the blood while in the machine to prevent it from clotting during processing.\n* Manual pheresis One unit (1 pint) of blood is drawn through a needle placed in an arm vein, similar to donating a pint of whole blood. The red blood cells, with or without plasma, are separated from the rest of the blood and returned to the donor through the same needle. Manual pheresis will be done only when a person s estimated total blood volume or red cell count is too low to safely permit removal of blood through a pheresis machine. An adult small in size or markedly anemic, for example, may fall into this category.\n\nSome of the blood collected through apheresis may be stored for future studies of HIV disease and immune function and for HLA testing, a genetic test of markers of the immune system. Some of the blood may be used to screen for different types of viral liver infections, such as hepatitis A, B, C, D, E, F, or G.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  18 years of age or older\n\nAdequate venous access\n\nBlood pressure less than or equal to 180/100; pulse rate 50-100, unless a lower pulse rate is considered normal for the volunteer (e.g. a conditioned athlete)\n\nAdequate blood counts if undergoing apheresis (HIV positive volunteers and volunteers with vasculitis or other inflammatory diseases: hemoglobin greater than or equal to 9.0 g/dL, HCT greater than or equal to 28%, platelets greater than or equal to 50,000; HIV negative volunteers: hemoglobin greater than or equal to 12.5 g/dL, HCT greater than or equal to 38%, platelets greater than or equal to 150,000)\n\nWilling and able to provide written informed consent, comply with study requirements and procedures, and comply with clinic policies (including stored samples, hepatitis screening, and genetic testing including HLA testing)\n\nEXCLUSION CRITERIA:\n\nPregnant and/or breast-feeding women\n\nCurrently abusing alcohol or other drugs\n\nAny medical condition for which the PI feels apheresis or other sample collection procedures might be contraindicated",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Community Sample",
+  "condition": [
+    "Healthy Volunteers",
+    "HIV"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic apheresis study enrolling healthy volunteers, relatives, and patients from other NIH protocols, regardless of cancer history or prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention cancer diagnosis or prior systemic therapy; both healthy volunteers and patients from other protocols are eligible. There are no specifications regarding lines of therapy for advanced disease, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

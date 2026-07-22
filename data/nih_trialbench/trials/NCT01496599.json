@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT01496599",
+  "title": "Imaging Biomarkers in Parkinson s Disease",
+  "brief_summary": "Background:\n\n\\- Parkinson s disease (PD) causes slow movement, stiffness, and tremor. It results from the loss of a brain chemical called dopamine. PD gets worse over time, but researchers do not fully understand why the brain cells that produce dopamine stop working or die in people with PD. This study will use different ways of imaging the brain and brain chemicals to look at PD. It will compare brain imaging in people who definitely have PD to people who might have PD and to people without signs of PD. It will provide more information how the brain in people with PD changes over time.\n\nObjectives:\n\n\\- To understand the changes that occur in the brains of people with Parkinson s disease.\n\nEligibility:\n\n* Individuals at least 18 years of age who have definite or possible Parkinson s disease.\n* Healthy volunteers at least 18 years of age.\n\nDesign:\n\n* Participants will have a screening visit with a physical exam and medical history.\n* Participants will visit the National Institutes of Health Clinical Center every 18 month or 3 years for up to 9 years. There will be up to 6 total visits. Most visits will last 5 to 6 hours a day for 1 to 3 days.\n\nSome or all of the following tests will be performed at each visit:\n\n* Magnetic resonance imaging to take pictures of the brain. Some of these tests will be done at rest. Others will require participants to perform an activity during the scan.\n* Medication withdrawal for 12 hours overnight for people taking PD medications. This may be done before some scans. Participants who feel unwell when they stop taking medications will be allowed to start taking them again.\n* Participants will continue with the follow up visits until the end of the study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nFor all subjects:\n\n* Age 18 or older.\n* Subjects must fulfill either the clinically defined PD, prodromal PD or not having any of the red flags following the MDS criteria for PD.\n* Able to give informed consent or, if there is evidence of cognitive decline, able to appoint a durable power of attorney (DPA) who can give informed consent.\n\nEXCLUSION CRITERIA:\n\n* More than 7 alcoholic drinks a week for females or 14 alcoholic drinks a week for males.\n* History of a neurologic disorder such as a brain tumor, stroke, central nervous system infection, multiple sclerosis, a movement disorder other than the ones under study, epilepsy or a history of seizures or any abnormal or focal finding on neurological exam other than that associated with those studied in this protocol.\n* History of any head injury with loss of consciousness\n* Pregnancy or positive pregnancy test before the research procedure due to the risks associated with MRI scans. This would exclude subjects from participating in the protocol at that time.\n* Inability to lie flat on the back for up to 2 hours\n* Claustrophobia or a feeling of discomfort from being in small, enclosed spaces.\n* Surgically or traumatically implanted metallic foreign bodies, such as pacemakers, implanted medical pumps, implanted hearing aids, metal plates in the skull or metal implants in the skull or eyes (other than dental fillings) that may be physically hazardous during an MRI, or might distort the images.\n* Ablative surgery or implanted electrodes and generator for deep brain stimulation\n* Use of the following therapies which may affect mitochondrial function: Coenzyme Q10, vitamin E, vitamin C, anti-retroviral drugs, chemotherapeutic agents, anti-epileptics agents or antibiotics. (Use ofthese substances will prevent getting MRS scan only).\n* Have uncontrolled head movements that may impair image data collection",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Part 1 (Case-control study): We will study 30 patients with well-defined PD, as defined by the UK Parkinson s Society Brain Bank diagnostic criteria (Hughes et al., 1992, Olanow et al., 2009, Defer et al., 1999). We will also study 15 age-matched healthy volunteers (HVs) as controls. Part 2 (Longitudinal study): We will continue to study subjects from Part 1 periodically over the following 9 years. We will also study 30 subjects with early parkinsonism (EP). EP subjects are defined as individuals who have experienced at least one but fewer than 3 of the cardinal symptoms of PD at the time of enrollment.",
+  "condition": [
+    "Parkinson Disease"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational imaging study in Parkinson's disease and healthy volunteers. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, as this is not an interventional oncology trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference any prior systemic therapy for advanced disease, as this is a non-oncology, non-interventional imaging study in Parkinson's disease and healthy volunteers. Line-of-therapy intent is not applicable."
+    }
+  ]
+}

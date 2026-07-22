@@ -1,0 +1,30 @@
+{
+  "nctid": "NCT03973931",
+  "title": "Personalized Patient Data and Behavioral Nudges to Improve Adherence to Chronic Cardiovascular Medications",
+  "brief_summary": "The study plans to learn if sending different text messages, serving as reminders or encouragement, may help patients take their medication more often if they have had trouble keeping up with their medicines.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with the following cardiovascular conditions and respective medication classes:\n* Hypertension (Beta-blockers \\[B-blockers)\\], Calcium Channel Blocker \\[CCB\\], Angiotensin converting enzyme inhibitors (ACEi), Angiotensin Receptor Blockers \\[ARB\\], or Thiazide diuretic)\n* Hyperlipidemia (HMG CoA reductase inhibitor \\[Statins\\])\n* Diabetes (Alpha-glucosidase inhibitors, Biguanides, DPP-4 inhibitors, Sodium glucose transport inhibitor, Meglitinides, Sulfonylureas, Thiazolidinediones, or statins Coronary artery disease P2Y12 inhibitor \\[Clopidogrel, Ticagrelor, Prasugrel, Ticlopidine\\], B-blockers, ACEi or ARB or statins)\n* Atrial fibrillation (Direct oral anticoagulants, B-blockers, CCB)\n\nExclusion Criteria:\n\n* Patients who do not have a mailing address listed in EHR;\n* Patients who do not have a landline or cellphone listed in EHR;\n* Currently pregnant if denoted in the EHR at the time of the data pull;\n* Patients with a mailing address outside of the state of Colorado;\n* Patients that do not speak either English or Spanish.",
+  "minimum_age": "18 Years",
+  "maximum_age": "89 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cardiovascular Diseases",
+    "Adherence, Medication",
+    "Medication Adherence",
+    "Diabetes Mellitus",
+    "Hypertension",
+    "Hyperlipidemias",
+    "Coronary Artery Disease",
+    "Atrial Fibrillation"
+  ],
+  "overall_status": "COMPLETED"
+}

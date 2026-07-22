@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02032745",
+  "title": "Genomic Signatures to Predict Treatment Response",
+  "brief_summary": "A genomic test was developed to predict chemo-sensitivity to taxane-anthracycline-based chemotherapy as neoadjuvant treatment. The primary aim of this study is to prospectively evaluate the microarray-based, genomic test as a predictor of axillary lymph node response. Also, to determine whether the probability of achieving negative axillary nodes, is sufficiently high for patients whose breast cancer is predicted to be chemo-sensitive to support omitting axillary dissection.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinical status of lymph nodes must be available\n* Sonographical status of lymph nodes must be available\n* Patients must consent to documentation of cancer treatment\n* Histologic diagnosis of invasive breast cancer, clinical stage T1-4, M0 (non-inflammatory T4c)\n* Patients scheduled for neoadjuvant chemotherapy\n* Treatment with a 3-weekly FEC or AC regimen (3-4 cycles) followed by 3-4 cycles of q3 weekly docetaxel or paclitaxel.\n* Local HER2 status of tumor biopsy must be negative.\n\nExclusion Criteria:\n\n* The patient has a prior history of invasive or metastatic breast cancer.\n* The patient had prior excisional biopsy of the primary invasive breast cancer.\n* The patient had prior ipsilateral sentinel axillary lymph node biopsy for breast cancer.\n* The patient cannot safely or feasibly undergo biopsy of the primary tumor.\n* The patient has a diagnosis of Stage IV (distant metastatic) breast cancer.\n* The patient has proven HER2-positive breast cancer, defined as a pathology report of amplification of the gene or 3+ score for immunohistochemical staining.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Breast cancer patients with advanced HER 2 negative breast cancer",
+  "condition": [
+    "Breast Neoplasms"
+  ],
+  "overall_status": "COMPLETED"
+}

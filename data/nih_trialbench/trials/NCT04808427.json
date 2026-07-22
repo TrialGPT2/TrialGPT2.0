@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04808427",
+  "title": "Pilot Study to Investigate Magnetic Resonance (MR) Image Guided Focal Therapy in Prostate Cancer",
+  "brief_summary": "Background:\n\nThe ability to treat early prostate cancer is still limited. Thermal ablation methods are being tested for focal prostate cancer therapy. Researchers want to improve on these methods.\n\nObjective:\n\nTo understand if Transurethral UltraSound Ablation (TULSA) in combination with MRI guidance is useful to treat localized prostate cancer.\n\nEligibility:\n\nEnglish-speaking adults ages 18 and older with localized prostate cancer that can be seen on MRI and can be treated by thermal ablation.\n\nDesign:\n\nParticipants will be screened with the following:\n\n* Medical history\n* Physical exam\n* Digital rectal exam\n* Blood and urine tests\n* Electrocardiogram\n* Tumor biopsy\n* Questionnaire to assess urinary tract symptoms\n* MRI of the pelvis. The MRI scanner is a long, narrow tube. Participants will lie on a bed that moves in and out of the scanner.\n\nParticipants may also be screened with the following:\n\n* Echocardiogram\n* Chest x-ray\n* Bone scan\n* Urodynamic studies to see how well the bladder, sphincters, and urethra hold and release urine\n* MRI of the brain\n* Transrectal ultrasound\n* Computer tomography (CT) scan of the chest, abdomen, and pelvis. A CT scan is a series of x-ray images taken of parts of the body.\n\nSome screening tests will be repeated during the study.\n\nParticipants will have the TULSA procedure. They will have an MRI for guidance. A small ultrasound applicator will be placed into their urethra. It uses heat to destroy the cancer areas in the prostate. It is controlled by a robotic arm. A cooling catheter will be placed into their rectum.\n\nParticipants will use a urethral catheter for 1-7 days.\n\nParticipants will have follow-up visits at 3, 6, 12, 18, 24, and 36 months.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nSubjects must have prostate cancer amenable for ultrasound ablation defined as:\n\n* diagnosed by transrectal ultrasound-guided prostate biopsy via standard 12 core biopsy and targeted biopsy of any MRI-visible or tracked lesions; pathological diagnosis must be confirmed by Laboratory of Pathology, NCI;\n* Gleason Score \\<= 7;\n* MRI-visible or MRI-tracked prostate cancer. This includes prostate cancer found on targeted biopsy of MRI-visible or MRI-tracked lesion. Histologically positive standard biopsy cores of Grade Group \\>= 2 prostate cancer must be from an area overlying or within 1cm of an MRI-visible or tracked lesion(s) and reviewed by NCI urologic pathologist. (Left / Right, Base, Mid-Gland, Apex). Systematic and targeted cores of Grade Group 1 prostate cancer outside of proposed ablation zone do not affect inclusion status, as these can be observed by conventional guideline management.\n* organ confined clinical T1c or clinical T2a prostate cancer that is visualized on MRI. Note: Participants after prostate cancer treatment with local recurrence or residual tumor which is visible on MRI are eligible.\n* PSA \\< 20 ng/ml or PSA \\>20 with a PSA density \\<0.15.\n* Adults (\\>= 18 years of age)\n* Participants must have adequate organ and marrow function as defined below:\n\nPlatelets \\>= 50,000/mcL\n\nHemoglobin \\>= 8 g/dL\n\nMeasured or calculated creatinine clearance (CrCl) (eGFR may also be used in place of CrCl)\\* \\>= 30 mL/min/1.73 m\\^2\n\nGFR=glomerular filtration rate; ULN=upper limit of normal.\n\n\\*Creatinine clearance (CrCl) or eGFR should be calculated per institutional standard.\n\n* Subjects must be able to understand and willing to sign a written informed consent document.\n* Subjects must be co-enrolled to NCI protocol 16-C-0010 \"Care of the Prostate Cancer Patient and Prospective Procurement of Prostate Cancer Tissue.\"\n\nEXCLUSION CRITERIA:\n\n* Targeted lesion ablation length from apex to base of \\>5 cm or lesion extending \\>3 cm from the urethra.\n* Target ablation volume greater than 100 ml.\n* Presence of calcifications that would impede ultrasound transmission between the urethra and ablative target.\n* Participants are unable to tolerate MRI (foreign body, i.e., pacemaker or other implanted device; claustrophobia; inability to tolerate rectal coil; etc.)\n* Acute urinary tract infection\n* Lower urinary tract symptoms defined by an IPSS \\> 20\n* Participants with uncontrolled coagulopathies (including liver dysfunction, or untreated hereditary coagulopathies which have a standard of care treatment) per surgeon discretion based on bleeding risk.\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situation (within time frame) that would limit compliance with study requirements.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Prostate Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with localized prostate cancer, including both treatment-naïve individuals and those with local recurrence or residual tumor after prior local therapy, as long as disease is organ-confined and visible on MRI. No prior systemic therapy for advanced or metastatic disease is required or specified.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligible patients have localized (organ-confined) prostate cancer, and the criteria do not require or mention any prior systemic therapy for advanced disease. Patients with local recurrence or residual tumor after prior local treatment are eligible if disease remains localized, but there is no indication of prior systemic therapy for advanced/metastatic disease being required or allowed."
+    }
+  ]
+}

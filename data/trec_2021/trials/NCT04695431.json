@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04695431",
+  "title": "Retrospective Study Assessing the Effect of Avapritinib Versus Best Available Therapy in Patients With AdvSM",
+  "brief_summary": "BLU-285-2405 is a multi-center, synthetic control, observational and retrospective study designed to compare clinical outcomes for avapritinib compared with best available therapy for patients with AdvSM.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria for Patients in the External Control Arm:\n\n1. Diagnosed with AdvSM, with known subtype including SM-AHN, ASM, or MCL\n2. Received at least one line of systemic therapy for AdvSM, which may include but not limited to regimens containing:\n\n   Midostaurin Cytoreductive therapy: cladribine, interferon alpha, azacitidine, decitabine Selective TKIs: imatinib, nilotinib, dasatinib Hydroxyurea Antibody therapy: brentuximab vedotin\n3. Adult (\u226518 years of age) at the initiation of first systemic line of therapy at the participating site\n4. Had an index date at least 3 months prior to the start of data collection (in order to include patients with at least 3 months of follow-up after index date), unless date of death occurred less than three months from index date\n5. Had an approved waiver of informed consent or signed informed consent for participation in the retrospective chart review study, if no institutional waiver from the site was granted\n\nExclusion Criteria for Patients in the External Control Arm\n\n1. Malignancy that is not in remission at time of SM diagnosis, or new non-hematological malignancy diagnosed after SM diagnosis, except for: completely resected basal cell and squamous cell skin cancer, curatively treated localized prostate cancer, and completely resected carcinoma in situ of any site\n2. Among patients with SM-AHN, presence of either of the following:\n\n   * Patients in whom the SM component is consistent with an indolent systemic mastocytosis (ISM) or SSM or,\n   * the AHN component is a lymphoid malignancy, or one of the following myeloid malignancies: acute myeloid leukemia (AML), myelodysplastic syndrome (MDS) that is very high-or high-risk as defined by the IPSS-R, or a Philadelphia chromosome positive malignancy or,\n   * there is a known FIP1L1/PDGFRA fusion gene (including those with CHIC-2 deletion and partial deletion of PDGFRA), independent of KIT mutational status\n3. Received avapritinib as the first line of systemic therapy for AdvSM at participating site, or prior to initiation of first systemic therapy at participating site.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients age 18 or older with a diagnosis of advanced SM.",
+  "condition": [
+    "Advanced Systemic Mastocytosis",
+    "Aggressive Systemic Mastocytosis",
+    "Systemic Mastocytosis With an Associated Hematological Neoplasm",
+    "Mast Cell Leukemia"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00283335",
+  "title": "The VA HDL Intervention Trial (HIT): Secondary Prevention of Coronary Heart Disease in Men With Low HDL-Cholesterol and Desirable LDL-Cholesterol",
+  "brief_summary": "This was a double-blind randomized trial comparing 1200 mg per day of gemfibrozil with placebo in 2531 men with coronary heart disease, an HDL-C of 40mg/dl or less, an LDL-C of 140 mg/dl or less, and triglycerides of 300mg/dl or less. The primary outcome was nonfatal myocardial infarction(MI) or death from coronary causes. The median follow-up was 5.1 years. There was a risk reduction of 22% in the primary outcome (p=.0006) and 24% risk reduction in the combined endpoint of stroke, MI, and CHD death. The rate of events was reduced by raising HDL-C and lowering triglycerides without lowering LDL-C (N Engl J Med 1999;341:410-418).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\nInclusion criteria:\n\n1. male gender\n2. age 73 or younger\n3. presence of CHD\n4. HDL-C le 40 mg/dl\n5. LDL-C le 140 mg/dl\n6. triglycerides le 300 mg/dl\n\nExclusion Criteria:\n\nExclusion criteria:\n\n1. significant medical illness\n2. alcohol or substance abuse\n3. evidence of cholecystitis or cholelithiasis\n4. ejection fraction of lt 35%\n5. current use of steroids, estrogens, immunosuppressive agents, oral coagulants, or lipid modifying drug.\n6. allergic to gemfibrozil or fibric acid\n7. refused informed consent",
+  "minimum_age": "",
+  "maximum_age": "73 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Coronary Heart Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

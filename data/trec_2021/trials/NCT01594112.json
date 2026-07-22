@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01594112",
+  "title": "Ability of Home Monitoring\u00ae to Detect and Manage the Inappropriate Diagnoses in Implantable Cardioverter Defibrillators.",
+  "brief_summary": "The purpose of the THORN registry is to show the ability of Home-Monitoring\u00ae to early identify and manage the inappropriate diagnoses of ventricular arrhythmia in ICD patients (i.e. lead rupture, atrial arrhythmia, oversensing\u2026) whatever the type of device (single, dual, or triple chamber).\n\nThe electromyograms (iEGMs) provided by Remote Patient Monitoring will help the physician to early detect inadequate arrhythmia detection (ID) that can be responsible for inappropriate therapies (IT), and to take preventive actions in order to reduce the burden of these inappropriate therapies.\n\nTHORN is an observational epidemiologic, prospective and multicenter registry. The primary objective is to measure the relative proportion of patients experiencing at least one inappropriate therapy during a fifteen months follow-up period. Moreover, THORN will assess the incidence, predictors, outcome and recurrence of inappropriate diagnoses in 1750 ICD patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Subject implanted with a single, dual, or triple chambers ICD within the last 3 months\n* Home Monitoring\u00ae activated and functional since hospital discharge\n* Patient willing and able to comply with the protocol and who has provided written informed consent about Home Monitoring\u00ae,\n* Patient whose medical situation is stable\n\nExclusion Criteria:\n\n* ICD replacements\n* New York Heart Association Function Class IV patients\n* Pregnant women or women who plan to become pregnant during the trial\n* Presence of any disease, other than patient's cardiac disease, associated with reduced likelihood of survival for the duration of the trial, e.g. cancer, uraemia (urea \\> 70mg/dl or creatinine \\>3mg/dl), liver failure, etc.\n* Age \\< 18 years\n* Patient unable to handle the Biotronik's transmitter correctly\n* Change of residence expected during the study\n* Insufficient global system for mobile communication (GSM) coverage at patient's home\n* Participation in another clinical study",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Population implanted of ICD with Biotronik Home Monitoring\u00ae system. 512 patients will be selected by investigators in 50 centers in France.",
+  "condition": [
+    "ICD",
+    "Sudden Cardiac Death",
+    "Ventricular Fibrillation",
+    "Atrial Fibrillation",
+    "Ventricular Tachycardia"
+  ],
+  "overall_status": "COMPLETED"
+}

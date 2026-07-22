@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT04014348",
+  "title": "Geospatial Analysis of Neighborhood Environmental Stress in Relation to Biological Markers of Cardiovascular Health and Health Behaviors in Women",
+  "brief_summary": "Background:\n\nHeart disease is a leading cause of death in the United States. Healthy diet and exercise improve heart health. Some features of where a person lives can lead to stress and decrease chances for exercise. Researchers want to see how these factors may increase the risk of heart disease in women.\n\nObjective:\n\nTo see if there are differences in stress levels between women who live in different parts of Washington, DC. Also, to see how these women use their neighborhoods for exercise.\n\nEligibility:\n\nHealthy white or black females ages 19-45 who live in Washington, DC, who have access to a smartphone\n\nDesign:\n\nParticipants may stay at the NIH Clinical Center overnight for a 2-day visit.\n\nVisit 1 will include:\n\nPhysical exam\n\nBlood tests\n\nElectrocardiogram: Electrodes on the participant s skin will measure heart activity.\n\nPET/CT scan: Participants will get an injection. They will lie in a machine that takes pictures of the body.\n\nSurveys\n\nBody size measurements\n\nNutrition consultation\n\nBlood vessel tests: This is measured with blood pressure cuffs, a device placed on the participant s fingertip, and a probe placed on the participant s neck.\n\nResting Energy Expenditure: Participants will breathe under a clear hood for 45 minutes.\n\nParticipants will be followed for about 2 weeks. They will wear a device on the wrist and carry a GPS device. Through a mobile app, they will answer short daily surveys on stress and exercise.\n\nVisit 2-\n\nDevice return\n\nNutritional consultation",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIndividuals eligible for this protocol:\n\n1. A healthy self-identified White female (i.e. self-identifies as White or of European descent) or healthy Black female (i.e. self-identifies as Black, African American, or of African descent)\n2. Must be between 19 to 45 years of age\n3. Must not have any chronic health condition (i.e.: cardiovascular, autoimmune, endocrinologic), or active infection\n4. Must be living in Washington, DC\n5. Must have access to a smartphone\n6. Must be able to provide informed consent\n7. Must speak English.\n\nEXCLUSION CRITERIA:\n\n1. Pregnant or breast feeding\n2. Physically unable to perform physical activity for any reason\n3. Subject had weight changes greater than 20% over the past 3 months\n4. Subject is obese by our measurements (BMI greater than or equal to 35.0 kg/m\\^2)\n5. If you have high or low blood pressure requiring medications\n6. Diabetes\n7. History of severe mental illnesses, treated with hospitalization\n8. If you have evidence of active thyroid disease requiring medications\n9. If you are taking medication for chronic non-mental health related illness (ie: cardiovascular, autoimmune, endocrinologic)\n10. If you have food allergies or highly restrictive diets that may prevent your ability to consume a controlled metabolic diet.\n11. If you are a current smoker (tobacco products)",
+  "minimum_age": "19 Years",
+  "maximum_age": "45 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Recruitment will take place at both the NIH Clinical Center and at the NHLBI Hope Center. The proposed study will be cross-sectional with a sample of healthy White females (n=30) and healthy Black females of African descent (n=30) in Washington, DC. Participants will be asked to wear a GPS unit and accelerometer, and to use a smartphone (i.e., to measure perceived stress/mood via EMA) to examine associations between GIS-derived neighborhood variables, stress-related neural activity measures, and adverse biological markers. A sample of the women (n=30) will be recruited from the high SES census tracts within Washington, DC. The other participants (n=30) will be recruited from low SES census tracts in Washington DC. Finally, participants from high and low SES census tracts in Washington DC will be matched with respect to age, race, and body mass index \\[BMI\\].",
+  "condition": [
+    "Cardiovascular (CV) Risk"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of healthy women without cardiovascular or other chronic diseases. There is no cancer diagnosis or systemic therapy involved, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls healthy women without chronic diseases or cancer. There is no mention of cancer, advanced disease, or systemic therapy, so line-of-therapy criteria do not apply."
+    }
+  ]
+}

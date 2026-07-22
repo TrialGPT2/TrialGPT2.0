@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03676023",
+  "title": "Tranexamic Acid Per Inhalation for Treatment of Pulmonary Hemorrhage in Pediatric Patients",
+  "brief_summary": "Pulmonary hemorrhage can be severe and life-threatening. In children, etiologies of pulmonary hemorrhage include respiratory infection, foreign bodies, bronchiectasis, pulmonary vascular disorders, parenchymal lung disease, and post-surgical complications. Initial management of pulmonary hemorrhage includes stabilization of the patient, securing the airway, initiative high positive end-expiratory pressure to attempt to tamponade the source of hemorrhage and repletion with blood products. Following stabilization of the patient, investigation and further management of hemorrhage includes bronchoscopy, surgery, or catheterization. Sources of bleeding such as endobronchial lesions are often identified and managed with bronchoscopy and the instillation of vasoactive medications or cold water to induce vasospasm and/or balloon tamponade. Vascular bleeding can be surgically ligated or embolized via catheterization. Unidentifiable bleeding occurs with distal vascular injury and is limited to attempted catheter guided embolization of bleeding vessels if found, supportive treatment, and correction of a coagulopathy if present. As etiologies of pulmonary hemorrhage vary, outcomes and prognosis in pediatric pulmonary hemorrhage are difficult to determine, however, mortality still remains a risk.\n\nTranexamic acid (TXA) is a lysine analog that blocks the conversion of plasminogen to plasmin and the interaction with fibrin, preventing blood clot breakdown, thereby reducing bleeding. The United States (US) Food and Drug Administration approved the intravenous formulation of TXA for the treatment of bleeding patients with hemophilia in 1986 and the oral formulation for the use of severe menorrhagia in 2009. In 2011, The World Health Organization listed TXA as an essential medication based on its successful use in adult trauma-related hemorrhage. Studies show the successful off-label use of TXA in children for congenital heart surgery, orthopedic procedures, neurosurgical procedures, trauma, immune thrombocytopenic purpura, epistaxis, hemorrhage complicating a procedure, bilateral lung transplantation, chemotherapy injections, and bone marrow biopsies among other diagnoses and procedures. Very little data on the use of TXA for pediatric pulmonary hemorrhage exists. Only two case reports show TXA controlling hemoptysis in children with cystic fibrosis-related hemoptysis. A systematic review concluded that the use of TXA for hemoptysis was associated with a significant reduction in length of bleeding. A recent randomized control trial showed the TXA decreased the severity of the hemoptysis and may be used as a bridge to other interventions.\n\nThe powerful anti-fibrinolytic properties and relatively low side-effect profile lend TXA to the off-label use in children to reduce bleeding in other diagnoses. There are not enough studies and data, however, to recommend the routine use of TXA in hemoptysis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* search for \"tranexamic acid\" and compare those resulted patients manually to those within EPIC database. Patients identified with \"pulmonary hemorrhage\" or \"hemoptysis\" will be included for analysis.\n\nExclusion Criteria:\n\n* n/a",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "all patients identified retrospectively and ongoing - case controlled treated with inhaled tranexamic acid for pulmonary hemorrhage",
+  "condition": [
+    "Pulmonary Hemorrhage",
+    "MAPCA - Major Aortopulmonary Collateral Artery"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT03407079",
+  "title": "Effects of Sucralose on Drug Absorption and Metabolism (The SweetMeds Study)",
+  "brief_summary": "Background:\n\nArtificial sweeteners like sucralose are found in many foods and drinks. Sucralose might affect hormones and cause health changes.\n\nObjective:\n\nTo see if sucralose changes how medicines are absorbed and processed, how hormones are secreted, gut bacteria, and how fat cells are metabolized.\n\nEligibility:\n\nPeople ages 18-60 who:\n\n* Are black or Hispanic\n* Weigh more than 110 pounds\n* Have a body mass index of 25-40\n* Do not have a condition that requires drug treatment\n\nDesign:\n\nParticipants will be screened with:\n\n* Medical history\n* Physical exam\n* Blood, heart, and urine tests\n\nParticipants must not eat or drink anything with artificial sweeteners throughout the study.\n\nOver 7 days, Participants will answer questions, and give daily urine samples and 1 stool sample. Participants will repeat these throughout the study.\n\nOvernight Visit 1: participants will fast starting the night before. They will get breakfast at the visit. The visit includes:\n\n* An IV will be placed in the arm. Participants will get 2 tablets of medicines. Blood will be drawn several times over 24 hours.\n* A piece of fat tissue may be taken from the abdomen (biopsy).\n* Participants will have a sweet drink. Blood samples will be taken over 2 hours.\n\nThen participants will be randomly assigned to take either a sucralose capsule or placebo. They will take it twice a day for 2 weeks. They will complete two 24-hour food diaries.\n\nOvernight Visit 2 repeats Visit 1 except the biopsy.\n\nThen participants will take the capsules for another 2 weeks.\n\nOvernight Visit 3 repeats Visit 1.\n\nParticipants may be contacted by phone within 4 weeks after they finish.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Age: between 18 and 60 years\n  2. Female adults who self-identify as Hispanic and/or Black\n  3. Body weight greater than 50 kg (110 lb)\n  4. Body mass index between 25 kg/m\\^2 and 40 kg/m\\^2\n  5. Consumption of less than or equal to one 12-ounce beverage sweetened with NNS per month or food equivalent\n  6. Healthy with no known active medical condition or illness that requires drug treatment\n  7. Able and willing to consume approximately 4 mg/kg sucralose daily or placebo in form of capsules for\n\n  4 weeks\n\n  8\\. Able and willing to avoid eating grapefruit, parsnips, celery, drinking grapefruit juice or sodas containing quinine (e.g. tonic water) during the study\n\n  9\\. Able and willing to collect stool specimens\n\n  10\\. Able and willing to consume digoxin and midazolam during study visits\n\nEXCLUSION CRITERIA:\n\n1. Current use of prescription or non-prescription medication(s), herbal medications and oral contraceptives are also excluded. Certain exceptions are permitted, including vitamins. Other medications may be permitted at the discretion of the investigators.\n2. Diabetes (fasting blood glucose of 126 mg/dl or higher, or 2-hour blood glucose of 200 or higher on OGTT)\n3. Taken medications that affect blood sugar in the past 3 months or that include antibiotics\n4. GI history, at the discretion of the investigators\n5. Known allergy, sensitivity, or other contraindication to study procedures\n6. ALT or AST more than 1.5 times the upper limit of normal\n7. Abnormal thyroid function or abnormal serum electrolytes \\& minerals (specifically potassium, calcium, and magnesium)\n8. Narrow angle glaucoma or untreated open angle glaucoma\n9. Regular use of alcohol (more than 1 drink per day) or drug use\n10. History of cardiac abnormalities, especially arrhythmia\n11. Unable or unwilling to cooperate with study procedures\n12. Psychiatric or cognitive disorder that will, in the opinion of the investigators, limit the subject's ability to provide informed consent, or to comply with study procedures\n13. Pregnant, planning to become pregnant or lactating (digoxin and midazolam are Category C and D medications, respectively).",
+  "minimum_age": "18 Years",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Healthy Volunteers",
+    "Overweight"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology study enrolling healthy adults without any medical condition requiring drug treatment or current use of prescription or non-prescription medications. There is no line-of-therapy intent for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Participants must be healthy adults with no active medical condition requiring drug treatment and no current use of prescription or non-prescription medications. No prior systemic therapy for advanced disease is allowed."
+    }
+  ]
+}

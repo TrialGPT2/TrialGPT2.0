@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02814396",
+  "title": "The Application of Multichannel ECG Analytic System in Cardiovascular Diseases",
+  "brief_summary": "Cardiovascular disease (CVD) is the leading cause of death worldwide. Most individuals with CVD show no evidence of disease for decades as the disease progresses before the first onset of symptoms, often a \"sudden\" heart attack, finally arises. The spatial repolarization heterogeneity within the ventricular myocardium had been proposed to represent the function of the heart in health and disease. Greater than normal levels of repolarization dispersion may allow early diagnosis of CVD. There is a growing interest in the characteristic features of ventricular repolarization that leads to lethal ventricular arrhythmia even with the use of non-antiarrhythmic drugs. The recovery time dispersion may reflect a repolarization heterogeneity leading to lethal ventricular arrhythmia. Previously, the investigators had utilized a 64-channel low-TC SQUID MCG device to develop and verify 2 parameters, so called smooth index of QTc (SIQTc) and T wave propagation (TWP), to accurately detect and localize the myocardial ischemia. Recently Nakai, et al. reported that a newly developed 187-ch signal-averaged vector-projected ECG (187-ch SAVP-ECG) could evaluate low-amplitude high-frequency potentials and repolarization heterogeneity. In this project, the investigators'll try to modify and improve the spatial resolution of ECG signals from a Self-built-in multichannel ECG system with a newly developed algorithm, and also try to derive the SIQTc and TWP from this system, for early detection of CVD. The investigators intend to prove the concept that this newly developed multichannel ECG system could efficiently detect or diagnose CVD with acceptable sensitivity and specificity, and in a portable way.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients older than 20 years old.\n* with suspected arrhythmia or cardiovascular diseases.\n\nExclusion criteria\n\n* NO",
+  "minimum_age": "20 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Space ventricular repolarization within the proposal does not have to represent functions in heart health and disease. Repolarization dispersion higher than normal levels may allow early diagnosis of CVD.\n\nThe BSPM and magnetic diagram (MCG) is a newly developed method for both records, and provide higher spatial resolution than conventional ECG signal but has a high cost and bulky shortcomings. It is impossible in a portable manner. Previously, the investigators have used a 64-channel low TC SQUID MCG equipment to develop and validate two parameters, the so-called QT interval (SIQTc) and T wave propagation (TWP) smoothness index, accurate detection and localization of myocardial ischemia blood.",
+  "condition": [
+    "Multichannel ECG System"
+  ],
+  "overall_status": "UNKNOWN"
+}

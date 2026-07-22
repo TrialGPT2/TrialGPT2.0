@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT00000145",
+  "title": "Age-Related Eye Disease Study (AREDS)",
+  "brief_summary": "To assess the clinical course, prognosis, and risk factors of age-related macular degeneration (AMD) and cataract.\n\nTo evaluate, in randomized clinical trials, the effects of pharmacologic doses of (1) antioxidants and zinc on the progression of AMD and (2) antioxidants on the development and progression of lens opacities.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Men and women between the ages of 55 and 80 years whose macular status ranges from no evidence of AMD in either eye to relatively severe disease with vision loss in one eye but good vision in the fellow eye (20/30 or better) are eligible for the study provided that their ocular media are clear enough to allow good fundus photography.",
+  "minimum_age": "55 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Macular Degeneration",
+    "Cataract",
+    "Lens Opacities"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial evaluates the effects of antioxidants and zinc on the progression of age-related macular degeneration (AMD) and cataract in patients who may have no prior systemic therapy for advanced disease. There is no mention of prior systemic therapy for advanced disease as an eligibility criterion.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": null,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility is based on age and macular status, with no mention of prior systemic therapy for advanced disease. Patients are treatment-naïve with respect to systemic therapy for advanced disease."
+    }
+  ]
+}

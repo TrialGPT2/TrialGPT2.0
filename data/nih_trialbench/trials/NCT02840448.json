@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT02840448",
+  "title": "Impact of Elastin Mediated Vascular Stiffness on End Organs",
+  "brief_summary": "Background:\n\nPeople with Williams Syndrome (WS) and supravalvular aortic stenosis (SVAS) have less elasticity in their blood vessels. This is called blood vessel stiffness. Blood vessels may have focal narrowings called stenoses or may just be globally more narrow.\n\nObjectives:\n\nResearchers want to see how blood vessel differences in people with Williams Syndrome and supravalvular aortic stenosis affect organs in the body including the heart, gut, kidneys, and brain.\n\nEligibility:\n\nPeople ages 3-85 who have WS or SVAS\n\nHealthy volunteers ages 3-85\n\nDesign:\n\n* Participants will have yearly visits for up to 10 years. All participants will be offered the same tests.\n* Participants will give consent for the study team to review their medical records. If the participant is a child or an adult with WS, a parent or guardian will give the consent.\n* Participants will visit the NIH where they will have a physical exam and medical history. Based on their health history, participants will undergo a series of imaging tests and measures of blood vessel function over the course of 2-4 days. Tests of cognitive abilites will also be performed. Blood will be drawn and an IV may be placed for specific tests.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nWe will recruit individuals with people with WS, SVAS or other WS region variation conditions (cases) and demographically similar control (unaffected) participants.\n\nChildren or adults with WS must:\n\n* be between the ages of 3 and 85\n* have a presumed or confirmed diagnosis of WS (genetic testing is not performed in this research study).\n* have a parent/guardian available to provide consent and assist in answering medical questions\n* not be pregnant\n\nChildren or adults with SVAS must:\n\n* be between the ages of 3 and 85\n* have clinical features suggestive of SVAS or an SVAS-like condition OR have no clinical features of SVAS or an SVAS-like condition but have genetic testing results that imply affected status (SVAS has decreased penetrance). No genetic testing will be done as part of this protocol.\n* have a parent/guardian available to provide consent and assist in answering medical questions if they are a minor (not applicable to adults)\n\nChildren or adults with WS region gene changes:\n\n* be between the ages of 3 and 85\n* have clinical or research genetic testing that reports gene variation in a non-ELN gene in the WS region.\n* have a parent/guardian available to provide consent and assist in answering medical questions if they are a minor or if they have cognitive impairment that would impede their ability to consent on their own behalf.\n\nChildren or adults participating in the study as part of control group must:\n\n* be between the ages of 3 and 85\n* not have clinical features or genetic profile suggestive of WS, SVAS or an SVAS-like condition. No genetic testing will be performed in this research study.\n* have a parent/guardian available to provide consent and assist in answering medical questions if they are a minor (not applicable to adults)",
+  "minimum_age": "3 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Primary clinical along with matched healthy controls",
+  "condition": [
+    "Williams Syndrome",
+    "Supravalvular Aortic Stenosis",
+    "Cardiovascular Disease"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling individuals with Williams Syndrome, supravalvular aortic stenosis, related genetic conditions, and healthy controls to assess vascular stiffness and its impact on end organs. There is no cancer diagnosis or systemic therapy for advanced disease involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced disease. Eligibility is based on diagnosis of WS, SVAS, related genetic conditions, or healthy status, with no mention of prior lines of therapy."
+    }
+  ]
+}

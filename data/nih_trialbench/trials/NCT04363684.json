@@ -1,0 +1,53 @@
+{
+  "nctid": "NCT04363684",
+  "title": "ARTFL LEFFTDS Longitudinal Frontotemporal Lobar Degeneration (ALLFTD)",
+  "brief_summary": "ARTFL LEFFTDS Longitudinal Frontotemporal Lobar Degeneration (ALLFTD) represents the formalized integration of ARTFL (U54 NS092089; funded through 2019) and LEFFTDS (U01 AG045390; funded through 2019) as a single North American research consortium to study FTLD for 2019 and beyond.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Longitudinal Arm Inclusion Criteria\n\nFamilial FTLD (f-FTLD) participants (either is acceptable):\n\n* members of families in whom at least one member has a known disease-associated mutation in one of the major genes that cause f-FTLD: MAPT, GRN, C9orf72 (or other rare genes)\n* an autosomal dominant family history of a FTLD syndrome (without a known gene) verified by medical record review or well-documented family history including family members with a medical history consistent with FTLD or a related disorder.\n\nSporadic FTLD (s-FTLD) participants:\n\nSporadic participants should be symptomatic with no known family history nor a genetic mutation indicating f-FTLD. All sporadic participants must have an FTLD syndrome as a referring diagnosis; those determined by ALLFTD clinicians to have non-FTLD diagnoses will be excluded from longitudinal visits, but their baseline visit will be included in comparative datasets. For inclusion in the longitudinal follow-up, participants should meet research criteria for one of the following FTLD syndromes:\n\n* Progressive Supranuclear Palsy (PSP)\n* Semantic variant Primary Progressive Aphasia (svPPA)\n* Nonfluent variant Primary Progressive Aphasia (nfvPPA)\n* Corticobasal Degeneration (CBD)/Corticobasal Syndrome (CBS)\n* Behavioral variant Frontotemporal dementia (bvFTD)\n* Frontotemporal Dementia with Amyotrophic Lateral Sclerosis (FTD/ALS)\n\nBiofluid-Focused Arm Inclusion Criteria\n\nParticipants enrolled in the biofluid arm may be either f-FTLD or s-FTLD. All general inclusion criteria apply. Participants should meet research criteria (as specified above) for any FTLD syndrome or meet familial FTLD inclusion criteria. Because the biofluid arm participants do not undergo the same detailed clinical and functional assessments required for the longitudinal arm, participants may be included regardless of primary language, as long as an appropriately translated consent is available.\n\nExclusion Criteria:\n\n* Known presence of a structural brain lesion (e.g. tumor, cortical infarct) that could reasonably explain symptoms in a symptomatic participant.\n* Known presence of an Alzheimer's disease causing mutation in PSEN1, PSEN2 or APP; or biomarker evidence for Alzheimer's disease as a cause of the clinical syndrome.\n* A previous history of Korsakoff encephalopathy, severe alcohol dependence (within 5 years of onset of dementia), frequent alcohol or other substance intoxication, or other neurological disorder.\n* Evidence through history or laboratory testing of uncorrected B12 deficiency (B12 \\< 95% of local laboratory's normal value), unregulated hypothyroidism (TSH \\>150% of normal), HIV positive, renal failure (creatinine \\> 2), liver failure (ALT or AST \\> two times normal), respiratory failure that requires supplemental oxygen, large confluent white matter lesions, significant systemic medical illnesses such as deteriorating cardiovascular disease.\n* Current medication likely to affect CNS functions in the opinion of the site PI.\n* In the site investigator's opinion, the participant cannot complete sufficient key study procedures. The participant may be enrolled into the biofluid-focused arm if they can tolerate a blood draw and short clinical exam, but must be able to complete at least 75% of study procedures for enrollment into the longitudinal arm.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants will have a referring diagnosis of an FTLD clinical syndrome or will be a member of a family with a strong family history of an FTLD syndrome.",
+  "condition": [
+    "Frontotemporal Lobar Degeneration (FTLD)",
+    "Progressive Supranuclear Palsy (PSP)",
+    "Corticobasal Degeneration (CBD)",
+    "Behavioral Variant Frontotemporal Dementia (bvFTD)",
+    "Semantic Variant Primary Progressive Aphasia (svPPA)",
+    "Nonfluent Variant Primary Progressive Aphasia (nfvPPA)",
+    "FTD With Amyotrophic Lateral Sclerosis (FTD/ALS)",
+    "Amyotrophic Lateral Sclerosis",
+    "Oligosymptomatic PSP (oPSP)",
+    "C9orf72",
+    "GRN Related Frontotemporal Dementia",
+    "MAPT Gene Mutation",
+    "TBK1 Gene Mutation",
+    "Oligosymptomatic Progressive Supranuclear Palsy"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational study of frontotemporal lobar degeneration (FTLD) that does not specify or restrict prior lines of systemic therapy for advanced disease. Eligibility is based on genetic or clinical diagnosis of FTLD syndromes, not on cancer treatment history.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Longitudinal Arm",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, as this is an observational study of FTLD. There are no requirements or restrictions regarding cancer treatment history."
+    },
+    {
+      "cohort_label": "Biofluid-Focused Arm",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The biofluid-focused arm also does not reference prior systemic therapy for advanced disease. Inclusion is based on FTLD diagnosis, with no mention of cancer treatment history."
+    }
+  ]
+}

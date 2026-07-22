@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT04711876",
+  "title": "Characterization of Cytokines Expression During Enterovirus Meningitis in Paediatric Populations.",
+  "brief_summary": "Enteroviruses (EV) are the most frequent cause of acute meningitis in the paediatric population. Detection of enterovirus in cerebrospinal fluid (CSF) specimens by Polymerase Chain Reaction (PCR) is the gold standard diagnostic test. Recently, our laboratory published the BLEDI study which highlighted the interest of detecting EV in the blood of the paediatric population : (i) EV was found in more than a quarter of cases in the blood of infants admitted to hospital with isolated fever and (ii) detection of EV was more frequent in the blood than in CSF in neonates and infants with isolated fever, sepsis or meningitis. However, the pathophysiology of EV infections is poorly understood and little work has been done on the inflammatory response to these infections. In EV meningitis, the inflammatory response has been studied primarily in children infected with enterovirus A71 (EV-A71). Indeed, in these children, inappropriate cytokine secretion (cytokine storm) leads to severe neurological and cardiopulmonary damage, which can progress to death. The study of the inflammatory response during meningitis due to other types of EV remains poorly\n\nThe objective of BLEDI-CYTOKINES (ancillary study of the BLEDI study) is to study the inflammatory response during EV meningitis in neonates, infants and children, as assessed by cytokine levels in blood and cerebrospinal fluid, by comparing case-controls from an existing cohort.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with proven enterovirus meningitis (RT- PCR EV positive)\n* Control patients admitted for suspected meningitis infection but for whom the bacteriological (LCS culture/ blood culture negative) and virological diagnosis (testing for enteroviruses (RT-PCR negative) and parechoviruses (viruses responsible for symptoms similar to those of EVs) is negative\n\nExclusion Criteria:\n\nFor patients with EV meningitis, we will exclude:\n\n* patients with co-infection\n* haemorrhagic CSF samples\n* samples (CSF or blood) for which we do not have access to EV viral load results\n* samples (CSF or blood) for which we do not have access to the EV genotyping results\n\nFor patients in the control group (without EV meningitis), we will exclude :\n\n* Samples from patients with an infection (viral or bacterial) in the control group.\n* haemorrhagic CSF samples\n* CSF samples with pleocytosis (presence of CSF leucocytes).\n* Blood samples with high CRP (CRP\\>15mg/L).",
+  "minimum_age": "1 Day",
+  "maximum_age": "16 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Paediatric patient with suspicion of meningitis",
+  "condition": [
+    "Meningitis Enterovirus"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04565106",
+  "title": "Automatic Oxygen Titration With O2matic\u00ae to Patients Admitted With COVID-19 and Hypoxemic Respiratory Failure",
+  "brief_summary": "Patients with coronavirus disease (COVID-19) and pneumonitis often have hypoxemic respiratory failure and a need of supplementary oxygen. Guidelines recommend controlled oxygen, for most patients with a recommended interval of SpO2 between 92 and 96 %. We aimed to determine if closed-loop control of oxygen was feasible in patients with COVID-19 and could maintain SpO2 in the specified interval.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Older than 18 years\n* Positive COVID-19 PCR analysis in pharyngeal swab or in tracheal secretion\n* Need oxygen supply to maintain SpO2 \u2265 92 %\n* Able to comply with continuous measurement of SpO2 by pulse oximetry.\n\nExclusion Criteria:\n\n* Need of oxygen supply \\> 10 liters/min at admission",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients admitted with COVID-19 pneumonitis and in need of oxygen supplementation",
+  "condition": [
+    "Covid19",
+    "Hypoxemic Respiratory Failure",
+    "Hypoxemia"
+  ],
+  "overall_status": "COMPLETED"
+}

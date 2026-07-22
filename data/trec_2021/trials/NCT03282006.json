@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03282006",
+  "title": "Treating Pyelonephritis an Urosepsis With Pivmecillinam",
+  "brief_summary": "Febrile urinary tract infections and urosepsis are common and potentially serious infections that require effective antimicrobial treatment. The duration of parenteral treatment depends on oral alternatives. These alternatives are few and due to antimicrobial resistance, quinolones are \"standard of care\". The increased use of quinolones is concerning because of its negative ecological aspects and it is confirmed an increasing incidence of resistant E.coli to quinolones in Norwegian isolates.\n\nPivmecillinam is an antibiotic with high susceptibility to E.coli but the evidence for treating febrile urinary tract infections is insufficient. This trial will investigate the efficacy and safety of pivmecillinam in treating pyelonephritis and urosepsis caused by E.coli.\n\nThe hypothesis is that urosepsis can safely be treated with pivmecillinam when it is given after 2-3 days with empirical i.v. antibiotics.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* E.coli in blood culture\n* AND identical isolate in urine sample (\\>= 1.000 CFU) OR relevant clinical signs of UTI\n\nExclusion Criteria:\n\n* Bacterial infection origin from another organ (e.g. pneumonia)\n* Severe sepsis with multiorgan failure\n* Perinephritic abscess\n* Pyonephrosis requiring drainage\n* Allergy to pivmecillinam\n* E.coli isolate resistant to pivmecillinam\n* Pregnancy/breastfeeding\n* Severe neutropenia\n* Prostatitis\n* Severe kidney failure (eGFR\\<15 ml/min)\n* Using valproate",
+  "minimum_age": "18 Years",
+  "maximum_age": "110 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pyelonephritis",
+    "Urinary Tract Infections"
+  ],
+  "overall_status": "COMPLETED"
+}

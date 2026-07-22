@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT02911077",
+  "title": "Longitudinal Changes in the Oral and Gut Microbiome of Individuals With Alcohol Dependence",
+  "brief_summary": "Background:\n\nMany bacteria live in the gut. The gut is the tube that moves food from the mouth through the stomach to the intestines. Heavy alcohol use disturbs these bacteria. There is evidence that the bacteria in the gut may affect anxiety and depression. Researchers want to learn more about these bacteria in order to better treat diseases such as alcohol dependence.\n\nObjective:\n\nTo identify the different bacteria that live in the mouth and gut. Also, to learn if these bacteria change as a person goes through alcohol detoxification.\n\nEligibility:\n\nPeople ages 18 and older who:\n\n* Enrolled in screening protocol 14-AA-0181\n* Are going through detoxification treatment at the Clinical Center\n\nDesign:\n\nParticipants will have physical exams.\n\nParticipants will answer questions about:\n\n* Anxiety and depression\n* Alcohol use\n* Sleep\n* Abdominal and oral health\n* Diet\n\nParticipants will keep a regular record of their diet.\n\nParticipants will have breath alcohol analysis 4 times per day.\n\nParticipants will provide stool and oral specimens at most once a day for the first week. Then, they will provide them once a week while they are at the Clinical Center.\n\n* For the oral specimen: A small brush rubs the tongue. They may not eat, drink, or perform oral care within 2 hours of collection.\n* For the stool specimen: They will receive a container that fits in the toilet. They will let the nurse know right away when the sample is ready.\n\nParticipants will have a dental visit. This consists of an oral exam and oral health assessment. The dentist may recommend a cleaning or dental X-rays.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* At least 18 years of age\n* Willing to provide consent\n* Consented on screening and research protocol 14-AA-0181\n* Admitted to the NIH CC for inpatient detoxification treatment\n\nEXCLUSION CRITERIA:\n\n* Currently using or have used any of the following drugs within the last month by self-report:\n\n  * Antibiotics\n  * Corticosteroids: inhaled, oral, intravenous or intramuscular\n  * Immunosuppressive or cytotoxic agents\n* Large doses of probiotics such as supplemental probiotics (ordinary dietary components such as beverages/milk or yogurt DO NOT APPLY)\n* Major surgery of the GI tract with the exclusion of cholecystectomy and appendectomy in the past 5 years.\n* Any bowel resection at any time.\n* History of active uncontrolled gastrointestinal disorders or diseases including inflammatory bowel disease, ulcerative colitis, Crohn s disease, and/or infectious gastroenteritis, colitis, or gastritis (per patient s report of whether or not they have been diagnosed by a physician).\n* Enrolled in any investigational study that might affect the microbiome.\n* BMI greater than or equal to 30 kg/m2\n\nSome of these exclusionary criteria have been adapted from the Human Microbiome Project \\[40\\]. All exclusion measures will be collected from self-report.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "inpatient treatment seeking alcohol dependent participants",
+  "condition": [
+    "Alcoholic Intoxication",
+    "Alcohol-Related Disorders"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a microbiome observational study in individuals undergoing alcohol detoxification. There is no cancer diagnosis or systemic therapy for advanced disease involved, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced disease. Eligibility is based on alcohol dependence and detoxification, not prior lines of cancer therapy."
+    }
+  ]
+}

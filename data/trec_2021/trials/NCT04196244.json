@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04196244",
+  "title": "Intravenous Contrast Computed Tomography Versus Native Computed Tomography in Patients With Acute Abdomen and Impaired Renal Function",
+  "brief_summary": "Computer tomography (CT) is the primary imaging option for acute abdominal pain in adults. Intravenous (IV) contrast media is used to improve the CT quality. In patients with impaired renal function, post-contrast acute kidney injury (PC-AKI) has remained a significant concern. Modern retrospective studies have shown no association between worsened baseline renal function and IV-contrast CT. However, no randomised controlled trial has been done to conclude this. The INCARO (INtravenous Contrast computed tomography versus native computed tomography in patients with acute Abdomen and impaired Renal functiOn) trial is a multicentre, open-label, parallel group, superiority, individually randomised controlled trial comparing IV-contrast enhanced CT to native CT in patients with impaired renal function. Patients requiring emergency abdominal or body CT with eGFR 15-45 ml/min/1.73 m2 are included in the study. The primary outcome is a composite outcome of all-cause mortality or renal replacement therapy within 90 days from CT.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients requiring emergency abdominal or body CT with eGFR 15-45 ml/min/1.73 m2\n\nExclusion Criteria:\n\n* Age less than 18 years\n* Pregnancy\n* eGFR less than 15 or more than 45 ml/min/1.73 m2\n* Renal replacement therapy within 30 days prior enrolment\n* CT with IV contrast less than 72 hours prior enrolment\n* Suspicion of vascular occlusion, dissection or bleeding (i.e. need for IV-contrast)\n* CT needed without IV-contrast to detect or rule out ureteral stone\n* IV contrast allergy\n* Inability to give written consent.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Abdomen",
+    "Radiocontrast Nephropathy"
+  ],
+  "overall_status": "RECRUITING"
+}

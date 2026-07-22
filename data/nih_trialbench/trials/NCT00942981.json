@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00942981",
+  "title": "Functional Relevance of Dopamine Receptors in Healthy Controls and Patients With Schizophrenia: Characterization Through [11C]NNC-112 and [18F]Fallypride Positron Emission Tomography",
+  "brief_summary": "Background:\n\n* Some illnesses, such as schizophrenia, have effects on brain cells called dopamine receptors, which are required for normal brain function. People with schizophrenia have difficulty thinking and experience hallucinations and delusions. Medications that change brain dopamine receptors can decrease these hallucinations and delusions.\n* The cause of schizophrenia and its association with brain dopamine receptors is not known but may be clarified by studying dopamine receptors in people who have dopamine disorders (such as schizophrenia) and those who do not. Researchers are interested in studying the dopamine system to gain a better idea of how dopamine disorders develop, which may lead to better medical care for people with schizophrenia.\n\nObjectives:\n\n\\- To study the amount and distribution of two types of dopamine receptors.\n\nEligibility:\n\n* Individuals between the ages of 18 and 60 who have schizophrenia.\n* Healthy volunteers between the ages of 18 and 90.\n\nDesign:\n\n* Participants will undergo a full screening, with physical and psychological history, a neurological examination, and blood and urine samples.\n* Participants will have a blood flow map of the brain recorded with a positron emission tomography (PET) brain scan. A magnetic resonance imaging (MRI) scan will also be performed to determine brain anatomy.\n* To study the amount and distribution of dopamine receptors in the brain, participants will receive a small amount of a radioactive chemical in the vein, followed by a PET scan.\n* The procedure will be performed twice in two separate sessions, once for \\[18F\\]fallypride and once for \\[11C\\]NNC-112.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Subjects will be recruited among individuals volunteering for NIH protocol 95-M-0150 A Neurobiological Investigation of Patients with Schizophrenia Spectrum Disorders and Their Siblings (PI: Karen Berman, M.D.), NIH protocol 00-M-0085 Structural and Functional Imaging of Neuropsychiatric Patients and Normal Volunteers with 3.0 Tesla MRI and Magnetoencephalography. (P.I.: Karen Berman, MD) or NIH protocol 89-M-0160 \"Inpatient Evaluation of Neuropsychiatric Patients\" (PI: Daniel Eisenberg, M.D.). Most included patients, with schizophrenia, schizoaffective disorder or other non-excluded psychotic disorders, will be managed on the NIMH inpatient ward for the duration of their participation.\n* Only adult subjects who are able to provide informed consent will be studied.\n* Patients will be between 18 and 60 years of age. Healthy controls will be matched by age and sex to the patients. In addition, to study age effect on DA receptors, healthy controls will be included up to the age of 90 years.\n* Control subjects must be healthy based on history, laboratory and physical exam obtained through the above mentioned protocols.\n\nEXCLUSION CRITERIA:\n\n-Subjects will be excluded if they don t fit the study requirements regarding age, ability to provide informed consent, absence of significant general medical, neurological or psychiatric disorders (except the disorder object of study), or intake of substances that\n\ninterfere with central dopaminergic signaling.\n\n* NIMH employees and staff and their immediate family members will be excluded from the study per NIMH policy.\n* Pregnant or breast feeding\n* Current psychiatric illness except for patients with schizophrenia, schizoaffective disorder or other psychotic disorder\n* Secondary causes of schizophrenia-like syndromes, e.g. amphetamine abuse, brain infarction, tumor, or trauma\n* Neurological disorders except those of exclusively peripheral location\n* Current or prior use (within 4 weeks) of substances that interfere with central dopaminergic signaling (e.g. antipsychotics, dopamine receptor agonists, anticholinergics, MAO-B inhibitors)\n* History of any (excepting nicotine- related) DSM5-defined moderate to severe substance use disorder (or DSM-IV-defined substance dependence).\n* Cumulative lifetime history of any (excepting nicotine -related) DSM5-defined mild substance use disorder (or any DSM-IV-defined substance abuse), either in excess of 5 years total or not in remission for at least 6 months.\n* Severe systemic disease, such as hypothyroidism not compensated by medication\n* Laboratory tests with clinically significant abnormalities\n* History of a significantly abnormal EEG, cranial CT or MRI\n* Conditions that increase risk for MRI (pacemaker devices, ferromagnetic metal implants, etc.)\n* Prior participation in other research protocols such that radiation exposure would exceed the annual NIH RSC limits\n* Any medical condition that in the opinion of the investigators would interfere with the safe conduct of the study",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "It will include 100 patients with schizophrenia, schizoaffective disorder or other psychotic disorders aged 18-60, and 230 healthy controls, aged 18-90.",
+  "condition": [
+    "Schizoaffective Disorder",
+    "Schizophrenia"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational imaging study of dopamine receptors in patients with schizophrenia and healthy controls. There is no cancer diagnosis or systemic therapy for advanced disease involved, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced disease. No line-of-therapy criteria are specified or relevant to the population studied."
+    }
+  ]
+}

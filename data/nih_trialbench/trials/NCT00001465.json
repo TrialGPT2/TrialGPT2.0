@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT00001465",
+  "title": "Study of the Disease Process of Lymphangioleiomyomatosis",
+  "brief_summary": "Pulmonary lymphangioleiomyomatosis (LAM) is a destructive lung disease typically affecting women of childbearing age. Currently, there is no effective therapy for the disease and the prognosis is poor.\n\nThis study is designed to determine the disease processes involved at the level of cells and molecules, in order to develop more effective therapy.\n\nResearchers intend to identify the proteins and genes that contribute to the process of lung destruction in affected individuals.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nGeneral admission criteria for patients include one or both of the following:\n\nFindings on lung biopsy diagnostic of LAM;\n\nFindings on chest x-ray and/or chest computed axial tomography consistent with LAM.\n\nPatients with TSC and pulmonary LAM will be included in the study.\n\nNormal non-smokers in the control group are defined as individuals who have not smoked for greater than or equal to 1 year and have no systemic or pulmonary disease.\n\nNormal smokers defined as individuals with no systemic or pulmonary disease, who have smoked for greater than or equal to 1 year and have normal chest x-ray and normal pulmonary function tests may be included if needed as controls for a similar population of patients with LAM.\n\nPregnant and or nursing women can be included in accordance with Federal Regulations at Subpart B of 45 CFR 46 Subjects who are pregnant and or nursing will be excluded from procedures during their pregnancy that are greater than minimal risk, until they are no longer pregnant and/or nursing. Procedures that will not be completed while the subject is pregnant and/or nursing including: PFTs, Six Minute Walk Test, thoracentesis, bronchoscopy, and measurements with imaging modalities requiring contrast or with radiation exposure such as Chest x-ray, CT scan, MRI, bone densitometry (DEXA). Allowing subjects to be included in the study may glean important information about individuals with uncommon pulmonary disease during and post pregnancy.\n\nEXCLUSION CRITERIA:\n\nExclusion criteria for patients include:\n\nAge less than 16.\n\nAdvanced stage of a pulmonary or a systemic illness in which the risk of the study is judged to be significant even in the absence of a clear contraindication to the procedures.\n\nExclusion criteria for patients for the formal exercise study and the stress echocardiogram include patients on continuous oxygen. Patients may perform an exercise test that will assess the patient's exercise capacity with activities of daily living.",
+  "minimum_age": "16 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals with pulmonary lymphangioleiomyomatosis develop severe destructive lung disease. Most of them are females of childbearing age. This study is designed to (a) define the clinical course of the disease and (b) elucidate the pathogenesis of the disease at the cellular and molecular levels, in order to develop more effective therapy. To accomplish this, we intend to identify the proteins and genes that contribute to the process of lung destruction in affected individuals.",
+  "condition": [
+    "Lung Disease",
+    "Pneumothorax",
+    "Tuberous Sclerosis",
+    "Lymphangioleiomyomatosis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling patients with lymphangioleiomyomatosis (LAM) regardless of prior systemic therapy. There are no requirements or restrictions regarding prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they specify any requirements or exclusions based on prior lines of therapy. Patients are included based on diagnosis of LAM, not treatment history."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04567368",
+  "title": "TB-CAPT MTB/XDR Study",
+  "brief_summary": "The Cepheid Xpert MTB/XDR cartridge, which runs on the same platform as Xpert MTB/RIF Ultra, has been developed to detect additional resistance to isoniazid, fluoroquinolones and second-line injectable anti-tuberculosis drugs and provides results within 2 hours and on primary samples. An evaluation of the the Xpert MTB/XDR assay is currently underway in clinical settings in South Africa, India and Moldova. The TB-CAPT MTB/XDR Study will add further diagnostic accuracy and feasibility data to the evidence base for the Xpert MTB/XDR assay.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Mtb-positive, rifampicin-resistant respiratory specimen identified on Xpert MTB/RIF Ultra\n\nExclusion Criteria:\n\n* Residual SR-sputum mix not retained or not found\n* Patient previously included in the study\n\nExclusion for diagnostic accuracy and time-to-result endpoints:\n\n* Insufficient residual SR-sputum mix remaining for Xpert MTB/XDR (\\<2 ml)\n* Xpert MTB/XDR unsuccessful\n* No second / follow-up specimen received\n* Second / follow-up specimen culture-negative, contaminated or not available\n* Reference standard uninterpretable (phenotyping or WGS)\n\n  * Where phenotypic susceptibility testing results are uninterpretable, specimens will still be included in WGS comparison\n  * Where WGS results are uninterpretable, specimens will still be included in phenotypic susceptibility testing comparison",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Respiratory specimens testing rifampicin-resistant Mtb positive on Xpert MTB/RIF Ultra.\n\nThe proposed study procedures would not affect the usual care of patients as we will utilise specimens that would ordinarily be discarded. Similarly, the reference standard tests (next generation sequencing) are non-routine tests not currently utilised for patient care in South Africa. These tests will be performed post hoc with patient identifiers removed.\n\nFor these reasons, we are proposing a waiver of informed consent for this diagnostic accuracy and feasibility study.",
+  "condition": [
+    "Tuberculosis",
+    "Resistance Bacterial",
+    "Diagnoses Disease"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

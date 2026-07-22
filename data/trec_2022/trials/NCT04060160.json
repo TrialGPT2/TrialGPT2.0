@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04060160",
+  "title": "Acne Detection Software (AcneDect)",
+  "brief_summary": "This study is to create a self-learning software that can detect acne lesions. Patients take a picture of their face every single day for 3 months with a secure mobile phone and fill out a pre-designed questionnaire. After 3 months, the mobile will be collected back and the pictures will be evaluated by 3 dermatologists. The software is able to learn from the dermatologists' evaluation and -using machine learning- a mechanism that should be able to automatically detect acne to some extent will be established.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Acne vulgaris\n\nExclusion Criteria:\n\n* Refusal to participate",
+  "minimum_age": "10 Years",
+  "maximum_age": "35 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients within the consultation service of Dermatologische Klinik, Universit\u00e4tsspital Basel, that meet the inclusion criteria",
+  "condition": [
+    "Acne Lesions",
+    "Acne Vulgaris"
+  ],
+  "overall_status": "TERMINATED"
+}

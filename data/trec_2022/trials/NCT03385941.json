@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03385941",
+  "title": "Radio-frequency Identification (RFID) Osteoporosis Pilot Study",
+  "brief_summary": "This examines in-vivo microwave sensing to measure a radio- frequency signal propagating through the wrist and, based on this information, establish a correlation of measured parameters with the integral bone density. This radio- frequency device is designed to obtain an integral estimate of bone density (osteoporotic vs normal).\n\nThe measurements can be done in three ways. The first method (Method 1) utilizes Received Signal Strength (RSS) of an RFID tag array at 915 megahertz located on the top of the wrist. The transmitting antenna located on the bottom of the wrist is connected to an RFID reader. In that way, the signal travels twice across the wrist: from the reader to the tag and vice versa.\n\nThe second method (Method 2) is to use only one transmitting antenna, connect the transmitting antenna to a portable Network Analyzer and measure the reflection coefficient, S11, of the antenna itself. This method does not imply that the entire signal will travel back and forth through the wrist, although its significant portion will. This method is, however, broadband and allows us to measure antenna resonances, which are very sensitive to the wrist composition.\n\nThe third method (Method 3) is to use both transmitting and receiving antennas, connect the antennas to a portable KeySight Network Analyzer and measure the transmission coefficient, S21, of the antenna pair. This method implies that the entire signal will travel through the wrist once. This method is also broadband and allows us to measure decay of the radio-signal in the wrist over a band of frequencies.\n\nThe two last methods could be combined together.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nIn osteoporotic patients:\n\n* 50-80 years of age\n* Established diagnosis of osteoporosis, based on prior dual energy x-ray absorptiometry (DXA) scan with T-score \\<-2.0 at any site and/or history of fragility fracture\n\nIn healthy controls:\n\n* 27-40 years of age\n* Female\n\nExclusion Criteria:\n\nIn osteoporotic patients:\n\n* Current or recent (within 2 years) use of osteoporosis medications including bisphosphonates, hormone replacement therapy, selective estrogen receptor modulators, teriparatide, denosumab, calcitonin, or strontium\n* Pregnancy or breastfeeding within the past 2 years\n* Any medical or psychiatric condition or situation that would compromise subject safety, informed consent/assent, or data quality\n\nIn healthy controls:\n\n* History of significant cardiac, renal, pulmonary, hepatic, or malignant disease, or current alcohol or illicit drug abuse\n* Current diagnoses known to effect bone metabolism, including cystic fibrosis, diabetes, osteoporosis, amenorrhea \\>3 months (in menstruating women who are not taking oral contraceptives or have an IUD), hyperthyroidism, hyperparathyroidism, Paget's disease, kidney stones, chronic inflammatory diseases, malabsorptive disorders, malnutrition or eating disorder, endocrine disorders (growth disorder, Cushing syndrome), prolonged immobility, and skeletal dysplasias\n* History one or more pathologic fracture, or greater than four total lifetime non-digital, non-facial fractures\n* Cumulative lifetime use of oral glucocorticoids for greater than 2 months\n* Current or previous use of medications known to affect bone metabolism including hormone replacement therapy, anti-estrogens, bisphosphonates, calcitonin, lithium, suppressive doses of levothyroxine, or anticonvulsants.\n* Pregnancy or breastfeeding within the past 2 years\n* BMI less than 18.5 or greater than 30 kg/m2.\n* Any medical or psychiatric condition or situation that would compromise subject safety, informed consent/assent, or data quality",
+  "minimum_age": "27 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "We are interested in a population comprised of female patients with and without osteoporosis.",
+  "condition": [
+    "Age-Related Bone Loss",
+    "Bone Loss, Age Related"
+  ],
+  "overall_status": "UNKNOWN"
+}

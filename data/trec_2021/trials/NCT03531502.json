@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03531502",
+  "title": "Initial Management of Patients Receiving a Single Shock (IMPRESS)",
+  "brief_summary": "The goal of this study is to determine the optimal treatment for patients who receive a single shock from their implantable cardioverter defibrillator (ICD). All participants in this study will be fitted with a special electrode vest to detect the origin of heart rhythm abnormalities and then they will undergo a procedure called Non-Invasive Programmed Stimulation (NIPS). This procedure involves sedating a participants with anesthesia and then using the participant's own ICD to try to stimulate the heart to go into ventricular tachycardia. If this procedure is unable to induce the participant into ventricular tachycardia, then the participant will just be managed with usual care and will not be placed on any additional medications and will not undergo an ablation. However, if the NIPS induces the ventricular tachycardia, the electrode vest will be used to determine the origin of the abnormal heart rhythm inside the heart. After a successful NIPS procedure, the participants will be randomly assigned to either be placed on medication therapy or undergo catheter ablation. The outcomes from all three groups will be compared and the researchers hope to better understand which participants are most likely to benefit from watchful waiting versus medication versus catheter ablation.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* 18-80 years old, both males and females\n* Single or dual chamber ICD or BiVentricular ICD in situ\n* Ischemic or non-ischemic cardiomyopathy\n* Receive a single shock from their ICD for monomorphic ventricular tachycardia\n\nExclusion Criteria:\n\n* ICD shock for polymorphic VT/VF or inappropriate shock\n* Previous ventricular tachycardia ablation within 1 year\n* NYHA Class IV heart failure or current inotrope therapy\n* Ventricular tachycardia storm\n* Listed for heart transplant or LVAD\n* Pregnant as determined by urine pregnancy test prior to NIPS",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Ventricular Tachycardia"
+  ],
+  "overall_status": "TERMINATED"
+}

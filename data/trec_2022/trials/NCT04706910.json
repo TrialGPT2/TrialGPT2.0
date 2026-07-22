@@ -1,0 +1,29 @@
+{
+  "nctid": "NCT04706910",
+  "title": "18F-DOPA II - PET Imaging Optimization",
+  "brief_summary": "A single centre non-randomized, non-blinded phase III prospective cohort study of 18F-DOPA PET/CT imaging in specific patient populations:\n\n1. Pediatric patients (less than 18 years old) with congenital hyperinsulinism.\n2. Pediatric patients (less than 18 years old) with neuroblastoma.\n3. Pediatric (less than 18 years old) or Adult patients (18 or older) with known or clinically suspected neuroendocrine tumor.\n4. Adult patients (18 or older) with a clinical suspicion of Parkinson's disease or Lewy body dementia.\n5. Pediatric (less than 18 years old) or Adult patients (18 or older) with brain tumors.\n\nImage optimization (the primary study objective) and gallbladder activity pattern (the secondary objective) will be evaluated.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Pediatric patients (less than 18 years old) with congenital hyperinsulinism.\n2. Pediatric patients (less than 18 years old) with neuroblastoma.\n3. Pediatric (less than 18 years old) or Adult patients (18 or older) with known or clinically suspected neuroendocrine tumor.\n4. Adult patients (18 or older) with a clinical suspicion of Parkinson's disease or Lewy body dementia.\n5. Pediatric (less than 18 years old) or Adult patients (18 or older) with brain tumors.\n\nExclusion Criteria:\n\n1. Unable to obtain consent\n2. Weight \\>225 kg (weight limitation of PET/CT scanner)\n3. Adult patients unable to lie flat for 20-30 minutes to complete the PET-CT session.\n4. Young pediatric patients (less than 13 years old) who are unable to lie flat for 20-30 minutes and for whom clinical sedation is contraindicated (as determined by a pediatric anaesthesiologist).\n5. Lack of intravenous access\n6. History of previous cholecystectomy (excluded from dynamic abdomen sub-study only)\n7. Pregnancy",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Congenital Hyperinsulinism",
+    "Neuroblastoma",
+    "Parkinson Disease",
+    "Lewy Body Disease",
+    "Neuroendocrine Tumors",
+    "Brain Tumor"
+  ],
+  "overall_status": "RECRUITING"
+}

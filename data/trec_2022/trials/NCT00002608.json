@@ -1,0 +1,30 @@
+{
+  "nctid": "NCT00002608",
+  "title": "Combination Chemotherapy and Tamoxifen in Treating Patients With Solid Tumors",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as cisplatin and doxorubicin, work in different ways to stop tumor cells from dividing so they stop growing or die. Estrogen can stimulate the growth of tumor cells. Hormone therapy using tamoxifen may fight cancer by blocking the uptake of estrogen. Combining tamoxifen with chemotherapy may kill more tumor cells.\n\nPURPOSE: This phase II trial is studying how well giving cisplatin and doxorubicin together with tamoxifen works in treating patients with solid tumors.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically proven soft tissue sarcoma, glioma, mesothelioma, hepatoma, thyroid cancer, or adrenal cancer with clinical, radiological, or histologic evidence of incurability\n* Patients with thyroid cancer must have failed radioactive iodine\n* Measurable or evaluable disease\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 65 and under\n\nPerformance status:\n\n* ECOG 0-2\n\nHematopoietic:\n\n* Granulocyte count at least 1,500/mm3\n* Platelet count at least 140,000/mm3\n\nHepatic:\n\n* Bilirubin normal\n\nRenal:\n\n* Creatinine less than 1.47 mg/dL\n\nCardiovascular:\n\n* Left ventricular ejection fraction at least 50% by MUGA scan\n* No congestive heart failure\n* No severe, uncontrolled hypertension\n* No ischemia, life-threatening arrhythmia, or conduction disturbance by ECG\n\nOther:\n\n* No allergy to study medications\n* No uncontrolled infection\n* No active abuse of ethanol that would preclude treatment\n* No other prior or concurrent malignancy\n* Not pregnant\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* No more than 1 prior chemotherapy regimen\n* No prior anthracycline or cisplatin\n* At least 3 weeks since other prior chemotherapy and recovered\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* See Disease Characteristics\n* No prior radiotherapy to more than 25% of bone marrow\n* At least 3 weeks since other prior radiotherapy and recovered\n\nSurgery:\n\n* Not specified",
+  "minimum_age": "",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Adrenocortical Carcinoma",
+    "Brain and Central Nervous System Tumors",
+    "Head and Neck Cancer",
+    "Liver Cancer",
+    "Malignant Mesothelioma",
+    "Pheochromocytoma",
+    "Sarcoma"
+  ],
+  "overall_status": "COMPLETED"
+}

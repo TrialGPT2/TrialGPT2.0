@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT03929913",
+  "title": "NHLBI DIR Transcatheter Mitral Cerclage Annuloplasty Early Feasibility Study",
+  "brief_summary": "This research protocol tests a new technique and devices that we have developed to treat functional mitral valve regurgitation, called transcatheter mitral valve cerclage annuloplasty, otherwise known as \"cerclage\". Functional mitral valve regurgitation is a condition caused by damaged heart muscle involving the left ventricle which results in mitral valve leakage. This leakage causes heart failure (breathlessness and lack of energy especially when walking or exercising, and hospital admissions for fluid buildup).\n\nThis is an early feasibility study (EFS) evaluation of special devices, permanently implanted in the heart, to perform mitral cerclage annuloplasty. Mitral cerclage annuloplasty is a catheter procedure performed under X-ray and ultrasound guidance without surgery. The cerclage devices compress the mitral valve like a purse-string. The cerclage device has a special feature that prevents a coronary artery from getting squeezed as part of this purse-string.\n\nThe protocol has been changed to allow patients who have mitral valve regurgitation despite prior Mitra-Clip treatment, and to allow patients who have symptomatic heart failure with mild mitral regurgitation.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Adults age \\>=21 years\n  2. Symptomatic functional mitral valve regurgitation\n\n     1. Mild or greater mitral valve regurgitation, LVEF \\<= 0.50, and NYHA class III - IV heart failure\n     2. Moderate or greater mitral valve regurgitation and NYHA II - IV heart failure, irrespective of LV systolic function\n  3. On optimal medical therapy for at least one month\n  4. Left ventricular ejection fraction \\>=0.20 assessed by echocardiography, CT, or CMR\n  5. Suitable coronary venous anatomy for Transcatheter Mitral Cerclage Annuloplasty based on pre-procedural cardiac CT or coronary venogram\n  6. Concordance of the Study Eligibility Committee\n  7. If present, a MitraClip was implanted at least 30 days previously\n\nEXCLUSION CRITERIA:\n\n1. Subjects unable to consent to participate\n2. Subjects unwilling to participate or unwilling to return for study follow-up activities.\n3. Prior cardiac implanted electronic devices (CIED) likely to be entrapped by cerclage.\n\n   \\-- Candidates with coronary sinus or left ventricular pacing or defibrillation leads that are not likely to be entrapped by cerclage, evident on baseline CT or angiogram, are eligible to participate.\n4. TAVR within 6 weeks\n5. Intended concurrent structural heart procedure, such as aortic or tricuspid valve intervention\n6. Aortic stenosis more than mild in severity\n7. Single-leaflet MitraClip detachment, if present\n8. Pregnancy or intent to become pregnant prior to completion of all protocol follow-up procedures",
+  "minimum_age": "21 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Functional Mitral Regurgitation"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This early feasibility study enrolls patients with symptomatic functional mitral valve regurgitation who remain symptomatic despite optimal medical therapy. Prior MitraClip is allowed but not required, and there is no explicit requirement for prior lines of advanced disease therapy beyond optimal medical therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Patients must have symptomatic functional mitral valve regurgitation and be on optimal medical therapy for at least one month. Prior MitraClip is allowed but not required, and there is no requirement for prior lines of advanced/metastatic therapy beyond medical therapy. Patients who have only received optimal medical therapy are eligible."
+    }
+  ]
+}

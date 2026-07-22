@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT03077542",
+  "title": "Nonmyeloablative Haploidentical Peripheral Blood Mobilized Hematopoietic Precursor Cell Transplantation for Sickle Cell Disease",
+  "brief_summary": "Background:\n\nPeripheral blood stem cell transplantation procedures are used for people with sickle cell disease. Researchers want to improve the success and reduce the complications for these procedures. This might allow more people to have a transplant.\n\nObjective:\n\nTo see if a new transplant regime is effective, safe and well tolerated in people with sickle cell disease.\n\nEligibility:\n\nAdults at least 18 years old with sickle cell disease and certain complications.\n\nA relative who is a half tissue match.\n\nDesign:\n\nParticipants will be screened with medical history, physical exam, and blood tests. Recipients will also have:\n\n* Heart, lung, and mental health tests\n* Chest x-rays\n* Bone marrow taken from the pelvic bone\n* Eyes and teeth checked\n\nRecipients will have a large central line inserted into a vein for up to 6 months.\n\nDonors will have their veins tested and have an IV inserted for 1 day or on rare occasions 2 days.\n\nDonors will get a drug to activate bone marrow. It will be injected for about 6 days.\n\nDonors will have at least 1 five-hour procedure where bone marrow stem cells will be collected. Blood will be taken from a vein in one arm or in rare cases from a groin vein and put through a machine. Some blood will be saved and the rest will be returned. Stem cells will be taken from the saved blood in a lab and frozen until ready to give to the recipient.\n\nRecipients will have:\n\n* Stems cells collected and frozen\n* Hygiene lessons\n* Bone density scans\n* Low-dose radiation\n* Drugs for their immune system\n* Donor cells infused through their central line\n* Transfusions\n\nAfter about 30 days, recipients will leave the hospital. They must stay near NIH for 3 months after the transplant and have frequent visits. After returning home, they will have 8 visits over 5 years, then be contacted yearly.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA-RECIPIENTS:\n\nPatients with any type of sickle cell disease who are at high risk for disease-related cerebrovascular morbidity or early mortality, defined by having severe end-organ damage (A, B, C, D, or E):\n\nA. A neurologic event resulting in focal neurologic deficits that lasted \\>= 24 hours (classical clinical definition of stroke, not requiring imaging studies of the brain) OR a focal neurological event resulting in abnormalities on T2- weighted or FLAIR images using an MRI scan, indicative of an acute infarct, with no other reasonable medical explanation (definition of a stroke supported with MRI imaging scans of the brain), OR both; OR\n\nB. Tricuspid regurgitant jet velocity (TRV) of \\>= 2.7 m/s at baseline (without vaso- occlusive crisis) and/or pulmonary hypertension; OR\n\nC. Sickle hepatopathy defined as either ferritin \\>1000 mcg/L and platelet count \\< 250,000/uL (without vaso-occlusive crisis) OR direct bilirubin \\> 0.4 mg/dL and platelet count \\<250,000/uL (without vaso- occlusive crisis)\n\nD. Any acute chest syndrome episode resulting in intensive care admission requiring non- mechanical ventilatory support: simple nasal cannula, face mask that requires oxygen content (venti mask, non-rebreather), continuous positive airway pressure (CPAP), Bilevel positive airway pressure (BiPAP), high flow nasal cannula (HFNC) or invasive mechanical ventilatory support (delivered by endotracheal tube or tracheostomy).\n\nE. Silent cerebral infarct defined as an infarct-like lesion based on an MRI signal abnormality at least 3 mm in one dimension and visible in two planes on FLAIR or T2- weighted images (or similar image with 3D imaging) and documented neurological examination performed by a neurologist demonstrating the participant has a normal neurologic or an abnormality on examination that could not be explained by the location of the brain lesion(s).\n\nNon-disease specific:\n\nA. Age greater than or equal to 18 years\n\nB. Haploidentical relative donor available\n\nC. Ability to comprehend and willing to sign an informed consent\n\nD. Negative serum beta-HCG\n\nE. Ejection fraction greater than or equal to 35%\n\nF. Glomerular filtration rate \\>60 mL/min/1.73m\\^2 by cystatin C-based or iothalamate-based or other equivalent GFR testing\n\nG. Adjusted DLCO greater than or equal to 35%\n\nEXCLUSION CRITERIA RECIPIENT: (any of the following would exclude the subject from participating)\n\n1. Available 6/6 HLA-matched sibling donor\n2. ECOG performance status of 3 or more (See Appendix A)\n3. Evidence of uncontrolled bacterial, viral, or fungal infections (currently taking medication and progression of clinical symptoms) within one month prior to starting the conditioning regimen.\n4. Patients with fever or suspected minor infection should await resolution of symptoms before starting the conditioning regimen.\n5. Major anticipated illness or organ failure incompatible with survival from PBSC transplant\n6. Pregnant or breast-feeding\n7. Donor specific anti-HLA antibodies (DSAs) greater than or equal to 2000 Mean Fluorescence Intensity (MFI)\n8. Patients seronegative for EBV who have EBV seropositive donors\n\nINCLUSION CRITERIA-DONOR:\n\nHaploidentical relative donor deemed suitable and eligible, and willing to donate, per clinical evaluations who are additionally willing to donate blood for research. Related donors will be evaluated in accordance with existing Standard NIH Policies and Procedures for determination of eligibility and suitability for clinical donation. Note that participation in this study is offered to all related donors, but is not required for a do le that not all related donors will enroll onto this study.\n\nEXCLUSION CRITERIA-DONOR:\n\nNone",
+  "minimum_age": "2 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sickle Cell Disease"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls adults with high-risk sickle cell disease undergoing nonmyeloablative haploidentical peripheral blood stem cell transplantation. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility criteria do not mention any prior systemic therapy requirements or restrictions for advanced disease; patients may be treatment-naïve. Patients who have only received supportive or adjuvant therapy are eligible."
+    }
+  ]
+}

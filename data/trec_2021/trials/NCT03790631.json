@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT03790631",
+  "title": "The OPTIMAL TDM Study: Determining Optimal Beta-lactam Plasma Concentrations Through Therapeutic Drug Monitoring",
+  "brief_summary": "Little is known of beta-lactam antibiotics' true therapeutic plasma concentration range. The aims of this study are to define evidence-based, safe and effective upper and lower limits of the plasma concentrations of imipenem, meropenem, amoxicillin, flucloxacillin, piperacillin, ceftazidime and cefepime in patients at increased risk of serious bacterial infections and currently understudied pharmacokinetics (the critically ill, the elderly, and the immunosuppressed).\n\nThis prospective observational study will include adult patients with suspected or confirmed systemic bacterial infection receiving one of the above-named antibiotics and hospitalized in intensive-care, step-down, or hematology-oncology units of the Geneva University Hospitals (HUG).\n\nEligible patients will be identified via the electronic health record (EHR). Patients receiving traditional intermittent dosing or prolonged infusions will undergo TDM for at least one intermediate (mid-interval) and one trough level at 24 hours (-12 or +48 hours) after the therapy's start. Patients receiving continuous infusions will undergo TDM for at least one steady-state level. Clinical course will be observed for 30 days from the start of the study antibiotic (1st day of study antibiotic =day 1).\n\nThe primary outcome is incidence of clinical toxicity through day 30 after start of study antibiotic (as stratified by BL trough concentration). Secondary outcomes are listed below.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n\\- Hospitalized patients with suspected or confirmed systemic bacterial infection:\n\n1. Receiving either imipenem-cilastatin, meropenem, amoxicillin (\u00b1clavulanic acid), flucloxacillin, piperacillin-tazobactam, ceftazidime or cefepime\n2. Aged \u226518 years\n3. Requiring intensive or intermediate-intensive (step-down) care OR severely immunosuppressed (see definitions)\n\nExclusion Criteria:\n\n1. Planned imminent transfer to an outside hospital\n2. Poor prognosis with life expectancy \\<1 week and/or intended transition to palliative care",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Included patients will be adults (\u226418 years) hospitalized in the intensive-care, step-down, or hematology-oncology units of the Geneva University Hospitals and treated with one of the above-listed 7 beta-lactam antibiotics for a suspected or confirmed bacterial infections.",
+  "condition": [
+    "Beta-lactam Antibiotics",
+    "Therapeutic Drug Monitoring",
+    "Toxicity",
+    "Efficacy",
+    "Imipenem",
+    "Meropenem",
+    "Piperacillin",
+    "Flucloxacillin",
+    "Amoxicillin",
+    "Ceftazidime",
+    "Cefepime"
+  ],
+  "overall_status": "COMPLETED"
+}

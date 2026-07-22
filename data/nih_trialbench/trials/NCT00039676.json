@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT00039676",
+  "title": "Clinical, Laboratory and Epidemiologic Characterization of Individuals and Families at High Risk of Hematologic Cancer",
+  "brief_summary": "Background:\n\n* Individuals may be prone to develop blood or lymph node cancers (leukemia or lymphoma) for a variety of reasons, including genetic predisposition to these cancers, environmental exposures or other medical conditions.\n* Studies of people and families at high risk of cancer often lead to clues about their cause that may also be important regarding the sporadic occurrence of these cancers in the general population.\n* Identifying genetic or environmental factors that play a role in the development of these diseases may be important in developing prevention trials, screening programs and treatments.\n\nObjectives:\n\n* Describe the cancers and other conditions in families with blood or lymph node cancer.\n* Find and describe genes that may cause blood and lymph node cancer, and understand how they work in families.\n* Use laboratory methods to try to determine if it is possible to identify who is at highest risk of blood or lymph node cancer.\n* Test how genes act with other factors to alter the risk of disease, its severity or its manifestations in families.\n\nEligibility:\n\n* Individuals of any age with a personal or family history of a blood or lymph node cancer.\n* Individuals with a personal or family history of medical conditions or environmental exposures that may predispose to blood or lymph node cancer.\n\nDesign:\n\n* Participants complete questionnaires about their personal and family medical history and provide consent for researchers to review their medical records and pathology materials related to their care and those of deceased relatives with blood or lymph node cancer, tumors, or other related illnesses for whom they are the legally authorized representative.\n* Participants donate a sample of blood or cheek cells, or a lock of hair for genetic studies.\n* Patients may also be evaluated at the NIH Clinical Center by one or more of the following specialists: cancer doctor or blood specialist, medical geneticist, research nurses or clinical social worker. They may have blood and urine tests and a cheek swab or mouth wash to collect cheek cells. Some patients may also be asked to have x-rays and routine imaging, such as CT scans or ultrasound tests, cell surface markers, skin biopsy, and, with special consents, bone marrow biopsy, MRI or PET scans, apheresis or fluorescein angiography and photography.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nOn referral, persons \\>= 11 months will be included only because of personal history, and persons \\>=18 years can also be included because of personal or family history of the parameters listed below:\n\n* A medical history of hematologic/ lymphoproliferative malignancy of an unusual type, pattern, or number or\n* Known or suspected factor(s) predisposing to hematologic malignancy, either genetic and/or congenital factors (birth defects, metabolic phenotype, chromosomal anomalies or Mendelian traits associated with tumors), environmental exposure (medications, occupation, radiation, diet, infectious agents, etc.), or unusual demographic features (very young age of onset, multiple tumors, etc.)\n\nPersonal and family medical history must be verified through questionnaires, interviews, and review of pathology slides and medical records. For familial neoplasms, two or more living affected cases among family members are generally required, although in selected instances exceptions may be made, e.g., for WM, one case plus a living 1st degree relative with an autoimmune condition will qualify a family for further investigations.\n\nDisease-specific considerations. Familial aggregation of any hematologic cancer(s) is eligible for study. Disease-specific procedures are outlined in appendices:\n\n1. Chronic lymphocytic leukemia (CLL)\n2. Waldenstrom macroglobulinemia (WM)\n3. Non-Hodgkin lymphoma (NHL)\n4. Hodgkin lymphoma (HL)\n5. Mixed/miscellaneous hematologic and lymphoproliferative diseases\n\nAbility of subject or Legally Authorized Representative (LAR) to understand, and the willingness to sign, a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n* Referred individuals for whom reported diagnoses cannot be verified;\n* Referred individuals who decline informed consent.",
+  "minimum_age": "11 Months",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "General population with a family history of cancer",
+  "condition": [
+    "Waldenstrom Macroglobulinemia",
+    "Chronic Lymphocytic Leukemia",
+    "Hodgkin Disease",
+    "NonHodgkin Lymphoma",
+    "Mixed Lymphoproliferative Disease"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling individuals and families at high risk for hematologic cancers, regardless of prior treatment history. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility is based on personal or family history of hematologic malignancy or predisposing factors, with no mention of prior systemic therapy for advanced disease. Both treatment-naïve and previously treated patients, including those with only adjuvant or no therapy, are eligible."
+    }
+  ]
+}

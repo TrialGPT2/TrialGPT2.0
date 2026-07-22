@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT05642221",
+  "title": "Functional Near-Infrared Spectroscopy (fNIRS) Combined With Diffuse Correlation Spectroscopy (DCS) in Neurocognitive Disease as Compared to Healthy Neurotypical Controls",
+  "brief_summary": "Background:\n\nNeurocognitive disorders affect how the brain uses oxygen. They may affect mental development in children. These disorders can be studied with imaging scans that use radiation; however, these methods are not ideal for research on children. Two technologies-functional near-infrared spectroscopy (fNIRS) and diffuse correlation spectroscopy (DCS)-use light to detect changes in brain activity. These methods are safer, and they can be used in a more relaxed setting. In this natural history study, researchers want to find out whether fNIRS and DCS can be a good way to study people with neurocognitive disorders.\n\nObjective:\n\nTo find out whether fNIRS and DCS can be useful in measuring brain activity in people with neurocognitive disorders.\n\nEligibility:\n\nPeople aged 6 months or older with neurocognitive disorders. These can include Niemann-Pick disease type C1 (NPC1); creatine transporter deficiency (CTD); Smith Lemli Opitz syndrome (SLOS); juvenile neuronal ceroid lipofuscinosis (CLN3 disease); and Pheland-McDermid (PMS) syndrome. Healthy volunteers are also needed.\n\nDesign:\n\nParticipants will have a physical exam. They will have tests of their memory and thinking.\n\nParticipants will sit in a quiet room for the fNIRS and DCS tests. A snug cap (like a cloth swim cap) will be placed on their head. The cap has lights and sensors. Another sensor will be placed on their forehead. Participants will perform tasks on a computer. This testing will take 45 to 60 minutes.\n\nThe tests will be repeated within 1 to 4 weeks. Participants will be asked to return for repeat tests 1 year later....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* For both study populations (Affected and Typically Developing group):\n\n  * Male or female, aged 6 months and up\n  * English is the primary language spoken at home\n* For study population (Affected group):\n\n  --Neurocognitive-related conditions including SLOS, CLN3, CTD, NPC and PMS.\n* For controls (Typically Developing Group):\n\n  * In good general health as determined by medical history and physical exam\n\nEXCLUSION CRITERIA:\n\n* For both study populations (Affected and Typically Developing group):\n\n  * Any condition that may affect placement of the fNIRS-DCS\n  * Past or present vascular disease\n  * Traumatic loss of consciousness in the last year\n  * Any condition which, in the opinion of the investigator, increases risk of participation or affects adherence to the protocol\n* For controls (Typically Developing Group):\n\n  * Known or suspected cognitive impairment\n  * Known history of MRI abnormality\n  * Current use of psychotropic medications",
+  "minimum_age": "6 Months",
+  "maximum_age": "110 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "individuals 6 months and older without known health or medical issues (i.e. healthy volunteers), and individuals with known neurocognitive disorders (i.e. affected). Healthy volunteers will be age- and sex-matched to the affected cohort",
+  "condition": [
+    "Juvenile Neuronal Ceroid Lipofuscinosis",
+    "Smith-Lemli-Opitz Syndrome",
+    "Creatine Transporter Deficiency",
+    "Niemann-Pick Disease Type C1"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-interventional, natural history study enrolling patients with neurocognitive disorders and healthy controls. There is no cancer diagnosis or systemic therapy for advanced disease involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls individuals with neurocognitive disorders and healthy controls, with no mention of cancer, advanced disease, or systemic therapy. Line-of-therapy intent is not applicable."
+    }
+  ]
+}

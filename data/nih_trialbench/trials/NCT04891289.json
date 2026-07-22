@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04891289",
+  "title": "Gemcitabine and Oxaliplatin Chemotherapy With or Without a Floxuridine and Dexamethasone Pump in People With Cholangiocarcinoma That Cannot Be Removed With Surgery",
+  "brief_summary": "This study will compare the safety and effects of HAI floxuridine and dexamethasone combined with the standard chemotherapy drugs gemcitabine and oxaliplatin (GemOx) with those of GemOx alone in people with untreated cholangiocarcinoma that cannot be removed with surgery. The researchers want to find out whether the study treatment works better than the standard chemotherapy to delay progression of disease. For the study treatment to be considered better than the standard treatment, the study treatment should increase the time until progression of disease by an average of 3 months, compared with the usual approach.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age ≥18 years\n* ECOG 0-1\n* Histologically confirmed intrahepatic cholangiocarcinoma (also variously reported as peripheral cholangiocarcinoma, cholangiolar carcinoma or cholangiocellular carcinoma) (IHC). Confirmation of the diagnosis at MSKCC or at the enrolling institution must be obtained prior to randomization.\n* Clinical or radiographic evidence of metastatic disease confined to the liver. Note: presence of regional (porta hepatis) lymph node metastases will be allowed, provided they are amenable to resection. (Note: If peritoneal or other extrahepatic disease is found at time of pump placement, the pump will not be implanted. The patient will be removed from study, deemed nonevaluable and will not count toward the overall study accrual.)\n* Radiographically measurable disease. Measurable disease is defined as disease that can be assessed with 2-dimensional measurements on a cross-sectional imaging. Minimum lesion size is 2 cm in greatest diameter as per RECIST criteria.\n* Disease must be considered unresectable at the time of preoperative evaluation.\\*\n* Considered candidate for general anesthesia, abdominal exploration and hepatic artery pump placement.\n* Patients with chronic hepatitis and/or cirrhosis are eligible, but must be Child-Pugh class A.\n* WBC ≥ 2,000/mcL , ANC ≥ 1000/mcL\n* Platelet count ≥ 75,000/mcL\n* Creatinine ≤ 1.8 mg/dL\n* Total bilirubin \\< 1.5 mg/dL\n* Hgb \\> 7 g/dL The % involvement of the liver will be determined by radiologists after review of imaging\n\nExclusion Criteria:\n\n* Presence of distant metastatic disease. Patients will undergo radiographic evaluation to exclude the possibility of distant metastatic disease. For patients who have undergone pre- or post-operative biopsies that definitively diagnose IHC, the diagnostic studies may be modified at the discretion of the MSKCC Principal Investigator. Clinical or radiographic evidence of metastatic disease to regional lymph nodes will be allowed, provided it is amenable to resection.\n* Patients previously treated with systemic chemotherapy for IHC will be non-eligible.\n* Prior treatment with FUDR.\n* Prior external beam radiation therapy to the liver.\n* Prior ablative therapy to the liver.\n* Diagnosis of sclerosing cholangitis.\n* Clinical evidence or portal hypertension (ascites, gastroesophageal varices, or portal vein thrombosis; surgically related ascites does not exclude the patient).\n* Active infection within one week prior to HAI placement.\n* Pregnant or lactating women.\n* History of other malignancy within the past 3 years except with early stage/localized cancer that was surgically resected or radiation treatment that would yield the same result as surgery within the past 3 years.\n* Life expectancy \\<12 weeks.\n* Inability to comply with study and/or follow-up procedures.\n* History of peripheral neuropathy. There is no exclusion of patients based on sex, ethnicity or race. For these reasons, the study results are expected to be generalizable to the Medicare beneficiary population.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Intrahepatic Cholangiocarcinoma"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with unresectable intrahepatic cholangiocarcinoma who have not received any prior systemic chemotherapy for advanced disease. Both arms are for first-line treatment of advanced/metastatic disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Patients previously treated with systemic chemotherapy for intrahepatic cholangiocarcinoma are not eligible, indicating no prior systemic therapy for advanced disease is allowed. The trial is for untreated, unresectable disease, so only first-line advanced/metastatic patients are included."
+    }
+  ]
+}

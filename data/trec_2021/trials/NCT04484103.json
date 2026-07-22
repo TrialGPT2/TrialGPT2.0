@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04484103",
+  "title": "RPCRC Validation Study",
+  "brief_summary": "Prostate multiparametric MRI (mpMRI) can detect ISUP \u22652 prostate cancer with high sensitivity. Adding biopsies targeting suspicious lesions seen on mpMRI to the classical 'systematic biopsies' (that sample the gland in a blinded way) improves the detection of ISUP \u22652 cancers. As a result, it is now recommended to perform a prostate mpMRI before biopsy and to combine targeted and systematic biopsy.\n\nHowever, mpMRI suffers from a lack of specificity. In a recent meta-analysis, the pooled sensitivity and specificity of prostate mpMRI for detecting ISUP \u22652 cancers were 0.91 (95% confidence interval, 0.83-0.95) and 0.37 (95% confidence interval, 0.29-0.46) respectively. Thus, accurate triage of patients suitable for biopsy might not be possible using mpMRI findings alone.\n\nThe Rotterdam Prostate Cancer Risk Calculator (RPCRC) combines mpMRI results (Prostate Imaging-Reporting And Database System score) and basic clinical and biochemical data to predict the results of prostate biopsy. If validated, this tool could help selecting patients for prostate biopsy.\n\nIn this study, the investigators propose to retrospectively use the data of the prospective multicentric MRI-FIRST trial (NCT0285379) to perform an external validation of the RPCRC.\n\nIn addition, the PCaRisk study has two secondary objectives:\n\n* To confirm that Prostate Specific Antigen density (i.e. PSA level divided by prostate volume) can stratify the risk of ISUP \u22652 cancer in patients with negative (PI-RADS 1-2) or inconclusive (PI-RADS 3) mpMRI, as suggested by recent literature\n* To perform a preliminary evaluation of a lobe-specific risk calculator developed by our group and combining mpMRI results and clinical and biochemical data to predict the risk of ISUP \u22652 cancer at the lobe level.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient referred for mpMRI and prostate biopsy due to increased PSA level, abnormal DRE or family history of prostate cancer.\n* Age \u226475 years\n* PSA level \u226420 ng/mL\n* Clinical stage \u2264T2c\n\nExclusion Criteria:\n\n* Contraindication for prostate mpMRI or biopsy\n* History of hip prosthesis, androgen deprivation therapy, pelvic radiotherapy or prostate cancer diagnosed after trans-urethral resection of the prostate.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "Patients included in the MRI-FIRST trial, i.e. biopsy-na\u00efve patients referred for suspicion of prostate cancer on the basis of increased PSA level, abnormal DRE or family history of prostate cancer, recruited in 16 different centers in France, and who underwent mpMRI before systematic and targeted biopsy.",
+  "condition": [
+    "Multivariate Risk Assessment for ISUP \u22652 Prostate Cancer"
+  ],
+  "overall_status": "UNKNOWN"
+}

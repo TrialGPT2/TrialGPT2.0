@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04469244",
+  "title": "Evaluation of the Use of Radiomics in 18F-FDOPA PET Examinations for the Characterization of Gliomas",
+  "brief_summary": "The evaluation of gliomas in imaging represents a real challenge today, at the initial diagnosis, for therapeutic planning or follow-up treatment of these lesions. There is an urgent need for non-invasive imaging tools to evaluate a glioma throughout its management. At present, the diagnosis of certainty is only obtained through an anatomo-pathological analysis with sampling during an invasive procedure (surgery or biopsy). Magnetic resonance imaging, through perfusion, diffusion imaging or spectroscopy is developing in gliomas. However, it remains time-consuming and is not always available. At the same time, positron emission tomography (PET) with amino acids is an interesting alternative for these brain tumours. Amino acid PET has the advantage of being more specific than the abnormalities detected in MRI and the amino acid radiotracers cross the blood-brain barrier, even if not broken, unlike Gadolinium in MRI. Among these radiotracers, 18F-FDOPA can, among other things, assist in the non-invasive staging of gliomas at initial diagnosis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient having performed a PET/CT examination at 18F-FDOPA for his glioma in the nuclear medicine department of the CHRU de Brabois for which the raw data are available;\n* Person who received full information on the organization of the research and did not object to the use of these data;\n* Patients affiliated to a social security scheme\n\nExclusion Criteria:\n\n* \\- Person who received full information on the organization of the research and who objected to the use of the data\n* Adult person subject to a legal protection measure (guardianship, curatorship, safeguard of justice).\n* A person of full age who is unable to give consent and who is not subject to a legal protection measure.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "common population that underwent a PET/CT scan at 18F-FDOPA for its glioma",
+  "condition": [
+    "Study on the Use of Radiomics in Gliomas of Initial Disgnosis"
+  ],
+  "overall_status": "COMPLETED"
+}

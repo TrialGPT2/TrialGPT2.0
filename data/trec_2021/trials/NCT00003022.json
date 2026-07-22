@@ -1,0 +1,30 @@
+{
+  "nctid": "NCT00003022",
+  "title": "Monoclonal Antibody Therapy in Treating Patients With Leptomeningeal Cancer",
+  "brief_summary": "RATIONALE: Monoclonal antibodies can locate tumor cells and either kill them or deliver tumor-killing substances to them without harming normal cells.\n\nPURPOSE: Phase I trial to study the effectiveness of monoclonal antibody therapy in treating patients who have leptomeningeal metastases.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed malignancy expressing GD2, including, but not limited to:\n\n  * Medulloblastoma/primitive neuroectodermal tumor of the CNS\n  * Malignant glioma\n  * Neuroblastoma\n  * Retinoblastoma\n  * Ependymoma\n  * Sarcoma\n  * Melanoma\n  * Small cell lung carcinoma\n  * Other tumor types must have GD2 expression confirmed by immunohistochemical staining\n* Cerebrospinal fluid or leptomeningeal disease that is refractory to conventional therapy or for which no conventional therapy exists\n* Prior measurable human anti-mouse monoclonal antibody titer allowed\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 3 and over\n\nPerformance status:\n\n* Not specified\n\nLife expectancy:\n\n* At least 2 months\n\nHematopoietic:\n\n* Absolute neutrophil count greater than 1,000/mm\\^3\n* Platelet count greater than 50,000/mm\\^3\n\nHepatic:\n\n* Bilirubin less than 3 mg/dL\n\nRenal:\n\n* Creatinine less than 2 mg/dL\n* Blood urea nitrogen less than 30 mg/dL\n\nOther:\n\n* May have active malignancy outside the central nervous system\n* No obstructive hydrocephalus\n* No CNS grade 3 or 4 toxicity as a consequence of prior treatments\n* No life threatening infection\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Prior monoclonal antibody treatment allowed\n\nChemotherapy:\n\n* Prior chemotherapy allowed\n* Must have recovered from all hematopoietic and neurologic side effects of prior chemotherapy\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* Prior radiotherapy allowed\n* At least 6 weeks since prior cranial or spinal irradiation\n\nSurgery:\n\n* Not specified",
+  "minimum_age": "3 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Brain and Central Nervous System Tumors",
+    "Intraocular Melanoma",
+    "Lung Cancer",
+    "Melanoma (Skin)",
+    "Neuroblastoma",
+    "Retinoblastoma",
+    "Sarcoma"
+  ],
+  "overall_status": "COMPLETED"
+}

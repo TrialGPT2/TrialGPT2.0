@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04661605",
+  "title": "Visualization Engineering Platform for Pulse Diagnosis of Traditional Chinese Medicine-The Research of Similar Moir\u00e9 Feature Analyzing Approach Based on Recurrent Neural Network to Process the Measured Slip Pulse Wave-Images With Chun, Guan and Chy",
+  "brief_summary": "The diagnoses processes of Traditional Chinese Medicine (TCM) focus on the following four main types of diagnoses methods consisting of inspection, olfaction, inquiry, and palpation. The most important one is palpation also called pulse diagnosis which is to measure wrist artery pulse by TCM doctor's fingers to detect patient's health state. The pulse diagnosis has three parts, namely 'Chun', 'Guan' and 'Chy', with the location. Wrist measurements correspond to different parts of the body's organs. However, the pulse information is analyzed by TCM doctor's pulse diagnoses process, which is picked only a single waveform from a long-term pulse measured process and often discarded the other waveforms contained in the same information, e.g. Slip Pulse waveform. The research object of this project is to divide the TCM diagnosis patients into two groups, one is the Slip pulse group and the other is a Flat Pulse group, in which the cases are collected at least 50 cases for the first gruop and 30 cases for the second group, individually. The purpose of this project will integrate the TCM doctor's experiences and standardize them in order to construct an effective Slip pulse diagnosis system based on visualization engineering platform. It could refine Slip pulse diagnoses processes and reduce their diagnoses loading by using the proposed approach during this project. Therefore, we will propose a similar Moir\u00e9 feature analyzing approach based on Recurrent Neural Network to process the measured Slip Pulse wave-images with 'Chun', 'Guan' and 'Chy' in order to prepare this visualization engineering platform. We will measure the waveform images of the three parts of the wrist as 'Chun', 'Guan' and 'Chy' with the moir\u00e9 feature technology proposed in this project. It mainly extracts the moir\u00e9 features such as pulse image from numerous measurement 'Chun', 'Guan' and 'Chy' signals, and further analyzes and summarizes them with AI technology. We could extract the pulse characteristics of Slip pulse automatically from the many measurement signals and enhance the automatic judging ability of the current pulse instrument to the Slip pulse waveform. Provide important pulse information to the TCM doctors as an important reference for precision clinical diagnoses.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Already sign test consent permit.\n2. More than 20-year-old.\n\nExclusion Criteria:\n\n1\\. There is a wound or inflammation at the wrist skin measurement.",
+  "minimum_age": "20 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Outpatient.",
+  "condition": [
+    "Slippery Pulse"
+  ],
+  "overall_status": "UNKNOWN"
+}

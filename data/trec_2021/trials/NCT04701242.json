@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04701242",
+  "title": "Ezetimibe Utilization Early After Acute Myocardial Infarction, \"EzAMI Trial\"",
+  "brief_summary": "Rationale:\n\nPatients with acute coronary syndromes are at an increased risk for recurrent adverse coronary events, particularly during the early period following their initial presentation. Early (in-hospital) initiation of high-intensity statins reduces the risk of recurrent events and is therefore recommended by the best current practice guidelines.(1,2) However, the delayed onset of action of statin therapy and given the frequent failure of patients to achieve the recommended LDL-C targets using statins alone (as per the current practice guidelines recommendations), might be placing large number of patients at increased risk during such a vulnerable period early after an ACS.(3) More rapid and effective reduction of LDL-C levels using combination therapy from the outset may therefore be beneficial in these patients. This hypothesis has been tested with combining Evolocumab and a statin in the recent EVOPACS study, in which this combination after ACS has shown to be safe and more effective in achieving LDL-C targets at 6 weeks compared to statin monotherapy.(4) However, Evolocumab (a PCSK9i) is an expensive drug which is not affordable by many healthcare systems in low- and middle-income countries. Ezetemibe, on the other hand, is a safe and a cheap drug that can prove to be extremely cost-effective if a meaningful and timely reduction in LDL-C levels can be achieved when combined with a statin early after an ACS.\n\nStudy population Patients presenting with acute myocardial infarction, with baseline LDL-C levels not likely to achieve recommended targets on statin monotherapy. This is assumed to be with LDL-C level \\> 125 mg/dl for those not on lipid lowering therapy; or with LDL-C \\> 100 mg/dl on moderate intensity statin therapy at the time of presentation.\n\nStudy design Prospective randomized controlled single-blinded trial. A sample size of 500 patients, 250 in each arm, was calculated to provide a power of 0.9 and an adjusted type 1 error as 0.05.\n\nPrimary outcomes\n\n* Percentage of patients achieving target LDL-C levels (\\<70 mg/dl) at 6 weeks interval. (Efficacy endpoint)\n* Freedom from alanine transaminase elevation (ALT) more than 3 folds upper reference limit \"URL\" or statin associated muscle symptoms associated with CK elevation more than 4 folds URL. (Safety endpoint) Secondary outcomes\n* Percentage of patients achieving \\> 50% reduction of LDL-C and to levels below 70mg/dl at 6 weeks interval.\n* Percentage of LDL-C reduction at 6 weeks interval.\n* Reduction of high-sensitive C-reactive protein (hs-CRP) from baseline to 6 weeks interval.\n* Correlating statins efficacy to reduce LDL-C and likelihood to cause statins related adverse effects to genetic alleles of ABC \\[ATP Binding Cassette\\] types A1, G5 and G8, and of CYP450 isoenzymes.\n* MACE free survival at 1 year, (CV death; non fatal-MI; hospitalization for ACS, urgent unplanned revascularization and stroke).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age more than 18 years. Both genders are eligible.\n* Acute myocardial infarction (STEMI or NSTEMI) within 48 hours from the onset of symptoms.\n* Baseline LDL-C above 125 mg/dl for those who were not on consistent lipid lowering therapy; or above 100 mg/dl for those who were compliant (\u2265 90 days) on moderate intensity statin therapy.\n\nExclusion Criteria:\n\n* Refusal to participate in the study.\n* Proved intolerance to statins on previous use.\n* Having conditions (or taking medications) that would not allow concomitant safe statins use. \\[such as patients receiving Cyclosporine - Gemfibrozil -Pazopanib - Tipranavir - Itraconazole - Ketoconazole\\]\n* Those who are already compliant on high intensity statins.\n* Those who are already on statins plus non-statin agent (ezetimibe-PCSK9i-BAS).\n* Known familial dyslipidemia or having TG\\>500 mg/dl or LDL-C\\>190 mg/dl which are highly suggestive of familial or secondary causes.\n* Pregnant or contemplating pregnancy in the following 12 months. \\[relevant for females in the child-bearing period\\]",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Myocardial Infarction",
+    "Dyslipidemias"
+  ],
+  "overall_status": "RECRUITING"
+}

@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03626766",
+  "title": "Evaluating the Impact of Patient Photographs for Preventing Wrong-Patient Errors",
+  "brief_summary": "This is a multi-site, 4-arm randomized controlled trial to test the effectiveness of patient photographs displayed in electronic health record (EHR) systems to prevent wrong-patient order errors. The study will be conducted at several academic medical centers that utilize two different EHR systems. Because EHR systems have different functionality for displaying patient photographs, two different study designs will be employed. In Allscripts EHR, a 2-arm randomized trial will be conducted in which providers are randomized to view order verification alerts with versus without patient photographs when placing electronic orders. In Epic EHR, a 2x2 factorial trial will be conducted in which providers are randomized to one of four conditions: 1) no photograph; 2) photograph displayed in the banner only; 3) photograph displayed in a verification alert only; or 4) photograph displayed in the banner and verification alert. The main hypothesis of this study is that displaying patient photographs in the EHR will significantly reduce the frequency of wrong-patient order errors, providing health systems with the evidence needed to adopt this safety practice.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* All patients for whom an order was placed in the study period.\n* All providers with the authority to place electronic orders and who placed electronic orders during the study period.\n\nExclusion Criteria:\n\n* None",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Medical Errors",
+    "Electronic Medical Records"
+  ],
+  "overall_status": "COMPLETED"
+}

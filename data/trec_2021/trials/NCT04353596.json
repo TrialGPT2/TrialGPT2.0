@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04353596",
+  "title": "Stopping ACE-inhibitors in COVID-19",
+  "brief_summary": "ACEI-COVID-19 is a multicenter, randomized trial testing the hypothesis that stopping/replacing chronic treatment with ACE-inhibitors (ACEI) or angiotensin receptor blockers (ARB) improves outcomes in symptomatic SARS-CoV2-infected patients",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Female and male patients competent to make a decision\n* Proven and symptomatic SARS-CoV2 infection \u2264 5 days\n* Patient age \u2265 18 years\n* Provided written informed consent\n* Chronic (\u2265 1 month) ACEI/ARB therapy for treatment of arterial hypertension, diabetes mellitus, heart failure or coronary artery disease\n* Stable hemodynamic conditions allowing to stop or continue treatment with ACEI/ARB (systolic blood pressure \u2264180mmHg)\n\nExclusion Criteria:\n\n* Women capable of bearing children as well as pregnant and breastfeeding women\n* Participant in another interventional trail\n* At screening visit, no oral medication intake possible\n* Advanced heart failure NYHA Stage III-IV\n* Left ventricular ejection fraction \\<30% or NTproBNP \u2265600pg/mL in case of clinical signs of heart failure\n* Acute coronary syndrome \u2264 3 months\n* Severe arterial hypertension (concomitant use of more than 4 different antihypertensive drug classes)\n* Acute respiratory distress syndrome with need for mechanical ventilation\n* Patients who at not capable of home blood pressure monitoring\n* Patients who cannot be switched to an alternative medication",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "SARS-CoV-2",
+    "COVID-19"
+  ],
+  "overall_status": "COMPLETED"
+}

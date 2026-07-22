@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03508232",
+  "title": "Doxycycline to Protect Heart Muscle After Heart Attacks",
+  "brief_summary": "Current medical treatment allows more people to survive heart attacks than in the past. However, some of the survivors suffer heart disease and require hospitalization later on. The causes behind this heart disease (heart failure) after a heart attack are poorly understood.\n\nMatrix metalloproteinase 2 (MMP-2) is a protein that cuts other proteins into pieces, and is activated in heart muscle when there is a heart attack. MMP-2 causes heart injury when the blood flow to the heart is restored after the attack. Blocking MMP-2 activity is a potential therapy to prevent heart injury under these circumstances. The only MMP-2 inhibiting drug currently approved for clinical use is doxycycline, specifically used to treat periodontitis (gum inflammation) and rosacea (a skin condition). At higher doses doxycycline also acts as an antibiotic for which it has been clinically used for decades.\n\nA previous clinical study found that taking doxycycline twice a day, for one week after a heart attack improved the health of the patients' hearts. The investigators have conducted a similar study in patients that had surgery to replace blocked coronary arteries (blood vessels that feed the heart muscle). These patients took a low dose of doxycycline once a day for 2 days before surgery, on the day of the surgery, and three days after surgery. The participants in this study showed no adverse effects of using doxycycline.\n\nThe goal of this study is to see if doxycycline protects the hearts of patients that suffered a heart attack. All patients will receive standard clinical care for their condition, but in addition will take a doxycycline capsule twice a day, or a placebo capsule for 7 days, as soon as possible after being diagnosed with a heart attack. Three months later, the investigators will evaluate the patients by looking at their heart structure using magnetic resonance imaging (MRI). MRI is a powerful tool that allows doctors to see inside the body without surgery or X-ray radiation. The hearts of those patients that received doxycycline are expected to be healthier than those who received placebo.\n\nThe investigators plan to promote the use of doxycycline to protect the hearts of patients with heart attacks. If successful, doxycycline could help improve the quality of life of heart attack survivors.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n1. 18+ year old\n2. Diagnosis of acute ST-elevation myocardial infarction (STEMI)\n3. Primary STEMI\n4. Symptom onset of less than 12 hours\n5. Admitted to the Royal Alexandra Hospital in Edmonton, Alberta\n\nExclusion Criteria:\n\n1. Low risk inferior STEMI (total ST elevation plus depression \\<4mm)\n2. Cardiogenic shock\n3. Use of thrombolytics\n4. Prior history of myocardial infarction or heart failure\n5. Known hypersensitivity to tetracyclines\n6. Any concurrent medical condition expected to reduce life expectancy to \\<1 year\n7. Symptom onset to treatment (loading dose) time longer than 24 hours\n8. Poor renal function (eGFR\\<30 mL/min/1.73m2) or other contraindications to MRI (claustrophobia, pregnancy, PPM/ICD, sub-arachnoid clips, retained ocular foreign body)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "ST Segment Elevation Myocardial Infarction",
+    "Heart Failure"
+  ],
+  "overall_status": "RECRUITING"
+}

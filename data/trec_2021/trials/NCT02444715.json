@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT02444715",
+  "title": "Computer-Aided Prevention System",
+  "brief_summary": "Stroke is one of the most frequent and life-threatening diseases in Europe. About four stroke events occur per day in Luxembourg alone, and about 30% of these patients are affected by recurrent stroke within the following five years. Thus, new methods of primary and secondary prevention are needed to better control lifestyle-related risk factors.\n\nThe development and maintenance of a healthy lifestyle (smoking cessation, healthy nutrition, moderate physical exercises etc.) is a major objective concerning the primary and secondary prevention of cerebro- and cardiovascular diseases. CAPSYS is a computer-based lifestyle coaching system developed by researchers from the Public Research Centre (CRP) Henri Tudor in Luxembourg in collaboration with neurologists from the Centre Hospitalier de Luxembourg (CHL), which aims at supporting patients in performing appropriate behavior changes in order to minimize their individual risk factors. Patients can access CAPSYS by dialing a local-rate telephone number and answer to a set of previously known questions concerning their current nutrition, physical activity, blood pressure, smoking etc. In an interactive voice response approach, questions are issued by the system in natural language using text-to-speech, and the patient can provide the required values using the phone keypad. Based on the gathered values for each patient, the system automatically generates personalized verbal feedback at runtime and presents it to the patient during the phone dialog. Depending on the individual development of the patient's risk factors, the system feedback can contain advice for improvement, praise for healthy behavior and motivation to pursue a certain goal.\n\nThe user acceptance and effectiveness of the CAPSYS system is evaluated in a six-month randomized controlled study with participants recruited at CHL's neurology department.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* At high risk of stroke:\n\n  * Already suffered a stroke or Transient Ischemic Attack (TIA) or\n  * At least two risk factors for stroke:\n\n    * High blood pressure\n    * Overweight\n    * Low physical activity\n    * Smoking\n    * Unhealthy diet\n\nExclusion Criteria:\n\n* Inability to fill out or to understand the informed consent\n* No signed informed consent\n* Dementia",
+  "minimum_age": "20 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cerebrovascular Diseases",
+    "Stroke",
+    "Cardiovascular Diseases",
+    "CVD Risk Factors"
+  ],
+  "overall_status": "COMPLETED"
+}

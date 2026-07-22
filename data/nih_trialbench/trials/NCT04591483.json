@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT04591483",
+  "title": "Stargardt-like Macular Dystrophy (STDG3) Secondary to Mutations in ELOVL4",
+  "brief_summary": "Background:\n\nSTDG3 is an inherited eye disease. Currently there is no treatment for STDG3. Past studies of STDG3 have largely looked at members of large families at a single time point. Researchers want to learn more about the disease at an individual level.\n\nObjective:\n\nTo understand the natural history of changes in the retina that occur in people with STDG3.\n\nEligibility:\n\nPeople ages 10 and older with STDG3 due to a variant in the ELOVL4 gene.\n\nDesign:\n\nParticipants will have 6 visits. First they will have a screening visit, followed by a baseline visit. Then they will have a visit 6 months later. Then they will have a visit 1, 2, and 3 years after the first visit. Visits will last 4 to 8 hours.\n\nVisits will include the following:\n\nMedical history and physical exam.\n\nComplete eye exam. Participants' eye pressure and ability to see letters on a vision chart will be tested. Their pupils will be dilated with eye drops. Pictures will be taken of the retina and the inside of the eye.\n\nQuestions about participants' family history, especially the presence of eye disease.\n\nVisual field test. Participants will be seated in front of a large dome and asked to press a button when they see a light within the dome.\n\nElectroretinogram. Participants will sit in the dark with their eyes patched for 30 minutes. Then they will wear special contact lenses and watch flashing lights.\n\nOptical coherence tomography. Cross-sectional pictures will be taken of participants' retinas.\n\nFundus autofluorescence. Blue light will be shone into participants eyes to assess the health of the retina....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible, the following inclusion criteria must be met, where applicable.\n\n1. Stated willingness to comply with all study procedures and availability for the duration of the study.\n2. Participant must be at least ten years of age.\n3. Ability to perform required functional testing and ophthalmic imaging.\n4. A mutation in ELOVL4 with a typical clinical presentation of Stargardt-like macular dystrophy.\n5. Participant (or legal guardian) must understand and sign the protocol s informed consent document.\n\nEXCLUSION CRITERIA:\n\nA participant is not eligible if any of the following exclusion criteria are present.\n\n1. Two or more definitive mutations in ABCA4 and/or one mutation in RDS/peripherin or PROM1.\n2. Systemic medical contraindications that are rarely associated with ELOVL4 (e.g., Spinocerebellar Ataxia-34).",
+  "minimum_age": "10 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "25 patients with Stargardt-like macular dystrophy 3 who are \\>= 10 years of age.",
+  "condition": [
+    "Stargardt-Like Macular Dystrophy"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study of Stargardt-like macular dystrophy (STDG3) due to ELOVL4 mutations. There is no mention of systemic therapy or lines of therapy for advanced disease, as this is an observational study.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference any prior systemic therapy or lines of therapy for advanced disease. This is a non-interventional, observational study of patients with STDG3, and line-of-therapy intent is not applicable."
+    }
+  ]
+}

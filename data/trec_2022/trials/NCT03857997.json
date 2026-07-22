@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03857997",
+  "title": "Contribution of High Throughput RNA Sequencing Combined With Sequencing of Whole Genomes in the Diagnosis of Intellectual Disability",
+  "brief_summary": "Intellectual disability (ID) is a clinically and genetically heterogeneous condition that often results in a diagnostic odyssey.\n\nThe deployment of high throughput sequencing (HTS) and in particular exome sequencing (WES) has made it possible to identify many genes responsible for ID. However, the WES does not identify the cause of ID in about two-thirds of patients, due to, for example, the uneven depth and coverage of all exons, or the location of variants in non-exonic areas. It has thus been shown that genome sequencing (WGS), which is still rarely used because it is more complex and costly, would be more efficient, with an expected diagnostic rate of around 60%.\n\nIn response to the massive contribution of HTS in the diagnosis of patients suffering from rare diseases, France has launched the France Plan M\u00e9decine Genomique 2025 (PFMG2025) to deploy HTS platforms, which will be able to carry out WGS, WES and RNA sequencing (RNA-seq), and pilot studies to define the modalities for prescribing these examinations. Two cost-effectiveness evaluations of these technologies, in comparison with the current strategy for diagnosis of ID, are currently underway or planned in the short term in France: 1) PRME DISSEQ, comparing the large DI459 panel versus WES, 2) the DEFIDIAG pilot study of the PFMG2025 comparing WGS, in trio versus solo, versus current strategy. However, there are no studies examining the place of the RNA-seq in the ID diagnostic decision tree.\n\nHowever, some pathogenic variations are likely to have an effect on transcription. WES/WGS can detect them but are not able to affirm their pathogenicity because it focuses on genomic DNA. Only the RNA-seq makes it possible to study the transcription of candidate genes on a large scale, providing an additional level of evidence on both known genes in human pathology (OMIM) and candidate genes.\n\nThe RNA-seq would increase the diagnostic rate from 10% to 35% in addition to the WGS in negative patients with first-line approaches (including WES) and thus optimize management by reducing diagnostic delays as part of a personalized care pathway.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* individuals with intellectual disabilities without an obvious clinical diagnosis,\n* idividuals with normal array CGH and previous negative genetic explorations (WES-solo or WES-trio),\n* individuals whose sampling is possible in the index case and the 2 biological parents in order to carry out a trio sequencing,\n* individuals having given their written consent (consent of the legal representative(s) if the patient is a minor or incapacitated),\n* individuals whose biological parents have given their consent to be sampled,\n* individuals affiliated to or beneficiaries of the national health insurance system.\n\nExclusion Criteria:\n\n* pregnant or breastfeeding woman,\n* individuals for whom there is a diagnostic hypothesis considered highly probable and for which a molecular test routinely available has a lower cost than the genome,\n* individual whose parents refuse to participate in the study",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "patient in consultation for intellectual disability",
+  "condition": [
+    "Patients With Intellectual Disabilities Without an Obvious Clinical Diagnosis",
+    "Patients With Normal Array CGH and Previous Negative Genetic Investigations (WES-solo or WES-trio)"
+  ],
+  "overall_status": "COMPLETED"
+}

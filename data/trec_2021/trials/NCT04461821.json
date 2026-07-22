@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04461821",
+  "title": "Exhaled Breath Analysis by Secondary Electrospray Ionization - Mass Spectrometry in Children and Adolescents",
+  "brief_summary": "This study is to investigate breath analysis (breath metabolomics) combined with established bioinformatic tools as a platform for companion diagnostics.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 0 \u2264 22 years at study entry and signed informed consent\n\nAdditional inclusion criteria for respiratory disease population:\n\n* Acute disease: - Acute signs for a respiratory disease, indicated by e.g. increased work of breathing (e.g. dyspnea, increased respiratory rate), cough or wheezing.\n* Chronic disease: - Suspected or confirmed chronic airway disease (e.g. asthma).\n\nAdditional inclusion criteria for neurological disease population:\n\n* Acute disease: - Acute presentation or report within 24 hours of any signs of neurological deficit (motor function, sensoneural, or verbal).\n* Chronic disease: - Confirmed chronic neurologic disease (e.g. childhood epilepsy).\n\nAdditional inclusion criteria for T1D disease population:\n\n* Acute disease: - Hyperglycemia and/or pH (venous) \\<7.3, bicarbonate \\>10 mmol/L, increased levels of acetone in blood or urine in the context of newly diagnosed or known T1D.\n* Chronic disease: - Confirmed diagnosis of T1D\n\nExclusion Criteria:\n\n* Physical or intellectual impairment precluding protocol adherence.\n\nAdditional exclusion criteria for respiratory disease population:\n\n* Known malignancy, active smoker (passive smoke exposure is not an exclusion criterium), known inflammatory diseases (e.g. autoimmune disease) that require medical and/or pharmacological treatment and is associated with an inflammatory response, relevant congenital defects\n\nAdditional exclusion criteria for neurological disease population:\n\n* Known malignancy, active smoker (passive smoke exposure is not an exclusion criterium), known inflammatory diseases (e.g. autoimmune disease) that require medical and/or pharmacological treatment and is associated with an inflammatory response, relevant congenital defects.\n\nAdditional exclusion criteria for T1D population:\n\n* Known malignancy, active smoker (passive smoke exposure is not an exclusion criterium), relevant congenital defects.",
+  "minimum_age": "",
+  "maximum_age": "22 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants presenting with an acute disease in the emergency department at the University of Basel Children's Hospital (UKBB).\n\nParticipants with chronic diseases recorded at the University of Basel Children's Hospital (UKBB).",
+  "condition": [
+    "Respiratory Diseases",
+    "Neurological Disorders",
+    "Type 1 Diabetes"
+  ],
+  "overall_status": "RECRUITING"
+}

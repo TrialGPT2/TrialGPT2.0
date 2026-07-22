@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02924623",
+  "title": "Discrepancies Between Patients and Physicians in Their Perceptions of Rheumatoid Arthritis Disease Activity",
+  "brief_summary": "Patients and physicians often differ in their perceptions of rheumatoid arthritis (RA) disease activity, as quantified by the patient's global assessment (PGA) and by the evaluator's global assessment (EGA).\n\nThe objectives of this study were:\n\n1. to explore the extent and reasons for the discordance between patients and physicians in their perception of RA disease activity\n2. to determine if this discordance at baseline is associated with RA outcomes at 1 year (remission, function and structure) in early arthritis (EA) in daily clinical practice.\n\n   * Patients: from the French cohort of early arthritis (EA) ESPOIR\u00b3 (at least 2 swollen joints for less than 6 months, DMARD na\u00efve), fulfilling the ACR-EULAR criteria for RA at baseline\n\nAnalysis: At baseline, agreement between PGA and EGA (Bland-Altman plot) was assessed. Multivariate linear regression was used to determine the patient and EA features independently associated with discordance (calculated as PGA - EGA). Logistic regression was used to analyze discordance as\u2502PGA - EGA\u2502\u226520.\n\nMultivariate logistic models were used to determine if discordance at baseline is associated with remissions (Boolean, SDAI and DAS28), functional stability (HAQ\u22640.5 and deltaHAQ\u22640.25) and absence of radiographic progression (delta Sharp score\\<1) after 1 year of follow-up.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* fulfilling the ACR-EULAR criteria for RA\n\nExclusion Criteria:\n\n* no RA",
+  "minimum_age": "18 Years",
+  "maximum_age": "110 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "from the south of France (N\u00eemes, Montpellier, Toulouse, Bordeaux, Limoge), fulfilling the ACR-EULAR criteria for RA",
+  "condition": [
+    "Rheumatoid Arthritis"
+  ],
+  "overall_status": "COMPLETED"
+}

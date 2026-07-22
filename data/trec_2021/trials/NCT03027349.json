@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03027349",
+  "title": "Serum Calcium to Phosphorous Ratio (Ca/P) as a Simple, Inexpensive Screening Tool in the Diagnosis of Primary Hyperparathyroidism",
+  "brief_summary": "Background:\n\nPrimary hyperparathyroidism (PHPT) is often overlooked and underdiagnosed. At present the diagnosis of PHPT remains challenging and is based on serum calcium (Ca) and PTH.\n\nAs serum Ca and phosphorous (P) are inversely related in PHPT, the Ca/P ratio might be considered a good candidate tool in the diagnosis of PHPT.\n\nAIM: The aim of this study is to investigate the diagnostic value of the Ca/P ratio in the diagnosis of PHPT.\n\nStudy design: Retrospective, observational, cross-sectional, case-control clinical trial will be carried out.\n\nBiochemical measurements will include PTH, Vitamin D, serum Ca, P, albumin, and creatinine.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* elevated parathormone serum levels\n* normal or elevated calcium serum levels\n\nExclusion Criteria:\n\n* age younger than 18 years\n* renal and liver failure and insufficiency\n* active metabolic bone disease (such as Paget's disease of the bone, osteomalacia, rickets, etc)\n* any type of cancer\n* malnutrition, severe obesity (BMI \\> 40 kg/m2) and malabsorption\n* transplantation\n* sarcoidosis\n* endocrinological disorders such as hypercortisolism, diabetes insipidus, hyperthyroidism, pseudohypoparathyroidism\n* familial hypocalciuric hypercalcemia\n* hypophosphoremia sustained by genetic causes or secondary to other causes.",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with diagnosis of primary hyperparathyroidism",
+  "condition": [
+    "Hyperparathyroidism"
+  ],
+  "overall_status": "COMPLETED"
+}

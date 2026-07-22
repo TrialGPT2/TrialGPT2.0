@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT04050215",
+  "title": "68GA-PSMA-11 PET/CT Scan in Impacting Treatment Strategies for Patients With Prostate Cancer",
+  "brief_summary": "This phase II trial studies the impact of 68GA-PSMA-11 positron emission tomography (PET)/computed tomography (CT) scan on treatment strategies for patients with prostate cancer. Diagnostic imaging procedures, such as 68GA-PSMA-11 PET/CT scan, may help doctors plan the best treatment for prostate cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients who fulfill criteria for initial staging or restaging as outlined below:\n\n  * Initial treatment strategy decisions (initial staging): All patients with histologically proven prostate cancer or strong suspicion of prostate adenocarcinoma based on very high prostate-specific antigen (PSA) levels (\\> 50 ng/mL) who require an initial treatment/management decision who may be candidate for any of the following strategies:\n\n    * Surgery\n    * External radiation therapy (RT)\n    * Other focal therapies\n    * Systemic medical treatment\n    * Watchful waiting\n  * Assessment for subsequent treatment strategy (restaging), any of the following:\n\n    * Patients with biochemical recurrence who are potential candidates for any salvage treatment. Biochemical recurrence is defined by rising PSA after definitive therapy with prostatectomy or radiation therapy, as any of the following:\n\n      * Post radical prostatectomy (RP): PSA equals to or greater than 0.2 ng/mL measured more than 6 weeks after RP\n      * Post-radiation therapy: Nadir + greater than or equal to 2 ng/mL rise in PSA\n    * Patients with known prostate cancer who undergo restaging because of new symptoms\n    * Patients with known metastatic prostate cancer who undergo restaging because of rising PSA with negative or inconclusive conventional imaging\n    * Patients with known prostate cancer who are treated medically or with radioligand therapy (RLT) in whom response to treatment is assessed\n    * Note: Patients may be reenrolled in the study, if 68Ga-PSMA PET/CT is performed for subsequent management decision\n* Capability to provide written informed consent\n* Able to remain still for duration of each imaging procedure (about 30 minutes)\n\nExclusion Criteria:\n\n* Inability to complete the needed investigational and standard-of-care imaging examinations due to other reasons (severe claustrophobia, radiation phobia, etc.)\n* Any additional medical condition, serious concurrent illness, or other extenuating circumstance that, in the opinion of the Investigator, may significantly interfere with study compliance\n* Inability to provide written informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Biochemically Recurrent Prostate Carcinoma",
+    "Metastatic Prostate Carcinoma",
+    "Prostate Adenocarcinoma",
+    "Prostate Carcinoma",
+    "PSA Level Greater Than Fifty",
+    "PSA Progression",
+    "Stage IV Prostate Cancer AJCC v8",
+    "Stage IVA Prostate Cancer AJCC v8",
+    "Stage IVB Prostate Cancer AJCC v8"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03857880",
+  "title": "Identification of New Candidate Genes in Patients With Mitochondrial Disease by High Resolution Chromosome Analysis on DNA Chip",
+  "brief_summary": "Mitochondrial diseases are complex diseases with great clinical and genetic heterogeneity and their diagnosis is difficult.\n\nThe Medical Genetics Department includes among its activities the diagnosis of these diseases. It has been a reference centre for mitochondrial diseases at the national level since 2006 and was recently approved under the call for projects \"European Reference Network (ERN) for rare diseases\", EURO-NMD, supported by the Nice University Hospital. The routine diagnostic strategy is based on high throughput mitochondrial DNA (mtDNA) sequencing analysis and a panel of 281 targeted \"mitochondriopathies\" genes. When these analyses are negative, an exome analysis (high throughput sequencing of all exons in the genome) can be performed in a research setting. To date, about 40% of the patients analysed remain without genetic diagnosis. Indeed, it does not allow to identify large variations of deletion, duplication or CNV (copy number variation) type. Moreover, targeting only exons, exome sequencing does not allow the detection of intronic or localized mutations in regulatory regions.\n\nThe identification of CNVs is made possible by chromosomal analysis on a DNA chip (CADC). This recognized technique is used routinely in the laboratory. The investigators use chips with a minimum resolution of approximately 13Kb for the genome-wide study of CNVs in patients with developmental disorders. However, this resolution is insufficient to detect rework events of the order of magnitude of an exon. There are high-resolution DNA chips, compatible with our platform, that would allow the investigators to more accurately visualize smaller rearrangements that could not be identified by exome analysis. The combined exome/CADC strategy has already proven its effectiveness in diagnosing various diseases by increasing yield.\n\nIn this context, the investigators aim to use this strategy in this non-interventional study on a series of 15 patients with mitochondrial disease who remain undiagnosed after analysis of mtDNA, gene panel and exome. They will test 2 types of patients:\n\n* In the first series, whose disease is supposed to be transmitted in an autosomal recessive mode, only one heterozygous variant was identified in a gene already described in a comparable clinical picture. It is therefore possible that these patients are carriers on the second allele of a CNV, which the exome sequencing could not identify.\n* In the second series, the exome analysis did not allow the identification of a single responsible gene (several candidate genes without any certainty on the pathogenicity of the gene(s) or variant(s))",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with mitochondrial disease (clinical and histological criteria)\n* Or Patients for whom an exome analysis has been performed, who are carriers of a pathogenic or probably pathogenic variant, in a heterozygous state, in an autosomal recessive transmission gene strongly candidate in view of the patient's clinic.\n* Or patients for whom exome analysis did not reveal any pathogenic variant explaining the phenotype\n\nExclusion Criteria:\n\n* People hospitalized without consent;\n* Phenotype not suggestive of mitochondrial disease",
+  "minimum_age": "1 Year",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patient with mitochondrial deseases",
+  "condition": [
+    "Mitochondrial Diseases"
+  ],
+  "overall_status": "COMPLETED"
+}

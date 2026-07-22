@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04579445",
+  "title": "Setting a Benchmark for Resource Utilization and Quality of Care in Patients Undergoing TAVI in Europe",
+  "brief_summary": "Non-interventional, multi-center, international registry in patients with severe aortic stenosis (sAS) undergoing transcatheter aortic valve implantation (TAVI). The BENCHMARK Registry aims to implement standardized, reproducible and scalable quality improvement measures, which will help to reduce resource requirements, intensive care unit bed occupancy and overall length of hospitalization with uncompromised patient safety.\n\nThe registry will consist of the following phases:\n\n* Retrospective phase (purpose: capture the status quo of each site prior to any Quality of Care improvement measures): The TAVI of patients being eligible for retrospective documentation must have been performed prior to the site's enrollment into the BENCHMARK prospective phase (follow-up: 30 days, 12 months).\n* Education phase: Each center will undergo an online BENCHMARK education. The contents of the education will be: Reflection on treatment pathways with the TAVI team, education on 8 defined Quality of Care improvement measures, followed by a center self-assessment (to self-assess the current alignment of hospital performance with the BENCHMARK Quality od Care measures).\n* Implementation phase: After having self-assessed the current alignment of hospital performance with the following BENCHMARK Quality of care measures, each center will start to introduce the tailored Quality of Care improvement measures to their hospital routine within a time frame of 2 months.\n* Prospective phase (purpose: to document the effects of defined quality of care improvement measure and to make sure patient safety is as least as good as in the retrospective phase. (8 months of recruitment, Follow-up: 30 days, 12 months)",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nRetrospective phase:\n\n* Consecutive, severe symptomatic aortic stenosis patients who underwent transcatheter aortic valve implantation with a balloon-expandable transcatheter aortic valve prior to the center education on BENCHMARK QoC (Quality of Care) improvement measure (prior to the first education call)).\n* Patient is or was scheduled to undergo a 30 Day and 12 Months follow-up (30 Day and 12 Months follow-up: hospital visit or phone call)\n* All patients irrespective of valve type or access route will be documented in an electronic Case Report Form (eCRF) based patient logbook.\n\nProspective phase:\n\n* Consecutive patients with a diagnosis of severe symptomatic aortic stenosis admitted for TAVI with a balloon-expandable transcatheter heart valve after center education on BENCHMARK Quality of Care measures and after the center has passed the implementation phase.\n* All patients irrespective of valve type or access route will be documented in an eCRF based patient logbook.\n\nExclusion Criteria:\n\nRetrospective phase:\n\n* Patients with largely incomplete data with respect to the aims of the project.\n* Patients without signed informed consent / data protection statement (according to requirements of local ethical committee).\n* Pregnant women at the time of the TAVI.\n\nProspective phase:\n\n* Patients without signed informed consent prior to the TAVI procedure (data protection statement included; ideally covered by hospital routine to enable consecutiveness).\n* Pregnant women at the time of the TAVI.",
+  "minimum_age": "18 Years",
+  "maximum_age": "115 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Prospective phase:\n\n50 severe Aortic stenosis patients undergoing transcatheter aortic valve implantation will be recruited within the prospective part per center.\n\nRetrospective phase:\n\nRetrospective documentation of 30 severe aortic stenosis pateints per center, who underwent a transcatheter aortic valve implantation will be performed.",
+  "condition": [
+    "Transcatheter Aortic Valve Implantation (TAVI)"
+  ],
+  "overall_status": "COMPLETED"
+}

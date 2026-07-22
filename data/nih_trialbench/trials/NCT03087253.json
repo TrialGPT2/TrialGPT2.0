@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT03087253",
+  "title": "The LD Lync Study - Natural History Study of Lipodystrophy Syndromes",
+  "brief_summary": "Genetic lipodystrophy syndromes are extremely rare, orphan diseases with overall estimated prevalence of less than 2,000 in the United States. These rare disorders characterized by selective loss of adipose tissue and predisposition to insulin resistance and its metabolic complications diabetes, dyslipidemia and hepatic steatosis. Due to these metabolic problems, atherosclerotic vascular disease, recurrent episodes of acute pancreatitis, cirrhosis and other morbidities complicate the lives of these patients.\n\nIn the last few years, several genes for CGL (AGPAT2, BSCL2, CAV1 and PTRF); FPL (LMNA, PPARG, AKT2, CIDEC, LIPE, PLIN1, PCYT1A and ADRA2A); MAD (LMNA and ZMPSTE24); APS (LMNA); autoinflammatory (PSMB8); NPS (FBN1, CAV1); SHORT syndrome (PIK3R1); and MDP syndrome (POLD1) have been identified. However, there is paucity of information about the natural history of these rare syndromes, especially genotype-specific causes of morbidity and mortality.\n\nTo overcome the problems outlined above, this multicenter, collaborative, prospective, observational natural history cohort study will be conducted on approximately 500 patients with genetic or acquired lipodystrophy syndromes. Patients will be assessed on a yearly basis for approximately 5 to 7 years to collect robust clinical, metabolic, morbidity and mortality data. Medical history and patient questionnaires will be completed on a yearly basis by patients registered in the study. Clinical data such as vitals, laboratory results and anthropometric measurements will also be collected from patients' medical records if available.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of genetic lipodystrophy Supportive data: 1) Presence of biallelic known disease-causing variants in the genes for autosomal recessive lipodystrophy syndromes; 2) Presence of a known (or de novo loss of function) disease-causing variant in the genes for autosomal dominant lipodystrophy syndromes.\n\nExclusion Criteria:\n\n* HIV-infected patients with lipodystrophy\n* Drug-induced lipodystrophy",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with a clinical diagnosis of genetic lipodystrophy",
+  "condition": [
+    "Lipodystrophy (Genetic or Acquired, Non HIV)"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a prospective, observational natural history study of patients with genetic or acquired lipodystrophy syndromes. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention any requirements or exclusions based on prior systemic therapy for advanced disease. The study is focused on the natural history of lipodystrophy syndromes, not on cancer or systemic therapy lines."
+    }
+  ]
+}

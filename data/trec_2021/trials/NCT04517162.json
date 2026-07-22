@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT04517162",
+  "title": "Intramuscular Effect of Polymerized Type I Collagen on the Cytokine Storm in COVID-19 Patients",
+  "brief_summary": "SARS-CoV-2 infection induces a hyperinflammatory syndrome, causing the acute respiratory distress syndrome, massive lung cell destruction and, as a plausible sequelae, pulmonary fibrosis in COVID-19 patients.\n\nCurrent focus has been on the development of novel immunosuppressant therapies, in order to control the cytokine storm in COVID-19 patients. Thus, the effect of steroids, intravenous immunoglobulin, non-steroidal immunosuppressants, selective cytokine blockade, JAK/STAT pathway inbhibition, and mesenchymal precursor cells have been evaluated. Based on the above information, we propose COLLAGEN-POLYVINYLPYRROLIDONE (Distinctive name: FibroquelMR, active substance: Collagen-polyvinylpyrrolidone, pharmaceutical form: intramuscular injectable solution, with sanitary registration No. 201M95 SSA IV and SSA code: 010 000 3999) as a potential drug for the downregulation of the cytokine storm. Polymerized type I collagen reduces the expression of IL-1\u03b2, IL-8, TNF-alpha, TGF-\u03b21, IL-17, Cox-1, leukocyte adhesion molecules (ELAM-1, VCAM- 1 and ICAM-1), some other mediators of inflammation and increases the levels of IL-10 and the number of regulatory T cells. In addition, it promotes the mechanisms of inhibition of tissue fibrosis, without adverse effects in rheumatoid arthritis and osteoarthritis.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* According to the sample size calculation (Cohen's d calculation, using a 50% decrease in IP-10 as the expected effect size), 90 COVID-19 patients will be recruited (symptoms: cough, expectoration, odynophagia, dyspnea with or without fever; radiographic findings by imaging study: inflammatory infiltrates), of both sexes, older than 18 years.\n* Participants will be enrolled, even when they do not have a laboratory-confirmed SARS-CoV-2 infection as determined by a positive reverse transcription, polymerase-chain-reaction (RT-PCR) assay result. Patients will be included if they have progressive disease consistent with ongoing SARS-CoV -2 infection.\n* Patients with laboratory predictors of mild to severe disease (D-dimer\\> 1000 ng/ml; total lymphocytes \\<800 cells/\u00b5l, creatine phosphokinase\\> 2 times upper limit of the normal range; elevated troponins and ferritin\\> 300 \u00b5g/L) will be included.\n* Only those patients who are negative to the intradermal reaction of polymerized type I collagen (subcutaneous application of 0.2 ml of the drug on the forearm, evaluation at 24-48h) will be included.\n* Patients with mild to severe disease, peripheral oxygen saturation (SpO2) \\<92% on room air, or requiring supplemental oxygen, or mechanical ventilation will be recruited. There will be no limit to the duration of symptoms prior to enrollment.\n* Only those patients who are not participating in another protocol and who are not receiving biological therapy and whose standardized therapy is suggested will be included (AmoxiClav or ceftriaxone, or azithromycin, clarithromycin or doxycycline, ivermectin, low molecular weight anticoagulants, paracetamol).\n* All patients who agree to participate in the protocol and from whom written informed consent is obtained will be included.\n\nExclusion Criteria:\n\n* All patients positive for intradermal reaction to polymerized type I collagen (allergy to study producto) will be excluded.\n* All pregnant or breast-feeding patients, patients with chronic kidney disease as determined by calculating an estimated glomerular filtration rate (eGFR), or need for hemodialysis or hemofiltration, patients with cerebrovascular disease, autoimmune disease, cancer, multiorgan failure or immunodeficiencies (HIV, transplant patients, hematological diseases, patients with chemotherapy) will be excluded.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19",
+    "Cytokine Storm",
+    "Regulation of Inflammatory Response",
+    "Pulmonary Fibrosis"
+  ],
+  "overall_status": "UNKNOWN"
+}

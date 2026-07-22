@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02844192",
+  "title": "Pharmacokinetics of Vancomycin in ICU Patients",
+  "brief_summary": "Vancomycin is frequently under-dosed in ICU patients during the first 24-48 hours of treatment. Glomerular hyperfiltration syndrome, increased drug volume of distribution, vasopressor use, male sex and hypoalbuminemia are identified risk factor for vancomycin underdosing in ICU patients, among others.\n\nTo date, bedside estimation of vancomycin volume of distribution is challenging, and new methods for optimizing drug administration are required.\n\nThe Picco device is a moderately invasive hemodynamic monitoring system, providing parameters that may help estimation of vancomycin pharmacokinetics parameter.\n\nThe aim of this study is to test whether addition of hemodynamic parameters would improve pharmacokinetics modelling of vancomycin concentration in ICU patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* patient hospitalized in intensive care unit\n* under intravenous vancomycin started during current ICU hospitalization\n* with at least one vancomycin serum concentration available\n* under hemodynamic monitoring with the Picco \u00ae device\n\nExclusion Criteria:\n\n* vancomycin treatment for less than 24 hours\n* vancomycin concentration in serum unavailable\n* rare comorbidities influencing vancomycin pharmacokinetics\n\n  * myeloma\n  * cystic fibrosis\n  * burn injury on more than 20 % of the body surface\n* previous inclusion in present study",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "ICU patients",
+  "condition": [
+    "Suspected Infection With Vancomycin Susceptible Bacterial Strains"
+  ],
+  "overall_status": "UNKNOWN"
+}

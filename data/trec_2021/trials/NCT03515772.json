@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03515772",
+  "title": "Drug-drug Interactions Between Antiretroviral Drugs and Cardiovascular Drugs in Elderly Patients",
+  "brief_summary": "Ageing is characterized by physiological changes, which can impact drug pharmacokinetics and thereby cause drug-drug interactions. This study aims to assess the pharmacokinetics of amlodipine, atorvastatin and rosuvastatin in the presence of darunavir/ritonavir (inhibitor of drug metabolizing enzymes and drug transporters), by comparison with dolutegravir (no inhibitory effects on cytochromes or transporters involved in the disposition of the evaluated co-medications), in order to characterize the importance of drug-drug interactions in elderly individuals.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* documented HIV-infection\n* informed consent as documented by signature (Appendix Informed Consent Form)\n* included in the SHCS and followed-up in the HIV Clinic in Lausanne or in Basel\n* treatment with a HIV therapy including either once-daily ritonavir-boosted darunavir or dolutegravir (or others ARV drugs for the exploratory investigations)\n* treatment with one or eventually 2 of the comedications of interest, i.e. amlodipine, atorvastatin or rosuvastatin (or any drug potentially involved in clinically relevant DDI for the exploratory investigations).\n* Ability to comply with the study requirements\n\nExclusion Criteria:\n\n* Presence of severe comorbidities (i.e. cirrhosis (Child-Pugh score C), heart failure (NYHA 3-4), advanced kidney impairment (KDOQI 4-5)) which can substantially impact the pharmacokinetic of drugs and significantly confound the study results.\n* Presence of interacting non HIV comedications (i.e comedications with known, strong inhibitory or inducing effects on drug metabolizing cytochromes and drug transporters, which might significantly confound the study results)\n* Participants incapable of jugement or participants under tutelage\n* Known or suspected non-compliance, drug or alcohol abuse considered at risk to significantly confound the study results\n* Inability to follow the procedures of the study, e.g. due to language problems, psychological disorders, dementia of the participant,\n* Enrolment of the investigator, his/her family members, employees and other dependent persons.\n* Women who are pregnant or breastfeeding",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "HIV patients treated with the anti-HIV agents dolutegravir or darunavir, while simultaneously receiving cardiovascular agents, namely amlodipine, atorvastatin or rosuvastatin",
+  "condition": [
+    "HIV Infections",
+    "Drug Interactions",
+    "Cardiovascular Diseases"
+  ],
+  "overall_status": "COMPLETED"
+}

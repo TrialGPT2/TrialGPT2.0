@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03588325",
+  "title": "Evaluation of MDW for Early Detection of Sepsis, Clinical Validity",
+  "brief_summary": "The purpose of this study is to confirm the clinical validity and the performance of the Monocyte Width Distribution (MDW) parameter to detect the development of sepsis in a prospective study of Emergency Department (ED) adults who have blood draw including Complete Blood Count with differential (CBC-DIFF) ordered upon presentation in a Spanish \\& French hospital and to verify cut-off for Tri-potassium ethylenediaminetetraacetic acid (K3EDTA).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* CBC-DIFF upon presentation\n* Adults (18-89) of all races \\& ethnicities\n* Signed Informed Consent\n\nExclusion Criteria:\n\n* Previously enrolled\n* Incomplete Informed Consent\n* Subject discharged \\<4 hours from presentation\n* PCT or CRP not performed per protocol\n* Pregnancy\n* Prisoners\n* Subjects Under Custody or Guardianship",
+  "minimum_age": "18 Years",
+  "maximum_age": "89 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All adults with suspicion of infection who present to the Emergency Department and for whom a CBC-DIFF is ordered upon presentation",
+  "condition": [
+    "Severe Infection",
+    "Sepsis",
+    "Severe Sepsis"
+  ],
+  "overall_status": "COMPLETED"
+}

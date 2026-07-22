@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04635943",
+  "title": "Randomized Phase IIA Clinical Trial to Evaluate the Efficacy of Ivermectin to Obtain Negative PCR Results in Patients With Early Phase COVID-19",
+  "brief_summary": "SAINT-PERU is a triple-blinded, randomized placebo-controlled trial with two parallel arms to evaluate the efficacy of ivermectin in negativizing nasopharyngeal PCR in patients with SARS-CoV-2 infection. The trial is conducted in two national hospitals at Lima-Peru.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Patients with COVID-19 typical symptoms (cough, fever, anosmia) present for not more than 96 hours.\n2. 18 years or older.\n3. No use of ivermectin prior to the study.\n4. No known history of ivermectin allergy.\n5. The patient can give his consent to take part in the study.\n6. Not current use of CYP 3A4 or P-gp inhibitor drugs such as quinidine, amiodarone, diltiazem, spironolactone, verapamil, clarithromycin, erythromycin, itraconazole, ketoconazole, cyclosporine, tacrolimus, indinavir, ritonavir or cobicistat. Use of critical CYP3A4 substrate drugs such as warfarin.\n\nExclusion Criteria:\n\n1. COVID-19 pneumonia\n\n   * Diagnosed by the attending physician (oxygen saturation \\< 95% or lung crackles)\n2. Positive pregnancy test for women of childbearing age\\*\n3. Positive IgG against SARS-CoV-2 by rapid diagnostic test.\n4. Negative SARS-CoV-2 PCR from a nasopharyngeal swab.\n\n   * Women of child bearing age may participate if they use a safe contraceptive method for the entire period of the study. A woman is considered to not have childbearing capacity if she is post-menopausal (minimum of 2 years without menstruation) or has undergone surgical sterilization (at least one month before the study)",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19",
+    "Coronavirus Infection",
+    "SARS-CoV Infection"
+  ],
+  "overall_status": "COMPLETED"
+}

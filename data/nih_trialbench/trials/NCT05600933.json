@@ -1,0 +1,39 @@
+{
+  "nctid": "NCT05600933",
+  "title": "Prospective Procurement of Tumor Tissue to Identify Novel Therapeutic Targets and Study the Tumor Microenvironment",
+  "brief_summary": "Background:\n\nMany advances have been made in cancer treatments, but more research is needed. Comparing samples of cancerous tissue to samples of normal, noncancerous tissues may help find differences between them. These differences may help researchers find new ways to treat cancer.\n\nObjective:\n\nTo collect tissues and blood samples from people with known or suspected cancer. The samples will be used to help identify new targets for cancer treatments.\n\nEligibility:\n\nPeople aged 18 years and older with a known or suspected cancer that requires surgery or biopsy.\n\nDesign:\n\nParticipants will be screened. They will answer questions about their health. They can do this on the phone or in person.\n\nResearchers will collect information from participants medical records. Data may include information about any prior or current cancers. Data about other medical conditions may also be collected.\n\nParticipants will have blood drawn. Some of the blood will be tested for HIV and hepatitis B and C. Some of the blood will be used for genetic research.\n\nParticipants will have tissue samples collected during surgeries or biopsies. These are procedures the participants would have had as part of their standard care. No new procedures will be done just for this study. Researchers may also seek out samples from prior procedures the participant had done.\n\nParticipants will remain in the study for 6 months. They may have blood drawn again. Researchers may also collect tissue samples from any procedures performed during that time.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Age \\>= 18 years\n* Willing to undergo serologic testing for HIV, hepatitis B and C\n* Participants who have a known or suspected cancer that requires surgery or biopsy as a part of the standard of care diagnosis, treatment and/or follow up.\n\nNote: Participants will not be enrolled exclusively for the procurement of tissue samples.\n\n-Able and willing to sign an informed consent document.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects from both sexes and all racial/ethnic groups who are undergoing diagnostic or therapeutic interventions for premalignant, primary or metastatic solid tumors or hematologic malignancies",
+  "condition": [
+    "Solid Tumors",
+    "Hematologic Malignancy",
+    "Gastrointestinal Cancer",
+    "Liver Cancer",
+    "Pancreatic Cancer",
+    "Melanoma",
+    "Pre-Malignancy",
+    "Lung Cancer"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic tissue and blood procurement study enrolling adults with known or suspected cancer requiring surgery or biopsy. There are no restrictions or requirements regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes any adult with known or suspected cancer requiring surgery or biopsy, regardless of prior systemic therapy history. Patients who have only received adjuvant or neoadjuvant therapy, or no therapy at all, are eligible. There are no requirements or exclusions based on prior lines of therapy for advanced disease."
+    }
+  ]
+}

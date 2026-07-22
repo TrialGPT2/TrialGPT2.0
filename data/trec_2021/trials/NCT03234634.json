@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03234634",
+  "title": "Collateral-based reSetting of Endovascular Treatment Time Window for Stroke (CoSETS)",
+  "brief_summary": "This study is a prospective, partly randomized, multi-center, Phase III, controlled trial, designed to show that the onset-to-puncture time (OPT) for good functional outcome (defined by modified Rankin Scale score at 3 months, 0-2) can be set depending on collateral status based on multiphase CT angiogram. The purpose of this study is to prove that (1) for patients with poor collaterals, there will no difference in good outcome rate between endovascular treatment and best medical treatment group if onset-to-puncture time is between 150 minutes and 600 minutes, and 2) for patients wih good collaterals, the rate of good outcome is equal to or greater than 42% (10% greater than historical control) if onset-to-puncture time is between 150 minutes and 600 minutes. Patients will initially be classified into 3 arms based on both collateral status on multiphase CT angiography and whether or not receiving endovascular thrombectomy: group 1, patients with good collaterals and receiving endovascular thrombectomy, 2) group 2a, patient with poor collaterals and receiving endovascular thrombectomy, and 3) group 2b, patients with poor collaterals and not receiving endovascular thrombectomy. Patients with good collaterals will receive endovascular thrombectomy (EVT) if onset-to-puncture time is between 150 minutes and 600 minutes after last seen well time. Of the patients with poor collaterals, they will be randomized into endovascular treatment and best medical treatment group, if onset-to-puncture time is between 150 minutes and 600 minutes, (onset-to-puncture time is not possible within 150 minutes but possible within 600 minutes after last seen well). Primary endpoint is the rate of good outcome at 3 months. The number of subjects needed with statistical power of 0.8 and alpha value of 0.025 is estimated 309 patients.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Acute ischemic stroke\n* Age \u2265 19 years old\n* Modified Rankin Scale score before qualifying stroke, 0 or 1\n* Baseline National Institute of Health Stroke Scale, 5 or greater\n* Baseline Alberta Stroke Program Early Computed Tomographic Sign, 6 or greater\n* Documented occlusion of relevant intracranial internal carotid artery or middle cerebral artery M1 segment on multiphase CT angiogram\n* Starting of endovascular treatment (femoral artery puncture) should be possible between 150 minutes and 600 minutes after last seen well time.\n* Nonenhanced CT and multiphase CT angiogram should be obtained in the participating hospital\n* If indicated, intravenous administration of tissue plasminogen activator should be given.\n\nExclusion Criteria:\n\n* Femoral puncture is impossible\n* Pregnancy or positive on serum beta-hCG test\n* Known uncontrollable allergic reaction to iodized contrast media\n* Intracranial cerebral artery dissection\n* Suspected chronic occlusion of the relevant intracranial large artery\n* In hospital stroke\n* Bilateral internal carotid artery or middle cerebral artery occlusion\n* Underlying severe medical or surgical disease which may affect treatment response.\n* Clinical follow is impossible because of social or medical problems.",
+  "minimum_age": "19 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Ischemic Stroke"
+  ],
+  "overall_status": "TERMINATED"
+}

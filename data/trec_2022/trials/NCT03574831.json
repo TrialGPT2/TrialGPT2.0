@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03574831",
+  "title": "the Efficency and Safety of Stretta in GERD",
+  "brief_summary": "This study evaluated the efficency and safety of the endoscopic radiofrequency procedure(Stretta) in adult gastroesophageal patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age \\> 18 years\n2. Small hiatus hernia (\\< 2-3 cm)\n3. Los Angeles Grade 'A' or 'B' Reflux Esophagitis or non erosive esophagitis\n4. LES pressure \\<15 mm Hg\n5. PPI dependent / refractory GERD\n6. abnormal 24h esophagus pH-impedance monitoring\n\nExclusion Criteria:\n\n1. Age \\< 18 years\n2. Large hiatus hernia (\\> 3 cm)\n3. Los Angeles Grade 'C' or 'D' Reflux Esophagitis\n4. LES pressure \\> 15 mm Hg\n5. Underlying coagulation disorder\n6. Previous Esophageal or Gastric surgery\n7. Pregnant\n8. major esophagus motility disorder according to Chicago v3.0",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with refractory GERD symptoms, without major esophagus motility disorder and large hiatus hernia.",
+  "condition": [
+    "GERD",
+    "Radiofrequency Ablation"
+  ],
+  "overall_status": "UNKNOWN"
+}

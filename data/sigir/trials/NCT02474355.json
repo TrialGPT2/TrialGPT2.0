@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02474355",
+  "title": "Real World Treatment Study of AZD9291 for Advanced/Metastatic EGFR T790M Mutation NSCLC",
+  "brief_summary": "The aim of this study is to assess the efficacy and safety of single agent AZD9291 in a real world setting in adult patients with advanced or metastatic, epidermal growth factor receptor (EGFR) T790M mutation-positive Non-Small Cell Lung Cancer (NSCLC), who have received prior EGFR-tyrosine kinase inhibitor (TKI) therapy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Provision of signed and dated written informed consent by the patient or legally acceptable representative prior to any study-specific procedures\n2. Adults (according to each country regulations for age of majority)\n3. Locally advanced (stage IIIB) or metastatic (stage IV) EGFRm NSCLC, not amenable to curative surgery or radiotherapy, with confirmation of the presence of the T790M mutation\n4. Prior therapy with an EGFR-TKI. Patients may have also received additional lines of treatment\n5. World Health Organization (WHO) performance status 0-2\n6. Adequate bone marrow reserve and organ function as demonstrated by complete blood count, biochemistry in blood and urine at baseline (please refer to IB for guidance)\n7. ECG recording at baseline showing absence of any cardiac abnormality as per exclusion criterion #6\n8. Female patients of childbearing potential must be using adequate contraceptive measures, must not be breast feeding, and must have a negative pregnancy test prior to start of dosing. Otherwise, they must have evidence of nonchildbearing potential\n9. Male patients must be willing to use barrier contraception, i.e., condoms\n\nExclusion Criteria:\n\n1. Previous (within 6 months) or current treatment with AZD9291\n2. Patients currently receiving (or unable to stop use at least 1 week prior to receiving the first dose of AZD9291) any treatment known to be potent inhibitors or inducers of cytochrome P450 (CYP) 3A4\n3. Any evidence of severe or uncontrolled systemic diseases, including uncontrolled hypertension, active bleeding diatheses, active infection including hepatitis B, hepatitis C, and human immunodeficiency virus, or significantly impaired bone marrow reserve or organ function, including hepatic and renal impairment, which in the investigator's opinion would significantly alter the risk/benefit balance.\n4. Patient with symptomatic central nervous system (CNS) metastases who is neurologically unstable or has required increasing doses of steroids to manage CNS symptoms within the 2 weeks prior to start AZD9291 administration;\n5. Past medical history of ILD, drug-induced ILD, radiation pneumonitis requiring steroid treatment, or any evidence of clinically active ILD\n6. Any of the following cardiac criteria:\n\n   1. Mean resting corrected QT interval (QTcF) \\> 470 ms using Fredericia's formula :\n   2. Any clinically important abnormalities in rhythm, conduction or morphology of resting ECG (e.g., complete left bundle branch block, third degree heart block, second degree heart block)\n   3. Any factors that increase the risk of QTc prolongation or risk of arrhythmic events\n7. Any unresolved toxicity from prior therapy CTCAE \\> grade 3 at the time of starting treatment\n8. History of hypersensitivity to excipients of AZD9291 or to drugs with a similar chemical structure or class to AZD9291",
+  "minimum_age": "18 Years",
+  "maximum_age": "130 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lung Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

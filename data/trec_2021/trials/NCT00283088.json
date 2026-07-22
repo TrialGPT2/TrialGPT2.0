@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00283088",
+  "title": "Intravenous Thrombolysis Plus Hypothermia for Acute Treatment of Ischemic Stroke",
+  "brief_summary": "The purpose of this trial is to evaluate if it is safe to use tissue plasminogen activator (tPA) within 6 hours of stroke onset when combined with hypothermia.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 18 to 80\n* All eligibility criteria for t-PA administration for acute ischemic stroke as outlined by the NINDS tPA Guidelines are met with the exception of time from onset\n* Stroke onset within 6 hours prior to planned start of tPA\n* Any subtype of ischemic stroke with NIHSS \\< 7 at the time hypothermia begins\n\nExclusion Criteria:\n\n* Etiology other than ischemic stroke\n* Item 1a on NIHSS\\>1 at the time of enrollment\n* Symptoms resolving or NIHSS \\< 7 at the time hypothermia begins\n* Contraindications to hypothermia, such as patients with known hematologic dyscrasias which affect thrombosis, (cryoglobulinemia, Sickle cell disease, serum cold agglutinins), or vasospastic disorders such as Raynaud's or thromboangiitis obliterans.\n* Known co-morbid conditions likely to complicate therapy, e.g., end-stage cardiomyopathy, uncompensated arrhythmia, myopathy, liver disease severe enough to elevate bilirubin, history of pelvic or abdominal mass likely to compress inferior vena cava, IVC filters, dementia severe enough to prevent valid consent, end-stage AIDS, known thyroid deficiency, known renal insufficiency likely to impair meperidine (Demerol\u00ae) clearance\n* Intracerebral hematoma\n* Any intraventricular hemorrhage\n* SBP \\> 185 or \\< 100; DBP \\> 110 or \\< 50 mmHg\n* Pregnancy in women of child-bearing potential (must have pregnancy test, urine or blood, prior to therapy).\n* Medical conditions likely to interfere with patient assessment\n* Known allergy to meperidine (Demerol\u00ae)\n* Currently taking MAO-I class of medication or used within previous 14 days\n* Life expectancy \\< 3 months\n* Not likely to be available for long-term follow-up.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke"
+  ],
+  "overall_status": "COMPLETED"
+}

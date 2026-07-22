@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT05670496",
+  "title": "Collection of Clinical Data and Specimens for Research in Hearing, Balance, Taste, Smell, Voice, Speech, and Language Disorders.",
+  "brief_summary": "Background:\n\nPeople with hearing, balance, and taste, smell, voice, speech, language, and other Ear, Nose, and Throat (ENT) disorders may seek treatment at the National Institute on Deafness and Other Communication Disorders (NIDCD). Some of these people may benefit from enrolling in the NIDCD intramural research program to receive their care. Enrolling will also allow investigators to collect participants clinical data and specimens for future research.\n\nObjective:\n\nThis natural history study has 2 goals: (1) to collect data and specimens that may be used for research; and (2) to evaluate participants who may be candidates for other research studies.\n\nEligibility:\n\nPeople aged 2 years or older with a hearing, balance, and communication disorder. Those at risk or who are suspected of having such a disorder are also eligible.\n\nDesign:\n\nParticipants will be screened. Their medical records will be reviewed.\n\nParticipants will agree to have their medical data used for research. Specimens such as blood or other tissue samples may also be used for research. All data and specimens will be collected during their routine care visits.\n\nAll tests done will be the normal care for each participant s condition. No tests will be done solely for research.\n\nSome of these tests may require blood or tissue samples. Some may use special tools to test hearing and balance. Some may test heart or lung function. These tests may also include different types of imaging scans.\n\nAll tests will be explained. Participants may ask questions at any time.\n\nParticipants may remain in this study for up to 2 years. If they need further care, they may sign a new consent.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Patients must be age 2 years or older if procedures or treatment are required.\n* Patients at risk, suspected of having, have a history of, or currently have a diagnosed hearing, balance, taste, smell, voice, speech, language, and other ENT disorder.\n* An NIDCD clinical investigator and PI determines it is in the interest of the patient/individual and NIDCD CRP for the subject to undergo consult, treatment or follow-up at the NIDCD/NIH\n* Patient or their Legally Authorized Representative is able to provide informed consent. The consent form will be signed by parents or guardians of patients under the age of 18.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Candidates who do not meet the inclusion criteria.\n* Candidates who in the opinion of the PI and clinical team have medical or unstable conditions for which NIDCD and CC consultative services are unable to provide or support optimal care",
+  "minimum_age": "2 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients at risk, suspected of having, have a history of, or currently have a diagnosed hearing, balance and communication disorders referred to NIDCD Clinical Investigators by the Intramural Consult Service or community providers",
+  "condition": [
+    "Hearing Loss",
+    "Deafness"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history and specimen collection study for patients with hearing, balance, and communication disorders, with no mention of cancer or systemic therapy for advanced disease. There are no requirements or restrictions regarding prior lines of therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference cancer, advanced disease, or systemic therapy. There are no specifications regarding prior lines of therapy for advanced disease, making line-of-therapy intent not applicable or unknown for this study."
+    }
+  ]
+}

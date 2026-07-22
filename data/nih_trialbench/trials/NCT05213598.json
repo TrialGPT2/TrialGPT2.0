@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT05213598",
+  "title": "Fontan Associated Liver Disease and the Evaluation of Biomarkers for Disease Severity Assessment",
+  "brief_summary": "Background:\n\nIn Fontan Associated Liver Disease (FALD), congestion of blood in the liver causes cirrhosis. This condition can cause death. Researchers want to understand what triggers this process and find new treatments for it.\n\nObjective:\n\nTo understand how long-term congestion of blood in the liver causes liver scarring that eventually leads to cirrhosis.\n\nEligibility:\n\nPeople aged 18 and older who are at risk of developing FALD from the Fontan procedure.\n\nDesign:\n\nParticipants will be screened with:\n\nMedical history\n\nPhysical exam\n\nBlood and urine tests\n\nLiver ultrasound. This uses sound waves to take pictures of the body.\n\nParticipants will have an outpatient visit within 12 weeks after screening. Within 24 weeks later, they will have a 3-day hospital stay. About 2 weeks later, they will have a follow-up visit.\n\nVisits will include repeats of the screening tests and:\n\nHeart tests\n\nStool collection\n\nQuestionnaires\n\nMRI of the liver. Participants will lie on a bed that slides in and out of the scanner. They will receive a contrast agent injected into a vein. While in the scanner, they will also have an MRCP to view the bile ducts and the pancreatic duct.\n\nFibroscan exam. This is an ultrasound that uses a special probe to look at the toughness of the liver.\n\nUpper endoscopy. This uses a thin scope to look inside the upper digestive tract.\n\nLiver biopsy. This will be taken through large vein in the neck or through the chest. Just before the biopsy, participants will have pressure measurements inside their liver. For this, a catheter will be inserted into a neck vein and guided into the liver.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Male and female subjects \\>= 18 years of age.\n2. Past surgical history of Fontan procedure.\n3. Prior enrollment in the Liver Diseases Branch protocol 91DK0214\n4. Underwent cardiac catheterization or transjugular liver biopsy within ten years prior to the date of screening\n5. Approved to proceed by the NIH Cardiology Consult\n6. Approved to proceed by the NIH Cardiac Pre-anesthesia Consult\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Evidence of other forms of liver disease that typically result in cirrhosis.\n2. Evidence of active Chronic Hepatitis B infection as defined by the presence of hepatitis B surface antigen (HBsAg) in serum and elevated HBV DNA (\\>10,000 IU/mL).\n3. Hepatitis C as defined by the presence of hepatitis C RNA in serum.\n4. Evidence of other liver disease such as primary sclerosing cholangitis, primary biliary cirrhosis, Wilson s disease, autoimmune hepatitis as defined by either liver histology or laboratory abnormalities.\n5. Hemochromatosis as defined by presence of 3+ or 4+ stainable iron on liver biopsy or homozygosity for C282Y. Patients with iron saturation indices of \\>45% and serum ferritin levels of \\>300 ng/ml for men and \\>250 ng/ml for women will undergo genetic testing for hemochromatosis.\n6. Bile duct obstruction as suggested by imaging studies done within the previous six months.\n7. Active substance abuse, such as alcohol, inhaled or injection drugs within the previous one year (assessed during patient interviews or by patient self-report).\n8. Evidence of hepatocellular carcinoma; either alpha-fetoprotein (AFP) levels greater than 50 ng/ml (normal \\<6.6 ng/ml) and/or ultrasound (or other imaging study) demonstrating a mass suggestive of liver cancer.\n9. Evidence of Cholangiocarcinoma.\n10. A documented or otherwise stated severe allergic reaction to contrast.\n11. Any other severe condition, which in the opinion of the investigators would impede the patient s participation or compliance in the study.\n12. Radiation exposure exceeds 5 rems during the past year.\n13. Inability to comply or give written informed consent as there is no direct benefit from participation in this study.\n14. Female subjects who are currently pregnant will be excluded due to radiation exposure necessary for study completion. In addition, altered hemodynamics may confound the study s results. Following pregnancy, patients may be reconsidered for the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "male and female subjects \\>=18 years of age who historically underwent Fontan procedure due to a severe CHD and thus are at risk for FALD by virtue of their altered physiology",
+  "condition": [
+    "Congenital Heart Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of adults with a history of the Fontan procedure to evaluate biomarkers and disease severity in Fontan Associated Liver Disease. There is no requirement or restriction regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced or metastatic disease, nor do they specify any requirements or exclusions based on prior lines of therapy. This study is focused on biomarker evaluation in Fontan Associated Liver Disease, not on cancer treatment or systemic therapy history."
+    }
+  ]
+}

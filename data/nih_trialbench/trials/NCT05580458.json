@@ -1,0 +1,43 @@
+{
+  "nctid": "NCT05580458",
+  "title": "Safety and Immunogenicity of Recombinant Varicella Zoster Virus Vaccine in People With HIV Who Have a CD4 Count Less Than 300 or Greater Than or Equal to 300 and a Healthy Control Population",
+  "brief_summary": "Background:\n\nShingles is a painful, blistering rash caused by the same virus that causes chickenpox. Shingrix is a vaccine approved to prevent shingles in healthy adults over age 50 and in immunocompromised adults over age 18. Researchers want to learn more about how people with HIV respond to Shingrix.\n\nObjective:\n\nTo learn how Shingrix affects the immune response in people with HIV.\n\nEligibility:\n\nPeople aged 18 years and older with HIV. Healthy people aged 50 years or older are also needed.\n\nDesign:\n\nParticipants will have at least 4 clinic visits in 1 year.\n\nParticipants will be screened. They will have a physical exam with blood and urine tests.\n\nAt their first visit, participants will receive Shingrix as a shot in the upper arm. They will have a rectal swab; a cotton swab will be inserted into the rectum and rotated gently to collect bacteria.\n\nParticipants will receive a second shot of Shingrix 2 months after the first one. They will visit the clinic again 3 and 12 months after the first shot.\n\nParticipants will receive a 28-day memory tool. They will write down their symptoms between clinic visits. They will have up to 4 phone calls to talk about side effects of the shot.\n\nParticipants may undergo apheresis: They will lie still while blood is drawn from a needle in one arm. The blood will pass through a machine that separates out the white blood cells. The remaining blood will be given back through a second needle in their other arm.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nGeneral Inclusion Criteria:\n\nIndividuals must meet all of the following criteria to be eligible for study participation:\n\n* Able to provide informed consent.\n* Participants of childbearing potential must agree to use at least 1 acceptable method of contraception when engaging in sexual activities that can result in pregnancy, beginning at screening through month 3. Acceptable methods of contraception include the following:\n\n  * Hormonal contraception.\n  * Male or female condom.\n  * Diaphragm or cervical cap with a spermicide.\n  * Intrauterine device.\n* Has a primary care provider.\n\nAdditional Inclusion Criteria for People with HIV:\n\n* PWH must also meet all the following criteria to be eligible for study participation:\n* \\>= 18 years of age.\n* Seropositive for HIV-1 (documented or confirmed at screening).\n* Documented viral load \\< 100 copies/mL within 30 days of screening and documented suppression \\< 40 copies/mL within 6 months of screening.\n* Currently on a stable antiretroviral regimen (minimum of 6 months of a stable ART regimen; changes for side effects, drug interaction, or convenience allowed), or is an elite controller (maintains undetectable viral loads in the absence of any treatment for a period of one year prior to screening visit).\n* No active/uncontrolled opportunistic infections (patients on chronic maintenance therapy would be considered as controlled).\n\nAdditional Inclusion Criteria for Healthy Volunteers:\n\nHealthy volunteers must also meet all of the following criteria to be eligible for study participation:\n\n* \\>= 50 years of age.\n* No uncontrolled chronic medical issues that per the discretion of the PI or designee would compromise the safety of the research participant.\n* No underlying immunodeficiencies (including negative HIV test at screening).\n\nEXCLUSION CRITERIA:\n\nIndividuals meeting any of the following criteria will be excluded from study participation:\n\n* Previous receipt of Shingrix vaccine at any time.\n* Receipt of Zostavax within the past 12 months.\n* History of severe allergic reaction to any component of Shingrix.\n* Diagnosed varicella or herpes zoster episode within the past 1 month. Subject will be eligible for SHINGRIX vaccine once symptoms of herpes zoster episode have resolved.\n* Immunocompromised (other than HIV for the PWH cohort) within the past 6 months (eg, due to a malignancy other than skin cancer).\n* Current moderate or severe acute illness (ie, febrile illness, seizure, myocardial infarction, cerebrovascular accident, pulmonary embolism) that in the opinion of the principal investigator, would make the subject unsuitable for the study.\n* Pregnancy or breastfeeding.\n* Receipt of an investigational agent, investigational vaccine, or licensed live virus vaccine within 30 days prior to screening.\n* Planned receipt of any vaccine (investigational or ACIP-recommended) between months 0 and 2 except for the tetanus, diphtheria, and pertussis vaccine \\[TDaP\\], Pneumovax, inactivated influenza vaccines, and COVID-19 vaccine which may be given at least 8 days before and/or at least 14 days after each study agent injection (at month 0/month 2).\n* Administration of immunoglobulins or any blood products within 90 days preceding the first dose of vaccine or planned administration during the study period.\n* Chronic administration (\\>= 15 consecutive days) of immunosuppressive or other immune-modifying drugs within 6 months before screening. (Prednisone \\< 20 mg/day or equivalent, corticosteroid nasal spray or inhaler, and topical steroids are not exclusionary).\n* Uncontrolled psychiatric disease per physician evaluation, current substance use, or inappropriate conduct unsuitable for a research study.\n* Any condition that could compromise, in the investigator's opinion, the participant's safety or the study outcomes.\n\nParticipants will be selected in an equitable manner from the available pool of potentially eligible individuals, without regard to factors such as sex, race, ethnicity, socioeconomic status, etc, except for age.\n\nMedical record review may be used for determining eligibility. If a clinical laboratory evaluation is available for review at the screening timepoint, but was obtained prior to protocol consent, the laboratory test does not have to be repeated for the purposes of confirming eligibility under the protocol.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Herpes Zoster"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a vaccine immunogenicity study enrolling people with HIV and healthy controls, with no requirement for prior systemic therapy for advanced disease. Prior lines of therapy for advanced/metastatic disease are not relevant to eligibility.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "People with HIV",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility is based on HIV status, age, and ART regimen, with no mention of prior systemic therapy for advanced disease. Patients with no prior systemic therapy for advanced/metastatic disease are eligible."
+    },
+    {
+      "cohort_label": "Healthy Controls",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Healthy volunteers aged 50 or older with no underlying immunodeficiencies are eligible. There is no requirement or exclusion based on prior systemic therapy for advanced disease."
+    }
+  ]
+}

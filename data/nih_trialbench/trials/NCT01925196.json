@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT01925196",
+  "title": "Natural History and Biomarkers of Amyotrophic Lateral Sclerosis and Frontotemporal Dementia Caused by the C9ORF72 Gene Mutation",
+  "brief_summary": "Background:\n\n\\- Some people have a mutation in the C9ORF72 gene that causes amyotrophic lateral sclerosis (ALS) or frontotemporal dementia (FTD). The mutation causes a small piece of DNA to repeat itself thousands of times. The C9ORF gene mutation mostly occurs in families. In those families, some persons have ALS and others have FTD. Occasionally the C9ORF gene mutation occurs in persons without a family history. Researchers want to understand how this gene causes different diseases. They will study how symptoms caused by the C9ORF gene develop and change over time. They will measure symptoms that occur in ALS and in FTD. In particular, they will measure strength, ability to move, thinking, and memory. They will also see if other tests are associated with progression of disease. These tests, called biomarkers, may help detect or measure C9ORF72 disease in the future.\n\nObjectives:\n\n\\- To understand how symptoms change over time in people with mutations in a gene called C9ORF72, which causes ALS and FTD.\n\nEligibility:\n\n\\- Adults over age 18 who have this genetic mutation\n\nDesign:\n\n* Participants will have up to 4 in-person visits and 3 telephone interviews over 3 years. Each in-person visit may take place over several days. They may be either inpatient or outpatient visits.\n* At each visit, participants will undergo a series of brain, language, and behavior tests. These will include:\n* Magnetic resonance imaging (MRI) of the brain. This uses magnets, radio waves, and computers to produce detailed pictures of the brain.\n* Collecting spinal fluid. The clinician will make the participant s back numb and then insert a needle to collect fluid.\n\n\\<TAB\\>- Blood samples will be taken.\n\n\\<TAB\\>- Participants will be asked to perform several language and movement tests.\n\n\\<TAB\\>- Small skin samples will be taken on one visit\n\n\\- Between visits, participants will answer questions about their health over the phone 3 times.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPatients will be included if they:\n\n* Are age 18 or older\n* Have a confirmed repeat expansion in the C9ORF72 gene\n\nEXCLUSION CRITERIA:\n\nPatients will be excluded if they\n\n* have other major neurological or medical diseases that may cause progressive weakness or cognitive dysfunction, such as structural brain or spinal cord disease, metabolic diseases, paraneoplastic syndromes, hereditary diseases, infectious diseases, peripheral neuropathy or radiculopathy or other significant neurological abnormalities.\n* require daytime ventilator support at the time of study entry\n* are unable to travel to NIH at the time of study entry\n* are unwilling to have follow-up visits\n* are unable to understand or decline to sign the Informed Consent at the time of study entry. Participants can remain in the study (with DPA consent and participant assent) if they lose consent capacity.\n* have pacemakers or other implanted electrical devices, brain stimulators, dental implants, aneurysm clips (metal clips on the wall of a large artery), metallic prostheses (including metal pins and rods, heart valves, and cochlear implants), permanent eyeliner, implanted delivery pumps, or shrapnel fragments, metal fragments in the eye) that exclude magnetic resonance imaging\n* have unstable medical conditions that, in the opinion of the investigators, prevent safe participation in this study.\n* are participating in experimental treatment trials at the time of study entry or plan such participation within 6 months of entry.\n\nPatients will not be excluded if they are receiving standard care medications for treatment of ALS and its symptoms, or are participating in non-treatment clinical research studies. Patients will be permitted to participate in experimental treatment trials after the 6 month follow-up visit.\n\nPatients with pacemakers or other implanted electrical devices, brain stimulators, dental implants, aneurysm clips (metal clips on the wall of a large artery), metallic prostheses (including metal pins and rods, heart valves, and cochlear implants), permanent eyeliner, implanted delivery pumps, or shrapnel fragments, metal fragments in the eye) will not be excluded but will not undergo magnetic resonance imaging or transcranial magnetic stimulation.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants with C9ORF72 mutation",
+  "condition": [
+    "Amyotrophic Lateral Sclerosis",
+    "Frontotemporal Lobar Degeneration"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational study of patients with C9ORF72 mutations causing ALS or FTD, regardless of prior treatment history. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, and both treated and untreated patients may be included. This is an observational study with no line-of-therapy restrictions or requirements."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "nctid": "NCT04151342",
+  "title": "CAnadian CAncers With Rare Molecular Alterations (CARMA) - Basket Real-world Observational Study (BROS)",
+  "brief_summary": "This study will collect data on Canadian cancer patients that have uncommon/rare changes in their tumours, such as alterations/rearrangements in the genetic material inside cells - known as deoxyribonucleic acid, or DNA, which acts as a map and gives directions to the cells on how to make other substances the body needs - because some of these changes have been found to respond to different drugs that help to stop the cancer. These rare changes occur in genes such as but not limited to ALK, EGFR, ROS1, BRAF, and NTRK which have targeted drugs in a family known as tyrosine kinase inhibitors (TKIs), and KRAS G12C mutation, which now has a targeted inhibitor drug therapy for patients with non small cell lung cancer (NSCLC). The goals for the study are to compare the natural history of such cancers and the treatment outcomes, including toxicities and patient-reported outcomes, for the different therapies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients \u2265 18 years at cancer diagnosis\n* Diagnosed with malignant tumour(s) with molecular testing completed that identified rare molecular alterations\n* Accessible/available molecular testing reports/documentation to confirm type(s) of molecular alteration(s) (resulting from the conduct of polymerase chain reaction \\[PCR\\] based next generation sequencing \\[NGS\\], immunohistochemistry \\[IHC\\], fluorescence in situ hybridization \\[FISH\\], liquid biopsy)\n* Canadian resident received follow-up for cancer care in Canada or is currently receiving/planning follow-up for cancer care to occur in Canada at time of enrollment\n\nExclusion Criteria:\n\n* Previous refusal of the deceased patient, when living, to enroll in this study or patient approached for this study is unable to provide informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Cancer patients living and deceased who have/had a histologically confirmed rare molecular alteration in their tumours, such as but not limited to ALK, EGFR, ROS1, BRAF, and KRAS G12C from participating sites/cancer centres across Canada.",
+  "condition": [
+    "Cancer",
+    "Malignancies Multiple",
+    "Malignant Solid Tumor",
+    "Cancer, Therapy-Related",
+    "Molecular Sequence Variation",
+    "Genetic Alteration",
+    "Gene Fusion",
+    "Receptor Tyrosine Kinase Gene Mutation",
+    "RTK Family Gene Mutation",
+    "Ras (Kras or Nras) Gene Mutation"
+  ],
+  "overall_status": "RECRUITING"
+}

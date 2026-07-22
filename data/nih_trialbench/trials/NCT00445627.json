@@ -1,0 +1,42 @@
+{
+  "nctid": "NCT00445627",
+  "title": "Effect of Short-Term Beta-Cell Rest in Adolescents and Young Adults With Type 2 Diabetes Mellitus",
+  "brief_summary": "This study will determine whether resting beta cells (cells in the pancreas that produce insulin) for 2 weeks will improve the ability of patients with Type 2 diabetes mellitus (T2DM) to make insulin. Beta cells can rest by giving patients insulin shots. The study will also examine how teenagers with T2DM feel about having diabetes and explore differences between young people with and without T2DM.\n\nThis study includes patients 12 to 25 years of age with T2DM who are overweight and who were diagnosed within 2 years of enrolling in the study. Healthy individuals of normal weight or who are overweight are also eligible. Candidates are screened with a medical history, physical examination and laboratory tests.\n\nParticipants with T2DM are assigned to one of two groups. Group 1 takes an anti-diabetes medicine called metformin and follows a diet prescribed by a study staff dietitian for 2 weeks. Group 2 takes metformin, follows the prescribed diet, and receives insulin through a pump under the skin for 2 weeks. During these two weeks, all participants have the following tests:\n\n* Frequent blood sugar checks.\n* Oral glucose tolerance test (routine diabetes test in which blood samples are drawn before and several times after the subject drinks a sugary solution).\n* Arginine stimulation to test the response of the body to arginine, a normal ingredient of food that stimulates the release of insulin. Two catheters are placed into veins in the arms, one to administer a liquid containing arginine, the other to draw the blood samples.\n* Ultrasound of the blood vessels in the neck to check for hardening of the arteries.\n* Metabolism test to measure the amount of oxygen used during rest. The subject breathes normally during rest while wearing a canopy over his or her head for about 20 minutes.\n* MRI scans of the abdomen to examine the amount of fat in the belly (at the beginning and end of the study)\n* DEXA scan to determine percent body fat.\n* Tests to explore quality of life and feelings about health, work or school, friends and family.\n* Exercise testing on a treadmill or stationary bicycle.\n* Genetic studies for information on diabetes and obesity.\n\nNormal volunteers have blood draws, oral glucose tolerance testing, MRI scan, DEXA scan, psychological testing, exercise testing, and genetic testing.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* DIABETIC SUBJECTS:\n\nINCLUSION CRITERIA:\n\n1. Type 2 diabetes mellitus as defined by:\n\n   1. Fasting blood glucose greater than or equal to 126 mg/dL OR postprandial blood sugar greater than or equal to 200 mg/dL (either during OGTT at NIH or as previously documented on outside medical record).\n   2. Since subjects may already have been started on treatment with hypoglycemic agents at the time of enrollment, they may have blood glucose levels in the impaired glucose tolerance range (fasting glucose 100-125 mg/dL and postprandial 140-199 mg/dL). This is a sign of adequately controlled diabetes, rather than an incorrect diagnosis of diabetes. Therefore, prior documentation (on outside medical records) of blood glucose values documenting diabetes will be acceptable if the subject has impaired glucose tolerance rather than overt diabetes according to screening results at NIH.\n   3. Absence of insulin autoantibodies (in insulin na(SqrRoot) ve patients only)\n\n   Or\n2. Clinical diagnosis of type 1 diabetes mellitus (for Pilot Study only)\n\n   And\n3. Age 8-25 years at enrollment\n\nEXCLUSION CRITERIA:\n\n1. Normal OGTT at NIH (fasting blood glucose \\< 100 mg/dL AND 2 hour blood glucose \\< 140 mg/dL)\n2. Significant comorbidity that, in the opinion of the investigators, will increase risk to the subject(specific obesity-related comorbidities are explicitly permitted, including hypertension, hyperlipidemia, obstructive sleep apnea and non-alcoholic steatohepatitis)\n3. Positive urine pregnancy test\n4. Psychiatric or cognitive disorder that will, in the opinion of the investigators, limit the subject's ability to comply with study procedures\n\nNON-DIABETIC CONTROLS:\n\nINCLUSION CRITERIA:\n\nTwo types of volunteers will be recruited:\n\n1. Overweight and obese volunteers who will be BMI matched with study enrollees who have T2DM during analyses\n2. Normal weight (BMI between 5th and 85th centiles for age) volunteers\n\nEXCLUSION CRITERIA:\n\n1. Diabetes\n2. Significant comorbidity that, in the opinion of the investigators, will increase risk to the subject (specific obesity-related comorbidities are explicitly permitted, including hypertension, hyperlipidemia, obstructive sleep apnea and non-alcoholic steatohepatitis)\n3. Current use of drugs that alter glucose metabolism (e.g. metformin)\n4. Current use of prescription or non-prescription weight-loss drugs\n5. Positive urine pregnancy test\n6. Psychiatric or cognitive disorder that will, in the opinion of the investigators, limit the subject's ability to comply with study procedures",
+  "minimum_age": "8 Years",
+  "maximum_age": "25 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Children and young adults ages 8 to 25 years with type 2 diabetes will be studied in a cross-sectional and longitudinal manner.",
+  "condition": [
+    "Obesity",
+    "Overweight",
+    "Diabetes Mellitus, Type 2"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls adolescents and young adults with type 2 diabetes mellitus diagnosed within 2 years, regardless of prior anti-diabetic therapy, as well as non-diabetic controls. There is no concept of line of therapy for advanced/metastatic disease, as this is not an oncology trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "T2DM Group",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Patients with type 2 diabetes mellitus diagnosed within 2 years are eligible, regardless of prior anti-diabetic therapy. There is no mention of systemic therapy for advanced disease, as this is not an oncology trial."
+    },
+    {
+      "cohort_label": "Non-diabetic Controls",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Healthy volunteers without diabetes are eligible. There is no concept of systemic therapy or line of therapy for advanced disease in this cohort."
+    }
+  ]
+}

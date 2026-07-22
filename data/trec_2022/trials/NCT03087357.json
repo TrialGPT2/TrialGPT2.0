@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03087357",
+  "title": "VAlidation of a Lower Cost aneUploidy scrEen",
+  "brief_summary": "This study will document the detection rate and false positive rate as well as failure rate of a new prenatal screening approach ('Smart NIPT') as described at www.vanadisdx.com and implemented in an academic laboratory with limited molecular testing experience. Testing will be performed on samples from a general risk pregnancy population, with additional high-risk cases added to improve confidence in the detection rate. Additional characteristics of this non-NGS test such as turn-around time, costs (equipment, training, per test), results reporting, fetal sex, fetal fraction, and quality measures will also be examined.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* At least 18 years old\n* 10-20 weeks gestation\n\n  * Low Risk group\n* no known aneuploidy risk\n* scheduled for cfDNA screen as primary aneuploidy screen\n\n  * High Risk group\n* positive cfDNA screen\n* scheduled to discuss CVS/amniocentesis as confirmatory test\n\nExclusion Criteria:\n\n* Triplet or higher order pregnancy\n\n  * Low Risk group\n* positive nuchal translucency (NT) or abnormal ultrasound\n* previous pregnancy with aneuploidy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "1. Pregnant women who either have no known risk factors for fetal aneuploidy (Low Risk group) and who present for cfDNA screening as their primary screen at a qualified Enrollment Site.\n2. Pregnant women who have had a positive cfDNA screen and who present for discussion of confirmatory diagnostic testing (High Risk group) at a qualified Enrollment Site.",
+  "condition": [
+    "Down Syndrome",
+    "Trisomy 18",
+    "Trisomy 13"
+  ],
+  "overall_status": "COMPLETED"
+}

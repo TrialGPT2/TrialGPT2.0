@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04554485",
+  "title": "Blinatumomab Followed by High-dose Chemotherapy for Ph-negative Acute Lymphoblastic Leukemia (ALL)",
+  "brief_summary": "This is a phase II interventional trial to evaluate the efficacy of blinatumomab followed by high-dose chemotherapy in the first-line treatment for Ph-negative acute lymphoblastic leukemia (ALL) in adults. The aim is to increase the number of complete molecular responses after first two cycles of therapy. Early molecular response is considered to be the most powerful prognostic factor in ALL. Thus, a higher proportion of early molecular responses should translate into improved survival and fewer indications for allogeneic stem cell transplants",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 18-65 years;\n* Lymphoblasts positive for CD19;\n* Eligible to intensive chemotherapy, due to general health status;\n* With newly diagnosed B-precursor-ALL;\n* Without BCR-ABL fusion by FISH analysis and/or RT-PCR;\n* Blasts expressing the CD19 antigen by flow cytometry;\n* Previously untreated;\n* ECOG (Eastern Cooperative Oncology Group) performance status \u2264 2;\n* Diagnostic sample of bone marrow (or peripheral blood with \\>50% of blasts) available for central MRD assessment\n* Written informed consent obtained prior to any screening procedures.\n\nExclusion Criteria:\n\n* History of malignancy other than ALL within 5 years prior to start of protocol-required therapy, except for:\n\n  * Malignancy treated with curative intent and with no known active disease present for 5 years before enrollment and felt to be at low risk for recurrence by the treating physician;\n  * Adequately treated non-melanoma skin cancer or lentigo maligna without evidence of disease;\n  * Adequately treated cervical carcinoma in situ without evidence of disease;\n  * Adequately treated breast ductal carcinoma in situ without evidence of disease;\n  * Prostatic intraepithelial neoplasia without evidence of prostate cancer.\n* History or presence of central nervous system (CNS) pathology as epilepsy, childhood or adult seizure, paresis, aphasia, stroke, severe brain injuries, dementia, Parkinson's disease, cerebellar disease, organic brain syndrome, psychosis;\n* Persisting ALL in the CNS at the end of run-in period; patients with initial cerebrospinal fluid (CSF) infiltration arriving into CSF negativity after up to 4 intrathecal applications of chemotherapy within the first 10 days of therapy are allowed for the study;\n* Current autoimmune disease or history of autoimmune disease with potential CNS involvement;\n* Active known hepatitis B virus (HBV) or hepatitis C virus (HCV) or positive HIV serology;\n* Hypersensitivity to any active substance contained in blinatumomab, including polysorbate 80;\n* Vaccination with a live virus vaccine within 4 weeks prior to the study enrolment;\n* Female patients who are pregnant or breast feeding or patients of childbearing potential not willing to use a double barrier method of contraception during the study and for 3 months following the last dose of study drug;\n* Male patients whose sexual partner(s) are women of childbearing potential who are not willing to use a double barrier method of contraception, one of which includes a condom, during the study;\n* Any of concurrent severe and/or uncontrolled medical condition, which could, in the opinion of the investigator, compromise participation in the study;\n* Concurrent participation in another clinical study with an investigational medical product.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lymphoblastic Leukemia, Acute, Adult",
+    "Ph Negative ALL",
+    "Newly Diagnosed"
+  ],
+  "overall_status": "COMPLETED"
+}

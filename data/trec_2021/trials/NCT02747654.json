@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02747654",
+  "title": "Isoniazid Dosage Prediction Model Development",
+  "brief_summary": "Isoniazid (INH) is an essential component of first-line anti-tuberculosis (TB) treatment. However, treatment with INH is complicated by polymorphisms in the expression of the enzyme system primarily responsible for its elimination, N-acetyltransferase 2 (NAT2), and its associated hepatotoxicity. The objective of this study was to develop an individualized INH dosing regimen using a pharmacogenetic-driven model and to apply this regimen in a pilot study.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* Eligible participants were patients newly diagnosed with active TB\n* Who underwent standard four drug treatment for 6months: isoniazid (5 mg/kg, usually 300 mg), rifampin (450 mg for \\<50 kg or 600 mg for 50 kg body weight), ethambutol(15mg/kg), and pyrazinamide (20 - 30 mg/kg)\n* Given daily for two months and followed by isoniazid and rifampin with or without ethambutol for four months.\n* Those patients with abnormal hepatic function on laboratory testing (increased serum aspartate aminotransferase, alanine aminotransferase, or total bilirubin) before anti-TB treatment, underlying liver disease or systemic illness such as congestive heart failure, acute life-threatening disease, or alcoholism, or disease that was resistant to INH at the start of treatment were excluded.",
+  "minimum_age": "17 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "NAT2 Genotype"
+  ],
+  "overall_status": "UNKNOWN"
+}

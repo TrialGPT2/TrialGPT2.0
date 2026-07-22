@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT00002641",
+  "title": "Surgery With or Without Chemotherapy in Treating Patients With Soft Tissue Sarcoma",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. It is not yet known whether giving chemotherapy after surgery is more effective than surgery alone in treating soft tissue sarcoma.\n\nPURPOSE: Randomized phase III trial to compare the effectiveness of surgery with or without chemotherapy in treating patients who have soft tissue sarcoma.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically proven soft tissue sarcoma that is amenable to definitive surgery no more than 8 weeks after biopsy or inadequate surgery\n\n  * Eligible subtypes:\n\n    * Alveolar soft part sarcoma\n    * Angiosarcoma\n    * Fibrosarcoma\n    * Leiomyosarcoma\n    * Malignant fibrous histiocytoma\n    * Liposarcoma (round cell and pleomorphic)\n    * Miscellaneous sarcoma (including pelvic mixed mesodermal tumors)\n    * Malignant paraganglioma\n    * Neurogenic sarcoma\n    * Rhabdomyosarcoma\n    * Synovial sarcoma\n    * Unclassifiable sarcoma\n  * Ineligible subtypes:\n\n    * Chondrosarcoma\n    * Dermatofibrosarcoma\n    * Embryonal rhabdomyosarcoma\n    * Ewing's sarcoma\n    * Kaposi's sarcoma\n    * Liposarcoma (myxoid and well differentiated)\n    * Malignant mesothelioma\n    * Neuroblastoma\n    * Osteosarcoma\n* Confirmed high-grade tumor (i.e., Trojani Grade II or III)\n* No metastases on staging with chest x-ray and thoracic CT scan\n* No regional lymph node involvement\n* Locally recurrent disease allowed\n\n  * Interval of 3 months or more between definitive surgery and recurrence\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 16 to 69\n\nPerformance status:\n\n* WHO 0-1\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* WBC greater than 4,000/mm\\^3\n* Platelet count greater than 120,000/mm\\^3\n* No bleeding disorders\n\nHepatic:\n\n* Bilirubin no greater than 1.25 times normal\n* No severe hepatic dysfunction\n\nRenal:\n\n* Creatinine less than 1.6 mg/dL OR\n* Creatinine clearance greater than 60 mL/min\n\nCardiovascular:\n\n* No clear history of angina\n* No documented myocardial infarction\n* No existing cardiac failure\n\nOther:\n\n* No serious infection\n* No other malignancy except adequately treated carcinoma in situ of the cervix or basal cell or squamous cell skin cancer\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* No prior systemic chemotherapy\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* No prior radiotherapy to affected area\n\nSurgery:\n\n* See Disease Characteristics",
+  "minimum_age": "16 Years",
+  "maximum_age": "69 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Endometrial Cancer",
+    "Kidney Cancer",
+    "Ovarian Cancer",
+    "Pheochromocytoma",
+    "Sarcoma"
+  ],
+  "overall_status": "COMPLETED"
+}

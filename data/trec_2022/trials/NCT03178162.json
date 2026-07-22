@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03178162",
+  "title": "Evaluation of a Non-invasive Cardiac Output Monitoring System.",
+  "brief_summary": "There are different methods for measuring cardiac output (CO) completely non-invasive, which are used today. Two of these should be used in the study to examine the CO in an older group of patients (\\> 65 years) undergoing major trauma surgery. The first method is the esCCOTM-technology by Nihon Kohden, the second uses the Volume Clamped Method via a finger-cuff by Nexfin Edwards life sciences. Both technologies work continuously and fully non-invasive.\n\nThe measured data will be compared to established standard procedures like semi-invasive pulse contour analysis using the Flotrac-Vigileo system. The study should answer the following questions:\n\nHow accurate and precise are the non-invasive methods? How large is the percentage deviation in comparison to the established standard? Are there any limitations of measuring accuracy regarding the age of the patient? The continuous hemodynamic monitoring of patients during surgery has recently changed from invasive and semi-invasive methods to completely non-invasive technologies. The accuracy and precision of this way of measuring cardiovascular parameters in comparison to the invasive standard is still controversial. Especially for older patient with atherosclerotic alteration of the blood vessels the utility of non-invasive monitoring systems is not shown yet. But principally this group with a high level of comorbidity might profit notably from less invasive procedures. This is the reason for the planed research.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Major surgery (elective or urgent) in vascular surgery and trauma surgery\n* Patient\u00b4s rating according to ASA physical status classification system with 2-4\n* Written consent by patient\n* Age \\> 65\n\nExclusion Criteria:\n\n* ASA 5\n* Patient requiring high doses of catecholamine already before surgery\n* Cognitive or language barriers restricting informant consent of patient\n* Denial of participation by the patient\n* emergency surgery",
+  "minimum_age": "65 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Elderly patients older than 65 years who will participate in vascular or trauma surgery.",
+  "condition": [
+    "Surgery in Elderly Patients",
+    "Hemodynamics",
+    "Pulse Wave Transit Time"
+  ],
+  "overall_status": "COMPLETED"
+}

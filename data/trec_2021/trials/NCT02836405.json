@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02836405",
+  "title": "TMS for the Investigation of Brain Plasticity in Autism Spectrum Disorders",
+  "brief_summary": "The main purpose is to study brain plasticity (the changes that occur in the brain through experience) in individuals with autism spectrum disorder (ASD). Research suggests that during development, the brains of individuals with ASD may change in response to their experiences differently than the brains of typically developing individuals. Investigators want to understand why and how this difference may contribute to the symptoms of ASD.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria at Boston Children's Hospital (children):\n\n* For ASD group:\n\n  1. Clinical diagnosis of a disorder on the autism spectrum.\n  2. Assessment using the Autism Diagnostic Observation Schedule.\n  3. Assessment using the Autism Diagnostic Interview-Revised.\n  4. Children ages 6-16.\n  5. IQ\\>70.\n  6. Verbal.\n\nInclusion Criteria at Beth Israel Deaconess Medical Center (adults):\n\n* For ASD group:\n\n  1. Clinical diagnosis of a disorder on the autism spectrum.\n  2. Assessment using the Autism Diagnostic Observation Schedule.\n  3. Adults ages 21-65.\n\nExclusion Criteria:\n\n* Intracranial pathology, cerebral palsy, history of severe head injury, significant dysmorphology, or known intracranial lesion.\n* History of fainting spells of unknown or undetermined etiology.\n* History of head injury resulting in prolonged loss of consciousness.\n* History of seizures, diagnosis of epilepsy, or immediate family history of epilepsy.\n* Any progressive neurological disorder or signs of intracranial pressure.\n* Chronic uncontrolled medical conditions that may cause a medical emergency in case of a provoked seizure.\n* Metal implants or devices.\n* Substance abuse or dependence within the past six months.\n* Certain prescription medications that decrease cortical seizure threshold.\n* Pregnancy.",
+  "minimum_age": "6 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Children and adults diagnosed with an Autism Spectrum Disorder (ASD), as well as controls.",
+  "condition": [
+    "Autism Spectrum Disorder",
+    "Intellectual Disability"
+  ],
+  "overall_status": "COMPLETED"
+}

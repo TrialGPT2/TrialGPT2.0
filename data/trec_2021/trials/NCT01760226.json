@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01760226",
+  "title": "Dose Adjusted EPOCH-R, to Treat Mature B Cell Malignancies",
+  "brief_summary": "The subject is invited to take part in this research study because s/he has been diagnosed with Diffuse Large B-Cell Lymphoma (DLBCL), Primary Mediastinal B-cell Lymphoma (PMBCL), or Post-transplant Lymphoproliferative Disorder (PTLD).\n\nIn an attempt to improve cure rates while reducing harmful effects from drugs, oncologists are developing new treatment protocols. One such protocol, entitled dose-adjusted EPOCH-R, utilizes two major new strategies. First, the treatment approach utilizes continuous infusion of chemotherapy over four days, instead of being administered over minutes or hours. Secondly, the doses of some medications involved are increased or decreased based on how the drugs affect the subject's ability to produce blood cells, which is used as a measure of how rapidly the body is processing drugs.\n\nUsing this approach in adults, researchers have shown improved cure rates in these cancers. Additionally, the harmful effects experienced by patients has been mild, with mucositis, severe infections, and tumor lysis syndrome occurring rarely. However, this new dosing method has never been used in children, and the effectiveness and side effects of this new method are unknown in children.\n\nThe purpose of this study is to look at the safety of dose-adjusted EPOCH-R in the treatment of children with mature B-cell cancers, and to see if we can maintain cure rates (as has been shown in adults). This study represents the first trial of dose-adjusted EPOCH-R in children.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient with newly diagnosed, histologically confirmed, diffuse large B-cell lymphoma, or primary mediastinal B-cell lymphoma; or patient has post-transplant lymphoproliferative disorder regardless of when diagnosed.\n\nExclusion Criteria:\n\n* Patient has received previous chemotherapy or radiation therapy in the three months prior to therapy, except for empiric initial intrathecal administration at diagnosis\n* Patient who has received any prior anthracyclines.\n* Patient with symptomatic cardiac failure unrelieved by medical therapy or evidence of significant cardiac dysfunction by echocardiogram (shortening fraction \\<28%) NOT due to mediastinal mass.\n* Patient with severe renal disease (i.e. creatinine greater than 3 times normal for age; creatinine clearance less than 50 ml/min/1.73m2).\n* Patient with severe hepatic disease (direct bilirubin greater than 3 mg/dl or AST greater than 500 IU/L).\n* Patient with a Karnofsky performance score \\<50% or Lansky score \\<50%.\n* Patient has been documented HIV positive and is unwilling/unable to stop antiretroviral therapy\n* Female patient who is pregnant or breastfeeding.\n* Patient is of reproductive potential and is not willing to use an acceptable method of birth control\n* Patient has group classification A at diagnosis (completely resected stage I or completely resected stage II abdominal lesions)\n* Patient has group classification B stage I or II disease with normal LDH level AND tumor mass less than 7 cm\n* Patient has primary CNS lymphoma (lymphoma limited to the craniospinal axis without systemic involvement)\n* Patient has Burkitt lymphoma or leukemia",
+  "minimum_age": "",
+  "maximum_age": "30 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Diffuse Large B Cell Lymphoma",
+    "Post Transplant Lymphoproliferative Disorder",
+    "Primary Mediastinal (Thymic) Large B-cell Lymphoma"
+  ],
+  "overall_status": "COMPLETED"
+}

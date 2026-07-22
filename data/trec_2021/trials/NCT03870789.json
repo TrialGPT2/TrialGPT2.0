@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03870789",
+  "title": "Field Paramedic Application of Sepsis Triage",
+  "brief_summary": "Given the implementation of the Hamilton Early Warning Score (HEWS) and the use of capnography by paramedics, this study will involve a large multi-site retrospective evaluation (before vs after implementation) of the HEWS score and comparison of the HEWS to systemic inflammatory response syndrome (SIRS), quick Sepsis Related Organ failure Assessment (qSOFA) and Modified Early Warning Score (MEWS) when applied retrospectively for the identification of sepsis in the prehospital setting.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nAny patient to which paramedics apply the Hamilton Early Warning Score or patients who arrive to the Emergency Department (ED) by ambulance without a pre-alert and meet the definition of sepsis in the ED will also be included, and patient is \u2265 18 years\n\nExclusion Criteria:\n\nPatient is an inter-facility transfer, or patients with absent vital signs are absent, or death before blood can be drawn in the Emergency Department, or the patient fits the criteria for another prehospital alert (ST-elevation myocardial infarction, cerebrovascular vascular accident, or trauma)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adults with suspected infection.",
+  "condition": [
+    "Sepsis"
+  ],
+  "overall_status": "UNKNOWN"
+}

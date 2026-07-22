@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01395875",
+  "title": "Outcomes for Chronic Obstructive Pulmonary Disease Moderate Exacerbators Initiating Treatment",
+  "brief_summary": "Patients with moderate COPD as defined by GOLD guidelines constitute almost 46% to 54% of all diagnosed COPD patients. Yet limited data exists on characterizing this study population in terms of drug therapy patterns and COPD-related resource use and costs. The objective of the following study was to conduct an analysis in the real-world setting to (1) identify and characterize COPD patients with moderate exacerbations and (2) evaluate the impact of initiating different maintenance therapies in this population. Maintenance therapy medications include inhaled corticosteroids (ICS), long-acting beta agonists (LABAs), combination of ICS+LABA, and anticholinergics (ACs) including tiotropium (TIO) and ipratropium or combination ipratropium-albuterol (collectively referred to as ipratropium \\[IPR\\]).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* minimum age 40 years at index\n* continuously enrolled in health plan\n* diagnosis of COPD (ICD-9 codes of 491, 492, 496)\n* at least one moderate exacerbation event as defined previously.\n\nExclusion Criteria\n\n* Exclusionary comorbid conditions of respiratory cancer, cystic fibrosis, fibrosis due to tuberculosis (TB), bronchiectasis, pneumonociosis, pulmonary fibrosis, pulmonary TB, or sarcoidosis\n* Patients excluded if they did not receive treatment within the treatment assessment period following moderate exacerbation\n* Receipt of maintenance medication in the pre-period\n* Presence of treatment switch, discontinuation of index drug, or any COPD-related exacerbation during the treatment assessment period",
+  "minimum_age": "40 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Data from January 1, 2003 to March 31, 2009 will be available and termed as the study period. Patients with at least one moderate exacerbation defined as a physician/outpatient visit with a primary diagnosis of COPD (ICD-9 diagnosis codes) and having an oral corticosteroid (OCS) or antibiotic (ABX) prescription within 5 days of physician/outpatient visit will be identified as the target population. The date of this first moderate exacerbation will serve as the patient's index date, and will be identified during an identification period of January 1, 2004 to March 31, 2008 allowing for a maximum of a 1-year period before (pre-period) and after the index date (follow-up). The specific dates for the pre- and follow-up periods will be different for each patient depending on their index date. Furthermore this index moderate exacerbation should be the first medical claim with a primary diagnosis of COPD to ensure that only patients with moderate exacerbations will be captured.",
+  "condition": [
+    "Pulmonary Disease, Chronic Obstructive"
+  ],
+  "overall_status": "COMPLETED"
+}

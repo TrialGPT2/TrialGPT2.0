@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT01682005",
+  "title": "Study to Analyze the Clinical and Cost Impact of Complete and Incomplete Rotavirus (RV) Vaccination",
+  "brief_summary": "This study aims to estimate the clinical and cost impact of RV vaccinations (both Rotateq\u00ae and Rotarix\u00ae) among children aged less than 5 years using insurance claims data from commercial plans and Medicaid low-income population. The impact of incomplete and complete RV vaccination will also be examined, overall and stratified by age (e.g., 6 weeks to 8 months, 8 months and onwards ) and calendar time of RV vaccination (e.g., 2006 onward).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Continuously enrolled from birth. (Note: Due to the absence of birth dates in insurance claims data, this inclusion criterion will be met if a child's year of first enrollment and year of birth are the same. If so, then the date of first enrollment will be used as proxy for date of birth.)\n* Received both medical and pharmacy benefits.\n\nExclusion Criteria:\n\n* Enrolled in capitation-based health plans.\n* For MarketScan Commercial, residence in states with universal vaccination programs that include the RV vaccine or where RV vaccine inclusion cannot be ascertained (i.e., Alaska, Idaho, Massachusetts, Maine, North Dakota, New Hampshire, New Mexico, Oregon, Rhode Island, Vermont, Washington, Wisconsin, and Wyoming).\n* Lost to follow-up or had RV prior to 6 weeks of age.",
+  "minimum_age": "",
+  "maximum_age": "5 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Children less than 5 years old continuously enrolled in commercial insurance or Medicaid from birth, and received both medical and pharmacy benefits.",
+  "condition": [
+    "Infections, Rotavirus"
+  ],
+  "overall_status": "COMPLETED"
+}

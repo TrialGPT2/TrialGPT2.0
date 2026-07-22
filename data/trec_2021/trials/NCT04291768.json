@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04291768",
+  "title": "Shortened Antibiotic Treatment of 5 Days in Gram-negative Bacteremia",
+  "brief_summary": "GNB5 is an investigator-initiated multicentre non-inferiority randomized controlled trial which aims to assess the efficacy and safety of shortened antibiotic for patients hospitalized with a Gram negative bacteremia with a urinary tract source of infection (GNB).\n\nFive days after initiation of antimicrobial therapy for GNB, participants are randomized 1:1 to parallel treatment arms: 5 days (intervention) or minimum 7 days (control) of antibiotic treatment. The intervention group discontinues antibiotics at day 5 if clinically stable and afebrile. The control group receives antibiotics for a duration of 7 days or longer at the discretion of the treating physician.\n\nThe primary outcome is 90-day survival without clinical or microbiological failure to treatment, which will be tested with a non inferiority margin of 10%.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\>18 years\n* Blood culture positive for Gram-negative bacteria\n* Evidence of urinary tract source of infection (positive urine culture or at least one clinical symptom compatible with urinary tract infection)\n* Antibiotic treatment with antimicrobial activity to Gram-negative bacteria administrated within 12 hours of first blood culture\n* Temperature \\<37.8\u00b0C at randomization\n* Clinically stabile at randomization (systolic blood pressure \\> 90 mm Hg, heart rate \\<100 beats/min., respiratory rate \\<24/minute, peripheral oxygen saturation \\> 90 %)\n* Oral and written informed consent\n\nExclusion Criteria:\n\n* Antibiotic treatment (\\>2 day) with antimicrobial activity to Gram-negative bacteria within 14 days of inclusion\n* Gram-negative bacteremia within 30 days of blood culture\n* Immunosuppression (Untreated HIV-infection, Neutropenia (absolute neutrophil count \\< 1.0 x 109/l), Untreated terminal cancer, Receiving immunosuppressive agents (ATC-code L04A), Corticosteroid treatment (\u226520 mg/day prednisone or the equivalent for \\>14 days) within the last 30 days, Chemotherapy within the last 30 days, Immunosuppressed after solid organ transplantation, Asplenia)\n* Polymicrobial growth in blood culture\n* Bacteremia with non-fermenting Gram-negative bacteria (Acinetobacter spp, Burkholderia spp, Pseudomonas spp), Brucella spp, or Fusobacterium spp\n* Failure to remove source of infection within 72 hours of first blood culture (e.g. change of catheter \u00e1 demeure)\n* Pregnancy or breastfeeding",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Gram-negative Bacteremia",
+    "Urinary Tract Infection Bacterial"
+  ],
+  "overall_status": "RECRUITING"
+}

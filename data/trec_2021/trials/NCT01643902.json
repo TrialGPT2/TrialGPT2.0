@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01643902",
+  "title": "Safety of Intravenous Thrombolytics in Stroke on Awakening",
+  "brief_summary": "The primary objective of this study is to evaluate the safety of intravenous tissue plasminogen activator (IV tPA) in patients waking up with symptoms of acute stroke and presenting to the Emergency Department (ED) within 4.5 hours from awakening, and meeting standard criteria for treatment with IV tPA for acute stroke.\n\nThe hypothesis is that patients that wake up with stroke symptoms may have developed the stroke at the time of awakening, and may be within the 4.5 hour window if they arrive to the ED within that time, therefore IV tPA should be safe and effective in this population.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age greater or equal to 18 years, and lower or equal to 80 years.\n* Signs and symptoms of acute ischemic stroke.\n* Symptoms present upon awakening.\n* Arriving to the Emergency Department within 4.5 hours of awakening. Treatment with IV tPA must be initiated prior to 4.5hours from waking up.\n* NIHSS \\>3\n* A non-contrast head CT without hemorrhage and without hypodensity more than 1/3 of the middle cerebral artery (MCA) territory; or MRI demonstrating no hemorrhage, and with a diffusion-weighted imaging (DWI) lesion no greater than 70 mL and FLAIR without a well defined hyperintense lesion that is more than 1/3 of the MCA territory.\n* Pre-morbid modified Rankin score of 0 or 1.\n\nExclusion Criteria:\n\n* Rapidly improving deficit to an NIHSS less than 3.\n* Sustained systolic blood pressure greater than 185 mmHg or diastolic blood pressure greater than 110 mmHg despite treatment.\n* Glucose less than 50 mg/dL.\n* Stroke or head trauma within last 3 months.\n* History of intracranial hemorrhage. Symptoms of subarachnoid hemorrhage.\n* Major surgery within 14 days.\n* Gastrointestinal (GI)/Genito-urinary (GU) hemorrhage within 21 days.\n* International normalized ratio (INR) \\> 1.7.\n* Heparin within 48 hours with an elevated activated partial thromboplastin time (aPTT).\n* Platelet count less than 100,000.\n* Presumed septic embolus or suspicion of bacterial endocarditis.\n* Suspicion of aortic dissection.\n* Use of anticoagulants such as dabigatran, rivaroxaban, apixaban, enoxaparin.\n* Pregnant or lactating women.\n* Known allergy or sensitivity to tPA.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke"
+  ],
+  "overall_status": "COMPLETED"
+}

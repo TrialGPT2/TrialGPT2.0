@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01130181",
+  "title": "VITdAL@ICU - Correction of Vitamin D Deficiency in Critically Ill Patients",
+  "brief_summary": "Study hypothesis:\n\nHigh-dose vitamin D leads to a shorter hospital stay in critically ill patients\n\nVitamin D deficient patients will be randomized to receive either 540,000 IU cholecalciferol or placebo.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \u226518 years\n* expected ICU stay \u226548 hours\n* vitamin D deficiency: 25(OH)D \u2264 20 ng/ml\n* feasibility of study drug application via nasogastric tube in cases where oral food intake is not possible\n\nExclusion Criteria:\n\n* moribund patient expected to die within 24 hours\n* hypercalcaemia (total calcium \\>2.65 OR ion. calcium \\>1.35 mmol/l)\n* severely impaired gastrointestinal motility (ileus, residual gastric volume \\> 400 ml)\n* known history of recent kidney stones (\u2264 1 year)\n* known granulomatous diseases (tuberculosis, sarcoidosis)\n* pregnancy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Critical Illness",
+    "Vitamin D Deficiency"
+  ],
+  "overall_status": "COMPLETED"
+}

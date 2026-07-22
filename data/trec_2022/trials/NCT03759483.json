@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03759483",
+  "title": "Diagnostic Efficacy of CNN in Differentiation of Visual Field",
+  "brief_summary": "Glaucoma is currently the leading cause of irreversible blindness in the world. The multi-center study is designed to evaluate the efficacy of the convolutional neural network based algorithm in differentiation of glaucomatous from non-glaucomatous visual field, and to assess its utility in the real world.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age\u226518;\n2. Informed consent obtained;\n3. Diagnosed with specific ocular diseases;\n4. Able to perform visual field test\n\nExclusion Criteria:\n\nIncomplete clinical data to support diagnosis",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients from clinics in different eye centers across China. Each subject must be diagnosed based on comprehensive medical tests and medical records. The leading center will read all the medical data to give out diagnosis as the gold standard.",
+  "condition": [
+    "Diagnositic Efficacy of Deep Convolutional Neural Network in Differentiation of Glaucoma Visual Field From Non-glaucoma Visual Field"
+  ],
+  "overall_status": "COMPLETED"
+}

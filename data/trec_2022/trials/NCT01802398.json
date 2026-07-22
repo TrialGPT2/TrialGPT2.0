@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01802398",
+  "title": "Improving Syncope Risk Stratification in Older Adults",
+  "brief_summary": "Syncope (temporary loss of consciousness) is a frequent reason for an emergency department (ED) visit among older adults. The current ED evaluation of syncope frequently leads to hospitalization, results in low diagnostic yield, and is enormously costly. The purpose of this protocol is to improve risk prediction for syncope. Improved risk prediction will inform the design of interventions to safely reduce unnecessary health service use.\n\nThis is a multi-center, prospective, observational cohort study of older (age\u226560 years) adults who present to an emergency department with syncope (otherwise known as fainting). The primary outcome is a composite of 30-day cardiac death and serious cardiac events.\n\nStudy Aims and Hypotheses are:\n\nSpecific Aim 1. Describe serious outcomes after unexplained syncope; rates and reasons for admission; and frequency, diagnostic yield, and therapeutic impact of inpatient diagnostic tests.\n\nH1: Current patterns of care representing a diversity of practice settings and patient populations are costly with low clinical benefit.\n\nSpecific Aim 2. Derive and validate a novel risk prediction model for 30-day cardiac death and serious cardiac outcomes after unexplained syncope.\n\nH2: Explicit criteria including contemporary cardiac biomarkers will improve risk stratification compared to unstructured physician assessment and published risk models.\n\nSpecific Aim 3. Assess safety and costs of a risk-tailored diagnostic algorithm compared to existing care for unexplained syncope.\n\nH3: A risk-tailored diagnostic algorithm can safely reduce the costs of evaluating unexplained syncope in older adults.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. age\u226560 years; AND\n2. a complaint of syncope or near-syncope. Syncope is defined as a transient loss of consciousness (LOC), associated with loss of postural tone, with immediate, spontaneous, and complete recovery. Near-syncope is the sensation of imminent syncope without loss of consciousness.\n\nExclusion Criteria:\n\n* Seizure as presumptive cause of LOC\n* Stroke or transient ischemic attack as presumptive cause of LOC\n* LOC AFTER head trauma Confusion from baseline mental status\n* Intoxicated (alcohol or other drugs)\n* Medical or electrical intervention to restore consciousness\n* Hypoglycemia as presumptive cause of LOC\n* inability to provide follow-up information, including patients who do not speak English (or Spanish, if applicable for study site), lack phone access, or lack a permanent address\n* Inability or unwillingness of individual or legal guardian/representative to give written informed consent",
+  "minimum_age": "60 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Emergency Departments (ED)",
+  "condition": [
+    "Syncope"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT00707941",
+  "title": "Oseltamivir Randomised Controlled Efficacy Trial",
+  "brief_summary": "Background In preparation for a global influenza pandemic, there is an urgent need for representative data from populations and settings where the pandemic is most likely to arise. There are no data on oseltamivir efficacy from Asian urban slum populations concerning duration of illness and viral shedding, nor whether efficacy depends on starting treatment \\< 48 hours or \u2265 48 hours after illness onset. Finally, there are no data on the capacity of the drug, in such settings, to affect household and community transmission rates.\n\nAims and Objectives This proposal aims to compare the duration of clinical illness among patients treated with oseltamivir vs placebo \\< 48 hours and \u2265 48 hours after illness onset. It will compare the duration of viral shedding among all treatment groups vs placebo, risk of transmission to household contacts by treatment group and whether neuraminidase inhibitor use creates resistance. Secondarily it aims to measure the effect on influenza.\n\nDesign and Methods A double-blind placebo controlled clinical trial design among a population in an urban slum under current influenza disease burden surveillance will be enrolled. Infection status will be confirmed by rRT-PCR. Patients \u2265 1 year old will be randomised to \\< 48 hour and \u2265 48 hour treatment arms. Family members and neighbours will also be assessed by PCR and a basic reproductive number calculated (R0).\n\nRelevance These findings will address whether oseltamivir can affect illness duration and severity, affect transmission, incidence and resistance in high risk urban Asian settings where a pandemic is most likely to arise.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Persons at least one year old residing in randomly selected households with at least one major illness sign, or if absent at least two minor illness signs who are rapid test positive for either influenza A or influenza B.\n\nExclusion Criteria:\n\n* Persons with a history of non-febrile convulsions or\n* Persons who are taking anticonvulsive agents, or\n* Persons who have a nonrespiratory comorbid condition requiring immediate medical intervention, or\n* Persons who are pregnant.",
+  "minimum_age": "1 Year",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Influenza",
+    "Pneumonia",
+    "Lower Respiratory Tract Infection",
+    "Upper Respiratory Tract Infection",
+    "Viral Shedding"
+  ],
+  "overall_status": "COMPLETED"
+}

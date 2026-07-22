@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04647448",
+  "title": "Multisensor Array for the Localisation of Coronary Artery Stenosis (MALCAS)",
+  "brief_summary": "This is a proof of concept study involving a novel medical device, developed to investigate the potential for detecting and localising coronary artery stenosis. A prototype device will be used in the proposed clinical investigation. It is a stick-on patch containing sensors which measure the sound produced at and the movement of, the chest surface by flowing blood as it accelerates through the stenosis and becomes disturbed as it emerges downstream, allowing the blockage to be detected and localised non-invasively.\n\nThe proposed clinical investigation will involve a small number of patients and healthy volunteers. The patients will be drawn from those attending The BartsHeart Centre for suspected or diagnosed coronary artery disease and all clinical measurements will take place at Barts Health Trust. The patch to be used in the proposed clinical investigation incorporates commercially available sensors and will be tested by recording acoustic signatures in healthy volunteers, then in patients undergoing coronary CT angiography at Barts. Signals will be analysed initially by measuring their acoustic energy at various frequencies and in later iterations, by a machine-learning algorithm. Results will be validated against the CT angiography gold standard.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria (healthy volunteers):\n\n* Healthy\n* Not pregnant\n\nInclusion Criteria (patients):\n\n* Presenting with chest pain with possibility of coronary artery disease\n* No infectious disease or neoplasia\n\nExclusion Criteria (healthy volunteers):\n\n* Considered by the study clinician to be unsuitable to participate\n* Considered by the clinical research team to be incapable of providing written informed consent for any reason.\n\nExclusion Criteria (patients):\n\n* Considered by the clinical research team to be incapable of providing written informed consent for any reason.\n* Considered by their healthcare professional to be unsuitable to participate\n* Participation in another ongoing drug or medical device study\n* Participation in a drug study within the 3 months prior to the date of potential enrolment into this study",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Male and female, minimum age 18 years. Healthy volunteers selected by advertisement Patients selected from those attending Barts Heart Centre for elective coronary CT angiography.",
+  "condition": [
+    "CORONARY ARTERY DISEASE"
+  ],
+  "overall_status": "WITHDRAWN"
+}

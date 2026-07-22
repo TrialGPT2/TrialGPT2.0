@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03018431",
+  "title": "CT Scan and Lung Ultrasonography to Improve Diagnostic of Ventilation Acquired Pneumonia in ICU",
+  "brief_summary": "We aim to show that systematic ultrasonography performed in ventilated patients suspected of ventilation-acquired pneumonia could improve the accuracy of diagnostic of pneumonia, and helps defining the diagnostic of tracheobronchitis when lower respiratory tract infection is considered.\n\nChest CT scan is often performed before or just after admission in ICU, and usually show abnormalities that are revealed later on standard radiographs.\n\nThis last exam is traditionally considered as the gold standard to prove new pulmonary infiltrates, but the correlation with parenchymal consolidation is pretty low, and lead to over-diagnosing pneumonia, thus leading to a massive and maybe sometimes unconsidered prescription of antibiotic therapy.\n\nLung ultrasonography conducted systematically within the 3 first days after suspcion of pneumonia could help making the difference between real infection-linked lesions, and banal abnormalities following the hydric inflation of intra-thoracic organs, for instance pulmonary edema or pleural effusion.\n\nAn independent evaluation using lung ultrasound, and analysis of CT scan acquisition when performed, compared with the physician in charge of the patient appreciation by suggesting him to provide his own probability of pneumonia upon routine clinical and biological datas.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Immunocompetent subject,\n* fever and/or purulent tracheal secretions and/or hyperleukocytosis or leukopenia, associated with a positive microbiological sample (within broncho-alveolar leakage, endotracheal aspiration, or distal sample),\n* invasive mechanical ventilation initiated since at least 48hours, and suppose to be maintained for at least 48hours\n\nExclusion Criteria:\n\n* Immunocompromised-patients defined by ; HIV treated or not, patient under corticotherapy, immunotherapy, inflammatory systemic diseases, solid organ transplant, solid tumor treated or not, bone marrow transplant or stem cells graft, hematological malignancy known or under treatment,\n* moribond,\n* ventilation expected to last less than 48hours,\n* minor-aged patients,\n* no social insurance or isolation,\n* mental disability making the understanding of the purpose of too difficult.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Every patient place under mechanical ventilation at least for 48 hours, suspected of lower respiratory tract infection, based on CDC criterias of ventilatior-acquired pneumonia.",
+  "condition": [
+    "Ventilator-Associated Pneumonia",
+    "Tracheobronchitis"
+  ],
+  "overall_status": "UNKNOWN"
+}

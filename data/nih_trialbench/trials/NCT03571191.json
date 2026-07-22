@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT03571191",
+  "title": "Denosumab Treatment for Fibrous Dysplasia",
+  "brief_summary": "Objectives:\n\nThe primary objective of this study is to evaluate the effect of denosumab on bone turnover in individuals with fibrous dysplasia (FD). Secondary objectives are to determine the effect of denosumab on bone pain, FD lesion intensity as revealed in 18F-sodium fluoride PET/CT bone scan, and to determine the effect of denosumab discontinuation on bone turnover re-bound after discontinuation.\n\nStudy Population:\n\nUp to 14 adult subjects with FD may be enrolled to ensure complete study data on 9 subjects.\n\nDesign:\n\nThis study is a single center, open label pilot study of once-monthly dosing of denosumab. Subjects will be treated for 6 months, after which they will be followed by an 8-month observation period. A final visit will occur 21 months after denosumab discontinuation. Dosing will be adopted from studies in adults on treatment for giant cell tumors, with denosumab administered at 120 mg per dose every 4 weeks, with loading doses on days 7 and 14 of month 1.\n\nOutcome Measures:\n\nPrimary:\n\nAssessment of the effects of denosumab on:\n\n1\\. Markers of bone turnover:\n\nBeta-crosslaps C-telopeptides (bone resorption marker)\n\nProcollagen-1-propeptide (bone formation marker)\n\nSecondary:\n\nAssessment of the effects of denosumab on:\n\n1. Bone histomorphometric indices:\n\n   Mineralized perimeter\n\n   Bone formation rate\n\n   Cortical width\n\n   Cortical area\n\n   Osteoid width\n\n   Osteoid perimeter\n\n   Mineral apposition rate\n2. Surrogate markers of a direct therapeutic effect of denosumab on FD lesions:\n\n   Semi-quantitative changes in RANKL, Ki67 (marker of cell proliferation), p16 (marker of cell senescence), and/or apoptosis index before and after treatment, as assessed by immunohistochemistry\n\n   Changes in sentinel lesion intensity, measured quantitatively by uptake on 18Fsodium fluoride PET/CT bone scan.\n3. FD-related bone pain assessed by the Brief Pain Inventory (Short Form) , a validated self-reporting tool for assessment of pain.\n\nExploratory Endpoints:\n\n1. Effect of denosumab initiation and discontinuation on\n\n   Serum calcium, phosphorus and parathyroid hormone\n\n   Serum RANKL and osteoprotegerin (OPG), and RANKL/OPG levels\n2. Effect of denosumab discontinuation, as measured by the following outcomes:\n\n   Biochemical markers of bone metabolism: beta-crosslaps C-telopeptides, procollagen-1 propeptide, bone specific alkaline phosphatase, osteocalcin, NTX-telopeptides\n3. Effect measured by change in other outcome measures, such as:\n\nBone density assessed by DXA\n\nPhysical Medicine and Rehabilitation evaluation",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Age \\> or equal to 18 years\n  2. Skeletal maturity with fusion of epiphyses documented radiographically\n  3. Concomitant enrollment in the companion Screening and Natural History protocol 98-D-0145\n  4. Confirmed diagnosis of Fibrous Dysplasia\n  5. Self-reported FD-related bone pain at a site of FD, present for at least 3 months\n  6. Ability to understand and provide informed consent\n  7. Willing and able to complete the protocol scheduled assessments and medication regimen\n  8. Willing and able to take calcium and vitamin D supplements provided by NIH\n  9. Women of child bearing potential must use two forms of acceptable contraception: hormonal contraception (birth control pills, injected hormones or vaginal ring); intrauterine device and/or barrier methods (condom or diaphragm) used with spermicide. Surgical sterilization (hysterectomy, tubal ligation, or vasectomy in a partner) is considered one form of contraception therefore only one other form of contraception will be required in these subjects. Verbal confirmation will be obtained at screening that two forms of acceptable contraception are being used, and that the subjects agree to use the two forms of contraception from the time they sign study consent through five months after study completion (19 months total).\n  10. Serum calcium or albumin-adjusted serum calcium within the normal range for the NIH laboratory.\n\nEXCLUSION CRITERIA:\n\n1. Administration of denosumab within the previous year\n2. Use of bisphosphonates within one year prior to first day of the denosumab administration (Day 0). Examples of bisphosphonates include: pamidronate (Aredia), Alendronate (Fosamax) and Zoledronate (Zomata).\n3. Prior history, or current evidence, of osteomyelitis/osteonecrosis of the jaw or presence of an active dental or jaw condition which requires oral surgery\n4. Planned invasive dental procedure for the course of the study\n5. Presence of non-healed dental or oral surgery\n6. Orthopedic procedure performed less than 12-weeks prior to first day of the denosumab administration (Day 0)\n7. Acute fracture less than 12-weeks prior to first day of the denosumab administration (Day 0)\n8. 25-hydroxyvitamin D level than 30 ng/mL (patients will be eligible for re-screening after a repletion period lasting no longer than 6 months)\n9. Untreated or inadequately treated hypophosphatemia, defined as serum phosphate levels below the NIH normal range (patients will be eligible for re-screening after initiation or optimization of phosphorus replacement no longer than 6 months)\n10. Subject is pregnant or breast feeding, or planning to become pregnant or breastfeed while on study and through 5 months after completion of treatment\n11. Use of another investigational agent within the last 3 months prior to the first day of the denosumab administration (Day 0)\n12. Subject has known sensitivity to any of the products to be administered during the study (e.g. polyketide antibiotics, mammalian derived products, calcium, or vitamin D)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Bone Diseases",
+    "Pain"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a single-arm pilot study of denosumab in adults with fibrous dysplasia. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, as fibrous dysplasia is a benign bone disorder and not an advanced malignancy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference prior systemic therapy for advanced disease, and fibrous dysplasia is not a malignant condition. There are no requirements or exclusions based on prior lines of therapy for advanced/metastatic disease."
+    }
+  ]
+}

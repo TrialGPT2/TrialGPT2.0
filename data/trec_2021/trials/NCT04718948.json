@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04718948",
+  "title": "Multimodal Spectroscopy to Detect Urothelial Cancer in Urine",
+  "brief_summary": "To facilitate the follow-up of urothelial tumors and also make them more tolerable and less invasive for patients, there is a minimally invasive and easy to perform examination which is urinary cytology on 3 samples. This test is extremely specific, over 90% chance of cancer if it is positive and is performed by expert cytopathologists, but it is burdened by a very low sensitivity, which is especially acute in the case of low grade tumors. This makes it an extremely useful test in case of positivity, but of little use if negative or doubtful, not being able to consider it reliable.\n\nTo overcome this problem, our study aims to bring an approach based on a physical principle, that is spectroscopy, which is fast non-invasive and does not require the use of additional substances or contrast media in the diagnosis of urothelial neoplasms in samples of urine.\n\nIn our experience, multimodal optical fiber spectroscopy has proved extremely valid in discriminating healthy urothelial tissue from tumor ex vivo, as well as providing important information on the degree of urothelial neoplasia, with accuracy rates higher than 80%, for which developed the idea of a technique based on multimodal spectroscopy.\n\nIf our method proves valid, it could improve the follow up and management of patients with urothelial cancer, being able to support normal cytology and provide further support to the cytopathologist, as well as simplify the diagnosis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "CASES Inclusion criteria\n\nPatients over the age of 18 who are known for urological interventions for the following pathologies will be considered for enrollment in the group of cases:\n\n* Bladder cancer\n* Urethral tumor\n* Renal Pelvis Tumor\n* Ureteral tumor\n\nThe exclusion criteria will be:\n\n* Age under 18\n* Pregnancy\n* Lack of informed consent\n* Persons with indwelling catheter\n* Presence of prostate cancer\n* Presence and / or history of renal cancer, except tumors of the renal pelvis\n\nCHECKS Inclusion criteria\n\nPatients over the age of 18 who are known for urological interventions for the following pathologies will be considered for enrollment in the control group:\n\n* Kidney, ureteral or bladder stones\n* BPH\n\nThe exclusion criteria will be:\n\n* Age under 18\n* Pregnancy\n* Lack of informed consent\n* Indwelling Catheter wearers\n* Presence of prostate cancer\n* Presence of kidney cancer, including kidney pelvic tumors\n* Presence and / or history of ureteral cancer\n* Presence and / or history of bladder cancer\n* Presence and / or history of urethral cancer",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who meet the inclusion and exclusion criteria will be enrolled at Urology ward admission. Informed consent will be collected. Patients therapeutic routine will be unaffected.\n\nIn the morning before surgery, the patient will collect urine sample. The patient will then continue the previously established diagnostic therapeutic process. The sample will be brought to the spectroscopic and cytological analysis. Samples will not be stored.\n\nAccording to the sample size calculation based on the asymptotic normal distribution theory, a total of 240 cases and 240 controls will be required if the study is to have 90% power. A series of 5000 simulations generating binary test data with a true positive frequency and a true negative frequency of 80% showed that these sample sizes produce 89% power. Increasing the sample size to 250 cases and 250 controls increases the potency to 90%. Therefore, approximately 250 cases and 250 controls will be enrolled in this phase 2 validation study.",
+  "condition": [
+    "Urothelial Carcinoma",
+    "Urinary Bladder Cancer",
+    "Urinary Tract Cancer"
+  ],
+  "overall_status": "UNKNOWN"
+}

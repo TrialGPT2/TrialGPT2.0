@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT01110421",
+  "title": "A Safety and Tolerability Study of Doripenem Compared With Cefepime in Hospitalized Children With Bacterial Pneumonia",
+  "brief_summary": "The purpose of this study is to evaluate the safety and tolerability of doripenem compared to cefepime in children hospitalized with pneumonia.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Require parenteral antibacterial therapy for the treatment of pneumonia\n* Have new or progressive radiographic infiltrate(s) (alveolar, lobar, or consolidation) consistent with a bacterial pneumonia that is not related to cardiac or other disease processes\n* Must, based on the judgment of the investigator, require hospitalization initially and antibacterial therapy for 10 to 14 days for the treatment of the current pneumonia. (Note that the patient must require at least 3 days of IV antibiotic therapy initially)\n* Have a diagnosis of nosocomial pneumonia , severe community-acquired pneumonia, or ventilator-associated pneumonia, defined by the disease-specific criteria as stated in the study protocol\n* Have a clinical presentation compatible with bacterial pneumonia( with fever or hypothermia AND leukocytosis OR leucopenia AND at least 2 of the following clinical signs or symptoms in non-intubated patients: cough, new onset of lower respiratory tract secretions (including change in character of secretions or increase in the quantity of secretions or suctioning requirements), auscultatory findings of pneumonia or consolidation (rales, rhonchi bronchial breath sounds, decreased breath sounds, wheezing, and egophony), dyspnea, increased work of breathing expressed as retractions, nasal flaring, or grunting, hypoxemia or oxygen saturation less than 90% on room air, and tachypnea\n\nExclusion Criteria:\n\n* Received more than 24 hours of systemic antibacterial therapy in the 48 hours before the start of the infusion of the first dose of study drug for the current episode of pneumonia\n* Known presence at randomization of pulmonary infection caused only by bacteria that is resistant to cefepime or doripenem (including methicillin resistant Staphylococcus aureus) or presence at baseline of pulmonary infection with Stenotrophomonas species, or Burkholderia cepacia\n* Has any of the following conditions at baseline that may interfere with the diagnosis or response to therapy: chest trauma with severe lung contusion, acute respiratory distress syndrome, empyema, flail chest (severe injury to the chest), history of active lung cancer, chronic bronchitis with an exacerbation within the last 30 days, bronchiectasis (an obstructive lung disease), lung abscess(s), anatomical bronchial obstruction, active pulmonary tuberculosis with treatment, suspected pulmonary tuberculosis, suspected or documented atypical viral pneumonia without bacterial superinfection, suspected or documented pertussis, chemical pneumonitis (eg, aspiration of gastric contents, inhalation injury), or cystic fibrosis\n* The patient has any of the following clinically significant laboratory abnormalities: hematocrit of less than 20%\n* absolute neutrophil count (ANC) \\<500 cells/microL, platelet count \\<40,000 cells/microL, serum alanine aminotransferase (ALT), aspartate aminotransferase (AST), or total bilirubin \\>5x the age specific upper limit of normal, acute or chronic renal insufficiency with a baseline creatinine clearance of \\<60 mL/minute or requires dialysis therapy for any reason, or are profoundly immunodeficient and require prophylactic antimicrobial therapy for Pneumocystis jirovicei, Toxoplasma gondii, or herpes viruses, and/or chronic or intermittent immunoglobin replacement therapy.",
+  "minimum_age": "3 Months",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pneumonia, Bacterial",
+    "Community-Acquired Infections",
+    "Nosocomial Infection",
+    "Pneumonia, Ventilator-Associated"
+  ],
+  "overall_status": "TERMINATED"
+}

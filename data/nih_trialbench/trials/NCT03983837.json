@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT03983837",
+  "title": "Elemental Diet for Treatment of Inflammatory Bowel Disease in Patients With Chronic Granulomatous Disease",
+  "brief_summary": "Background:\n\nBacteria that live inside the stomach and intestines are important for health. Chronic granulomatous disease (CGD) and inflammatory bowel disease (IBD) can make people have unhealthy bacteria. This can lead to gastrointestinal (GI) problems. Researchers want to see if people with CGD and IBD feel better when they change the bacteria in the stomach by following a special liquid diet.\n\nObjective:\n\nTo see if an elemental diet can change the bacteria in the stomach and intestines of people with CGD and IBD. Also, to see if this helps GI symptoms.\n\nEligibility:\n\nPeople ages 8-65 years with CGD, CGD-associated colitis, and IBD.\n\nDesign:\n\nParticipants will first be screened with:\n\nUpper GI endoscopy and/or colonoscopy. A long, thin tube with a tiny camera at the end will be passed into the participant s body through the mouth or anus. Tissue will be collected. Participants will be sedated for the procedure. They will be sedated using a special mask or small plastic tube placed in an arm vein using a needle.\n\nParticipants will be put on the special diet for up to 4 weeks. They will stay in the hospital for up to 2 weeks. They will have check-ups. They will have blood, urine, and stool samples collected. They will keep a symptom diary to record how they feel and any GI symptoms.\n\nParticipants will have 2 follow-up visits. The first will be right after they finish the diet. The second will be 4 weeks later. They will have blood, urine, and stool samples collected. They will learn about re-introducing other foods into their diet.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIndividuals must meet all of the following criteria to be eligible for study participation:\n\n* Aged 8-65 years.\n* Have confirmed diagnoses of CGD, CGD-associated colitis, and IBD.\n* Have a Simple Endoscopic Score for Crohn Disease (SES-CD) \\> 3 and/or HBI \\>= 5.\n* Able to provide informed consent.\n* Willing to allow storage of biological samples for future research.\n* Willing to allow genetic testing on biological samples.\n* Willing to be admitted as inpatient for up to 2 weeks to initiate the elemental diet.\n\nEXCLUSION CRITERIA:\n\n* Pregnancy.\n* Active or ongoing infection that requires antibiotics other than the participant s known prophylaxis medications.\n* Any condition that, in the opinion of the investigator, contraindicates participation in this study will be excluded from study participation.",
+  "minimum_age": "8 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chronic Granulomatous Disease",
+    "Inflammatory Bowel Disease"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial investigates the effect of an elemental diet in patients with chronic granulomatous disease (CGD) and inflammatory bowel disease (IBD), without specifying any prior systemic therapy requirements. There are no restrictions or requirements regarding prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "any line",
+      "line_of_therapy_text": "The eligibility criteria do not mention any requirements or restrictions regarding prior systemic therapy for advanced disease. Patients may enroll regardless of prior treatment history."
+    }
+  ]
+}

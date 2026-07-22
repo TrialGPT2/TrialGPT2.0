@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04219306",
+  "title": "Machine Learning Assisted Recognition of Out-of-Hospital Cardiac Arrest During Emergency Calls.",
+  "brief_summary": "Emergency medical Services Copenhagen has developed a machine learning model that analyzes the calls to 1-1-2 (9-1-1) in real time. The model are able to recognize calls where a cardiac arrest is suspected. The aim of the study is to investigate the effect of a computer generated alert in calls where cardiac arrest is suspected.\n\nThe study will investigate\n\n1. whether a potential increase in recognitions is due to machine alerts or the increased focus of the medical dispatcher on recognizing Out-of-Hospital cardiac Arrest (OHCA) when implementing the machine\n2. if a machine learning model based on neural networks, when alerting medical dispatchers will increase overall recognition of OHCA and increase dispatch of citizen responders.\n3. increased use of automated external defibrillators (AED), cardiopulmonary resuscitation (CPR) or dispatch of citizen responders in cases of OHCA on machine recognised OHCA vs. medical dispatcher recognised OHCA.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Call regarding a cardiac arrest registered in the national Danish Cardiac Arrest Registry\n* OHCA is recognized by machine-learning model\n* Call originates from 1-1-2\n\nExclusion Criteria:\n\n* OHCA Emergency Medical Services - witnessed\n* Call is from another authority (police or fire brigade)\n* Call is a repeat call\n* Call has been on hold for conference",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Out-Of-Hospital Cardiac Arrest"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04671979",
+  "title": "Serum Lactate in Acute Mesenteric Ischemia",
+  "brief_summary": "Background: Acute mesenteric ischemia is a vascular emergency with high mortality because of ambiguous symptomatology and a lack of early diagnostic markers. Lactate dehydrogenase has been described as a mortality biomarker and bowel necrosis length too. Nevertheless, the association between them has been mildly studied. Our objective was to evaluate the association between serum lactate admission levels, bowel necrosis extension, and mortality. Additionally, we performed a mortality characterization.\n\nMaterials and Methods: A retrospective cross-sectional study was designed. We reviewed patients' clinical records with acute mesenteric ischemia that attended a hospital between 2012 and 2018. We compared serum lactate admission levels with bowel necrosis length and mortality. A receiver operating characteristic curve was performed on the last association. As post hoc analysis, a classification and regression tree on mortality was fitted.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Older than 18 years of age\n* Required urgent laparotomy with a postoperative diagnosis of acute mesenteric ischemia\n* Attended the private academic hospital, between 2012 and 2018\n* Had a registered serum lactate dehydrogenase at admission\n\nExclusion Criteria:\n\n* Secondary causes of AMI\n* Chronic intestinal ischemic\n* Patient records with no description of the serum lactate dehydrogenase or extension of intestinal necrosis",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Seventy-four cases were identified that met the study's criteria. The patients' average age was 73.5 (SD, 10.7) years, and 44 (60%) were men. The mean body mass index was 25 (SD, 2.9) kg/m2. Fifteen (20%) of the patients presented non-occlusive acute mesenteric ischemia.",
+  "condition": [
+    "Mesenteric Ischemia"
+  ],
+  "overall_status": "COMPLETED"
+}

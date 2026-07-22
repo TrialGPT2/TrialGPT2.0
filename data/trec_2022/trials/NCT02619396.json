@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02619396",
+  "title": "RF Power, LSI and Oesophageal Temperature Alerts During AF Ablation (PiLOT-AF Study)",
+  "brief_summary": "Atrial fibrillation (AF) is a very common abnormal heart rhythm, triggered by rapid electrical activity originating from the pulmonary veins (PVs) that drain blood from the lungs back to the left atrium (LA). Ablation of the junction between the PVs and the LA, electrically isolating the veins from the heart, is the key to prevent AF.\n\nWhen using radiofrequency energy (RF), transmural lesions are required to achieve permanent pulmonary vein isolation (PVI). New technologies are currently available to predict the ablation lesion depth and to guide the duration of each application. However, deeper lesions mean a higher risk of overheating and damage of adjacent structures such as the esophagus that lies against the back wall of the LA. In order to minimize this risk, the investigators continuously monitor the temperature inside the esophagus during the procedure through a probe placed in the esophagus and they promptly terminate energy delivery in case of any esophageal temperature rises more than 39\u00b0C.\n\nTo date, it is not known if a low power for a longer time is better than a high power for a shorter time when ablating on the LA posterior wall in order to create permanent scars without heating the esophagus.\n\nTherefore, the investigators plan to compare the incidence of esophageal temperature alerts and the success of the procedure with four different energy settings during ablation on the LA posterior wall.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* male or female, aged 18 to 80 years;\n* willing and able to give informed consent for participation in the study;\n* history of symptomatic and drug-refractory atrial fibrillation;\n* planned atrial fibrillation (AF) ablation on a clinical basis.\n\nExclusion Criteria:\n\n* previous AF ablation;\n* pregnancy, trying for a baby or breast feeding;\n* oesophageal obstruction (mass, stricture), diverticulum or varices, tracheo-oesophageal fistula or any other oesophageal conditions prohibiting the use of oesophageal temperature probe for continuous luminal temperature monitoring;\n* any other significant disease or disorder which, in the opinion of the investigator, may either put the participants at risk because of participation in the study, or may influence the result of the study, or the participant's ability to participate in the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Atrial Fibrillation"
+  ],
+  "overall_status": "COMPLETED"
+}

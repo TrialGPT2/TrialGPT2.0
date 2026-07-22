@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT01322165",
+  "title": "National Registry of Genetically Triggered Thoracic Aortic Aneurysms and Cardiovascular Conditions",
+  "brief_summary": "The National Registry of Genetically Triggered Thoracic Aortic Aneurysms and Cardiovascular Conditions (GenTAC) was initiated in 2006 by the National Heart, Lung, and Blood Institute (NHLBI) and the National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS). GenTAC established a registry of 3706 patients with genetic conditions that may be related to thoracic aortic aneurysms and collected medical data and biologic samples. The study ended in September 2016. Data and samples are available from NHLBI and requests should be made to BioLINCC. See the NHLBI website for more information: https://www.nhlbi.nih.gov/research/resources/gentac/.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Eligible subjects must have one of the conditions listed below and be enrolled in-person at one of the participating clinical centers.Contact the study coordinator at the location nearest you for more information about participation.\n\n* Marfan syndrome\n* Turner syndrome\n* Ehlers-Danlos syndrome\n* Loeys-Dietz syndrome\n* FBN1, TGFBR1, TGFBR2, ACTA2 or MYH11 genetic mutation\n* Bicuspid aortic valve without known family history\n* Bicuspid aortic valve with family history\n* Bicuspid aortic valve with coarctation\n* Familial Thoracic Aortic Aneurysm and DissectionsYes\n* Shprintzen-Goldberg syndrome\n* Other aneurysms and dissections of the thoracic aorta not due to trauma, \\<50yo\n* Other congenital heart disease (e.g., Tetralogy of Fallot, coarctation)\n\nExclusion Criteria:\n\n* Inability of the patient, parent or guardian to give consent.\n* Unwillingness to provide a blood or buccal specimen.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The cohort consists of patients with conditions related to genetically-induced thoracic aortic aneurysms.",
+  "condition": [
+    "Marfan Syndrome",
+    "Turner Syndrome",
+    "Ehlers-Danlos Syndrome",
+    "Loeys-Dietz Syndrome",
+    "FBN1, TGFBR1, TGFBR2, ACTA2 or MYH11 Genetic Mutation",
+    "Bicuspid Aortic Valve Without Known Family History",
+    "Bicuspid Aortic Valve With Family History",
+    "Bicuspid Aortic Valve With Coarctation",
+    "Familial Thoracic Aortic Aneurysm and Dissections",
+    "Shprintzen-Goldberg Syndrome",
+    "Other Aneur/Diss of Thoracic Aorta Not Due to Trauma, <50yo",
+    "Other Congenital Heart Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

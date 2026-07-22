@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT02041858",
+  "title": "Effect of Altered Alarm Settings on Patient Adverse Events and Alarm Signal Frequency",
+  "brief_summary": "Alarm fatigue, a lack of response to an alarm due to desensitization, is a national problem. The problem of alarm desensitization is multifaceted and is related to a high false alarm rate, poor positive predictive value, lack of alarm standardization and the large number of medical devices with built in alarms in use today. Cardiac monitor alarms are intended to notify the healthcare practitioner that a clinical crisis is imminent. However, hundreds of physiologic monitor alarms occur on monitored units each day. As a result, practitioners are highly vulnerable to alarm fatigue which has resulted in serious harm to patients and death due to staff inattention from alarm signal desensitization. Research indicates that 80-99.4% of monitor alarms are false or clinically insignificant. Alarm hazards is the number one medical device technology hazard of 2012 and has been listed by ECRI (Emergency Care Research Institute) among the top 3 medical device hazards for the past three years (ECRI, 2011). Delivering actionable alarm information to care providers is challenging given the significant number of false alarms.\n\nIdeally, alarms should activate for events in greatest need of clinical attention without increasing the risk of adverse patient outcomes. This is not the case with current monitoring technology which is designed for high sensitivity and low specificity. Practitioners must use clinical intuition for determining how conservatively alarms should be set to be most useful. There is no research evidence to support how best to set alarms without affecting patient outcomes.\n\nQuality improvement studies performed at The Johns Hopkins Hospital have demonstrated that the frequency of alarm signals can be reduced by more than 50% through an altered set of alarm parameters. This reduction in alarm signals has lead to an increase awareness of alarms that do occur as well as create a quieter, healing environment for patients. Although this change was not associated with a \"noticeable\" increase in adverse patient events, this important outcome was not rigorously studied.\n\nThe specific aims of this pilot study is to determine if decreasing the number of alarms by using an altered set of alarm parameters has an effect on patient outcomes in an intensive care unit.\n\nThis project may have a significant impact on patient safety. A decrease in noise at the bedside may result in less distraction to caregivers and may have a positive effect on patient recovery. It is expected that the altered set of monitor default parameters will result in a decrease in audible alarms without increasing clinically significant adverse patient events.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria: All patients who are in the Coronary Care Unit and able to provide consent during the collection time period will be considered for inclusion. This unit consists of adult patients with a primary cardiac etiology for their illness. The vast majority of these patients are either there for coronary artery disease or congestive heart failure.\n\nExclusion Criteria: Patients who are unable to provide consent to participate",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Physiologic Monitoring",
+    "Alarms"
+  ],
+  "overall_status": "COMPLETED"
+}

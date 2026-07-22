@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04089787",
+  "title": "Shortened Antibiotic Treatment of 5 Days in Community-Acquired Pneumonia",
+  "brief_summary": "CAP5 is an investigator-initiated multicentre non-inferiority randomized controlled trial which aims to assess the efficacy and safety of shortened antibiotic treatment duration of community-acquired pneumonia (CAP) in hospitalized adult patients based on clinical stability criteria.\n\nThree to five days after initiation of antimicrobial therapy for CAP, participants are randomized 1:1 to parallel treatment arms: 5 days (intervention) or minimum 7 days (control) of antibiotic treatment. The intervention group discontinues antibiotics at day 5 if clinically stable and afebrile for at least 48 hours. The control group receives antibiotics for a duration of 7 days or longer at the discretion of the treating physician.\n\nThe primary outcome is 90-day survival which will be tested with a non-inferiority margin of 6%.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Hospitalized with community-acquired pneumonia; defined as new pulmonary infiltrate on chest X-ray and/or CT scan and at least one symptom compatible with pneumonia (cough, fever, dyspnoea and/or chest pain)\n* Initiation of antibiotics within 12 hours of the time of the chest X-ray with an infiltrate\n* Age \u2265 18 years\n* Afebrile (temperature \u2264 37.8 \u00b0C) for 48 hours at randomization\n* Clinically stable at randomization (systolic blood pressure \u2265 90 mm Hg, heart rate \u2264 100/min., respiratory rate \u2264 24/min., peripheral oxygen saturation \u2265 90%)\n\nExclusion Criteria:\n\n* Immunosuppression (HIV-positive, neutropenia, corticosteroid treatment (\u226510 mg/day of prednisone or the equivalent for \\>30 days), chemotherapy, immunosuppressive agents, immunosuppressed after solid organ transplantation, asplenia)\n* Hospitalization during the previous 14 days\n* Antibiotic treatment (\\>2 days) within the past 30 days, directed at lower respiratory tract pathogens\n* Uncommon cause requiring longer duration of antimicrobial therapy (Pseudomonas aeruginosa, Staphylococcus aureus, Mycobacterium spp., fungi)\n* Extrapulmonary infection (e.g. endocarditis, meningitis, or abscess)\n* Pleural empyema or lung abscess\n* Pleural effusion requiring drainage tube\n* Intensive care unit (ICU) admittance\n* Pregnancy and breastfeeding",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Community-acquired Pneumonia"
+  ],
+  "overall_status": "COMPLETED"
+}

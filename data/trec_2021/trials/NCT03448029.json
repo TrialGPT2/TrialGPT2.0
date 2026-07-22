@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT03448029",
+  "title": "RECCORD (Recording Courses of Vascular Diseases) Registry",
+  "brief_summary": "The RECording COurses of vasculaR Diseases registry (RECCORD registry) is an observational, prospective, multicentre, all-comers registry platform.\n\nIn the initial phase, patients referred for endovascular revascularization of peripheral artery disease (PAD) of the lower limbs will be prospectively included and followed up for at least one year.\n\nAt baseline, data on patients' demographic characteristics, comorbidities, previous peripheral interventions, medication, and clinical stage of PAD (Rutherford category), haemodynamic parameters, and procedural data including complications will be assessed.\n\nMajor adverse cardiac and limb events will be recorded at planned (at six and 12 months) and at any unplanned visits.\n\nFor details see NM Malyar et al., Rationale and design of the RECording COurses of vasculaR Diseases registry (RECCORD registry). Vasa. https://doi.org/10.1024/0301-1526/a000631",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* any type of endovascular interventions for symptomatic PAD\n* endovascular intervention for PAD of lower extremities, i.e. below the aorto-iliac bifurcation\n\nExclusion Criteria:\n\n* patients undergoing hybrid-(surgical and endovascular) and/or surgical interventions for symptomatic PAD\n* patients with a life expectancy of \\<6 months\n* endovascular intervention for reasons other than symptomatic PAD",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients undergoing endovascular revascularization for symptomatic peripheral artery disease of the lower extremities (located distal to the aorto-iliac bifurcation) will be included. The diagnosis of PAD will be derived from ICD-10 codes. Any endovascular procedure that is performed to a specifi c target lesion will be documented as operation and procedure codes (OPS codes) as they are defi ned by the German procedure classifi cation system (version 2015). Informed consent from each patient will be obtained prior to inclusion in the registry.",
+  "condition": [
+    "Vascular Diseases",
+    "Peripheral Artery Disease",
+    "Claudication",
+    "Critical Limb Ischemia",
+    "Diabetic Foot"
+  ],
+  "overall_status": "UNKNOWN"
+}

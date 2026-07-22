@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT00552045",
+  "title": "Epilepsy Phenome/Genome Project",
+  "brief_summary": "The purpose of this study is to collect detailed information about the characteristics and genetics of a large number of individuals with epilepsy.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Current age from 4 weeks to 60 years.\n* Clear diagnosis of epilepsy, i.e., a lifetime history of two or more unprovoked seizures.\n* Age at first unprovoked seizure younger than 40 years.\n* High quality clinical and laboratory data (i.e., neuroimaging, EEG) must be available throughout the patient's history\n* All patients with localization-related epilepsy (LRE) or idiopathic generalized epilepsy (IGE) must have a first-degree relative (parent, child, or sibling) with non-symptomatic (idiopathic or cryptogenic) epilepsy who is willing and available to participate.\n* All patients with infantile spasms (IS), Lennox-Gastaut syndrome (LGS), or malformations of cortical development (MCD) must have both biological parents available and willing to participate.\n\nExclusion Criteria:\n\n* Clinical and laboratory data do not allow a clear determination of whether the patient has epilepsy, or whether the diagnosis is LRE, IGE, IS, LGS, or MCD.\n* Exclusively febrile seizures or other acute symptomatic seizures.\n* Identified antecedent cause of epilepsy (i.e., a structural or metabolic insult to the CNS prior to the first unprovoked seizure, such as stroke, brain tumor, severe head trauma, etc., or a progressive neurodegenerative disorder).\n* Recognized genetic syndrome (e.g., tuberous sclerosis, neurofibromatosis, Rett's or Angelman's syndromes) or chromosomal abnormality. (e.g., aneuploidies, unbalanced translocations, or chromosomal deletions and duplications detectable by conventional medical karyotyping).",
+  "minimum_age": "4 Weeks",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "EPGP will recruit persons with specific forms of epilepsy.",
+  "condition": [
+    "Epilepsy",
+    "Localization-related Epilepsy",
+    "Infantile Spasms",
+    "Lennox-Gastaut Syndrome",
+    "Polymicrogyria",
+    "Periventricular Heterotopias"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04052113",
+  "title": "Real World Evidence of PD-L1, TMB Prevalence and Efficacy of 1st Line Chemotherapy in These High or Low Population for Stage IV Urothelial Cancer",
+  "brief_summary": "This study is a multi-center, non-interventional study. Patients' background, treatment pattern, treatment outcome, efficacy will be collected from medical records in Stage IV urotherial (UC) patients. Archived patient's formalin-fixed paraffin-embedded (FFPE) primary tumor samples will be collected to assay PD-L1 expression and next generation sequencer (NGS) assay for tumor mutation burden (TMB).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\> 20, Japanese men and women.\n* Patients who have started at least 1 cycle of chemotherapy.\n* Patients who provided informed consent by appropriate methods. In dead case, optout will be applicable.\n* Patients who are diagnosed as stage IV (T4b, any N or any T, N2-3 or M1) UC between January 1st in 2017 and December 31st in 2018.\n* Patients who have FFPE primary tumor sample collected after January 1st in 2017. The sample should be collected before any therapies including 1st line treatment in stage IV and therapies in stage III and other stages. It is possible to send sliced undyed section of primary tumor including 1 HE-stained section of same sample in case that patients cannot send FFPE primary tumor block.\n\nExclusion Criteria:\n\n-Patients who are prior exposure to immune-mediated therapy as 1st line treatment in stage IV.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "This study is a multi-center, non-interventional study, and Stage IV UC patients who have received at least 1 cycle of chemotherapy and have archived primary tumor sample collected after January 1st in 2017 will be of the interest. However, the patients who received immune oncology drug as 1st line treatment in stage IV will not be in this study.",
+  "condition": [
+    "Urologic Neoplasms"
+  ],
+  "overall_status": "COMPLETED"
+}

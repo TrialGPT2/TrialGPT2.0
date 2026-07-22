@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04422288",
+  "title": "MSK Validation Study",
+  "brief_summary": "Spinal posture and imbalance are known to be related to increased muscle expenditure, with narrow \"cone of economy\" of muscle effort defining the most comfortable postures. Therefore, it is hypothesized that predicting the posture of the lowest muscle effort available for a patient with a given spinal alignment and body properties will correspond to the posture the patient will most likely assume. Based on established musculoskeletal models, a model application was configured to allow prediction of this optimal posture. This study aims to assess the validity of this approach and the value of using biomechanical modeling for pre-operative planning.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Male or female patients\n2. Any ethnicity\n3. At least 18 years of age\n4. Has undergone a thoracolumbar spinal fusion procedure\n\nExclusion Criteria:\n\n1. Patient has had a prior spinal surgery in the thoracic and/or lumbar spine;\n2. Patient presents scoliosis greater or equal to 20\u00b0 T4-T12 Cobb angle;\n3. Patient has been diagnosed with idiopathic adolescent scoliosis (treated or untreated);\n4. Patient has other implants that obstruct the spine and/or pelvis in the lateral view;\n5. Patient presents any of the following complications: pseudoarthrosis, instrumentation failure, instrumentation pull-out and/or requires a revision surgery at any time following the primary surgery and prior to 3 months post-op;\n6. Patient is a prisoner.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "At least 186 patients will be enrolled in this multicenter combined observational / in silico study, recruited into 3 groups (at least 62 cases each) according to the number of levels instrumented:\n\n1. local fusion, 1-2 segments;\n2. short fusion, 3-4 segments;\n3. long fusion, 5+ segments.",
+  "condition": [
+    "Proximal Junctional Kyphosis",
+    "Spino-pelvic Alignment",
+    "Thoracolumbar Spinal Fusion"
+  ],
+  "overall_status": "COMPLETED"
+}

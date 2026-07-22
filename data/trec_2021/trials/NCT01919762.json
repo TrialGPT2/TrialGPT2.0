@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01919762",
+  "title": "Detecting Infections Rapidly and Easily for Bacteremia Trial (DIREBT)",
+  "brief_summary": "To assure the uniform collection, handling, storage and transport of patient whole blood specimens and associated information to support validation of the T2 Bacteremia Assay.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Subject or subject's authorized representative must be able to understand, read and sign the study specific informed consent form after the nature of the study has been fully explained to them.\n* Males and females 18 - 95 years of age.\n\nFor Group A,\n\n* Subject is confirmed to have bacteremia (gram negative rods, gram negative coccobacillus, and/or gram positive cocci) as evidenced by a positive diagnostic blood culture\n* Subsequent species identification identifies the presence of one of the following 6 species of bacteria:\n* Acinetobacter baumannii\n* Staphylococcus aureus\n* Klebsiella pneumonia\n* Pseudomonas aeruginosa\n* Enterococcus faecalis\n* Enterococcus faecium\n\nFor Group B,\n\n* Males and females 18 - 95 years of age.\n* Subject is confirmed to not have bacteremia from the 6 bacteria species targeted by this study, as evidenced by diagnostic blood culture and subsequent species identification.\n\nExclusion Criteria:\n\n* Use of any novel (i.e. not commercially available) drug compound within 30 days prior to the collection of T2 blood specimens.\n* Subject has other co-morbid condition(s) that, in the opinion of the Investigator, could limit the subject's ability to participate in the study or impact the scientific integrity of the study.\n* Subject has had an anti-bacterial drug administered through the same port or central line as is used to collect the clinical research specimens. A line draw cannot be used to obtain a study sample if an antibacterial agent was administered intravenously within the last 72 hours, unless the site can specifically document that a different line was used to administer the anti-bacterial agent.",
+  "minimum_age": "18 Years",
+  "maximum_age": "95 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with blood culture results are eligible to participate",
+  "condition": [
+    "Bacteremia"
+  ],
+  "overall_status": "COMPLETED"
+}

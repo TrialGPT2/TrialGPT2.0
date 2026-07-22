@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04323904",
+  "title": "Hantavirus Registry - HantaReg",
+  "brief_summary": "Hantavirus disease are zoonotic infections and remain a clinical challenge with globally increasing incidence and multiple serious outbreak situations in Europe within the last years. Hantavirus disease encompasses two clinical syndromes, hemorrhagic fever with renal syndrome (HFRS) and hantavirus cardiopulmonary syndrome (HCPS) caused by Old World and New World hantaviruses, respectively. Depending on the causative Old World hantavirus species, clinical course of HFRS can vary from mild to moderate to severe.\n\nAt present, there is no specific therapy available for hantavirus disease. As the clinical course of hantavirus disease is dependent on the causing viral pathogen and as there worrisome hints that clinical course HFRS and HCPS overlap, further studies with regard to the disease course are mandatory. Furthermore, the examination of attributable mortality and costs of hantavirus disease will need to be studied on a multinational basis and therefore HantaReg will particularly use a matched case control design.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Serological or molecular evidence of hantavirus infection and clinical evidence of nephropathia epidemica or hemorrhagic fever with renal syndrome (HFRS)\n* Serological or molecular evidence of hantavirus infection and clinical evidence of hantavirus cardiopulmonary syndrome (HCPS)\n\nExclusion Criteria:\n\n\\- Serological or molecular evidence of hantavirus infection without clinical signs of nephropathia epidemica, HFRS or HCPS",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with serological or molecular evidence of hantavirus infection and clinical evidence of nephropathia epidemica or hemorrhagic fever with renal syndrome (HFRS), or serological or molecular evidence of hantavirus infection and clinical evidence of hantavirus cardiopulmonary syndrome (HCPS).\n\nParticularly, controls will be identified retrospectively at the same hospitals that based on matching of demographics, underlying diseases and duration of hospitalization (i.e. one control per case, both in the same hospital).",
+  "condition": [
+    "Hantavirus Infections",
+    "Hemorrhagic Fever With Renal Syndrome",
+    "Nephropathia Epidemica",
+    "Hantavirus Cardiopulmonary Syndrome"
+  ],
+  "overall_status": "RECRUITING"
+}

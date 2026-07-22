@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04835571",
+  "title": "CARotid Mri of Atherosclerosis",
+  "brief_summary": "In the entire world most people die from cardiovascular disease. Death is primarily from myocardial infarction (MI) and stroke which are most often caused by rupture of atherosclerotic plaques. Patients with high-grade, i.e. \u2265 70% carotid artery stenosis are at especially high risk. Magnetic Resonance Imaging (MRI) studies show that two features inside plaques that are associated with the risk of plaque rupture and subsequent cardiovascular events are: lipid rich necrotic core (LRNC) and intraplaque hemorrhage (IPH).\n\nMRI studies on carotid artery plaques typically relies on proton-density-weighted fast-spin echo, blood-suppressed T1- and T2-weighted gradient-echo sequences. The end-result is nonquantitative measures, where plaque features are identified due to their relative signal intensity. To address these problems of non-specificity, we developed a quantitative MRI (qMRI) technique based on Dixon sequences.\n\nThe study intention is to enable in-depth analysis of plaque features and their relation to clinical data. For example there is an insufficient understanding of associations between lipid biomarkers and plaque contents. Our hypothesis is that we can identify quantitative changes in both plaque and lipid biomarkers after one year of optimized cardiovascular risk management (including treatment with lipid lowering drugs), and establish if there is any associations between these features. Because there is a well-established link between systemic inflammation and the presence of atherosclerotic plaques we will also study the relationship between LRNC and IPH as measured by qMRI versus circulating markers of inflammation.\n\nMethod: Patients with known carotid stenosis are invited for a baseline visit and a 1-year follow up visit. The study visits include clinical assessment, blood tests, patient interview and magnetic resonance imaging of the carotid arteries. All participants are offered optimized cardiovascular risk management through the individual assessment by the study physicians.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n\\- Carotid plaques with a cut-off at doppler flow velocity \u2265 1.3 m/sec at a Doppler angle of 50-60\u00b0, which corresponds to a \u2265 50% stenosis according to these criteria.\n\nExclusion Criteria:\n\n* Performed or planned carotid surgery\n* Carotid occlusion\n* Renal failure (GFR \\<45 ml/h)\n* Inflammatory diseases, anti-inflammatory treatment or malignancies\n* Stroke \\<30 days before admission\n* Co-morbidities that disable informed consent or participation in the study investigations (e.g. contraindications for MRI)",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Carotid Stenosis",
+    "Carotid Artery Plaque",
+    "Carotid Atherosclerosis"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT02931682",
+  "title": "Observational Study of Males With Creatine Transporter Deficiency",
+  "brief_summary": "The objectives of this study are to illustrate the clinical, neuro/electrophysiologic, biochemical, and developmental status and progression of patients with Creatine Transporter Deficiency (CTD) and to evaluate the utility of performance-based and other measures in the CTD population.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Subject has genomic confirmation of a pathologic mutation in the SLC6A8 gene.\n2. Subject is able to complete study-related procedures.\n3. Subjects' parents/guardians/caregivers must provide written consent (informed consent) to study-related procedures, and if appropriate, the subject will provide an assent.\n\nExclusion Criteria:\n\n1. Subject has had status epilepticus within 3 months of screening.\n2. Subject is unable to comply with the study procedures or with a clinical disease or laboratory abnormality that in the opinion of the investigator would potentially increase the risk of participation.",
+  "minimum_age": "6 Months",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "Community Sample",
+  "condition": [
+    "Creatine Deficiency, X-linked"
+  ],
+  "overall_status": "TERMINATED",
+  "line_of_therapy_overall_summary": "This is an observational study of males with Creatine Transporter Deficiency (CTD) and does not specify any requirements regarding prior systemic therapy for advanced disease. Line-of-therapy intent is not applicable to this trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they reference any cancer treatment history. This is a non-oncology observational study, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

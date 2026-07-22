@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT01156584",
+  "title": "A Study of a Retroviral Replicating Vector Combined With a Prodrug Administered to Patients With Recurrent Malignant Glioma",
+  "brief_summary": "This is a multicenter, open-label, ascending-dose trial of the safety and tolerability of increasing doses of Toca 511, a Retroviral Replicating Vector (RRV), administered to patients with recurrent high grade glioma (rHGG) who have undergone surgery followed by adjuvant radiation therapy and chemotherapy. Patients will receive Toca 511 either via stereotactic, transcranial injection into their tumor or as an intravenous injection given daily for 3 \\& 5 days, depending on cohort. Approximately 3-4 weeks following injection of the RRV, treatment with Toca FC, an antifungal agent, will commence and will be repeated approximately every 6 weeks until study completion. After completion of this study, all patients will be eligible for enrollment and encouraged to enter a long-term continuation protocol that enables additional Toca FC treatment cycles to be given, as well as permits the collection of long-term safety and survival data.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* at least 18 years of age\n* for intratumoral cohorts, supratentorial HGG (WHO grade III or IV)\n* technically unresectable HGG\n* initial definitive therapy such as surgery with or without adjuvant radiation\n* subject elected not to undergo treatment with Gliadel wafer\n* if receiving corticosteroids, dose is stable or decreasing for past 7 days\n* KPS: at least 70\n* absolute neutrophil count \\> 1500/mm\\^3\n* absolute lymphocyte count \\> 500/mm\\^3\n* platelet count \\> 100,000/mm\\^3\n* hemoglobin \\> 10 g/dL\n* for intratumoral cohort, coagulation profile favorable to surgery\n* estimated glomerular filtration rate \\> 50 mL/min\n* ALT \\< 3 times ULN and bilirubin \\< 1.5 mg/dL\n* negative serum pregnancy test\n\nExclusion Criteria:\n\n* cytotoxic therapy within the past 4 weeks (6 weeks for BCNU/CCNU)\n* more than 2 recurrences including present recurrence\n* Gliadel wafer or wafers implanted within the past 8 weeks\n* taking more than 8 mg of dexamethasone per day\n* for intratumoral cohorts, injection of tumor would require violation of ventricular system\n* any infection requiring antibiotic, anticoagulant, or antiplatelet agents within the past 4 weeks\n* for intratumoral cohort, bleeding diathesis or use of anticoagulants/antiplatelet agents that cannot be stopped\n* allergy or intolerance to 5-FC\n* HIV positive\n* g.i. condition that would prevent ingestion or absorption of 5-FC\n* any investigational treatment within the past 30 days\n* pregnant or breast feeding\n* received Avastin\n* history of prior malignancy, excluding basal or squamous cell carcinoma of the skin, with an expected survival of less than 5 years.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Glioblastoma",
+    "Anaplastic Astrocytoma",
+    "Anaplastic Oligodendroglioma",
+    "Anaplastic Oligoastrocytoma"
+  ],
+  "overall_status": "COMPLETED"
+}

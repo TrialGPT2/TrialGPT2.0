@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03957967",
+  "title": "Acute Pain Assessment Using Facial Expression Analysis",
+  "brief_summary": "Managing pain, which affects 20-50% of the population, is a major issue in daily clinical practice. Evaluation of pain intensity is essential to adapt treatment but as it mainly relies on self-report, this assessment is difficult or impossible in non-communicating patients. In these cases, pain can only be evaluated by medical staff by the observation of pain-related characteristics like facial expression of pain (FEP). However, recognition of FEP is subjective, time-consuming and subject to multiple biases frequently leading to underestimation of pain and consequently under-treatment. Some of these biases could be solved by the use of facial recognition technology, allowing objective, automated and time-saving pain assessment. DEF-I aims to address technical issues and achieve the development of facial expression recognition digital tool able to evaluate severe acute pain in clinical practice, with high validity and utility by improving the quality of the images to be analyzed, by studying larger samples of patients, data and images, in order to correlate more efficiently the pain intensity felt by a patient with the expression of his face. The main objective of this study is to verify whether it is possible to quantitatively correlate the intensity of acute postoperative pain felt by a patient with his facial expression. The secondary objective is to define a reliable computer algorithm that qualitatively correlates the type of acute postoperative pain experienced by a patient with his facial expression.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Any adult patient undergoing surgery in our institution during the study duration,\n* able to express pain intensity on NRS\n\nExclusion Criteria:\n\n* patient to be operated on in the area of the face or eye\n* Patient with altered facial morphology related to a dressing, suture, wound, trauma or oedema on the face\n* patient not compliant or unable to clearly express pain",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "any patient undergoing in our institution and accepting to participate",
+  "condition": [
+    "Acute Pre and Post Operative Pain"
+  ],
+  "overall_status": "COMPLETED"
+}

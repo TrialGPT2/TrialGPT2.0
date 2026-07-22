@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT04501081",
+  "title": "Natural History of Autosomal Dominant Hearing Loss",
+  "brief_summary": "Background:\n\nHereditary hearing loss is one of the most common sensory disabilities affecting newborns. The main options for people with hereditary hearing loss are hearing aids and cochlear implants. Both options have their limitations and do not restore biological hearing. Researchers want to learn if gene editing might be a treatment option.\n\nObjective:\n\nTo understand the genes that cause non-syndromic autosomal dominant hearing loss (DFNA) in people with DFNA as well as their family members.\n\nEligibility:\n\nPeople age 3 99 who have DFNA, affected family members of enrolled participants with DFNA, and unaffected family members of enrolled participants\n\nDesign:\n\nParticipants will be screened with a medical and hearing history. Their medical records will be reviewed.\n\nParticipants will have hearing tests. They will wear headphones or earplugs. They will listen to tones, sounds, and words and may be asked to describe what they hear.\n\nParticipants will have balance tests. For these, they will wear googles as they watch moving lights or as cold or warm air is blown into their ears. They will sit in a spinning chair in a quiet, dark booth. From a reclined position, they will raise their head while listening to clicking sounds.\n\nParticipants will have blood drawn through a needle in the arm. Some blood will be used for gene testing.\n\nSome participants will have 2 skin biopsies. The skin will be washed, and a numbing medicine will be injected. Two small pieces of skin will be removed.\n\nParticipants may have a physical exam.\n\nParticipation will last for up to 20 years. Participants may give medical updates once a year.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Affected persons with autosomal dominant hereditary sensorineural hearing loss, preferably confirmed by prior genetic testing\n* Affected family members of enrolled participants with known autosomal dominant hereditary hearing loss\n* Unaffected Family Members (Healthy Volunteers) of enrolled participant\n* Adults must be able to provide informed consent\n* Minors must have a parent or guardian able to provide informed consent\n* Subjects must be 3-99 years of age\n\nEXCLUSION CRITERIA:\n\n* Persons with sensorineural hearing loss (SNHL) and/or peripheral vestibular dysfunction associated with a non-genetic etiology such as infection, metabolic or immunologic disorders, or exposure to ototoxic agents such as cisplatin, or aminoglycoside antibiotics will not be included in this protocol.\n* Persons with sensorineural hearing loss known to be associated with surgical intervention (e.g. acoustic neuroma removal, failed stapedectomy).\n\nProspective study subjects who are cognitively impaired and lack consent capacity, will not be enrolled. The pre-screening eligibility checklist, which will be used and documented for registration under this protocol, is provided in a separate document.",
+  "minimum_age": "3 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "We will be recruiting individuals with DFNA and their family members. Based on the investigator and clinic's capacity to evaluate an average of 20 subjects and 4 (80) additional family members annually, we project our study may accrue up to 200 probands and 800 family members in the first 10 years and for the duration of the study. Target enrollment is 1000, accrual ceiling is 1100 to allow for screen failures, withdrawals and dropouts)",
+  "condition": [
+    "Hearing Loss"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of individuals with autosomal dominant hereditary hearing loss and their family members. There is no cancer diagnosis or systemic therapy involved, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced disease. Eligibility is based on genetic hearing loss status, not prior lines of therapy."
+    }
+  ]
+}

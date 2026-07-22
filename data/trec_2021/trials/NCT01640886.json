@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01640886",
+  "title": "Study of the Performance of the KeyPath MRSA/MSSA Blood Culture Test - BTA",
+  "brief_summary": "In vitro identification of S. aureus,methicillin-sensitive S. aureus (MSSA) and methicillin-resistant S. aureus (MRSA)from positive blood culture using MicroPhage's bacteriophage-based diagnostic platform.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Blood culture samples determined to be Gram-positive from subjects aged 18+, inclusive, with any of the following bottle types:\n\n   * bioMerieux BacT/ALERT\u00ae Standard Aerobic and Anaerobic\n   * bioMerieux BacT/ALERT\u00ae FAN Aerobic and FAN Anaerobic\n2. Completion of the KeyPathTM BTA Test on the sample.\n3. Completion of the reference method for S. aureus identification (tube coagulase and Remel Staphaurex ) and completion of the reference method for methicillin resistance determination (30 \u00b5g cefoxitin disc diffusion) for S. aureus positive samples.\n\nExclusion Criteria:\n\n1. Samples from blood culture positives over 24 hours from alarm\n2. Samples deemed contaminated.\n3. Violations and/or deviations from the KeyPathTM BTA Test protocol and/or other included test protocols under study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Hospital patients with Gram positive blood cultures determined to be positive with the following bottle types:\n\n1. bioMerieux BacT/Alert Standard Aerobic and Anaerobic\n2. bioMerieux BacT/Alert FAN Aerobic and FAN Anaerobic",
+  "condition": [
+    "Bacteremia"
+  ],
+  "overall_status": "TERMINATED"
+}

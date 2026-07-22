@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04231487",
+  "title": "Using Wearable and Mobile Data to Diagnose and Monitor Movement Disorders",
+  "brief_summary": "The purpose of the research is to better understand the motor behavior of individuals in health and disease. The specific purpose of this project is to identify if we can utilize a smartphone to diagnose different movement disorders and monitor their symptoms.\n\nA. Objectives\n\n1. Estimate symptom severity of Essential tremor (ET), Parkinson's disease (PD), Huntington's disease (HD), Primary focal dystonia (PFD), spinocerebellar ataxia (SCA), and Functional movement disorders (FMD) using a smartphone-based application\n2. Differentiate individuals with the different movement disorders from healthy controls based on features from the smartphone data\n3. Differentiate individuals with a specific movement disorder from people with other movement disorders based on features from the smartphone data\n\nB. Hypotheses / Research Question(s) We hypothesize that we can estimate the severity of symptoms using a smartphone application and that, using those estimates, we can differentiate individuals with movement disorders from healthy controls and from people with other movement disorders.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Male and female\n* At least 18 years of age\n* Ambulatory\n* English speaking\n* Specific to group 1: a) Diagnosis of ET, b) stable dose of medication for 30 days\n* Specific to group 3: a) Diagnosis of PD, b) stable dose of medication for 30 days\n* Specific to group 4: a) Diagnosis of HD, b) stable dose of medication for 30 days\n* Specific to group 5: a) Diagnosis of PFD, b) stable dose of medication for 30 days\n* Specific to group 6: a) Diagnosis of SCA, b) stable dose of medication for 30 days\n* Specific to group 7: a) Diagnosis of FMD, b) stable dose of medication for 30 days\n\nExclusion Criteria:\n\n* Serious untreated psychiatric illness that could impact the data collection\n* Inability to understand task or protocol due to cognitive problems\n* Other neurological condition that could affect the performance of motor tasks\n* Musculoskeletal condition that could affect the performance of motor tasks\n* Uncorrected vision impairment\n* Specific to groups 1, 3, 4, 5, 6, and 7: Expected change in medication within the next 8 weeks",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "\\- People with movement Disorders,\n\nWe will recruit 7 parallel groups: 1) ET patients; 2) Healthy controls; 3) PD patients; 4) HD patients; 5) PFD patients; 6) SCA patients; and 7) FMD patients\n\n\\- Healthy Controls.",
+  "condition": [
+    "Essential Tremor",
+    "Parkinson Disease",
+    "Huntington Disease",
+    "Dystonia, Primary",
+    "Spinocerebellar Ataxias",
+    "Movement Disorders"
+  ],
+  "overall_status": "UNKNOWN"
+}

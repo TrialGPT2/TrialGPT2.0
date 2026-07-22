@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT04783181",
+  "title": "A Study of Gene Therapy for Classic Congenital Adrenal Hyperplasia (CAH)",
+  "brief_summary": "This study is designed to evaluate the safety, tolerability, and efficacy of AAV5 based BBP-631 in adult participants diagnosed with classic congenital adrenal hyperplasia.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Key Inclusion Criteria\n\n1. Adult male and non-pregnant females with classic CAH (simple virilizing or salt-wasting) due to 21-OHD\n2. Screening/baseline 17-OHP levels \\> 5-10 × ULN and \\< 40 × ULN (upper limit of normal)\n3. Stable oral hydrocortisone (HC) regimen as the only glucocorticoid (GC) maintenance therapy\n4. Naïve to prior gene therapy or AAV-mediated therapy\n\nKey Exclusion Criteria\n\n1. Positive for anti-AAV5 (Adeno-Associated Virus Type 5) antibodies\n2. History of adrenalectomy and/or significant liver disease",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Congenital Adrenal Hyperplasia"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls adult patients with classic congenital adrenal hyperplasia who are on a stable oral hydrocortisone regimen as their only glucocorticoid maintenance therapy. There is no mention of prior systemic therapy for advanced/metastatic disease, as this is a non-oncology, non-malignant condition.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": null,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility requires patients to be on a stable oral hydrocortisone regimen as their only glucocorticoid maintenance therapy, with no prior gene therapy or AAV-mediated therapy allowed. There is no prior systemic therapy for advanced disease, so all patients are effectively treatment-naïve for gene therapy."
+    }
+  ]
+}

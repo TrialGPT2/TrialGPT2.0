@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03147027",
+  "title": "Catheter Ablation for Nonsustained Ventricular Tachycardia in Patients With Ischemic Cardiomyopathy",
+  "brief_summary": "Despite established implantable cardioverter-defibrillator (ICD) therapy and catheter ablation for sustained ventricular tachycardia (VT) in patients with ischemic heart disease (IHD) and reduced left ventricular ejection fraction (LVEF), the efficacy of catheter ablation in patients with nonsustained VT has been not yet clarified. The incidence of appropriate ICD therapy itself has been reported to be a worse prognostic factor in patients with reduced LVEF. Therefore theoretically the inhibition of these ventricular incidences can result in the prognostic improvement.To suppress ventricular arrhythmias aside from antiarrhythmic agents, catheter ablation has been developed prominently in this decade along with the technological improvement such as irrigated ablation catheters, three-dimensional mapping systems, multi-polar catheters, and image integration system with CT and MRI. The rationale of this trial is to study the efficacy of the eradication of arrhythmogenic substrate in ischemic cardiomyopathy with reduced LVEF and nonsustained VT on prevention of the occurrence of sustained VT/VF and ICD therapies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* left ventricular ejection fraction (TTE or MRI) \u226440%\n* diagnosed ischemic heart disease\n* nonsustained monomorphic VT with more than 5 beats in the record of the implantable cardioverter-defibrillator or in any means of electrocardiogram (ECG) including ECG monitor and holter monitoring\n* ICD implantation with primary preventive indication\n\nExclusion Criteria:\n\n* ICD implantation within 2 months\n* previously documented sustained VT/VF (over 30 seconds) or adequate ICD shock\n* no written informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "patients with nonsustained VT and ischemic cardiomyopathy and reduced LVEF",
+  "condition": [
+    "Ventricular Tachycardia",
+    "Ischemic Cardiomyopathy",
+    "Reduced LVEF"
+  ],
+  "overall_status": "UNKNOWN"
+}

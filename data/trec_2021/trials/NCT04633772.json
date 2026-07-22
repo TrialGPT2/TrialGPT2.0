@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04633772",
+  "title": "Use of Angiotensin-(1-7) in COVID-19",
+  "brief_summary": "The renin-angiotensin system (RAS) has a relevant role in COVID-19, as the virus will enter host's cells via the angiotensin-converting enzyme 2 (ACE2); RAS disequilibrium might also play a key role in the modulation of the inflammatory response that characterizes the lung involvement. Angiotensin-(1-7) is a peptide that could be altered in COVID-19 patient and its supplementation may potentially helpful in this setting.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Admission to the Intensive Care Unit with severe pneumonia criteria (clinical signs of pneumonia + one of the following criteria: respiratory rate greater than 30/minute; signs of respiratory effort, SatO2 \\< 90% in room air);\n* COVID-19 confirmed or highly suspicious (positive contact or suggestive image)\n\nExclusion Criteria:\n\n* Diagnosed with cancer (at any stage);\n* Hemodynamic instability (need for vasopressors);\n* Pregnant women; Immunocompromised patients;\n* Palliative Care;\n* Inclusion in any other interventionist study;\n* Heart failure as a predominant cause of acute respiratory failure;\n* Decompensated liver cirrhosis;\n* HIV +;\n* Dialysis;\n* Home / long-term oxygen therapy;\n* Idiopathic pulmonary fibrosis",
+  "minimum_age": "17 Years",
+  "maximum_age": "81 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Infection, Coronavirus",
+    "Respiratory Failure"
+  ],
+  "overall_status": "COMPLETED"
+}

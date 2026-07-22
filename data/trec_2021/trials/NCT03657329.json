@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03657329",
+  "title": "Comparison of Dreem to Clinical PSG for Sleep Monitoring in Apnea Patients",
+  "brief_summary": "This study aims to evaluate the accuracy of apnea detection and automated sleep analysis by the Dreem dry-EEG headband and deep learning algorithm in comparison to the consensus of 5 sleep technologists' manual scoring of a gold-standard clinical polysomnogram (PSG) record in adults during a physician-referred overnight sleep study due to suspicion of sleep-disordered breathing.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* 18-70 years of age\n* Capable of providing informed consent\n* Suspicion of sleep breathing disorder (both diagnostic and split-night studies)\n\nExclusion Criteria:\n\n* Concomitant diagnosis of a sleep disorder other than sleep apnea syndrome or insomnia\n* Morbid obesity (BMI \\> 39)\n* Use of benzodiazepines, nonbenzodiazepine (Z-drugs), or Gammahydroxybutyrate (GHB) the day/night of the study\n* Concomitant diagnosis of cardiopulmonary or neurological comorbidities (such as heart failure, COPD, neurodegenerative conditions)",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sleep",
+    "Sleep Apnea"
+  ],
+  "overall_status": "COMPLETED"
+}

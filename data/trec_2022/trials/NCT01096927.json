@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT01096927",
+  "title": "Non Operative Treatment for Acute Appendicitis",
+  "brief_summary": "Case control studies that randomly assign patients to either surgical or non-surgical treatment yield a relapse rate of approximately 14% at one year. It would be useful to know the relapse rate of patients who have, instead, been selected for a given treatment based on a thorough clinical evaluation, including physical examination and laboratory results (all characteristics forming the Alvarado Score) as well as radiological exams if needed or deemed helpful. If this clinical evaluation is useful,the investigators would expect patient selection to be better than chance, and relapse rate lower than 14%. Once the investigators have established the utility of this evaluation, the investigators can begin to identify those components that have predictive value (such as blood chemistry analysis, or CT findings). This is the first step toward developing an accurate diagnostic-therapeutic algorithm which will avoid the risks and costs of needless surgery.\n\nThis will be a single-cohort prospective interventional study. It will not interfere with the usual procedures, consisting of clinical examination in the Emergency Department (ED) and execution of the following exams at the physician's discretion: complete blood count with differential, C reactive protein, abdominal ultrasound, abdominal CT. Patients admitted to Emergency Department with Lower Abdominal and suspicion of Acute Appendicitis not needing immediate surgery, are requested by informed consent to undergo observation and non operative treatment with antibiotic therapy (Amoxicillin and Clavulanic Acid). The patients by protocol should not have received any previous antibiotic treatment during the same clinical episode. Patients not undergoing surgery will be physically examined 5 days later. During this follow-up visit, the patient will be given information about the study, will be invited to participate, and will be asked to sign an informed consent form. If the patient is under the age of 18 years, consent will be obtained from a parent or other legal guardian.\n\nTelephone (or email) follow-ups will be conducted at 15 days, 6 months, and 12 months (see attached schedule) to monitor the state of the illness.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age \\>14 years\n2. Lower / RIF Abdominal Pain\n3. Clinical Suspicion of Acute Appendicitis:\n\n   i.e.\n   * Alvarado Score 5-6 (equivocal for acute appendicitis)\n   * Alvarado Score 7-8 (probably appendicitis)\n   * Alvarado Score 9-10 (highly likely appendicitis)\n4. Informed consent (patient or legal representative)\n\nExclusion Criteria:\n\n1. Diffuse peritonitis\n2. Antibiotic (Penicillin) documented allergy\n3. Ongoing previously started antibiotic therapy\n4. Previous appendectomy\n5. Positive pregnancy test\n6. IBD history or suspicion of IBD recrudescence",
+  "minimum_age": "14 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lower Abdominal Pain",
+    "Right Iliac Fossa Pain",
+    "Acute Appendicitis"
+  ],
+  "overall_status": "COMPLETED"
+}

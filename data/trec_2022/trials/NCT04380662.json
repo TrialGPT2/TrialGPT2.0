@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04380662",
+  "title": "Risk Factors Worsening COVID19 for Out-patient With Home Monitoring",
+  "brief_summary": "The main objective of the COVIDADOMEVA study is to identify the risk factors aggravating the COVID-19 (risk or protective factors), in out-patients suspected of being infected with precocious home monitoring.\n\nThe primary event defining the aggravation will be then: hospitalization (medicine, resuscitation) or death.\n\nThe studied potential risk factors will be mainly:\n\n* Socio-demographic: age, sex, place of residence or income\n* Comorbidities\n* Clinical signs: asthenia, dyspnea (kinetics)\u2026\n* Drugs other than those related to the infection\n\nFor this research project, this study needs to use the patient's data of the COVIDADOM cohort (patients suspected of being infected with SARS-CoV-2 with home monitoring) and will collect some supplementary data (clinical and biological). All these data will be integrated and analyzed in the PREDIMED clinical data lake platform (The implementation of PREDIMED has been approved by the French authority in terms of GDPR, CNIL, on October 10, 2019).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient with clinical symptomatology suspecting COVID-19, that is to say: severe dyspnea, and/or serious extra pulmonary signs (myalgia, diarrhea, etc.) OR\n* Patient with clinical symptomatology (cough or dyspnea or fever with ENT signs) AND at least one of the following comorbidities: COPD stage 1 or 2 (dyspnea usually absent or for marked efforts), Asthma with daily inhaled corticosteroid therapy, Immunosuppression or cancer during chemotherapy, Coronary history, Heart failure (Stages 2 and 3, dyspnea with moderate or low effort), Obesity (BMI\\> 30), Type 1 or 2 diabetes, cirrhosis from Child B, pregnant woman in the 3rd trimester.\n* Patient with a phone monitoring of at least more than 2 calls, if no aggravation of disease.\n\nExclusion Criteria:\n\n* Person deprived of liberty by judicial or administrative decision\n* Person being subject to a legal protection measure\n* Person who expressed opposition to participating in the COVIDADOMEVA study",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The patients included in the study are from the Grenoble area, had contacted the accident and emergency ward (A\\&E department) or their general practitioner (GP). The patients recruited are patients suspected of being infected with SARS-CoV-2, with home monitoring including the containment measures set up according to the French Health recommendations.",
+  "condition": [
+    "Covid19"
+  ],
+  "overall_status": "UNKNOWN"
+}

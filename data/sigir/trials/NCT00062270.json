@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00062270",
+  "title": "Neoadjuvant Chemoradiotherapy With or Without Gefitinib in Treating Patients With Stage IIIA or Stage IIIB Non-Small Cell Lung Cancer",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to damage tumor cells. Biological therapies such as gefitinib may interfere with the growth of the tumor cells and slow the growth of the tumor. Combining chemotherapy and radiation therapy with gefitinib before surgery may shrink the tumor so that it can be removed during surgery.\n\nPURPOSE: Phase I/II trial to compare the effectiveness of neoadjuvant chemoradiotherapy with or without gefitinib in treating patients who are undergoing surgery for stage III non-small cell lung cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed non-small cell lung cancer\n\n  * Stage IIIA (T1-3, N2)\n\n    * Positive (pathological) ipsilateral mediastinal node\n  * Selective stage IIIB meeting all of the following criteria:\n\n    * No pleural/pericardial effusion or superior vena cava syndrome\n    * T4 due to invasion of carina, trachea, or mediastinal structures\n    * Mediastinal N3 nodes (without supraclavicular or cervical adenopathy)\n* Proof of N2 or N3 status requires surgical staging of the mediastinum (mediastinoscopy, mediastinotomy, or exploration)\n* Expression of epidermal growth factor receptor (at least 1+) by immunohistochemistry\n* Measurable disease by contrast CT scan allowed\n* No bronchoalveolar cell carcinoma\n* No prior diagnosis of lung cancer\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 19 and over\n\nPerformance status\n\n* ECOG 0-1 (0-2 if albumin is at least 0.85 times lower limit of normal and weight loss within 3 months before diagnosis is no greater than 10%)\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Absolute neutrophil count at least 1,500/mm\\^3\n* Platelet count at least 150,000/mm\\^3\n* Hemoglobin at least 10 g/dL\n\nHepatic\n\n* Bilirubin normal\n* AST and ALT no greater than 2.5 times upper limit of normal (ULN)\n* Alkaline phosphatase no greater than 2 times ULN\n\n  * Alkaline phosphatase between 1.5-2 times ULN requires a negative bone scan for metastatic bone disease\n\nRenal\n\n* Creatinine no greater than 1.4 mg/dL OR\n* Creatinine clearance at least 60 mL/min\n\nCardiac\n\n* No myocardial infarction within the past 3 months\n* No active angina\n* No unstable heart rhythms\n* No congestive heart failure\n\nPulmonary\n\n* Post-resection predicted FEV\\_1% greater than 35%\n\n  * Predicted FEV\\_1% is defined as FEV\\_1% times percent perfusion to uninvolved lung from quantitative lung V/Q scan report\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for at least 6 weeks after study treatment\n* No other uncontrolled medical illness\n* No other malignancy within the past 5 years except basal cell skin cancer or carcinoma in situ of the cervix\n* No grade 2 or greater peripheral neuropathy\n* No concurrent ocular inflammation or infection\n* No prior severe hypersensitivity reaction to docetaxel or other drugs formulated with polysorbate 80\n* No known severe hypersensitivity reaction to gefitinib or any of its excipients\n* No prior severe allergic reaction to platinum-containing compounds or mannitol\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* No concurrent growth factors (e.g., filgrastim \\[G-CSF\\] or sargramostim \\[GM-CSF\\]) during chemotherapy\n\nChemotherapy\n\n* No prior chemotherapy for lung cancer\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* No prior radiotherapy for lung cancer\n\nSurgery\n\n* Recovered from prior major surgery\n* No concurrent ophthalmic surgery\n\nOther\n\n* More than 30 days since prior unapproved or investigational drugs\n* No concurrent use of the following drugs:\n\n  * Phenytoin\n  * Carbamazepine\n  * Barbiturates\n  * Rifampin\n  * Phenobarbital\n  * Hypericum perforatum (St. John's Wort)\n  * Warfarin\n* No concurrent retinoids",
+  "minimum_age": "19 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lung Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

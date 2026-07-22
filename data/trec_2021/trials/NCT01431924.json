@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01431924",
+  "title": "Observed Outcomes Associated With Fluticasone Propionate/Salmeterol Xinafoate or Inhaled Corticosteroids in Asthma Patients",
+  "brief_summary": "This is an observational retrospective analysis of linked pharmacy and medical claims data from IMS Health/Pharmetrics database. which is a comprehensive, de-identified United States (US) healthcare claims database that is representative of the non-elderly, insurance-carrying population, The total population is 35.4 million. The average length of follow-up is 2.7 years mean (2.2 years median).\n\nSubjects will be identified in the database that have at least one ICD-9 diagnostic code (493.xx) for asthma and at least 1 asthma treatment within a 12-month period prior to the index use of fluticsasone propionate/salmeterol xinafoate or inhaled corticosteroids. Subjects will be followed in the database until they have the event of interest (asthma-related emergency department visit, hospitalization, or oral corticosteroid use or combination of asthma-related emergency department/hospitalization or asthma-related emergency department/hospitalization/oral corticosteroids) or until they are lost to follow up whichever comes first. Subjects can be censored if they leave the database, have the event of interest, or are dispensed another asthma controller other than the medication of interest. All outcomes will be assessed in the follow-up period. Time-dependent statistical models adjusting for differences in baseline (pre-index) asthma and patient demographics will be used to compare asthma events.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* One or more medical claims with a diagnosis (primary or secondary) of asthma (ICD-9-CM 493.XX) during study period;\n* One or more outpatient pharmacy claims during the study for one or more of the following \"study medications\":\n* Fluticasone propionate/salmeterol xinafoate 250 mcg/50 mcg or 100mcg/50mcg combinations\n* Fluticasone propionate 110 mcg or 220 mcg\n* One or more asthma exacerbations (asthma-related hospitalization or emergency department visit, oral corticosteriod prescription drug claim, or a combination of any of the above events) during the 12 months prior to the index date (\"pre-index period\") or\n* Five or more prescriptions for a short-acting beta agonist during the pre-index period.\n\nExclusion Criteria:\n\n* Patients with more than one of the study medications during the 3-month period beginning with the index date;\n* One or more prescriptions within three months of index date (pre or post) for an ICS or LABA other than the study medications\n* One or more prescriptions within three months of post index date for:\n* Any asthma maintenance medication\n* Any medical claims during study period with a diagnosis of: Chronic obstructive pulmonary disease (COPD) (ICD-9-CM 491, 492, or 496); or Respiratory tract cancer (ICD-9-CM 160-164, or 231)",
+  "minimum_age": "12 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Asthma subjects identified from the IMS Health/Pharmetrics database, which is a comprehensive, de-identified United States (US) healthcare claims database that is representative of the non-elderly, insurance-carrying population, The total population is 35.4 million. The average length of follow-up is 2.7 years mean (2.2 years median). Subjects will be identified using asthma ICD-9 codes (493.xx) and use of asthma medications. Subjects will be between the ages of 12 and 65 without comorbid chronic obstruction pulmonary disease. To be included in the analysis, subjects will need a dispensing history of either fluticasone propionate/salmeterol xinafoate 250 mcg/50 mcg or 100mcg/50mcg combinations or fluticasone propionate 110 mcg or 220 mcg.",
+  "condition": [
+    "Asthma"
+  ],
+  "overall_status": "COMPLETED"
+}

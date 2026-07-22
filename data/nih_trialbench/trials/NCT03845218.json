@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT03845218",
+  "title": "Retinitis Pigmentosa Clinical Measures and Repeatability Testing of Potential Outcome Measures",
+  "brief_summary": "Background:\n\nRetinitis pigmentosa (RP) is a group of blinding eye diseases. It is caused mostly by mutations in photoreceptor-expressed genes. RP affects about 2 million people globally. There is no cure, but treatment and diagnosis can be guided by certain tests. Researchers want to see how well these tests capture stages of RP.\n\nObjectives:\n\nTo find out how well certain tests track changes in retinitis pigmentosa.\n\nEligibility:\n\nPeople ages 12 and older with RP\n\nHealthy volunteers ages 18 and older with no evidence of RP\n\nDesign:\n\nParticipants will be screened in another protocol.\n\nParticipants will have 2 visits about 6 weeks apart. Both will include all the tests below. Each visit will last 5-6 hours, or a visit can be split into 2 days.\n\nParticipants will give their medical and eye history.\n\nParticipants will have an eye exam. Their pupils will be dilated with eye drops.\n\nParticipants will give blood samples.\n\nPictures of participants retinas will be taken. Their retinas will be measured.\n\nParticipants will take several eye tests. They will:\n\nSit in a dark room and press a button when they see lights.\n\nView a bright background then press a button when they see lights.\n\nLook into a bowl and press a button when they see lights.\n\nSit in the dark with their eyes patched. Then they will take eye-numbing drops and wear contacts as lights flash. A small electrode taped to their forehead will record signals from their retinas.\n\nMinors will give written consent to stay in the study when they turn 18. After the study ends, they may also be asked to give consent for researchers to continue to use their study information.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA for RP Participants:\n\nTo be eligible, the following inclusion criteria must be met, where applicable.\n\n* Participant must be 12 years of age or older.\n* Participant (or legal guardian) must understand and sign the protocol s informed consent document.\n* Participant must have evidence of RP as defined by characteristic ERG responses, visual fields, clinical exam and /or genetic testing.\n\nINCLUSION CRITERIA FOR HEALTHY VOLUNTEERS:\n\nTo be eligible, the following inclusion criteria must be met:\n\n1. Participant must be 18 years of age or older.\n2. Participant must understand and sign the protocol s informed consent document.\n3. Participant must not have evidence of RP.\n\nEXCLUSION CRITERIA FOR ALL PARTICIPANTS:\n\nA participant is not eligible if any of the following exclusion criteria are present.\n\n* Participant is actively receiving study therapy in another investigational study.\n* Participant is started on (or changed dosage of) topical or systemic carbonic anhydrase inhibitor (CAI) treatment in the three months prior to enrollment.\n* Participant is expected to be unable to comply with study procedures or follow-up visits.\n* Participant has evidence of an ocular disease other than RP in either eye that may confound the outcome of the study (e.g., diabetic retinopathy with ten or more hemorrhages or microaneurysms, uveitis, pseudovitelliform macular degeneration, severe myopia).\n* Participant is taking ocular or systemic medications known to be toxic to the lens, retina or optic nerve (e.g., ethambutol, chloroquine, or hydroxychloroquine).\n* Participant has a condition that would preclude participation in the study (e.g., unstable medical status including blood pressure and glycemic control) by interfering with the participant s ability to engage in the required protocol evaluation and testing and/or comply with study visits.\n* Participant is an NIH employee associated with this study.\n* Participant is unable or unwilling to give informed consent that includes use of medical records and clinical samples for current and future research.",
+  "minimum_age": "12 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Up to 120 participants aged 12 or older with a diagnosis of RP. Up to 30 healthy volunteers.@@@@@@",
+  "condition": [
+    "Retinitis Pigmentosa"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study of retinitis pigmentosa and healthy volunteers, with no systemic therapy for advanced disease required or specified. The trial does not involve cancer or systemic therapy lines.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention any prior systemic therapy for advanced disease, as this is a non-oncology observational study. No line-of-therapy intent is defined or applicable."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02518646",
+  "title": "DElirium prediCtIon in the intenSIve Care Unit: Head to Head comparisON of Two Delirium Prediction Models",
+  "brief_summary": "Currently, two ICU delirium prediction models are available: the PRE-DELIRIC model and the early prediction model (E-PRE-DELRIC). However, the use of these prediction models is not yet implemented as standard in clinical practice, as it is unknown which delirium prediction model can best be used to predict delirium in ICU patients.Therefore the main aim of this study is to compare the performance of the PRE-DELIRIC model and the E-PRE-DELRIC model.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* ICU patients aged \u226518 years;\n* Surgical, medical, neurology/neurosurgical, or trauma patients.\n\nExclusion Criteria:\n\n* Delirious at ICU admission;\n* Expected ICU stay shorter than 6 hours;\n* Unable to reliably assess ICU delirium due to:\n* sustained coma during entire ICU stay;\n* unable to understand the language spoken;\n* severely mentally disabled;\n* serious receptive aphasia;\n* serious auditory or visual disorders.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients aged \u2265 18 years (surgical, medical, neurology/neurosurgical, or trauma patients) a from the participating multinational ICUs. These ICU patients are at risk of developing the outcome of interest, delirium.",
+  "condition": [
+    "Delirium"
+  ],
+  "overall_status": "COMPLETED"
+}

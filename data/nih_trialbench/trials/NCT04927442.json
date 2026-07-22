@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT04927442",
+  "title": "Natural History Study of COVID-19 Using Digital Wearables",
+  "brief_summary": "Background:\n\nPeople with COVID-19 have varying degrees of illness. It can range from no or mild symptoms to critical illness and death. Some people with COVID-19 have long-term effects regardless of the severity of their disease initially. Researchers want to learn more to see if they can better predict where a person may fall on the illness spectrum.\n\nObjective:\n\nTo follow and record symptoms of COVID-19 to see how it progresses in people and why some people stay sick longer than others.\n\nEligibility:\n\nPeople ages 18-65 who received a COVID-19 positive test result in the 72 hours before their enrollment in the study.\n\nDesign:\n\nParticipants will complete a 30-minute baseline survey. They will answer questions about themselves and their health.\n\nParticipants will get a digital wristband and temperature sensor in the mail. They will get instructions on how to set up and wear the devices. They will download a mobile application on their phone. The app will collect data from the devices.\n\nParticipants will wear the wristband and sensor every day for the first month. Then they will wear the devices for a total of 40 days over the next 5 months. On the days they wear the devices, they will answer a 2-question health survey via the app.\n\nParticipants will answer a 20-minute online survey about their health every 30 days.\n\nIf participants are hospitalized, a family member or close friend will be asked to complete a brief 7-minute online survey about their hospital stay and treatment.\n\nParticipants will be sent alerts and reminders throughout the study. Participation will last for 6 months.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible to participate in this study, an individual must meet all the following criteria:\n\n* Stated willingness to comply with all study procedures and availability for the duration of the study.\n* Male or female, aged 18 to 65. The pediatric population \\<18 years differs from adults \\>18 years in infection rates, symptom manifestation, and outcomes (e.g., multi- inflammatory syndrome). Although population 12 and older is now eligible to receive the vaccine, population over 65 was the first eligible age group to receive the vaccine in the US. Furthermore, protections are in place to reduce transmission among the elderly in general and in nursing homes in particular.\n* Documentation of a SARS-Cov-19 positive test (PCR or antigen/rapid test) \\<=5 days before enrollment issued by a public or private healthcare facility, provider or practitioner, or a COVID-19 testing lab or center or pharmacy. Recruitment materials list patients must be within 3 days of a positive test, which gives the research team 2 days to enroll patients in the study. Tests with no documented positive result (e.g., self-collection kits for home tests for COVID-19) are not permitted because it is difficult to ascertain the test date, time, and test result.\n* Owns or has access to supported device (i.e., smartphone or a tablet) that compliant with the specifications listed below and with an existing cellular data plan:\n\n  1. Android phones and tables with an operating system of 6.0 or newer (6.0, Bluetooth 4.2 or Bluetooth 5.0 support, and which implement Bluetooth Low Energy (BLE) standard)\n  2. iPhone SE (1st, 2nd generation), 6s/6s plus, 7/7 plus, 8/8 plus, X, XS, XR, 11, 11 Pro, 11 Pro Max, 12, 12 Mini, 12 Pro, 12 Pro Max\n  3. iPad mini 4; iPad mini (5th generation), iPad (5th, 6th, 7th, 8th generation); iPad Air 2; iPad Air (3rd, 4th generation); 9.7- inch iPad Pro; 10.5-inch iPad Pro; 11-inch iPad pro (1st, 2nd, and 3rd generation); 12.9-inch iPad pro (1st, 2nd, 3rd, 4th, 5th generation)\n  4. Devices released in 2021 and afterward that are compatible with the Biostrap app.\n* Speaks English. Non-English speakers will be unable to use the Biostrap mobile app. Although efforts are currently underway to provide the app in Spanish, the current app is only available in English.\n* Agreement to adhere to lifestyle considerations throughout the study duration (i.e., wear a digital wristband and temperature patch).\n* Ability of subject to understand and willingness to consent to the participate.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Enrollment in clinical trials on experimental COVID-19 therapeutics at baseline. Patients will be instructed to alert the NIMHD research team if a patient participates in a clinical trial after enrollment in this study.\n* Requirement of hospitalization at enrollment.\n* Inability to consent.\n* Unwillingness to comply with study procedures (i.e., wearing a wristband and temperature patch, downloading a mobile application, providing proof of positive COVID-19 test, providing data required for the study such as medical history data and contact information for two close kin).\n* Participants residing outside US mainland.\n* Known history of allergic reaction to adhesives.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Covid-19 patients who received a positive diagnosis (PCR or rapid test) 5 days before enrollment.",
+  "condition": [
+    "COVID-19 Virus Disease"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study of adults recently diagnosed with COVID-19, with no requirement for prior or current systemic therapy for advanced disease. The trial does not focus on cancer or systemic therapy lines.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": null,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility is based on a recent positive COVID-19 test, with no mention of cancer, advanced disease, or prior systemic therapy. All participants are treatment-naïve with respect to systemic therapy for advanced disease."
+    }
+  ]
+}

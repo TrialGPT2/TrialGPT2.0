@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT00864929",
+  "title": "An Epidemiological Study on Antimicrobial Treatment of Nosocomial Infections in Clinical Practice",
+  "brief_summary": "The present study is a retrospective cohort study on patients who suffered a nosocomial infection in major hospitals in Vietnam. Data relating to patient demography include age, gender; medical history; APACHE II score; background conditions, infection details and antimicrobial therapy; and all-caused mortality, time of hospitalization and intensive care. The investigators hypothesis is that antimicrobial treatment inappropriate is highly dependent on incidence of antibiotic resistant pathogens, nonfermentative Gram-negative bacilli and ESBL-producing enterobacteriaceae spp. Variables are demographic characteristics, background conditions, immunosuppressive therapy, antimicrobial susceptibility and inappropriate treatment is explored as possible predictors of mortality.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient was diagnosed as nosocomial infection defined according to criteria established by the US CDC. The diagnosis criteria for ventilator-associated pneumonia are modified from those established by the American College of Chest Physicians.\n* Patient received empiric antimicrobial therapy within 24 hour from onset of infection and had antimicrobial susceptibility.\n\nExclusion Criteria:\n\n* A patient was in part of a controlled clinical trial for the current infection episode.\n* Patients with suspected infections by virus or fungus or tuberculosis will be excluded.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patient was diagnosed as nosocomial infection",
+  "condition": [
+    "Nosocomial Infection"
+  ],
+  "overall_status": "COMPLETED"
+}

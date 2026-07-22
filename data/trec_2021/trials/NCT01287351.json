@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01287351",
+  "title": "Real-world Effectiveness and Cost-effectiveness of Qvar Versus FP, a US Study",
+  "brief_summary": "This study will compare the absolute and relative effectiveness and cost-effectiveness of asthma management in patients in the USA on inhaled corticosteroid (ICS) maintenance therapy as HFA-BDP (Qvar\u00ae) pressurised metered dose inhaler (pMDI) compared with fluticasone propionate (FP) pMDI. .",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Aged: 5-80 years:\n\n  * Paediatric cohort (aged 5-11 years), and\n  * Adult cohort (aged 12-60 years)\n  * Non-smokers aged 61-80 years\n* Evidence of asthma:\n\n  * a diagnostic code for asthma, (ICD 9 codes: 493xx) or\n  * \u22652 prescriptions for asthma at different points at any time\n* Be on current asthma therapy\n\n  * \u22651 other asthma prescription during the outcome period\n* Have at least one year of baseline data (prior to the IPD) and at least one year of outcome data (following the IPD).\n\nExclusion Criteria:\n\n* had been diagnosed with any chronic respiratory disease at any time other than asthma\n* received maintenance oral steroid therapy during baseline.\n\nUpdated inclusion criteria - used in the latest analysis:\n\n* Aged 12-60 years (paediatrics included in original study - removed to make comparable with USA data)\n* Evidence of asthma: a diagnostic code of asthma or \u22652 scripts for asthma in baseline year at different points in time\n* Have definite dosing instructions\n* Have at least 1 year of up-to-standard (UTS) baseline data before IPD\n* Have at least 1 year of UTS outcome data after IPD. Index dates from 1998 onwards were accepted in the study.\n\nUpdated exclusion criteria - used in the latest analysis:\n\n* Had a diagnostic read code for chronic obstructive pulmonary disease (COPD) at any time\n* Had a diagnostic read code for chronic respiratory disease at any time\n* Were on maintenance oral steroid therapy at baseline",
+  "minimum_age": "5 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Asthma patients who either:\n\n(i) Initiate ICS therapy as one of:\n\n* HFA-BDP pMDI\n* FP pMDI\n\nOR\n\n(ii) Step up ICS therapy as one of:\n\n* HFA-BDP pMDI\n* FP pMDI",
+  "condition": [
+    "Asthma"
+  ],
+  "overall_status": "COMPLETED"
+}

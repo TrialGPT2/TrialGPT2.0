@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02256319",
+  "title": "Dexmedetomidine vs Propofol on the Recordings of Deep Brain Activity Measured Through Implanted Stimulators",
+  "brief_summary": "This clinical trial has been designed to study and compare changes in deep brain activity (field potentials) in Parkinson's disease (PD) patients while awake, and during sedation with dexmedetomidine or propofol. The recording is made through a deep brain stimulation (DBS) electrode implanted for PD management.\n\nThe investigators hypothesize that dexmedetomidine produces fewer changes as compared to propofol, and that those changes are consistent and recognizable when compared to activity in patients not exposed to any sedation. Typification of those changes would in the future allow for patients to undergo this surgery comfortably while not compromising the quality of the recording and of the final clinical outcome. The principal variable analyzed is the signal's power in each of the frequency bands, absolute and relative. The analysis will include usual clinical methods such as rapid Fourier transform (FFT) and window fast Fourier transform (WFFT), wavelet analysis, Gabor, and coherence.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Capacity to understand, consent and commit for the three phases of the study.\n* Older than 18 years old.\n* The patient is scheduled for DBS electrode placement for PD treatment by his neurologist.\n\nExclusion Criteria:\n\n* Allergy or hypersensibility to dexmedetomidine or propofol\n* Cardiac blockade (types 2 and 3) without an implanted pacemaker\n* Low blood pressure (mean \\< 60 mmHg) or symptoms of low cardiac output.\n* Severe cerebrovascular disease.\n* Pregnancy or nursing mothers.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Parkinson's Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

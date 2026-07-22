@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04606849",
+  "title": "Adaptation and Pilot Implementation of ePNa Clinical Decision Support for Utah Urgent Care Clinics",
+  "brief_summary": "We plan to adapt an innovative, validated emergency department (ED) CDS tool based on consensus guidelines for pneumonia care (ePNa) to function in urgent care clinics (Instacares at Intermountain) and combine it seamlessly with Stanford's CheXED artificial intelligence model using an interoperable platform currently under development by Care Transformation Information Services at Intermountain. We will then deploy it to one of two groups of Instacares (randomly selected) using the CFIR framework for Implementation Science best practice.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* All patients \u2265 12 years of age with pneumonia: defined by the J-18.X pneumonia code or acute respiratory failure or sepsis with secondary pneumonia codes\n\nSurvey All physicians and advanced practice clinicians who are employed and actively seeing patients in the 4 Utah Valley Instacares\n\nExclusion Criteria:\n\n* Patients without radiographic confirmation of pneumonia\n* Subsequent episodes of pneumonia within 12 months (so as not to over-represent patients with recurrent pneumonia caused by recurrent aspiration or structural lung disease).\n\nSurvey No providers will be excluded from the survey invitation",
+  "minimum_age": "12 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pneumonia"
+  ],
+  "overall_status": "RECRUITING"
+}

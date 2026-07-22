@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT00007150",
+  "title": "Treatment of Hemochromatosis",
+  "brief_summary": "This study will evaluate the effectiveness of a test called MCV in guiding phlebotomy (blood drawing) therapy in patients with hemochromatosis an inherited disorder that causes too much iron to be absorbed by the intestine. The excess damages body tissues, most severely in the liver, heart, pancreas and joints. Because iron is carried in the hemoglobin of red blood cells, removing blood can effectively lower the body s iron stores.\n\nPatients with hemochromatosis undergo weekly phlebotomy treatments (1 pint per session) to deplete iron stores. This usually requires 10 to 50 treatments, after which blood is drawn every 8 to 12 weeks to prevent a re-build up of iron. A test that measures ferritin a protein involved in storing iron is commonly used to guide phlebotomy therapy in hemochromatosis patients. This study will compare the usefulness of the ferritin test with that of MCV, which measures red blood cell size, in guiding phlebotomy therapy. In addition, the study will 1) examine whether keeping iron levels low during maintenance therapy can help heal severe liver disease and improve arthritis in affected patients, and 2) design a system for making blood collected from hemochromatosis donors available for transfusion into other patients.\n\nPatients 15 years and older with diagnosed hemochromatosis or very high iron levels suggesting possible hemochromatosis may be eligible for this study. Candidates will have a history, physical evaluation, review of medical records and blood tests, and complete a symptoms questionnaire. Participants will have the following procedures:\n\n* Phlebotomy therapy every 1 to 2 weeks, depending on iron levels\n* Blood sample collection for blood cell counts and iron studies at every phlebotomy session\n* Blood sample collection (about 2 tablespoons) every 1 to 2 weeks after iron stores have been depleted\n* Phlebotomy every 8 to 12 weeks after iron stores are used up to prevent re-build up of excess iron\n\nWith each blood donation that will be made available for transfusion to other patients, participants will answer the same health history screening questions and undergo the same blood tests given to all regular volunteer blood donors. These include screening for the HIV and hepatitis viruses and for syphilis.\n\nPatients who meet height and weight requirements may be asked to consider \"double red cell\" donations using apheresis. In this procedure, whole blood is collected through a needle placed in an arm vein, similar to routine phlebotomy. The blood then circulates through a machine that separates it into its components. The red cells are removed and the rest of the blood is returned to the body, either through the same needle or through a second needle in the other arm. Patients who have very high iron levels or an enlarged liver will be offered evaluation by the NIH Liver Service. Those judged to be at increased risk for cirrhosis may be advised to undergo a liver biopsy. If cirrhosis is found, the patient will be asked to consider a repeat biopsy after 3 to 5 years of continuous iron depletion to see if scarring has improved. Patients with arthritis will be offered evaluation by the NIH Arthritis Service and, depending on symptoms, may be advised to have X-ray studies or a joint biopsy.\n\n...",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nConfirmed diagnosis of HH, defined by the following HFE genotypes: C282Y/C282 or C282Y/H63D. Up to 50 percent of the total study population may have received prior phlebotomy therapy.\n\nElevated transferrin saturation and/or ferritin level, but diagnosis of HH not yet confirmed by genotype or liver biopsy.\n\nElevated transferrin saturation and/or ferritin level without genotype findings listed above, but with elevated hepatic iron index on liver biopsy.\n\nFamily member screening (unknown HH phenotype or genotype)\n\nEXCLUSION CRITERIA:\n\nAge less than 15 years.\n\nPregnancy.\n\nPatients requiring therapeutic phlebotomy for reasons other than iron overload (polycythemia vera).\n\nPatients with iron overload not due to HH (e.g. hepatitis C infection, porphyria cutanea tarda, Wilson s disease, alpha-1-antitrypsin deficiency, alcohol abuse).\n\nOther medical illness or condition which, in the opinion of the Investigators, may contraindicate participation due to risk to patient or to Donor Center.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hemochromatosis"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology trial for patients with hemochromatosis, evaluating phlebotomy therapy guided by different laboratory tests. There is no systemic therapy for advanced or metastatic malignant disease involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This trial does not involve systemic therapy for advanced or metastatic cancer; it is focused on phlebotomy for iron overload in hemochromatosis. No line-of-therapy intent for advanced malignant disease is defined or applicable."
+    }
+  ]
+}

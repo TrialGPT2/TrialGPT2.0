@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT04612413",
+  "title": "A Phase 2 Study Evaluating Efficacy, Safety and Tolerability of Different Doses and Regimens of Allocetra-OTS for the Treatment of Organ Failure in Adult Sepsis Patients",
+  "brief_summary": "A Phase 2, Multi-Center, Randomized, Placebo-Controlled, Dose-Finding Study Evaluating Efficacy, Safety and Tolerability of Different Doses and Regimens of Allocetra-OTS for the Treatment of Organ Failure in Adult Sepsis Patients",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Male or female \u226518 years and \u226490 years of age.\n2. Meets Sepsis 3 criteria with a SOFA score \u22655 above pre-admission status\n3. Sepsis due to infection in at least one of the below organs:\n\n   3.1. Community-Acquired Pneumonia (CAP). 3.2. Urinary tract infection 3.3. Acute cholecystitis diagnosed by Tokyo criteria 3.4. Acute cholangitis diagnosed by Tokyo criteria 3.5. Other intra-abdominal infections (IAI) 3.6. Skin or soft tissue infection\n4. Adequate source control\n\nExclusion Criteria:\n\n1. Sepsis due to infection other than lung infection, UTI, IAI, skin/soft tissue infection or sepsis patients where site of infection is unclear or unknown.\n2. On chronic dialysis.\n3. Patients with acute pancreatitis\n4. Moribund patients\n5. Weight \\<50 kg or \\>120 kg or BMI \\>40 kg/m\\^2.\n6. SOFA score \u226514 at screening.\n7. Patients with nosocomial infection.\n8. A known malignancy.\n9. Patients with end-stage disease (unrelated to sepsis)\n10. Known active symptomatic SARS-CoV-2 or chronic viral infections, such as HBV or HCV, HIV or other chronic infections.\n11. Chronic respiratory disease.\n12. Known active upper GI tract ulceration or hepatic dysfunction.\n13. Known NYHA class IV heart failure or unstable angina, ventricular arrhythmias, acute coronary disease or myocardial infarction.\n14. Known immunocompromised state or medications known to be immunosuppressive.\n15. Organ allograft or previous history of stem cell transplantation.",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sepsis",
+    "Community-acquired Pneumonia",
+    "Urinary Tract Infections",
+    "Cholecystitis, Acute",
+    "Cholangitis Acute",
+    "Intraabdominal Infections"
+  ],
+  "overall_status": "COMPLETED"
+}

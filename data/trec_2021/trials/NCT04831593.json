@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04831593",
+  "title": "The Rate of Full and Empty Stomach in Elective and Emergency Pediatric Patients",
+  "brief_summary": "Background and Aim:\n\nPulmonary aspiration of gastric content in the perioperative period is rare, but it is an important cause of morbidity and mortality that anesthetists never want to encounter. Due to reasons such as emergency surgical procedures, communication problems with pediatric patients or their parents, impaired cognitive function, obesity, diabetes mellitus, chronic liver and kidney diseases, it is observed that there is sometimes inconsistency between the periods defined in the preoperative fasting guidelines in pediatric patients and the state of gastric content and volume encountered in clinical practice. There is a lack of data on children on this issue. In this study, primary we aimed to evaluate the incidence of empty and full stomach in pediatric patients who underwent elective and emergency surgery in our routine anesthesia practice. Also we want to determine the relationship between fasting time and qualitative assessment of gastric content. Secondary this study sought to examine whether correlation between gastric ultrasound finding and fasting time, and also to determine relationship with the current comorbidities.\n\nDesign:\n\nThis is a prospective, single blinded, observational study. The minimum sample size required to determine the prevalence of full stomach, 0.05, within the limits of \u00b1 0.025 with 0.95 confidence, was calculated as 292.\n\nWhen calculating with the proposed equation of n = 100 + 50i to determine the factors affecting by logistic regression (here i is the number of variables in the model), the minimum number of samples required for logistic regression analysis was calculated as 300 in case of 4 independent variables in the model. n=100+50\\*4= 300\n\nMethods:\n\nPediatric patients younger than 18 yr old who are to undergo elective and emergency surgery under general anaesthesia at our hospital are enrolled in this prospective observational study between April and December 2021. Preoperative ultrasound examination of the gastric antrum are performed by one anesthesiologist who has been instructed and supervised by an experienced pediatric radiologist and who is blind to the patient's history. Ultrasonographic measurement of the gastric antral cross-sectional area (CSA) are performed in supine position and right lateral decubitus position (RLD). The gastric antrum is imaged in a sagittal plane, between the left lobe of the liver and the pancreas, at the level of the aorta, as previously described \\[1\\]. This examination allowed qualitative assessment of gastric contents according to the three-point grading scale previously described by Perlas and colleagues\\[2\\]. Grade 0 was defined by the absence of appearance of any content in a flat antrum in both the supine and the RLD positions. Grade 1 was defined by the appearance of any gastric content in the RLD position only, and Grade 2 was defined by the appearance of any content in both the RLD and the supine positions. The antral cross-sectional area is also calculated in both position, by measuring the longitudinal diameter (D1) and the anteroposterior diameter (D2) of the antrum, from serosa to serosa using this formula \\[3\\] Antral area= (\u03c0 x D1 X D2) / 4. Patients' characteristic data ( age, gender, weight, height, BMI and ASA physical status classification), fasting duration, type of elective and emergency surgery, chronic disease and complications (regurgitation, pulmonary aspiration, etc.) that may develop during the peroperative period are recorded.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Pediatric patients younger than 18 yr old who are to undergo elective and emergency surgery under general anaesthesia are included in the study.\n\nExclusion Criteria:\n\n* Exclusion criteria will be, having a nasogastric tube inserted and patient refusal.",
+  "minimum_age": "",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Pediatric patients younger than 18 yr old who are to undergo elective and emergency surgery under general anaesthesia",
+  "condition": [
+    "Ultrasound",
+    "Children",
+    "Surgery"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00789009",
+  "title": "Clinical and Immunologic Monitoring of Patients With Known or Suspected HIV Infection",
+  "brief_summary": "This study will investigate HIV infection and associated conditions by monitoring infected patients. The study will also serve as a means for recruiting HIV-infected individuals to NIAIDs ongoing clinical and laboratory studies and supporting the institute s infectious disease training program by providing Infectious Disease fellows with ongoing training in the management of HIV infection.\n\nPeople 18 years of age and older with suspected or confirmed HIV infection who live in the Washington, D.C., metropolitan area may be eligible for this study. Physician referral is required.\n\nParticipants come to the NIH Clinical Center a minimum of once every 3 to 4 months for evaluation with a physical examination; blood tests for research purposes, safety, immune status and viral load; and response to any treatment they may be receiving. Other procedures, such as a biopsy, are done only as needed for standard medical practice, and informed consent is obtained before any such procedure is done. Treatment offered is consistent with standard medical practice; no experimental treatments are offered under this protocol.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPatients are subject to selection by the Principal Investigator, and will satisfy all of the following inclusion criteria:\n\n1. HIV-infection as documented by positive HIV ELISA and Western Blot or positive assay for HIV RNA (serum or plasma). Patients may also be included if they have laboratory or clinical evidence suggestive of possible HIV-infection.\n2. Age 18 years or older.\n3. Ability and willingness of subject to understand study requirements and give written informed consent.\n4. Group I patients are required to have a primary care provider outside NIH to manage non-HIV medical problems. Group II patients must have a referring physician or clinic that will continue to manage HIV and non-HIV medical care.\n5. For Group I patients, residence within the greater Washington DC area (approximately within a 100-mile radius of the NIH Bethesda campus) is required.\n\nEXCLUSION CRITERIA:\n\nA prospective study subject will be ineligible for this study if he or she satisfies either of the following criteria:\n\n1. Has active drug or alcohol use or dependence or any other condition that, in the opinion of the investigator, would interfere with adherence to study requirements.\n2. Refuses to allow collection and storage of samples for research purposes.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The first subgroup will consist of patients recruited from the Washington DC metropolitan area who will receive long-term care for their HIV infection through the NIAID/CCMD HIV clinic. The second subgroup will consist of patients with known or suspected HIV infection who have been referred to a NIAID/CCMD investigator for reasons such as further testing to diagnose or exclude HIV disease, assistance with the diagnosis or management of acute HIV-related problems. This latter subgroup of patients will be followed on a short-term (12 months or less). Following discharge from the protocol, Group II patients will be returned to the care of their referring physicians.",
+  "condition": [
+    "HIV"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling adults with known or suspected HIV infection for clinical and immunologic monitoring. There are no requirements or restrictions regarding prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention any requirements or restrictions regarding prior systemic therapy for advanced disease. Patients are enrolled based on HIV status, not prior treatment history."
+    }
+  ]
+}

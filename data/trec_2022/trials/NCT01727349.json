@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01727349",
+  "title": "Validation of a Predictive Risk Equation for Type 2 Diabetes in Families With Risk",
+  "brief_summary": "Considering its epidemic-like development worldwide, associated with modifications in lifestyle, as well as its enormous social and economic weight, the prevention of type II diabetes is certain to be a central concern of health systems within the developed countries in the decades to come. However, while simple obesity concerns the entire population, type 2 diabetes affects only one sub-population at high genetic risk. To be effective and realistic in economic terms, efforts at prevention must be thus targeted towards these subjects at high risk. The key issue involves identifying such subjects early enough so that a strategy of effective prevention can be organized in good time.\n\nUntil now, efforts have been concentrated on individuals at risk for diabetes readily identifiable within the general population, typically subjects in the second half of adulthood, presenting abdominal obesity and mild abnormalities of blood sugar. Preventive lifestyle and dietary measures are proposed but are constrictive and difficult to maintain over time, and the results, although they may be significant, remain disappointing, with mere postponement of an outcome which at this stage appears inevitable. The reason is ascribable to excessively tardy intervention, when the pathogenic process has already been ongoing for some ten years and the endocrine function of the pancreas is probably already irreparably impaired.\n\nThe alternative thus is earlier intervention, in childhood, adolescence or early adulthood. The problem is to identify individuals at high risk of becoming diabetic at a time when they are presenting no simple clinical or laboratory abnormalities allowing easy diagnosis. The familial character of type 2 diabetes is now well established, and future diabetic subjects are themselves above all the children of diabetic subjects. However, the prevalence of the disease among the descendants of type 2 diabetic subjects is around 20-30% and predictive tools are needed to combat diabetes in these high-risk families.\n\nWe propose to create a risk equation using an algorithm to reliably predict children most likely to develop diabetes later in life.\n\nThe algorithm will include 3 classes of data:\n\n* The genotype stemming from the genetic characterization of individuals and those their parents;\n* Environmental data concerning childhood, especially eating habits and physical activity;\n* Data of the mother who was eventually diabetic during pregnancy.\n\nFrom a methodological standpoint, it would be rather difficult to take blood samples from children and wait some 50 years to determine whether or not they develop diabetes. To circumvent this difficulty, we will recruit subjects in families with a history of type II diabetes:\n\n* Parents alive, including at least one type 2 diabetic subject\n* Adult children (aged over 35 years), some of whom are already presenting type II diabetes, and healthy brothers and sisters, who form the control population. Test will be done to determine whether healthy subjects are really safe from the risk of diabetes (HbA1c measurement and glucose load test).\n\nThe Descendence study will include 500 families at risk involving about 3000 subjects (1000 subjects with diabetes and 2000 healthy subjects). It is expected to answer the following question: for a child born in such families at risk, what is the probability of developing diabetes later in life, so that early preventive action may be taken",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Families at risk for diabetes defined by the existence of the disease in two successive generations and consists with healthy subject in the two generations.\n* Subjects must be aged over 25 years\n\nExclusion Criteria:\n\n* subject refusing to participate\n* pregnant women",
+  "minimum_age": "25 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Type 2 Diabetes"
+  ],
+  "overall_status": "COMPLETED"
+}

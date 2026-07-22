@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00246857",
+  "title": "Screening Protocol for Genetic Diseases of Lymphocyte Homeostasis and Programmed Cell Death",
+  "brief_summary": "This study will determine the biochemical and genetic causes of inherited immune diseases affecting lymphocyte homeostasis. Lymphocytes are a type of white blood cell that fights infections. Normally, the body keeps a precise balance in which lymphocyte growth is matched by lymphocyte death. People with constantly enlarged lymph nodes or spleen, along with autoimmune disease, immunodeficiency, lymphoma, or other immune problems affecting lymphocytes may have an abnormality of the immune system in the cell growth and cell death processes that regulate lymphocyte homeostasis.\n\nPatients who have, or are suspected of having, an inherited lymphocyte homeostasis or programmed cell death susceptibility syndrome may be eligible for this study. Relatives of patients are also included.\n\nParticipants' (patients and relatives) medical records are reviewed and blood samples are drawn for studies to identify genes involved in immune disorders. Tissues that have been removed from patients for medical reasons, such as biopsied tissues, may be examined for tissue and DNA studies. Relatives are studied to determine if some of them may have a very mild form of lymphocyte homeostasis disorder.\n\nPatients who have an immune problem that the researchers wish to study further will be invited to donate additional blood samples at irregular intervals (at least once a year) and to provide an update of their medical records at the same time.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPatients known to have or suspected of having an inherited immune cell homeostasis, programmed cell death susceptibility syndrome, lymphocyte developmental block, or defective immune cell effector functions will be eligible for enrollment. We will enroll\n\npatients with suspected disease if the investigator agrees that there is a high index of suspicion. Blood relatives of enrolled patients will be eligible for enrollment. There will be no limit as to age, sex, race, or disability.\n\nEXCLUSION CRITERIA:\n\nSeverely debilitated health status or poor venous access may preclude obtaining adequate specimens for analysis. The minimum weight for infants on this protocol is 3 kg because of the limits of maximal acceptable blood draw volumes and minimum requirement for core laboratory tests would exceed the acceptable volume.",
+  "minimum_age": "1 Month",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients referred by physician with a suspected inherited immune deficiency and their unaffected relatives.",
+  "condition": [
+    "Primary Immune Deficiency"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational genetic screening protocol for patients with inherited immune disorders affecting lymphocyte homeostasis and their relatives. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, and there are no restrictions or requirements regarding previous treatments. This is a genetic and observational study, not a therapeutic trial."
+    }
+  ]
+}

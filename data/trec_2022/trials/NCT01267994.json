@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT01267994",
+  "title": "A Clinical Trial of Anakinra for Steroid-Resistant Autoimmune Inner Ear Disease",
+  "brief_summary": "The purpose of this study is to determine if Anakinra (an interleukin-1 receptor antagonist) can improve hearing thresholds in those patients with Autoimmune Inner Ear Disease (AIED) that did not respond to oral steroid therapy for a sudden decline in hearing. The patients to be enrolled will have recently completed a course of oral steroids and demonstrated no change in their audiometric thresholds following corticosteroid therapy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Bilateral sensorineural hearing loss with an active decline in hearing in one ear\n* No audiometric improvement with 28-30 days of oral prednisone or other corticosteroid, including an initial dose of 60mg per day for 14 days\n* Enrollment within 14 days of completion of corticosteroid therapy\n* Age 13 years and older\n* No evidence of neutropenia (low white blood cell count)\n* No evidence of retrocochlear pathology (ie. acoustic neuroma/vestibular schwannoma)\n* May have concurrent, systemic autoimmune disease\n\nExclusion Criteria:\n\n* Age over 75, or less than 13\n* Neutropenia\n* Renal insufficiency\n* Pregnant females\n* Unilateral hearing loss\n* Patients with any immunodeficiency syndrome\n* Patients receiving methotrexate or any TNF (tumor necrosis factor) antagonist therapy\n* Patients with chronic infections\n* Patients treated for a malignancy within the past 3 years\n* Patients with a latex allergy\n* Patients with an inner ear anomaly\n* Patients with retrocochlear pathology",
+  "minimum_age": "13 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sensorineural Hearing Loss",
+    "Autoimmune Inner Ear Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

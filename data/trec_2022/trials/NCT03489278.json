@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03489278",
+  "title": "Clinical Procedures to Support Research in ALS",
+  "brief_summary": "The purpose of the Clinical Procedures To Support Research (CAPTURE) study is to utilize information collected in the medical record to learn more about a disease called amyotrophic lateral sclerosis (ALS) and related disorders.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosis of ALS or a related disorder (e.g. primary lateral sclerosis, progressive muscular atrophy).\n* Receiving care at a clinical center that uses Epic as its EHR.\n* Able and willing to provide informed consent (or informed consent obtainable from a designated proxy).\n\nExclusion Criteria:\n\n* Inability to understand English and/or Spanish",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Affected patients receiving care at a clinical center that uses Epic as EHR.",
+  "condition": [
+    "Amyotrophic Lateral Sclerosis",
+    "ALS-Frontotemporal Dementia",
+    "Primary Lateral Sclerosis",
+    "Progressive Muscular Atrophy"
+  ],
+  "overall_status": "RECRUITING"
+}

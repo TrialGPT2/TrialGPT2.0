@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04602442",
+  "title": "Safety and Efficiency of Method of Exosome Inhalation in COVID-19 Associated Pneumonia",
+  "brief_summary": "Coronavirus is an acute viral disease with prevailing upper respiratory tract infections caused by the RNA-containing virus of the genus Betacoronavirus of the Coronaviridae family. Most patients with severe COVID-19 develop pneumonia in the first week of the disease. As the infection progresses, the infiltration increases, and the affected areas increases. Excessive and uncontrolled immune system response with rapidly developing fatal cytokine storm plays the main role in the pathogenesis of acute respiratory distress syndrome (ARDS) due to SARS-CoV-2 infection.\n\nAccording to available data, exosomes can regulate inflammation and regenerative processes due to the change in the concentration of anti-inflammatory cytokines and switch the immune cell to regenerative secretome. Inhalation of exosomes may reduce inflammation and damage to the lung tissue and stimulate the regenerative processes.\n\nThis protocol has been developed based on the literature, information about the ongoing tests NCT04276987 (A Pilot Clinical Study on Inhalation of Mesenchymal Stem Cells Exosomes Treating Severe Novel Coronavirus Pneumonia) and NCT04384445 (Organicell Flow for Patients With COVID-19), Patent No 271036826 of 2019. \"A method for obtaining and concentrating microRNA-containing exosomal multi-potent mesenchymal-stromal cells for use in cosmetic and pharmaceutical products to stimulate regenerative processes and slow down aging.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n* Ability to understand the study objectives and risks and provide signed and dated informed consent;\n* COVID-19 infection (by PCR or antibody test or high probability of COVID-19 by CT);\n* Pneumonia requiring hospitalization, and oxygen saturation of \\<93%, need for noninvasive ventilation. The confirmed volume of lung damage by CT;\n* ability to proceed with inhalation by self;\n\nExclusion Criteria:\n\n* Severe respiratory failure at the time of screening due to COVID-19 pneumonia;\n* Known to undergo medical resuscitation for 14 days before randomization;\n* Any serious medical condition or deviation of the clinical laboratory parameter that, in the opinion of the researcher, prevents safe participation and completion of the study by the participant Confirmed uncontrolled active bacterial, fungal, viral or other infection (other than SARS-CoV-2).\n* According to the researcher, the progression to death is inevitable and will occur within the next 24 hours, regardless of the therapy.\n* The life expectancy of fewer than 28 days, taking into account a medical condition already existing that cannot be corrected, e.g. participants with the following conditions or suspicions: polyorganic insufficiency, poorly controlled neoplasms, terminal stage heart disease, cardiopulmonary cardiac arrest that required cardiopulmonary resuscitation, or electrical activity not accompanied by a pulse, or asystole within the last 30 days, terminal stage liver disease, terminal stage liver disease, or liver disease;\n* Pregnancy or breastfeeding;\n* Liver function failure (Class C for Child-Pugh), detected within 24 hours at screening (local laboratory);\n* Absolute neutrophil count (ANC) \\<500 cells/\u00b5L at screening (local laboratory);\n* Platelet count \\<50000 cells/\u00b5L at screening (based on laboratory data);\n* Creatinine level \u2265 1.5 from the upper limit;\n* Uncontrolled or untreated arrhythmia with clinical manifestations, myocardial infarction within the last 6 weeks or congestive heart failure (NYHA Degrees 3 or 4);\n* Respiratory failure in the last 6 months or home use of oxygen in severe chronic respiratory disease (COPD);\n* Quadriplegia;\n* Primary immunodeficiency, tuberculosis, progressive multifocal leukoencephalopathy, aspergillosis or other invasive mold/fungal infection in anamnesis, or internal or bone marrow transplantation for 6 months before randomization;\n* Known infection with hepatitis B or C viruses requiring therapy;",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19",
+    "SARS-CoV-2 PNEUMONIA",
+    "COVID-19"
+  ],
+  "overall_status": "UNKNOWN"
+}

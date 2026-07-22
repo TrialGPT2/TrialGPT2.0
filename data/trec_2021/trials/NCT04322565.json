@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04322565",
+  "title": "Colchicine Counteracting Inflammation in COVID-19 Pneumonia",
+  "brief_summary": "Cytokines and chemokines are thought to play an important role in immunity and immunopathology during virus infections \\[3\\]. Patients with severe COVID-19 have higher serum levels of pro-inflammatory cytokines (TNF-\u03b1, IL-1 and IL-6) and chemokines (IL-8) compared to individuals with mild disease or healthy controls, similar to patients with SARS or MERS . The change of laboratory parameters, including elevated serum cytokine, chemokine levels, and increased NLR in infected patients are correlated with the severity of the disease and adverse outcome, suggesting a possible role for hyper-inflammatory responses in COVID-19 pathogenesis. Importantly, previous studies showed that viroporin E, a component of SARS-associated coronavirus (SARS-CoV), forms Ca2C-permeable ion channels and activates the NLRP3 inflammasome. In addition, another viroporin 3a was found to induce NLRP3 inflammasome activation . The mechanisms are unclear.\n\nColchicine, an old drug used in auto-inflammatory disorders (i.e., Familiar Mediterranean Fever and Bechet disease) and in gout, counteracts the assembly of the NLRP3 inflammasome, thereby reducing the release of IL-1b and an array of other interleukins, including IL-6, that are formed in response to danger signals. Recently, colchicine has been successfully used in two cases of life-threatening post-transplant capillary leak syndrome. These patients had required mechanically ventilation for weeks and hemodialysis, before receiving colchicine, which abruptly restored normal respiratory function and diuresis over 48 hrs \\[4\\].",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Positive nasopharyngeal swab for COVID-19, asymptomatic or paucisymptomatic, aged \u226570 years and/or with clinical risk factors for poor outcome (clinically relevant chronic lung disease, diabetes and/or heart disease) or\n* symptomatic with respiratory or systemic symptoms, however clinically stable (MEWS\\<3) with CT imaging showing viral pneumonia and positive or pending pharyngo-nasal swab for COVID-19: Temperature 38\u00b0C and/or intensive cough, Respiratory rate \\< 25 /min, oxygen saturation (pulse oximetry) \\>95%\n* Positive swab for COVID-19\n* with respiratory and/or systemic symptoms and initial mild respiratory failure e with objective signs of lung involvement; the patient is in stable conditions (MEWS \\< 3) Temperature\\>38\u00b0C and or intensive cough, Respiratory rate \u226525 /min, or oxygen saturation 94- 95% in room air\n\nExclusion Criteria:\n\n* Pregnant or breast feeding\n* MEWS \\>=3\n* Hepatic failure Child-Pugh C\n* Enrollment in other pharmacological studies\n* Ongoing treatment with colchicine\n* Ongoing treatment with antiviral drugs that include ritonavir or cobicistat\n* Any medical condition or disease which in the opinion of the Investigator may place the patient at unacceptable risk for study participation.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Coronavirus Infections",
+    "Pneumonia, Viral"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03280147",
+  "title": "7 Days Versus 14 Days of Antibiotics for Neonatal Sepsis",
+  "brief_summary": "The optimum duration of intravenous antibiotic therapy for culture-proven neonatal bacterial sepsis is not known. Current practices, ranging from 7 days to 14 days of antibiotics, are not evidence-based. This is a randomized, active -controlled, multi-centric, non-inferiority trial to compare the efficacy of a 7-day course of intravenous antibiotics versus a 14-day course among neonates weighing \\> 1000 g at birth with culture-proven bacterial sepsis that is uncomplicated by meningitis, bone or joint infections deep-seated abscesses. The primary outcome measure is a definite or probable relapse within 21 days after stoppage of antibiotics.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\nInclusion criteria for the initial observation part of study preceding randomization\n\n1. Neonates aged 0-28 days, either inborn or outborn, who are currently admitted in the Neonatal Unit of the centre.\n2. Whose birth weight is greater than or equal to1000 grams (it should be reliably ascertained from records of a hospital)\n3. Whose residence is within approximately 15 kms from the center, so that the infant can be brought back to the center for follow-up\n4. Who have suspected septicemia for which a conventional or BACTEC/BACTALERT blood culture is sent and for which the treating physician decides to start antibiotics\n\nInclusion criteria for Randomization applicable after 7 days of therapy of above patients with sensitive antibiotics:\n\n1. Positive blood culture other than Staphylococcus aureus\n2. No signs and symptoms of sepsis from end of day 5 through end of day 7 of starting sensitive antibiotics\n\nExclusion Criteria:\n\nExclusion criteria for the initial observation part of study preceding randomization:\n\n1. Central Nervous System infection (Central Nervous System infection (meningitis will be defined as CSF Cells \\>25 per uL with polys \\>60% OR \\[(CSF glucose \\<20 mg/dL OR CSF:blood\\* glu ratio \\<0.6) AND (CSF protein \\>150 mg/dL in term OR \\>180 mg/dL in preterm)\\]\n2. Septic arthritis, osteomyelitis or deep-seated abscess as clinically judged by the treating team\n3. Life threatening congenital malformations as judged by the principal investigator of the centre\n\nExclusion criteria for randomization applicable after 7 days of therapy of above patients with sensitive antibiotics:\n\n1. Sterile blood culture\n2. Suspected contaminants in blood culture.\n3. Growth of Staphylococcus aureus in blood culture\n4. Growth of fungal organism in blood culture\n5. Diagnosis of meningitis, septic arthritis, osteomyelitis, abscess\n6. Has not gone into remission on day 5 or have recurrence of symptoms from day 5 through day 7\n7. If the empiric antibiotic is resistant but neonate has shown improvement of signs and symptoms of sepsis and there is ambiguity regarding in vivo sensitivity of antibiotic use",
+  "minimum_age": "1 Hour",
+  "maximum_age": "28 Days",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Infant, Newborn",
+    "Neonatal SEPSIS",
+    "Anti-bacterial Agents",
+    "Recurrence"
+  ],
+  "overall_status": "COMPLETED"
+}

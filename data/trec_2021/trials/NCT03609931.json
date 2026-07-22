@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03609931",
+  "title": "Patient Specific Mitral Valve Modeling for Surgical Planning and Training",
+  "brief_summary": "Mitral valve disease is a common pathologic problem occurring in approximately 2% of the general population but climbing to 10% in those over the age of 75 in Canada\\[1\\]. This project has three primary goals all of which will positively affect cardiac patient care.\n\n1\\) Create patient specific MV models for complex repairs that will allow surgeons the opportunity to practice the repair. 2) Potentially predict the outcomes following minimally invasive repair techniques such as transcatheter treatments (e.g., MitraClip). 3) Provide a model to train individuals on mitral valve repair techniques.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients undergo mitral valve repair with either surgery of MitraClip techniques\n* Over 18 years old\n\nExclusion Criteria:\n\n* Unable to place TEE probe\n* Refuse consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult patients with mitral regurgitation scheduled to undergo mitral valve repair with either a open heart surgical technique or with a MitraClip",
+  "condition": [
+    "Mitral Valve Prolapse",
+    "Mitral Regurgitation",
+    "Mitral Valve Disease"
+  ],
+  "overall_status": "UNKNOWN"
+}

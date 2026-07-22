@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04628000",
+  "title": "Baseline Vitamin D Deficiency and COVID-19 Disease Severity",
+  "brief_summary": "It is known that vitamin D has been found to decrease incidence of viral respiratory infections, as well as have effects on multiple cytokines involved in immunomodulation and the bradykinin/renin-angiotensin system.\n\nRecently, data was released showing a correlation between baseline vitamin D deficiency status and increased risk of contracting COVID-19.\n\nSeparate analysis shows that many of the deleterious effects of COVID-19 may be due to the bradykinin/RAS system, and that vitamin D is one plausible treatment option to modulate these effects.\n\nStudies are currently ongoing to determine if vitamin D supplementation of those hospitalized with COVID-19 has a beneficial effect on patient outcomes.\n\nHealthcare resources have been strained during the pandemic in areas of heavy caseload. It is possible that those with concurrent vitamin D deficiency and COVID positivity have an increased need for escalation of care. A small study has been conducted in this area, but was limited by small number of subjects.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Covid 19 +\n* Vitamin D level\n\nExclusion Criteria:\n\n* Age \\< 18\n* no associated vitamin D level",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Those hospitalized 3/9-9/7 2020 who were covid positive and had concomitant vit d level drawn",
+  "condition": [
+    "Vitamin D Deficiency",
+    "Covid19"
+  ],
+  "overall_status": "COMPLETED"
+}

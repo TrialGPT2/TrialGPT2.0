@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02008214",
+  "title": "Efficacy of PTX+IFN Alpha+ RBV on Hepatitis C Virus Coinfected HIV Patients",
+  "brief_summary": "Current Hepatitis C virus (HCV) treatment consists of the combination of interferon alpha 2a (IFN-alpha 2a) plus ribavirin (RBV) and it provides sustained virologic responses (SVR) on 54 to 56% on HCV monoinfected patients and this response is even lower on HIV-HCV coinfected patients. A previous study on HCV monoinfected patients showed that the addition of pentoxyfylline (PTX) to a treatment scheme based on interferon-alfa and ribavirin increased SVR on 25%, although it is not known if the same effect is to be obtained in HCV-HIV coinfected patients.\n\nOn the other hand, other factors such as host genetics, have proved to influence treatment response on HCV infected patients. The best described genetic factor so far is the interleukin 28B (IL28B) polymorphism rs12979860, where a cytosine-cytosine (CC) genotype provides an almost twice increase on SVR than the rest of the genotypes.\n\nTherefore, this is a randomized, double blind study to assess the efficacy of pentoxyfylline addition to a treatment scheme based on interferon-alfa and ribavirin in chronic HCV genotype 1, co-infected HIV-1 positive subjects, considering the IL28B polymorphism rs12979860.\n\nHIV-HCV coinfected subjects currently receiving Highly active antiretroviral therapy (HAART), with at least 8 months on undetectable HIV viral load and T helper cells count of 200 or higher will be included. Patients will be randomized on one of two groups:\n\n* Group A: IFN alpha 2a + RBV + PTX\n* Group B: IFN alpha 2a + RBV + placebo\n\nPatients will be followed for primary outcome during 72 (for rapid responders) or 96 weeks (for non rapid responses). Outcome measures will be the following:\n\n* SVR rate 24 weeks after the end of treatment\n* Grade of Hepatic fibrosis from baseline to the end of treatment, measured by transient elastography and the AST to platelet ratio index (APRI index)\n* IL28B rs12979860 genotype\n\nThe study hypothesis is that the addition of PTX to a treatment scheme based on IFN-alfa2a and RBV in chronic HCV genotype 1, co-infected HIV-1 positive subjects will improve SVR rate and fibrosis progression irrespectively of IL28B rs12979860 genotype.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* HIV/HCV coinfected patients\n* 18 to 65 years old\n* currently receiving HAART\n* non-pregnant women\n* HIV infection controlled as: undetectable viral load (\\<40 copies/mL) for at least 8 months and T helper cells count of 200 cells/\u03bcL or above\n* no contraindications to IFN alpha2a, RBV or PTX treatment\n* sign informed consent form\n* laboratory parameters within acceptable ranges\n\nExclusion Criteria:\n\n* Women that present a positive pregnancy test during the study\n* Patients that for any reason no longer wish to receive IFN alpha2a, RBV or PTX treatment\n* Serious adverse events that prevent to continue IFN alpha2a, RBV or PTX treatment; such as severe neutropenia, severe thrombocytopenia or severe anemia\n* Presence of an opportunistic infection or malignancy that requires treatment with drugs interacting with IFN alpha2a, RBV or PTX\n* Patients that fail to adhere to treatment",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hepacivirus",
+    "HIV Infections"
+  ],
+  "overall_status": "UNKNOWN"
+}

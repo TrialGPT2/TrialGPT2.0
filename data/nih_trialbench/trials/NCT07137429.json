@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT07137429",
+  "title": "Platelet Volunteers, Longitudinal and Multi-omic Study",
+  "brief_summary": "Background:\n\nPlatelets are a type of blood cell that play a critical role in bleeding, forming blood clots, and healing. Researchers want to know more about platelets work in healthy people. They want to look at how platelets clump together, how blood clots, and how genes and proteins work. They also want to study how these processes change over time and how they are affected by factors such diet, exercise, weight, and new health problems.\n\nObjective:\n\nTo study how platelets function in healthy people.\n\nEligibility:\n\nHealthy people aged 18 years and older.\n\nDesign:\n\nResearchers will review participants medical history. They will ask about the participant s family history and any drugs they take.\n\nParticipants will have a clinic visit once every 6 or 7 months for 10 years. Each visit will be 2 to 3 hours.\n\nAt each visit, participants will have several tests and procedures:\n\nA physical exam, including vital signs. Hip and ankle circumference will be measured.\n\nUrine collection.\n\nBlood tests. About 10 tablespoons of blood will be drawn. Participants will be asked to fast for 10 hours and avoid drugs like aspirin or Advil for 7 days before each draw. Some of the blood may be used for gene studies. Some may be used to create stem cells for research. Stem cells are cells that can be used to make other types of cells.\n\nSurveys and questionnaires. Participants will answer questions about habitual activity, diet, smoking, drugs and alcohol, sleep, illness, and other health issues. These surveys may be done online, via email, or by phone.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Stated willingness to comply with all study procedures, including fasting at least 10 hours before each blood draw\n* Stated willingness to refrain from aspirin or non-steroidal anti-inflammatory drugs (NSAIDs) for 7 days prior to any visits\n* Age \\>= 18 years\n* In good general health as evidenced by self-reported medical history\n\nEXCLUSION CRITERIA:\n\nAn individual who, by self-report, meets the following criteria will be excluded from participation in this study:\n\n* Current pregnancy or lactation\n* Active malignancies known, active known auto-immune disease, known major CVD (e.g., heart attack, stroke, venous thromboembolism, heart failure), severe bleeding history, on regular P2Y12 inhibitors or other antiplatelet treatments for a clinical reason, uncontrolled hypertension or diabetes",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy participants, at least 18 years of age",
+  "condition": [
+    "Thrombosis"
+  ],
+  "overall_status": "NOT_YET_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology observational study enrolling only healthy volunteers with no history of active malignancy or systemic therapy for advanced disease. There is no line-of-therapy intent applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": null,
+      "category": "1L",
+      "line_of_therapy_text": "The study includes only healthy adults with no active malignancy or history of systemic therapy for advanced disease. There are no prior lines of therapy for advanced disease allowed, as this is not an oncology trial."
+    }
+  ]
+}

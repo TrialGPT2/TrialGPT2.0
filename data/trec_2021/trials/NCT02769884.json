@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02769884",
+  "title": "MMPPC Outpatient Clinical Protocol 2016",
+  "brief_summary": "This study trials a prototype artificial pancreas system that consists of a Roche insulin pump, a Dexcom continuous glucose monitor (CGM), and an experiential MMPPC (multiple model probabilistic predictive control) algorithm housed on an android cell phone. The system doses insulin based on CGM sensor glucose levels and the experimental algorithm.\n\nThe aim of this clinical study is to determine the efficacy of the MMPPC controller in adolescents and adults with type 1 diabetes in a hotel setting.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "3.1 Eligibility Criteria\n\n1\\. Clinical diagnosis of type 1 diabetes for at least 12 months 2. Daily insulin therapy for at least 12 months 3. Age between 15.0 to 55.0 years of age 4. Use of an insulin pump for at least 3 months 5. Current use of continuous glucose monitoring with Dexcom sensor 6. Subject comprehends English 7. Females of childbearing potential must use an adequate method of contraception and have a negative pregnancy test 8. Total daily insulin requirement \u2265 0.3 units/kg/day 9. A1C between 7.0 and 10% 3.2 Exclusion Criteria\n\n1. Diabetic ketoacidosis in the past 6 months\n2. Hypoglycemic seizure or loss of consciousness in the past 6 months\n3. Hypoglycemia unawareness as defined by no recognition of hypoglycemia until the glucose is \\<60 mg/dL and no adrenergic symptoms at glucose of 60 mg/dL (shakiness, palpitations, diaphoresis). Subjects will also be administered the Clark questionnaire for hypoglycemia unawareness. If they have a score \u2265 4, they are excluded from the study\n4. Subjects requiring an intermediate or long-acting insulin (such as NPH, detemir or glargine)\n5. Subjects using other anti-diabetic medications other than insulin (oral or injectable) at the time of enrollment. Any prior use of other anti-diabetic medications must be washed out for at least 8 weeks prior to enrollment.\n6. Current use of other medications, which in the judgment of the investigator would be a contraindication to participation in the study\n7. Subject has a medical disorder that in the judgment of the investigator will affect completion of any aspect of the protocol\n8. Subject is currently participating in another investigational device or drug study within 30 days or 5-half lives of the drug.\n9. Subject has a history of any cardiac or vascular disorder including, but not limited to, myocardial infarction, unstable angina, coronary artery bypass surgery, coronary artery stenting, transient ischemic attack, cerebrovascular accident, angina, congestive heart failure, arrhythmia or thromboembolic disease\n10. An EKG will be obtained on subjects who are \u2265 45 years of age, or who have had a 20 year history of diabetes and are \u2265 30 years of age. Subjects will be excluded if they have an abnormal EKG consistent with coronary artery disease or increased risk of malignant arrhythmia including, but not limited to, evidence of active ischemia, prior myocardial infarction, proximal LAD critical stenosis (Wellen's sign), prolonged QT interval (\\> 440 ms). Non-specific ST segment and T wave changes are not grounds for exclusion in the absence of symptoms or history of heart disease.\n11. Subject has a history of hepatic disease\n12. Subject has renal failure on dialysis\n13. Systolic blood pressure \\> 160 mmHg on screening visit\n14. Diastolic blood pressure \\> 90 mmHg on screening visit\n15. Subjects with inadequately treated thyroid disease or celiac disease\n16. Subject has a neurologic disorder that in the judgment of the investigator will affect completion of the protocol\n17. Subject has received inpatient psychiatric treatment in the past 6 months\n18. Subject consumes more than an average of 4 standard alcoholic drinks/day in the last 30 days\n19. Subject has an active skin condition that would affect sensor placement\n20. Subject is unable to avoid acetaminophen for the duration of the study\n21. Subject consuming less than 100g of carbohydrates daily",
+  "minimum_age": "15 Years",
+  "maximum_age": "55 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Type 1 Diabetes"
+  ],
+  "overall_status": "COMPLETED"
+}

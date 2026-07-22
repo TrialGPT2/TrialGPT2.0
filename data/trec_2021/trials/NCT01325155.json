@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01325155",
+  "title": "Effect of Air Pollution in the Haifa Bay Area on Cardiovascular Morbidity and Mortality",
+  "brief_summary": "The association between exposure to ambient air pollution and pulmonary disease has been well established.To date no study has assessed the burden of cardiovascular disease in Israel and its relation to ambient air pollution.\n\nThe Haifa Bay Area has a long history of industrialization including possessing the nation's largest oil refineries, oil-fired power plant, agrochemical and cement producers, industrial incinerators and the Eastern Mediterranean's busiest port. The presence of industrial and mobile sources, combined with a basin effect has contributed to air pollution in the Haifa Bay Area and has raised concerns about potential health effects.\n\nResearch Objectives\n\n* Determine if the increased rate of cardiovascular mortality in Haifa is associated with PM 2.5 concentrations.\n* Assess effect modification in diverse sub-populations.\n* If an association does exist, assess the economic burden of PM 2.5 associated cardiovascular morbidity and mortality.\n* Design prediction models of daily cardiovascular emergency department visits based on daily and seasonal variation of air pollution.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* All Patients visiting the ER between Jan 2009 and Dec 2010 at the Rambam Medical Center in Haifa Israel.\n\nExclusion Criteria:\n\n* There are no exclusion criteria",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All Patients visiting the ER between Jan 2009 and Dec 2010 at the Rambam Medical Center in Haifa Israel. Electronic medical record databases will be queried for ICD-9 codes of related cardiac (acute coronary syndrome, heart failure, dysrhythmia/conduction disturbance) diagnoses.",
+  "condition": [
+    "Acute Coronary Syndrome",
+    "Heart Failure",
+    "Arrhythmia"
+  ],
+  "overall_status": "UNKNOWN"
+}

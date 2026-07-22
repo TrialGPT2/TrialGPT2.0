@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02354365",
+  "title": "Measuring Lung Pressures in Critically Ill Children Who Are on Mechanical Ventilation",
+  "brief_summary": "Typically doctors adjust the settings on the ventilator to ensure that children receive enough help to decrease the work they perform to breathe, receive enough oxygen through the machine to pass into the blood and to the organs, and remove acid that builds up in the blood. However, sometimes the settings we choose can result in damage to the lungs. We are trying to find a better way to determine the best ventilator settings, which can minimize potential damage to the lungs, and still provide children with enough support to decrease the work they have to do to breathe. We believe we can personalize these choices for each child by looking at the pressure that is generated in the chest while children breathe with the ventilator. This is accomplished by using a small tube which goes through the nose and into the esophagus or stomach, which is hooked up to a computer or the ventilator to monitor pressure. This same tube can then also be used to monitor how much work children need to do to breathe as we are turning down the ventilator in preparation to remove the breathing tube.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nWe seek to group patients into 3 potential cohorts:\n\n* Normal Lungs (maximum 30 patients): Mechanically ventilated patients without pulmonary parenchymal disease or lower airway disease as measured by flow volume loops consistent with expiratory flow obstruction (e.g. seizures, apnea, upper airway obstruction).\n* AHRF (maximum 15 patients): Mechanically ventilated patients with two consecutive Saturation to FiO2 (SF) ratio \\< 265 or PaO2 to FiO2 (PF) ratio \\< 300 (e.g. pneumonia, ARDS).\n* Obstructive airway disease (15 patients): Mechanically ventilated patients with flow volume loops consistent with expiratory flow obstruction (e.g. asthma, bronchiolitis)\n\nExclusion Criteria:\n\n\u2022 Patients with a corrected gestational age of \\< 37 weeks or above 18 years of age. Patients with esophageal pathology or inability to utilize an esophageal probe due to anatomy, those on a high frequency oscillator or jet ventilator and those with uncorrected or persistent cyanotic congenital heart diseases will be excluded. Also, patients with an endotracheal tube leak of more than 18% or inability to measure volume, pressure or flow at the endotracheal tube will be excluded from the study",
+  "minimum_age": "1 Week",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Any patient weighing \\>2 kg between the ages of \\> 37 weeks corrected gestational age and \\<18 years who is intubated and mechanically ventilated in the pediatric intensive care unit at Children's Hospital Los Angeles will be eligible for the study.",
+  "condition": [
+    "Transpulmonary Pressure",
+    "Pressure.Rate Product",
+    "Guide to Mechanical Ventilator Management",
+    "Extubation Readiness"
+  ],
+  "overall_status": "UNKNOWN"
+}

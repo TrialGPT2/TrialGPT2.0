@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT00292032",
+  "title": "Registry of Unexplained Cardiac Arrest",
+  "brief_summary": "The CASPER will collect systematic clinical assessments of patients and families within the multicenter Canadian Inherited Heart Rhythm Research Network. Unexplained Cardiac Arrest patients and family members will undergo standardized testing for evidence of primary electrical disease and latent cardiomyopathy along with clinical genetics screening of affected individuals based on an evident or unmasked phenotype.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Cardiac arrest requiring cardioversion or defibrillation.\n* Syncope with documented polymorphic ventricular tachycardia felt to be responsible for the index event.\n* First degree relative of an index case of UCA undergoing clinical testing.\n* First degree relative of a family member with UCA or sudden death before age 35 with a negative autopsy for cause of death, presumed arrhythmic.\n* First degree relative of a family member with UCA or sudden death with objective evidence of primary electrical disease, such as a diagnostic electrocardiogram (ECG), exercise test, drug infusion, or genetic testing.\n\nExclusion Criteria:\n\n* Coronary artery disease (stenosis \\> 50%)\n* Reduced left ventricular function (left ventricular ejection fraction \\[LVEF\\] \\< 50%)\n* Event managed without an implantable cardioverter defibrillator \\[ICD\\] (for follow-up portion)\n* Unwilling or unable to provide clinical follow-up (for follow-up portion)\n* Comorbidity making survival of \\> 1 year unlikely\n* Persistent resting QTc \\> 460 msec for males and 480 msec for females\n* Reversible cause of cardiac arrest such as marked hypokalemia (\\< 2.8 mmol/l) or drug overdose sufficient in gravity without other cause to explain the cardiac arrest\n* Hemodynamically stable sustained monomorphic ventricular tachycardia with a QRS morphology consistent with recognized forms of idiopathic ventricular tachycardia (outflow tract or apical septal)\n* Brugada's sign with e2 mm ST elevation in V1 and/or V2\n* Unwilling or unable to provide consent",
+  "minimum_age": "2 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Unexplained cardiac arrest patients, and first degree relatives of 1) UCA patients 2) patients with known primary electrical disease or 3) unexplained sudden death before age 60",
+  "condition": [
+    "Cardiac Arrest",
+    "Long QT Syndrome",
+    "Brugada Syndrome",
+    "Catecholaminergi Polymorphic Ventricular Tachycardia",
+    "Idiopathic VentricularFibrillation",
+    "Early Repolarization Syndrome",
+    "Arrhythmogenic Right Ventricular Cardiomyopathy"
+  ],
+  "overall_status": "COMPLETED"
+}

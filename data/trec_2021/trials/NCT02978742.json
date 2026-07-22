@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT02978742",
+  "title": "Evaluating and Implementing a Smartphone Application Treatment Program for Bulimia Nervosa and Binge Eating Disorder",
+  "brief_summary": "Bulimia nervosa and binge eating disorder pose a public health concern due to their high co-occurrence with other psychiatric disorders and poor physical health outcomes. It is therefore concerning that less than half of these patients seek treatment for their condition. People may be reluctant to seek treatment due to not wanting to disclose symptoms to family members. Even for those who do wish to seek help, treatment is often inaccessible due to the geographic centralization of eating disorder specialists and a low ratio of specialists to patients. Therefore, the aim of this study is to test a potential solution to these problems and make eating disorder care more private and accessible.\n\nOne possible way to improve the accessibility of treatment is through smartphone applications (or \"apps\"). We are testing an app called Recovery Record, which is primarily a tool used to self-monitor eating habits, where patients record their meals and related thoughts, feelings, emotions, and behaviours (e.g., binge eating/purging). The app also offers additional features such as discrete reminders to log meals, positive reinforcement, social support, coping strategy suggestions, and linking users with clinicians for real-time feedback and suggestions. The application is scientifically supported and has been tested with positive results.\n\nRecently, app developers have created a computer-automated 8-week treatment program that uses the patient's data to provide a tailored and individualized treatment program. This program aims to mimic the process of therapy by checking in with users, reminding them of their reasons for wanting to recover, and working towards goals. We will be testing this automated app treatment program, comparing it both with and without input from a trained coach providing individualized feedback to users.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* DSM-V diagnosis of bulimia nervosa or binge eating disorder\n* Ages 16-65 years\n* Has an Apple or Android smartphone with a data plan or daily access to Wi-Fi\n* Is able to download smartphone applications from the Apple App Store or Google Play Store to their smartphone\n* Lives in Canada\n* Provides consent to participate\n\nExclusion Criteria:\n\n* Actively engaged in psychological treatment, specifically for bulimia nervosa or binge eating disorder\n* Lacks English fluency\n* High risk for suicide, as determined by the Columbia Suicide Severity Rating Scale (Self-Report Screening Version)",
+  "minimum_age": "16 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Eating Disorder",
+    "Bulimia Nervosa",
+    "Binge Eating Disorder"
+  ],
+  "overall_status": "WITHDRAWN"
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT00386737",
+  "title": "Development of a Breath Analyzer for Asthma Screening",
+  "brief_summary": "Annually, asthma is responsible for 1 million emergency room visits, 400,000 hospitalizations, and 5000 deaths according to the NHLBI. In addition, 10 million missed school-days per year and 100 million days of restricted activity are attributed to this disease. While there is no known cause or cure for asthma, recent studies have shown that hospitalizations and emergency room visits can be reduced by as much as 78% and 73%, respectively, when the disease is properly managed. According to the EPA, the occurance of children with asthma more than doubled the rate of two decades ago; in 2001 the percentage of asthmatic children was 8.7% (6.3 million children).\n\nProperly managing asthma is nontrivial and can often require an asthma specialist. The difficulty in diagnosing and managing asthma lies primarily in the lack of available clinical technologies capable of assessing airway inflammation, an early and persistent component of asthma. Accordingly, the National Institutes of Health (NIH) guidelines for the diagnosis and management of asthma strongly recommend long term anti-inflammatory therapies, such as oral or inhaled corticosteroids, to reverse airway inflammation in an effort to prevent irreversible airway damage, termed \"airway remodeling\". The medical community has expressed the need for more objective and noninvasive measures of airway inflammation for diagnosing asthma and monitoring the effectiveness and compliance of anti-inflammatory therapies.\n\nThe clinical research plan is designed to evaluate airway inflammation associated with asthma. In this human subjects study, a non-invasive exhaled breath analysis sensor, called the Breathmeter, will be used to measure eNO concentrations in children and adults (ages 4-65) with a broad range of respiratory disorders as well as those with no known respiratory disorders. Breath donations will be simple and straightforward presenting little to no discomfort to volunteers.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Healthy subjects (n=120)\n* Asthma (Total n=450) \\[diagnosed according to NHLBI/ NAEPP Guidelines (1998)\\]\n\n  * Non-treated or B2-agonist treated asthmatics (n=150),\n  * Glucocorticoid treated asthmatics, (n=150),\n  * Leukotriene Antagonist treated asthmatics, (n=75),\n  * Glucocorticoid and Leukotriene Antagonists treated asthmatics, (n= 75).\n* Acute respiratory illnesses (n=65\n\n  * Sinusitis (Acute and Chronic),\n  * Influenza,\n  * Common cold,\n  * Pneumonia,\n  * Related symptoms, but no diagnosis.\n* Allergies (n=65)\n\n  * Atopic dermatitis,\n  * Allergic rhinitis,\n  * Seasonal allergies.\n\nExclusion Criteria:\n\n* Younger than 4\n* Older than 65\n* Pregnant",
+  "minimum_age": "4 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Asthma"
+  ],
+  "overall_status": "UNKNOWN"
+}

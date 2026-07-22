@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04694313",
+  "title": "Evaluation of Optical Pumping Magnetometer Sensors for MagnetoEncephaloGraphy Imaging",
+  "brief_summary": "This research is a feasibility study on a new generation of brain magnetic activity sensor which should allow the development of this modality, until now limited by its cost to a few large university centers.\n\nThe measurement of magnetic activity allows the detection and localization of abnormal activities such as paroxysmal events occurring between seizures in patients with epilepsy as well as research into brain function. It is the only one, along with EEG and related techniques, to provide data related to the speed of the brain. MEG, by virtue of the properties of magnetic fields, has a greater potential than EEG for the detection and localization of the neuronal sources which cause it.\n\nThe MEG sensors used until now use Superconducting Quantum Interference Devices (SQUID) components that are extremely sensitive but require complex instrumentation and only operate under superconducting conditions, resulting in prohibitive maintenance and cost.\n\nThe alternative could come from a new magnetic activity sensor: the optical pumping magnetometers of the alkaline type.\n\nThis preliminary study proposes to compare SQUID sensors with MPO He4 sensors for their ability to detect abnormal activities recorded in epileptic patients. Measurements that cannot be recorded simultaneously Two types of measurement will be compared with the reference that constitutes in-depth recording (Stereotactic-EEG or SEEG) used to precisely define the region of the brain to be resected in order to cure epileptic patients of their seizures.\n\nThe expected results are a capacity of this type of sensors to detect epileptic activities equivalent to that of SQUIDs.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patient (\u2265 18 years old)\n* Patient with drug-resistant focal epilepsy, undergoing SEEG exploration\n* Healthy subject, devoid of central neurological pathology, major ((\u2265 18 years)\n* Patient or healthy subject capable of giving informed consent for the study\n\nExclusion Criteria:\n\n* MEG \"incompatible\" healthy patients or volunteers.\n* Wearers of prosthesis or pacemaker likely to generate artefacts interfering with the measurement. There is no danger to the subject, but the measurement itself may be impossible.\n* Patients or healthy volunteers who cannot stand standing still for a few minutes.\n* Pregnant or breastfeeding women\n* Adults under guardianship or under legal protection\n* People deprived of their liberty\n* People who have not signed the informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Epilepsy"
+  ],
+  "overall_status": "COMPLETED"
+}

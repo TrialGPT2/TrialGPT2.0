@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT03775811",
+  "title": "In Vivo Computer-aided Prediction of Polyp Histology on White Light Colonoscopy",
+  "brief_summary": "Our group, prior to the present study, developed a handcrafted predictive model based on the extraction of surface patterns (textons) with a diagnostic accuracy of over 90%24. This method was validated in a small dataset containing only high-quality images.\n\nArtificial intelligence is expected to improve the accuracy of colorectal polyp optical diagnosis. We propose a hybrid approach combining a Deep learning (DL) system with polyp features indicated by clinicians (HybridAI). A pilot in vivo experiment will carried out.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\> 18 years\n* Approval of participation in the study. Signature of informed consent\n* Patients with at least one polyp of any size/morphology diagnosed in a routine or screening colonoscopy\n* Endoscopies performed with high definition endoscopes\n\nExclusion Criteria:\n\n* Age \\<18 years\n* Refusal to participate in the study\n* Polyps partially resected in a previous endoscopy\n* Patients with inflammatory disease\n* Impossibility to wash remains of stool or mucus on the surface of the polyp",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients with polyps of any size/morphology, detected in a routine or screening colonoscopy, that are resected endoscopically and recovered for histological analysis will be included.\n\nThe images obtained will be used to expand the database.",
+  "condition": [
+    "Colonoscopy",
+    "Histology",
+    "Computer-aided Diagnosis",
+    "Artificial Intelligence",
+    "Colorectal Polyp",
+    "Adenoma Colon Polyp",
+    "Hyperplastic Polyp"
+  ],
+  "overall_status": "COMPLETED"
+}

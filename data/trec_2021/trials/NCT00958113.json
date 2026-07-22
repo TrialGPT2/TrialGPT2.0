@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00958113",
+  "title": "Autoimmune Thyroid Disease Genetic Study",
+  "brief_summary": "The hypothesis of this project is that specific genes can be identified that contribute to genetic susceptibility to autoimmune thyroid disease (AITD) in different populations. The specific aim of this project is carry out one or more genomewide association studies (GWAS) to map and ultimately identify genes that confer susceptibility to AITD. AITD consists principally of Hashimoto's Thyroiditis (HT) and Graves' Disease (GD), characterized clinically generally by hypothyroidism and hyperthyroidism, respectively. Both HT and GD are autoimmune diseases characterized by infiltration of the thyroid by T and B cells that are reactive with thyroid antigens and by the production of thyroid autoantibodies (TAB). While there is some evidence that there may be genes specific to either GD or HT, other genes appear to be common to both, and some genes may furthermore be in common to susceptibility to other autoimmune diseases. Genes known to play a role in AITD include HLA, CTLA4, thyroglobulin (TG), THSR, and CD40, PTPN2, and PTPN22, several of which are also involved in susceptibility to other autoimmune diseases. All of these genes interact in a complex manner that has yet to be understood. Furthermore, it seems clear that relatively few of the genes involved in susceptibility to AITD have thus far been discovered.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of abnormal thyroid function (hypo or hyperthyroidism) due to autoimmune thyroid disease\n\nExclusion Criteria:\n\n* Lack of documentation of abnormal thyroid function or clear evidence of autoimmune etiology",
+  "minimum_age": "7 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients seen in Endocrinology Clinic",
+  "condition": [
+    "Hashimoto's Disease",
+    "Graves' Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

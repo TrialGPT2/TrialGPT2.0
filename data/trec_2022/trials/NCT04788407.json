@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04788407",
+  "title": "Efficacy and Safety of Nitazoxanide for Post Exposure Prophylaxis of COVID-19 in Household Contacts",
+  "brief_summary": "The primary objective of this study is to evaluate the efficacy of the drug nitazoxanide 500 mg, administered three times a day, in relation to placebo in preventing the development of COVID-19 in household contacts of patients diagnosed with the disease.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Men and women over 18 and under 65.\n* Household contact with a confirmed case of COVID-19 by PCR for Sars-CoV-2.\n* Initiate study medication within 4 days from the last close contact with the index case.\n* The patient must not present symptoms suggestive of Covid19 (cough, dyspnea, fever\\> 37.5 C, fatigue, sore throat, myalgia, diarrhoea) at the time of admission to the study and from previous 14 days.\n* Informed consent from the patient or legal representative.\n\nExclusion Criteria:\n\n* History of infection confirmed by SARS-CoV-2.\n* Positive IgG antibodies test for SARS-CoV-2 at the time of admission.\n* Have received any dose of nitazoxanide within 7 days prior to screening.\n* Known hypersensitivity to any of the study medication components.\n* Use of any investigational or unregistered drug or vaccine within 30 days prior to screening, or use planned during the study period.\n* Inability to comply with study procedures.\n* Current breastfeeding.\n* Pregnancy.\n* Intolerance or inability to take oral medication.\n* History of severe liver disease (Child-Pugh B or C) and/or chronic kidney disease.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19",
+    "SARS-CoV-2 Infection",
+    "Households Contacts"
+  ],
+  "overall_status": "UNKNOWN"
+}

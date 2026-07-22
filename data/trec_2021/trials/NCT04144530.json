@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04144530",
+  "title": "MRI Repository for Acute Stroke Clinical and Research Applications",
+  "brief_summary": "Stroke is one of the leading causes of death and long-term disability. A major unresolved problem in MRI-based stroke assessment is to relate image features to brain function in a way that can properly guide stratification for treatment and rehabilitation. This requires extracting meaningful and reproducible models of brain function from stroke images, a daunting task severely hindered by the great variability of lesion frequency and pattern. Large datasets are imperative to uncover possible lesion-function relationships.\n\nIn this project the investigators will create a large database of acute strokes MRIs. The investigators will retrospectively archive an estimated 3,000 MRIs of patients with acute stroke, acquired at the Johns Hopkins Hospital, 2009-2019. This dataset will include 1.5 and 3 Tesla scans, diverse protocols and sequences (e.g., diffusion and perfusion weighted images (DWI/b0, PWI), T1, T2, FLAIR, susceptibility weighted images), with typical clinical low voxel resolution (4-7 mm3). Lesions will be initially delineated on DWI/b0, the most informative MRI sequence for acute stroke. After anonymization and defacing, two trained evaluators will perform the manual lesion segmentation. Two expert neuroradiologists will create consensual structured radiological reports with information about stroke type and location according to different criteria (e.g., 34 brain structures and 11 vascular territories). The investigators will also archive structured information from discharge (demographics, laboratory, and neurological evaluation of patients, including NIH stroke scale and modified Rankin scale, mRS), as well as the 90-days follow-up mRS.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* patients admitted at Hopkins Stroke center with the diagnosis of acute brain stroke\n\nExclusion Criteria:\n\n* Not performed MRI",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "patients admitted at Hopkins Stroke center with the diagnosis of acute brain stroke",
+  "condition": [
+    "Stroke, Acute"
+  ],
+  "overall_status": "WITHDRAWN"
+}

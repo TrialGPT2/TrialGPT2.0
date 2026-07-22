@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04531319",
+  "title": "Immune Cell Subgroups in Covid 19 Patients",
+  "brief_summary": "COVID-19, spreading rapidly all over the world, causes serious morbidity and mortality. In severe COVID-19 infections, after pulmonary inflammation, cardiovascular organ failure, cytokine storm, hemophagocytosis, septic shock, develops due to uncontrolled hypoxia, and isolated organ failure turns into multi-organ failure. It is noteworthy that it causes lymphopenia in patients. In studies conducted, the effects of Covid-19 on the immune system were evaluated with limited parameters. In addition, no study evaluating the effect of this disease on the immune system has been published in our country.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with Covid 19 PCR (+) results\n\nExclusion Criteria:\n\n* Cancer Patients\n* Patients with known immunodeficiency\n* Pregnancy",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who admitted to the emergency department with the complaint of respiratory failure, lymphopenia in blood tests and Covid 19 (+) in the PCR tests are case group.\n\nAlso healty volunteers who don't have complaint of respiratory failure, lymphopenia in blood tests and Covid 19 (-) in the PCR tests are control group.",
+  "condition": [
+    "Covid19"
+  ],
+  "overall_status": "COMPLETED"
+}

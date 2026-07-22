@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04681573",
+  "title": "Comparison of Two sTRAtegies For the Non-Invasive Diagnosis of advanCed Liver Fibrosis in NAFLD",
+  "brief_summary": "NAFLD, closely linked to overweight and insulin resistance, has reached 25% prevalence worldwide. Advanced liver fibrosis(ALF) must be accurately diagnosed in NAFLD because it defines a subgroup of patients with impaired prognosis, and these patients need a specific management to prevent the occurrence of liver-related complication. Relatively few NAFLD patients develop ALF and it is a challenge for physicians to identify them.\n\nLiver biopsy is the reference for liver fibrosis evaluation but this invasive procedure cannot be first-line used in NAFLD. Non-invasive diagnosis of liver fibrosis is now available, especially liver stiffness measurement (LSM) with Fibroscan and blood fibrosis tests. However, Fibroscan is a costly device available only in few specialized centres with thus poor accessibility in face of the large NAFLD population. Blood fibrosis tests can be performed by every physician and are distinguished as \"complex\" or \"simple\". Because they include specialized biomarkers, complex blood fibrosis tests are accurate for the diagnosis of ALF but they are quite expensive and not reimbursed, with therefore limited use in clinical practice. Simple blood fibrosis tests have the advantage to include cheap and easy-to-obtain biomarkers with simple calculation thanks to free websites or smartphone applications. Simple blood fibrosis tests are globally less accurate than complex blood fibrosis tests or Fibroscan but, used with a high-sensitivity cut-off, they have the high interest of being able to accurately rule out advanced fibrosis in a significant proportion of NAFLD patients.\n\nRecently, two sequential diagnostic procedures have been developed for the diagnosis of ALF with the idea to combine the advantages of the different kind of fibrosis tests: the FIB4-Fibroscan (FIB4-FS) and the eLIFT-FibroMeterVCTE (eLIFT-FMVCTE) algorithms. These algorithms include as first-line procedure a simple blood fibrosis test (FIB4 or eLIFT) which identifies the patients who require a further second-line evaluation with a more accurate non-invasive test (Fibroscan or FibroMeterVCTE). Liver biopsy is finally used as third-line procedure in patients for whom the diagnosis remains undetermined. Such algorithms have the advantage to limit the use of complex fibrosis tests only to a subset of at risk-patients.\n\nThe TRAFIC study compare two strategies for the diagnosis of ALF in NAFLD patients: the FIB4-Fibroscan algorithm and the eLIFT-FibroMeterVCTE algorithm",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Presence of NAFLD as defined by :\n\n   * The presence of liver steatosis as assessed by ultrasonography (bright liver) or magnetic resonance imaging/spectroscopy (fat fraction \\>5.6%) or Controlled Attenuation Parameter (\u2265248 dB/m)\n   * The absence of steatosis-inducing drugs (systemic corticosteroids, methotrexate, amiodarone, tamoxifen)\n   * The absence of excessive alcohol consumption (\\<210 g/week in men or \\<140 g/week in women)\n   * The absence of other causes of chronic liver disease (chronic viral hepatitis B or C, hemochromatosis, auto-immune hepatitis, primary biliary cholangitis, primary sclerosing cholangitis, Wilson disease alpha-1-antitrypsin deficiency).\n2. Age \u226518 years and \u226480 years\n3. Affiliated person or beneficiary of a social security regime\n4. Written informed consent of the patient who agree to comply with the study protocol.\n\nExclusion Criteria:\n\n1. Decompensated cirrhosis (ascites, variceal bleeding, hepatic encephalopathy, liver failure, hepato-renal syndrome)\n2. Hepatocellular carcinoma\n3. Inability to safely undergo liver biopsy\n4. Participation in other intervention study with drug protocol treatment in progress at the time of inclusion or within one month prior to inclusion in the study.\n5. Pregnant, breastfeeding or parturient woman\n6. Person restricted by judicial or administrative decision\n7. Person under psychiatric care under restraint\n8. Person subject to a legal protection measure\n9. Person unable to express consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "NAFLD"
+  ],
+  "overall_status": "RECRUITING"
+}

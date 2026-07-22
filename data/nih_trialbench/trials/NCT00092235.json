@@ -1,0 +1,41 @@
+{
+  "nctid": "NCT00092235",
+  "title": "Natural History Study of Clinical and Biological Factors Determining Outcomes in Chronic Graft-Versus-Host Disease",
+  "brief_summary": "Background:\n\n* Chronic graft-versus-host disease (cGVHD) is a multi-organ alloimmune and autoimmune disorder that occurs following allogeneic hematopoietic stem cell transplantation (alloHSCT). It is characterized by immune dysregulation, immunodeficiency, impaired organ function, and decreased survival.\n* Each year about 8000 patients receive allogeneic hematopoietic stem cell transplant (alloHSCT) in North America and about 50% of patients who are transplanted develop cGVHD.\n* Chronic GVHD is also a disorder that simultaneously affects many organ systems in highly variable fashion and requires complex and coordinated medical management by multiple medical specialties. There is an urgent need for progress in understanding and effective treatments for cGVHD as it is one of the most serious complications of cancer therapy and hematopoietic stem cell transplantation.\n\nObjectives:\n\n* To establish a multidisciplinary clinic infrastructure for study of the pathogenesis and natural history of cGVHD.\n* To prospectively identify clinical and biological prognostic markers in patients with cGVHD\n* To develop clinically relevant cGVHD grading scales\n* To identify novel biological characteristics of cGVHD and to describe them in the context of clinical history and presentation\n* To identify potential clinical and biological markers of cGVHD activity\n* To improve understanding of the biology of cGVHD-associated graft-versus-tumor effects\n* To identify potential patients for cGVHD treatment protocols at the NCI and NIH\n\nEligibility:\n\n-Patients age 1 and older referred by the primary transplant physician for the evaluation of chronic graft-versus-host disease independent of underlying diagnosis.\n\nDesign:\n\n* Patient undergoes initial clinical and laboratory multispecialty work-up at the NCI cGVHD clinic.\n* Minimally invasive biopsies and rarely, deep tissue biopsy may be obtained to confirm the diagnosis and/or rule-out other pathologic process (in adults only).\n* Long tem data collection for evaluation of long-term outcomes will be conducted anually as feasible",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Any patient age 1 and older referred by the primary transplant physician for the evaluation of chronic graft-versus-host disease independently of age or underlying diagnosis\n  2. Patient or the patient's legal representative is able and willing to provide consent.\n\nEXCLUSION CRITERIA:\n\n1. Significant medical condition or any other significant circumstance that could in the PIs assessment affect the patient's ability to tolerate, comply, or complete the study\n2. Patients who in the PIs assessment have a life expectancy \\<3 months.\n\n   Note: Because it is not always possible to make a clear clinical distinction between acute and chronic GVHD, patients with acute GVHD are not a-priori excluded until the possibility of chronic GVHD is reliably excluded on the basis of the clinical assessments in the cGVHD clinic.\n3. Pregnant women are excluded from this study because multiple tests would need to be excluded for safety of the patient and the fetus.\n\nInclusion Criteria for control subjects without cGVHD:\n\n* Age 1 and older\n* Patient has undergone Allo-HSCT\n* Patient or the patient's parent/guardian is able and willing to provide consent\n\nExclusion Criteria for control subjects without cGVHD:\n\n* Active GVHD\n* In the previous three months have received systemic immunosuppressant therapy for the treatment of GVHD\n* In the previous three months have received therapy for malignancy",
+  "minimum_age": "1 Year",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients will be selected via referrals or from patients who were on companion clinical protocols at the NIH.",
+  "condition": [
+    "Chronic Graft vs. Host Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study enrolling patients with chronic graft-versus-host disease (cGVHD) after allogeneic hematopoietic stem cell transplantation, as well as control subjects without cGVHD. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "cGVHD patients",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on referral for evaluation of cGVHD after alloHSCT, regardless of underlying diagnosis or prior therapy. There are no specifications regarding prior systemic therapy for advanced disease, so line-of-therapy intent cannot be determined."
+    },
+    {
+      "cohort_label": "Control subjects without cGVHD",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Controls must have undergone alloHSCT and have no active GVHD, and must not have received systemic immunosuppressant therapy for GVHD or therapy for malignancy in the past three months. There are no specifications regarding prior systemic therapy for advanced disease, so line-of-therapy intent cannot be determined."
+    }
+  ]
+}

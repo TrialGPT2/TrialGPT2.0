@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04505592",
+  "title": "Tenecteplase in Patients With COVID-19",
+  "brief_summary": "This is a placebo-controlled, double blind, randomized, Phase II dose escalation study intended to evaluate the potential safety and efficacy of tenecteplase for the treatment of COVID-19 associated respiratory failure. The hypothesis is that administration of the drug, in conjunction with heparin anticoagulation, will improve patients' clinical outcomes.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria\n\n* Patient/legally authorized representative has completed the Informed Consent Form\n* Age \u226518 years\n* Ability to comply with the study protocol, in the investigator's judgment\n* Respiratory failure secondary to COVID-19 requiring mechanical ventilation for no greater than 24 hours, or high-flow nasal cannula (HFNC),non-rebreather (NRB) mask or non-invasive positive pressure ventilation (NIPPV) for no greater than 48 hours\n* Confirmed infection with SARS-CoV-2 virus (PCR positive within 14 days)\n* Elevated D-dimer (\\>6 times upper limit of normal within past 72 hours)\n* For patient who are intubated \\>12 hours prior to randomization or with any evidence of neurologic deficit a head CT within 12 hours demonstrating no evidence of acute or subacute infarct or hemorrhage\n\nExclusion Criteria\n\n* Current participation in another investigational drug study within the prior 7 days\n* Known hypersensitivity or allergy to any ingredients of tenecteplase\n* Active internal bleeding\n* Known bleeding diathesis\n* Use of one of the new oral anticoagulants within the last 48 hours (dabigatran, rivaroxaban, apixaban, edoxaban)\n* Treatment with a thrombolytic within the last 3 months prior to randomization (exception for the use of Cathflo alteplase for occlusions of central venous catheters)\n* Baseline platelet count \\<80,000/L (results must be available prior to treatment)\n* Baseline blood glucose \\>400 mg/dL (22.20 mmol/L)\n* Baseline blood glucose \\<50 mg/dL needs to be normalized prior to randomization\n* Intracranial or intraspinal surgery or trauma within 2 months\n* Other, non-COVID-19 related, serious, advanced, or terminal illness (investigator judgment) or life expectancy is less than 6 months\n* History of acute ischemic stroke in the last 90 days\n* History of intracranial bleeding, including hemorrhagic stroke\n* Presumed septic embolus; suspicion of bacterial endocarditis\n* Mechanical ventilation \\> 24 hours, HFNC, NRB, NIPPV, or any combination, for greater than 48 hours\n* Mechanical ventilation, HFNC, NRB, or NIPVV (for reasons other than obstructive sleep apnea) within the prior 30 days (excluding 48 hours prior to randomization)\n* Moribund status suggesting imminent vascular collapse and inability to survive \\> 72 hours (investigator determination)\n* Uncontrolled hypertension defined as systolic BP \\> 180 mm Hg and/or diastolic BP \\> 110 mm Hgb\n* Age \\> 75 years\n* History of traumatic brain injury within 2 months\n* Recent head trauma with fracture or brain injury\n* History of Heparin Induced Thrombocytopenia (HIT) and/or other hereditary or acquired hemorrhagic diathesis or coagulation factor deficiency\n* INR \\> 2 or recent oral anticoagulant therapy with INR \\>1.7\n* Pregnancy or lactation within the prior 30 days; women of childbearing age (\\<55 years old) should have documentation of a negative pregnancy test\n* Chronic liver disease defined as \\> Childs-Pugh Class B\n* Atrial fibrillation, mitral stenosis, or known left heart thrombosis\n* Any other condition that, in the opinion of the investigator, precludes administration of tenecteplase or poses a significant hazard to the patient receives tenecteplase",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID-19",
+    "Respiratory Failure",
+    "ARDS"
+  ],
+  "overall_status": "COMPLETED"
+}

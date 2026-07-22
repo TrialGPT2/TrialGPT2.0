@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01672918",
+  "title": "Fluorodeoxyglucose Imaging Studies to Detect Lymphoma",
+  "brief_summary": "Background:\n\n\\- Autoimmune lymphoproliferative syndrome (ALPS) is a genetic disorder of the lymph system. People with ALPS often have swollen lymph nodes, especially in the neck and armpit. They also have a much higher risk of developing lymphoma. It is not always easy to determine whether the swollen lymph nodes are caused by ALPS or by lymphoma. Researchers want to see whether different imaging studies can show the difference between ALPS and lymphoma. The studies used will be positron emission tomography (PET) and computed tomography (CT). Researchers will use a drug called fluorodeoxyglucose (FDG) to look at the lymph nodes.\n\nObjectives:\n\n\\- To see how well imaging studies can distinguish between swollen lymph nodes caused by ALPS or by lymphoma.\n\nEligibility:\n\n* Individuals must be 5 years of age or older and enrolled on the National Institutes of Health natural history study of ALPS.\n* Participants should either have lymphoma or have symptoms that suggest possible lymphoma.\n\nDesign:\n\n* Participants will be screened with a physical exam and medical history. Blood and urine samples will be collected.\n* Participants will have an FDG-PET/CT scan. It will be performed according to standard procedures.\n* If the results of the scan do not show lymphoma, participants will stay on the study for 1 year for clinical follow up. They may have a second FDG-PET/CT scan if there is a change in symptoms. Such changes include further enlargement of lymph nodes, unexplained fevers, or weight loss.\n* If the results of the scan show evidence of new or worsening lymphoma, treatment on this study will end. Further tests based on clinical symptoms, including a lymph node biopsy, may be done under the ALPS natural history study to rule out or make a diagnosis of lymphoma.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo qualify for enrollment, patients must meet all of the following:\n\n1. Fulfill current criteria for the diagnosis of ALPS, which includes documented chronic nonmalignant lymphadenopathy and/or splenomegaly, and either greater than or equal to 1.5% T-cell receptor alpha/beta+ DNTs in the peripheral blood or confirmed RAS mutation with or without elevated alpha/beta DNTs.\n2. Be enrolled in ALPS natural history protocol #93-I-0063.\n3. Have 1 or more of the following:\n\n   1. Sudden enlargement of at least 1 lymph node or group of lymph nodes over baseline.\n   2. Systemic symptoms suspicious for lymphoma (i.e., loss of weight, loss of appetite, fatigue, night sweats, fever, and pruritus).\n   3. A histologically proven diagnosis of lymphoma or other malignancy.\n4. Be 5 years of age or older.\n\nEXCLUSION CRITERIA:\n\nPatients will be excluded if any of the following is present:\n\n1. Concurrent proven infection or inflammatory disease (e.g., sarcoidosis), which itself often shows increased FDG uptake by PET and which could interfere with the interpretation of study results.\n2. Hyperglycemia (regardless of etiology) determined by fasting glucose of \\>200 mg/dL\n3. Weight in excess of 400 lb, which will exceed the weight limit for the scanner table.\n4. Pregnancy or breast-feeding. For women of childbearing potential, a negative urine or serum pregnancy test is required within 24 hours prior to an FDG-PET/CT scan.",
+  "minimum_age": "5 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Autoimmune Lymphoproliferative Syndrome",
+    "Lymphoma"
+  ],
+  "overall_status": "WITHDRAWN"
+}

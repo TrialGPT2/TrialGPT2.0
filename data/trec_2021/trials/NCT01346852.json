@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01346852",
+  "title": "Predictive Ability of Therapeutic Risk Factors in Pediatric and Adult Asthma Patients",
+  "brief_summary": "The purpose of this study is to assess the predictive ability of three asthma risk markers: the ratio of controller medication to total asthma medication, an albuterol only marker, and an oral corticosteroid use marker, as well as to compare the precision of these tools between adult and pediatric patient populations. This retrospective longitudinal analysis will use 2 different databases: a large managed care database and a large fee for service Medicaid database.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Subjects with asthma as determined by ICD-9 codes and asthma drug use\n* at least 4 years of age\n* use of at least 1 controller or at least 5 albuterol prescriptions in 12 months\n\nExclusion Criteria:\n\n* Subjects with COPD or treatment for COPD",
+  "minimum_age": "4 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study intends to identify subjects at least 4 years of age with asthma and using asthma medications",
+  "condition": [
+    "Asthma"
+  ],
+  "overall_status": "COMPLETED"
+}

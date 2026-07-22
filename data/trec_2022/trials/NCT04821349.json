@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04821349",
+  "title": "Role of AI in CE for the Identification of SB Lesions in Patients With Small Intestinal Bleeding.",
+  "brief_summary": "Capsule Endoscopy (CE) is a safe, patient friendly and easy procedure performed for the evaluation of gastrointestinal tract unable to be explored via conventional endoscopy. The most common indication to perform SBCE is represented by Suspected Small Bowel Bleeding (SSBB). According to the widest meta-analysis available in literature, SBCE shows a diagnostic yield in SSBB of about 60%, and angiodysplasias are the most relevant findings, accounting for 50% of patients undergoing SBCE for SSBB. Accordingly, it represents the first line examination in SSBB investigation for determining the source of bleeding, if primary endoscopy results negative. Despite its high clinical feasibility, the evaluation of CE-video-captures is one of the main drawbacks since it is time consuming and requests the reader to concentrate to not miss any lesion. In order to reduce reading time, several software have been developed with the aim to cut similar images and select relevant images. For example, automated fast reading software have demonstrated to significantly reduce reading time without impacting the miss rate in pathological conditions affecting diffusely the mucosa (as IBD lesions do). Not the same assumption can be taken for isolated lesions since several studies reported an unacceptable miss rate for such a detection modality. New advancements such as artificial intelligence made their appearance in recent years. Deep convolutional neural networks (CNNs) have demonstrated to recognize specific images among a large variety up to exceed human performance in visual tasks. A Deep Learning model has been recently validated in the field of Small Bowel CE by Ding et al. According to their data collected on 5000 patients, the CNN-based auxiliary model identify abnormalities with 99.88% sensitivity in the per patient analysis and 99.90% sensitivity in the per-lesion analysis. With this perspective, it is believable that AI applied to SBCE can significantly shorten the reading time and support physicians to detect available lesions without losing significant lesions, further improving the diagnostic yield of the procedure.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\nindication of OGIB:1)after negative upper and lower endoscopy; 2)France: after negative pregnancy test; 3)Hb cut-off male: \\<13, female: \\<12\n\nExclusion Criteria:\n\n* Age \\< 18 years old\n* Known or suspected intestinal obstruction\n* Non-steroidal anti-inflammatory drugs (twice weekly or more) during the 4 weeks preceding enrollment\n* Patient is expected to undergo MRI examination within 7 days after ingestion of the capsule\n* Patient with known gastrointestinal motility disorders\n* Subjects with known or suspected delayed gastric emptying\n* Patient suffers from any condition, such as swallowing problems, which precludes compliance with study and/or device instructions\n* Patient has any allergy or other known contraindication or intolerance to the medications used in the study\n* Patient has any condition, which precludes compliance with study and/or device instructions\n* Patient with any contraindication to take the bowel preparation product\n* Women who are either pregnant or nursing at the time of screening, or are of child- bearing potential and do not practice medically acceptable methods of contraception\n* Concurrent participation in another clinical trial using any investigational drug or device\n* Patient suffers from a life-threatening condition\n* Patients with history or clinical evidence of renal disease and/or previous clinically significant laboratory abnormalities of renal function parameters\n* Patients with pace-maker or implantable cardioverter\n* Patient did not sign informed consent\n* Endoscopic placement of the capsule",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Iron Deficiency Anemia",
+    "Obscure Gastrointestinal Bleeding"
+  ],
+  "overall_status": "COMPLETED"
+}

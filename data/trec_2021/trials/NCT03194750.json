@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03194750",
+  "title": "Ultrasound Assessment of Volume in Patients on Continuous Dialysis",
+  "brief_summary": "Renal failure and resuscitation measures in critically ill patients can result in fluid overload. Fluid overload in renal failure patients can cause harmful effects like pulmonary edema, anasarca and congestive cardiac failure exacerbations among other complications. These have been associated with increased time on the ventilator, increased length of stay in the ICU, and higher overall mortality for patients requiring dialysis in the ICU.\n\nThe current standard of care for adjusting fluid removal rates in patients on continuous renal replacement therapy relies on clinical judgement. Clinicians take into account factors like the patient's condition, vasopressor requirements, kidney function, total intake and outputs, vital signs, and physical examination findings when making daily changes to fluid removal rates on dialysis machines. Such assessment is highly subjective and can be imprecise/inaccurate leading to hypotension and hemodynamic instability in a critically ill patient.\n\nUse of conventional ultrasound by physicians to assess volume status using compressibility of the inferior vena cava has been shown to be a reliable predictor of volume status and can help guide therapy. Such use makes bedside volume assessment a non-invasive, rapid, repeatable point of care tool that can provide objective data to guide fluid removal determine velocity of fluid removal and help identify patients at risk of hypotension and hemodynamic instability during the process of fluid removal. Apart from rare possible local allergic reactions to ultrasound jelly and transient local discomfort, the disadvantages are minimal. Ultrasonography has been considered a safe imaging modality. This protocol will measure inferior vena cava compressibility using the General Electric VScan with Dual Probe, which has FDA approval for abdominal and vascular imaging in humans.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Acute kidney injury requiring initiation of continuous renal replacement therapy\n* Respiratory failure requiring mechanical ventilation\n\nExclusion Criteria:\n\n* cirrhosis of liver\n* pregnant woman\n* abdominal surgery interfering with placement of ultrasound probe\n* end-stage kidney disease",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Volume Overload",
+    "Kidney Failure",
+    "Respiratory Failure"
+  ],
+  "overall_status": "COMPLETED"
+}

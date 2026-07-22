@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04628884",
+  "title": "Strategies for Protamine Dosing After Anticoagulation in Cardiovascular Surgery",
+  "brief_summary": "In cardiovascular surgery, patients are anticoagulated with heparin during cardiopulmonary bypass, subsequently, anticoagulation is reversed with protamine to reduce bleeding due to residual heparin-induced coagulopathy, which can last more than four hours. Protamine reverses the effect of heparin by binding to each heparin molecule, therefore an amount of protamine equivalent to residual heparin is required at the time that anticoagulation is desired to be reversed, but generally, the dose of protamine is calculated from the total dose of heparin, ignoring that heparin is metabolized and cleared during of the extracorporeal circulation, this excess of protamine produces anticoagulant effects that increase postoperative bleeding. Residual heparin can be estimated from heparin pharmacokinetic models and therefore, from these models, a dose closer to the amount necessary to reverse the effect of heparin can be estimated, avoiding protamine excess. In this study, a protamine dosage strategy based on residual heparin determined by a pharmacokinetic model of heparin versus total administered heparin will be compared regarding bleeding and use of blood components in the postoperative period.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients over 18 years of age who undergo scheduled cardiovascular surgery or scheduled urgency at the Shaio clinical foundation in the city of Bogot\u00e1, who require extracorporeal circulation.\n* ASA classification, between 1 - 4\n* Informed consent read and signed by the patient\n* No history of known blood dyscrasia, with INR values \\<1.5\n* Platelet count greater than 100,000\n* No history of heparin-induced thrombocytopenia\n* No history of adverse reaction to protamine\n* No use of dual anti-aggregation therapy acetylsalicylic acid (ASA) + ADP receptor inhibitors (Clopidogrel) at the time of surgery\n* Suspension of ADP receptor inhibitor drugs (Clopidogrel) according to institutional protocol.\n* No use of bridging therapy with tirofiban\n* Patient with chronic use of oral anticoagulants (warfarin, dabigatran), complete the suspension time according to the institutional protocol,\n* No requirement for renal replacement therapy in the last month\n* Patient with BMI between 18 - 41 kg / cm2\n* Not pregnant\n\nExclusion Criteria:\n\n* Emergency surgery\n* Anticoagulated patient at the time of the intervention\n* Procedure not performed under extracorporeal circulation.\n* Procedure requiring circulatory arrest and / or profound hypothermia\n* Intraoperative death before protamine administration\n* Inability to complete data collection.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Anticoagulant Antagonist Toxicity"
+  ],
+  "overall_status": "UNKNOWN"
+}

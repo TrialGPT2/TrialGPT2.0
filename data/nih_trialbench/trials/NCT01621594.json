@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT01621594",
+  "title": "Evaluating New Radiation Techniques for Cardiovascular Imaging",
+  "brief_summary": "Title: Evaluating New Radiation Techniques for Cardiovascular Imaging\n\nBackground:\n\nCardiac CT angiography is associated with radiation exposure. Different methods of creating CT pictures have been developed to reduce the radiation dose to the subject. The purpose of this research study is to learn whether these low dose research imagings are accurate or predict subject outcomes.\n\nCardiac CT is also used for diagnostic imaging of coronary artery disease and identification of abnormal cardiac structures. An additional purpose of this study is to monitor the progression of cardiac disease.\n\nCardiac imaging software and AI are constantly evolving and requires validation for accuracy. Using existing scan data, updated image software reconstruction can be applied and compared to previous existing standard of care images.\n\nObjectives:\n\n\\- To study new ways of taking pictures of the heart or blood vessels using computed tomography.\n\nEligibility:\n\n\\- Adults at least 18 years of age who will be having imaging studies to help detect heart or blood vessel problems.\n\nDesign:\n\n* Participants will be screened with a physical exam and medical history. Blood samples will be taken to check kidney function.\n* Participants will have a CT scan of the heart and blood vessels. A contrast agent may be used to improve the quality of the images. The scanning session may last up to 2 hours.\n* Timing of and the need for follow up contact will depend on results from the initial scan and may be repeated to assess for late events. Telephone, office contact, or other follow-up of subjects may be done after CCTA to evaluate if the subject had subsequent cardiovascular testing. Further follow up will be based on reported test results.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Clinical indication for a coronary CT angiography exam\n  2. Age equal to or greater than 18 years\n  3. Able to understand and willing to sign the Informed Consent Form\n  4. Able and willing to provide follow-up information\n\nEXCLUSION CRITERIA:\n\n1. Pregnancy\n2. If receiving intravenous contrast, severe renal excretory dysfunction, estimated glomerular filtration rate \\< 30 mL/min/1.73m2 body surface area according to the Modification of Diet in Renal Disease criteria or as reported by the clinical lab. Glomerular filtration rate will be estimated using the 2021 CK-EPI equation that eliminate the use of race coefficient as reported in CRIS.\n\nScreen Failures: Subjects who are screen failures can be re-enrolled once they meet eligibility criteria. Rescreened participants will be assigned the same participant number as for the initial screening.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Coronary Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a diagnostic imaging study for cardiovascular disease and does not involve systemic therapy for advanced disease. There is no line-of-therapy intent applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study is focused on cardiac CT angiography for diagnostic purposes in adults with a clinical indication for imaging. There is no mention of systemic therapy or lines of therapy for advanced disease, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04368481",
+  "title": "MIDI (MR Imaging Abnormality Deep Learning Identification)",
+  "brief_summary": "The study involves the development and testing of an artificial intelligence (AI) tool that can identify abnormalities using patient head scans conducted for routine clinical care and research volunteer scans. A deep learning algorithm will be developed using a dataset of retrospective and prospective MRI head scans to train, validate, and test convolutional networks using software developed at the Department of Biomedical Engineering, King's College London. The reference standard will be consultant radiologist reports of the MRI head scans.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* All head MRI scans with compatible sequences\n* \\> 18 years old\n\nExclusion Criteria:\n\n* No corresponding radiologist report\n* No consent for future use of the research images held within the historic database stored at The Centre for Neuroimaging Sciences (Kings College London).\n* Poor image quality",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All adult MRI head scan patients presenting at secondary and tertiary NHS centres across the UK for any indication.",
+  "condition": [
+    "Neurological Disorder"
+  ],
+  "overall_status": "RECRUITING"
+}

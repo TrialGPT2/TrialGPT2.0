@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00025662",
+  "title": "Selective T-Cell Depletion to Reduce GVHD (Patients) Receiving Stem Cell Tx to Treat Leukemia, Lymphoma or MDS",
+  "brief_summary": "This study will evaluate the safety and effectiveness of stem cell transplantation in which the donors T lymphocytes have undergone \"selective depletion.\" Certain patients with cancers of the blood undergo transplantation of donated stem cells to generate new and normally functioning bone marrow. In addition to producing the new bone marrow, the donor's T-lymphocytes also fight any tumor cells that might have remained in the body. This attack on tumor cells is called a \"graft-versus-leukemia\" (GVL) effect. However, another type of T-lymphocyte from the donor may cause what is called \"graft-versus-host-disease\" (GVHD), in which the donor cells recognize the patient's cells as foreign and mount an immune response to reject them. Selective depletion is a technique that was developed to remove the T-lymphocytes that cause harmful GVHD, while keeping those that produce the desirable GVL effect.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "\\- INCLUSION CRITERIA: PATIENT\n\n* Ages 50-75 years\n* Relapsed CML in chronic or accelerated phase after therapy with STI-571 (Gleevec)\n* Acute lymphoblastic leukemia (ALL), all patients in complete or partial remission. Exceptions: T cell ALL\n* Acute myelogenous leukemia (AML): AML in first complete or partial remission including AML secondary to chemotherapy or prior hematological disease such as myelodysplastic syndrome, and myeloproliferative disorder.\n* Myelodysplastic syndromes: (1) refractory anemia with excess of blasts (RAEB), (2) refractory anemia with excess blasts in transformation (RAEBT), (3) MDS with poor risk cytogenetics defined by a complex karyotype (greater than or equal to three anomalies) or chromosome 7 abnormalities, (4) secondary MDS after prior cytotoxic or radiation therapy, or (5) chronic myelomonocytic leukemia (CMML)\n* Chronic lymphocytic leukemia (CLL) and prolymphocytic leukemia, refractory to nucleoside analog therapy, with either progressive bulky disease or anemia (less than 10 g/dl) or thrombocytopenia (less than 100,000/microliter) not due to recent chemotherapy\n* Mantle cell lymphoma\n* Relapsed intermediate- or high-grade non-Hodgkin's lymphoma: (1) post autologous marrow or PBSC transplant, or (2) chemorefractory relapse. Exceptions: T cell NHL\n* Relapse Hodgkin's disease: (1) post autologous marrow or PBSC transplant, or (2) chemorefractory relapse\n* Low-grade follicular or small lymphocytic lymphoma: (1) relapsed following conventional chemotherapy, (2) relapsed following autologous marrow or PBSC transplant, or (3) chemoresistant disease\n* Life expectancy greater than 3 months\n* Ability to comprehend the investigational nature of the study and provide informed consent\n* Availability of an HLA-identical family donor, 18 to 75 years old\n* INCLUSION CRITERIA:\n\nDONOR\n\n* HLA identical family donor, 18 to 75 years old\n* Fit to receive G-CSF and give peripheral blood stem cells (normal blood count, normotensive, no history of stroke, no history of severe heart disease)\n* Ability to comprehend the investigational nature of the study and provide informed consent\n* EXCLUSION CRITERIA:\n\nRECIPIENT\n\n* Pregnant or lactating\n* Eastern Cooperative Oncology Group (ECOG) performance status of 3 or more\n* Major anticipated illness or organ failure incompatible with survival from PBSC transplant\n* Diffusion Capacity fir carbon monoxide (DLCO) less than 60% predicted\n* Left ventricular ejection fraction less than 40%, or any angina.\n* Absolute lymphocyte count less than 300/mm(3)\n* Serum creatinine greater than 2.5 mg/dl\n* Serum bilirubin greater than 4 mg/dl, transaminases greater than 5x upper limit of normal\n* HIV positive\n* Other malignant diseases liable to relapse or progress within 2 years\n* EXCLUSION CRITERIA:\n\nDONOR\n\n* Pregnant or lactating\n* HIV positive. Donors who are positive for Hepatitis B Virus, Hepatitis C Virus or human t-cell lymphoma virus (HTLV) will be used at the discretion of the investigator and with appropriate consent of the recipient\n* Donor unfit to receive G-CSF and undergo apheresis (uncontrolled hypertension, history of heart failure or unstable angina, platelet count less than 90,000/cu mm)",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Graft vs Host Disease",
+    "Myelodysplastic Syndromes",
+    "Leukemia",
+    "Leukemia, Myeloid",
+    "Leukemia, Myelomonocytic, Chronic",
+    "Leukemia, Lymphocytic",
+    "Lymphoma",
+    "Lymphoma, Mantle-cell",
+    "Lymphoma, Non-Hodgkin",
+    "Hodgkin Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

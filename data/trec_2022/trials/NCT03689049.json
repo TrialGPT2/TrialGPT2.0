@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT03689049",
+  "title": "SPIDER: A Research & QI Collaboration Supporting Practices in Improving Care for Complex Elderly Patients",
+  "brief_summary": "Elders living with multiple chronic conditions often take many drugs (polypharmacy)\u037e some of the drugs may not benefit them or may be harmful. The Canadian Institute for Health Information has reported that about one-quarter of Canadian seniors are prescribed ten or more different drugs each year. Polypharmacy can result in poorer health, reduced quality of life and high healthcare costs. Choosing Wisely Canada and the Canadian Deprescribing Network have suggested wiser uses for the following four Potentially Inappropriate Prescriptions (PIPs): drugs that reduce stomach acid\u037e reduce anxiety and induce sleep\u037e treat agitation\u037e and treat type 2 diabetes but have a high risk of low blood sugar. To improve care for elderly patients living with polypharmacy, we propose SPIDER: a Structured Process Informed by Data, Evidence and Research. Using quality improvement (QI) and supported by Electronic Medical Record (EMR) data, SPIDER will invite family doctors, nurses, pharmacists and front desk staff to participate in Learning Collaboratives and learn from each other. The practice teams will work with a QI Coach to identify areas to improve, develop strategies and implement changes tailored to the local practice context. The objective of this study is to determine whether SPIDER will reduce PIPs for patients 65 years or older who are on ten or more different drugs. The study will also explore patient experience and provider satisfaction with SPIDER and assess the cost of running SPIDER. The study will first be tested for feasibility in Toronto, Edmonton and Montreal. Findings will then guide a Randomized Controlled Trial (RCT) in Calgary, Winnipeg, Ottawa, Montreal and Halifax where practices enrolled in the SPIDER intervention will be compared with those in usual care.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion criteria:\n\n1. At practice level: a) contributes EMR data to the repository of a Practice Based Research Network (PBRN) that participates in CPCSSN\u037e and b) includes a primary care provider (PCP) who consents to participate and lead the practice QI team.\n2. At PCP level: a) practices comprehensive family medicine in an office setting (academic or non-academic)\u037e and b) consents to participate and allow the research staff to provide study information to their eligible patients.\n3. At patient level: a) 65 years or older\u037e b) has at least one office visit during the past 2 years\u037e and c) has received ten or more different prescription medications (as indicated in the EMR) in the past year.\n\nExclusion criteria:\n\n1. At practice level: a) Does not use EMR\u037e b) does not contributes EMR data to the repository of a PBRN that participates in CPCSSN\u037e or c) none of the PCPs at the practice consents to participate.\n2. At PCP level: a) does not practice comprehensive family medicine in an office setting\u037e b) does not consent to participate\u037e c) does not allow the research staff to contact or provide study information to their eligible patients\u037e or d) has left the practice.\n3. At patient level: a) younger than 65 years of age\u037e b) has not visited a practice over the past 2 years\u037e or c) has received fewer than ten different prescription medications in the past year.\n\n(Note:\n\n* PBRN: Practice Based Research Network;\n* CPCSSN: the Canadian Primary Care Sentinel Surveillance Network)",
+  "minimum_age": "65 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Polypharmacy",
+    "Inappropriate Prescribing",
+    "Aged",
+    "Primary Health Care",
+    "Quality Improvement",
+    "Electronic Health Records"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00750269",
+  "title": "Stereotactic Body Radiation Therapy in Treating Patients With Stage I Non-Small Cell Lung Cancer",
+  "brief_summary": "RATIONALE: Stereotactic body radiation therapy may be able to send x-rays directly to the tumor and cause less damage to normal tissue.\n\nPURPOSE: This phase I/II trial is studying the side effects and best dose of stereotactic body radiation therapy and to see how well it works in treating patients with stage I non-small cell lung cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed non-small cell lung cancer (NSCLC)\n\n  * Stage T1-2, N0, M0 disease\n\n    * Tumor size \u2264 5 cm\n    * Tumor must be within or touching the zone of the proximal bronchial tree, defined as a volume of 2 cm in all directions around the proximal bronchial tree (i.e., carina, right and left main bronchi, right and left upper lobe bronchi, intermedius bronchus, right middle lobe bronchus, lingular bronchus right, and left lower lobe bronchi) OR immediately adjacent to the mediastinal or pericardial pleura (PTV touching the pleura)\n    * Hilar or mediastinal lymph nodes \u2264 1 cm AND no abnormal hilar or mediastinal uptake on positron emission tomography (PET) scan are considered N0\n\n      * Mediastinal lymph node sampling by any technique is allowed but not required\n      * Patients with \\> 1 cm hilar or mediastinal lymph nodes on CT scan or abnormal PET scan (including suspicious but nondiagnostic uptake) are eligible provided directed tissue biopsies of all abnormally identified areas are negative for cancer\n* Tumor deemed technically resectable, in the opinion of an experienced thoracic cancer surgeon, with a reasonable possibility of obtaining a gross total resection with negative margins, defined as a potentially curative resection (PCR)\n* Patient deemed \"medically inoperable\" due to severe underlying physiological medical problems that would prohibit a PCR, including any of the following:\n\n  * Baseline forced expiratory volume at one second (FEV1) \\< 40% predicted\n  * Postoperative FEV1 \\< 30% predicted\n  * Severely reduced diffusion capacity\n  * Baseline hypoxemia and/or hypercapnia\n  * Exercise oxygen consumption \\< 50% predicted\n  * Severe pulmonary hypertension\n  * Diabetes mellitus with severe end-stage organ damage\n  * Severe cerebral, cardiac, or peripheral vascular disease\n  * Severe chronic heart disease\n* Measurable disease as documented by CT scan or whole-body PET scan within the past 8 weeks\n\n  * Patients with lesions that cannot be visualized by CT scan are not eligible\n* Pleural effusion allowed provided it is deemed too small to tap under CT guidance and is not evident on chest x-ray\n\n  * Pleural effusion that appears on chest x-ray is allowed only after thoracotomy or other invasive procedure\n\nPATIENT CHARACTERISTICS:\n\n* Zubrod performance status 0-2\n* Not pregnant\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for \u2265 60 days after completion of study therapy\n* No other invasive malignancy within the past 2 years except nonmelanomatous skin cancer or carcinoma in situ of the breast, oral cavity, or cervix\n\n  * Prior lung cancer allowed provided the patient has been disease-free for \u2265 2 years\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior radiotherapy to the region of the study cancer that would result in overlap of radiotherapy fields\n* No prior chemotherapy for the study cancer\n* No other concurrent local therapy (including standard-fractionated radiotherapy and/or surgery) or systemic therapy (including standard chemotherapy or biologic targeted agents) specifically intended as treatment for study cancer\n\n  * Local or systemic therapy at the time of disease progression allowed",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lung Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00279149",
+  "title": "TRUST-tPA: Therapeutic Trial Evaluating Efficacy of Telemedicine (TELESTROKE) of Patients With Acute Stroke",
+  "brief_summary": "The objective is to evaluate decision making of i.v. tPA treatment in acute stroke within 3 hours of symptom onset either remotely via videoconferencing system (investigational arm) beginning of treatment on-site and then transfer to stroke unit vs. decision after immediate transfer to stroke unit (usual care arm). Ten remote hospitals are connected to the BICHAT stroke unit. All patients will have stroke unit care at BICHAT hospital. Primary end-point is rankin 0-1 at 3 months.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* patients older than 18 years\n* symptoms of brain infarction since less than 150 minutes\n* NIHSS between 4 and 22\n* No brain hemorrhage on contrast CT-scan\n* Signed consent form by the patient or his relatives\n\nExclusion Criteria:\n\n* NIHSS above 22 or coma\n* current oral anticoagulant or INR \\> 1.7\n* heparin treatment within the preceding 24 hours or prolonged APTT (\\>40seconds)\n* platelets count \\< 100 000/mm3\n* another stroke or brain trauma within 3 months prior admission\n* systolic blood pressure \\> 185 or diastolic blood pressure \\> 110 at the time od tPA treatment onset\n* neurologic deficit is improving\n* history of intracranial hemorrhage\n* glycemia less than 0.5g/l or upper than 4g/l after treatment by Actrapid\n* epileptic seizure at the time of stroke onset\n* Gastro-intestinal or urinary hemorrhage\n* Recent myocardial infarction within the last 21 days\n* Lumbar puncture or arterial blood sampling in a non compressible vessel within the last 7 days\n* Hemophilia\n* Pregnancy or breast feeding\n* Pericarditis within the last 3 months\n* Major surgery within the last 15 days\n* History of aortic dissection\n* Endocarditis with the last 3 months\n\nBrain CT scan exclusion criteria:\n\n* Mass effect ( tumor, VAM, aneurism )\n* Decreased density ( ASPECTS score \\< 8) or mass effect involving more than 1/3 of the territory of the middle cerebral artery",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Stroke"
+  ],
+  "overall_status": "COMPLETED"
+}

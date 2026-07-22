@@ -1,0 +1,38 @@
+{
+  "nctid": "NCT01900132",
+  "title": "Electrical Impedance Myography: Natural History Studies inNeuromuscular Disorders and Healthy Volunteers",
+  "brief_summary": "Background:\n\n\\- Electrical impedance myography (EIM) is a new technique being studied to see if it is helpful in evaluating muscle disorders and nerve disorders. EIM looks at how a mild, painless electrical current travels through muscles. Researchers want to gain experience in using the EIM device. They will collect information on the results of using it on people with and without nerve and muscle diseases, and compare that with information from other standard tests. First, they will test the device on healthy people. Then they will test people with a variety of neuromuscular diseases. Because the test is noninvasive and not painful, researchers will test both children and adults.\n\nObjectives:\n\n\\- To gain experience using the EIM muscle testing device.\n\nEligibility:\n\n* Healthy volunteers at least 2 years old.\n* Individuals at least 2 years old who have neuromuscular disease.\n\nDesign:\n\n* Participants will be screened with a medical history and physical exam.\n* Participants will have one 2-3 hour clinic visit. Researchers may request follow-up visits.\n* Participants will be tested with the EIM device. The device and small electrodes will be placed on their skin. An electric current will pass through the device, but the participants will not feel this.\n* Participants may have an ultrasound test. A gel will be put on their skin, and a device will be moved over the skin.\n* Participants may have a nerve test. Electrodes will be placed on their skin, and they will feel a small shock.\n* Participants may have a test where a thin needle is inserted in their muscle.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nHEALTHY VOLUNTEERS-ADULTS\n\n1. Healthy adults, male or female, aged 18 years old or older,\n2. In good general health as evidenced by medical history\n3. Stated willingness to comply with all study procedures and availability for the duration of the study.\n4. Ability of subject to understand and the willingness to sign a written informed consent document.\n\nHEALTHY VOLUNTEERS-PEDIATRIC\n\n1. Healthy children, male or female, age 7-18,\n2. In good general health as evidenced by medical history\n3. Stated willingness to comply with all study procedures and availability for the duration of the study\n4. Ability of subject or Legally Authorized Representative (LAR)) to understand and the willingness to sign a written informed consent document.\n\nSUBJECTS WITH NEUROMUSCULAR DISEASE\n\nAdult and pediatric, male or female, patients with a neuromuscular disorder are eligible even if the exact etiology of the disorder is unknown at the time of enrollment into this study. This will include neuropathy, myopathy and motor neuron disorders. It is expected that the subjects are undergoing appropriate standard diagnostic and genetic work-up outside of this protocol that will later clarify the specific etiology of the disorder. Movement disorder will also be included because of the prior research done on dystonia and EIM.\n\nInclusion criteria\n\n1. Suspected motor neuron disease or\n2. Suspected myopathy or\n3. Suspected neuropathy or\n4. Suspected movement disorders that impair intracortical processes\n5. Age of 2 years or older\n6. Ability of subject to sign a written informed consent document.\n\nNIH EMPLOYEES:\n\nNIH employees and staff may participate, however EMG Section, OCD, NINDS, employees may not participate.\n\nEXCLUSION CRITERIA:\n\nHEALTHY VOLUNTEERS-ADULTS\n\n1. Medical conditions that require medications that affects the physiological measures being tested. Some conditions that may be excluded are diabetes, kidney and liver disease.\n2. History of stroke, muscle disorders, peripheral neuropathy or spine surgery\n\nHEALTHY VOLUNTEERS-PEDIATRIC\n\n1. Medical conditions that require medications that affects the physiological measures being tested. Some conditions that may be excluded are diabetes, kidney and liver disease.\n2. History of stroke, muscle disorders, peripheral neuropathy or spine surgery\n\nSUBJECTS WITH NEUROMUSCULAR DISEASE:\n\nNo clinical evidence of a neuromuscular disorder on clinical evaluation.",
+  "minimum_age": "2 Years",
+  "maximum_age": "110 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Neuromuscular Disease",
+    "Motor Neuron Disease",
+    "Inherited Neuromuscular Conditions",
+    "Inherited Neuropathies"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study enrolling both healthy volunteers and patients with neuromuscular diseases to evaluate a diagnostic device. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study includes healthy volunteers and patients with neuromuscular disorders regardless of prior treatment history. There is no mention of systemic therapy for advanced disease, and line-of-therapy intent is not applicable to this diagnostic, non-interventional study."
+    }
+  ]
+}

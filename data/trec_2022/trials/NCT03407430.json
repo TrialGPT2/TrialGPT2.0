@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03407430",
+  "title": "Trial of Pregabalin for Granulocyte Colony-stimulating Factor (GCSF)-Induced Bone Pain",
+  "brief_summary": "Purpose:\n\nTo evaluate the preventative effects of pregabalin on pegfilgrastim-induced bone pain in cycle 1. Because granulocyte colony stimulating factor (G-CSF) receptors are found at nerve endings which modulate the pain signal, blocking this with pregabalin is theorized to prevent the occurrence of this adverse effect.\n\nParticipants:\n\nPatients will be at least 18 years of age with either a diagnosis of a non-myeloid hematologic malignancy scheduled to initiate a cycle of chemotherapy that requires prophylactic use of a G-CSF, or with a diagnosis of breast cancer scheduled to initiate dose-dense doxorubicin/cyclophosphamide chemotherapy or docetaxel/cyclophosphamide that requires prophylactic use of a G-CSF.\n\nProcedures (methods):\n\nThis is a randomized (1:1), single center, placebo-controlled, double blind, crossover phase II study. The primary objective is to compare the proportion of patients who have an increase in pain score of \u22653 from baseline in cycle 1 between Arm A (pregabalin) and Arm B (placebo). In consultation with the treating physician, the PI will determine what day pegfilgrastim will be initiated in each eligible, consented patient. Pregabalin or placebo will begin 4 days prior to pegfilgrastim administration, and continue for 7 additional days starting the day of pegfilgrastim administration.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \u226518 years\n* Diagnosis of a non-myeloid hematologic malignancy scheduled to initiate a cycle of chemotherapy that requires prophylactic use of a granulocyte colony-stimulating growth factor (based on the provider's discretion), provided the schedule of chemotherapy cycles allows the use of pegfilgrastim at a dose of 6 mg SC once per cycle OR Diagnosis of breast cancer scheduled to initiate dose-dense doxorubicin and cyclophosphamide (AC) chemotherapy or docetaxel and cyclophosphamide (TC) chemotherapy that requires prophylactic use of a granulocyte colony-stimulating growth factor, provided the schedule of chemotherapy cycles allows the use of pegfilgrastim, at a dose of 6 mg SC once per cycle; pegfilgrastim scheduled for 24 hours post chemotherapy.\n* Schedule of chemotherapy and pegfilgrastim initiation can accommodate initiation of pregabalin 4 days prior to pegfilgrastim dose.\n* Baseline pain scores \\<7 as measured via 10-point numerical scale for pain (see section 11.1); pain score and use of any non-opioid pain medication must be self-reported as stable (same dose and frequency) over the 7 days prior to screening; for opioids, patient must self-report the same dose and frequency over the 28 days prior to screening. Patients who are receiving peri-procedural short-acting analgesics will still be included as long as they are no longer receiving analgesics by D1 of chemotherapy.\n\nExclusion Criteria:\n\n* A history of (within one month) or current pregabalin use.\n* Baseline pain scores \u22657 as measured via 10-point numerical scale for pain (see section 11.1).\n* Unwilling to discontinue use of antihistamines from 7 days prior to D1 of study medication.\n* Creatinine clearance (CrCl) \u226460 ml/min (as measured via Cockcroft-Gault) based on serum creatinine measured as part of standard of care prior to administration of chemotherapy\n* Women of childbearing potential must have a negative serum pregnancy test prior to initiating therapy (note, this test should be standard of care prior to administration of chemotherapy).\n* Patient is unable or unwilling to abide by the study protocol or cooperate fully with the investigator.\n* Eligible and agrees to enroll into therapeutic trial ongoing at the Lineberger Comprehensive Cancer Center (LCCC) (i.e., the treatment trial will take precedence over LCCC1314).\n* Currently receiving therapeutic doses of anticoagulants (ie, prophylactic use of anticoagulants is allowed) due to possibility of dizziness and falls while on pregabalin.\n* Currently receiving aromatase inhibitors or agents targeted against Ph+ leukemias (i.e., imatinib, dasatinib, nilotinib, and ponatinib) or scheduled to start these drugs during cycle 1 of scheduled chemotherapy.\n* Presence of bone metastases.\n* History of angioedema.\n* History of a seizure disorder.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Breast Cancer",
+    "Lymphoma",
+    "Pain"
+  ],
+  "overall_status": "TERMINATED"
+}

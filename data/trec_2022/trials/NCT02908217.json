@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02908217",
+  "title": "Safety and Efficacy of tocilizuMAb Versus Placebo in Polymyalgia rHeumatica With glucocORticoid dEpendence SEMAPHORE",
+  "brief_summary": "Patients are treated with infusions of Tocilizumab (TCZ) or placebo for 5 months. Clinical evaluation is performed using PMR-AS.\n\nThe PMR-AS is computed by summing the 5 variables after multiplying by 0.1 for weighting purposes: PMR-AS (activity scale = AS) = C reactive protein (CRP) (mg/dl) + patient scale (VASp) (0-10 scale) + physician scale (VASph) (0-10 scale) + morning stiffness(MST) \\[min\\]\u00d70.1) + elevation of upper limbs (EUL) (0-3 scale).\n\nAll the patients included are treated with glucocorticoid (GC).GC are reduced at each visit until the end of the study, depending on response to treatment and PMR-AS.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age older than 50 years\n* Fulfilled the Chuang criteria\n* And currently:\n\n  * PMR-AS\\> 10\n  * Absence of signs or symptoms of other musculoskeletal or connective tissue conditions\n* Able to give informed consent\n* Concomitant treatments with methotrexate or hydroxy-chloroquine are permitted if stable dose since 3 months.\n\nExclusion Criteria:\n\n* Clinical symptoms of giant cell arteritis\n* Uncontrolled dyslipidemia, high blood pressure or cardiovascular disease\n* History of major organ or haematopoietic stem cell/marrow transplant\n* Clinical evidence of significant unstable or uncontrolled acute or chronic diseases not due to PMR\n* Planned surgical procedure within 12 months after randomization.\n* History of malignant neoplasm within the last 5 years.\n* Current active infection\n* Patient with elevated ALT or AST\\> 5 ULN",
+  "minimum_age": "50 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Polymyalgia Rheumatica"
+  ],
+  "overall_status": "COMPLETED"
+}

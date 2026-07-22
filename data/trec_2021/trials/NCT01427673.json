@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01427673",
+  "title": "Continuous Positive Airway Pressure Versus Noninvasive Ventilation in Patients With Overlap Syndrome",
+  "brief_summary": "The purpose of this study is to determine if Bipap should assume a standard-of-care role in the management of overlap syndrome.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients aged \\> 35 years, the diagnosis of both OSA and COPD. OSA must have been diagnosed using an American Academy of Sleep Medicine (AASM)-protocol overnight Type I polysomnogram assessment with a resultant RDI of \\>5 events/hour in association with OSA-attributable diurnal symptoms.\n* COPD must be diagnosed using American Thoracic Society (ATS)-protocol pulmonary function testing.\n* Patients must have Global Obstructive Lung Disease (GOLD) stage II COPD FEV1/FVC \\< 70% predicted in conjunction with an FEV1 \\<80% predicted.\n* The patient must have a \\> 10 pack years smoking history and a documented history of at least one exacerbation leading to treatment with systemic glucocorticoids or antibiotics or hospitalization within the previous year.\n\nExclusion Criteria:\n\n* Significant diseases other than COPD, i.e. disease or condition which, in the opinion of the investigator, may have put the patient at risk because of participation in the study or may have influenced either the results of the study or the patients' ability to participate in the study\n* Patients with a diagnosis of asthma\n* Patients with a life-threatening pulmonary obstruction, or a history of cystic fibrosis\n* Patients with known active tuberculosis\n* Patients with brittle/unstable diabetes mellitus\n* Patients with a history of and/or active significant alcohol or drug abuse. See exclusion criterion 1\n* Patients with a history of myocardial infarction within the year prior to Visit 1\n* Patients with cardiac arrhythmia that required medical or surgical treatment in the 3 months prior to enrollment\n* Patients who had taken an investigational drug within 30 days or 6 half-lives (whichever is greater) prior to Visit 1\n* Use of systemic corticosteroid medication at unstable doses (i.e., less than 6 weeks on stable dose) or at doses in excess of the equivalent of 10 mg prednisolone per day or 20 mg every other day\n* Pregnant or nursing women or women of childbearing potential not using a medically approved means of contraception (i.e., oral contraceptives).\n* Patients with any respiratory infection or COPD exacerbation in the 4 weeks prior to Visit 1 or during the run-in period should have been postponed. In the case of a respiratory infection or COPD exacerbation during the run-in period, the run-in period could have been extended up to 4 weeks\n* Patients who, during their CPAP titration study are found to require such excessive CPAP pressures as to mandate a Bipap titration\n* Patients with either Cheyne-stokes respiration noted on PSG assessment or a central sleep apnea with an associated central event index \\> 5 events/hour (using AASM central apnea/hypopnea scoring criteria)",
+  "minimum_age": "35 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chronic Obstructive Pulmonary Disease",
+    "Obstructive Sleep Apnea",
+    "Overlap Syndrome"
+  ],
+  "overall_status": "UNKNOWN"
+}

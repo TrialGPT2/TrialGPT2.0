@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01907438",
+  "title": "Transformation Potential of E2 Exposed Breast Cancer Susceptibility Gene Mutation Heterozygous Epithelial Breast Cells",
+  "brief_summary": "Susceptibility to breast cancer is related to the combination of genetic, hormonal and multiple other environmental risk factors, such as mutations in the BRCA gene and excess exposure to exogenous estrogen, respectively. BRCA is a nuclear protein that maintains genome stability, by acting as a key player in the DNA repair complex. Recently, evidence has emerged that BRCA mutation heterozygosis itself enhances aborted DNA repair and can contribute to breast cancer initiation after exposure to irradiation. In our preliminary results on short-term lymphocyte cultures, we found additional evidence that healthy heterozygous BRCA1 and BRCA2 mutation carriers have a different response to DNA damage than do non-carriers.\n\nThe main aim of our ongoing project is to identify the transcriptional modulation and transformation potential of normal BRCA1 and BRCA2 mutation heterozygous epithelial breast cells following irradiation and to examine how it is affected by exposure to estrogen. Our hypotheses will be investigated by RNA-seq and microRNA-seq in order to identify a unique molecular expression profile of the estrogen exposed cells following ionizing irradiation.\n\nUnderstanding the role of BRCA heterozygosity in cell response to exposure to estrogen and to irradiation may facilitate the development of more appropriate diagnostic and therapeutic strategies for these individuals.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* healthy\n* premenopausal\n* women\n* BRCA1 mutations\n* BRCA2 mutations\n\nExclusion Criteria:\n\n* women with breast or ovarian cancer",
+  "minimum_age": "25 Years",
+  "maximum_age": "50 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "human breast tissue samples will be obtained from risk-reducing mastectomy in healthy premenopausal women with BRCA1 and BRCA2 mutations. Tissues from premenopausal women undergoing esthetic breast surgery with no family history of breast or ovarian cancers also will be obtained.",
+  "condition": [
+    "BRCA1 Gene Mutation",
+    "BRCA2 Gene Mutation"
+  ],
+  "overall_status": "UNKNOWN"
+}

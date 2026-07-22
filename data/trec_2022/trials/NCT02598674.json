@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02598674",
+  "title": "Severe Sepsis in Children - IMPRESS-C",
+  "brief_summary": "Sepsis is the most common cause of childhood death worldwide. Millions of children survive, but are left with impaired health. Sepsis-related Acute Kidney Injury (sAKI) is increasingly recognized as a significant factor associated with long-term mortality among different patient populations. Renal dysfunction and subsequent chronic kidney disease is implicated in the development of hypertension and cardiovascular disease. The investigators overall hypothesis is that, in the pediatric population, sepsis-related AKI will have unrecognized, long-term consequences with regard to kidney function, endothelial function, blood pressure control, and overall health.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nFor all patients:\n\n* Ability to assent (age 7-17 at time of participation in the study)\n* If taking antihypertensive medication, prescribing practitioner's written approval to participate\n\nFor sAKI patients:\n\n* Hospitalization with a diagnosis of sepsis from 1998-2014\n* Severe AKI as defined by the pEDRIFLE criteria during incident sepsis admission\n* Participation in cognitive survey study with completion of the PedsQL survey\n\nFor healthy control patients:\n\n\u2022 Patients from the neurology service undergoing MRI with gadolinium as a part of their clinical care\n\nExclusion Criteria:\n\nFor all patients:\n\n* Known pre-existing CKD as defined by history of kidney transplant or long-term dialysis\n* Age greater than 17 years at the time of incident sepsis admission\n* AKI from primary kidney disease including acute glomerulonephritis and obstructive uropathy\n* Pregnancy at the time of enrollment\n* Known or suspected allergy to gadolinium based contrast\n* Known or suspected allergy to iodohippurate will be excluded from RPF measurement with iodohippurate\n* Heart failure or condition whereby the administration of 0.9% normal saline would be contraindicated\n* If taking antihypertensive medication, lack of prescribing practitioner's written approval to participate\n\nFor healthy control patients:\n\n* Chronic kidney disease\n* History of acute kidney injury or GFR \\<100 History of chronic illnesses deemed to predispose to renal or cardiovascular dysfunction or abnormalities Suspicion of infection\n* Neuro-vascular history such as encephalitis, meningitis, vascular anomalies of the brain or spinal cord or cerebrovascular infarct or ischemia will be excluded .\n* No indication for gadolinium administration for MRI",
+  "minimum_age": "7 Years",
+  "maximum_age": "17 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Contact and enroll subjects with severe sepsis related AKI subjects without sepsis related AKI and a sample of age and sex-matched healthy controls.",
+  "condition": [
+    "Acute Kidney Injury",
+    "Chronic Kidney Disease",
+    "Hypertension"
+  ],
+  "overall_status": "WITHDRAWN"
+}

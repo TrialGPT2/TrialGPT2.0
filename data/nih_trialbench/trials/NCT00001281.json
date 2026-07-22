@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT00001281",
+  "title": "Studies of the Pathogenesis of HIV Infection in Human Peripheral Blood Cells and/or Body Fluids in People Living With and Without HIV",
+  "brief_summary": "We are studying virologic and/or immunologic parameters of HIV infection and other infectious or non-infectious immune deficiency diseases in order to better understand the pathogenesis of HIV. Because of the lack of an adequate animal model it is generally necessary to utilize human peripheral blood cells for studying aspects of either in vivo or in vitro HIV infection. We wish to be able to continue to elucidate many pathogenic aspects of HIV infection in relation to other infectious or non-infectious immune regulation and dysregulation using human peripheral blood mononuclear cells as a model....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* 18 years of age or older.\n* Adequate venous access.\n* Have a blood pressure less than or equal to 180/100: pulse rate 50-100, unless a lower pulse rate is considered normal for the volunteer.\n* Have adequate blood counts (volunteers living with HIV: hemoglobin greater than or equal to 9.0 g/dL, platelets greater than or equal to 50,000; volunteers living without HIV: hemoglobin greater than or equal to 9.0 g/dL, platelets greater than or equal to 50,000\n* Be willing and able to provide written informed consent on screening, comply with study requirements and procedures, and comply with clinic policies\n* Willingness to allow blood samples to be used for future studies of HIV infection/pathogenesis, and undergo hepatitis screening\n\nEXCLUSION CRITERIA:\n\n* Pregnant and/or breastfeeding females.\n* Active substance abuse or history of prior substance abuse that may interfere with protocol compliance or compromise volunteer safety.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Volunteers living with/without HIV, Volunteers with/without immunodeficiencies, Volunteers with/without infectious diseases of interest",
+  "condition": [
+    "HIV",
+    "Immunodeficiencies",
+    "Infectious Diseases"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a pathogenesis study enrolling people living with and without HIV, with no mention of cancer or systemic therapy for advanced disease. There are no requirements or restrictions regarding prior lines of therapy for advanced/metastatic disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention cancer, systemic therapy, or lines of therapy for advanced disease. This study is not oncology-focused and does not specify any requirements regarding prior treatment."
+    }
+  ]
+}

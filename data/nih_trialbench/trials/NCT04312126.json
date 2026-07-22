@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT04312126",
+  "title": "The Beneficial Effects of Naps on Motor Learning",
+  "brief_summary": "Background:\n\nMemory consolidation is the process by which memories become stable, long-term representations in the brain. Consolidation of a motor skill is dependent upon sleep. Some research shows that daytime naps improve people s motor performance and memory retention. Researchers want to find out how daytime naps may contribute to learning and support consolidation of motor skill memories.\n\nObjective:\n\nTo learn the role of memory replay during wakeful rest and sleep (naps) in retaining a newly learned skill.\n\nEligibility:\n\nEnglish-speaking adults ages 18 and older with chronic stroke, or healthy, right-handed, English-speaking adults ages 18-35 and 50-80\n\nDesign:\n\nParticipants will be screened with:\n\n* medical history\n* neurological history\n* medicine review\n* medical exam\n* neurological exam.\n\nParticipants will have a magnetic resonance imaging (MRI) scan of the brain. For this, they will lie down in a scanner. The scanner makes loud noises, so they will wear earplugs. They will fill out an MRI screening form before each MRI.\n\nParticipants will also have magnetoencephalography (MEG). MEG maps brain activity. It does this by recording the magnetic fields produced by naturally occurring electrical currents in the brain. For MEG, participants will lie down in the MEG room. Their eye movements may be recorded by a video camera.\n\nParticipants will have behavior testing. They will practice typing random keys. Then they will repeatedly type a custom sequence that they see on a computer screen. Then they will take a 2-hour nap. Then they will type the same sequence again.\n\nParticipants will have no more than 4 visits at the NIH over 3 months. Visits will last 2-4 hours each.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* HEALTHY VOLUNTEERS:\n\nINCLUSION CRITERIA:\n\n* Age 18-35 (Arm 1) or 50-80 (Arms 2).\n* English speaking.\n* Clear right-hand dominance (\\>74 on Edinburgh Handedness Inventory).\n* Normal neurological examination as determined by the screening clinician.\n\nEXCLUSION CRITERIA:\n\n* HCPS affiliated NIH staff (i.e. - staff from our section).\n* Current pregnancy.\n* Contraindications for MRI or MEG.\n* Use of sleep medications within 24 hours of Experimental Session participation.\n* Severe or progressive neurological, psychological or medical condition as determined by the screening clinician.\n\nSTROKE PATIENTS:\n\nINCLUSION CRITERIA:\n\n* Age 18 or older\n* Willing and able to provide consent\n* Experienced a stroke 6 months ago or more that affected at least one of the upper extremities at time of stroke diagnosis\n* Ability to perform the study task as assessed during physical examination\n* English-speaking\n\nEXCLUSION CRITERIA:\n\n* HCPS-affiliated NIH staff (i.e. - staff from our section).\n* Current pregnancy\n* History of large stroke lesions in brainstem or cerebellum as determined by screening clinician\n* Severe or progressive neurological disorder other than stroke (e.g., Parkinson s disease or multiple sclerosis) as determined by the screening clinician\n* Uncontrolled heart, lung, kidney, gastrointestinal, metabolic, psychiatric, sleep, or endocrine disorders as determined by the screening clinician\n* Contraindications for MRI or MEG.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Right-handed adults between the ages of 18 and 80.",
+  "condition": [
+    "Stroke"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is not an oncology trial and does not involve systemic therapy for advanced disease. The study enrolls healthy volunteers and chronic stroke patients to investigate the effects of naps on motor learning.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The trial does not involve cancer patients or systemic therapy for advanced disease. Eligibility is based on neurological status (healthy or chronic stroke), not prior lines of cancer therapy."
+    }
+  ]
+}

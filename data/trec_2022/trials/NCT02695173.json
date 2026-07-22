@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02695173",
+  "title": "Complications of UTI in Patients on Dapagliflozin",
+  "brief_summary": "The objective of this study is to compare, by insulin use at the index date, the sex-specific incidence of hospitalization or emergency department (ED) visit for severe complications of urinary tract infections (UTI), defined as pyelonephritis and urosepsis, among patients with type 2 diabetes mellitus (T2DM) who are new users of dapagliflozin with those who are new users of antidiabetic drugs (ADs) in classes other than sodium-glucose cotransporter 2 (SGLT2) inhibitors, insulin monotherapy, metformin monotherapy, or sulfonylurea monotherapy.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. 18 years and older (CPRD and HIRD), or 65 years or older (Medicare);\n2. no diagnosisi of type 1 diabetes,\n3. are new users of one of the study drugs and\n4. have at least 180 days of electronic data before their first prescription of the study drug\n\nExclusion Criteria:\n\n1. The patient experienced chronic pyelonephritis at any time before the index date (i.e., during the available lookback time).\n2. The patient was prescribed an SGLT2 inhibitor other than dapagliflozin on or before the index date.\n3. The patient initiated metformin or sulfonylurea as AD monotherapy at the index date.\n4. The patient initiated insulin therapy at the index date.\n5. The patient had evidence of type 1 diabetes before cohort entry or first recorded AD is insulin monotherapy",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with type 2 diabetes mellitus who are new users of dapagliflozin with those who are new users of antidiabetic drugs in classes other than SGLT2 inhibitors, insulin monotherapy, metformin monotherapy, or sulfonylurea monotherapy. Up to four comparator subjects will be matched to each dapagliozin user.",
+  "condition": [
+    "Severe Complications of Urinary Tract Infections"
+  ],
+  "overall_status": "COMPLETED"
+}

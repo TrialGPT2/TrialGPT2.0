@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT01561885",
+  "title": "Collaborative Healthcare Professionals Approach in Monitoring of Patient Centered Outcomes Through Pathways",
+  "brief_summary": "The aim of this study is to determine if by providing a collaborative, integrated pathway-based healthcare compared to the usual healthcare, whether or not this would be superior in reducing the length of hospital stay across five high frequency /high risk medical diagnoses: Acute Venous Thromboembolism, Acute Kidney Injury, Community Acquired Pneumonia, Adult Left Ventricular Heart Failure, and Asthma.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "1. Inclusion Criteria (Overall Criteria):\n\n   * One principle diagnosis\n   * Hemodynamic Stability\n2. Inclusion Criteria (Specific to each Diagnosis):\n\n   Acute Venous Thromboembolism:\n   * New onset / in-patient\n\n   Acute Kidney Injury:\n   * Patients with increased serum creatinine of more than 50% from baseline\n\n   Community Acquired Pneumonia:\n   * Age limit\n\n   Adult Left Ventricular Heart Failure:\n   * Age limit\n\n   Asthma\n   * Acute exacerbation of Asthma\n3. Exclusion Criteria (Overall Criteria):\n\n   * Intensive Care Unit (ICU) patients\n   * Pregnancy\n4. Exclusion Criteria (Specific to each Diagnosis):\n\nAcute Venous Thromboembolism:\n\n* Hemodynamic instability (Systolic Blood Pressure (SBP) less than 90 mmHg or massive Pulmonary Embolism (PE)\n* PE patients with an sPESI Score \u2265 1\n\nAcute Kidney Injury:\n\n* Critical care patients (ICU, Coronary Care Unit, burn units)\n* Stage 4 and 5 chronic kidney diseases\n* Kidney allograft recipients\n* Obstructive uropathy\n* Glomerulonephritis\n* Interstitial nephritis\n\nCommunity Acquired Pneumonia:\n\n* Intensive Care Unit (ICU) patients\n* Pregnancy\n\nAdult Left Ventricular Heart Failure:\n\n* All non-cardiogenic pulmonary edema\n* Patients requiring Inotropic agents\n\nAsthma\n\n* Patients with Chronic Obstructive Pulmonary Disease (COPD) and Bronchiectasis\n* Severe Asthma (Peak Expiratory Flow Rate (PEFR) less than 40 percent)",
+  "minimum_age": "14 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Heart Failure",
+    "Community Acquired Pneumonia",
+    "Venous Thromboembolism",
+    "Acute Kidney Injury",
+    "Asthma"
+  ],
+  "overall_status": "COMPLETED"
+}

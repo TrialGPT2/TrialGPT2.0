@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT06126276",
+  "title": "Testing the Use of Neratinib or the Combination of Neratinib and Palbociclib Targeted Treatment for HER2+ Solid Tumors (A ComboMATCH Treatment Trial)",
+  "brief_summary": "This phase II ComboMATCH treatment trial compares the effect of neratinib to the combination of neratinib and palbociclib in treating patients with HER2 positive solid tumors. Neratinib and palbociclib are in a class of medications called kinase inhibitors. They work by blocking the action of an abnormal protein that signals cancer cells to multiply. This helps slow or stop the spread of tumor cells. Giving neratinib and palbociclib in combination may shrink or stabilize cancers that over-express a specific biomarker called HER2.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient must have enrolled onto EAY191 and must have been given a treatment assignment to ComboMATCH to EAY191-N5 based on the presence of an actionable mutation as defined in EAY191\n* Patients must have a HER2 amplified solid tumor except breast cancer.\n\n  * If IHC is 0 or 1+, patient (pt) is NOT ELIGIBLE regardless of FISH or next generation sequencing (NGS) status\n  * If IHC is 3+, pt IS ELIGIBLE regardless of FISH or NGS status\n  * If IHC is 2+, FISH OR NGS must be positive for the patient to be ELIGIBLE. Otherwise, pt is NOT ELIGIBLE\n  * If IHC is unknown and…\n\n    * FISH is positive, independent of NGS results, the patient IS ELIGIBLE\n    * FISH is negative and NGS positive with ≥7 copies, the patient IS ELIGIBLE\n* Patients must have recurrent or persistent disease\n* No known evidence of RB1 loss or deletion including copy number loss or deleterious mutation\n* Patients must have disease that can be safely biopsied and agree to a pre-treatment biopsy or, if disease cannot be safely biopsied, have archival tissue available from within 12 months prior to the date of registration on the ComboMATCH Registration Trial (EAY191)\n* Patients must have measurable disease based on RECIST 1.1. A second measurable lesion outside of the biopsiable lesion is required\n* Patients with treated brain metastases are eligible if follow up brain imaging after central nervous system (CNS) directed therapy shows no evidence of progression for 3 months or more and patient is not on steroids and is asymptomatic\n* No known leptomeningeal disease\n* Patients may have received up to 5 prior lines of systemic therapy\n* Prior therapy with trastuzumab or pertuzumab, either alone or in combination, antibody drug conjugates (ADC) such as DS8201a or T-DM1 is allowed\n* Prior therapy with tyrosine kinase inhibitors (TKI) such as neratinib or tucatinib is not allowed\n* No prior therapy with CDK4/6 inhibition\n* No cancer directed therapy within 3 weeks prior to registration. For oral therapy, the washout can be reduced to greater than or equal to 5 half lives of the drug. No HER2 targeting ADCs within 30 days prior to registration\n* Age ≥ 18\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of ≤ 2\n* Not pregnant and not nursing\n* Absolute neutrophil count (ANC) ≥ 1,500 cells/mm\\^3\n* Platelets ≥ 100,000 cells/mm\\^3\n* Hemoglobin ≥ 9 g/dl (Note: The use of transfusion or other intervention to achieve hemoglobin (Hgb) ≥ 9 g/dl is acceptable)\n* Creatinine clearance (CrCL) of ≥ 30 mL/min by the Cockcroft-Gault formula\n* Total bilirubin level ≤ 1.5 x institutional upper limit of normal (ULN) (patients with known Gilbert's disease who have bilirubin level ≤ 3 x institutional ULN may be enrolled)\n* Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤ 3 x institutional upper limit of normal (ULN)\n* Patients with known history or current symptoms of cardiac disease, or history of treatment with cardiotoxic agents, should have a clinical risk assessment of cardiac function using the New York Heart Association Functional Classification. To be eligible for this trial, patients should be class 2B or better\n* No active infection requiring parenteral antibiotics\n* No current evidence of intra-abdominal abscess, abdominal/pelvic fistula (not diverted), gastrointestinal perforation, gastrointestinal (GI) obstruction, and/or need for drainage nasogastric or gastrostomy tube\n* No current evidence of malabsorption or chronic diarrhea or any other significant gastro-intestinal disease (e.g gastrectomy, ileal bypass, Crohn's disease, gastroparesis), associated with moderate to severe diarrhea (grade 2 or more) or inability to tolerate oral therapy\n* No lung disease causing dyspnea at rest\n* No interstitial lung disease with ongoing signs and symptoms at the time of registration\n* No history of allergic reaction to the study agents, compound of similar chemical or biologic composition of the study agents or any of their excipients",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Malignant Female Reproductive System Neoplasm",
+    "Malignant Solid Neoplasm",
+    "Recurrent Malignant Female Reproductive System Neoplasm",
+    "Recurrent Malignant Solid Neoplasm"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial allows patients with HER2+ solid tumors (excluding breast cancer) who have recurrent or persistent disease and have received up to 5 prior lines of systemic therapy for advanced disease. Both previously treated and less heavily pre-treated patients are eligible, but prior tyrosine kinase inhibitor or CDK4/6 inhibitor therapy is not allowed.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 5,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Patients may have received up to 5 prior lines of systemic therapy, with no minimum required, for recurrent or persistent disease. Patients who have only received adjuvant therapy (and no prior systemic therapy for advanced disease) are eligible. Prior TKI or CDK4/6 inhibitor therapy is not allowed."
+    }
+  ]
+}

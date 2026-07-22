@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT00001748",
+  "title": "HLA-Mismatched Peripheral Blood Mobilized Hematopoietic Precursor Cell Transplantation for Hematological Malignancies",
+  "brief_summary": "Many patients with hematological malignancies potentially curable by bone marrow transplantation are not considered for transplantation because an HLA identical family or unrelated donor is unavailable. For these patients the only curative option is a transplant from a partially matched family donor. Such transplants are feasible but are less successful than matched sibling donor transplants. The main problems with mismatched transplants are graft rejection, graft-vs-host disease, and regimen-related mortality. This restricts the use of mismatched transplants to patients less than 45 years at high risk of dying from the hematological malignancy.\n\nThis protocol evaluates a new preparative regimen designed to ensure stem cell engraftment by increased immunosuppression, followed by a G-CSF mobilized T cell depleted, stem cell rich, peripheral blood progenitor cell (PBPC) transplant from a mismatched related donor in patients with high risk hematological malignancies.\n\nThis phase I study evaluates engraftment and GVHD following T cell depleted, HLA-mismatched PBPC transplants. Stopping rules will be used to make modifications to the protocol in the event of graft failure.\n\nThe end points of the study are graft take, acute and chronic GVHD, leukemic relapse, transplant-related mortality, death and leukemia-free survival. Patients will be followed up for 5 years. It is planned to treat up to 35 patients aged between 10 and 45 years.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Patient:\n\nAges 10-45 years.\n\nChronic myelogenous leukemia, any of these categories: accelerated phase or blast transformation.\n\nAcute lymphoblastic leukemia, any of these categories: Adults (greater than 18 years) in any remission with high-risk features (presenting leukocyte count greater than 100,000/cu mm, Karyotypes t9; 22, t4, t19, t11, biphenotypic leukemia). All second remissions, primary induction failure including partial remission, partially responding or untreated relapse.\n\nAcute myelogenous leukemia (AML): All AML in second or subsequent remission, primary induction failure or partial remission and resistant relapse.\n\nMyelodysplastic syndromes, any of these categories: refractory anemia with excess of blasts, transformation to acute leukemia, chronic myelomonocytic leukemia.\n\nMyeloproliferative disorders undergoing transformation to terminal stages.\n\nChronic lymphocytic leukemia (CLL) in Richter transformation.\n\nHigh-grade lymphoma, refractory to standard treatment approaches, mantle cell lymphoma.\n\nNo major organ dysfunction precluding transplantation.\n\nDLCO greater than 65% predicted.\n\nLeft ventricular ejection fraction: greater than 40% predicted.\n\nECOG performance status of 0 or 1.\n\nInformed consent given. Informed consent from parents for minors.\n\nWomen of childbearing age with a negative pregnancy test may participate.\n\nDonor:\n\nPartially HLA matched family donor (3-5/6 matches).\n\nFit to receive G-CSF and give peripheral blood stem cells (normal blood count, normotensive, and no history of stroke).\n\nInformed consent given.\n\nPatients or donors must not be pregnant or nursing.\n\nMust not have ECOG performance status of 2 or more.\n\nNo severe psychiatric illness in patient or donor: Mental deficiency sufficiently severe as to make compliance with the BMT treatment unlikely and making informed consent impossible.\n\nNo major anticipated illness or organ failure incompatible with survival from BMT.\n\nDLCO must not be less than 65% predicted.\n\nNo left ventricular ejection fraction: less than 40% predicted.\n\nMust not have serum creatinine greater than 3 mg/dl.\n\nMust not have serum bilirubin greater than 4 mg/dl, Transaminases greater than 3 times the upper limit of normal.\n\nDonor or patient must not be HIV positive.\n\nMust not have history of other malignancies except basal cell or squamous carcinoma of the skin, positive PAP smear and subsequent negative follow up.\n\nDonor must be fit to receive G-CSF and undergo apheresis.\n\nMust not fail to mobilize adequate numbers of CD34+ cells after two cycles of G-CSF.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Graft vs Host Disease",
+    "Hematologic Neoplasms",
+    "Lymphoma",
+    "Myelodysplastic Syndromes",
+    "Myeloid Leukemia"
+  ],
+  "overall_status": "COMPLETED"
+}

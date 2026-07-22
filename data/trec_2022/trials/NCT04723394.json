@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04723394",
+  "title": "Phase III Study of AZD7442 for Treatment of COVID-19 in Outpatient Adults",
+  "brief_summary": "This Phase III study will assess whether AZD7442 (a combination of 2 mAbs) can safely treat outpatient adults with COVID-19 and prevent either severe COVID-19 or death.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Participant has a documented laboratory-confirmed SARS-CoV-2 infection, as determined by a molecular test (antigen or nucleic acid) from any respiratory tract specimen (eg, oropharyngeal, NP, or nasal swab, or saliva) collected \u2264 3 days prior to Day 1.\n2. WHO Clinical Progression Scale score \\> 1 and \\< 4.\n3. Participant must be dosed with IMP no more than 7 days from self-reported onset of COVID-19-related symptoms (mild to moderate COVID-19) or measured fever, defined as the self-reported date of first reported sign/symptom.\n4. One or more of the following signs/symptoms must be present within 24 hours prior to Day1: Cough, Sore throat, Shortness of breath or difficulty breathing at rest or with activity, Body pain or muscle pain/aches, Fatigue, Headache, Chills, Nasal obstruction or congestion, Nasal discharge, Nausea or vomiting, Diarrhea, New loss of taste or smell.\n5. Oxygenation saturation of \u2265 92% obtained at rest by study staff within 24 hours prior to Day 1 (unless participant regularly receives chronic supplementary oxygen for an underlying lung condition).\n6. Participant agrees not to participate in another clinical trial for the treatment of COVID-19 or SARS-CoV-2 during the study period until reaching hospitalization or 28 days after entry into the study (whichever is earliest).\n7. Participant must be \u2265 18 years of age, provide informed consent and is able to comply with study requirements/procedures.\n8. Male participants: Contraception for male participants is not required; however, to avoid the transfer of any fluids, all male participants must use a condom from Day 1 and agree to continue through 90 days following administration of IMP.\n9. Women of childbearing potential must use one highly effective form of birth control.\n\nExclusion Criteria:\n\n1. History or current hospitalization for COVID-19.\n2. Current need for hospitalization/immediate medical attention in a clinic/emergency room service\n3. Previous hypersensitivity, infusion related reaction, or adverse reaction to any monoclonal antibodies or known allergy to components of the IMP or placebo.\n4. Receipt of any investigational or licensed vaccine for prevention of COVID-19 at any time prior to entry into this study or expected administration immediately after enrollment.\n5. Current requirement or anticipated impending need for mechanical ventilation.\n6. Any significant disease, disorder or finding that may increase risk to the participant that might affect his/her ability to participate in this study.\n7. Received convalescent COVID-19 plasma treatment any time prior to entry into this study.\n8. Receipt of systemic steroids (e.g., prednisone, dexamethasone) or inhaled steroids within 30 days prior to study entry, unless a stable dose is used for a chronic condition.\n9. Receipt of any IMP in the previous 90 days or 5 half lives (whichever is longer), or expected receipt of IMP during the study follow-up period, or concurrent participation in another interventional study.\n10. Pregnant or breastfeeding women.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID-19"
+  ],
+  "overall_status": "COMPLETED"
+}

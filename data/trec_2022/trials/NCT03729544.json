@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03729544",
+  "title": "Computerized Decision Support to Increase Detection of Chronic Thromboembolic Pulmonary Hypertension in Patients With Prior Pulmonary Embolism",
+  "brief_summary": "To address the knowledge gap that exists among providers resulting in underdiagnosis of chronic thromboembolic pulmonary hypertension (CTEPH), the investigators have devised this 400-patient single-center Quality Improvement Initiative in the form of a randomized controlled trial of an EPIC Best Practice Advisory (BPA) on-screen alert versus no notification to increase echocardiographic screening for CTEPH and the diagnosis of CTEPH in patients with prior pulmonary embolism (PE) and symptoms/signs suggestive of pulmonary hypertension or recent pulmonary testing suggesting unexplained respiratory symptoms at 3 months.\n\nAim #1: To determine the impact of a Best Practice Advisory (BPA), using the EPIC Electronic Health Record computerized decision support (CDS) software, on echocardiographic screening for CTEPH in patient with prior PE and symptoms/signs suggestive of pulmonary hypertension or recent pulmonary testing suggesting unexplained respiratory symptoms.\n\nAim #2: To determine the impact of an EPIC BPA on the diagnosis of CTEPH in patient with prior PE and symptoms/signs suggestive of pulmonary hypertension or recent pulmonary testing suggesting unexplained respiratory symptoms.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SCREENING",
+  "raw_criteria": "Inclusion Criteria:\n\n* BWH outpatient\n* At least 18 years of age\n* Evaluated in Primary Care or Cardiovascular Medicine Clinic\n* Persistent or new symptoms/signs suggestive of pulmonary hypertension \\[syncope, malaise and fatigue, dyspnea, exercise intolerance, hemoptysis, chest pain, dizziness/vertigo, gait abnormality, cardiomegaly, ascites, and peripheral edema\\] OR recent pulmonary testing (pulmonary function tests \\[PFTs\\], chest X-ray, or chest CT) suggesting unexplained respiratory symptoms at least 6 months from the diagnosis of PE\n* Have not undergone echocardiography within the prior 6 months\n\nExclusion Criteria:\n\n* Absence of persistent or new symptoms/signs suggestive of pulmonary hypertension OR recent pulmonary testing (pulmonary function tests \\[PFTs\\], chest X-ray, or chest CT) suggesting unexplained respiratory symptoms\n* PE within the last 6 months\n* Echocardiogram or invasive hemodynamic assessment with the prior 6 months",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chronic Thromboembolic Pulmonary Hypertension"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

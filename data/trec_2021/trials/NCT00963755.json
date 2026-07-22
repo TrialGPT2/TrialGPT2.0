@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT00963755",
+  "title": "F-18-Fluorocholine PET/CT and MR Imaging/ Spectroscopy in the Management of Primary and Recurrent Prostate Cancer",
+  "brief_summary": "The purpose of this study is to demonstrate that realization of guided biopsies by multimodal imaging with 18F-fluorocholine PET / CT and MR Imaging/spectroscopy would allow to increase the rate of detection prostate cancer compared with the current approach and give an information about location and tumoral volume before surgery.:",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "PRIMARY PROSTATE CANCER\n\nInclusion Criteria:\n\n* Age \u2264 80 years\n* Karnofsky index \u2265 80\n* First prostate biopsy\n* Presence of at least one of the following:\n\n  * Total PSA 10 ng/mL\n  * Total PSA 2.5-10 ng/mL with free-PSA \\<20% and/or PSA velocity 0.75 ng/mL/year\n  * Suspicious hypoechoic lesion at TRUS and/or suspicious finding at digital rec\u00actal examination\n* Informed signed consent.\n\nExclusion Criteria:\n\n* Impaired capacity to consent\n* Coexistence of clinically-proven prostate cancer\n* Neoadjuvant hormonal treatment (including 5-\u03b1 reductase inhibitors)\n* Contraindications to surgery\n* Contraindications to MR Imaging (see below)\n\nPROSTATE CANCER RELAPSE\n\nInclusion Criteria:\n\n* Age \u2264 90 years\n* Karnofsky index \u2265 80\n* Previous treatment for prostate cancer\n* No clinical recurrence based on standard work-up (abdominal / pelvic CT, MRI, and bone scintigraphy)\n* Biochemically proven relapse of prostate cancer (PSA \\> 0.2 ng/mL after prostatectomy, nadir PSA+2 ng/mL (Phoenix definition) or \u2264 3 successive rising PSA levels (ASTRO definition) after curative radiotherapy).\n* Informed signed consent.\n\nExclusion Criteria:\n\n* Coexistence of another clinically-proven cancer\n* Contraindications to surgery or radiation therapy treatment",
+  "minimum_age": "",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "Primary prostate cancer: Patients referred with a suspicion of prostate cancer based on elevated PSA and rectal examination in whom a prostate biopsy is planned and radical prostatectomy is envisioned in the event of a positive biopsy finding\n\nProstate cancer relapse: Patients previously treated for prostate cancer and being investigated for biochemical relapse for whom surgical or radiation therapy is envisioned in the event of a positive FCH-PET finding",
+  "condition": [
+    "Prostate Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

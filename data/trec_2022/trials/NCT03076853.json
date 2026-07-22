@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03076853",
+  "title": "Medication Assessment Through Real Time Information eXchange - Distributed Pharmaceutical Record System",
+  "brief_summary": "The aim of MATRIX-DPRS is to assess the clinical and organizational impacts of the use of the medication record, opened, filled and managed by pharmacists (from private office and hospital units) by hospital physicians in private and public healthcare establishments (volunteers), for three clinical contexts: anaesthesiology visit before surgery, medications abuse and emergency hospitalization, medications and elderly hospitalisations.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nConcerning Anesthesia department:\n\n* Patients in pre-anesthesia consultation for scheduled intervention.\n\nConcerning Emergencies department:\n\n* Patients admitted for fainting fit\n\nRegarding patients hospitalized in geriatrics:\n\n* Patients admitted to geriatrics\n\nExclusion Criteria:\n\n* Minors\n* Patients without administrative or judicial freedom if the authorization of the legal representative can not be collected.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients in Anesthesia, Emergency and Geriatric departments with Pharmaceutical Record",
+  "condition": [
+    "Patients With Pharmaceutical Record"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT03005145",
+  "title": "Bacteremia Antibiotic Length Actually Needed for Clinical Effectiveness",
+  "brief_summary": "The World Health Organization, U.S. Centers for Disease Control and Prevention, Association of Medical Microbiology and Infectious Diseases (AMMI) Canada, and Health Canada have all declared antimicrobial resistance a global threat to health, based on rapidly increasing resistance rates and declining new drug development. Up to 30-50% of antibiotic use is inappropriate, and excessive durations of treatment are the greatest contributor to inappropriate use. Shorter duration treatment (\u22647 days) has been shown in meta-analyses to be as effective as longer antibiotic treatment for a range of mild to moderate infections. A landmark trial in critically ill patients with ventilator-associated pneumonia showed that mortality and relapse rates were non-inferior in patients who received 8 vs 15 days of treatment. Similar adequately powered randomized trial evidence is lacking for the treatment of patients with bloodstream infections caused by a wide spectrum of organisms.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Patient is in ICU or non-ICU ward at the time the blood culture is drawn or reported as positive.\n2. Patient has a positive blood culture with pathogenic bacteria.\n\nExclusion Criteria:\n\n1. Patient already enrolled in the trial\n2. Patient has severe immune system compromise, as defined by: absolute neutrophil count \\<0.5x109/L; or is receiving immunosuppressive treatment for solid organ or bone marrow or stem cell transplant\n3. Patient has a prosthetic heart valve or synthetic endovascular graft (post major vessel repair with synthetic material) (note: coronary artery stents are not an exclusion)\n4. Patient has documented or suspected syndrome with well-defined requirement for prolonged treatment:\n\n   i) infective endocarditis; ii) osteomyelitis/septic arthritis; iii) undrainable/undrained abscess; iv) unremovable/unremoved prosthetic-associated infection (e.g. infected pacemaker, prosthetic joint infection, ventriculoperitoneal shunt infection etc.) (note: central venous catheters, including tunneled central intravenous catheter, and urinary catheters are not excluded unless the treating clinical team does not have equipoise for enrollment and randomization to either group)\n5. Patient has a single positive blood culture with a common contaminant organism according to Clinical Laboratory \\& Standards Institute (CLSI) Guidelines: coagulase negative staphylococci; or Bacillus spp.; or Corynebacterium spp.; or Propionobacterium spp.; or Aerococcus spp.; or Micrococcus spp.\n6. Patient has a positive blood culture with Staphylococcus aureus or Staphylococcus lugdunensis\n7. Patient has a positive blood culture with Candida spp. or other fungal species.\n8. Blood culture grows rare bacterial pathogens requiring prolonged treatment (e.g. Mycobacteria spp., Nocardia spp., Actinomyces spp., Brucella spp., Burkholderia pseudomallei)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Bacteremia",
+    "Intensive Care",
+    "Critically Ill",
+    "Sepsis",
+    "Mortality",
+    "Antimicrobial"
+  ],
+  "overall_status": "COMPLETED"
+}

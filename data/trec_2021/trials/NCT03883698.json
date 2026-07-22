@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03883698",
+  "title": "Safety of Sofosbuvir in People With Advanced Kidney Failure",
+  "brief_summary": "Infection with hepatitis C virus (HCV), a hepatotropic RNA virus, is often chronic, and causes liver cirrhosis and liver cancer. The virus is transmitted through parenteral exposure. This infection is particularly common in those on maintenance hemodialysis.\n\nSofosbuvir, an inhibitor of HCV RNA-dependent RNA polymerase, forms the backbone of DAA-based anti-HCV treatment regimens. In pre-clinical pharmacokinetic studies, administration of the usual 400 mg daily dose to in presence of advanced kidney failure (estimated glomerular filtration rate \\[eGFR\\] of \\<30 ml/min) showed that serum levels of the sofosbuvir and GS-331007, the primary metabolite of sofosbuvir, were elevated by several folds. Hence, sofosbuvir is not approved for use in people on maintenance hemodialysis.\n\nThe newer DAAs (e.g. grazoprevir/elbasvir combination), which have been approved for use in people with eGFR \\<30 ml/min, are very costly and are not available in Asian countries including India. Hence, as a rescue measures, several physicians, including our group, have tried half-daily dose (i.e, 200 mg daily or 400mg on alternate days) of sofosbuvir and 60 mg daclatasvir in dialysis-dependent people, with good results in terms of both safety and efficacy. In fact, the use of this empirical 200 mg daily dose schedule has become common in clinical practice. However, this use is not based on any pharmacokinetic data.\n\nHence, it is proposed to study the pharmacokinetics of low-dose (200 mg daily or 400 mg alternate day) of sofosbuvir and GS-331007 metabolite in people with eGFR \\<30/min and active HCV infection.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Participants with:\n\n  * hepatitis C virus infection with detectable HCV RNA in blood\n  * na\u00efve to direct acting antiviral drugs based anti-HCV treatment\n\nExclusion Criteria:\n\n* Hepatitis B virus co-infection\n* Human immunodeficiency virus co-infection\n* Clinical evidence of cirrhosis or portal hypertension such as ascites, esophageal or gastric varices on esophago-gastro-duodenoscopy, liver stiffness more than 15 KPa as measured with transient elastography or history of hepatic encephalopathy.",
+  "minimum_age": "19 Years",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Kidney Failure, Chronic",
+    "Hepatitis C"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04399018",
+  "title": "Development and Prospective Validation of a Standardized Flow Cytometric Assay of Peripheral Blood Neutrophil Myeloperoxidase Expression for Ruling Out Myelodysplastic Syndromes.",
+  "brief_summary": "Myelodysplastic syndromes (MDS) comprise a heterogeneous group of clonal bone marrow neoplasms that predominate in the elderly, with a median age at diagnosis of 70 years. The diagnosis of MDS relies on peripheral blood cytopenia and morphologic dysplasia for one or more hematopoietic cell lineage. Cytopenia is evidenced with hemogram while dysplasia requires bone marrow aspirate, which is an invasive procedure .\n\nConsidering the low prevalence of disease among subjects referred for suspected MDS, many patients are exposed to unnecessary bone marrow aspiration-related discomfort and harms. Therefore, an objective assay based on a peripheral blood sample that accurately discriminates MDS from other cytopenia etiologies is highly desirable.\n\nWe have previously developed and refined a flow cytometric analysis protocol for quantifying neutrophil MPO expression in peripheral blood at three university-affiliated hospitals (i.e., Clermont-Ferrand, Saint-Etienne, and Grenoble) (Raskovalova et al, Hematologica 2019). We found that the robust coefficient of variation (RCV, computed as the robust standard deviation divided by the median) within an individual subject was the best parameter in discriminating patients with versus without MDS.\n\nAlthough promising, flow cytometric analysis of neutrophil MPO expression in peripheral blood is technically complex, time consuming, and not standardized. Hence, its performance requires specific expertise and the results show substantial variability. A single ready-to-use tube with lyophilized antibodies would have the potential to standardize the measurement of neutrophil MPO expression in peripheral blood across laboratories, with results available within 30-60 min in routine practice.\n\nIn this study, the investigators hypothesize that a standardized and semi-automatic flow cytometric assay of neutrophil MPO expression in peripheral blood could accurately rule out MDS and obviate the need for bone marrow aspiration and biopsy, with sensitivity and negative predictive value estimates approaching 100%.\n\nIn this observational diagnostic accuracy study, burden will be null for recruited patients. No specific intervention is assigned to participants. All diagnostic testing, procedures, and medication ordering are performed at the discretion of attending physicians. A test result will have no impact on patient management. .Compliance with current guidelines disseminated by the French Haute Autorit\u00e9 de Sant\u00e9 (HAS) will be advocated for the diagnostic work-up of patients with suspected MDS. No follow-up visits are planned in this cross-sectional study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age at enrollment \u226518 years\n* Clinical suspicion of MDS\n* Indication for bone marrow examination\n* \u22651 peripheral blood cytopenia defined by hemoglobin concentration \\<12 g/dL for female and \\<13g/dL for male patients, platelet count \\<150 x109/L, absolute neutrophil count \\<1.8 x109/L\n* Inpatient and outpatient care patients\n\nExclusion Criteria:\n\n* Refusal to participate\n* History of or active documented MDS\n* Enrollment in intensive or critical care unit\n* Incarcerated or individuals protected by French regulation (Article L1121.5 and following, Code de la Sant\u00e9 Publique)\n* Not affiliated with social security system\n* Previous enrollment in the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Eligible participants are unselected consecutive adults referred for suspected MDS. Suspicion of MDS is based on medical history and peripheral blood cytopenia. To be eligible, patients will be required to meet all five inclusion criteria and none of the exclusion criteria.",
+  "condition": [
+    "Myelodysplastic Syndromes"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

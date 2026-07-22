@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04253275",
+  "title": "Identification of Biomarkers in Ischemic Stroke - Clinical Trial",
+  "brief_summary": "The objective of the study is to determine RNA blood biomarker based on 9 genes already identified in experimental studies, whose expression would be significantly increased in patient with ischemic stroke compared to controls.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n* For ischemic stroke :\n* Age \\> 18-year-old\n* Ischemic stroke diagnosed on clinical presentation and cerebral imaging (CT or MRI imaging)\n* Inclusion inferior to 6 hours from stroke onset\n* Initial NIHSS score \\> 0 at the time of clinical examination\n* Patients with multimodal imaging either through MRI or CT perfusion and supra-aortic vessels and intra-cerebral vessels (Willis circle) imaging \\<0\n* Procedure of signed consent in situation of emergency : consent of the patient if he has the possibility to sign or his representative if he is present\n* For hemorragic stroke :\n* Age \\> 18 year-old\n* Hemorrhagic stroke diagnosed on clinical presentation and cerebral imaging (CT or MRI imaging)\n* Inclusion inferior to 6 hours from stroke onset\n* Initial NIHSS score \\> 0 at the time of clinical examination\n* Hemorrhagic patients are paired for age and sex with ischemic patients\n* Procedure of signed consent in situation of emergency : consent of the patient if he has the possibility to sign or his representative if he is present\n\nFor healthy controls :\n\n* Age \\> 18 year-old\n* Stroke-free standardized questionnaire\n* Initial NIHSS score = 0\n* Rankin score = 0\n* High risk cardiovascular subjects\n* Controls are paired for age, sex and cardiovascular risk measured by a score (European Heart Score) with ischemic patients\n\nExclusion Criteria:\n\n* Not affiliated to social security\n* Patient under legal protection or deprived of liberty by a judicial or administrative decision\n* Patient whose follow-up will be impossible\n* Prior stroke\n\nGROUP FOR ISCHEMIC STROKE :\n\n\\- Patients with TIA and a negative cerebral CT or MRI\n\nGROUP FOR HEMORRAGIC STROKE :\n\n* Cerebral hemorrhage related to subarachnoid hemorrhage\n* Post-traumatic hemorrhage\n* Hemorrhagic transformation in patients with ischemic stroke\n\nGROUP FOR HEALTHY CONTROLS :\n\n\\- Contraindication MRI",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke, Ischemic",
+    "Stroke Hemorrhagic"
+  ],
+  "overall_status": "COMPLETED"
+}

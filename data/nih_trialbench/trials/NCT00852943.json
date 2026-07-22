@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT00852943",
+  "title": "Screening Protocol for Genetic Diseases of Allergic Inflammation",
+  "brief_summary": "Background:\n\n* Mast cells are responsible for most symptoms of allergic reactions. In some allergic diseases, it is unusually easy to cause mast cells to release their contents and cause allergic reactions. In other cases, mast cells grow abnormally and, in rare cases, can result in tumors. Mast cells also control other parts of the immune system.\n* Understanding why mast cells behave abnormally in allergic diseases is important to finding better ways for diagnosing and treating these potentially life-threatening disorders.\n\nObjectives:\n\n* To screen mast cells at the genetic and functional levels to characterize abnormalities, identify mutations, detect carrier states, and/or develop therapies for such disorders.\n* To create a library of information about inherited diseases of mast cell homeostasis and activation, including piebaldism (problems with skin and hair pigmentation), anaphylaxis (severe allergic reaction), allergies, asthma, atopic dermatitis (eczema), allergic rhinitis ( hay fever ), food allergies, urticaria/angioedema (hives/swelling), immunodeficiency diseases, and autoimmune diseases.\n\nEligibility:\n\n* Patients between the ages of 1 and 80 years who have been referred by a physician and are known to have or be suspected of having an inherited disorder of mast cells, in particular patients (and their relatives) with piebaldism, allergies, or anaphylaxis that is not caused by allergies.\n\nDesign:\n\n* Study population will consist of up to 1000 participants in a 5-year period. One third of the study population will consist of patients; the other two thirds will consist of biological relatives.\n* Evaluation is limited to testing on blood specimens; no treatment will be provided.\n* Clinical and research laboratory evaluations of patients will include the following:\n* Clinical evaluation and previous laboratory tests as documented in outside medical records by health care providers. A standard questionnaire will also be administered at the time of subject enrollment.\n* Blood collection for clinical laboratory testing, tailored to each subject s clinical evaluation where appropriate (5 ml).\n* Blood collection for research laboratory testing, tailored to each subject s clinical evaluation including genetic screening and assessment of mast cell growth and functioning and storage of additional frozen blood specimens for future studies (up to an additional 30 ml).\n* Evaluations of blood relatives will include the following:\n* Clinical evaluation as documented from outside medical records by health care providers and administration of a standard questionnaire.\n* Blood collection where indicated for diagnostic or research purposes.\n* After 12 consecutive months on the study, results from initial evaluation will be reviewed. Subjects with findings deemed to be of continued interest will be contacted and invited to remain as active participants to this protocol for another year, provided that they renew their consent to participate.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Subjects, ages birth to 99 years old, known to have or suspected of having an inherited or acquired genetic disorder resulting in severe allergic inflammation and/or reactivity associated with alterations in mast cell and/or eosinophil homeostasis or activation, will be eligible for enrollment. Because of the intensive time and labor required for research laboratory testing, subjects will be enrolled only if in the opinion of the investigator (based on discussions with the patient s private physician) there is a high index of suspicion of a genetic basis for the observed allergic manifestation(s).\n* Blood relatives of enrolled subjects will be eligible for enrollment.\n* There will be no discrimination as to age, gender, race, or disability.\n* Subjects must have a health care provider outside of the NIH.\n* Subjects must agree to have their blood stored for future studies of the immune system and/or other medical conditions.\n\nEXCLUSION CRITERIA:\n\n\\- Ongoing systemic immune modulation with agents such as biologics that target mast cells and eosinophils, immune modulating or cytotoxic chemotherapy, and/or malignancy may be grounds for possible exclusion if, in the opinion of the investigator, the presence of such a disease process would interfere with evaluation.",
+  "minimum_age": "1 Day",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Disorders of allergic inflammation and mast cell homeostasis and activation.",
+  "condition": [
+    "Eosinophilic Disease",
+    "Immune Deficiency",
+    "HaTS",
+    "Urticaria Anaphylaxis",
+    "Elevated IgE Level"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational screening protocol for patients with suspected or known genetic disorders of mast cells and their relatives. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, as no treatment is provided.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not provide treatment and does not specify any requirements or exclusions based on prior systemic therapy for advanced disease. The eligibility criteria focus on genetic disorders of mast cells and do not mention lines of therapy."
+    }
+  ]
+}

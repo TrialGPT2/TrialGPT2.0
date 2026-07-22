@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04445012",
+  "title": "Cardiovascular Acoustics and an Intelligent Stethoscope",
+  "brief_summary": "The aim of the project is to develop an artificial intelligence software capable of analysing heart sounds to provide early diagnosis of a variety heart diseases at an early stage. Since the invention of the stethoscope by Laennec in 1816, the basic design has not changed significantly. Our software could be coupled with existing electronic stethoscopes to create an 'intelligent' stethoscope that could be used by healthcare assistants or practice nurses to screen for sound producing heart diseases. It could also be used at home by patients who would otherwise go undiagnosed.\n\nThe study investigators at Cambridge University Engineering Department (CUED) have developed a proof-of-concept AI algorithm to detect heart murmurs. However, in order to accurately detect the specific pathology and severity underlying the murmur, more heart sound recordings (matched with the ground truth from the patient's echocardiogram) are required. Patients presenting to one of the partner hospitals requiring an echocardiogram as part of their routine care will be invited to consent to this study. Participation will entail recording of a patient's heart sounds using an electronic stethoscope as well as collection of routine clinical data and a routine clinical echocardiogram at a single routine out patient visit.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Participant willing and able to give informed consent for participation in study\n* Participant to undergo an echocardiogram as part of their routine assessment\n\nExclusion Criteria:\n\n* Informed consent is not given\n* New York Heart Association (NYHA) functional class = 4",
+  "minimum_age": "14 Days",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients attending cardiology clinics at the investigation sites who will be having an echocardiogram",
+  "condition": [
+    "Heart Valve Diseases"
+  ],
+  "overall_status": "UNKNOWN"
+}

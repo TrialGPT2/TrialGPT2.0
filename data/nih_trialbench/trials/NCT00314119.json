@@ -1,0 +1,41 @@
+{
+  "nctid": "NCT00314119",
+  "title": "Natural History and Biology of Skin Neurofibromas in Neurofibromatosis Type 1",
+  "brief_summary": "This study will explore the growth of dermal neurofibromas (skin tumors) in patients with neurofibromatosis type 1 (NF1). Investigators will try to learn: 1) how fast (or slow) these benign tumors grow in NF1, 2) how often new tumors appear and 3) what genes are involved in the growth of the tumors.\n\nMen and women between 20 and 50 years of age diagnosed with NF1 and their biological parents are eligible for this study.\n\nPatients with NF1 are evaluated at the NIH Clinical Center with the following tests and procedures:\n\n* Medical examination and drawing of family tree.\n* Photos of the back, abdomen and thigh in order to count the number of skin tumors.\n* Photos of the skin taken with a special camera (Primos camera) that takes very detailed pictures of a small area of skin.\n* Photos of the skin taken with a dermatoscope, which takes very detailed pictures of a small area of skin under high magnification.\n* Biopsy of at least one skin tumor and biopsy of a small piece of normal skin.\n* Blood sample collection for genetic testing of the gene NF1 and to establish a cell line.\n* Other medical tests (e.g., x-rays or MRI) if needed.\n\nPatients and their families will also have a genetic counseling session and an opportunity to ask questions about neurofibromatosis type 1.\n\nPatients return to the NIH after 3, 6, 12, 18 and 24 months for follow-up photographs and possibly blood samples.\n\nBiological parents of patients provide a blood sample for genetic testing.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "-INCLUSION CRITERIA - GROUP A INDIVIDUALS:\n\n1. Clinical diagnosis of NF1. In order to meet the diagnosis of NF1 individuals must have 2 of the diagnostic criteria listed below:\n\n   * Six or more cafe-au-lait macules (greater than or equal to 0.5 cm in prepubertal subjects or greater than or equal to 1.5 cm in postpubertal subjects)\n   * Freckling in the axilla or groin\n   * A tumor of the optic pathway\n   * Two or more Lisch nodules\n   * A distinctive bony lesion (dysplasia of the sphenoid bone or dysplasia or thinning of long bone cortex)\n   * A plexiform neurofibroma or two or more neurofibromas\n   * A first-degree relative with NF1 by the above criteria\n\n   We may request the medical records of potential enrollees for our review. Ideally, individuals will have been evaluated by a geneticist and a definitive diagnosis made. However given the unique, familial (and often unmistakable features) of NF1 it is likely the diagnosis can be reliably made by a non-geneticist.\n2. Age at study entry: 20- 50 years (inclusive)\n3. Identification of a physician who will be responsible for follow-up care, if needed\n4. Ability and willingness to travel to the NIH Clinical Center or University of Alabama at Birmingham Alabama for multiple evaluations\n5. Ability and willingness of both biologic parents to provide a blood (or saliva) sample\n6. Must have at least one dermal neurofibroma amenable to excisional biopsy. Preferably the neurofibroma will be on the thorax or abdomen and be at least the size of a pencil eraser.\n\nINCLUSION CRITERIA - GROUP B INDIVIDUALS:\n\n1. Biological parents (either affected or unaffected) of Group A individuals\n2. Willingness to donate a blood or saliva sample for genotyping\n3. Willing to undergo a brief skin and eye exam at the NIH CC (to rule out NF1) or University of Alabama, if accompanying adult children\n\nEXCLUSION CRITERIA - GROUP A INDIVIDUALS\n\nMEDICAL INCLUSIONS:\n\n1. Any history of administration (or current use) of radiation therapy, chemotherapeutic agents or biologic agents (experimental or not) that resulted in a documented significant change in dermal neurofibroma tumor burden or growth.\n2. Patients with probable segmental or mosaic NF1 will be excluded from study participation and medical records may be reviewed prior to enrollment for this determination.\n3. A history of administration of medications within 6 months of study entry that might reasonably be expected to alter the natural history of tumor growth (examples include pirfenidone, interferon, farnesyl transferase inhibitor (FTI), MTX/VBL, thalidomide, growth hormone) or cause significant changes in gene expression profile.\n4. Known or suspected untreated bleeding diathesis or platelet disorder that would preclude safe and successful dermal neurofibroma and skin biopsy. Patients prescribed aspirin or other known/suspected agent that interferes with platelet function may also be excluded if they cannot safely discontinue its use a week ahead of the biopsy.\n5. Clinically significant unrelated systemic illness, such as serious infection, hepatic, renal or other organ dysfunction, which in the judgment of the principal investigator or associate investigator would compromise the patient's ability to participate in the study procedures.\n6. Inability or unwillingness to tolerate the dermal neurofibroma excision and skin biopsy or blood draw.\n\nVULNERABLE POPULATIONS EXCLUSIONS\n\n1\\) Cognitive delay to the extent that conscious sedation is required to obtain the dermal neurofibroma excision and skin biopsy.\n\nOTHER EXCLUSIONS\n\n1. Biologic parents unable or unwilling to provide a blood (or saliva) sample.\n2. Inability to travel to the NIH or to The University of Alabama at Birmingham, AL\n3. Individuals refusing an excisional tumor or skin biopsy.",
+  "minimum_age": "20 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Men and women between 20 and 50 years of age diagnosed with NF1 and their biological parents are eligible for this study.",
+  "condition": [
+    "Neurofibromatosis Type 1",
+    "Neurofibroma"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study of the natural history and biology of skin neurofibromas in NF1 patients. There is no systemic therapy for advanced disease involved, and prior lines of therapy are not relevant to eligibility.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Group A",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Patients with NF1 and at least one dermal neurofibroma are eligible unless they have received any prior systemic therapy (e.g., chemotherapy, biologic agents, or radiation) that altered tumor burden or growth. Most patients will be treatment-naïve for advanced disease, and prior therapy is an exclusion criterion."
+    },
+    {
+      "cohort_label": "Group B",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Biological parents of Group A individuals are eligible regardless of any cancer therapy history; this group is included for genetic testing only and not for any cancer treatment. Prior systemic therapy for advanced disease is not relevant."
+    }
+  ]
+}

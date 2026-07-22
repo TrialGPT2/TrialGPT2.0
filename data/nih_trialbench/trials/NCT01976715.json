@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT01976715",
+  "title": "Study of People With HIV Infection Who Have High Viral Loads Despite Combination Antiretroviral Therapy",
+  "brief_summary": "Background:\n\n\\- The human immunodeficiency virus (HIV) causes acquired immune deficiency syndrome (AIDS). Combination antiretroviral therapy (ART) drugs treat HIV infection. They generally decrease the amount of HIV virus in the blood (called viral load) to very low levels. This happens only if the drugs still fight HIV and if taken every day exactly as prescribed. When not taken as directed, or if the ART drugs are not strong enough, the virus can become resistant to them, and the ART will not work to control the virus. Researchers want to know how to control HIV in people who can t lower their viral load with their current ART drugs.\n\nObjective:\n\n-\\<TAB\\>To better control HIV in people who can t get a lower viral load even with ART drugs and to learn more about why the HIV is not under control.\n\nEligibility:\n\n* People at least 18 years old and with HIV.\n* People who have been on at least two combinations of ART drugs (including current ART).\n* People whose last two viral loads were greater than 1,000 copies/mL.\n\nDesign:\n\n* Participants will be screened with medical history, physical exam, and blood tests.\n* Participants will then have a baseline visit. They will have another physical exam, blood tests, plus answer questions about what they know about HIV and ART, and how they take their ART.\n* Participants will arrange to stay in the NIH hospital for 7 8 days.\n* They will take their medications as usual. At the time to take the ART drugs, they will have to ask a nurse to bring them. If they forget, the nurse will bring them.\n* Participants will meet with a doctor, pharmacist, social worker and nurse to discuss ways to help participants remember to take their drugs.\n* Participants will have blood drawn about every other day.\n* Researchers will study the test results. Some participants will be put on different ART drugs. If that happens, participants will have another NIH hospital stay for 7-8 days.\n* Participants will have 4 follow-up visits over 12 weeks, then every 3 months for 2 years or more.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Age, greater than or equal to 18 years.\n  2. Documented HIV-1 infection (prior written documentation such as positive standard ELISA or rapid HIV-1/HIV-2 antibody test with confirmatory Western Blot, or documentation of repeated HIV RNA of greater than 1,000 copies/mL)..\n  3. Established care with an HIV primary care provider.\n  4. Fulfilling one of the following criteria for virologic failure:\n\n     1. Documented virologic failure on at least 1 prior ART regimen and at least 2 consecutive HIV RNA plasma measurements of greater than 1,000 copies/mL, including the last documented value, while on the current prescribed ART regimen for at least 6\n\n        months; or\n     2. Documented extensive resistance to at least 3 ARV drug classes, and has persistent plasma viremia (HIV RNA greater than 1,000 copies/mL for greater than 6 months) despite multiple regimen changes, regardless of how long the subject has been prescribed his or her current regimen.\n  5. Willingness to have samples stored for future research.\n  6. Willingness to undergo genetic testing.\n  7. Ability and willingness to provide informed consent\n  8. Willingness to be hospitalized for iDOT or record videos of themselves for eDOT.\n\nEXCLUSION CRITERIA:\n\n1. HIV RNA levels at screening \\<1,000 copies/mL.\n2. Receiving medical care for an acute medical illness stemming from a significant comorbidity; enrollment may be deferred or postponed until the condition resolves or stabilizes.\n3. Pregnancy (if a subject becomes pregnant while enrolled in the protocol, she will continue participation throughout her pregnancy).\n4. Any illness or condition that, in the investigator s opinion, may substantially increase the risk associated with the subject s participation in the study, or may compromise the scientific objectives.\n\nNOTE: Participants will not be excluded based on stable laboratory abnormalities, hepatitis B virus (HBV) or hepatitis C virus (HCV) co-infection status, etc. Selection of a new ART regimen will account for any co-existing conditions, such as known risks of antiretroviral drugs to the fetus, dosage adjustment due to organ dysfunction, drug interaction potential with concomitant agents, and the need for treatment of HBV co-infection.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Community sample",
+  "condition": [
+    "Acquired Immune Deficiency Syndrome Virus",
+    "Acquired Immunodeficiency Syndrome Virus",
+    "AIDS Virus",
+    "Human Immunodeficiency Virus",
+    "Human Immunodeficiency Viruses"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls people with HIV who have experienced virologic failure on at least one prior ART regimen and are currently failing their ART, or who have extensive resistance to at least three ARV drug classes with persistent viremia despite multiple regimen changes. Patients must have received at least two ART combinations, and the study focuses on those with treatment-experienced, resistant HIV.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Eligibility requires documented virologic failure on at least one prior ART regimen and at least two consecutive high viral loads while on the current ART, or extensive resistance to at least three ARV drug classes with persistent viremia despite multiple regimen changes. Patients must have been on at least two ART combinations, indicating they are at least in the second line or later of systemic therapy for advanced HIV. Adjuvant-only patients are not eligible, as prior ART for virologic failure is required."
+    }
+  ]
+}

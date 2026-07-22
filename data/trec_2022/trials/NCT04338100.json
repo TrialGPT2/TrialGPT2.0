@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04338100",
+  "title": "Point Of Care UltraSonography for Risk-stratification of COVID-19 Patients",
+  "brief_summary": "COVID-19 pandemic has developed worldwide in less than 4 months. While most patients have a mild or uncomplicated disease (80%), approximately 15% need hospital care and 5% intensive care. Severe cases are characterized by pulmonary involvement which may progress to acute respiratory distress syndrome (ARDS). Early identification of patients who are likely to get worse is therefore a major issue.\n\nWhile, chest X-ray has poor diagnostic performances, pulmonary computed tomography (CT scan) seems very sensitive (97%) and quite specific of COVID-19. Sub-pleural bilateral ground-glass pattern can precede the positivity of RT-PCR for SARS-CoV-2. CT scan is now considered as the best imaging test to assess COVID-19 patients and is recommended as first-line diagnosis tool by the French Society of Radiology (SFR). However, performing CT scan in all or many patients with suspected COVID-19 may result in radiology department overload, especially, taking into account bio-cleaning between patients. Moreover, CT scan may lead to adverse effects including induced cancer due to the cumulative diagnostic irradiation.\n\nChest ultrasonography may be an alternative to CT scan. It is a simple, non-invasive, non-irradiating, inexpensive and available at the point of care (POCUS). Most of emergency physicians and many other specialists (pneumologists, infectious disease or intensive care physicians) are trained to perform chest POCUS and use it in their everyday practice. Multiple studies have demonstrated its superiority to chest X-ray for the detection of pneumonia. In ARDS, a scoring has been developed and has shown good correlation with mortality. POCUS is very effective in detecting peripheral patterns and seems appropriate to explore COVID-19 patients.\n\nPrevious studies suggest its interest in SARSCov2 infections for initial patient assessment and identification of lung damage. However, its performances have never been scientifically evaluated to date.\n\nOur main hypothesis is that point of care lung ultrasonography performed during the initial examination may identify high-risk COVID-19 patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient with COVID-19 confirmed by positive RT-PCR or considered as probable by the in-charge physician,\n* \u226518 years old,\n* Not requiring respiratory assistance and/or other intensive care\n* Not subject to a limitation of active therapeutics\n\nExclusion Criteria:\n\n* History of pneumonectomy\n* Any reason making chest ultrasonography impossible\n* Any reason making 14-day follow-up impossible\n* Patient opposition to research participation.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adults patients consulting emergency department with non-severe suspected or confirmed SARS-CoV-2 infection (COVID-19)",
+  "condition": [
+    "COVID",
+    "Coronavirus Infection"
+  ],
+  "overall_status": "COMPLETED"
+}

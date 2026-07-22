@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04283929",
+  "title": "Evaluation of Clinical Impacts and Costs of eHealth in Rwanda",
+  "brief_summary": "This study will estimate the impact of a suite of clinical decision-support tools on structural, process, and clinical outcomes related to HIV care. The \"enhanced EMR\" package under investigation will include EMR monitoring tools, data quality control procedures and support, patient reports, alerts, and reminders about patient care. This intervention will be delivered by the Ministry of Health and Rwanda Biomedical Centre and monitored by the study team led by University of Rwanda's School of Public Health and Brown University.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n* Is a health center with an average (3 month) monthly volume of 50-700 patients\n* Is owned and operated by the public sector or faith-based institutions\n* Has a power source\n* Has network connectivity\n* Has at least 3 computers and 1 printer\n\nExclusion criteria:\n\n* District hospitals (typically with high patient volume)\n* Privately owned facilities\n* Facilities operated by Partners in Health (who already run a version of the intervention)\n* Facilities that only offer PMTCT services\n* Facilities that run OpenMRS version 1.9 (rather than 1.6)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "HIV/AIDS and Infections",
+    "Electronic Medical Records",
+    "Clinical Decision Support System"
+  ],
+  "overall_status": "UNKNOWN"
+}

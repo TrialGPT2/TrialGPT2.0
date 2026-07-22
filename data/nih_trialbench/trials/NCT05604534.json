@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT05604534",
+  "title": "Assessing and Improving Quantitative Magnetic Resonance Imaging Metrics in Human Subjects",
+  "brief_summary": "Background:\n\nMagnetic resonance imaging (MRI), which uses strong magnets to get images of structures inside the body, is a valuable tool in modern medicine. But researchers are always looking for ways to improve this technology. To better understand how to use MRI to diagnose problems, researchers need to collect more data from scans of healthy people.\n\nObjective:\n\nTo get MRI scans of healthy people to improve the measurements doctors can make from the images.\n\nEligibility:\n\nPeople aged 18 years or older in good general health.\n\nDesign:\n\nParticipants will be screened. They will have a physical exam focused on their nervous system. They will complete questionnaires.\n\nParticipants will have at least 1 MRI scan. The target of the scan may be the brain, liver, prostate, breast, or other body part. Before the scan, participants will remove any metallic objects. They will lie on a narrow table that moves into a long, narrow tube. They may have special pads placed around them to help them remain still.\n\nParticipants will hear loud noises during the scan. They will get earplugs or earmuffs to wear to muffle the sound. They can communicate with the MRI technician and will have an emergency button to squeeze at any time if they want the scan to stop. The scan will take up to 2 hours.\n\nSome participants may be asked to perform tasks on a computer screen during the scan.\n\nParticipants may return for up to 5 scans in 3 months. Some may have as many as 30 MRI visits per year. They may remain in the study for up to 2 years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Male or female, aged 18 years of age and older\n* In good general health as evidenced by medical history\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n* Must have had a neurological physical exam as prescribed by NINDS policy. At the time of writing, this is required at least once every 2 years, and record of the exam should be in the medical record. This exam must be done prior to having MRI # 1. If deemed adequate by the Investigators, reports of examination by clinicians who are not Investigators on this study may be used. In addition, subjects must complete the most-recent version of the NMR safety screening form or NIH Radiology and IS MRI safety questionnaire when required at each visit.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Has any metal implant or objects of unknown identity or composition, or if it s known to be non-compatible with MRI, such as pacemakers, medication pumps, aneurysm clips, metallic prosthesis (such as heart valves or cochlear implants), certain orthopedic implants (pins and rods), shrapnel, or small metal fragments in the eye;\n* Has claustrophobia to a degree that would preclude lying comfortably in the scanner for the duration of the examination;\n* Cannot lie comfortably for up to 120 minutes;\n* Has hearing problems which would make it difficult to tolerate scanner noise;\n* Subjects with tattoos or permanent eye liner; liner; will not be excluded, however, tattoos carry a small risk of heating and burns. Therefore, each tattoo will be considered on a case by case basis, taking into account the age of the tattoo and the location of the tattoo on the subject s body.\n* Has medical health problems such as pulmonary or airway disease, heart failure, coronary artery disease, which would require physiological monitoring during the scan;\n* History of any medical condition that could result in an emergency medical situation while undergoing the MRI scan;\n* For \\>7T: Has a ferromagnetic dental crown or a bridge.\n* Non-English speakers are excluded as it is important that volunteers understand the complex instructions required to undergo an MRI procedure, and there is no direct benefit to participants.\n* Pregnant women:\n\n  * a) If a woman is pregnant at the time of enrollment, we will popstpone enrollment until she is no longer pregnant.\n  * Participants will not remain on the study should they have a positive pregnancy test at a study visit.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adults 18 years of age or older, in good general health, who live in the DMV area.",
+  "condition": [
+    "Normal Physiology"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an imaging study enrolling healthy volunteers with no cancer diagnosis or treatment history. There is no line-of-therapy intent, as the study does not involve cancer patients or systemic therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls only healthy adults with no mention of cancer or prior systemic therapy. There are no requirements or restrictions regarding lines of therapy for advanced disease, as this is not an oncology trial."
+    }
+  ]
+}

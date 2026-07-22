@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT00001159",
+  "title": "Natural History of Thyroid Function Disorders",
+  "brief_summary": "Participants in this study will be patients diagnosed with or suspected to have a thyroid function disorder. These conditions may include: hypothyroidism, hyperthyroidism, thyroid hormone resistance, Graves' Dermopathy, and thyroid-stimulating hormone (TSH) secreting pituitary adenomas.\n\nThe main purpose of this study is to further understand the natural history, clinical presentation, and genetics of thyroid function disorders. Many of the tests performed are in the context of standard medical care that is offered to all patients with thyroid function disorders. In addition, blood and tissue samples may be taken for research and genetic studies....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nThe categories of subjects eligible to participate in this study include:\n\n1. Patients with known or suspected thyroid abnormalities (e.g. hypothyroidism, hyperthyroidism, extreme iodine deficiency, and inherited forms of hypothyroidism resulting from abnormalities in the expression of genes coding for the TSH- beta subunit, Pax-8, TTF-2, Pit-I, Tg, PDS, and NIS.\n2. Patients with thyroid function test (TFT) abnormalities due to:\n\n   * Non-thyroidal illness\n   * Abnormalities of serum TH binding proteins leading to euthyroid hyperthyroxinemia or hypotriiodothyronemia.\n   * Genetic deficiency of thyroxine-binding globulin (TBG).\n   * Antibodies to mouse immunoglobulins leading to an artifactual elevation in the TSH ultrasensitive (\"3rd generation\") assay which may mimic \"inappropriate\" secretion of TSH.\n\nInclusion and exclusion criteria for each group of subjects are given below.\n\nPatients with known or suspected thyroid abnormalities will be eligible to p rticipate if the individual meets all of the following criteria:\n\n1. Stated willingness to comply with all study procedures and availability for the duration of the study.\n2. Male or female, aged 6 months+.\n\nHyperthyroid states include but are not restricted to:\n\n1. Graves' disease (GD) thought to result from thyroid-stimulating immunoglobulins (TSIg's), a subclass of which also stimulate eye muscle and fatty tissue producing exophthalmos (Graves' ophthalmopathy), as well as the skin in the pretibial area causing pretibial myxedema (Graves' dermopathy);\n2. Subacute thyroiditis (SAT), a painful inflammation thought to result from viral infection with Coxsackie, as well as other viruses;\n3. Silent thyroiditis, a painless inflammation thought to result from autoimmune attack of thyrocytes by antimicrosomal antibodies directed against thyroid peroxidase (TPO), as well as antithyroglobulin(anti-Tg) antibodies;\n4. Single or multiple hyperfunctioning thyroid nodules of unknown etiology, probably resulting from the activation of certain thyroid oncogenes and/or growth factors, such as the thyrotropin (TSH) receptor (TSHR) and the a-subunit of the G protein (Ga);\n5. Iodide-induced hyperthyroidism of unknown etiology;\n6. Surreptitious administration of thyroid hormone (TH), usually present in patients with underlying psychiatric disease or occasionally related to patients with obesity and other eating disorders\n7. Trophoblastic neoplasms, thought to result from high levels of hCG secretion, which, because of its structural similarity to TSH, causes \"spillover\" of action at the TSHR level;\n8. \"Inappropriate\" secretion of TSH, which may be present either in patients with TSH- producing pituitary tumors (TSHomas) or from a non-neoplastic cause, i.e. pituitary resistance to the action of thyroid hormone (3,4).\n\nHypothyroid states include but are not restricted to:\n\n1. Primary (or thyroidal) hypothyroidism, usually resulting from auto-antibodies to thyroid proteins, such as antimicrosomal antibodies to TPO usually associated with lymphocytic (Hashimoto's) thyroiditis (HT) or atrophic thyroiditis, or blocking antibodies to the TSHR, usually in the context of non-goitrous hypothyroidism;\n2. Secondary (or pituitary) hypothyroidism, usually resulting from tumors of the pituitary of non-thyrotropic origin such, as growth hormone (GH)-secreting tumors or prolactinomas;\n3. Tertiary (or hypothalamic) hypothyroidism, usually resulting from a deficiency in the hypothalamic hormone thyrotropin-releasing hormone (TRH), either of unknown etiology or secondary to a pituitary tumor;\n4. Bio-inactive TSH, either relating to an endogenous abnormality of hypothalamic hormones or secondary to pituitary tumors (and usually related to abnormal glycosylation patterns of the TSH molecule);\n5. Generalized resistance to thyroid hormone (RTH), a disease which has been shown to be due to abnormalities in the TH receptor, c-erbA-beta (or TR- beta).\n\nThe above are the principal disorders under study, but we may also investigate other abnormalities, such as extreme iodine deficiency, and inherited forms of hypothyroidism resulting from abnormalities in the expression of genes coding for the TSH- beta subunit, Pax-8, TTF-2, Pit-I, Tg, PDS, and NIS (among others).\n\nEXCLUSION CRITERIA:\n\nThere are no exclusion criteria for subjects with known or suspected thyroid abnormalities.",
+  "minimum_age": "6 Months",
+  "maximum_age": "98 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "anyone meeting eligibility criteria.",
+  "condition": [
+    "Hyperthyroidism",
+    "Hypothyroidism",
+    "Grave's Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study enrolling patients with known or suspected thyroid function disorders, regardless of prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, and there are no restrictions or requirements regarding lines of therapy. Patients are eligible based on diagnosis or suspicion of thyroid function disorder, regardless of treatment history."
+    }
+  ]
+}

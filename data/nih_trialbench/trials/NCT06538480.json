@@ -1,0 +1,44 @@
+{
+  "nctid": "NCT06538480",
+  "title": "Zopa Retreatment and Vector Shedding in Adults With RRP",
+  "brief_summary": "This open-label study evaluates safety, vector shedding, and retreatment efficacy of Zopapogene imadenovec (Zopa) in adults with recurrent respiratory papillomatosis (RRP). Two cohorts will be enrolled (n=30): Cohort 1 to assess the magnitude and duration of adenoviral vector shedding in urine, feces, skin, and nasal tissue; Cohort 2 to assess the complete response rate following retreatment.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Key Inclusion Criteria:\n\n* Age 18 years and older.\n* Clinical diagnosis of recurrent respiratory papillomatosis with histological confirmation of papilloma.\n* Cohort 1: Treatment-naïve with respect to Zopa.\n* Cohort 2: Received a minimum of four administrations of Zopa at 5 × 10\\^11 PU per injection and require clinically indicated debulking procedures.\n* Presence of laryngotracheal papillomas accessible for endoscopic cleanout.\n* ECOG performance status 0 or 1.\n* Sexually active participants of reproductive potential must agree to use contraception during treatment and for 120 days for males and 6 months for females after last dose.\n* Ability to understand and sign informed consent.\n\nKey Exclusion Criteria:\n\n* Conditions or therapies that increase risk or interfere with participation per investigator judgment.\n* Systemic corticosteroids \\>10 mg prednisone equivalent or other immunosuppressive medications within 14 days prior to dosing.\n* Other systemic RRP treatments or investigational agents within 30 days.\n* History of heparin-induced thrombocytopenia or vaccine-induced thrombotic thrombocytopenia.\n* Active uncontrolled HIV, hepatitis B, or hepatitis C infection.\n* Pregnant or nursing women.\n* Known allergy to any study drug component.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Recurrent Respiratory Papillomatosis",
+    "Papillomavirus Infection",
+    "Papillomaviridae"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls two cohorts of adults with recurrent respiratory papillomatosis (RRP): Cohort 1 includes Zopa-naïve patients, while Cohort 2 includes patients previously treated with at least four administrations of Zopa. The study does not reference prior systemic therapy for advanced disease, as Zopa is a local therapy for RRP.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Cohort 1",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": null,
+      "category": "1L",
+      "line_of_therapy_text": "Cohort 1 includes patients who are treatment-naïve with respect to Zopa. There is no mention of prior systemic therapy for advanced disease, and patients must not have received Zopa previously."
+    },
+    {
+      "cohort_label": "Cohort 2",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Cohort 2 includes patients who have received a minimum of four administrations of Zopa and require further procedures. The protocol does not specify prior systemic therapy for advanced disease, and Zopa is not a standard systemic therapy for advanced/metastatic cancer. Line-of-therapy intent is not clearly defined in terms of systemic therapy."
+    }
+  ]
+}

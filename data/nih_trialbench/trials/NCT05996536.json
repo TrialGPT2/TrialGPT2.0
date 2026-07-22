@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT05996536",
+  "title": "Feasibility of Adipose Tissue Triglyceride (TG) Labelling in Familial Partial Lipodystrophy (FPLD)",
+  "brief_summary": "Background:\n\nPeople with familial partial lipodystrophy (FPLD) do not store fat in the body normally. This can lead to serious illnesses such as diabetes and heart disease. To learn more about FPLD, researchers want to compare the fat tissue in people with this disease to the fat tissue of healthy people.\n\nObjective:\n\nTo collect and analyze samples of fat tissue in people with and without FPLD.\n\nEligibility:\n\nPeople aged 18 to 65 years with FPLD. Healthy adults are also needed.\n\nDesign:\n\nParticipants will be screened. They will have a physical exam. The size and shape of their body will be measured. They will have an imaging scan to measure their bones, muscle, and fat.\n\nParticipants will be given heavy water to drink at home. The water contains a tracer to help measure the fat in their blood. They will drink 1 vial 3 times a day.\n\nAfter drinking the water for 9 days, participants will come to the clinic for a 3-day stay. They will eat only foods provided by the hospital; the foods will contain tracers. A needle will be inserted into a vein in the arm; participants will receive infusions of other tracers through this needle into their blood; this needle will also be used to draw blood samples for testing.\n\nOn their third day in the clinic, participants will have biopsies: Small samples of fat will be removed from under the skin on the belly and thigh.\n\nParticipants may return for a follow-up visit 8 days after leaving the clinic. Blood draws and fat tissue biopsies will be repeated.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nCommon inclusion criteria (FPLD and Controls):\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Stated willingness to comply with all study procedures and availability for the duration of the study\n2. Age \\>= 18 and \\<= 65 years\n3. Agreement to adhere to Lifestyle Considerations throughout study duration.\n4. Weight stability (per the subject) within approximately 3 kg in the 3 months prior to screening, with no plans to actively gain or lose weight during the study period.\n\nFPLD-specific inclusion criteria:\n\n1. Clinical diagnosis of partial lipodystrophy based on reduction in adipose tissue outside the normal range in selected adipose depots (including, at a minimum, the gluteofemoral depot) with preservation of adipose tissue in other depots.\n2. Adequate abdominal and thigh adipose tissue for feasible subcutaneous fat biopsy, as judged by the investigator.\n\nCONTROL MATCHING CRITERIA:\n\nWhen possible, control subjects will be individuals matched 1:1 with the FPLD subjects based on the following criteria (in order of priority). These criteria will be considered when assessing eligibility but are not strict inclusion criteria.\n\n1. Sex\n2. Age plus-minus 5 years\n3. Diabetic status\n4. Abdominal circumference plus-minus 10 cm\n5. Height plus-minus 5 cm\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Uncontrolled diabetes, defined as HbA1C \\>8% at screening.\n2. Use of insulin secretagogues (sulfonylureas) in week prior to Study Visit 1.\n3. Changes in insulin dose \\>30% of total daily dose in the 2 weeks prior to Study Visit 1.\n4. Use of niacin in the week prior to Study Visit 1.\n5. Use of antiplatelets that cannot be safely held for the appropriate duration prior to each biopsy visit, including Plavix (one week prior to biopsy), aspirin (one week prior to biopsy) and NSAIDS (48 hours prior to biopsy).\n6. Chronic use of anticoagulant medications that cannot be safely stopped for an appropriate duration of time prior to a biopsy procedure.\n7. Lipemia defined as non-fasting triglycerides of \\>1000 mg/dL at screening.\n8. Renal dysfunction defined as GFR \\<60 mL/min/1.73 m\\^2 at screening.\n9. Consuming extreme macronutrient diet (e.g., very low-carbohydrate, high fat diets such as ketogenic, paleo or Atkins diets, among others).\n10. Positive pregnancy test or breastfeeding at screening.\n11. History of HIV, hepatitis B or C infection.\n12. History of acquired lipodystrophy.\n13. Clinically significant abnormalities in thyroid function, liver function, blood counts, or blood minerals as assessed by screening labs.\n14. Inability to comply with planned study procedures.\n15. Inability of subject to understand and the willingness to sign a written informed consent document.\n16. Any condition which in the opinion of the investigator increases risk to subjects, prevents subject from complying with study procedures, prevents the subject from completing the study, or interferes with the interpretation of study results.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with partial lipodystrophy and non-lipodystrophic controls.",
+  "condition": [
+    "Lipodystrophy"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology observational study enrolling adults with familial partial lipodystrophy (FPLD) and healthy controls. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention cancer, advanced disease, or prior systemic therapy. There are no requirements or exclusions based on prior lines of therapy for advanced/metastatic disease."
+    }
+  ]
+}

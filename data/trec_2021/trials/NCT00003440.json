@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT00003440",
+  "title": "Paclitaxel With or Without Trastuzumab in Treating Patients With or Without HER-2/Neu Breast Cancer That is Inoperable, Recurrent, or Metastatic",
+  "brief_summary": "This randomized phase III studies how well two different regimens of paclitaxel with or without trastuzumab works in treating patients with or without HER-2/Neu breast cancer that is inoperable, recurrent, or metastatic. Drugs used in chemotherapy, such as paclitaxel, use different ways to stop tumor cells from dividing so they stop growing or die. Monoclonal antibodies, such as trastuzumab, can locate tumor cells and either kill them or deliver tumor-killing substances to them without harming normal cells. It is not yet known what regimen of paclitaxel is more effective with or without trastuzumab in treating patients with breast cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Histologically confirmed adenocarcinoma of the female breast which is inoperable, recurrent or metastatic\n* HER-2/neu status must be known at the time of protocol registration; HER-2/neu assessment will be based on FISH analysis of either the primary tumor or a metastatic site; a scoring of 0 or 1+ by immunohistochemistry (IHC) is considered negative; 2+ is considered negative unless confirmed by FISH positivity, in which case it should be considered positive; 3+ by IHC is considered positive; for centers using FISH only, a positive FISH assay by itself is sufficient to determine HER-2 positivity\n* Patients with the following prior therapy are eligible:\n\n  * Patients with 0-1 prior chemotherapy regimens for metastatic or locally advanced breast cancer, with the following exception: no prior taxane for metastatic/locally advanced breast cancer\n  * Patients with 0-1 prior chemotherapy regimens in the adjuvant setting; if adjuvant regimen included a taxane, patient must have been disease free for at least 12 months from completion of adjuvant therapy until relapse\n  * Patients must be \\> 2 weeks from prior surgery, other than simple biopsy or placement of venous access device; patients must be \\> 4 weeks from prior chemotherapy; patients must be \\>6 weeks from nitrosoureas, melphalan, or mitomycin\n\n    * Patients must be \\> 4 weeks from prior hormonal therapy unless tumor measurements document clear progression while on treatment; if progression is documented and toxicity from hormonal regimen has resolved, patients may be placed on study \\> 1 week from prior hormonal therapy\n* Prior Herceptin therapy is not allowed\n* Patients with central nervous system metastases are eligible only if the patient has completed cranial irradiation at least 6 months prior, is currently asymptomatic, and is not currently receiving corticosteroids for this condition; patients with leptomeningeal carcinoma (carcinomatous meningitis) are not eligible\n* MESURABLE DISEASE: Any mass reproducibly measurable in two perpendicular dimensions, examples include:\n\n  * Pulmonary nodules\n  * Hepatic lesions\n  * Skin nodules (if two measurements can be assigned)\n  * Lymph nodes\n* The following lesions do not qualify as measurable:\n\n  * Central nervous system (CNS) lesions\n  * Bone disease only; lytic lesions should be documented and followed\n  * Lymphangitic pulmonary metastases (patients with lymphangitic metastases are eligible if there are other sites of metastatic disease which can be measured)\n  * Lesions which have been irradiated unless there is definite documentation of progression since radiotherapy\n* A baseline assessment of left ventricular ejection fraction within 8 weeks of registration is required (echocardiogram or resting multi gated acquisition scan \\[MUGA\\] (radionuclide cineangiography \\[RNCA\\]) nuclear scintigraphy); patients with a left ventricular ejection fraction (LVEF) \\< 45% are ineligible\n* Granulocytes \\>= 1500/ul\n* Platelet count \\>= 100,000/ul\n* Creatinine =\\< 2.0 mg/dl\n* Bilirubin within institutional normal limits\n* Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase \\[AST\\])",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "HER2-negative Breast Cancer",
+    "HER2-positive Breast Cancer",
+    "Recurrent Breast Cancer",
+    "Stage IIIC Breast Cancer",
+    "Stage IV Breast Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

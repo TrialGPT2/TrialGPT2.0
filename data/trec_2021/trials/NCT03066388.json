@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03066388",
+  "title": "Accuracy of Pulse Pressure Variations Measured by a Non Invasive Digital Device to Predict Fluid Responsiveness",
+  "brief_summary": "It has been well established that only 40 to 60% of the patients hospitalized for inflammatory response syndrome (SIRS) positively respond to volume expansion (VE). The fluid responsiveness is usually estimated by assessing VE-induced change in stroke volume (SV). To guide prescriptions and possibly avoid deleterious effects of inappropriate VE, several clinical studies demonstrated that invasive dynamic indices based on heart-lung interactions permit an accurate prediction of the hemodynamic effects induced by VE.\n\nMechanical ventilation induces cyclic changes in intrathoracic and transpulmonary pressures that transiently affect venous return, right and left ventricular preload, resulting in pronounced cyclic changes in SV in preload-dependent, but not in preload-independent patients. These cyclic changes in SV can be evaluated by the cyclic changes in arterial pulse pressure. Several studies have shown that pulse pressure variation is able to predict fluid responsiveness in patients in the operating room and intensive care unit (ICU).\n\nHowever, this technique requires percutaneous arterial catheterization, which is associated with several rare but serious complications (thrombosis, infections, pseudoaneurysm,hematoma, and bleeding).\n\nA method for assessing noninvasive arterial blood pressure using an electropneumatic control loop was introduced by Penaz in 1973. Briefly, the blood volume in a finger is measured and kept constant by applying corresponding external pressure. The continuously changing external pressure needed to keep the volume constant directly corresponds to the arterial pressure and, therefore can be used as continuous measurement of arterial blood pressure. Numerous studies evaluating the accuracy of this technology, e.g., Finapres\u2122 (Ohmeda Monitoring Systems, Englewood, CO), and more recently of the Infinity CNAP\u2122 SmartPod (Dr\u00e4ger Medical AG \\& Co.KG, L\u00fcbeck, Germany).\n\nThe basic operating principle of the CNAP\u2122 is similar to the Finapres\u2122, but CNAP\u2122 uses multiple control loops. It has recently been shown that CNAP provides real-time estimates of mean arterial blood pressure (MAP) comparable with those measured by an invasive intraarterial catheter system during general anaesthesia.\n\nThe accuracy of the measures and the respiratory variations in pulse pressure obtained with the CNAP system have not yet been studied in ICU.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patients of the intensive care units of the Lille university-hospital.\n* Age greater than or equal to 18.\n* Patient insured\n* Mechanical ventilation without spontaneous respiratory cycles\n* Regular cardiac rhythm\n* Prescription by the physician in charge of the patients of a 500 mL volume expansion in less than 30 minutes.\n* Patients with sepsis with at least one sign of acute circulatory failure:\n\n  * Tachycardia with heart rate\\> 100/min\n  * systolic blood pressure \\<90mmHg or a decrease \\>40mmHg in previously hypertense patient\n  * Oliguria \\<0.5ml/kg/hour for at least one hour\n  * skin mottling\n\nExclusion Criteria:\n\n* high-grade aortic insufficiency\n* transthoracic echogenicity unsuitable for measuring the stroke volume by echo-Doppler\n* Spontaneous breathing\n* clinical or ultrasonographic evidence of pulmonary edema due to heart failure\n* pregnancy\n* abdominal compartment syndrome\n* Irregular cardiac rhythm",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Systemic Inflammatory Response Syndrome",
+    "Circulatory Failure",
+    "Mechanical Ventilation"
+  ],
+  "overall_status": "TERMINATED"
+}

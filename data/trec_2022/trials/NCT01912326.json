@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01912326",
+  "title": "Prevention of Atrial Fibrillation by Optimized Overdrive Stimulation",
+  "brief_summary": "Evaluation of dynamic Atrial Overdrive Stimulation using the AF Suppression Algorithm to prevent atrial tachyarrhythmias in patients with more than 2% Auto Mode Switch Episodes with optimized pacemaker programming.\n\nHypothesis:\n\nDynamic atrial Overdrive (AF Suppression) reduces AT/AF Burden by 30% as compared to programming DDDR-(60) without AF Suppression when all other parameters are optimized.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* indication for dual chamber pacemaker\n* documented paroxysmal or persistent Atrial Fibrillation\n* P-wave \\>1.0 mV in Sinus Rhythm or sufficient detection of AFib\n* stable antyarrhythmic therapy\n* age \\>= 19 years\n* written informed consent\n* implantation of a Identity DR 5370/5376 or later\n* bipolar atrial lead\n\nExclusion Criteria:\n\n* permanent AFib\n* reversible etiology of AFib\n* HYHA II or IV\n* Coronary Artery disease with stable angina pectoris\n* implanted ICD or planned implantation of a ICD\n* cardiac surgery within the last 6 months or planned within 12 months\n* live expectancy \\< 12 months\n* pregnancy",
+  "minimum_age": "19 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Bradycardia",
+    "Atrial Fibrillation"
+  ],
+  "overall_status": "COMPLETED"
+}

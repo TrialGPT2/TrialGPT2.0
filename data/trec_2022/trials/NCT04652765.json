@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04652765",
+  "title": "Camostat With Bicalutamide for COVID-19",
+  "brief_summary": "This will be a randomized, open-label study to determine if camostat+ bicalutamide decreases the proportion of people with COVID-19 who require hospitalization, compared to historical controls. Patients with symptomatic COVID-19, diagnosed as outpatients, will be randomized 1:1, stratified by gender, to treatment with standard of care alone (Arm 1) or with camostat and bicalutamide (Arm 2).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* \\>= 60 years of age\n* COVID-19 infection, confirmed by polymerase chain reaction (PCR) test \\<=5 days from enrollment done in the ambulatory setting\n* Able to provide informed consent\n* Symptom related to COVID-19. This includes: fever or chills, cough, shortness of breath or difficulty breathing, fatigue, muscle or body aches, headache, new loss of taste or smell, sore throat, congestion or runny nose, nausea or vomiting, diarrhea or other symptom recognized by the Centers for Disease Control to be a symptom of COVID-19.\n\nExclusion Criteria:\n\n* Patients who undergo asymptomatic screening test that is positive and remain asymptomatic during the eligible time window\n* Patients who have had one or more positive more than 5 days prior to enrollment but within 60 days of enrollment (ex. if a patient has a positive test 10 days prior to enrollment and then a second positive test the day referred for enrollment, that patient would be excluded. If a patient had a positive test 5 months ago, and then another positive test the day he/she was referred for enrollment, that patient would be eligible)\n* Unable to take oral medication\n* Male patients with female partners of reproductive potential who are unable to maintain effective contraception during the recommended time period (during treatment and for 130 days after the final dose)\n* Symptoms requiring hospitalization or immediate referral to hospital\n* Taking bicalutamide, any systemic hormonal therapy, or camostat within one month of study entry\n* Known hypersensitivity to bicalutamide, or camostat, or its components.\n* On coumadin anticoagulation (because of drug-drug interaction with bicalutamide)\n* Self-reported past medical history of chronic liver disease or cirrhosis\n* Self-reported myocardial infarction within 6 months or past medical history of congestive heart failure with known ejection fraction \\< 40%\n* Taking any other investigational treatment for COVID-19 or COVID-19 prophylaxis (COVID-19 vaccines and treatments allowed under FDA Emergency Use Authorization are allowed.)\n\nWomen and people from all ethnic and race groups are eligible for this study.",
+  "minimum_age": "60 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19",
+    "SARS-CoV Infection",
+    "Coronavirus Infection"
+  ],
+  "overall_status": "TERMINATED"
+}

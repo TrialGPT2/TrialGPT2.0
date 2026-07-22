@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03711695",
+  "title": "iBeat Wristwatch Validation Study",
+  "brief_summary": "The iBeat Study is a single-center, prospective, unblinded validation of the photoplethysmography (PPG) and tissue oximetry (TO) signal waveforms recorded from a wrist-based sensor devices.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age \u2265 21 years and \u2264 85 years\n2. Able to understand and give informed consent.\n3. Subject is presenting for the following planned procedures:\n\n3.1 Group A (25 subjects): Subjects presenting for catheter ablation for cardiac arrhythmias (e.g. atrial fibrillation, supraventricular tachycardia, or ventricular tachycardia) 3.2 Group B (25 subjects): Subjects judged based on the clinical evaluation of high, greater than 75%, atrial pacing or ventricular pacing burden or known pacing dependence with planned device interrogation for: 1) pacemaker (single or dual chamber), 2) implantable cardioverter-defibrillator (single or dual chamber), or 3) cardiac resynchronization therapy with or without defibrillator (single or dual chamber plus left ventricular pacing).\n\n3.3 Group C (5 subjects): Subjects for clinically indicated defibrillation threshold testing (DFT) (with a transvenous or subcutaneous ICD lead system)\n\nExclusion Criteria:\n\n1. Age \\< 21 years and \\> 85 years\n2. Unable to or refuse to give written informed consent\n3. Unwilling or unable to wear the smartwatch device on at least one wrist\n4. Uncorrected severe aortic stenosis or subaortic stenosis (including hypertrophic cardiomyopathy) with outflow tract obstruction \\> 50 mm\n5. New York Heart Association Class IV Heart Failure",
+  "minimum_age": "21 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population will consist of adults that present for either catheter ablation, cardiac device interrogation, or defibrillation threshold testing.",
+  "condition": [
+    "Arrythmia, Cardiac"
+  ],
+  "overall_status": "COMPLETED"
+}

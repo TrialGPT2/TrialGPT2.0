@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01724619",
+  "title": "Update and Biodistribution of [F-18]FMDHT pET/CT in Normal Healthy Volunteers and Patients With Metastatic Prostate Cancer - A First in Human Subject Study With [F-18] FMDHT",
+  "brief_summary": "Prostate cancer represents a significant health problem in the United States. This year 179,000 men in the United States will be diagnosed with prostate carcinoma and approximately 25% of them will die of the disease. In addition, the incidence and mortality of prostate carcinoma has been increasing steadily in the United States. Prostate-specific antigen (PSA) levels are commonly used as a biomarker for the detection of prostate cancer. Nonetheless, there is a significant false negative and false positive diagnosis since PSA levels elevate in benign prostatic hyperplasia and prostatitis and decrease in patients taking medications and herbal remedies. Twenty percent of biopsy-proven prostate carcinoma have PSA levels within the normal range, thus confounding the diagnosis based on the PSA screening test. Current diagnostic methods that include transrectal ultrasound (TRUS) and TRUS guided prostate biopsy are logistically difficult and insensitive. These are further complicated by equivocal prostatic biopsy findings such as prostatic intraepithelial neoplasia (PIN) or normal PSA with high clinical suspicion. A tracer with high specificity to prostate cancer related structures at a cellular level would enhance our understanding of the pathophysiology of prostate cancer and would contribute to the detection, localization and quantification of the disease and its metastases. This information will be invaluable in selecting the appropriate treatment regimen.\n\nThis study will test the utility of \\[F-18\\]FMDHT to image prostate cancer and will evaluate if this radiotracer can differentiate primary prostate cancer in the prostate gland from normal prostate gland itself. More specifically, we will study the distribution kinetics of \\[F-18\\]FMDHT in normal healthy humans and in patients with prostate cancer.\n\nAs per exploratory IND requirements, we performed toxicity assessment of FMDHT through an outside laboratory (ILS, Inc.) and the results of that study are attached as Appendix A.\n\nBased on our and others data, we hypothesize that:\n\n1. \\[F-18\\]FMDHT PET/CT will distribute initially in various normal tissues following blood flow pattern and will clear rapidly from tissues with no AR.\n2. \\[F-18\\]FMDHT PET/CT will detect metastatic disease that expresses AR.\n3. \\[F-18\\]FMDHT PET/CT uptake will be elevated in AR-expressing prostate cancer lesions compared to surrounding normal prostate.\n\nIn order to progress \\[F-18\\]FMDHT into clinic, we are performing a pilot 'first-in-human' biodistribution study in subjects with and without prostate cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\nNormal Healthy Volunteers\n\n* Males age 30 years or older.\n* No prior history of cancer.\n* Willing to get a PSA evaluated. Normal subjects will be eligible if their PSA is in the normal range for the particular lab where it is drawn. PSA drawn within 6 months (before) of the FMDHT PET scan will be accepted.\n* Ability to tolerate PET imaging.\n* Ability to understand and willingness to sign a written informed consent document.\n\nProstate Cancer Patients:\n\n* Patients with histologically confirmed adenocarcinoma of the prostate.\n* Patients with a clinical staging CT at the time of the first \\[F-18\\]FMDHT scan.\n* Patients with at least one single focus of metastatic disease (bone/lymph node or soft tissue) confirmed on other clinical studies, preferably biopsy.\n* Patients with prior transurethral resection of the prostate are eligible.\n* Ability to tolerate PET imaging.\n* Males age 30 years or older.\n* Ability to understand and willingness to sign a written informed consent document.\n* Willing to get a PSA evaluated.\n\nExclusion Criteria:\n\nNormal Health Volunteers\n\n* Prior diagnosis of any cancer (except non-melanoma skin cancer).\n\nProstate Cancer Patients\n\n* Prior diagnosis of cancer except non-melanoma skin cancer.\n* Prior treatment (other than biopsy) for prostate cancer.\n* Received radiation therapy, hormonal therapy, surgery or cryotherapy for prostate disease.",
+  "minimum_age": "30 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Prostate Cancer"
+  ],
+  "overall_status": "TERMINATED"
+}

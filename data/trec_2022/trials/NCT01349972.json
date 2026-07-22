@@ -1,0 +1,38 @@
+{
+  "nctid": "NCT01349972",
+  "title": "Alvocidib, Cytarabine, and Mitoxantrone Hydrochloride or Cytarabine and Daunorubicin Hydrochloride in Treating Patients With Newly Diagnosed Acute Myeloid Leukemia",
+  "brief_summary": "This randomized phase II trial is studying how alvocidib, cytarabine, and mitoxantrone hydrochloride work compared to cytarabine and daunorubicin hydrochloride in treating patients with newly diagnosed acute myeloid leukemia. Alvocidib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as cytarabine, mitoxantrone hydrochloride, and daunorubicin hydrochloride work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. It is not yet known whether giving alvocidib, cytarabine, and mitoxantrone hydrochloride is more effective than giving cytarabine and daunorubicin hydrochloride in treating patients with acute myeloid leukemia.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* All adults with established, pathologically confirmed diagnoses of newly diagnosed AML and adults with newly diagnosed AML, excluding newly diagnosed core-binding factor (CBF) AMLs and acute progranulocytic leukemia (APL, M3), will be considered eligible for study\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0-3\n\n  * Patients \\>= 65 years of age must have ECOG PS =\\< 2 prior to developing leukemic symptoms\n* Serum creatinine \u2264 2.0 mg/dL\n* Alanine aminotransferase (ALT)/aspartate aminotransferase (AST) =\\< 5 times upper limit of normal (ULN) (unless leukemic infiltration)\n* Total bilirubin =\\< 2.0 mg/dL (unless Gilbert disease, hemolysis, or leukemia)\n* Left ventricular ejection fraction \u2265 45%\n* Newly diagnosed AML, subtypes M0, 1, 2, 4-7 but excluding M3 (APL), including those with the following poor risk features:\n\n  * Antecedent hematologic disorder including myelodysplasia (MDS)-related AML (MDS/AML) and prior myeloproliferative disorder (MPD)\n  * Treatment-related myeloid neoplasms (t-AML/t-MDS)\n  * Myeloid sarcoma, myeloid proliferations related to Down Syndrome, and blastic plasmacytoid dendritic cell neoplasm\n  * AML with multilineage dysplasia (AML-MLD)\n  * Adverse cytogenetics (defined as -5/-5q; -7/-7q; abnormal 3q, 9q, 11q, 20q, 21q, or 17p; t(6;9); t(9;22); trisomy 8; trisomy 13; trisomy 21; and complex karyotypes (\u2265 3 unrelated abnormalities)\n* Patients who have received hydroxyurea alone or have received non-cytotoxic therapies previously for myelodysplasia (MDS) or myeloproliferative disorder (MPD) (e.g., thalidomide or lenalidomide, interferon, cytokines, 5-azacytidine or decitabine, histone deacetylase inhibitors, low-dose cyclophosphamide \\[cytoxan\\], tyrosine kinase \\[TK\\] or dual TK/src inhibitors) will be eligible for this trial\n\n  * At least 24 hours since prior leukopheresis or hydroxyurea for cytoreduction\n\nExclusion Criteria:\n\n* Any previous treatment with flavopiridol\n* Concomitant chemotherapy, radiation therapy, or immunotherapy\n* Hyperleukocytosis with \\>= 50,000 blasts/uL; leukopheresis or hydroxyurea may be used immediately prior to study drug administration for cytoreduction; must be stopped 24 hours before first dose of study chemotherapy\n* CBF AMLs associated with t(8;21) or M4eo subtype (inv\\[16\\] or t\\[16;16\\]), as diagnosed by morphologic criteria, flow cytometric characteristics, and rapid cytogenetics or FISH or molecular testing\n* Acute Progranulocytic Leukemia (APL, M3)\n* Active central nervous system (CNS) leukemia\n* Active, uncontrolled infection; patients with infection under active treatment and controlled with antibiotics are eligible\n* Active, uncontrolled graft vs. host disease (GVHD) following allogeneic transplant for non-AML condition (e.g. MDS, lymphoid malignancy, aplastic anemia); patients with GVHD controlled on stable doses of immunosuppressants are eligible\n* Presence of other life-threatening illness\n* Patients with mental deficits and/or psychiatric history that preclude them form giving informed consent or from following protocol\n* Pregnant and nursing patients are excluded",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Myeloid Leukemia With Multilineage Dysplasia Following Myelodysplastic Syndrome",
+    "Adult Acute Minimally Differentiated Myeloid Leukemia (M0)",
+    "Adult Acute Monoblastic Leukemia (M5a)",
+    "Adult Acute Monocytic Leukemia (M5b)",
+    "Adult Acute Myeloblastic Leukemia With Maturation (M2)",
+    "Adult Acute Myeloblastic Leukemia Without Maturation (M1)",
+    "Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities",
+    "Adult Acute Myeloid Leukemia With Del(5q)",
+    "Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)",
+    "Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)",
+    "Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)",
+    "Adult Acute Myelomonocytic Leukemia (M4)",
+    "Adult Erythroleukemia (M6a)",
+    "Adult Pure Erythroid Leukemia (M6b)",
+    "Secondary Acute Myeloid Leukemia",
+    "Untreated Adult Acute Myeloid Leukemia"
+  ],
+  "overall_status": "COMPLETED"
+}

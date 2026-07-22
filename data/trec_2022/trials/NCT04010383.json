@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04010383",
+  "title": "Non-inferiority Study for Visual Field Measurements Using a Virtual Reality Device",
+  "brief_summary": "It is hypothesized that performing VF measurements with a Virtual Reality headset using similar testing strategies as implemented in conventional perimeters, allow for a non-inferior quality in VF acquisitions. The results of this study will show if valid measurements of such devices in human subjects can be obtained.\n\nThe primary endpoint of this study is the non-inferiority estimation quality of participant's mean defect (MD) measured in decibel (dB) between the head-mounted display and an OCTOPUS perimeter using the dynamic strategy (DS) for participants with normal or glaucomatous visual field. The MD is a clinical measure for the average loss of visual function calculated from the visual field of a participant.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Written informed consent\n\nInclusion Criteria for normal visual field subjects:\n\n* Cataract yes or no\n* Age range 40 - 80 years- normal visual field (MD: \\< +2 dB)\n* Refractive error within \u00b15 dpt. spherical equivalent\n* Astigmatism of \\< -3 dpt.\n* Visual acuity of \u22650.3 logMar (decimal \u22650.5)\n* Experience in perimetry (history of at least one perimetry examination)\n* False positive or negative errors each less than 20% in each examination\n\nInclusion Criteria for glaucomatous subjects:\n\n* Primary open-angle/ pseudoexfoliation/ primary angle-closure glaucoma\n* Early to moderate visual field loss (MD: +2 to +12 dB)\n* Refractive error within \u00b15 dpt. spherical equivalent\n* Astigmatism of \\< -3 dpt.\n* Visual acuity of \u22650.3 logMar (decimal \u22650.5)\n* Experience in perimetry (history of at least one perimetry examination)\n* False positive or negative errors each less than 20% in each examination\n* Cataract yes or no\n\nExclusion Criteria:\n\n* Exclusion criteria are subjects younger than 40 and older than 80 years\n* Inability to follow the procedure\n* Insufficient knowledge of project language\n* The history of other ocular diseases than glaucoma or cataract or other conditions that might affect visual field testing (e.g. pituitary lesions, demyelinating diseases).\n* Any history of epilepsy",
+  "minimum_age": "40 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population consists of glaucoma patients and patients with normal visual fields respecting the inclusion/exclusion criteria. There is no restriction in ethnicity.",
+  "condition": [
+    "Visual Field Tests"
+  ],
+  "overall_status": "COMPLETED"
+}

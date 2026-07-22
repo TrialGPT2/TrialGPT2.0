@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04772183",
+  "title": "OxyGap : Comparison Between Different Pulse Oximeter and With the Arterial Blood Gase",
+  "brief_summary": "The oximeter is used to monitor intensive care patients undergoing oxygen therapy. It indicates pulsed oxygen saturation (SpO2), a reflection of arterial oxygen saturation (SaO2) which enables detection of hypoxemia and hyperoxia, both deleterious state. Current SpO2 recommendations aim to reduce both risk of hypoxemia and hyperoxia. SpO2 is considered the 5th vital sign.\n\nCurrent recommendations for SpO2 targets do not consider the variability of oximeters used in clinical practice. This variability and lack of specification represent an obstacle to an optimal practice of oxygen therapy.\n\nThus, this study aims to compare the SpO2 values of different oximeters (Nonin, Masimo, Philips, Nellcor) used in clinical practice with the SaO2 reference value obtained by an arterial gas in order to specify the precision and the systematic biases of the oximeters studied. This data will also make it possible to refine the recommendations concerning optimal oxygenation",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* \u2265 18 years old\n* Patients admitted to the Intensive Care Unit\n* Artery catheter already installed\n\nExclusion Criteria:\n\n* No signal with the oximeter\n* Pigmented nails or nail polish\n* Methemoglobinemia\n* Patient in isolation (multi-resistant bacteria, C-Difficile, COVID-19\u2026)\n* Prone position",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patient in ICU with arterial catheter already installed will be consider.",
+  "condition": [
+    "Respiratory Failure",
+    "Hypoxemia",
+    "Hyperoxemia"
+  ],
+  "overall_status": "RECRUITING"
+}

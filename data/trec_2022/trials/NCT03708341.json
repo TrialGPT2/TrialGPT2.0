@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03708341",
+  "title": "Exogenous Melatonin in Intensive Care Unit Chronodisruption",
+  "brief_summary": "To this day, a small number of studies have evaluated the effect of melatonin on the modifications of the characteristics of sleep in critical care units, with mostly a small studied population. However, no study has been realized on a large population, nor has it evaluated the association between genetic factors and response to treatment (melatonin), hence the originality of our study. In our study we hypothesized that systematic melatonin usage in ICU can ameliorate the total sleep time and the fragmentation index and can decrease the confusion related to sleep deprivation.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients or their parents who have signed an informed consent allowing us to exploit and analyse their clinical, biological and pharmacological data (see Appendix 1)\n* Patients staying more than 48 hours in ICU (acute ICU confusion occurs in the 48-72h following admission)\n* Drugs affecting sleep architecture (co-variables):\n\n  * Opiates: increase N2, decrease REM\n  * NSAIDs: reduce sleep efficacy, increase arousal\n  * Beta blockers: insomnia, REM sleep disappearance\n  * Corticosteroids (varies according to half life and dose): REM sleep disappearance, induce awakening, stimulant effect\n  * Haloperidol: increases sleep efficacy, increases N2 duration\n* Respiratory assistance: ventilated patients v/s non ventilated patients (co-variables)\n* Patients presenting with delirium or sleep disorders at admission will not be excluded, but a note will be taken on the baseline case report form (CRF)\n\nExclusion Criteria:\n\n* Patients less than 18 years old\n* Patients with central neurological disease: post traumatic patients, Parkinson disease, patients presenting with CVA, patients with neurodegenerative diseases, etc.\n* Patients taking drugs capable of altering or inducing delirium:\n\n  * Atypical antipsychotics (olanzapine, risperidone, etc.), which increase sleep efficacy, total sleep time, and NREM sleep, and reduce prevalence of ICU psychosis\n  * BZD-like drugs (zolpidem, zopiclone) which induce delirium\n* Melatonin allergy\n* Any disorders capable of altering oral melatonin absorption (e.g. intestinal occlusion)\n* Predicted ICU stay of less than 24 hours (e.g. post surgical monitoring)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sleep Deprivation",
+    "Intensive Care Psychosis"
+  ],
+  "overall_status": "RECRUITING"
+}

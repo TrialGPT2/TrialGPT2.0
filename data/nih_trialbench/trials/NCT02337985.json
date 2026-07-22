@@ -1,0 +1,39 @@
+{
+  "nctid": "NCT02337985",
+  "title": "Gene Therapy and Combination Chemotherapy in Treating Patients With AIDS-Related Non-Hodgkin Lymphoma",
+  "brief_summary": "This pilot clinical trial studies gene therapy following combination chemotherapy in treating patients with acquired immune deficiency syndrome (AIDS)-related non-Hodgkin lymphoma. Placing genes that have been shown in the laboratory to inhibit the growth and spread of the immunodeficiency virus (HIV) into the patient's peripheral blood stem cells may improve the body's ability to fight HIV. Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving gene therapy after combination chemotherapy may improve the body's ability to fight HIV and AIDS-related non-Hodgkin lymphoma.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* HIV seropositive at or before the time of lymphoma diagnosis; all HIV positive patients are eligible regardless of HIV viral load or antiviral therapy (ART) status; all patients on study will receive ART as per standard guidelines\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 - 2\n* Biopsy proven lymphoma for which rituximab, etoposide, prednisone, vincristine sulfate, cyclophosphamide, and doxorubicin hydrochloride (R-EPOCH) is appropriate frontline therapy, e.g., Burkitt lymphoma or diffuse large B-cell lymphoma (DLBCL) NHL, including plasmablastic lymphoma and primary effusion lymphoma but not T-cell lymphoma; tissue histology will be reviewed at the treating institution\n* No psychosocial conditions that would hinder study compliance and follow-up\n* Pretreatment serum glutamic oxaloacetic transaminase (SGOT), serum glutamate pyruvate transaminase (SGPT) =\\< 2.5 x institutional upper limit of normal (ULN)\n* Pretreatment serum bilirubin =\\< 2.5 x ULN or total bilirubin \\< 4.5 mg/dl with direct fraction =\\< 0.3 mg/dl in patients for whom these abnormalities are felt to be due to protease inhibitor therapy\n* Patients with evidence of hepatitis C virus (HCV) or hepatitis B virus (HBV) infection must have no clinical evidence of cirrhosis\n* Serum creatinine \\< 2 x the institutional ULN; however, if serum creatinine \\> 1.5 x ULN, a 24 hour urine creatinine clearance must be \\> 50 ml/min unless there is renal involvement by lymphoma\n* Absence of clinically significant cardiomyopathy, congestive heart failure\n* If the subject is female and of child bearing potential, subject must have negative serum or urine pregnancy test within 7 days of treatment with research agent; men with partners of child-bearing potential and women of child-bearing potential must be willing to use medically effective birth control methods, e.g. contraceptive pill, condom, or diaphragm and continue this for one year post HSPC infusion\n* Subjects must be on a prophylactic regimen for Pneumocystis carinii pneumonia, or agree to begin such treatment and remain on treatment until after completion of therapy and until the cluster of differentiation (CD)4 cells are greater than 200/mm\\^3\n* Women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control or abstinence) prior to study entry and for 12 months following stem cell infusion; should a woman become pregnant or suspect that she is pregnant while participating on the trial, she should inform her treating physician immediately\n* All subjects must have the ability to understand and the willingness to sign a written informed consent\n\nELIGIBILITY CRITERIA FOR HSPC TRANSPLANTATION\n\n* Patients must demonstrate \\>= 75% disease reduction on computed tomography (CT) scan (confirmed by PET scan) after the third cycle of R-EPOCH relative to baseline, with no evidence of disease progression after the fifth cycle\n* Subjects must complete the filgrastim (G-CSF)/plerixafor mobilization of peripheral blood progenitor cells, and subjects must have collected at least 5 x 10\\^6 CD34+ cells/kg by apheresis after Cycle 4\n\nExclusion Criteria:\n\n* Any AIDS-related opportunistic infection occurring within the past year and for which treatment has been unsuccessful would be considered exclusionary, but this is done on a case-by-case basis as determined by the principal investigator (PI)\n* Active cytomegalovirus (CMV) retinitis or other active CMV-related organ dysfunction; patients with a history of treated CMV infection are not excluded\n* AIDS-related syndromes, infectious or otherwise, if perceived to cause excessive risk for morbidity post-HSPC infusion, as determined by the PI; examples include, but not limited to:\n\n  * Severe AIDS-related wasting\n  * Severe intractable diarrhea\n  * Active inadequately treated opportunistic infection of the central nervous system (CNS)\n  * Primary CNS lymphoma\n* Pregnant or nursing women\n* Any history of HIV-associated encephalopathy; dementia of any kind; seizures in the past 12 months\n* Any perceived inability to directly provide informed consent (note: consent may not be obtained by means of a legal guardian)\n* Any medical or physical contraindication or other inability to undergo HSPC collection\n* Patients should not have any uncontrolled illness including ongoing or active infection other than HIV\n* Patients may not be receiving any other investigational agents, or concurrent biological, chemotherapy, or radiation therapy\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to G-CSF/filgrastim (E. coli producing cell line) and plerixafor\n* Patients with other active malignancies; however, patients with skin cancers, namely basal cell or squamous cell carcinoma, and malignancies treated with curative intent having no known active disease present for \\>= 2 years, may be eligible\n* Subjects, who in the opinion of the investigator, may not be able to comply with the safety monitoring requirements of the study",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "AIDS-Related Burkitt Lymphoma",
+    "AIDS-Related Diffuse Large B-cell Lymphoma",
+    "AIDS-Related Plasmablastic Lymphoma",
+    "AIDS-Related Primary Effusion Lymphoma",
+    "HIV Infection",
+    "AIDS Related Non-Hodgkin Lymphoma"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with AIDS-related non-Hodgkin lymphoma who are eligible for frontline R-EPOCH chemotherapy, indicating treatment in the first-line advanced/metastatic setting. Patients must be newly diagnosed and appropriate for initial systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility requires biopsy-proven lymphoma for which R-EPOCH is appropriate frontline therapy, indicating patients must be receiving first-line systemic treatment for advanced disease. There is no mention of prior systemic therapy for advanced disease being allowed, and patients must be newly diagnosed and eligible for initial therapy. Adjuvant-only patients are not relevant as this is an advanced disease setting."
+    }
+  ]
+}

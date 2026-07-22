@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03109106",
+  "title": "Procalcitonin for Stewardship in Respiratory Infections A Stewardship Project",
+  "brief_summary": "Antibiotics are overused in hospitals nationwide, leading to unnecessary drug costs and adverse events. Antibiotic stewardship is now a national and international priority and regulatory authorities are mandating antibiotic stewardship programs in all hospitals. Respiratory infections account for a large percentage of antibiotic overuse. Procalcitonin has been shown to help providers significantly shorten the duration of antibiotic therapy in respiratory infections. As such, this institution seeks to evaluate the impact of PCT-guided antibiotic management on antibiotic use in subjects with acute Lower Respiratory Tract Infection (LRTI) with or without sepsis. Multiple studies have been conducted in Europe and demonstrate the safety of the PCT-guided antibiotic management in pneumonia as well as sepsis. This study will apply PCT-guided therapy to those populations in an all-US study evaluating patient outcomes along with safety and efficacy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Candidate patients will have evidence of an acute lower respiratory tract infection (pneumonia or acute exacerbation of chronic bronchitis) as defined as follows:\n\n  o NEW onset within past 28 days\n* At least one respiratory symptom: cough, sputum production, dyspnea, tachypnea, pleuritic chest pain, wheezing\n\nPLUS: At least one :\n\n* auscultation abnormality suggestive of pneumonia (rales, ronchi, egophony)\n* OR a new consolidation on chest radiology consistent with pneumonia\n* OR at least one sign of systemic infection: fever \\>38.1 or WBC \\>10,000 or \\<4,000 AND provider initiating empiric antibiotics\n\nExclusion Criteria:\n\n* \\- Age \\<18\n* Microbiologically documented infections caused by organisms for which a prolonged duration is standard of care (i.e. Pseudomonas, Acinetobacter, Listeria, Legionella, Pneumocystis, M. tuberculosis, Non-tuberculous mycobacterium (NTM) infection, S. aureus pneumonia or cavitary pneumonia)\n* Severe infections due to viruses and parasites with a risk of bacterial translocation (hemorrhagic fever, malaria)\n* Infectious conditions requiring prolonged therapy: endocarditis, brain abscess, deep abscess\n* Antibiotics already started 24 hours prior to initial PCT value\n* Chronic localized infections (i.e. chronic osteomyelitis, mediastinitis, brain abscess)\n* Severely immunocompromised patients (HIV with CD4\\<200, neutropenic with absolute neutrophil count (ANC) \\<500, patients on immunosuppressive therapy after solid organ transplantation or those with autoimmune disease (corticosteroids allowed but no more than 20 mg/day (prednisone equivalent) for 14 days). Cystic fibrosis\n* Active IV drug abuse\n* Pregnant patients\n* Patients lacking capacity to consent\n* Patients admitted for burn injuries\n* Patients within 30 days of major intra-thoracic or intra-abdominal surgery\n* Patients receiving antibiotics for a non-respiratory infection",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "LRTI"
+  ],
+  "overall_status": "COMPLETED"
+}

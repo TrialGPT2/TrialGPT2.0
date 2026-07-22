@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03038191",
+  "title": "Epi-collect: Data Collection During Video EEG Monitoring and at Patient's Home",
+  "brief_summary": "Epilepsy is a group of neurological disorders characterized by propensity for spontaneous epileptic seizures. Epileptic seizures are the result of excessive and abnormal nerve cell activity in the brain. About 0.7-1% of the world population suffers from seizures. The most common treatment is based on seizure medications that enables about 2/3 of the patients to control their seizures. However, about 20 million patients worldwide, suffer from unpredictable seizures without remedy, and are resistant to medication.\n\nIn this study EEG and other physiologic signals are collected using wearable sensors, from Epilepsy patients who are at risk of experiencing seizures. The collected signals will be used for developing algorithms that may identify pre-seizure and seizure related periods.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\>18\n* Known diagnosis of Epilepsy\n* Expected to experience seizures during the period of the study as determined by the PI.\n* Able to meet with the Sponsor representative at home\n\nExclusion Criteria:\n\n* Trauma/broken skin on forehead.\n* Patient can not follow or comply with instructions\n* Patients who are unable to independently provide an informed consent\n* Patients with major psychiatric co-morbidities\n* Patients with psychogenic non-epileptic seizures",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult epilepsy patients who are admitted to the video EEG unit and are expected to experience seizures during hospitalization",
+  "condition": [
+    "Epilepsy"
+  ],
+  "overall_status": "TERMINATED"
+}

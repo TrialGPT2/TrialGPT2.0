@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04181866",
+  "title": "Adherence to Drug Therapy in Patients With HFrEF During Inpatient Rehabilitation and After at 3 and 6-months.",
+  "brief_summary": "In German cardiac rehabilitation clinics the number of patients with reduced ejection fraction is continuously increasing since years. Approximately 2,000 patients with cardiac diseases were treated per year per clinic and LVEF \\< 40% was often found in patients.\n\nThe mean length of stay in the rehabilitation clinics is 21 days, which gives the chance and the necessity to optimize not only medical therapy.\n\nHere, all relevant baseline parameters (indication for rehabilitation, all clinical diagnoses, age, sex, BMI, echocardiographic parameters such as LVEF or diastolic dysfunction, laboratory parameters corresponding to the recording standard of the clinic, etc.) will be recorded in an electronic CRF. Medical treatment is recorded at the drug class level and enquires about the use of the following drug classes: betablockers (BB) (yes/no), angiotensin converting enzyme inhibitors (ACEI) (yes/no), angiotensin receptor blockers (ARB) (yes/no), aldosterone receptor antagonist (yes/no) and diuretics (yes/no). Furthermore, treatment according Guideline ESC 2016 (yes/no) will be recorded in all patients at initial presentation and follow-up as well as if recommended target dose was reached (yes/no). New York Heart Association (NYHA) quantification of heart failure symptoms will be noted.\n\nFurthermore, NT-proBNP at baseline and, if available, at discharge, Quality of Life (SF-12), anxiety and depression (HADS-D) will be determined and non-drug therapy including nutrition (minimal nutrition assessment = MNA) (5) and exercise (patient exercise diary) will be investigated during inpatient rehabilitation and follow-up period.\n\nAfter discharge, patients will be contacted by mail after three and twelve months. Here, general questions about drug therapy and dosages, re-hospitalizations especially in connection with HFrEF are recorded in a standardized questionnaire. If postal response cannot be achieved, a telephone contact will be carried out. Drug therapy with special regards to HFrEF will be documented by comparing drug lists at demission to the patient reported drugs, which are taken at time of follow-up. The patient will be asked whether medication has been changed and if so, why, and who changed it.\n\nThe observational design of the project allows no exact calculation of sample size, however, inclusion of 500 patients is aimed (50 patients per site).\n\nContinuous variables will be described using summary statistics: mean, standard deviation, median, 25% and 75% percentiles, and minimum and maximum values. Categorical variables will be described using number and percent per category.\n\nFor comparison of change from clinic entry endpoints, which are normally distributed variables, the paired sample t-test will be used. The Wilcoxon signed rank test will be used to assess skewed change variables, which do not meet the normality assumption. For categorical variables, the chi-square test will be employed. Statistical analyses were performed using SPSS\u00ae software, V24 (SPSS Inc., Chicago, Illinois).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* patients with HFrEF\n\nExclusion Criteria:\n\n* Inability or refusal to give written informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "In German cardiac rehabilitation clinics the number of patients with reduced ejection fraction is continuously increasing since years. Approximately 2,000 patients with cardiac diseases were treated per year per clinic and LVEF \\< 40% was often found in patients.",
+  "condition": [
+    "Adherence to Drug Therapy in Patients With HFrEF"
+  ],
+  "overall_status": "COMPLETED"
+}

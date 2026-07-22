@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04787757",
+  "title": "Autonomous Robotics for Transcatheter Cardiac Procedures",
+  "brief_summary": "Cardiovascular diseases represent the most common cause of death worldwide. Percutaneous approaches with intravascular catheters are pivotal, since they allow to treat patients with high perioperative risks. However, catheter-based treatments require steep learning curves and are characterized by poor ergonomics and exposure to damaging radiation. ARTERY will offer a radiation-free approach based on shared-autonomy robotic catheters, with increased user engagement and easy interaction. Intraprocedural three-dimensional echocardiography as well as computed tomography images obtained during usual clinical practice will provide artificial intelligence algorithms that will turn catheter navigation to a simple task. Optical and electromagnetic sensing techniques will ensure a superior view upon the cardiovascular anatomy and will guide the autonomous catheter upon the interventionist supervision, who will be able to take over control at any instant.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* adult patients\n* patients admitted to hospital undergoing percutaneous cardiac procedure\n* patients able to give informed consent\n\nExclusion Criteria:\n\n* age \\<18 years\n* refuse to give informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Candidates to percutaneous cardiac defects repair",
+  "condition": [
+    "Mitral Valve Disease",
+    "Heart Valve Diseases",
+    "Structural Heart Abnormality"
+  ],
+  "overall_status": "COMPLETED"
+}

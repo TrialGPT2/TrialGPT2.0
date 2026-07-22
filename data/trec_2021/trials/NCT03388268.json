@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03388268",
+  "title": "TOX NEG Trial: Clostridium Difficile Diagnosis and Treatment",
+  "brief_summary": "The purpose of this study is to determine the risks and benefits of antibiotic treatment for Clostridium difficile infection (CDI) among patients whose stool samples are nucleic acid amplification test (NAAT) positive and enzyme immunoassay (EIA) negative for C. difficile.\n\nCurrently, healthcare facilities use a wide variety of tests and strategies for identifying patients with CDI; both EIA and NAAT are widely used. There is no clear gold standard for identifying CDI. At WUSM and BJH, patients are only treated for CDI if they have a positive EIA. However, at many other healthcare facilities, the standard of care is to treat for CDI if the patient is NAAT positive. Some patients who are NAAT-positive may not have true CDI; while this treatment is standard of care at many facilities, the risk and benefits of treating these patients for CDI is unknown.\n\nWe propose to perform a double blinded, randomized controlled non-inferiority trial of antimicrobial of patients who are EIA negative, NAAT positive to determine the risks and benefits of CDI treatment in this population.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n* Stool submitted to the BJH microbiology laboratory for C. difficile testing that tests negative for C. difficile toxins (C. difficile Tox A/B II, Alere, Waltham, MA) as part of routine clinical care and positive by NAAT (Xpert C. difficile, Cepheid, Sunnyvale, CA)\n* Clinically significant diarrhea (\u22653 diarrheal bowel movements per day or \u22651 diarrheal bowel movement plus abdominal pain)\n* \u226518 years of age.\n\nExclusion Criteria:\n\n* The presence of a condition associated with persistent / prolonged / recurrent diarrhea, including, but not limited to:\n* Upcoming chemotherapy\n* Previous or upcoming bone marrow/hematopoietic stem cell transplant,\n* Leukemia: new, not in remission, or receiving chemotherapy\n* Inflammatory bowel disease\n* Crohn's disease\n* Ulcerative colitis\n* Microscopic colitis\n* Previous total colectomy\n* Previous partial colectomy without return to formed bowel movement or previous resection of colon\n* Colostomy or ileostomy\n* Unable to follow study procedures\n* Not expected to survive until study follow-up is complete\n* Allergy or intolerance to oral vancomycin\n* A history of CDI in the past 3 months\n* Alternate infectious etiology for diarrhea\n* Receipt of CDI antibiotic treatment (excluding empiric treatment given while pending EIA results)\n* Does not provide consent will exclude a patient from participating in the trial.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Clostridium Difficile Infection",
+    "Diarrhea"
+  ],
+  "overall_status": "COMPLETED"
+}

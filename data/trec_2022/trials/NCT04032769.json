@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04032769",
+  "title": "Modified Strategy to Safely Rule Out Pulmonary Embolism in the Emergency Department",
+  "brief_summary": "Because a missed PE could be potentially lethal, several researches reported that PE is both overinvestigated and overdiagnosed. The diagnostic gold standard for PE is the computed tomographic pulmonary angiogram (CTPA) and has been shown to have clear risks and other downsides. To limit the use of CTPA, two rules were recently reported to be safe to exclude PE: the PERC rule and the YEARS rule. PERC is an 8 item block of clinical criteria that has recently been validated to safely exclude PE in low risk patients. YEARS is a clinical rule that allow to raise the threshold of D-dimer for the order of CTPA. However, whether a modified diagnostic algorithm that includes these two rules combined could safely reduce imaging study use in the ED is unknown.\n\nThis is a non-inferiority, cluster cross-over randomized, international trial.\n\nEach center will be randomized on the sequence of period intervention: 4 months intervention (MOdified Diagnostic Strategy: MODS) followed by 4 months control (usual care), or 4 months control followed by 4 months intervention with 1 month of \"wash-out\" between the two periods.\n\nAll centers will recruit adult emergency patients with a suspicion of PE.\n\nIn the control group (usual strategy), patients will be tested for D-dimer, followed if positive by a CTPA.\n\nIn the intervention group (MODS) :\n\nAll included patients will be tested with quantitative D-dimer. The MODS work-up will be based on YEARS rule :\n\n\\- If all YEARS criteria are absent, the threshold of D-Dimer for ordering a CTPA will be raised.\n\nIf at least one criterion of YEARS is present, then the D-dimer threshold for ordering a CTPA will be as usual.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient aged \u2265 18 years that presents to an ED\n* With new onset of or worsening of shortness of breath or chest pain or syncope\n\nExclusion Criteria:\n\n* Opposition to the participation to the study\n* Anticipated inability to follow up at 3 month\n* Other obvious cause than PE for chest pain, syncope or dyspnea\n* High clinical probability of PE (estimated by the physician gestalt as \\> 50%) or low clinical probability and PERC negative patients\n* Low clinical probability (estimated by the physician gestalt as \\< 15%) and no item of the PERC score (heart rate \\> 100, Sa02 \\< 95, unilateral leg swelling, hemoptysis, past history of thrombo-embolism, exogen estrogen intake, recent trauma or surgery, age \u2265 50)\n* Acute severe presentation (clinical signs of respiratory distress, hypotension, SpO2\\<90%, shock)\n* Concurrent anticoagulation treatment\n* Current diagnosed thrombo-embolic event (in the past 6 months)\n* Prisoners\n* Pregnancy\n* No social security\n* Participation in another intervention trial",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pulmonary Embolism"
+  ],
+  "overall_status": "COMPLETED"
+}

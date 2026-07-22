@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01046123",
+  "title": "Volumetric Modulated Arc Therapy (VMAT) for Brain Metastases",
+  "brief_summary": "Radiotherapy to the whole brain is standard treatment for cancer that has spread to the brain (brain metastases) as it treats both the metastases that can be seen on scans and the brain metastases that are too small to be seen on scans.\n\nThis study will use a novel radiotherapy technique, called volumetric modulated arc therapy (VMAT), to treat patients with brain metastases. This technique allows delivery of both a standard radiation dose to the whole brain as well as a higher radiation dose to the brain metastases at the same time.\n\nThe study will assess the effectiveness of using VMAT in treating brain metastases, and examine its potential side-effects.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \u2265 18\n* pathologically confirmed solid malignancy diagnosed within the past 5 years (if the original pathological cancer diagnosis is more than 5 years earlier, a biopsy to confirm metastatic relapse within the past 5 years is required)\n* 1-10 brain metastases\n* Maximum diameter of largest metastasis \u2264 3 cm\n* KPS \u2265 70\n* Patient is neurologically stable with or without corticosteroids\n* Extracranial disease well-controlled (6-month estimated median life expectancy).\n* Available for regular clinical and imaging follow up\n* Prior craniotomy permitted\n\nExclusion Criteria:\n\n* Require craniotomy to relieve mass effect\n* Previous cranial radiotherapy\n* Metastatic germinoma, small cell carcinoma, multiple myeloma, lymphoma or leukaemia.\n* Chemotherapy administered within one week before radiotherapy or planned within one week after radiotherapy.\n* Metastases within 0.7 cm of the optic chiasm, brainstem or optic nerves\n* Brainstem metastases\n* Systemic lupus erythematosis, scleroderma, or other connective tissue disorders not in remission\n* Multiple sclerosis\n* Glomerular Filtration Rate \\< 60 ml/minute\n* Non-small cell lung cancer with liver metastases\n* Bilirubin \\> upper normal limit\n* AST or ALT \\> 2X upper normal limit\n* Pregnancy\n* Summed volume of all metastasis PTVs \\> 50 cm3",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Brain Metastases"
+  ],
+  "overall_status": "UNKNOWN"
+}

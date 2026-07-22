@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT06585891",
+  "title": "Study of a Human Bispecific Antibody VRC-HIVMAB0121-00-AB (CAP256J3LS) Administered Intravenously or Subcutaneously to Healthy Adults",
+  "brief_summary": "Background:\n\nHIV (human immunodeficiency virus) is the virus that causes AIDS (acquired immunodeficiency syndrome). Researchers want to find new ways to treat or prevent HIV infection. CAP256J3LS is a new product that uses antibodies. Antibodies are naturally occurring proteins; they target and disable disease-causing agents such as viruses. This new product may be able to stop HIV infections.\n\nObjective:\n\nTo test the safety of CAP256J3LS in healthy people.\n\nEligibility:\n\nPeople aged 18 to 60 years in good general health.\n\nDesign:\n\nCAP256J3LS can be administered in 2 ways: (1) by a shot under the skin into the belly fat or (2) through a tube inserted into a vein in the arm. Participants will be divided into 6 groups: The study will open with the lowest dose of study product. The dose groups are spaced out to allow the study team to look over the safety data in each group. If there are no safety concerns in the lowest dose, then the next higher dose groups will be enrolled. This pattern will continue until all dose groups are enrolled.. Also, some participants will receive only 1 dose; others will receive 3 doses, each spaced 12 weeks apart.\n\nThose who receive only 1 dose of the study drug will have 14 clinic visits over 6 months. Those who get 3 doses will have 27 visits over 11 months. Participants will provide blood samples at each visit. Urine samples may also be needed.\n\nAll participants will get a thermometer and a measuring tool. They will measure any redness, swelling, or bruising they have at the injection site. They will check their temperature every day for 7 days after receiving the study drug. They will record their highest temperatures and any symptoms they have.\n\n...",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nA participant must meet all of the following criteria:\n\n1. Willing and able to complete the informed consent process.\n2. Able to provide proof of identity to the satisfaction of the study clinician completing the enrollment process.\n3. Available for clinical follow-up through the last study visit.\n4. 18 to 60 years of age.\n5. In good general health without a clinically significant medical history.\n6. Physical examination without clinically significant findings within the 56 days prior to enrollment.\n7. Adequate venous access if assigned to an IV group or adequate abdominal subcutaneous tissue if assigned to a SC group.\n8. Willing to have blood samples collected, stored indefinitely, and used for research purposes.\n\n   Laboratory Criteria within 56 days prior to enrollment:\n9. White blood cell count (WBC): 2,500-12,000/mm\\^3.\n10. WBC differential either within institutional normal range or accompanied by the Principal Investigator (PI) or designee approval, excluding absolute lymphocyte count which must not be lower than normal range.\n11. Platelets: 125,000 - 400,000/mm\\^3.\n12. Hemoglobin within institutional normal range or is lower than normal range but does not meet Grade 1 criteria and is not clinically concerning.\n13. Creatinine: \\<= 1.1 x Upper Limit of Normal (ULN).\n14. ALT: \\<= ULN.\n15. AST: \\<= ULN.\n16. ALP: \\<= ULN.\n17. Total bilirubin within institutional normal range or is outside normal range but does not meet Grade 1 criteria and is not clinically concerning\n18. Direct bilirubin: \\<= ULN\n19. Negative HIV 1/2 Antibody/Ag test.\n\n    Female-Specific Criteria:\n20. Agrees to use an effective means of birth control from 21 days prior to enrollment through the duration of study participation.\n21. Negative beta-HCG (human chorionic gonadotropin) pregnancy test (urine or serum) on day of enrollment for women presumed to be of reproductive potential.\n\nEXCLUSION CRITERIA:\n\nA participant will be excluded if one or more of the following conditions apply:\n\n1. Woman who is breast-feeding or planning to become pregnant during study participation.\n2. Weight \\> 115 kg.\n3. Any history of a severe allergic reaction with generalized urticaria, angioedema or anaphylaxis prior to enrollment that has a reasonable risk of recurrence during the study.\n4. Hypertension that is not well controlled.\n5. Receipt of any investigational study product within 28 days prior to enrollment.\n6. Receipt of an investigational HIV vaccine or anti-HIV monoclonal antibody.\n7. Receipt of any live attenuated vaccine within 28 days prior to enrollment.\n8. Receipt of any vaccine within 2 weeks prior to enrollment.\n9. Known history of Gilbert's syndrome.\n10. Known history of kidney or liver disease.\n11. Diabetes mellitus (type I or II), with the exception of a history of gestational diabetes.\n12. More than 10 days of systemic immunosuppressive medications or cytotoxic medications within the 4 weeks prior to enrollment or any within 14 days prior to enrollment.\n13. Bleeding disorder diagnosed by a doctor (e.g., factor deficiency, coagulopathy, or platelet disorder requiring special precautions) or significant bruising or bleeding difficulties with IM injections or blood draws.\n14. Any other chronic or clinically significant medical condition that in the opinion of the investigator would jeopardize the safety or rights of the volunteer, including but not limited to diabetes mellitus, hepatitis, asthma, infectious disease, autoimmune disease, psychiatric disorder, heart disease, cancer and clinically significant forms of drug or alcohol abuse.",
+  "minimum_age": "18 Years",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "HIV Infection"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a phase 1 safety study of a bispecific antibody in healthy adults with no history of HIV infection or significant medical conditions. There is no line-of-therapy intent as the study population is healthy volunteers, not patients with advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "The eligibility criteria require healthy adults with negative HIV tests and no significant medical history; no prior systemic therapy for advanced disease is relevant or allowed. This is a healthy volunteer study, so all participants are treatment-naïve."
+    }
+  ]
+}

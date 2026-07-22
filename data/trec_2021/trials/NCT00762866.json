@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00762866",
+  "title": "Psychiatric Genotype/Phenotype Project Repository",
+  "brief_summary": "The purpose of this project is to obtain DNA, brain imaging data, other biological samples (e.g., urine, serum), and a comprehensive clinical assessment on patients with schizophrenia and other psychotic disorders, bipolar disorder, major depression, and normal volunteer controls. Understanding the physical and genetic factors related to these disorders will help us make progress in fitting treatments to an individual's needs. Participants will take part in a detailed clinical assessment, two blood draws, and an MRI scan over two visits. Participants will also be asked to provide urine and saliva samples.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Between the ages of 16 and 65\n2. Able and willing to provide informed consent\n3. Able to read and speak English sufficiently to provide consent and answer questions\n4. Diagnosis of one of the following:\n\n   * Unipolar Major Depressive Disorder of any subtype\n   * Bipolar I, Bipolar II Disorder, or Bipolar Disorder NOS\n   * Axis I Psychotic Disorder, which can include the diagnoses of Schizophrenia, Schizoaffective Disorder, Major Depression or Mania with Psychotic Features, Schizophreniform Disorder, Brief Psychotic Episode, or Psychotic Disorder NOS\n   * Normal volunteer controls, individuals with no personal history of any Axis I disorder.\n\nExclusion Criteria:\n\n1. Reported pregnancy or breastfeeding\n2. Dementia or delirium\n3. Any medical condition that would interfere with participation in the study. This would include, but not be limited to:\n\n   * uncontrolled diabetes, hypothyroidism, Cushing's disease, or other significant endocrine condition (treated endocrine condition is allowed)\n   * demyelinating disease\n   * HIV infection\n   * active hepatitis\n   * CNS infection\n   * clinically significant and unstable cardiovascular disease\n   * any cancer involving the CNS (including metastatic disease)\n4. Exclusion criteria for normal control subjects include any history of mental illness or psychotropic drug abuse.\n5. Participants will be excluded from the imaging portion of the study if they have any condition deemed to interfere with PET or MRI scanning, such as but not restricted to extreme obesity, metal fragments in eyes, metal implants in the head, or cochlear implant. These participants may still take part in the portion of the study involving the clinical assessment and providing biological samples.",
+  "minimum_age": "16 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Outpatient Mental Health Clinic, Inpatient Psychiatric Hospital, Research Volunteers",
+  "condition": [
+    "Depressive Disorder, Major",
+    "Bipolar Disorder",
+    "Psychotic Disorders"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION"
+}

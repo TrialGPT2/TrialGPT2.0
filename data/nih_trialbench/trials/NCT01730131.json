@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT01730131",
+  "title": "Natural History Study of Progressive Multifocal Leukoencephalopathy (PML)",
+  "brief_summary": "Background:\n\n\\- Progressive multifocal leukoencephalopathy (PML) is a severe viral infection of the brain. It is caused by JC virus. Many people have this virus in their bodies all their life, but it is usually kept in check by their immune system. If the immune system does not work right because of a disease or medication, the virus becomes active and can damage cells in the brain. Not much is known about PML or how it affects the immune system. Researchers want to study people with PML to better understand the natural history of the disease.\n\nObjectives:\n\n\\- To study the natural history of PML.\n\nEligibility:\n\n\\- Individuals at least 2 years of age who have PML.\n\nDesign:\n\n* Participants will be screened with a physical exam, medical history, and imaging studies.\n* Participants will have several visits to the National Institutes of Health Clinical Center. There will be an initial visit, monthly visits for the next 6 months, a 12-month visit, and possible visits afterward.\n* At the initial visit, participants will give blood, urine, and spinal fluid samples. They will also have neurological tests and imaging studies of the brain.\n* For the next five visits, participants will give blood and urine samples. They will also have neurological tests and imaging studies of the brain.\n* The 6-month and 12-month visits will repeat the tests from the initial visit.\n* Other optional procedures include bone marrow samples and skin biopsies. Additional blood tests and imaging studies may be performed.\n* Treatment will not be provided as part of this study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Suspected or confirmed PML\n  2. MRI compatible with PML\n  3. Able to participate in the studies and follow-up required by the protocol\n  4. At least 2 years old\n\nEXCLUSION CRITERIA:\n\n1. Significant condition, which in the judgment of the principal investigator, would make participation in the diagnostic and research parts of evaluation impossible or risky\n2. Medical contraindication to MRI (i.e., devices such as a cardiac pacemaker or infusion pump, other metallic implants, metallic foreign objects, body piercings that cannot be removed)\n3. Pregnancy\n4. Inability to provide informed consent, either directly or via legally authorized representative (LAR)\n5. Unwillingness to consent for collection of biological samples or their cryopreservation",
+  "minimum_age": "2 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Primary clinical for participants that have PML or at risk for PML and community sample/healthy relatives for healthy volunteers.",
+  "condition": [
+    "Progressive Multifocal Leukoencephalopathy"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional natural history study of patients with suspected or confirmed PML. There are no requirements or restrictions regarding prior systemic therapy or lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy or lines of therapy for advanced/metastatic disease. All patients with PML are eligible regardless of treatment history."
+    }
+  ]
+}

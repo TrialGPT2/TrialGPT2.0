@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT05031780",
+  "title": "A Study Evaluating the Efficacy and Safety of Mitapivat (AG-348) in Participants With Sickle Cell Disease (RISE UP)",
+  "brief_summary": "This clinical trial is a Phase 2/3 study that will determine the recommended dose of mitapivat and evaluate the efficacy and safety of mitapivat in sickle cell disease by testing how well mitapivat works compared to placebo to increase the amount of hemoglobin in the blood and to reduce or prevent the occurrence of sickle cell pain crises. In addition, the long-term effect of mitapivat on efficacy and safety will be explored in an open-label extension portion.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 16 years or older (18 years or older \\[France and Germany\\]); participants age 16 or 17 years must physically have completed puberty;\n* Documented diagnosis of sickle cell disease (SCD) (HbSS, HbSC \\[combined heterozygosity for hemoglobins S and C\\], HbS/beta 0- thalassemia, HbS/ beta plus thalassemia, or other sickle cell syndrome variants);\n* At least 2 SCPCs and no more than 10 SCPCs in the past 12 months;\n* Hemoglobin at least 5.5 and 10.5 gram per deciliter (g/dL) at the most. Hemoglobin concentration must be based on an average of at least 2 Hb concentration measurements (separated by ≥7 days) collected during the Screening Period;\n* If taking hydroxyurea, the hydroxyurea dose must be stable for at least 90 days before starting study drug. Discontinuation of hydroxyurea requires a 90-day washout prior to informed assent/consent;\n* Women capable of becoming pregnant must agree to use 2 forms of contraception.\n\nExclusion Criteria:\n\n* Pregnant, breastfeeding, or parturient;\n* Receiving regularly scheduled transfusions;\n* Hepatobiliary disorders including but not limited to significant liver disease or gallbladder disease;\n* Severe kidney disease;\n* Prior exposure to gene therapy or prior bone marrow or stem cell transplantation;\n* Currently receiving treatment with a disease-modifying therapy for SCD (eg, voxelotor, crizanlizumab, L-glutamine), with the exception of hydroxyurea. The last dose of voxelotor, crizanlizumab, and L-glutamine must have been administered at least 90 days before randomization;\n* Currently receiving treatment with hematopoietic stimulating agents; the last dose must have been administered at least 90 days before starting study drug;\n* Received treatment on another investigational trial within 90 days prior to start of study drug or plans to participate in another investigational drug trial;\n* Taking medications that are strong inhibitors of CYP3A4/5 or strong inducers of CYP3A4 that cannot be stopped in an acceptable timeframe before starting study drug (timeframe will be discussed with your doctor).",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sickle Cell Disease"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with sickle cell disease regardless of prior lines of systemic therapy for advanced disease. There are no requirements or restrictions based on prior systemic therapy for advanced or recurrent disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "any line",
+      "line_of_therapy_text": "The eligibility criteria do not specify any required or maximum number of prior systemic therapies for advanced disease. Patients may be treatment-naïve or previously treated, as long as they are not currently receiving certain disease-modifying therapies (except hydroxyurea, which is allowed if stable)."
+    }
+  ]
+}

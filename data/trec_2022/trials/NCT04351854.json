@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04351854",
+  "title": "Registry for Clinical Presentation and Management of Patients With COVID-19 in the Emergency Room",
+  "brief_summary": "Patients with COVID-19 usually present in the ED and receive their initial medical check-up here. We will try to gather information of comorbidities and other conditions at the time of presentation of COVID-19 patients to the ED. The course of the disease prior to admission as well as the momentary health status at presentation to the ED are of interest because they influence risk stratification and decision-making of treating physicians. The ratio of patients with mild or moderate to severe symptoms will help to calculate the need for hospital beds including beds on Intensive Care Units (ICU) and Intermediate Care Units (IMC), as well as the need for other hospital resources.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinical suspicion or evidence of SARS-CoV-2-infection on presentation in the ED\n\nExclusion Criteria:\n\n* None",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with clinical suspicion or evidence of SARS-CoV-2-infection on presentation in the ED and matching controls, based on demographics, underlying diseases and duration of hospital stay (i.e. one control per case, both in the same hospital).",
+  "condition": [
+    "Corona Virus Infection",
+    "SARS-CoV 2"
+  ],
+  "overall_status": "COMPLETED"
+}

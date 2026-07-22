@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04481620",
+  "title": "Development and Validation of a Prediction Model for the Transition From Mild to Moderate Form of COVID-19, Using Data From Chest CT",
+  "brief_summary": "Only 5% of patients infected with COVID-19 develop severe or critical Coronavirus disease 2019 (COVID-19) and there is no reliable risk stratification tool for non-severe COVID-19 patients at admission.\n\nFinding a way to predict which patients with an initial mild to moderate presentation of COVID-19 would develop severe or critical form of COVID-19 according to CT-scan data, simple clinical and biological parameters is challenging. In this multicentric study, the study aims to construct a predictive score for early identification of cases at high risk of progression to moderate, severe or critical COVID-19 combining simple clinical and biological parameters and qualitative, quantitative or artificial intelligence (AI) data from the initial CT from non-severe patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* First chest CT, assessed for respiratory symptoms, without injection of contrast agent for respiratory symptoms, and whose results of the CT subjective visual analysis are compatible or typical of COVID-19\n* biological diagnosis of COVID-19 (RT-PCR) or clinical suspicion (cough and / or dyspnea and / or fever and / or need to use oxygen therapy as part of routine care) at the time of the examination\n* Authorization of the patient for the processing of his personal data, except CNIL exemption\n\nExclusion Criteria:\n\n* Patient with a moderate (oxygen between 3 and 5 L / min to achieve saturation greater than 97% and a respiratory rate \\<25 / min without the need for invasive ventilation), severe form (oxygen therapy\\> 5L / min to obtain a SpO2\\> 97%) or critical form (need to resort to ventilation and / or orotracheal intubation) at the date of the first chest CT\n* Age \\< 18 years old\n* Patient deprived of liberty by judicial decision",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with suspicion of Covid-19",
+  "condition": [
+    "COVID-19"
+  ],
+  "overall_status": "COMPLETED"
+}

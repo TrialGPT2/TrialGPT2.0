@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01639365",
+  "title": "SmartTouch Catheter in Ablation of Ventricular Tachycardia",
+  "brief_summary": "The pressure exerted by the ablation catheter on the tissue has been shown to play an important role on determining the size and the potential efficacy of the ablation lesions. A direct information on the force exerted by the catheter tip obtained from the SmartTouch technology might improve the assessment of the scar areas during electroanatomical mapping in patients with ventricular tachycardia (VT) due to ischemic disease or cardiomyopathy. The objectives of the study are to compare the areas of scar (defined as a low-voltage threshold) obtained from the conventional voltage map with those obtained after the contact map information is available to the operator and to determine if the availability of the contact information allows an improvement of the electroanatomic map by correcting the points taken in no-contact areas. Twenty to 30 consecutive patients with ventricular arrhythmias due to ischemic heart disease or dilated cardiomyopathy undergoing VT ablation will be included in a prospective, one-center, non-randomized study. A voltage map of the left ventricle will be obtained using the CARTO-3 navigation system and the scar areas as well as the areas of potential interest for ablation will be delineated in the standard way and saved as the control map. The force information will be recorded by the system but will not be available to the operator until the control map is saved. Following this step the contact map will be available to the operator to be compared with the control map and further mapping and point acquisition will be allowed to correct the areas previously acquired with poor or no contact. The final map after corrections have been made will be saved as the corrected map. The ablation procedure will then be performed as usual. Both maps will be compared in a deferred way to know how are classified the areas without contact when no pressure information is available, and how many non-contact points are falsely assumed to be low-voltage or dense scar points. These comparisons will give information on how much the standard electroanatomic map can be improved when the force information is added.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Consecutive patients with ventricular arrhythmias due to ischemic heart disease or dilated cardiomyopathy undergoing VT ablation\n\nExclusion Criteria:\n\n* Age \\<18 years, absence of signed informed consent or critical clinical status that precludes a detailed mapping procedure",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Consecutive patients with ventricular arrhythmias due to ischemic heart disease or dilated cardiomyopathy undergoing VT ablation",
+  "condition": [
+    "Arrhythmias, Cardiac",
+    "Tachycardia, Ventricular",
+    "Myocardial Infarction",
+    "Cardiomyopathies"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00001309",
+  "title": "The Body's Affect on Vitamin C",
+  "brief_summary": "Pharmacokinetics is the term used for how the body affects a drug once it is taken. Vitamin C, also known as ascorbic acid, is an essential water soluble vitamin. Meaning, the body does not make Vitamin C it must be taken in through the diet. In this study researchers will attempt to determine how the amount of water consumed affects the level of vitamin C in the blood (specifically the plasma component of the blood).\n\nIn this study researchers will take 13 subjects and place them on a Vitamin C restricted diet. Vitamin C levels will be measured twice a week on an outpatient basis until all subjects reach a desired low level of Vitamin C (12-15 micromolar plasma ascorbic acid concentration). Subjects will then be admitted and undergo 24 hour blood and urine collection. Following the collection of samples, subjects will then begin to receive Vitamin C orally (by mouth) and intravenously (injected into the vein). The dosage of Vitamin C will gradually increase from 30 mg-2500 mg divided into two daily doses. Blood and urine samples will be collected each time the dose is increased. The study will take approximately 18 weeks after which the subjects will be discharged in healthy condition.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* 10 Males - ages 18 - 35 yrs\n* 10 Females - ages 18 - 35 yrs\n\nNo more than 4 subjects during any period will remain as inpatients on the endocrine/metabolic ward. These subjects will be normal volunteers selected from colleges/universities who will:\n\n1. Spend within a fall or spring semester (approximately 20-26 weeks) as an inpatient resident on the endocrine-metabolic ward at NIH.\n2. Be willing to adhere to an ascorbate restricted diet for the duration of the time spent in the study as an inpatient at NlH.\n3. Have veins adequate for venipunctures and be willing to undergo venipunctures approximately two to three times per week.\n4. Refrain from ingestion of any medication and cigarette smoking and ethanol.\n5. Be able to give informed consent.\n\nEXCLUSION CRITERIA:\n\n1. Subject non-compliance with restricted diet.\n2. Pregnancy as determined by history, physical exam and urine b-HCG.\n3. History of diabetes mellitus, bleeding disorders, kidney stones, glucose-6- phosphate dehydrogenase deficiency, family history of hemochromatosis/iron overload.\n4. Platelet count \\<150,000/ul blood; prothrombin time/partial thromboplastin time (PT/PTT) \\> 1 second above normal upper limit.\n5. Positive test for exposure to human immunodeficiency virus.\n6. Positive tests for hepatitis B surface antigen, core antibody or surface antibody.",
+  "minimum_age": "18 Years",
+  "maximum_age": "35 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Healthy Volunteers"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a pharmacokinetic study of vitamin C in healthy volunteers and does not involve cancer patients or systemic therapy for advanced disease. There is no line-of-therapy intent applicable to this trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study enrolls healthy volunteers without cancer and does not involve any systemic therapy for advanced or metastatic disease. No line-of-therapy criteria are specified or applicable."
+    }
+  ]
+}

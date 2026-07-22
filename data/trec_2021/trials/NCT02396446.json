@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02396446",
+  "title": "AbStats at the Bedside: Improving Patient Feeding Decisions Using an Abdominal Acoustic Score",
+  "brief_summary": "This study is being conducted to determine whether providers who have access to their patients' acoustic intestinal rate score as calculated by an abdominal acoustic sensor that continuously monitors bowel sounds (AbStats) will be more likely to advance their patients' diets to a solid diet sooner than those who do not have access to this rate. AbStats calculates intestinal rates by using two small sensors placed on a patient's abdomen to measure and analyze their abdominal sounds.\n\nPatients will be asked to wear a sensor every morning for 20 minutes while they are fasting daily during their inpatient visit. The sensor will measure the sounds within their abdomen. This data will be interpreted by the AbStats device, which will provide an intestinal rate measurement based on the sounds recorded by the sensors.\n\nThis intestinal rate will be provided to the patient's treating physician together with other vital signs. The doctor, at his/her discretion, may choose to use this information to make decisions about the patient's feeding status.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Awake and alert\n* Not on a regular diet\n* No mild to moderate acute pancreatitis\n* No obstructed bowel not amenable to feeding tube placement beyond the obstruction\n* No massive GI hemorrhage\n* No impending or established toxic megacolon\n* No colonic perforation\n* No severe dysmotility making enteral feeding not possible\n* No high output intestinal fistula\n* Able to access the gut for enteral feeding\n* No abdominal compartment syndrome\n* No withdrawal of care/DNAR status\n* No evidence of severe or prolonged ileus\n* No hemodynamic compromise (MAP \\<60) requiring high dose vasopressors alone or in combination with large volume fluid or blood product resuscitation to maintain cellular perfusion\n* No diffuse peritonitis\n* No intractable vomiting\n* Not pregnant\n* At least 18 years of age\n\nExclusion Criteria:\n\n* Not awake and alert\n* On regular diet\n* Mild to moderate acute pancreatitis\n* Obstructed bowel not amenable to feeding tube placement beyond the obstruction\n* Massive GI hemorrhage\n* Impending or established toxic megacolon\n* Bowel perforation\n* Severe dysmotility making enteral feeding impossible\n* High output intestinal fistula\n* Unable to access the gut for enteral feeding\n* Abdominal compartment syndrome\n* Withdrawal of care/DNAR status\n* Severe ileus with NG output \\>1200 ml/d or gastric residual volumes \\>400 with additional signs of intolerance including absence of bowel sounds, abdominal distention, presence of air/fluid levels on abdominal radiographs\n* Hemodynamic compromise (MAP \\<60) requiring high dose vasopressors alone or in combination with large volume fluid or blood product resuscitation to maintain cellular perfusion\n* Diffuse peritonitis\n* Intractable vomiting\n* Pregnant women\n* Under 18 years of age",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Inpatients at CSMC",
+  "condition": [
+    "Fasting",
+    "Diet",
+    "Biosensing Techniques"
+  ],
+  "overall_status": "WITHDRAWN"
+}

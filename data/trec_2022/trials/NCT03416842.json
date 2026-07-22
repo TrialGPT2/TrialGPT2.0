@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03416842",
+  "title": "Home Exercise With Wearable Sensors",
+  "brief_summary": "Repetitious motor therapy has been shown to yield the greatest improvement in motor function in those who suffer hemiplegia because of a neurological impairment. However, motor therapy remains largely clinically based due to the absence of quantitative home-based therapy technology or equipment. With the current lack of accountability, patient adherence to home exercise physical therapy programs is estimated to be as low as 35%. In response, some companies have extended the applications of their motion capture devices to be used for home-based physical therapy. However, the technologies often have not passed their initial stages of development. In contrast, a company named 4D Motion is actively working alongside the Restorative Neurology Clinic at Burke Medical Research Institute to develop a motion capture system tailored to the motor rehabilitation of hemiplegic stroke patients. This device is driven by a user's active range of motion and does not impart electrical or mechanical stimulation to the user. The device does not force the user beyond their active range of motion and does not apply resistance to motion that limits the user's capability. The 4D Motion capture system is only used to record what the patient is doing and to promote adherence to their prescribed physical therapy plan.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "DEVICE_FEASIBILITY",
+  "raw_criteria": "Inclusion Criteria:\n\n* Able to follow 1-2 step commands\n* Neurological deficit leading to hemiparesis or hemiplegia with a sensorimotor deficit\n* Fugl Meyer Upper Extremity Score of at least 20/66\n\nExclusion Criteria:\n\n* Has a metal implant anywhere on or inside the body\n* Fixed contracture or deformity of affected upper extremity\n* Individuals with bilateral stroke (i.e. if both arms are affected)\n* Unable to tolerate repetitious movement as determined by Likert Scale Rating greater than 5 out of 10",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke",
+    "Hemiparesis"
+  ],
+  "overall_status": "COMPLETED"
+}

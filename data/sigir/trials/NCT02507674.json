@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02507674",
+  "title": "Point of Care 3D Ultrasound for Pediatric Appendicitis: a Pilot Study",
+  "brief_summary": "1. Purpose and Objective: The purpose of this study is to test the feasibility of rapid acquisition of point of care 3D ultrasound for pediatric appendicitis. The study will use a newly developed acquisition method and post-processing technique to create three dimensional image models of the abdomen.\n2. Study activities and population group. The study population will be a convenience sample of patients 18 years and younger with suspected appendicitis, whose clinical care (unrelated to the study) includes ultrasound and/or CT of the abdomen. The study intervention includes acquisition of research ultrasound images, which will not be used for clinical care, and comparison of these images with clinically obtained images. Other clinical data such as surgical and pathology reports will also be reviewed. If not evident from the patient medical record, the final diagnosis will be confirmed by a telephone call to the subject 2 weeks after the initial visit.\n3. Data analysis and risk/safety issues. This is a pilot study intended to determine feasibility and to refine image reconstruction algorithms. Research images will be compared to clinical images to determine the frequency of visualization of the appendix and whether the appendix was deemed normal or abnormal. Comparison of research images with final diagnosis will also occur. The research intervention, an ultrasound exam, has no known safety risks. The only risk to subjects is loss of confidentiality.\n\nThis study is observational, not interventional, because the experimental ultrasound will be performed in all subjects and will not be used in the clinical care of patients (consequently, will not have the opportunity to affect clinical outcomes). Experimental images will be reviewed after completion of clinical care and will not be provided to the clinicians caring for the subjects. We are not measuring the effect of the ultrasound examination on the subjects' outcomes.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Potential subjects must be 0-18 years of age, presenting to the pediatric emergency department for evaluation of right lower abdominal pain and suspected appendicitis.\n* The clinical diagnostic plan before subject enrollment must include abdominal ultrasound and/or abdominal CT.\n\nExclusion Criteria:\n\n* Because ultrasound does not involve the use of ionizing radiation or contrast agents, it is not contraindicated in any patients, although image quality may be nondiagnostic in obese patients. The focus of this study is on acquisition of research 3D POC US images to determine feasibility of use in pediatric patients with suspected appendicitis.\n* Patients with BMI \\>30 or mass \\>70kg, as these patients are anticipated to have nondiagnostic ultrasound images.\n* Ultrasound also requires a gel material be applied to the skin surface as an acoustic transmission medium. Allergy to such gel will be an exclusion criterion.",
+  "minimum_age": "",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Potential subjects must be 0-18 years of age, presenting to the pediatric emergency department for evaluation of right lower abdominal pain and suspected appendicitis. The clinical diagnostic plan before subject enrollment must include abdominal ultrasound and/or abdominal CT.",
+  "condition": [
+    "Appendicitis"
+  ],
+  "overall_status": "COMPLETED"
+}

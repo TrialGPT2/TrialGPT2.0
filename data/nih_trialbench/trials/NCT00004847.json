@@ -1,0 +1,45 @@
+{
+  "nctid": "NCT00004847",
+  "title": "Diagnosis of Pheochromocytoma",
+  "brief_summary": "The goal of this study is to develop better methods of diagnosis, localization, and treatment for pheochromocytomas. These tumors, which usually arise from the adrenal glands, are often difficult to detect with current methods. Pheochromocytomas release chemicals called catecholamines, causing high blood pressure. Undetected, the tumors can lead to severe medical consequences, including stroke, heart attack and sudden death, in situations that would normally pose little or no risk, such as surgery, general anesthesia or childbirth.\n\nPatients with pheochromocytoma may be eligible for this study. Candidates will be screened with a medical history and physical examination, electrocardiogram, and blood and urine tests. Study participants will undergo blood, urine, and imaging tests, described below, to detect pheochromocytoma. If a tumor is found, the patient will be offered surgery. If surgery is not feasible (for example, if there are multiple tumors that cannot be removed), evaluations will continue in follow-up visits. If the tumor cannot be found, the patient will be offered medical treatment and efforts to detect the tumor will continue. Main diagnostic and research tests may include the following:\n\n1. Blood tests - mainly measurements of plasma or urine catecholamines and metanephrines as well as methoxytyramine. If necessary the clonidine suppression test can be carried out.\n2. Standard imaging tests - Non-investigational imaging tests include computed tomography (CT), magnetic resonance imaging (MRI), sonography, and 123I-MIBG scintigraphy and FDG (positron emission tomography) PET/CT. These scans may be done before and/or after surgical removal of pheochromocytoma.\n3. Research PET scanning is done using an injection of radioactive compounds. Patients may undergo 18F-FDOPA, 18F-DA, as well as 68Ga-DOTATATE PET/CT . Each scan takes up to about 2 hours.\n4. Genetic testing - A small blood sample is collected for DNA analysis and other analyses.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPatients are eligible for inclusion in this study if they are adults or children of age 3 years old and up with known, sporadic or familial PHEO/PGL, on the basis of one or more of the following:\n\n1. High levels of blood or urinary catecholamines, metanephrines, methoxytyramine or chromogranin A.\n2. Highly suspected presence of PHEO/PGL based on imaging studies, even with normal biochemistry.\n3. Personal or family history of PHEO/PGL or genetic pathogenic variants known to predispose individuals to develop PHEO/PGL.\n\nSigned informed consent is required. The informed consent may be signed by the patient, parent/guardian in pediatric patients or legally authorized representative (LAR) in adults who lack-decision making capacity to consent to research participation.\n\nPatients must have an outside general practitioner or endocrinologist. Patients with metastatic disease must also have an outside oncologist.\n\nFamily Members of Patients Arm (Linkage Analysis)\n\nParticipants are eligible for inclusion in this study arm if they are:\n\n* Adult family members of patients enrolled in this study;\n* The index family member in this study has a suspected hereditary PHEO/PGL based on previous genetic testing and other suspicious hereditory patterns such as family history of multiple individuals with PHEO/PGL; early age of disease onset; multiplicity of primary tumors; recurrence, etc. and\n* Signed informed consent form is required\n\nEXCLUSION CRITERIA:\n\nPotential patients will be excluded on the basis of one or more of the following:\n\n1. Pregnant or breastfeeding women\n2. Severe cardiac dysfunction\n3. Currently on dialysis\n\nA pregnancy test is performed in women of childbearing age (up to age 55) as a screening after consenting. If a patient is found to have a positive pregnancy test, her participation in this protocol will be terminated. The patient can enroll or re-enroll in the protocol when she is no longer pregnant or breastfeeding.\n\nIn-person participating patients who are not willing to return to the NIH (e.g., after surgery or an initial evaluation) for more than 2 years may be removed from the protocol.\n\nSPECIFIC INCLUSION/EXCLUSION CRITERIA FOR IMAGING STUDIES WITHIN OUR PROTOCOL:\n\nIn adult patients (Excludes Linkage Analysis Arm)\n\nImaging studies are not done in patients that have the following exclusion criteria:\n\n* Inability to lie still for the entire imaging time (e.g., cough, severe arthritis, etc.).\n* Inability to complete the needed investigational and standard-of-care imaging examinations due to other reasons (e.g., severe claustrophobia, radiation phobia, etc.)\n* Any additional medical conditions, serious illness, or other extenuating circumstance that, in the opinion of the Principal Investigator, may significantly interfere with study compliance.\n\nIn pediatric patients:\n\nInclusion criteria for research PET imaging in children:\n\n* Children over 10 years old with very high suspicion of sporadic or familial PHEO/PGL based on at least one of the following:\n\n  * The presence of new onset of symptoms typical of PHEO/PGL such as hypertension or hypertensive episodes, sweating, headaches, pallor, palpitations, drug resistant hypertension, etc.\n  * Family history of PHEO/PGL or genetic pathogenic variants known to predispose individuals to develop these tumors.\n  * The presence of a tumor on conventional imaging including ultrasound, CT and/or MRI or \\[123I\\]-MIBG or PET imaging not limited to \\[18F\\]-FDG.\n* Children must give informed assent and be willing to return to the NIH for follow-up.\n\nExclusion criteria for research PET imaging in children:\n\n* Children of less than 10 years of age.\n* Children with impaired mental capacity that precludes informed assent.\n* Inability to lie still for the entire imaging time (e.g., cough, turbulent children, severe claustrophobia, etc.).",
+  "minimum_age": "3 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pheochromocytoma",
+    "Endocrine Disease",
+    "Endocrine Diseases"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a diagnostic and observational study enrolling patients with known or suspected pheochromocytoma/paraganglioma, regardless of prior systemic therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced/metastatic disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "The eligibility criteria do not specify any requirements or restrictions regarding prior systemic therapy for advanced or metastatic disease. Both treatment-naïve patients and those previously treated for advanced disease are eligible, including those who have only received adjuvant or no prior therapy."
+    },
+    {
+      "cohort_label": "Family Members of Patients Arm (Linkage Analysis)",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "This arm enrolls adult family members of patients for genetic linkage analysis, with no history of systemic therapy for advanced disease required or expected. These participants are not cancer patients and have not received any systemic therapy."
+    }
+  ]
+}

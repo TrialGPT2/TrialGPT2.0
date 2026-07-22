@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03991702",
+  "title": "Hand Grip Strength and Medical Research Council Scale as Predictors of Weaning Failure",
+  "brief_summary": "The handgrip strength (HGS) will be measured with a digital dynamometer. Three measurements will be taken, whose average of the three measurements will be collected.\n\nMuscle weakness will be diagnosed based on previously published ICU acquired weakness (ICU-AW) scores (for males \\<11 kg and females \\<7 kg).\n\nThe overall motor function of the patient will be assessed using the Medical Research Council (MRC) scale. The maximum score of the scale is 60 points, adding the degree of muscle strength of all muscle groups tested. If the patient is unable to have one of the limbs tested, it is assumed that the limb would have the same force as the contralateral limb.\n\nA score of 48 points or less is indicative of muscle weakness. Individuals who scored between 48 and 37 points on the MRC scale are considered to have significant weaknesses; those with 36 points or less are classified as severely weak.\n\nThe HGS and the MRC scale will be compared as predictors of weaning duration of mechanical ventilation",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* age over 18 years\n* being on invasive mechanical ventilation for more than 48 hours\n* fulfill the pre-defined criteria for performing the spontaneous breathing test\n\nExclusion Criteria:\n\n\\- patients unable to perform the hand grip strength test and the MRC scale (any rheumatologic conditions, neuromuscular, amputation, cachexia, neuropsychiatric symptoms: such as confusion and delirium)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult patients on invasive mechanical ventilation for more than 48 hours and ready to perform the spontaneous breathing test.",
+  "condition": [
+    "Muscle Weakness Condition",
+    "Mechanical Ventilation Complication",
+    "Weaning Failure"
+  ],
+  "overall_status": "COMPLETED"
+}

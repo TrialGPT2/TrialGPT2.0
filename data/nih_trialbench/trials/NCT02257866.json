@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT02257866",
+  "title": "Studies of the Natural History, Pathogenesis, and Outcome of Idiopathic Systemic Vasculitis",
+  "brief_summary": "Background:\n\n\\- Vasculitis is a group of diseases that inflame and damage blood vessels and tissue. It can cause many medical problems. Few tests can diagnose the disease, and none can reliably predict a relapse. Researchers want to study people s genes and follow people over time to see how the disease affects them.\n\nObjective:\n\n\\- To learn the signs, symptoms, imaging tests, genetic markers, and blood tests that can help identify people with vasculitis and predict what will happen to them over time.\n\nEligibility:\n\n* People age 3 and older who have or are thought to have vasculitis, or are related to someone with it.\n* Healthy volunteers.\n\nDesign:\n\n* Participants will be evaluated by a doctor who has expertise caring for patients with vasculitis.\n* Participants will give a blood sample. Some will give a urine sample.\n* Some participants may have brushings or biopsies taken from the inside lining of the nose.\n* Images of participants blood vessels may be taken using scans. For some scans, participants will lie on a table that moves in and out of a cylinder that takes pictures. For some scans, a contrast agent may be injected into an arm vein. Other scans may use a radioactive form of sugar. Healthy minors will not have scans.\n* Some participants will answer questionnaires. - Some participants will have their tests done at NIH. Others will have their doctor take the blood, saliva, or cheek swab samples and send them to NIH.\n* Some participants will have one visit lasting 1-2 (but sometimes up to 4) days. Some participants may have follow-up visits every 3 - 6 months, indefinitely.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nSUBJECTS WITH VASCULITIS\n\n* Subjects who fulfill modified versions of the 1990 American College of Rheumatology (ACR) Classification Criteria for GPA31 and PAN\n* Subjects who fulfill the 1990 ACR Classification Criteria for EGPA, GCA, and TAK\n* Subjects who fulfill the 2012 Chapel Hill Nomenclature definition for MPA\n* Subjects with other suspected systemic or single-organ vasculitides\n\nHEALTHY VOLUNTEERS\n\n-Volunteers able to provide consent, or in the case of minors, assent\n\nEXCLUSION CRITERIA:\n\nSUBJECTS WITH VASCULITIS:\n\n* Subjects less than 3 years of age\n* Active malignancy, infection, or any medical condition that in the opinion of the investigator would warrant exclusion\n* Inability to provide consent, or in the case of minors, assent\n* Subjects with bleeding diathesis or on anticoagulant medications (e.g. coumadin, heparin, clopidogrel but not including aspirin or NSAIDs) are excluded from participation in nasal brushing or biopsy studies\n\nHEALTHY VOLUNTEERS\n\n* Volunteers less than 3 years of age\n* Diagnosis of vasculitis or other autoimmune/autoinflamamtory disease, including systemic lupus erythematosus, rheumatoid arthritis, sarcoidosis, mixed connective tissue disease or any overlap autoimmune syndrome\n* Active malignancy, infection, or any medical condition that in the opinion of the investigator would warrant exclusion\n* Pregnant (by history of last menstrual period) or breast feeding subjects\n* Subjects with bleeding diathesis or taking anticoagulant medications (eg coumadin, heparin, clopidogrel but not including aspirin or NSAIDs) are excluded from participating in nasal brushing studies",
+  "minimum_age": "3 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "idiopathic systemic vasculitis in children and adults",
+  "condition": [
+    "Takayasu's Arteritis",
+    "Giant Cell Arteritis",
+    "Polyarteritis Nodosa",
+    "Relapsing Polychondritis",
+    "ANCA-Associated Vasculitis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational study enrolling patients with vasculitis at any stage, as well as healthy volunteers. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, and both treated and untreated patients with vasculitis, as well as healthy volunteers, are eligible. There are no restrictions or specifications regarding lines of therapy."
+    }
+  ]
+}

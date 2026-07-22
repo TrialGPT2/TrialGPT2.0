@@ -1,0 +1,49 @@
+{
+  "nctid": "NCT04419870",
+  "title": "Acute Infection in Mitochondrial Disease: Metabolism, Infection and Immunity",
+  "brief_summary": "Background:\n\nMitochondrial disease is a rare disorder. It can cause poor growth, developmental delays, muscle weakness, and other symptoms. The disease is usually inherited. It can be present at birth or develop later in life. Infection is a major cause of disease and death in people with this disease. Researchers want to learn more about these infections and the declining health of people who have this disease. To do this, researchers will study the DNA of people who become ill. Their DNA will be compared to the DNA of their household/family members.\n\nObjective:\n\nTo learn more about how genes affect people with mitochondrial disease.\n\nEligibility:\n\nPeople age 2 months and older with mitochondrial disease and their household/family members. .\\<TAB\\>\n\nDesign:\n\nParticipants will complete a questionnaire about their health history. Their medical records may be reviewed. They will give a blood sample.\n\nIf the participant becomes ill, they may have a videoconference with a doctor or nurse at the NIH to perform a physical exam. They may be contacted after their illness to give updates on their health. They may be asked to give extra blood samples or complete extra questionnaires.\n\nParticipants genetic data will be put into a database. The data will be labeled with a code and not their name. The data will be shared with other researchers.\n\nParticipation lasts about 1 year. This may be extended if the participant is very ill.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following\n\ncriteria:\n\nGroup 1a\n\n1. Participants must be two months of age or older.\n2. Participants must have a diagnosis of mitochondrial disease based on a determination by a physician with expertise in genetics and/or neurology. Supportive evidence may include genetic testing, muscle biopsy, biochemical testing, neuroimaging or enzyme analysis consistent with mitochondrial disease.\n3. At the time of enrollment, participants must have suspected or confirmed acute infection as defined by\n\n   1. New onset of any of the following symptoms within one month of enrollment without an alternative diagnosis: fever, cough, shortness of breath, fatigue, sore throat, rhinorrhea, musculoskeletal pain, vomiting, diarrhea, anosmia, neurologic decline; AND report that testing for infection (e.g. respiratory viral panel, SARS15 COV-2 testing) is clinically indicated based on evaluation by a healthcare provider.\n\n      OR\n   2. Laboratory confirmed positive testing for an infectious disease as performed at a local healthcare setting.\n\nNote: At the time of initial approval of this protocol, testing for COVID-19/SARSCov-2 was not consistently available. In order to avoid bias by limiting recruitment to only those individuals with access to these healthcare resources, inclusion criteria for participants with acute illness were intentionally kept broad. Participants in Group 1 who were initially suspected to have COVID-19 but later found to have an alternative infectious illness were used for comparison studies. In 2023, after the end of the COVID-19 emergency, inclusion criteria for this study were broadened to focus on all acute infections in mitochondrial disease in order to characterize relationships between specific pathogens, immunophenotypes and clinical phenotypes in mitochondrial disease. Please also note that there is no minimum weight requirement for Group 1. However, there is a minimum weight requirement for phlebotomy procedures. Group 1 participants who do not meet minimum weight requirements may enroll for records and questionnaires only.\n\nGroup 1b\n\n1. Participants must be two months of age or older.\n2. Participants must have a diagnosis of mitochondrial disease based on a determination by a physician with expertise in genetics and/or neurology. Supportive evidence may include genetic testing, muscle biopsy, biochemical testing, neuroimaging or enzyme analysis consistent with mitochondrial disease.\n3. At the time of enrollment, participants may not have evidence of any acute infection.\n\nNote: Some participants may initially enroll in Group 1b and later experience acute infection, in which case they may be moved from Group 1b to Group 1a.\n\nGroup 2\n\n1. Participants must be two months of age or older.\n2. Participants must weigh greater than 4 kilograms.\n3. Participants must be household or family member of a participant in Group 1 above.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\nGroups 1 a\\&b\n\n1. Participants who are less than two months of age.\n2. Participants who do not have mitochondrial disease.\n3. Study team may decline to enroll a participant for other reasons based on clinical judgement.\n\nGroup 2\n\n1. Participants who are less than two months of age.\n2. Participants who are not household or family members of Group 1.\n3. Study team may decline to enroll a participant for other reasons based on clinical judgement.",
+  "minimum_age": "2 Months",
+  "maximum_age": "115 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Three study populations will be recruited. (Group 1a) Participants with mitochondrial disease in any location who are two months of age or older and become acutely ill; (Group 1b) Participants with mitochondrial disease in any location who are two months of age or older and are not acutely ill (Group 2) Household and family members of group 1 to serve as controls. We anticipate approximately 50 participants in group 1 and up to 150 participants in Group 2.",
+  "condition": [
+    "Mitochondrial Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of patients with mitochondrial disease and their household/family members, focusing on acute infection and genetic factors. There is no cancer or systemic therapy for advanced disease involved, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Group 1a",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Group 1a includes patients with mitochondrial disease and acute infection. There is no mention of cancer or systemic therapy for advanced/metastatic disease, so line-of-therapy intent does not apply."
+    },
+    {
+      "cohort_label": "Group 1b",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Group 1b includes patients with mitochondrial disease without acute infection. There is no reference to cancer or systemic therapy for advanced disease, so line-of-therapy intent is not applicable."
+    },
+    {
+      "cohort_label": "Group 2",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Group 2 includes household or family members of Group 1 participants. There is no cancer or systemic therapy context, so line-of-therapy intent does not apply."
+    }
+  ]
+}

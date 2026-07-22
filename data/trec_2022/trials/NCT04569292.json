@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04569292",
+  "title": "COVID-19 Infection in Cancer Pantients",
+  "brief_summary": "It's an obsevational retrospective/prospective study. Analyzing the evolution of COVID 19 infection in cancer patients can provide interesting information in the management of these patients. For this reason, the purpose of this study is to implement a registry to describe and monitor cancer patients affected by COVID 19, the factors that are associated with an unfavorable evolution, to develop a strategy for the risk assessment of these patients and recommendations. relating to their treatment.\n\nParticular attention will be paid to patients suffering from urological tumors because the treatment followed by the patients would seem to expose them to a greater risk when they are infected with coronavirus, furthermore, from the literature it is clear that there may be a connection between sex hormones and ACE2 levels in the plasma. In fact, the estrons up-regulate the concentration of ACE2 in the circulation and this could be the reason why women would seem more protected than men once they contract the coronavirus infection",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* confirmation of COVID-19 in the laboratory (RT-PCR techniques);\n* suspected cases of COVID-19; clinically diagnosed based on symptoms (fever\\> 37.5 \u00b0, decrease in oximeter saturation by at least 5%, cough, diarrhea, otitis, dysgeusia, myalgia, arthralgia, conjunctivitis and rhinorrhea) + close contact a COVID-19 subject positive;\n* asymptomatic cases; diagnosed based on positive swab results but without symptoms even dead patients\n\nExclusion Criteria:\n\n\\-",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with oncological pathology who contracted COVID 19 infection from January 1, 2020 until the WHO declaration of the end of the pandemic will be studied.",
+  "condition": [
+    "Covid19"
+  ],
+  "overall_status": "UNKNOWN"
+}

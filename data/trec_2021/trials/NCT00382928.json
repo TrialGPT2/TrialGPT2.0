@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00382928",
+  "title": "Automatic External Defibrillation Monitoring in Cardiac Arrest",
+  "brief_summary": "We propose to randomize automatic external cardioverter/defibrillators (AECD) in patients who are at high risk for life-threatening abnormal heart rhythms (arrhythmias) and are admitted to the telemetry ward, all other treatments being constant including cardiopulmonary resuscitation.\n\nWe hypothesize that the automatic, rapid, accurate and specific diagnostic and therapeutic technology used in AECDs will further increase the rate of survival in patients with cardiac arrest through rapid and automatic defibrillation, independent of operator initiation, as compared to standard cardiopulmonary resuscitation initiated by healthcare providers.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* All patients admitted to telemetry ward and emergency department\n* Age \\> 18 years.\n\nExclusion Criteria:\n\n* Pregnant women\n* Patients with R wave less than 0.5 millivolts.\n* Patients with functioning Internal Cardiac Device.\n* Patients with cardiac pacemakers if oversensing by AECD is demonstrated (double counting of pacer spikes).\n* Patients with visible chest lesions that would prevent AECD pad placement.\n* Patients who are designated Do Not Resuscitate.\n* Right bundle branch block.\n* Patients with Parkinson's disease.\n* Patients with seizure disorders",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Death, Sudden, Cardiac",
+    "Ventricular Fibrillation",
+    "Tachycardia, Ventricular"
+  ],
+  "overall_status": "COMPLETED"
+}

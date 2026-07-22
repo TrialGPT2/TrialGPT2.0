@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01867515",
+  "title": "Spectral Dynamics and Speech Understanding by Hearing Impaired People",
+  "brief_summary": "The purpose of this program of research is to understand the perception of the dynamic spectral properties of speech by hearing-impaired listeners, with the long-term goal of improving speech understanding by these individuals in adverse listening conditions. The proposed research compares the performance of normally-hearing and hearing-impaired listeners on measures of speech understanding in the presence of different types of signal distortion and speech understanding of signals with enhanced spectral dynamics. A computational model based on the amount of potential information available in speech will be used to quantify differences in speech intelligibility due to hearing status and stimulus characteristics.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n* individuals with hearing thresholds of 20 dB HL or better at all octave frequencies between 250 Hz and 4000 Hz\n* or, individuals with bilateral sensorineural hearing losses with thresholds between 25 and 70 dB HL and no losses greater than 70 dB HL at frequencies of 4000 Hz or below\n\nExclusion Criteria:\n\n* a conductive hearing impairment or other otological pathology\n* hearing thresholds greater than 70 dB HL at any frequencies of 4000 Hz or below or pure-tone averages (averaged across 500, 1000, and 2000 Hz) of greater than 65 dB HL\n* bilateral differences greater than 20 dB at any frequency below 4000 Hz\n* an inability to complete the experimental tasks",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hearing Loss, Sensorineural"
+  ],
+  "overall_status": "COMPLETED"
+}

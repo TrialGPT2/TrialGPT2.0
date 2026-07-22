@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04046055",
+  "title": "Cerebellar Transcranial Direct Current Stimulation in Parkinson's Disease",
+  "brief_summary": "Parkinson's disease (PD) is the second most common neurodegenerative disorder and affects approximately 1 million people in the United States with total annual costs approaching 11 billion dollars. The most common symptoms of PD are tremor, stiffness, slowness, and trouble with balance/walking, which lead to severe impairments in performing activities of daily living. Current medical and surgical treatments for PD are either only mildly effective, expensive, or associated with a variety of side-effects. Therefore, the development of practical and effective add-ons to current therapeutic treatment approaches would have many benefits. Transcranial direct current stimulation (tDCS) is a non-invasive brain stimulation technique that can affect brain activity and can help make long-term brain changes to improve functions like walking and balance. While a few initial research studies and review articles involving tDCS have concluded that tDCS may improve PD walking and balance, many results are not meaningful in real life and several crucial issues still prevent tDCS from being a useful add-on intervention in PD. These include the selection of stimulation sites (brain regions stimulated) and tDCS electrode placement. Most studies have targeted the motor cortex (brain region that controls intentional movement), but there is evidence that the cerebellum - which helps control gait and balance, is connected to several other brain areas, and is easily stimulated with tDCS - may be a likely location to further optimize walking and balance in PD. There is also evidence that certain electrodes placements may be better than others. Thus, the purpose of this study is to determine the effects of cerebellar tDCS stimulation using two different placement strategies on walking and balance in PD.\n\nAdditionally, although many tDCS devices are capable of a range of stimulation intensities (for example, 0 mA - 5 mA), the intensities currently used in most tDCS research are less than 2 mA, which is sufficient to produce measurable improvements; but, these improvements may be expanded at higher intensities. In the beginning, when the safety of tDCS was still being established for human subjects, careful and moderate stimulation approaches were warranted. However, recent work using stimulation at higher intensities (for example, up to 4 mA) have been performed in different people and were found to have no additional negative side-effects. Now that the safety of tDCS at higher intensities is better established, studies exploring the differences in performance between moderate (i.e., 2 mA) and higher (i.e., 4 mA) intensities are necessary to determine if increasing the intensity increases the effectiveness of the desired outcome.\n\nProspective participants will include 10 people with mild-moderate PD that will be recruited to complete five randomly-ordered stimulation sessions, separated by at least 5 days each. Each session will involve one visit to the Integrative Neurophysiology Laboratory (INPL) and will last for approximately one hour. Data collection is expected to take 4-6 months. Each session will include walking and balance testing performed while wearing the tDCS device. Total tDCS stimulation time for each session will be 25 minutes.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* 1\\) Adult (50-90 yrs) with a positive diagnosis of Parkinson's disease from a movement disorder specialist\n* 2\\) an unchanged regimen of dopaminergic medication for at least the last 3 months\n* 3\\) able to independently walk for 6 min\n* 4\\) without other chronic psychiatric or medical conditions\n* 5\\) not taking any psychoactive medications\n\nExclusion Criteria:\n\n* 1\\) pregnant\n* 2\\) known holes or fissures in the skull\n* 3\\) metallic objects or implanted devices in the skull (e.g., metal plate, deep brain stimulator)\n* 4\\) current or previous injuries or surgeries that cause unusual gait\n* 5\\) score less than 24 or 17 on the Montreal Cognitive Assessment or telephone-Montreal Cognitive Assessment, respectively\n* 6\\) experience freezing of gait\n* 7\\) a diagnosis of dementia or other neurodegenerative diseases",
+  "minimum_age": "50 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Parkinson Disease",
+    "Brain Stimulation",
+    "Cerebellum"
+  ],
+  "overall_status": "COMPLETED"
+}

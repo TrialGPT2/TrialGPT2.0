@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT02019888",
+  "title": "Wide Frequency Band Test of Hearing in Veterans",
+  "brief_summary": "The accurate assessment of auditory status is critical for planning treatment for Veterans with hearing loss to include medical and audiological management. Current physiologic tests of auditory function in the standard clinical audiological test battery for Veterans have limited sensitivity in detecting some middle-ear disorders, and do not include a direct test of cochlear function. Recent studies have shown promise for new wide-bandwidth (WB) tests of absorbance for improved sensitivity in the assessment of middle-ear function including acoustic reflex testing. The addition of WB tests of cochlear function included in the WB test battery provides an opportunity to improve audiological diagnosis of a range of hearing disorders in Veterans. The automation provided by the WB test battery could provide additional benefits in reducing the duration of the evaluation, leaving more time for evaluation of test findings and counseling. Results from this study may lead to the improvement of audiological care for Veterans with hearing loss.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nAdults with normal hearing\n\n* Veteran status\n* Age between 20 and 79 years\n* All puretone thresholds at 25 dB HL or lower\n\nAdults with sensory neural hearing loss\n\n* Veteran status\n* Age between 20 and 79 years\n* Average hearing thresholds between 26 and 55 dB HL\n\nAdults with middle ear disorders\n\n* Veteran status\n* Adult between 20 and 89 years\n* Diagnosis of middle ear disorder\n\nExclusion Criteria:\n\n* Draining ear\n* Sensory neural hearing loss greater than 55 dB HL\n* Cerumen impaction of ear canal",
+  "minimum_age": "20 Years",
+  "maximum_age": "89 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Veterans will be recruited for this study who have had a hearing evaluation from the VA Audiology Service at the Portland VA Medical Center and the H. Quillen VA Medical Center. We may also recruit from approved subject registries at each study site, and from those who respond to approved fliers posted at the each site.",
+  "condition": [
+    "Hearing Loss, Sensorineural",
+    "Hearing Loss, Conductive",
+    "Hearing Loss, Mixed Conductive-Sensorineural",
+    "Otosclerosis",
+    "Tympanic Membrane Perforation",
+    "Otitis Media With Effusion",
+    "Cholesteatoma"
+  ],
+  "overall_status": "COMPLETED"
+}

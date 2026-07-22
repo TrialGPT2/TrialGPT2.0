@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02190279",
+  "title": "18F-DCFBC PET/CT in Prostate Cancer",
+  "brief_summary": "Background:\n\n\\- Prostate cancer is the second leading cause of cancer deaths in American men. A chemical called a radiotracer helps doctors get images of this type of cancer. Researchers want to test a radiotracer called N-\\[N-\\[(S)-1,3-dicarboxypropyl\\]carbamoyl\\]-4-(18)F-fluorobenzyl-L-cysteine ((18)F-DCFBC) (18F-DCFBC).\n\nObjective:\n\n\\- To see if the radiotracer 18F-DCFBC can identify sites of prostate cancer in the body.\n\nEligibility:\n\n\\- Men ages 18 and over with prostate cancer. The cancer must be newly diagnosed, have relapsed, or has spread outside the prostate.\n\nDesign:\n\n* Participants will be screened with physical exam and medical history. They will give a blood sample.\n* Participants will be divided into three groups.\n\nGroup 1: people with cancer only in the prostate scheduled for surgical prostate removal or biopsy at National Institutes of Health (NIH).\n\nGroup 2: people who had their prostate removed or had radiation therapy and now have a rising prostate-specific antigen (PSA) without other signs of disease.\n\nGroup 3: people whose cancer has spread to other areas of the body.\n\n* Participants will have 18F-DCFBC injected into a vein then imaged in a positron emission tomography (PET)/computed tomography (CT) camera. During the scans, they will lie on their back on the scanner table.\n* Group 1 will have a magnetic resonance imaging (MRI) scan. A tube will be placed in the rectum. Coils may be wrapped around the outside of the pelvis. Participants will have a contrast agent injected through an intravenous line.\n* Group 3 will have another PET/CT scan with a different radiotracer, 18F NaF, within 21 days of the 18F-DCFBC scan to look for prostate cancer in the bone.\n* Group 3 will repeat the two PET/CT scans 4-6 months after the initial scans.\n* A few days after each scan, participants will be contacted for follow-up.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Subject is greater than or equal to18 years old\n* Platelet count \\> 50,000/mm\\^3\n* Eastern Cooperative Oncology Group (ECOG) Performance score of 0 to 2.\n* Ability to provide informed consent. All subjects must sign an informed consent form indicating their understanding of the investigational nature and risks of the study before any protocol-related studies are performed.\n* Categories\n\n  * ARM 1 only\n\n    ---For patients with presumed localized disease (any tumor (T), nodes 0 (N0), metastasized 0 (M0)), a multiparametric magnetic resonance imaging (MRI) (standard of care at the National Institutes of Health ((NIH) Clinical Center) must be performed within 4 months of the N-\\[N-\\[(S)-1,3-dicarboxypropyl\\]carbamoyl\\]-4-(18)F-fluorobenzyl-L-cysteine ((18)F-DCFBC) (18F-DCFBC) injection with findings suggestive for prostate cancer and a prostate lesion at least 6mm or greater. Must have histopathologic confirmation of prostate cancer prior to 18F-DCFBC imaging.\n  * ARM 2 only:\n\n    * For patients status post radiation therapy for prostate cancer, any prostatic-specific antigen (PSA) increase from post radiation therapy nadir\n    * OR\n    * For patients status post prostatectomy, a PSA \\>/=0.2 ng/ml\n    * Nonspecific or no evidence for disease on standard imaging modality\n  * ARM 3 only:\n\n    * Patients must have identifiable metastatic disease on at least 1 clinically indicated imaging modality. If only soft tissue metastasis, one lesion must measure at least 6mm or greater. Patients must have confirmation of prostate cancer prior to 18FDCFBC imaging\n\nNote: A patient who is eligible for one arm, subsequently may cross-over into a different arm.\n\nEXCLUSION CRITERIA:\n\n* Subjects for whom participating would significantly delay the scheduled standard of care therapy\n* Subjects with any coexisting medical or psychiatric condition that is likely to interfere with study procedures and/or results.\n* Subjects with severe claustrophobia unresponsive to oral anxiolytics\n* Other medical conditions deemed by the principal investigator (or associates) to make the subject unsafe/ineligible for protocol procedures.\n* Subjects weighing \\> 350 lbs. (weight limit for scanner table), or unable to fit within the imaging gantry\n* Serum creatinine \\> 2 times the upper limit of normal\n* Total bilirubin \\> 2 times the upper limit of normal\n* Liver transaminases (alanine aminotransferase (ALT), aspartate aminotransferase (AST)) greater than 3 times the upper limit of normal",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Prostatic Neoplasms",
+    "Prostate Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

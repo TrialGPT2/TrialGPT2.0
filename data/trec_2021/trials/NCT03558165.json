@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03558165",
+  "title": "Lung Cancer Next Generation Sequencing Using the Oncomine Comprehensive Assay",
+  "brief_summary": "Currently, publicly funded standard of care testing in Ontario for stage IV lung cancer patients uses individual gene tests to look for mutations in the EGFR and ALK genes. This testing broadens treatment options for patients, however there are other gene mutations with corresponding targeted treatments that are not routinely tested for. This study will evaluate the utility and added value of using a next generation sequencing (NGS) panel, the Oncomine Comprehensive Assay v3, to profile stage IV lung cancer patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \u2265 18 years of age\n* Pathologic or cytologic confirmation of lung adenocarcinoma (mixed adenocarcinoma and sarcomatoid features permitted)\n* Stage IV disease\n* Sufficient FFPE tumour tissue for OCCP testing\n* Performance status 0-2\n* Candidates for targeted therapy (TKIs) and/or clinical trials as determined by the patient's medical oncologist\n* Prognosis \\> 6 months\n* Known translocations of RET, MET exon14 skipping variants, or MET amplification are allowed\n\nExclusion Criteria:\n\n\u25cf Patients with known EGFR, KRAS, BRAF and ERBB2 mutations or ALK or ROS1 fusions at study entry unless acquired resistance to molecularly targeted therapy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Eligible patients will be recruited at outpatient thoracic oncology clinics at the Princess Margaret Cancer Centre.",
+  "condition": [
+    "Lung Cancer Stage IV"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT01092195",
+  "title": "Gardasil Vaccination in Post Stem Cell Transplant Patients",
+  "brief_summary": "Background:\n\n* Gardasil , a recently approved vaccine for the sexually transmitted human papillomavirus (HPV), provides immunity to four types of HPV that are associated with genital warts and cervical, vaginal, and vulvar precancer and cancer. The vaccine has been shown to be highly effective in preventing infection with these HPV types and was approved for use by the Food and Drug Administration.\n* More research is needed about the vaccine s ability to induce immunity in individuals with suppressed immune systems, such as those who have had other kinds of cancer treatment such as stem cell transplant. Genital warts, precancer, and cancer have been reported as a late complication after stem cell transplant. Researchers are interested in determining whether the HPV vaccine is safe to give and able to induce immunity in female stem cell transplant recipients, their female donors, and healthy female volunteers.\n\nObjectives:\n\n\\- To assess the safety and immune response of the HPV vaccine in female recipients of stem cell transplants who are either off or on stable doses of immunosuppression.\n\nEligibility:\n\n* Females between 18 and 50 years of age who have had allogenic stem cell transplants.\n* Healthy female volunteers, including stem cell donors, are also eligible for this study.\n\nDesign:\n\n* Participants will be screened with a physical examination, blood and urine tests, and saliva samples, and will be asked to complete a sexual quality of life questionnaire.\n* Sexually active participants will also have a routine gynecologic evaluation.\n* Participants will receive three HPV vaccinations according to the standard vaccination schedule (with the second and third following 2 and 6 months after the first). Participants will record their daily temperature and any reactions to the vaccine on a vaccine report card for 1 week after each vaccination.\n* Participants will have clinic visits for further testing 2, 6, 7, and 12 months after receiving the first HPV vaccine.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nFemale stem cell transplant recipient at least 90 days post stem cell transplant\n\nOR\n\nFemale stem cell transplant recipient at least 90 days post HSCT and on immunosuppression\n\nOR\n\nThe matched female stem cell transplant donor for an included stem cell transplant recipient\n\nOR\n\nHealthy female subject\n\nAge greater than or equal to 18 years and less than or equal to 50 years\n\nEXCLUSION CRITERIA:\n\nVaccine Recipient:\n\nObvious HPV condyloma or obvious severe dysplasia (greater than or equal to CIN II) warranting treatment\n\nHistory of severe adverse reaction to any components (yeast, eggs, monosodium glutamate or neomycin) of the quadrivalent HPV vaccine.\n\nUntreated or persistent life-threatening infections not controlled by current treatment\n\nUncontrolled chronic GVHD i.e. highly active eGVHD requiring immediate intervention\n\nPregnant or breast feeding or unwilling to be abstinent or practice effective contraception during the study period (note: patients who have been rendered infertile with total body irradiation are eligible)\n\nEnrollment in another vaccine clinical trial during the study period\n\nEnrollment of healthy volunteer in a drug clinical trial during the study period\n\nInability to comprehend the investigational nature of the study and provide informed consent\\<TAB\\>\n\nPrior Gardasil or other HPV vaccination\n\nPersistent or recurrent malignancy",
+  "minimum_age": "18 Years",
+  "maximum_age": "50 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Gardasil Vaccine",
+    "Stem Cell Transplant",
+    "Immunogenicity"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial evaluates the safety and immunogenicity of the Gardasil HPV vaccine in female stem cell transplant recipients, their female donors, and healthy female volunteers. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, as the study population is defined by transplant status or healthy volunteer status, not by cancer treatment history.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on being a female stem cell transplant recipient (at least 90 days post-transplant), a matched female donor, or a healthy female volunteer. There are no criteria specifying prior systemic therapy for advanced disease, and the protocol does not mention adjuvant or metastatic therapy requirements. Therefore, line-of-therapy intent is not defined for this trial."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00055172",
+  "title": "Genetic Basis of Immunodeficiency",
+  "brief_summary": "This study will examine the role of hereditary factors in different forms of severe combined immunodeficiency (SCID).\n\nPatients with immunodeficiencies may be eligible for this study. Candidates include:\n\n* Patients with diminished numbers of T cells or NK cells or both, or\n* Patients with normal T cell and NK cell numbers but diminished T cell, B cell, or NK cell function.\n\nRelatives of patients will also be studied.\n\nParticipants will have blood samples collected for genetic analysis in studies related to SCID at the National Institutes of Health and other institutions.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIndex cases to be included are those with diminished numbers of T cells and/or NK cells and/or B cells or other immune cells or those who have normal numbers of T cell, B cells, NK cells and other immune cells but diminished function of one or more immune cells. Relatives of affected individuals may also be studied\n\n* Patients (index cases): 6 months of age and older\n* Siblings: 6 months of age and older\n* Non-sibling relatives (biological parent, aunt, uncle or grandparent): 18 years or older\n\nEXCLUSION CRITERIA:\n\n* Patients with a known diagnosis\n* Patients with a particular immunological phenotype that is not of interest to the research conducted under this study.\n* Pregnancy or lactation\n* Adults with current decisional impairment",
+  "minimum_age": "6 Months",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Primary clinical",
+  "condition": [
+    "Severe Combined Immunodeficiency"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational genetic study enrolling patients with immunodeficiencies and their relatives. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease. The study is focused on genetic analysis and includes both patients and relatives regardless of treatment history."
+    }
+  ]
+}

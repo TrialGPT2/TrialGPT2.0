@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT02346214",
+  "title": "Smartphone Ophthalmoscope of Lens Vascularity to Estimate Gestational Age",
+  "brief_summary": "The purpose of this study is to develop a novel, highly automated method of gestational age estimation at delivery combining anterior lens capsule vascularity (ALCV) and biophysical parameters appropriate for use in low income countries. The specific aims of the proposed study are: (1) To develop an algorithm to predict gestational age at delivery from 26 to 42 weeks' gestation with ALCV and key biophysical parameters (2)To evaluate the performance of ALCV and biophysical parameter-based gestational age estimates. Specifically, we hypothesize that the accuracy of the predictive algorithm will be comparable to commonly used measures of gestational age dating (\u00b12 days) and have better precision (\u00b114 days) than commonly used measures of gestational age dating.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Gestational age 260/7 to 426/7 weeks (based on antenatal ultrasound \\<20 weeks gestation)\n\n  * Chronological age \\<24 hours\n  * Consent of the patient's parents or legal guardians\n\nExclusion Criteria:\n\n* Fused eyelids\n* Corneal opacity or cataract\n* Obstetrical ultrasound performed at \\<20 weeks' gestation not performed/not available\n* Known genetic/congenital anomalies\n* Known coagulopathies\n* Patients who, in the opinion of the attending physician or clinical study staff, are too medically unstable to participate in the study safely",
+  "minimum_age": "",
+  "maximum_age": "24 Hours",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Singleton live births between 26 and 42 weeks' gestation (determined by first or early-second trimester ultrasound dating)",
+  "condition": [
+    "Gestational Age"
+  ],
+  "overall_status": "COMPLETED"
+}

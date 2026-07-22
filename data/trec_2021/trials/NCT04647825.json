@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04647825",
+  "title": "NEED: Neuromed Epilepsy EEG Database. A Large EEG Database of Epilepsy Patients for Research Community.",
+  "brief_summary": "For one-third of patients with drug-resistant epilepsy alternative approaches must be investigated in order to improve the quality of their life. A possible approach is to find automatic methods to detect/predict seizures, in order to adopt interventional actions to stop or abort the seizure or to limit its side effect. The main problem in this case is to evaluate the reproducibility of such methods and to standardize them, because there is a lack of availability of long-term electroencephalography (EEG) data. In this study we want to create a large long-term EEG database, called NEED (Neuromed Epilepsy EEG Database), whos aim is to give researchers a way to test their method in a large collection of data. The database will contain long-term EEG recordings of 200 patients as well as extensive metadata and standardized annotation of the data sets and will be made freely available for the download to the research community.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with drug-resistant epilepsy candidate to the surgery underwent to non-invasive EEG monitoring\n* Patients with at least one recorded seizure during the EEG monitoring\n\nExclusion Criteria:\n\n* Patients with drug-resistant epilepsy candidate to the surgery underwent to non-invasive EEG monitoring\n* Patients with no recorded seizure during the EEG monitoring",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Drug-resistant epilepsy patients underwent presurgical monitoring at Epilepsy Surgery Unit at IRCCS Neuromed",
+  "condition": [
+    "Automatic Seizure Detection"
+  ],
+  "overall_status": "UNKNOWN"
+}

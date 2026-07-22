@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04393051",
+  "title": "Baricitinib Compared to Standard Therapy in Patients With COVID-19",
+  "brief_summary": "There is urgent need of an effective therapy for Covid-19. To date, the best treatment of SARS-CoV-2 infection is unknown. Baricitinib has been identified as potential treatment for 2019-nCoV acute respiratory disease, because of its immunomodulating and hypothesized antiviral activity.\n\nThis is a multicenter randomized clinical trial that aims to evaluate the efficacy and safety of baricitinib in patients with SARS-CoV2 pneumonia. Patients will be randomized to receive or not baricitinib as adjunctive therapy. All patients will continue to receive the ongoing standard therapy: chloroquine/idrossichloroquine and low-molecular weight heparin (LMWH) eventually associated with ritonavir/lopinavir or darunavir/ritonavir will be allowed for all included patients.\n\nThe primary endpoint measure is the efficacy of baricitinib in reducing the number of patients requiring invasive ventilation after 7 and 14 days of treatment.\n\nSecondary endpoints will be mortality rates and toxicity of baricitinib.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Any gender\n* Age \\> 18 years on day of signing informed consent\n* Informed written consent for participation in the study\n* Virological diagnosis of SARS-CoV-2 infection (real-time PCR)\n* Hospitalized due to clinical instrumental diagnosis of pneumonia.\n* Oxygen saturation at rest in ambient air \u226493% or P/F ratio \\<250\n* Able to be administered by oral route drugs\n* Patients who receive O2 therapy or who need non-invasive mechanical ventilation\n* In case of female patients at childbearing potential, they should agree to use highly effective methods of birth control at least till 7 days after the termination of the treatments\n\nExclusion Criteria:\n\n* Known hypersensitivity to Baricitinib or its excipients\n* Patients with Creatinine Clearance \\< 30 ml/min\n* Patients with active Tuberculosis (TBC)\n* Patients with known HBV or HCV infection\n* Patients with deep vein thrombosis (DVP) or Pulmonary Embolism (PE)\n* Patients with ALT or AST\\> 5 times the upper limit of the normality\n* Neutrophils \\<1000/mmc\n* Platelets \\<50.000/mmc\n* Hb\\< 8g/dl\n* Bowel diverticulitis or perforation\n* Patients who receive invasive mechanical ventilation\n* Documented bacterial infection at time of randomization\n* Patients with \"do not resuscitate order\"\n* Patients receiving immunosuppressants or anti-rejection drugs\n* Pregnancy or breastfeeding",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid-19",
+    "SARS-CoV 2",
+    "SARS Pneumonia"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04586452",
+  "title": "NIH CCR2 AAA Study",
+  "brief_summary": "Abdominal aortic aneurysm (AAA) is a degenerative vascular disease, which is typically asymptomatic until rupture, resulting in high mortality. AAAs are more prevalent in men over age 65, though rupture is disproportionately higher in women. Due to nonlinear and unpredictable aortic dilatation, it is challenging to predict the AAA rupture using clinical diagnostics based on morphology. No medical therapy is used clinically to treat AAA, and there is an unmet need for clinically translatable, molecular biomarkers of AAA disease activity for surveillance and patient-specific management. The goal of this proposal is to develop a new approach for the diagnosis and targeted therapy of AAA.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* 40 years old and above\n* With or without active tobacco use\n* Asymptomatic patients with known AAAs by CT angiogram (men \u2265 5.5 cm, women \u2265 5.0cm).\n* Non-AAA volunteers will have a documented absence of AAA by exam and recent screening ultrasound (US).\n* Able to comprehend and willing to follow instructions for the study procedures as called for by the protocol\n\nExclusion Criteria:\n\n* Inability to receive and sign informed consent.\n* Patients with Stage \u2265 4 chronic renal failure (calculated by modification of diet in renal disease eGFR equation \\[to minimize confounding imaging variables\\])\n* Documented allergy to iodinated contrast and/or shellfish.\n* Patients with an unstable clinical condition that in the opinion of the principal investigators or designee precludes participation in the study.\n* Inability to tolerate 60 minutes in a supine position with arms down at sides, as necessary for PET/CT.\n* Positive pregnancy test or lactating.\n* Other conditions such as symptomatic/recently treated coronary disease, cancer requiring oncologic management, or autoimmune/inflammatory diseases (e.g., rheumatoid arthritis or multiple sclerosis) that are known to have increased associated CCR2 expression.\n* Non-AAA volunteers may not carry a diagnosis of aortoiliac occlusive disease, as documented by their treating vascular surgeon, as significantly progressed atherosclerotic disease may demonstrate exaggerated, associated CCR2 expression.",
+  "minimum_age": "40 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Abdominal Aortic Aneurysm (AAA)",
+    "No Abdominal Aortic Aneurysm (Non-AAA)"
+  ],
+  "overall_status": "COMPLETED"
+}

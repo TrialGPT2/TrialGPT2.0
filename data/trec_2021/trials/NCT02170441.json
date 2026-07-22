@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02170441",
+  "title": "Global Consortium for Drug-resistant Tuberculosis Diagnostics",
+  "brief_summary": "The goal of this study is to evaluate time to diagnosis for three assays (line probe, pyrosequencing, and Microscopic Observation Drug Susceptibility Assay \\[MODS\\]) to detect resistance to first and second-line anti-tuberculosis (TB) drugs in Mycobacterium tuberculosis (Mtb) strains in 7 days or less, allowing for rapid diagnosis of extensively drug-resistant TB (XDR-TB).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* At least 5 years of age\n* Known to be acid fast bacilli (AFB) sputum smear-positive, 1+ or greater (within prior 14 days), positive on GeneXpert, or present clinically with high suspicion of active TB and:\n* Had previously received \\>1 month of treatment for a prior TB episode or\n* Were failing TB treatment with positive sputum smear or culture after \u22653 months of a standard TB treatment or\n* Had had close contact with a known drug-resistant TB case or\n* Were newly diagnosed with multi-drug resistant TB (MDR-TB) within the last 30 days or\n* Were previously diagnosed with MDR-TB and failed TB treatment with positive sputum smear or culture after \u22653 months of a standard MDR-TB treatment regimen\n* Provided informed consent or had ability and willingness of subject or legal guardian/representative to provide informed consent\n\nExclusion Criteria:\n\n* Institutionalized\n* Unable to provide at least 7.5ml sputum (1st and 2nd samples combined)\n* Had results from second line DST performed within the last 3 months",
+  "minimum_age": "5 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with newly diagnosed or previously treated tuberculosis who are at risk for drug-resistant tuberculosis",
+  "condition": [
+    "Tuberculosis",
+    "Tuberculosis, Multidrug-Resistant"
+  ],
+  "overall_status": "COMPLETED"
+}

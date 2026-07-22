@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03851497",
+  "title": "Application of Deep-learning and Ultrasound Elastography in Opportunistic Screening of Breast Cancer",
+  "brief_summary": "As the most common cancer expected to occur all over the world, breast cancer still faces with the unsatisfied diagnostic accuracy in US imaging. S-detect is a sophisticated CAD system for breast US imaging based on deep learning algorithms. E-breast is a software installed in US machines which automatically reveals tumor elastographic features. This multi-center study intends to further validate the diagnostic efficiency of S-detect and E-breast in opportunistic breast cancer screening populations in China. Our hypothesis is that S-detect and E-breast can increase the diagnostic accuracy and specificity as compared to routinely US examinations by doctors.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Female over 18 years of age;\n* Had breast lesions detected by ultrasound.\n* No clinical symptoms such as nipple discharge, while breast lesions were not palpable.\n* Received breast surgery within one week of ultrasound examination.\n* Agreed to participant in this study and signed informed consent.\n\nExclusion Criteria:\n\n* Patients who had received a biopsy of breast lesion before the ultrasound examination.\n* Patients who were pregnant or lactating.\n* Patients who were undergoing neoadjuvant treatment.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Asymptomatic female patients voluntarily asked for breast US examination in comprehensive hospitals for breast cancer screening.",
+  "condition": [
+    "Breast Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03866213",
+  "title": "Validation of a Jaundice Diagnostic and Monitoring Device for Low-Resource Settings",
+  "brief_summary": "A team of researchers at Rice University in partnership with clinicians at Queen Elizabeth Central Hospital created BiliSpec, a low-cost battery-powered reader designed to immediately quantify serum bilirubin levels from a small drop of whole blood applied to a lateral flow strip. The simple and affordable BiliSpec system offers a faster and more cost-effective means to detect neonatal jaundice in under-resourced clinics and determine when phototherapy is needed. The goal of this study is to validate the accuracy of the BiliSpec device in measuring bilirubin levels in neonates relative to the laboratory spectrophotometric bilirubinometer and transcutaneous bilirubinometer measurements.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* The patient is currently being treated at Queen Elizabeth Central Hospital or Kamuzu Central Hospital in the neonatal ward.\n* The patient is less than 28 days old (neonate).\n* The patient is deemed to be at risk for jaundice or the patient is undergoing blue light phototherapy for treatment of jaundice.\n* The patient's parent or guardian has provided informed consent for their child to participate.\n\nExclusion Criteria:\n\n* Parent or guardian is unable or unwilling to provide informed consent.\n* The patient is unable to receive a blood draw/heel stick as determined by their clinician.",
+  "minimum_age": "0 Days",
+  "maximum_age": "28 Days",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients currently being treated at Queen Elizabeth Central Hospital or Kamuzu Central Hospital in the neonatal ward, who are less than 28 days old (neonate), and deemed to be at risk for jaundice or the patient is undergoing blue light phototherapy for treatment of jaundice.",
+  "condition": [
+    "Hyperbilirubinemia, Neonatal",
+    "Jaundice, Neonatal"
+  ],
+  "overall_status": "RECRUITING"
+}

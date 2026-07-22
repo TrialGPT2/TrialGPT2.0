@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00034424",
+  "title": "Cause of Familial Testicular Cancer",
+  "brief_summary": "Background:\n\nPeople with a family history of testicular cancer may be at increased risk for the disease.\n\nGenetic and clinical studies of patients with testicular cancer and their family members may help clarify the cause of the disease and identify clinical features.\n\nObjectives:\n\nTo characterize the clinical features of testicular cancer.\n\nTo identify genes that may lead to increased risk of the disease.\n\nTo examine emotional and behavioral issues of members of families at increased risk of the disease.\n\nEligibility:\n\nMales and females from a family with at least two cases of testicular cancer in blood relatives.\n\nMales with testicular cancer in both testicles.\n\nMales with testicular cancer who have an identical twin.\n\nParticipants must be at least 12 years of age.\n\nDesign:\n\nParticipants may take part in Part 1 or Parts 1 and 2 of this 2-part study.\n\nPart 1 participants:\n\n* Provide a blood or cheek cell sample to obtain DNA for gene studies.\n* Provide permission for researchers to obtain their medical records for review.\n* Complete questionnaires about their personal and family medical history, exposure to factors that might influence the risk of testicular cancer, and their feelings about being a member of a family in which several members have testicular cancer.\n* These data are collected from participants in their home communities.\n\nPart 2 participants:\n\n* All participants provide a medical history, have a complete physical examination, including routine lab tests, and have an ultrasound test of the abdomen to look at the kidneys.\n* Males have an ultrasound test of the testicles and scrotum.\n* Females have an ultrasound test of the pelvis to look at the ovaries, uterus and fallopian tubes.\n* Males 18 years of age and older provide a semen sample.\n* Some participants have computed tomography (CT) scanning of the chest, abdomen and pelvis instead of kidney ultrasound. Children under 18 years of age may have magnetic resonance imaging (MRI) instead of CT.\n* These data are collected from participants during a 2-day visit to the NIH Clinical Center in Bethesda, MD. Travel costs are covered by the protocol.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nStudy population:\n\nPatients must be members of families with familial TGCT as defined below.\n\nDefinition of familial TGCT:\n\nThe criterion establishing familial TGCT is the presence of:\n\n-at least two cases of documented GCT in blood relatives (at least one of which is testicular in origin),\n\nOR\n\n* a single family member with bilateral testicular cancer,\n* men with a history of TGCT who are one in a set of identical siblings will also be included in the study.\n\nCase definition:\n\nA case will be determined to have TGCT according to the following criteria:\n\n* Pathologic confirmation of a germ cell derived tumor arising in the testis. Extragonadal germ cell tumors will also be included.\n* Germ cell derived histologies including: seminoma, germinoma, embryonal carcinoma, endodermal sinus (yolk sac) tumor, gonadoblastoma, choriocarcinoma, teratoma, and mixed germ cell tumor.\n* A case will be determined to have TIN on the basis of pathologic confirmation of intratubular malignant germ cells (ITMGCs) as defined by Burke and Mostofi.\n\nIndividuals from participating families who are eligible for this study include:\n\ni) all TGCT cases;\n\nii) all GCT cases (including those of ovarian or extra-gonadal sites);\n\niii) all first-degree relatives of each GCT case;\n\niv) the spouse(s) of every case if the spouse and case had children who are participating in the study;\n\nv) any blood relative not included in (ii - iii) above who genetically links two cases; and\n\nvi) any blood relative with cancer other than GCT\n\nvii) family members as described in i) - v) above must be age 12 or greater in order to participate\n\nEXCLUSION CRITERIA:\n\nFamilies will be deemed ineligible for participation in this study if:\n\nThere are not at least two confirmed cases of GCT in the family, (at least one of which is testicular in origin), unless there is a family member with bilateral testicular cancer;\n\nDeceased TGCT cases lacking both archival sources of tissue for DNA extraction AND lacking surviving spouses and children who are willing to participate in the study (the unavailability of such persons prohibits inferring the genotype of the deceased individual with TGCT);\n\nCritical informative family members are unwilling to participate (i.e., unwilling to provide written informed consent);",
+  "minimum_age": "12 Years",
+  "maximum_age": "77 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "A non-randomized cohort study of individuals from families with a significant history of testicular cancer.",
+  "condition": [
+    "Testicular Cancer"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study enrolling individuals with familial testicular germ cell tumors (TGCT) and their relatives to investigate genetic and clinical features. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study is observational and does not specify any requirements or exclusions based on prior systemic therapy for advanced or metastatic disease. Eligibility is based on family history and diagnosis, not treatment history. No information is provided regarding prior lines of therapy."
+    }
+  ]
+}

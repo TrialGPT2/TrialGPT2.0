@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04190849",
+  "title": "European Paediatric Non-Alcoholic Fatty Liver Disease Registry (EU-PNAFLD)",
+  "brief_summary": "The EU-PNAFLD (The European Paediatric NALFD Registry) will be a network composed of European centres involved in the care of children with NAFLD, and will include Hepatologists, Endocrinologists, and Scientists, supported by relevant international specialists. This collaboration will build on existing infrastructure (local databases and bio-repositories) and will align with the adult European NAFLD Registry (\"EPoS\", Elucidating Pathways of Steatohepatitis study) to allow long-term follow-up supported by translational studies. Through an international, well-characterised large-scale cohort, we hope to: facilitate multi-centre clinical trials; extend our understanding of the key disease mechanisms of NAFLD; and establish the natural history of paediatric NAFLD.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosis made under 18 years of age.\n* Diagnosis of NAFLD spectrum disease (simple steatosis (NAFL), steatosis with abnormal transaminases, NASH \u00b1 fibrosis or cirrhosis)\n* Diagnosis established by:\n\n  * Radiological evidence of hepatic steatosis (e.g. increased hepatic echogenicity on ultrasound), with\n  * Exclusion of secondary causes (negative serological liver screen for HBV/HCV, caeruloplasmin \\>0.20g/L, no history of excess alcohol consumption, no evidence of iron overload, and no clinically significant alpha-1 antitrypsin (A1AT) phenotype (i.e. SZ, ZZ, SS), with or without\n  * Histology (\\>5% steatosis and histology consistent with paediatric NAFLD)\n\nExclusion Criteria:\n\n* Secondary fatty liver disease (e.g. glycogen storage diseases, Wilson disease, viral hepatitis, drug-related, autoimmune hepatitis, type 1 diabetes mellitus)\n* Post-transplant fatty liver\n* \\>20g/day ethanol intake",
+  "minimum_age": "",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Children with NAFLD who have been diagnosed either invasively (i.e. using liver biopsy) or using some form of imaging (USS, MRI, CT, MRS) plus exclusion of secondary causes using an appropriate panel of bloods. This aims to facilitate recruitment from a representative population of children, not just those from specialist centres who have undergone biopsy.\n\n'Secondary NAFLD' (i.e. drug-induced, post-transplant) are not eligible. Children with insulin resistance syndromes are not specifically excluded however this is not the primary focus of EU-PNAFLD and other condition-specific registries are in existence.",
+  "condition": [
+    "Non-Alcoholic Fatty Liver Disease",
+    "Non-alcoholic Fatty Liver",
+    "Non-alcoholic Steatohepatitis"
+  ],
+  "overall_status": "RECRUITING"
+}

@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT04969926",
+  "title": "Natural History Study of Parathyroid Disorders",
+  "brief_summary": "Background:\n\nParathyroid disorders are very common in the general population and include disorders of parathyroid excess, deficiency, or defects in parathyroid hormone (PTH) signaling. PTH, the main secretory product of parathyroid glands is responsible for regulation of calcium-phosphate homeostasis.\n\nObjective:\n\ni) To investigate the cause of parathyroid disorders\n\nii) To describe evolution, natural history, and longitudinal trends of parathyroid and related disorders seen in syndromic presentations like multiple endocrine neoplasia, hyperparathyroidism-jaw tumor syndrome\n\nEligibility:\n\nPeople ages 6 months older who have, are at risk of having, or are related to a person with a parathyroid or related disorder.\n\nDesign:\n\nParticipants will be screened with a review of their medical records.\n\nParticipants will be seen, tested, and treated by doctors based on their condition. Their visits may be in person or via telehealth.\n\nParticipants will complete questionnaires. They will answer questions about their physical, mental, and social health.\n\nParticipants may give samples such as saliva, blood, urine, or stool.\n\nParticipants may give cheek cell samples. They will do this using a cheek swab or by spitting into a cup.\n\nAdult participants may give a skin biopsy. For this, a small bit of skin is removed with a punch tool.\n\nParticipants may have medical photos taken.\n\nIf participants have surgery during the course of their regular care either at the NIH\n\nor at a different hospital or doctor s office, researchers will ask for some of the leftover\n\ntissue.\n\nParticipants will be in the study as long as they are being seen by their doctor.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Subjects known to have, suspected of having, or at risk of developing a parathyroid or related disorder.\n* Age \\>= 6 months.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Children \\<= 6 months\n* Patients with conditions that in the opinion of the investigators can interfere with the study objectives.",
+  "minimum_age": "6 Months",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with confirmed, suspected or at risk of developing parathyroid and related disorders.",
+  "condition": [
+    "Parathyroid Cancer",
+    "Primary Hyperparathyroidism",
+    "Pseudohypoparathyroidism",
+    "Inheritable Bone Diseases",
+    "Multiple Endocrine Neoplasia, Type 1"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study of parathyroid and related disorders with no restriction on prior systemic therapy or line of therapy for advanced disease. Patients are enrolled regardless of treatment history, including those who are treatment-naïve.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes all individuals with, at risk for, or related to someone with a parathyroid or related disorder, regardless of prior therapy. There are no requirements or restrictions regarding prior systemic therapy for advanced disease; both treatment-naïve and previously treated patients are eligible."
+    }
+  ]
+}

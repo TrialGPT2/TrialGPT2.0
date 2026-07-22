@@ -1,0 +1,39 @@
+{
+  "nctid": "NCT01166009",
+  "title": "CIBMTR Research Database",
+  "brief_summary": "The primary purpose of the Research Database is to have a comprehensive source of observational data that can be used to study HSC transplantation and cellular therapies.\n\nA secondary purpose of the Research Database is to have a comprehensive source of data to study marrow toxic injuries.\n\nObjectives:\n\nTo learn more about what makes stem cell transplants and cellular therapies work well such as:\n\n* Determine how well recipients recover from their transplants or cellular therapy;\n* Determine how recovery after a transplant or cellular therapy can be improved;\n* Determine how a donor's or recipient's genetics impact recipient recovery after a transplant or cellular therapy;\n* Determine how access to transplant or cellular therapy for different groups of patients can be improved;\n* Determine how well donors recover from the collection procedures.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Eligibility to Participate in the Research Database\n\nRecipient Eligibility Criteria:\n\n* Any recipient of an unrelated or related donor or autologous HSC transplant in a CIBMTR center is eligible to participate in the Research Database. This includes adults with and without decision making capacity, and children.\n\nIndividual with Marrow Toxic Injury Eligibility Criteria:\n\n* Any individual who is treated for a marrow toxic injury at a center participating in the NMDP's Radiation Injury Transplant Network (RITN) is eligible to participate in the Research Database. This includes adults with and without decision making capacity, and children. Eligible individuals may have received supportive care only, growth factor support, HSC transplant or other appropriate medical treatment for marrow toxic injury. Treatments applied are at the discretion of the care facility, and are not determined by the NMDP or CIBMTR.\n\nUnrelated Donor Eligibility Criteria:\n\n* All donors registered on the NMDP Registry who have been requested to donate a product for a recipient are eligible to participate in the Research Database.\n* All maternal cord blood donors are enrolled in the NMDP Cord Blood Bank Investigational New Drug (IND) protocol, and sign an informed consent document specific to that protocol. Data collected as part of the Cord Blood Bank protocol are included in the Research Database.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Recipients and Donors that are involved with stem cell transplantation, other cellular therapies, and gene therapies.",
+  "condition": [
+    "Autologous Stem Cell Transplantation",
+    "Allogeneic Stem Cell Transplantation",
+    "Solid Tumors",
+    "Blood Cancers",
+    "CAR-T",
+    "Gene Therapy",
+    "Non-malignant Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational research database enrolling all recipients of hematopoietic stem cell transplantation (HCT) or cellular therapies, regardless of prior lines of therapy or disease stage. There are no restrictions on prior systemic therapy for advanced disease; all lines and disease settings are included.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes any recipient of an unrelated, related donor, or autologous HSC transplant, with no mention of restrictions based on prior lines of therapy or disease stage. Patients who have only received adjuvant or neoadjuvant therapy, as well as those with any number of prior systemic therapies for advanced disease, are eligible."
+    }
+  ]
+}

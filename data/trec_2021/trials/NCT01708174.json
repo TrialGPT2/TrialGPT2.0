@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01708174",
+  "title": "A Phase II Study of Oral LDE225 in Patients With Hedge-Hog (Hh)-Pathway Activated Relapsed Medulloblastoma (MB)",
+  "brief_summary": "This Phase II study evaluated the safety and efficacy of LDE225 in adult and pediatric patients with Hh-pathway activated, relapsed MB.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with histologically confirmed diagnosis of MB, who have experienced relapse or progression after standard-of-care therapy including radiotherapy. Patients currently receiving steroids must have been on a stable (or decreasing) dose for at least 5 days before initiating study therapy.\n* Only patients with a test result, using the 5-gene Hh signature assay, indicating Hhpathway activated MB are eligible for this study. All available tumor material obtained at any time during the course of the patient's disease should be submitted for these analyses\n* At least one measurable lesion defined as lesion(s) that can be accurately measured in at least two dimensions and is \u2265 10 mm in each dimension by Gadolinium (Gd)-MRI, irrespective of slice thickness/reconstruction interval, for CNS lesions and CT or MRI (with or without contrast) for non-CNS lesions. All patients with CNS lesions must have a brain MRI with and without gadolinium and a spine MRI with gadolinium within 2 weeks prior to first dose of study treatment.\n* Performance Status corresponding to ECOG score of 0, 1, or 2:\n\n  1. Karnofsky performance status score \u2265 50 for patients \\>16 years of age\n  2. Lansky performance status score \u2265 50 for patients \u2264 16 years of age\n* Adequate bone marrow function as defined as:\n\n  1. Peripheral absolute neutrophil count (ANC) \u2265 1.5 x 109/L\n  2. Platelet count \u2265 80 x 109/L\n  3. Hemoglobin (Hgb) \u2265 9 g/dL\n* Serum CK \u22641.5 ULN\n\nExclusion Criteria:\n\n* Prior treatment with a Smoothened inhibitor Systemic anticancer treatment within 2 weeks before first dose of study treatment (6 weeks for nitrosourea, mitomycin, and monoclonal antibodies).\n* Focal radiation therapy within 4 weeks before first dose of study treatment, or full spinal radiotherapy within 3 months before first dose of study treatment.\n* Patients who have neuromuscular disorders that are associated with elevated CK (eg, inflammatory myopathies, muscular dystrophy, amyotrophic lateral sclerosis, spinal muscular atrophy).\n* Patients receiving treatment with medications that are known to be strong inhibitors or inducers of CYP3A4/5 or are metabolized by CYP2B6 and CYP2C9, that have narrow therapeutic indices that cannot be discontinued at least 2 weeks before first dose of study treatment and for the duration of the study\n* Patients receiving unstable or increasing doses of corticosteroids. If patients are on corticosteroids for endocrine deficiencies or tumor-associated symptoms, dose must have been stabilized (or decreasing) for at least 5 days before first dose of study treatment.",
+  "minimum_age": "4 Months",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Medulloblastoma"
+  ],
+  "overall_status": "COMPLETED"
+}

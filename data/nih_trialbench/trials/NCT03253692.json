@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT03253692",
+  "title": "Prospective Multicenter Registry On Radiation Dose Estimates Of Cardiac CT Angiography in Daily Practice in 2017 (PROTECTION VI)",
+  "brief_summary": "Background:\n\nCCTA is a common way to evaluate coronary artery disease. It stands for coronary computed tomography angiography. It uses scanning to look at the arteries that supply blood to the heart. It is noninvasive, widely available, and generally accurate. But it does expose people to radiation. Exposure to high amounts of radiation can increase a person s risk of getting cancer. Researchers want to learn more about the relationship between CCTA and radiation exposure.\n\nObjective:\n\nTo see how much radiation is used to take pictures of the heart and how measures to reduce radiation are used around the world.\n\nEligibility:\n\nPeople ages 18 years and older who need a computed tomography (CT) scan of the heart\n\nDesign:\n\nParticipants will be screened with a review of their medical records.\n\nParticipants may have a pregnancy test.\n\nParticipants will have the scheduled scan. Small, sticky discs will be placed on the chest. A small tube will be placed into a vein in the arm. A contrast material (dye) will be given through it. Participants will lie on the CT scanning table.\n\nA CCTA scan usually takes about 15 minutes if the heart rate is slow and steady.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Clinical indication for cardiac CT angiography to evaluate coronary arteries or other cardiac structures\n  2. Age equal to or greater than 18 years\n  3. Able to understand and willing to sign the Informed Consent Form\n\nEXCLUSION CRITERIA:\n\n1\\) Female participants who are pregnant or nursing",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Data confirming the inclusion/exclusion criteria will be confirmed at the study visit. Overall, up to 100 subjects will be enrolled locally at the NIH. A member of the study team will review the CT procedures and confirm that the participants do not have any serious health problems or concomitant conditions or medications that would prevent them from having the CT. A member of the study team will perform a pregnancy test (if applicable) in female participants of childbearing potential. If you are nursing, you will be excluded from this study. All tests will follow NIH Clinical Center policies and clinical consent forms for individual tests may be obtained in addition to the study protocol consent as applicable. Sites outside the NIH will use similar standard of care procedures for cardiac CT eligibility.",
+  "condition": [
+    "Coronary Artery Disease",
+    "Coronary Disease",
+    "Myocardial Ischemia",
+    "Arterial Occlusive Diseases",
+    "Arteriosclerosis"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a diagnostic imaging registry study of cardiac CT angiography and does not involve systemic therapy for advanced disease. There are no requirements or restrictions regarding prior lines of systemic therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls adults needing cardiac CT angiography for clinical indications, with no mention of systemic therapy or cancer treatment history. There are no criteria related to prior lines of therapy for advanced disease."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02684422",
+  "title": "Initial and Chronic Methicillin Resistant Staphylococcus Aureus (MRSA) Infection in Cystic Fibrosis (CF)",
+  "brief_summary": "This study aims to examine features of MRSA that are associated with chronic MRSA infection and bacterial persistence despite IV antibiotic therapy. Subjects are asked to expectorate sputum and complete CF symptom diaries both at beginning and end of IV therapy.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Male or female with a confirmed diagnosis of CF (clinical features and positive sweat test and/or identification of 2 CF disease causing mutations).\n2. At least 4 years of age or older.\n3. Chronic infection with MRSA defined as having had MRSA positive respiratory cultures for \\> 1 year with \u2265 50% of cultures being MRSA positive e.g. 2/4 of the most recent cultures grew MRSA.\n4. Being able to expectorate sputum on a consistent basis, i.e. also at the end of IV therapy.\n5. Having a pulmonary exacerbation defined for this protocol as the decision of the treating physician to start IV therapy in hospital or at home. Typically this occurs when there has been a \\>5% drop in FEV1 % predicted compared to the patient's baseline and increased respiratory symptoms.\n\nNOTE: Patients who had oral or inhaled antibiotics with or without MRSA activity but failed this outpatient therapy i.e. are changed to IV anti-MRSA antibiotics are allowed to participate.(Example: was on oral doxycycline and on admission changed to ceftaroline = eligible. On oral doxycycline that is continued on admission = not eligible).\n\n* Patient enrollment should be prioritized to those receiving IV vancomycin or ceftaroline, with secondary consideration of patients who receive oral anti-MRSA therapy (TMP-SMX or a tetracycline derivative) that was initiated on hospital admission.\n* Patients on linezolid will not be included as this medication is given orally and IV and may confound analyses.\n\nExclusion Criteria:\n\n1. Presence / infection with B. cepacia genomovar III (=B. cenocepacia). Subjects who have undergone lung or liver transplant in the past (NOTE: patients listed for transplant are eligible)\n2. Concomitant participation and/or use of an investigational drug within 30 days of this study.\n3. Concomitant observational studies are allowed with TRI-STAR, if approved by the other study investigator or their proxy.",
+  "minimum_age": "4 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with a confirmed diagnosis of cystic fibrosis (CF), chronic MRSA who have a pulmonary exacerbation requiring IV therapy.",
+  "condition": [
+    "Methicillin-Resistant Staphylococcus Aureus",
+    "Cystic Fibrosis"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT02446262",
+  "title": "Neural and Psychological Mechanisms of Pain Perception",
+  "brief_summary": "Background:\n\n\\- Painful stimuli cause changes in a network of brain regions called the \"Pain Matrix.\" But most of these regions respond to many other stimuli, not just pain. Researchers want to understand how different factors influence pain. They want to test what happens when people expect different levels of pain and receive treatments that can modify pain. They want to see if these factors influence decisions about pain and how the body responds to it. They also want to compare pain with responses like taste and vision.\n\nObjectives:\n\n\\- To better understand how pain and emotions are processed and influenced by psychological factors.\n\nEligibility:\n\n\\- Healthy volunteers ages 18-50.\n\nDesign:\n\n* This study requires 1 to 2 clinic visits that last 1 to 3 hours.\n* Participants will be screened with medical history and physical exam.\n* Some participants will have one or more magnetic resonance imaging (MRI) scans of their brain. For MRI, participants will lie on a table that slides in and out of a cylinder. The scanner makes loud knocking noises. They will get earplugs.\n* Participants heart activity will be recorded with electrocardiogram. Their pulse, sweating, and breathing will be monitored.\n* Some participants will take a taste test. Others may perform simple tasks. Others may receive pain in their arm, leg, or hand. The pain will come from heat or electric shocks. Others may judge pain using a topical pain-relieving cream. Some of these tests may be given during MRI.\n* Participants will fill out questionnaires.\n* The study will last 3 years.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Healthy\n* Between 18 and 50 years old\n* Fluent in English\n* Able to provide written informed consent.\n\nEXCLUSION CRITERIA (all sub-studies):\n\n* Unable to comply with study procedures or follow-up visits.\n* Has a major medical condition or medical history that in a clinician's assessment could affect heat sensitivity, pain thresholds, or ability to comply with study procedures. This may include cardiovascular, autonomic, or neurological conditions, including stroke, blindness, deafness, a history of brain damage, or a chronic systemic disease (e.g., diabetes).\n* Has a current mood disorder, anxiety disorder, or substance use disorder, or has a history of psychosis, hospitalization for a mental health condition, or recurrent psychiatric episodes.\n* Has a medical condition that in a clinician's assessment might affect somatosensation (e.g., Raynaud s disease, peripheral neuropathy, or circulatory disorder).\n* Has a current chronic pain condition or has had chronic pain in the past (painful condition lasting more than six months).\n* Has a dermatological condition affecting the testing region such as scars, burns, or recent tattoos that might influence cutaneous sensibility.\n* Regular use of prescription medication that has a significant effect on pain or heat perception. Excluded medications include central-acting agents such as opiates (morphine, tramadol), antidepressants (amitriptyline, duloxetine, milnacipran), anticonvulsants (gabapentin, pregabalin), anxiolytics (barbituates, benzodiazepines), hypnotics (zolpidem, sodium oxybate), antipsychotics (valproate, lithium, olanzapine), antimigraine agents (sumatriptan, ergotamine), and muscle relaxants (cyclobenzaprine, carisoprodol). Use of analgesic medications, such as non-steroidal anti-inflammatories, salicylates, and acetaminophen, taken on an \"as needed\" basis is acceptable as long as the last dose taken was within 5 half-lives of testing.\n* Is pregnant.\n* NIH staff member who is a subordinate/relative/co-worker of any investigator on the protocol.\n\nEXCLUSION CRITERIA (fMRI sub-studies):\n\n* Individuals with conditions that could pose a risk relating to the safety of the fMRI procedure or pain stimulation will be excluded from the MRI portion of the protocol, but may participate in the non-fMRI sessions (with the exception of pregnant women). Such conditions include:\n\n  * Those with ferromagnetic metal in the cranial cavity or eye, e.g. aneurysm clip, implanted neural stimulator, cochlear implant, ocular foreign body.\n  * Those with an abnormality on a structural MRI.\n  * Those with an implanted cardiac pacemaker or auto-defibrillator.\n  * Those with an insulin pump.\n  * Those with irremovable body piercing.\n  * Pregnant women (based on urine test completed within 24 hours prior to scan).\n* Individuals who are left-handed (based on self-report or score on handedness questionnaire) will be excluded from fMRI substudies.\n\nEXCLUSION CRITERIA (placebo analgesia sub-studies):\n\n-Participation in an NIH study of analgesia, as gleaned from CRIS.",
+  "minimum_age": "18 Years",
+  "maximum_age": "50 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pain",
+    "Normal Physiology",
+    "Healthy Volunteers"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology study enrolling only healthy volunteers with no history of chronic pain or major medical conditions. There is no line-of-therapy intent as no cancer or systemic therapy is involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls only healthy volunteers without any chronic pain or major medical conditions. There is no mention of cancer, advanced disease, or systemic therapy, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

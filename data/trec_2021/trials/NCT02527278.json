@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT02527278",
+  "title": "Retrospective Claims Analysis of Hysterectomy After Sterilization",
+  "brief_summary": "The research questions are:\n\n1. What is the proportion of women undergoing hysterectomy after hysteroscopic sterilization or laparoscopic tubal ligation?\n2. What is the proportion of women undergoing salpingectomy, salpingostomy, or hysteroscopy after hysteroscopic sterilization or laparoscopic tubal ligation?\n3. What is the proportion of women who have a diagnosis of pelvic pain after hysteroscopic sterilization or laparoscopic tubal ligation?",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Women aged 18 through 49 years at the index date\n* at least one claim of the hysteroscopic sterilization procedure or interval laparoscopic tubal ligation at any time during January 1, 2010 -December 31, 2012\n* Had 6 months of continuous medical and pharmacy benefits pre-index date which is considered the baseline period to capture all patient characteristics prior to the procedure\n* Had 12 months of continuous medical and pharmacy benefits post-index date (i.e., follow-up period)\n\nExclusion Criteria:\n\n* Women who underwent a postpartum tubal ligation procedure during the entire study period\n* Women who had claims of a sterilization procedure during the baseline period\n* Women who had a claim for pregnancy or delivery within 6 weeks prior to the index date\n* Women who had more than one type of sterilization procedure (i.e., combination of hysteroscopic sterilization, laparoscopic tubal ligation or mini-laparotomy) on the same index date\n* Women who had concurrent procedures on the same day as the index sterilization procedure that were performed for reasons beyond the purpose of sterilization",
+  "minimum_age": "18 Years",
+  "maximum_age": "49 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Women aged 18 - 49 at the time of the sterilization procedure from an administrative claims database",
+  "condition": [
+    "Contraception"
+  ],
+  "overall_status": "COMPLETED"
+}

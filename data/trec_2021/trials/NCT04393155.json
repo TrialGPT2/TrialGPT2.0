@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04393155",
+  "title": "COVID Cohort Study",
+  "brief_summary": "The novel SARS-CoV-2 virus has quickly spread worldwide, with substantial morbidity and mortality. There is very limited understanding of the short- and longer-term inflammatory/immunological and clinical course. However, the investigators expect survivors from severe COVID-19 to experience persistent functional impairments, as demonstrated in prior studies of patients with acute respiratory distress syndrome (ARDS) and other acute viral illnesses. Notably, however, few studies have ever investigated the biologic mechanisms underlying these functional impairments. Understanding these features of COVID-19 will improve the ability to design acute therapies and recovery-focused interventions. To address these knowledge gaps, the investigators propose a two-center, 225 patient longitudinal prospective cohort study of hospitalized COVID-19 patients with acute respiratory failure. Researchers will perform an in-depth evaluation of inflammatory/immunological biomarkers, and physical, pulmonary, and neuropsychological clinical outcomes during hospitalization, and over 3-, 6-, and 12-month follow-up.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Adult (\u226518 years old) at the time of consent\n2. Positive COVID-19 test result or highly suspicious for COVID-19 infection and have a test pending\n3. Acute Respiratory Failure (new requirement for supplemental oxygen or acute increase in required supplemental oxygen)\n\nExclusion Criteria:\n\n1. Expected death or withdrawal of life-sustaining treatments within 3 days\n2. Unable to walk \u2265150 feet prior to COVID-19 (due to 6-minute walk test being primary outcome for in-person testing)\n3. Hemoglobin \u22647.0 at the time of consent\n4. Pre-existing cognitive/language impairment prohibiting clinical outcomes assessment\n5. Prior lung resection (due to spirometry as part of in-person outcome assessment)\n6. Unable to provide consent and no legally authorized representative (LAR) identified or reached by phone\n7. Pregnant\n8. Incarcerated\n9. Homelessness\n10. Physician declines patient enrollment (attending physician or study physician)\n11. Patient or LAR do not consent to participate in the study",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "This study will enroll patients hospitalized at participating medical centers who have a positive test result for COVID-19. These patients are expected to have a greater acuity of illness and burden of disease based on the fact that they require inpatient care. Enrolling hospitalized patients ensures a greater opportunity to collect serial biological specimens over the course of the illness due to proximity of the patient to medical and research staff and UVM laboratories.",
+  "condition": [
+    "COVID-19",
+    "Acute Respiratory Failure"
+  ],
+  "overall_status": "TERMINATED"
+}

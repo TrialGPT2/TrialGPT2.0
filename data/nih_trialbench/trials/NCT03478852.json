@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT03478852",
+  "title": "Investigating Epilepsy: Screening and Evaluation",
+  "brief_summary": "Background:\n\nEpilepsy affects about 1 percent of the U.S. population. Most people with epilepsy respond well to medicine, but some do not. Researchers want people who have diagnosed or suspected epilepsy to participate in ongoing studies. They want to learn more about clinical care for epilepsy. They want fellows and residents to learn more about the care of people with epilepsy.\n\nObjectives:\n\nTo learn more about seizures and find ways to best treat people with drug-resistant epilepsy.\n\nEligibility:\n\nAdults and children ages 8 years and older with diagnosed or suspected epilepsy\n\nDesign:\n\nParticipants will be screened with:\n\nPhysical exam\n\nMedical history\n\nQuestionnaires\n\nParticipants will have many visits. They may be admitted to the hospital for several weeks. Their medication might be stopped or changed.\n\nParticipants will have many tests:\n\nBlood and urine tests\n\nEEG: Wires attached to the head with paste record brain waves. This may be videotaped.\n\nThinking and memory tests\n\nMRI: Participants lie on a table that slides in and out of a tube. They perform simple tasks in the tube.\n\nMEG: Participants lie on a table and place their head in a helmet to record brain waves.\n\nPET scan: Participants lie on a table that slides into a machine. A small amount of radioactive dye is injected into their arm with an IV. For the IV, a small tube is inserted into the arm with a needle.\n\nParticipants will stay enrolled in this study if they join other epilepsy-related studies. They may be contacted at intervals for follow-up. Their participation will end if they have not been seen clinically for their epilepsy for 3 years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Age 8 years or older\n* Known or suspected diagnosis of epilepsy\n* Ability to give informed consent or have a legally authorized representative able to give consent (for adults without consent capacity) or parent/guardian able to provide informed consent (for a child)\n* If unable to give informed consent, ability to give assent (for minors 8 and older)\n\nEXCLUSION CRITERIA:\n\n* Patients with unstable medical conditions that, in the opinion of the investigators, makes participation unsafe, or who, in the opinion of the investigators may be unable to comply with the protocol\n* Patients who are unable to travel to the NIH",
+  "minimum_age": "8 Years",
+  "maximum_age": "110 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adults and Children age 8 years and older referred with a known or suspected diagnosis of epilepsy",
+  "condition": [
+    "Seizures",
+    "Epilepsy",
+    "Epilepsy, Temporal Lobe",
+    "Partial Epilepsy"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology observational study enrolling patients with diagnosed or suspected epilepsy, regardless of prior treatments. There are no requirements or restrictions regarding prior lines of therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference prior lines of therapy or systemic treatment, as this is not an oncology trial. All patients with diagnosed or suspected epilepsy are eligible regardless of treatment history."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01448005",
+  "title": "LifeVest Post-CABG Registry",
+  "brief_summary": "This is a multi-center prospective registry of patients with an ejection fraction (EF) \u2264 35% following coronary artery bypass graft (CABG) surgery in order to test the hypothesis that wearable defibrillators (WD) will decrease overall mortality after discharge by decreasing arrhythmic death in this select population with high risk for sudden cardiac death (SCD). This is a pilot project to determine the feasibility of a larger-scale study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients who have undergone CABG surgery during current hospitalization\n* Patients who have an ejection fraction \u2264 35% following the surgery.\n* Patients who have dilated cardiomyopathy or prior myocardial infarction.\n* Patients who are prescribed a wearable defibrillator following surgery.\n* Patient who are at least 18 years old.\n\nExclusion Criteria:\n\n* Patients who have an active ICD.\n* Patients who have an active unipolar pacemaker.\n* Patients having a chest circumference over 56 inches or under 26 inches.\n* Patients who are unable to consent or unwilling to wear the WCD after discharge or who do not agree to be contacted at 90 days.\n* Patients with a mental, visual, physical or auditory deficit that could impair their ability to properly interact with a wearable defibrillator.\n* Patients participating in another clinical study with mortality as the primary endpoint.\n* Patients unable to use a wearable defibrillator due to physical conditions (bandages preventing electrode contact, physical deformities preventing electrode contact, dextrocardia, etc.).\n* Patients who have decided to forgo resuscitation.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who have undergone CABG surgery during current hospitalization and have an ejection fraction \u2264 35% following the surgery.",
+  "condition": [
+    "Sudden Cardiac Death",
+    "Ventricular Fibrillation",
+    "Ventricular Tachycardia",
+    "Ventricular Dysfunction",
+    "Myocardial Ischemia"
+  ],
+  "overall_status": "TERMINATED"
+}

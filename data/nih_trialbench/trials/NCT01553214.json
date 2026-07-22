@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT01553214",
+  "title": "Improving White Blood Cell Collection From Healthy Donors",
+  "brief_summary": "Background:\n\n\\- White blood cells called granulocytes help the body fight infection. People who have had chemotherapy or bone marrow transplants may have very low numbers of these cells. Transfusions of these cells can help improve the body's ability to fight infection. However, most of the cells are located in the bone marrow or spleen, and are hard to collect from healthy donors. Two drugs, filgrastim and dexamethasone, can help move the cells to the bloodstream to be collected by apheresis. Researchers want to study the best ways to collect these white blood cells. They also want to monitor the effects of the injections and donations on the volunteer donors.\n\nObjectives:\n\n\\- To improve the amount and quality of granulocytes (white blood cells) collected by apheresis for donation.\n\nEligibility:\n\n\\- Healthy volunteers between 18 and 75 years of age.\n\nDesign:\n\n* Participants will be screened with a physical exam and medical history. Initial blood tests will be done to check for eligibility.\n* Participants will donate granulocytes by apheresis a maximum of 12 times in 1 year. Donations will not usually be requested more often than every 4 weeks. Donors will be allowed to decline participation at any time.\n* Participants will have one injection of filgrastim 12 to 24 hours before donation. They will also have two tablets of dexamethasone 12 hours before donation.\n* White blood cells will be collected through apheresis. The apheresis will last about 2 hours.\n* Participants will be eligible to donate until they reach their 76th birthday.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Donors shall meet all donor eligibility criteria for allogeneic blood donors, as defined in the most recent editions of the AABB Standards and FDA Code of Federal Regulations (21CFR640). In addition, donors shall meet the following restrictions:\n* Age greater than or equal to18 and less than or equal to 75 years\n* If hypertension is present, must be well-controlled on medications\n* If peptic ulcer disease has been diagnosed in the past, symptoms must be well-controlled on medications\n* If cataracts have been diagnosed in the past, records from subject s ophthalmologist must be obtained indicating type of cataract. If PSC was diagnosed in the past, subject may receive G-CSF but not dexamethasone. The only exception to this is a history of bilateral cataract extractions due to PSC.\n\nEXCLUSION CRITERIA:\n\n* Information obtained from health history screen that does not meet the allogeneic donor eligibility criteria of the AABB Standards or the FDA CFR.\n* Weight less than 50 kg (110 lbs).\n* History of coronary heart disease\n* Uncontrolled hypertension (systolic BP \\>160, diastolic BP \\>100)\n* Diabetes mellitus requiring insulin\n* Active, symptomatic peptic ulcer disease\n* History of iritis or episcleritis\n* Sickle cell disease (sickle trait is acceptable). Testing for hemoglobin S is not required.\n* Lithium therapy\n* Pregnancy or nursing (breast feeding)\n* Renal function eGFR \\< 45 ml/min/1.73m(2)",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Allogeneic Granulocyte Donation"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls only healthy volunteer donors and does not involve treatment of advanced disease. There is no line-of-therapy intent applicable to this study.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study population consists exclusively of healthy volunteers donating granulocytes; there is no treatment of advanced disease and no systemic therapy lines are relevant. No line-of-therapy criteria are specified or applicable."
+    }
+  ]
+}

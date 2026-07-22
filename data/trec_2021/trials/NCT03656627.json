@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT03656627",
+  "title": "Nivolumab in Patients With Advanced Non-Small Cell Lung Cancer and Pre-existing Autoimmune Disease",
+  "brief_summary": "The purpose of this study is to explore the safety, tolerability and activity of Nivolumab, a PD-1 inhibitor, in cohorts of patients with autoimmune disease. Two cohorts of patients will be enrolled, based on autoimmune disease type.\n\nPatients will be screened within 28 days prior to the start of dosing. Eligible patients will be enrolled in either of the two cohorts. Patients will receive treatment every two weeks, in an outpatient setting. One cycle is a 28-day period, with Nivolumab given on days 1 and 15 of a 28-day cycle. Subjects will be permitted to continue treatment beyond initial RECIST 1.1.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age \\> 18\n2. Eastern Cooperative Oncology Group (ECOG) performance status of 0-1\n3. Metastatic, locally advanced or recurrent NSCLC, not amenable to curative therapy.\n4. Patients should have received at least one platinum-based chemotherapy regimen for recurrent or metastatic disease or have received platinum-based chemotherapy as part of adjuvant or neoadjuvant therapy and experienced progression of disease within 6 months of completing therapy.\n5. Patients with tumor genetic alterations such as EGFR, ALK, ROS1 or BRAF V600E alterations for which there is FDA-approved targeted therapy must have been treated with the appropriate targeted inhibitors in prior therapy\n6. No limit on number of prior therapies\n7. Ability to provide written, informed consent\n8. Patients must be on a stable regimen of treatment for their autoimmune condition without need for addition of new medications or escalating doses of preexisting medications in the previous 12 weeks prior to study entry\n9. In addition, patients with the following autoimmune diseases must have baseline disease activity scores as follows (please see Appendix A):\n\n   * For rheumatoid arthritis: DAS28 \\< 5.1\n   * For polymyalgia rheumatica: PMR-AS \\< 17\n   * For Sjogrens: ESSDAI \\< 14\n   * For ulcerative colitis: SSCAI \\< 5\n   * For Crohn's disease: CDAI \\< 450\n   * For systemic lupus erythroderma: SLEDAI-2K \\< 20\n   * For multiple sclerosis: EDSS \\< 5.5\n10. Adequate organ and marrow function as defined by:\n\n    * absolute neutrophil count \u2265 1,500/mcL\n    * platelets \u2265 100,000/mcL\n    * total bilirubin \u2264 2.5 \u00d7 institutional upper limit of normal\n    * AST(SGOT)/ALT(SGPT) \u2264 2.5 \u00d7 institutional upper limit of normal, OR\n    * AST(SGOT)/ALT(SGPT ) \u22645 \u00d7 institutional upper limit of normal if liver metastases are present\n    * Creatinine within normal institutional limits OR\n    * Creatinine clearance \u226560 mL/min/1.73 m2 for participants with creatinine levels above institutional normal.\n11. Non-pregnant and non-nursing.\n12. Women of childbearing potential (WOCBP) must be willing to use 2 methods of birth control or be surgically sterile, or abstain from heterosexual activity for the course of the study through 5 months after the last dose of study medication. Patients of childbearing potential are those who have not been surgically sterilized or have not been free of menses \\> 1 year.\n13. Male patients must agree to use an adequate method of contraception starting with the first dose of study therapy through 7 months after the last dose of study therapy.\n\nExclusion Criteria:\n\n1. No chemotherapy or radiotherapy within two weeks of study entry. Prior targeted therapy is allowed as long as at least 5 half-lives have elapsed since last dose.\n2. All adverse events (other than alopecia) from prior therapy must be resolved to Grade 1 or less.\n3. Patients who are known to be HIV positive are excluded due to the known immunologic alterations associated with the disease. HIV testing is not required.\n4. No uncontrolled intercurrent illness such as active infection, or psychiatric illness or social situation that in the judgment of the investigator would limit compliance with study requirements\n5. No active interstitial lung disease (ILD) or pneumonitis, or a history of ILD or pneumonitis requiring treatment with corticosteroids\n6. No live vaccine within 30 days of start of study treatment\n7. No carcinomatous meningitis or untreated CNS metastases\n8. No history of significant cardiac disease or presence of an abnormality in electrocardiograms that, in the investigator's opinion, is medically exclusionary or clinically meaningful\n9. No other active malignancy\n10. No known history of or positivity for active hepatitis B or C. HBV DNA and/or HCV RNA must be undetectable and HBsAg must be negative at the time of screening\n11. No active unstable angina and/or congestive heart failure, or myocardial infarction within 6 months prior to protocol participation",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Autoimmune Diseases",
+    "Non-small Cell Lung Cancer",
+    "Rheumatoid Arthritis",
+    "Psoriasis",
+    "Giant Cell Arteritis",
+    "Polymyalgia Rheumatica",
+    "Systemic Lupus Erythematosus",
+    "Crohn Disease",
+    "Multiple Sclerosis",
+    "Ulcerative Colitis"
+  ],
+  "overall_status": "TERMINATED"
+}

@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT03572569",
+  "title": "Risk Stratification in Children and Adolescents With Primary Cardiomyopathy",
+  "brief_summary": "RIKADA is a prospective study performing systematic family screening including clinical and genetic testing in pediatric patients with primary cardiomyopathy and their first-degree relatives with the aim to facilitate risk stratification.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Index patients:\n\n   * Age \u226418 years\n   * written informed consent of parents/legal guardians\n   * diagnosis of primary cardiomypathy:\n   * DCM: left ventricular (LV) systolic dysfunction and dilatation greater than two standard deviations (SD) above the mean of a normal population\n   * HCM: LV hypertrophy and septal wall thickness above two SD\n   * RCM: diastolic dysfunction and concordant atrial enlargement\n   * LVNC: separation of the myocardium into a compacted (C) and a non- compacted (NC) layer with an NC/C ratio \\>2 in echocardiography and/or \\>2.3 in CMR\n   * ARVC: according to the revised Task Force Criteria\n2. First-degree family members (parents and siblings):\n\n   * Age \u22653 years\n   * written informed consent of parents/legal guardians and siblings \u226518 years\n\nExclusion Criteria:\n\n* unwillingness to give consent\n* myocardial inflammation / myocarditis\n* systemic disease with cardiac involvement (secondary cardiomyopathy)\n* structural congenital heart disease",
+  "minimum_age": "",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Department of pediatric cardiology including outpatient department",
+  "condition": [
+    "Primary Cardiomyopathy",
+    "Dilated Cardiomyopathy",
+    "Hypertrophic Cardiomyopathy",
+    "Left Ventricular Noncompaction",
+    "Restrictive Cardiomyopathy",
+    "Arrhythmogenic Right Ventricular Cardiomyopathy"
+  ],
+  "overall_status": "UNKNOWN"
+}

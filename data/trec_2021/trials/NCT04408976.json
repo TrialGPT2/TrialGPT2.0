@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04408976",
+  "title": "Implementation Study With Decision Support Based on Data",
+  "brief_summary": "This study evaluates the implementation of a machine learning based clinical decision support system for treatment of patients presenting with an urinary tract infection in general practice. The software was developed to support general practitioners in the choice of antibiotic regimen.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with a urinary tract infection in general practice\n* Age \\> 12 years.\n\nExclusion Criteria:\n\n* No.",
+  "minimum_age": "12 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with a urinary tract infection diagnosed by the general practitioner",
+  "condition": [
+    "Urinary Tract Infections"
+  ],
+  "overall_status": "COMPLETED"
+}

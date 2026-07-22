@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT00024635",
+  "title": "Evaluation of Patients With Mood and Anxiety Disorders and Healthy Volunteers",
+  "brief_summary": "The purpose of this protocol is to allow for the careful screening of patients and healthy volunteers for participation in research protocols in the Experimental Therapeutics and Pathophysiology Lab (ETPB) at the National Institute of Mental Health (NIMH) and for the collection of natural history data. In addition the protocol will allow clinicians to gain more experience in the use of a variety of polysomnographic and high-density EEG recordings. Subjects in this protocol will undergo an evaluation which may include: a psychiatric interview; a diagnostic interview; rating scales; a medical history; a physical exam; brain magnetic resonance imaging (MRI); electroencephalography (EEG); electrocardiography (EKG), magnetoencephalography (MEG); blood, saliva and urine laboratory evaluation; and a request for medical records. Subjects may also be asked to complete questionnaires about attitudes towards research and motivation for research participation. The data collected may also be linked with data from other mood and anxiety disorder protocols (e.g., brain imaging, DNA, psychophysiology tests, treatment studies, etc) for the purposes of better understanding the diagnosis, pathophysiology, and treatment response of patients with mood disorders. Parents of minors will be interviewed. Upon conclusion of the screening process, subjects will either be offered participation in a research protocol and will sign the appropriate informed consent, or will be considered not appropriate for participation in research and will be referred back into the community. The current protocol thus serves as an entry point for individuals with mood or anxiety disorders or healthy volunteers to enter NIMH IRB approved ETPB protocols.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Subjects ages 3 to 99 may enroll in the protocol.\n* Subjects must be competent to comprehend the purpose of the screening process and to provide written informed consent and be willing to participate in NIMH IRB approved research protocols. Minors will be asked to assent and their parents will sign the consent form.\n* Subjects will undergo an evaluation which may include a psychiatric interview, medical (including Tanner staging for minors), neurological, and laboratory examinations (as appropriate such as EKG, EEG, renal and liver function tests, serum electrolytes, urinalysis, HIV, hepatitis A, B, and C, lupus anticoagulant, anticardiolipin (aCL) antibodies, anti-b2glycoprotein-I antibodies, PT/PTT, blood levels of psychotropic drugs, pregnancy testing, and urine drug screen for the presence of psychoactive drugs and drugs of abuse).\n\nEXCLUSION CRITERIA:\n\n* Current alcohol or substance use or dependence (excluding nicotine) within the past 3 months of sufficient magnitude to require independent, concurrent treatment intervention (e.g. antabuse or opiate treatment, but not including self-help groups).\n* Whether the minor lives with both parents or one parent, the parent(s) he/she lives with must have legal custody. If a parent has shared custody, both parents must consent to participate in this protocol.",
+  "minimum_age": "3 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals being evaluated for mood and anxiety disorders and healthy volunteers",
+  "condition": [
+    "Mood Disorders",
+    "Anxiety Disorders",
+    "Healthy Volunteers",
+    "Bipolar Disorder",
+    "Depression"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a screening and natural history protocol for patients with mood and anxiety disorders and healthy volunteers. There is no cancer diagnosis or systemic therapy for advanced disease involved, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This protocol is for screening and evaluation of patients with mood and anxiety disorders and healthy volunteers. There is no mention of cancer, systemic therapy, or lines of therapy for advanced disease, so line-of-therapy intent does not apply."
+    }
+  ]
+}

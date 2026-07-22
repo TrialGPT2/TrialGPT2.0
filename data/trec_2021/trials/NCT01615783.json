@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01615783",
+  "title": "Clinical and Economic Burden of Patients With Chronic Obstructive Pulmonary Disease in a Medicaid Population",
+  "brief_summary": "Reports suggest that the Medicaid population includes a higher percentage of smokers than the general population. A high prevalence of smokers in a population is likely to lead to a higher burden of chronic obstructive pulmonary disease (COPD). Few studies have evaluated the economic burden of COPD in a Medicaid population. The objective of this observational, retrospective cohort study is to estimate the economic burden of COPD in subjects with a COPD diagnosis who are enrolled in Medicaid and are receiving maintenance treatment covered by Medicaid.\n\nSpecifically, the null hypothesis for the primary outcome measure is that no difference is observed in all-cause costs between subjects with and without COPD. The test hypothesis is that there is a difference in all-cause costs between subjects with and without COPD.\n\nSecondary outcomes to be evaluated include all-cause resource use and COPD-related costs for the COPD cohort.\n\nThe study uses a medical and pharmacy administrative claims database called MarketScan Medicaid Database that contains the medical, surgical, and prescription drug experience of nearly 7 million Medicaid recipients. This analysis will use data from 8 states.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* at least 40 years of age at index date\n* continuously eligible to receive healthcare services through Medicaid in the pre-index and follow-up period\n* enrolled in fee-for-service plans\n* without a diagnosis code of exclusionary comorbid conditions - cystic fibrosis, bronchiectasis, respiratory cancer, pulmonary fibrosis, pneumoconiosis, sarcoidosis, pulmonary tuberculosis (including fibrosis due to tuberculosis)\n\nExclusion Criteria:\n\n* age less than 40 at index dates",
+  "minimum_age": "40 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Medicaid recipients (aged \\>=40 years) diagnosed with COPD (International Classification of Disease, Ninth Revision, Clinical Modification (ICD-9 CM) codes: 491.xx, 492.x, 496.xx) and newly initiated on Chronic Obstructive Pulmonary Disease (COPD) maintenance medication (maintenance therapies include ipratropium alone/combination ipratropium-albuterol (IPR), tiotropium (TIO), inhaled corticosteroid (ICS), long-acting beta-agonist (LABA), and combination product of inhaled corticosteroid and long-acting beta-agonist (ICS/LABA)) will be identified and matched in a 1 to 3 ratio to non-COPD Medicaid recipients on age (exact), gender, race, index year, Medicare dual eligibility, pre-index long-term care use. Index date was defined as the date of the first chronologically-occurring COPD maintenance medication during an identification period (01/01/2004 to 12/31/2006) for COPD patients, and as the date of the first medical or prescription claim during the index year of the corresponding matche",
+  "condition": [
+    "Pulmonary Disease, Chronic Obstructive"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,56 @@
+{
+  "nctid": "NCT03602599",
+  "title": "Chronic Graft-versus-Host Disease in the Oral Cavity of Patients Following Allogeneic Hematopoietic Stem Cell Transplant and Including Healthy Controls",
+  "brief_summary": "Background:\n\nThis study follows people who have had, or will soon have, a transplant using stem cells from another person. This is known as an allogeneic hematopoietic stem cell transplant (HSCT). Graft-versus-host disease (cGVHD) can happen after HSCT. cGVHD can cause mouth problems and more serious issues. Researchers want to study changes in the mouth that might indicate cGVHD.\n\nObjective:\n\nTo identify cGVHD in the mouth and better understand the development, treatment, and progress of post-transplant changes in the mouth.\n\nEligibility:\n\nAdults at least 18 years old who will soon undergo HSCT or have had one in the past 3 years Healthy adults at least 18 years old\n\nDesign:\n\nAll participants will have a screening visit and baseline visit. They will last 60-90 minutes. Over these two visits, participants will have:\n\nMedical and dental history\n\nDental exam.\n\nQuestions about their eating habits and general health\n\nBlood drawn through a needle in the arm\n\nVital signs taken\n\nPictures of their mouth and lips taken\n\nQuestions about their oral health, including about pain, sensitivity, or dryness\n\nSaliva samples taken. Participants will spit into a sterile plastic tube.\n\nSwabs taken of the mouth and some of the saliva, plaque, and fluid from the spaces between teeth and gums.\n\nParticipants may also have:\n\nA piece of skin taken (biopsy) from the inner lining of the cheeks\n\nA piece of skin taken (biopsy) from the lower lip\n\nDental X-rays\n\nUrine pregnancy test\n\nMost participants will have at least 7 study visits over 3 years. They will meet with a dentist and repeat baseline tests.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Subjects in Cohort NT and Cohort PT must satisfy all of the following criteria in order to participate in the study:\n\n  * Scheduled to undergo allogeneic HSCT at the NIH (Cohort NT) or have already undergone allogeneic HSCT at the NIH or another institution (Cohort PT) and are within 3 years of most recent bone marrow transplant\n  * Willing to participate in protocol evaluations including saliva collection, oral swab collection, and completion of patient-reported outcome (PRO) forms\n  * Willing to return to the NIH Dental Clinic for scheduled evaluations\n  * Be at least 18 years of age at screening\n  * Be able to understand and provide written informed consent\n* Subjects in Cohort HL and Cohort HS must satisfy all of the following criteria in order to participate in the study:\n\n  * Willing to undergo oral exam and participate in Visit 1 protocol evaluations including saliva collection, oral swab collection and oral biopsies.\n  * Be at least 18 years of age at screening\n  * Be able to understand and provide written informed consent\n  * Potentially be age- and/or sex-matched with a transplant patient\n* Subjects in Cohort HL must additionally be willing and able to return to the NIH Dental Clinic for scheduled visits across 1 year and participate in evaluations including saliva collection, oral swab collection, and completion of PRO forms\n\nEXCLUSION CRITERIA:\n\n* Subjects in any Cohort will be excluded if they are pregnant, as pregnancy can have a confounding effect on the oral microbiome\n* Subjects in Cohort NT may not participate in the study if, in the opinion of the NIH transplant team, participation in the protocol would not be safe or in the subject s best interest\n* Subjects in Cohort PT. There are no additional exclusion criteria for subjects in this cohort.\n* Subjects in Cohorts HL and Cohort HS may not participate in the study if they meet either of the following criteria:\n\n  * Have any acute oral mucosal or dental infection requiring multiple dental appointments or specialist referral for treatment; uncontrolled chronic disease; active systemic illness; are currently undergoing orthodontic treatment; history of frequent opportunistic infection; autoimmune disease; immunosuppressive medications; or prior organ, bone marrow, or peripheral blood stem cell transplant\n  * Are taking medications or are on other ongoing therapies that have a known or suspected major impact on the oral microbiome\n* Subjects in Cohort HL additionally may not participate if they are planning to become pregnant within the next year or refuse to have oral biopsies.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects in Cohort NT and Cohort PT will be scheduled to undergo allogeneic hematopoietic stem cell transplant at the NIH (Cohort NT) or have already undergone allogeneic HSCT at the NIH or another institution (Cohort PT) and are within 3 years of most recent bone marrow transplant. Subjects in Cohort HL and Cohort HS will be healthy volunteers and may potentially be age- and/or sex-matched with a transplant patient participant. All subjects will be at least 18 years of age.",
+  "condition": [
+    "Graft Versus Host Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of oral changes in patients before or after allogeneic hematopoietic stem cell transplant (HSCT), as well as healthy controls. The study does not require or restrict any prior systemic therapy for advanced disease, as it is not an interventional cancer therapy trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Cohort NT",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Cohort NT includes subjects scheduled to undergo allogeneic HSCT. There are no requirements or restrictions regarding prior systemic therapy for advanced/metastatic disease; line-of-therapy status is not specified or relevant to eligibility."
+    },
+    {
+      "cohort_label": "Cohort PT",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Cohort PT includes subjects who have already undergone allogeneic HSCT within the past 3 years. There are no requirements or restrictions regarding prior systemic therapy for advanced/metastatic disease; line-of-therapy status is not specified or relevant to eligibility."
+    },
+    {
+      "cohort_label": "Cohort HL",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Cohort HL consists of healthy adults, potentially age- and/or sex-matched to transplant patients. There is no cancer diagnosis or systemic therapy history relevant to this cohort."
+    },
+    {
+      "cohort_label": "Cohort HS",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Cohort HS consists of healthy adults, potentially age- and/or sex-matched to transplant patients. There is no cancer diagnosis or systemic therapy history relevant to this cohort."
+    }
+  ]
+}

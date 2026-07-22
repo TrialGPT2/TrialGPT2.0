@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03982628",
+  "title": "ICU Sarcopenia Rates by Abdominal CT: Sepsis vs. Trauma",
+  "brief_summary": "Using abdominal computed tomography (CT) imaging, the investigators will estimate total body muscle mass at two time points in Intensive Care Unit (ICU) by assessing cross-sectional muscle areas at the L3 vertebral body level. This allows for a determination of the rate of sarcopenia development in the ICU.\n\nWith this information, the investigators propose to test if the rates of the development of sarcopenia differ in critically ill subjects with sepsis compared to a reference group of critically ill subjects with trauma (without sepsis).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Admitted to ICU with sepsis or trauma\n* Two abdominal CT imaging tests (separated by at least 24 hours, within the first 3 weeks of their ICU admission) performed as part of their routine clinical care.\n\nExclusion Criteria:\n\n* Children (age \\< 18 years)\n* Repeat admission to ICU within the previous 6 months\n* Medical or neurological diagnosis that may plausibly affect the muscle bulk of the muscles at the L3 vertebra body level (e.g. achondroplasia, spinal muscular atrophy, spinal cord injury, etc.)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "We are comparing muscle mass estimations based on previously ordered serial abdominal CT imaging. We are comparing sepsis to a reference group of trauma without sepsis. We anticipate that the sepsis group will contain subjects with abdominal sepsis primarily (as this would be a trigger for clinically testing patients with repeat abdominal CT imaging). We anticipate the the trauma cohort will consist of primarily splenic lacerations that are being monitored clinically, although this group will also likely contain patients with liver, renal, and intestinal injuries related to trauma.",
+  "condition": [
+    "Sarcopenia",
+    "Critical Illness",
+    "Sepsis",
+    "Trauma"
+  ],
+  "overall_status": "UNKNOWN"
+}

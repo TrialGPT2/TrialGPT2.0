@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT02315599",
+  "title": "Follow-Up Evaluation for Gene-Therapy-Related Delayed Adverse Events After Participation in Pediatric Oncology Branch Clinical Trials",
+  "brief_summary": "Background:\n\n\\- Gene therapy involves changing the genes inside the body s cells to stop disease. It is very closely regulated. People who have had this therapy may have problems months or even years later. Researchers do not know the long-term side effects, so they want to study people who have had the therapy. They want the study to continue over the next 15 years.\n\nObjective:\n\n\\- To study over time the negative side effects from genetically engineered cellular therapy. This will be studied in people who have been in Pediatric Oncology Branch (POB) gene therapy trials.\n\nEligibility:\n\n\\- People who are currently or were previously in a research study with gene therapy in the National Cancer Institute POB.\n\nDesign:\n\n* Participants blood will be tested right before they get the genetically changed cells. They will get the cells as part of another study.\n* For the next year, they will come back to the clinic or see their doctor at home at least every 3 months. They will answer questions about their health and blood will be drawn.\n* For the next 5 years, they will go to the clinic or see their own doctor once a year. They will have physical exam and blood will be drawn.\n* For 10 years after that, they will be asked every year for health information.\n* Participants will keep their contact information up to date with researchers. They may be phoned for more health information.\n* If the participant was under 18 years old when given the gene therapy and turns 18 during this follow-up, they will be asked to sign a new consent form when they turn 18.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Participants must be identified eligible for, participating in, or have participated in a POB genetically engineered cellular therapy clinical trial and have received/or be scheduled to receive a genetically engineered cellular therapy.\n* All monitoring and testing described in this protocol will pertain ONLY to genetically engineered cellular therapy received at the National Institutes of Health (NIH). RCR/RCL monitoring and persistence will NOT be followed for cells administered at another institution.",
+  "minimum_age": "1 Year",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants screening for, participating in, or have participated in a POB gene therapy clinical trial and have received/or be scheduled to receive a genetically engineered cellular therapy.",
+  "condition": [
+    "Pediatric Cancers",
+    "Hematologic Malignancies",
+    "Solid Tumors"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This is a long-term follow-up study for patients who have received genetically engineered cellular therapy as part of a Pediatric Oncology Branch (POB) clinical trial. The study does not specify or restrict the line of therapy for advanced disease at which gene therapy was administered.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility requires only that participants received or are scheduled to receive genetically engineered cellular therapy on a POB trial, with no mention of line of therapy for advanced disease. The protocol does not specify whether gene therapy was given as first-line, later-line, or for advanced/metastatic disease, nor does it address adjuvant-only patients."
+    }
+  ]
+}

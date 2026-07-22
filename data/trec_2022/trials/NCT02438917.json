@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02438917",
+  "title": "Biomarkers of Liver Fibrosis",
+  "brief_summary": "Chronic liver injury leads to the accumulation of proteins in the liver that form dense scars. Liver scar formation is typically a slow process that leads to major organ damage and loss of function over the course of many years. During scar formation the extracellular matrix in the liver changes. The type and quantity of extracellular collagen and other proteins change during tissue remodeling. Some of these changes can be detected by analyzing factors present in blood. Because of the lengthy time course, changes in the rate of liver scar formation and regression are very difficult measure; however, accurate measurements are needed in order to conduct trials of interventions aimed at preventing scar formation and/or promotion scar regression. Current methods have sub-optimal specificity and selectivity. The long term objective of the study is to identify serum proteins that can be used to accurately estimate rates of liver fibrosis progression and regression. The project focusses on a novel methodology that uses stable isotope labeling with deuterated water, D2O, to tag newly-synthesized proteins. Mass spectroscopy is used to identify individual proteins and to quantify the ratio of labeled protein to total protein. This ratio provides information about the rate of synthesis of the protein of interest. This method will be applied to specimens from patients with hepatitis C virus (HCV) infection who are about to begin HCV treatment. Treatment is known to reduce liver inflammation and collagen content.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult (18 years of age or older)\n* Positive test for HCV RNA\n* Planning to initiate treatment for HCV in the near future\n* Not diagnosed with any additional liver diseases, such as autoimmune hepatitis, hepatitis B, alcoholic liver disease, or HIV\n* Able to travel to Mount Sinai\n* Must understand and speak English\n* Willing to sign informed consent and participate\n\nExclusion Criteria:\n\n* Pregnancy\n* Incarcerated Person",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with the hepatitis C virus (HCV) who are about to begin HCV treatment.",
+  "condition": [
+    "Hepatitis C"
+  ],
+  "overall_status": "TERMINATED"
+}

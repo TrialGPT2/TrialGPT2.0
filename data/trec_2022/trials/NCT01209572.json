@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01209572",
+  "title": "Modelling of Energy Expenditure From Heart Rate, Accelerometry and Other Physiological Parameters",
+  "brief_summary": "At this time, 24h energy expenditure is rarely assessed under free-living conditions for specific individuals because of the lack of cheap and accurate software/materials to record the energy expenditure. Some affordable and convenient tools (Polar heart rate monitor, Actiheart, SenseWear Armband) are available on the market but the predictive equations comprised into the software provided with these tools generally miscalculate the energy expenditure (by about +/-10%). Because of this deficiency, the investigators have a poor knowledge of the modification of the energy expended during daily life activities and over 24h in subjects belonging to groups of various ages and physiological states. The investigators hypothesise that it could be possible to improve the energy expenditure prediction.\n\nThe project aims at providing a mathematical model (equations) that predicts energy expenditure with an error near to 5%. Two groups of 60 sedentary to athletic normal weight volunteers aged between 18-60 years participate to this study. The first group stay for 26h in calorimetric chambers. During this stay energy expenditure ,heart rate, accelerometry, and other parameters are recorded during various activities. These data will serve to construct the model. The same type of recordings are performed on second group of volunteers in free living conditions. Their energy expenditure is measured overall by doubly labeled water. The data of the second group will serve to validate the model. The error percentage of the model is defined by the ratio of the value of the difference between prediction and reference measure to the reference measure. Concordance between predictions and measures will be evaluated by Bland - Altman plots.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* men and women\n* age: 18-60 years\n* BMI between 19 and 25 kg/m\u00b2\n* subject considered as healthy after clinical examination and medical questionnaire\n* subject giving his/her written informed consent\n* subject willing to comply with study procedures\n* affiliated to National Health Insurance\n\nExclusion Criteria:\n\n* biological results judged abnormal by investigator\n* positive serologies to HIV or HCV\n* respiratory failure or cardiovascular problem\n* taking medicine : beta blockers, corticoids, anti-inflammatory drug, thyroid hormones, insulin\n* abnormal ECG\n* more than 10% of weight or gain loss in the three last months\n* tumoral, inflammatory, pulmonary, renal, digestive or liver diseases\n* surgery made less than 6 months before the study beginning\n* thyroid disease\n* pregnant women and nursing mother\n* insanity\n* smoker\n* claustrophobic\n* no affiliated to national health insurance people\n* refusal to sign informed consent\n* refusal to be registered on the national volunteers data file\n* currently participating or who having got 4500\u20ac in this year before to have participated in another clinical trial",
+  "minimum_age": "18 Years",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Computer Simulation",
+    "Energy Expenditure",
+    "Energy Metabolism"
+  ],
+  "overall_status": "COMPLETED"
+}

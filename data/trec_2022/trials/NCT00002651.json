@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00002651",
+  "title": "SWOG-9346, Hormone Therapy in Treating Men With Stage IV Prostate Cancer",
+  "brief_summary": "RATIONALE: Testosterone can stimulate the growth of prostate cancer cells. Hormone therapy may be effective treatment for prostate cancer. It is not yet known which regimen of hormone therapy is most effective for stage IV prostate cancer.\n\nPURPOSE: This randomized phase III trial is studying two different regimens of hormone therapy and comparing how well they work in treating men with stage IV prostate cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed adenocarcinoma of the prostate\n\n  * Metastatic stage IV (stage D2)\n\n    * Any number of bone metastases by bone scan allowed\n    * Unequivocal visceral organ metastases (liver, brain, or lung) allowed\n  * No suspected second primary tumors unless metastases are histologically confirmed, including special stains (e.g., prostate specific antigen \\[PSA\\] and prostatic alkaline phosphatase \\[PAP\\])\n* For entry into late induction therapy:\n\n  * No more than 1 month from the beginning of antiandrogen therapy to the beginning of luteinizing hormone-releasing hormone (LHRH) agonist therapy\n  * No more than 6 months since initiation of current combined androgen-deprivation therapy (LHRH agonist and antiandrogen)\n  * The effectiveness of the current depot LHRH agonist would not extend beyond 8 months after initiation of combined androgen therapy\n* PSA at least 5 ng/mL\n* No acute spinal cord compression\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* Adult\n\nPerformance status:\n\n* SWOG 0-2\n\nHematopoietic:\n\n* Not specified\n\nHepatic:\n\n* Not specified\n\nRenal:\n\n* Not specified\n\nOther:\n\n* Recovered from any major infection\n* No active medical illness that would preclude study or limit survival\n* No other malignancy within the past 5 years except:\n\n  * Adequately treated basal cell or squamous cell skin cancer\n  * Adequately treated carcinoma in situ of the bladder\n  * Adequately treated other superficial cancer\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No concurrent biological response modifier therapy\n\nChemotherapy:\n\n* No concurrent chemotherapy\n\nEndocrine therapy:\n\n* See Disease Characteristics\n* More than 1 year since any prior neoadjuvant or adjuvant hormonal therapy for a duration of no more than 4 months\n\n  * Single or combination therapy allowed\n* More than 1 year since prior finasteride for prostate cancer for a duration of no more than 9 months (less than 6 months for benign prostatic hypertrophy)\n* Prior or concurrent megestrol for hot flashes allowed\n* No other concurrent hormonal therapy\n\nRadiotherapy:\n\n* No concurrent radiotherapy other than palliation of painful bone metastases\n\nSurgery:\n\n* No prior bilateral orchiectomy\n* Recovered from any prior major surgery",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Prostate Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

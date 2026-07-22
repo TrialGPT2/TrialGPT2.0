@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02092155",
+  "title": "Biomarker Levels During Indwelling Pleural cAtheter Sample Testing",
+  "brief_summary": "Some patients that have a tunneled pleural catheter will not have the pleural fluid (water around the lung) return after some time (pleurodesis). The purpose of this study is to understand how the investigators can predict who will achieve pleurodesis and how this occurs by studying the pleural effusion.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion criteria:\n\n* Pleural effusion (etiology fulfilling one of the following criteria):\n\n  1. Malignant effusion confirmed by cytology or pleural biopsy\n  2. exudative effusion in the setting of known malignancy with no other identifiable cause\n  3. Malignant effusion due to tumors that are historically rapidly responsive to systemic therapy (small cell lung cancer, hematological malignancies) will only be included if refractory to standard chemotherapy\n* 18 years of age\n* Symptoms such as shortness of breath, cough, or chest fullness/chest discomfort\n* Demonstration of symptomatic improvement after therapeutic thoracentesis\n* Recurrent pleural effusion after therapeutic thoracentesis\n* Capacity to provide informed consent\n\nExclusion criteria:\n\n* Projected life expectancy less than 30 days.\n* Radiographic evidence of trapped lung - persistent lung collapse with failure of the majority (\\>50%) of the lung to reexpand following drainage of a pleural effusion\n* Previous lobectomy or pneumonectomy on the affected side\n* Patient receiving intrapleural chemotherapy\n* Chylothorax - pleural effusion with triglyceride levels \\> 110 mg/dl or chylomicrons on lipoprotein analysis, most commonly due to trauma/obstruction of the thoracic duct\n* Parapneumonic effusion - pleural effusion associated with pneumonia\n* Empyema - infected pleural space as defined by purulent pleural fluid, positive gram stain, or positive culture\n* Inability to adequately perform pleural drainage at home\n* Uncorrectable bleeding disorder\n* Skin infection at the site of intended catheter insertion\n* Pregnant women - detected by spot urine testing prior to the procedure",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients of the interventional pulmonology team who receive indwelling pleural catheters for a malignant pleural effusion.",
+  "condition": [
+    "Malignant Pleural Effusions"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION"
+}

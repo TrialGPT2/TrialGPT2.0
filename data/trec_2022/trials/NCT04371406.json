@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04371406",
+  "title": "Efficacy of Azithromycin-associated Hydroxychloroquine Therapy Given in General Practice in Early-stage Disease in COVID-19 Patients",
+  "brief_summary": "Hydroxychloroquine, a derivative of chloroquine (an antimalarial drug) with a weak immunosuppressive effect, is prescribed by some teams alone or in combination with azithromycin. No randomized controlled trials have demonstrated its efficacy, particularly in primary care in the early stages of the disease. However, currently available data suggest better efficacy if treatment is given early in the disease, before symptoms worsen. To date, the majority of COVID-19 patients treated in outpatient care, particularly in general practice, represent the majority of COVID-19 patients.\n\nIt is essential to evaluate, in primary care, the efficacy and safety of hydroxychloroquine combined with azithromycin in Covid-19 patients in order to be able to implement this therapeutic strategy as soon as the first symptoms appear. We realize a randomized, controlled, open superiority trial, in 2 parallel groups (ratio 1:1).The main objective is to assess the efficacy of Hydroxychloroquine combined with azithromycin in COVID-19 patients in primary care, in add-on to standard of care, on unfavorable outcome defined by the onset of at least one of the following between D0 and D14: hospitalization, death or percutaneous O\u00b2 saturation \u2264 92% in ambient air.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Inclusion criteria :\n* Adult aged 18 to 75 years old\n* Taken into primary health care for suspicion of early-stage COVID-19 infection (maximum 5 days of evolution). The patient must have presented within the previous 5 days at least one of the following criteria: fever (\u226538\u00b0C), cough, anosmia, agueusia, diarrhea, headache, myalgia.\n\nCriteria for randomization at D2 :\n\n* Positive PCR on deep nasopharyngeal swab.\n* Kalemia \u2265 3.5 mmol/L\n* Normal magnesium and calcium levels (according to laboratory standards)\n* QTc \u2264 460ms for women or QTc \u2264 450ms for men\n* Beta-hCG negative\n\nExclusion criteria :\n\n* Comorbidity(ies) or clinical condition of the patient requiring immediate oxygen therapy, hospitalization and/or ventilatory assistance\n* Concomitant treatment contraindicated, not recommended, or with precautions for use in combination with hydroxychloroquine or azithromycin:\n\n  * drug likely to induce torsades de pointe or at increased risk of ventricular arrhythmia, and in particular citalopram, escitalopram, hydroxyzine, domperidone, piperazine, class IA and III antiarrhythmics, tricyclic antidepressants, antipsychotics and certain anti-infectives (macrolides, fluoroquinolones).\n  * Alkaloids of ergot of rye, colchicine, cisapride\n  * proconvulsant or epileptogenic threshold lowering drugs: imipraminic antidepressants, selective serotonin reuptake inhibitors, neuroleptics (phenothiazines and butyrophenones) and tramadol.\n* Known history of contraindications or increased risk of treatment with hydroxychloroquine or azithromycin (retinopathy,renal failure, significant liver failure, severe cholestasis, porphyria, known G6PD deficit, hypomagnesemia and hypokalemia, diabetes, myasthenia gravis, Heart diseases (heart failure, infarction, arrhythmia, congenital QTc prolongation, abnormalities that interfere with QTc measurement such as Left Bundle Branch Block, Right Bundle Branch Block, Pace maker with ventricular pacing), epilepsy, allergy to hydroxychloroquine, chloroquine, azithromycin, erythromycin, any other macrolide, ketolide or any of the excipients of Plaquenil\u00ae or Zithromax\u00ae or any of the components of Azinc form and vitality\u00ae.\n* Ongoing treatment with hydroxychloroquine or azithromycin, regardless of the indication.\n* Taking other antiviral targeted therapy used in COVID-19 disease\n* Women who are pregnant or breastfeeding or planning to become pregnant within 8 months of discontinuing hydroxychloroquine therapy.\n* No National Health Insurrance (s\u00e9curit\u00e9 sociale, CMU or AME) coverage.\n* Major under guardianship or curatorship\n* Participation in another therapeutic clinical trial for COVID-19\n* Refusal to participate in the study and/or lack of signature of a consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid-19"
+  ],
+  "overall_status": "WITHDRAWN"
+}

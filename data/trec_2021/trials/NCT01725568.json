@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01725568",
+  "title": "BioMonitor Master Study",
+  "brief_summary": "The BioMonitor is an implantable cardiac monitor used to automatically detect and record episodes of arrhythmia in patients with bradycardia, tachycardia, asystole and atrial fibrillation. The study will be conducted to support regulatory approvals outside of Europe. This BioMonitor Master study is designed to investigate the clinical efficacy and safety of the BioMonitor.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Suspected cardiac arrhythmia OR Previous AF diagnosis OR AF diagnosis before or after ablation procedure OR Stroke of unknown origin.\n\nExclusion Criteria:\n\n* Implanted ICD or cardiac pacemaker\n* Allergy to patch electrodes",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with standard ICM indication who are referred to the hospital",
+  "condition": [
+    "ATRIAL FIBRILLATION, Syncope"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01429298",
+  "title": "Comparing Intravenous Hydromorphone to Usual Care",
+  "brief_summary": "In this randomized controlled trial, 2 mg intravenous (IV) hydromorphone will be more efficacious than usual care (usual care is analgesic management according to the judgment of the attending physician caring for that patient) in emergency department (ED) patients aged 21-64 years. The primary efficacy outcomes are the proportion of patients in each arm who choose to forgo additional pain medication in 30 minutes of entry into the study and the change in numerical rating scale (NRS) pain scores from baseline to 30 minutes post baseline.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age greater than 21 years and less than 65 years: This is a study of non-elderly adult patients.\n2. Pain with onset within 7 days: Pain within seven days is the definition of acute pain that has been used in ED literature.\n3. ED attending physician's judgment that patient's pain warrants IV opioids: The factors that influence the decision to use parenteral opioids are complex. An approach that is commonly taken to address the issue of patient selection in drug trials is to use a specific condition (e.g., renal colic) that would generally be thought to be appropriately treated with an opioid analgesic, thereby eliminating individual judgment about eligibility for the study. However in order to maximize the external validity of the role of opioids in the ED setting, the investigators decided to enroll patients with a variety of diagnoses, all with a complaint of acute pain. Opioids are not an appropriate treatment for all patients who present with a complaint of pain (e.g., gastroenteritis, migraine). Therefore, unless there is a restriction to patients with a specific diagnosis, either an extensive list of diagnoses and situations in which opioids are indicated must be specified, or clinical judgment needs to be used. The investigators have opted for the latter, since it most closely approximates the circumstances of clinical practice.\n\nExclusion Criteria:\n\n1. Use of other opioids or tramadol within past 24 hours: to avoid introducing assembly bias related to recent opioid use, since this may affect baseline levels of pain and need for analgesics.\n2. Prior adverse reaction to opioids.\n3. Chronic pain syndrome: frequently recurrent or daily pain for at least 3 months results in modulation of pain perception which is thought to be due to down-regulation of pain receptors. Examples of chronic pain syndromes include sickle cell anemia, osteoarthritis, fibromyalgia, and peripheral neuropathies.\n4. Alcohol intoxication: the presence of alcohol intoxication as judged by the treating physician may alter pain perception.\n5. Systolic Blood Pressure \\<90 mm Hg: Opioids can produce peripheral vasodilation that may result in orthostatic hypotension.\n6. Oxygen saturation \\< 95% on room air: For this study, oxygen saturation must be 95% or above on room air in order to be enrolled.\n7. Use of monoamine oxidase (MAO) inhibitors in past 30 days: MAO inhibitors have been reported to intensify the effects of at least one opioid drug causing anxiety, confusion and significant respiratory depression or coma.\n8. C02 measurement greater than 46: In accordance with standard protocol, three subsets of patients will have their CO2 measured using a handheld capnometer prior to enrollment in the study. If the CO2 measurement is greater than 46 then the patient will be excluded from the study. The 3 subsets are as follows:\n\n   * All patients who have a history of chronic obstructive pulmonary disease (COPD)\n   * All patients who report a history of asthma together with greater than a 20 pack-year smoking history\n   * All patients reporting less than a 20 pack-year smoking history who are having an asthma exacerbation",
+  "minimum_age": "21 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pain"
+  ],
+  "overall_status": "COMPLETED"
+}

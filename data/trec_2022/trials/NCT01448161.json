@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01448161",
+  "title": "A Machine Learning Approach to Continuous Vital Sign Data Analysis",
+  "brief_summary": "Study hypothesis: Machine Learning algorithms and techniques previously developed for use in the robotics field can be applied to the field of medicine. These state-of-the-art, feature extraction and machine learning techniques can utilize patient vital sign data from bedside monitors to discover hidden relationships within the physiological waveforms and identify physiological trends or concerning conditions that are predictive of various clinical events. These algorithms could potentially provide preemptive alerts to clinicians of a developing patient problem, well before any human could detect a worrisome combination of events or trend in the data.\n\nSpecific aims:\n\n1. Collect physiological waveform and numeric trend data from patient vital signs monitors in ICUs at the University of Colorado Hospital and Children's Hospital Colorado.\n2. Combine the physiological data from patient monitors with clinical data obtained from patient Electronic Medical Records including IV fluids, medications, ventilator settings, urine output, etc. for use in developing models of various clinical conditions.\n3. Apply Machine Learning techniques to these models to identify physiological waveform features and trend information, which are characteristic and predictive of common clinical conditions including but not limited to:\n\n   * Post-operative atrial fibrillation and other cardiac dysrhythmias\n   * Post-operative cardiac tamponade\n   * Tension pneumothorax\n   * Optimal post-operative and post-resuscitation fluid needs\n   * Intracranial hypertension and cerebral perfusion pressure",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age: 0 days - 89 years\n2. Admitted to the surgical intensive care unit (SICU) at the University of Colorado Hospital or to the pediatric intensive care unit (PICU) or children's intensive care unit (CICU) at Children's Hospital Colorado or patients in the Childrens Hospital Colorado (CHC) emergency room with the following conditions\n\n   1. Hemodynamic instability\n   2. Febrile \\>38.5\n   3. Respiratory distress\n   4. Requiring mechanical ventilation\n   5. Requiring central access\n   6. Requiring vasoactive medications As well as the time that any of these patients might be in the operating rooms at Children's Hospital Colorado.\n\nExclusion Criteria:\n\n1. Pregnant\n2. Incarcerated\n3. Limited access to or compromised monitoring sites for non-invasive finger and forehead sensors\n4. Brain death (GCS 3 with fixed, dilated pupils)), unless patient is actively being resuscitated (see CPR specific details in protocol and application)",
+  "minimum_age": "",
+  "maximum_age": "89 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Pediatric and Adult ICU patients",
+  "condition": [
+    "Vital Signs"
+  ],
+  "overall_status": "COMPLETED"
+}

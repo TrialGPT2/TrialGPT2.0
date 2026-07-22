@@ -1,0 +1,53 @@
+{
+  "nctid": "NCT00063895",
+  "title": "Erlotinib in Treating Patients With Advanced Non-Small Cell Lung Cancer, Ovarian Cancer, or Squamous Cell Carcinoma of the Head and Neck",
+  "brief_summary": "This phase I/II trial is studying the side effects of erlotinib and to see how well it works in treating patients with metastatic or unresectable non-small cell lung cancer, ovarian cancer, or squamous cell carcinoma (cancer) of the head and neck. Erlotinib may stop the growth of tumor cells by blocking the enzymes necessary for their growth",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed metastatic or unresectable non-small cell lung cancer, squamous cell carcinoma of the head and neck, or ovarian cancer\n* Eligible patients must have been off previous anticancer therapy including chemotherapy, radiotherapy, biological therapy, or other investigational therapy for at least 4 weeks before study entry (6 weeks if prior therapy included nitrosoureas or mitomycin C)\n* ECOG performance status =\\< 2 (Karnofsky \\>= 60%)\n* Life expectancy of greater than 12 weeks\n* Leukocytes \\>= 3,000/ul\n* Absolute neutrophil count \\>= 1,500/ul\n* Platelets \\>= 100,000/ul\n* Total bilirubin within normal institutional limits\n* Creatinine within normal institutional limits OR creatinine clearance \\> 60 mL/min/1.73 m\\^2 for patients with creatinine levels above institutional normal\n* Patients must have measurable or assessable disease\n* The effects of OSI-774 on the developing human fetus are unknown; for this reason women of childbearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation; should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier; patients with prior treatment with small molecule inhibitors of EGFR, including erlotinib and gefitinib, are not eligible for this study\n* Patients may not be receiving any other investigational agents\n* Patients with uncontrolled brain metastasis; patients with brain metastases must have stable neurologic status following local therapy (surgery or radiation) for at least 4 weeks, and must be without neurologic dysfunction that would confound the evaluation of neurologic and other adverse events\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to OSI-774\n* Uncontrolled intercurrent illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnant women are excluded from this study because OSI-774 is an agent with the potential for teratogenic or abortifacient effects; because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with OSI-774, breastfeeding should be discontinued if the mother is treated with either agent\n* HIV-positive patients receiving combination anti-retroviral therapy are excluded from the study because of possible pharmacokinetic interactions with OSI-774 or other agents administered during the study; appropriate studies will be undertaken in patients receiving combination anti-retroviral therapy when indicated\n* Patients with significant ophthalmologic abnormalities, including: severe dry eye syndrome, kerato-conjunctivitis sicca, Sjogren's syndrome, severe exposure keratopathy, disorders that might increase the risk for epithelium-related complications (e.g. bullous keratopathy, aniridia, severe chemical burns, neutrophilic keratitis); patients with mild forms of any of the above, an asymptomatic history, or a normal ophthalmologic examination may be considered for inclusion at the discretion of the investigator; an ophthalmologic exam is not needed prior to this study unless clinically indicated; patients with treatable conditions (e.g. infectious keratitis/conjunctivitis, allergic conjunctivitis) may be reevaluated for study eligibility after treatment or resolution of the condition; use of contact lenses during the course of this trial may increase the risk of corneal complications and will be strongly discouraged\n* Serious, non-healing wound ulcer, or bone fracture\n* Major surgical procedure, open biopsy or significant traumatic injury within 14 days prior to Day 1; following such procedures or injuries, wound healing should be evident prior to initiation of therapy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Recurrent Non-small Cell Lung Cancer",
+    "Recurrent Ovarian Epithelial Cancer",
+    "Recurrent Squamous Cell Carcinoma of the Hypopharynx",
+    "Recurrent Squamous Cell Carcinoma of the Larynx",
+    "Recurrent Squamous Cell Carcinoma of the Lip and Oral Cavity",
+    "Recurrent Squamous Cell Carcinoma of the Nasopharynx",
+    "Recurrent Squamous Cell Carcinoma of the Oropharynx",
+    "Stage III Squamous Cell Carcinoma of the Hypopharynx",
+    "Stage III Squamous Cell Carcinoma of the Larynx",
+    "Stage III Squamous Cell Carcinoma of the Lip and Oral Cavity",
+    "Stage III Squamous Cell Carcinoma of the Nasopharynx",
+    "Stage III Squamous Cell Carcinoma of the Oropharynx",
+    "Stage IIIA Non-small Cell Lung Cancer",
+    "Stage IIIA Ovarian Epithelial Cancer",
+    "Stage IIIB Non-small Cell Lung Cancer",
+    "Stage IIIB Ovarian Epithelial Cancer",
+    "Stage IIIC Ovarian Epithelial Cancer",
+    "Stage IV Non-small Cell Lung Cancer",
+    "Stage IV Ovarian Epithelial Cancer",
+    "Stage IV Squamous Cell Carcinoma of the Hypopharynx",
+    "Stage IV Squamous Cell Carcinoma of the Nasopharynx",
+    "Stage IVA Squamous Cell Carcinoma of the Larynx",
+    "Stage IVA Squamous Cell Carcinoma of the Lip and Oral Cavity",
+    "Stage IVA Squamous Cell Carcinoma of the Oropharynx",
+    "Stage IVB Squamous Cell Carcinoma of the Larynx",
+    "Stage IVB Squamous Cell Carcinoma of the Lip and Oral Cavity",
+    "Stage IVB Squamous Cell Carcinoma of the Oropharynx",
+    "Stage IVC Squamous Cell Carcinoma of the Larynx",
+    "Stage IVC Squamous Cell Carcinoma of the Lip and Oral Cavity",
+    "Stage IVC Squamous Cell Carcinoma of the Oropharynx"
+  ],
+  "overall_status": "COMPLETED"
+}

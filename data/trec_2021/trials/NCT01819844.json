@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01819844",
+  "title": "Inpatient Closed-loop Glucose Control",
+  "brief_summary": "The purpose of this study is to test an experimental medical device designed to automatically control blood sugar. This device was designed for use by patients with diabetes while they are in the hospital, and others who may develop high blood sugar as a result of their medical problems.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria\n\nSubjects with type 1 diabetes\n\n* Age 21 to 75 with clinical type 1 diabetes for at least one year\n* Diabetes managed using an insulin infusion pump and rapid- or very-rapid-acting insulins\n* Total daily dose (TDD) of insulin that is \\< 1 u/kg\n\nSubjects with type 2 diabetes\n\n* Age 21 to 75 with clinical type 2 diabetes for at least one year\n* Diabetes managed using NPH as the basal insulin, which may be supplemented with regular or rapid-acting insulin\n* Total daily dose (TDD) of insulin that is \\> 1 u/kg/day but \\< 2 u/kg/day or \\> 2 u/kg/day\n\nExclusion Criteria:\n\n* Pregnancy\n* Renal insufficiency\n* Cancer\n* Abnormal EKG suggestive of coronary artery disease or increased risk of malignant arrhythmia\n* Acute illness or exacerbation of chronic illness at the time of the study procedure\n* Use of non-insulin, injectable anti-diabetic medications or oral anti-diabetic medications other than metformin\n* History of allergy or adverse reaction to aspirin, peptic ulcers or bleeding disorders\n* Known history of coronary artery disease, TIA or stroke\n* History of seizures\n* Transaminitis\n* Stage 2 hypertension at the time of screening",
+  "minimum_age": "21 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Diabetes Mellitus",
+    "Hyperglycemia"
+  ],
+  "overall_status": "COMPLETED"
+}

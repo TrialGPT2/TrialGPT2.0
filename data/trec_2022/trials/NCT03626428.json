@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03626428",
+  "title": "Effective Connectivity in Patients Receiving Spinal Cord Stimulation: an fMRI and EEG Dynamic Causal Modeling Study",
+  "brief_summary": "In this study, a retrospective analysis will be performed on collected data of 14 patients with Failed Back Surgery Syndrome, treated with Spinal cord stimulation.\n\nIn separate studies, fMRI and EEG recordings were made in resting state conditions on two time points. The fMRI assessments and EEG recordings were performed before the SCS implantation (baseline) and repeated around 3 months after the definitive SCS implantation. During both assessments, patients were asked to fill in a VAS diary for their leg and back pain (scores from 0 to 10).\n\nThe aim of the current retrospective study is to correlate the clinical data obtained from the VAS scores, with estimates of effective connectivity (obtained from fMRI and EEG). Effective connectivity will be calculated by using dynamic causal modeling (DCM) on the baseline data and the data obtained 3 months after SCS. The aim is to evaluate whether DCM data of EEG is equally/worse/better correlating with the clinical data as DCM data of fMRI.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Subject is at least 18 years old.\n2. Diagnosis of FBSS with predominant leg pain (VAS) \\> 5) and non-dominant back pain.\n3. Cognitive and language functioning enabling coherent communication between the examiner and the subject;\n4. Failed conservative treatments for pain including but not limited to pharmacological therapy and physical therapy\n5. Stable neurologic function in the past 30 days\n6. Subject is included in the previous studies and both EEG and fMRI data are available.\n\nExclusion Criteria:\n\n1. Female subject of childbearing potential is pregnant/nursing, or plans to become pregnant during the course of the trial\n2. Subjects currently has an active infection",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with Failed Back Surgery Syndrome, treated with spinal cord stimulation.",
+  "condition": [
+    "Failed Back Surgery Syndrome"
+  ],
+  "overall_status": "COMPLETED"
+}

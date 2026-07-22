@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04444609",
+  "title": "PROSAIC-19 - Prospective Longitudinal Assessment in a COVID-19 Infected Cohort",
+  "brief_summary": "DESIGN Longitudinal prospective observational multicentre study.\n\nPrimary objective:\n\nUnderstand the immune mechanisms driving COVID-19 disease in patients with a history of lung disease",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. All patients \u226516 years old with confirmation of COVID-19\n2. All patients \u2265 16 years old with chronic lung disease (CF, non-CF bronchiectasis, asthma, COPD or Idiopathic Pulmonary Fibrosis) or with no evidence of prior chronic lung disease\n3. Healthy volunteers\n\nExclusion Criteria:\n\nNone",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects with swab confirmed COVID-19 and underlying chronic lung disease (n=60)\n\n* Severe (n=30) (defined by presence of ARDS, sepsis or severe pneumonia)\n* Mild/Moderate ( n =30) Absence of features of severe disease\n\nSubjects with swab confirmed COVID-19 and no chronic lung disease (n=60)\n\n* Severe (n=30) (defined by presence of ARDS, sepsis or severe pneumonia)\n* Mild/Moderate ( n =30) Absence of features of severe disease\n\nSubjects with chronic lung disease (identified as requiring shielding based on severity) but no COVID-19 (n=80)\n\n* Asthma (defined as severe) - (n=20)\n* CF (FEV1% predicted baseline \\<50%) - (n=20)\n* COPD (FEV1% predicted baseline \\<50%) - (n=20)\n* Idiopathic Pulmonary Fibrosis (n=20)\n\n  3.Healthy subjects with no COVID-19 (n=30)",
+  "condition": [
+    "COVID-19",
+    "SARS-CoV 2",
+    "ARDS, Human",
+    "Immune System Disorder"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04571801",
+  "title": "Optimization of Sepsis Therapy Based on Patient-specific Digital Precision Diagnostics",
+  "brief_summary": "Sepsis is triggered by an infection and represents one of the greatest challenges of modern intensive care medicine. With regard to a targeted antimicrobial treatment strategy, the earliest possible pathogen detection is of crucial importance. Until now, culture-based detection methods represent the diagnostic gold standard, although they are characterized by numerous limitations. Culture-independent molecular diagnostic procedures may represent a promising alternative. In particular, the concept of plasmatic detection of circulating, free DNA employing next-generation sequencing (NGS) has shown to be suitable for the detection of disease-causing pathogens in patients with bloodstream infections.\n\nThe DigiSep-Trial is a randomized, controlled, interventional, multicenter trial to characterize the effect of the combination of NGS-based digital precision diagnostics, standard-of-care microbiological analyses and optional expert exchanges compared to solely standard-of-care microbiological analyses in the clinical picture of sepsis / septic shock. The study examines in 410 patients (n = 205 per arm) with sepsis / septic shock whether the so-called DOOR-RADAR (Desirability of Outcome Ranking / Response Adjusted for Duration of Antibiotic Risk) score (representing a combined endpoint including the criteria (1) inpatient admission time, (2) consumption of antibiotics, (3) mortality and (4) acute renal failure (ARF)) can be significantly improved, by application of an additional NGS-based diagnostic concept. We also aim to investigate whether the new diagnostic procedure is cost-effective. It is postulated that the inpatient admission time, mortality rate, incidence of ARF, the duration of antimicrobial therapy as well as the costs of complications and outpatient aftercare can be reduced. Moreover, a significant improvement in the quality of life (QoL) of the affected patients can be expected.\n\nExtensive preparatory work suggests that NGS-based diagnostics have higher specificity and sensitivity compared to standard-of-care microbiological analyses for detecting bloodstream infections. This preliminary work for the DigiSep-Trial with the help of an interventional study design provides the optimal basis to establish this new concept as part of the national standard based on the best possible evidence.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* All patients who develop sepsis or septic shock within \\< 24 h in accordance with the new sepsis definition (Sepsis-3) in the above-mentioned participating centers and consent to participation in the study will be included.\n\nGeneral inclusion criteria:\n\n* Written consent by the study participant or a legally appointed representative\n* Age \\>18 years\n\nSepsis:\n\n* Life-threatening organ dysfunction due to a dysregulated immune response on the basis of a suspected or proven infection\n* Detection of organ dysfunction indicated by SOFA score of \u2265 2 points Alternative:\n\nChange of the quick (q) SOFA score of 2 points as an indication of a sepsis\n\nOr septic shock:\n\n* Persistent hypotension despite adequate volume substitution, which necessitates the use of vasopressors, to maintain an arterial medium pressure of \\> 65 mmHg\n* Serum lactate \\> 2 mmol/l (18 mg/dl)\n\nExclusion Criteria:\n\n* Age \\< 18 years\n* Refusal to participate in the study\n* Probable discharge of the patient from the intensive care unit within the first 72 h of initial study inclusion\n* Palliative therapy approach\n* Death of the patient is already foreseeable or inevitable at trial inclusion\n* Patients who have already been included in the study but require re-admission to the intensive care unit cannot be included a second",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sepsis",
+    "Septic Shock"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT04149314",
+  "title": "The \"Hypotension Prediction Index\" in Patients Undergoing Lung Surgery",
+  "brief_summary": "The \"Hypotension Prediction Index (HPI)\" was established by the Edwards Lifescience Company (Irvine, California, USA) and is CE certified. As part of the Edwards Acumen Decision-Support-Software-Suite the HPI is supported by the minimal invasive FloTrac Sensor. The HPI displays the probability of an occurring hypotension. The software was established with the help of 20.000 analyzed patient events. If the upper limit of the HPI is reached, the software is alarming the treating physician 8. At the university hospital of Giessen HPI analyses are used in the daily clinical routine as well as for scientific purposes. Preliminary data of the HPI-I-Trial (\"Influence of the Hypotension Prediction Index on the number and duration of intraoperative hypotension in primary hip-endoprothetic replacement\", University Hospital of Giessen) included patients, which underwent hip-endoprothetic replacement surgery and revealed that the use of HPI with a goal directed therapy (GDT) protocol compared to standard care significantly reduced the incidence and duration of intraoperative hypotension. Therefore HPI with GDT might reduce the incidence of hypotension related complications in a sicker patient cohort.\n\nThe aim of the study is to investigate whether a goal directed treatment according to the Hypotension Prediction Index compared to standard care can reduce the incidence of intraoperative hypotension in patients under single lung ventilation.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients undergoing lung surgery with one-lung-ventilation\n* General anesthesia\n* Age \u2265 18 years\n\nExclusion Criteria:\n\n* Participation in another (interventional) study\n* Pregnancy and nursing mothers\n* Surgery without controlled ventilation\n* ASA I or IV\n* Contraindication for invasive blood pressure monitoring\n* Coagulation disorder\n* Arterial Fibrillation",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hypotension",
+    "Hemodynamic Instability",
+    "Renal Failure",
+    "Myocardial Injury",
+    "Anesthesia"
+  ],
+  "overall_status": "COMPLETED"
+}

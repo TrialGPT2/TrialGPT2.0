@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01145040",
+  "title": "NOMOTHETICOS: Nonlinear Modelling of Thyroid Hormones' Effect on Thyrotropin Incretion in Confirmed Open-loop Situation",
+  "brief_summary": "The NOMOTHETICOS study is a unicentric cross-sectional study for a quantitative analysis of feedback-inhibition in the thyrotropic homeostatic control. Structural parameters are obtained in vivo from open-loop analysis in patients with disconnected feedback, i.e. with overt thyroid dysfunction or full dose substitution therapy with levothyroxine.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Outpatients with disconnected feedback control due to the following conditions:\n\n  * Overt primary hypothyroidism with TSH level higher than 10 mU/l and FT4 concentration below 7 pmol/L (5.4 ng/L) (Partition 1)\n  * Overt primary hyperthyroidism with TSH level below 0.1 mU/l and FT4 concentration higher than 18 pmol/L (14 ng/L) (Partition 3)\n  * All other constellations, if the patient receives substitution therapy with more 1.75 \u00b5g Levothyroxin per kg of body mass (Partition 2).\n* System in equilibrium (e.g. unchanged substitution dose over the past six weeks)\n\nExclusion Criteria:\n\n* Pituitary or hypothalamic dysfunction\n* Severe illness that may be associated with euthyroid sick syndrome (non-thyroidal illness syndrome)\n* Medication influencing pituitary function\n* Pregnancy\n* Missing consent for participation in the study",
+  "minimum_age": "14 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Outpatients with \"open-loop\" thyrotropic feedback control (disconnection at the site of the thyroid)",
+  "condition": [
+    "Hypothyroidism",
+    "Hyperthyroidism"
+  ],
+  "overall_status": "UNKNOWN"
+}

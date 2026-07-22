@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00001360",
+  "title": "Studies of Blood Flow to the Brain During Thought",
+  "brief_summary": "The purpose of this study is to use brain imaging technology to measure changes in blood flow to areas in the brain as individuals perform intellectual tasks.\n\nThis study will use functional magnetic resonance imaging (fMRI) to examine blood flow to areas of the brain as participants engage in tasks associated with visual perception, visual recognition, and memory....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Healthy adults, with at least a high school education, aged 18 to 65 years, will be recruited to participate in the study.\n* Able to read and write in English to guarantee understanding of all written and spoken instructions, which are in English.\n\nEXCLUSION CRITERIA:\n\nSubjects will be excluded if they:\n\n* have evidence of, or a history of:\n* major medical, neurological or psychiatric illness\n* serious head injury\n* learning disability-drug or alcohol abuse or dependence in the past 3 months, except nicotine\n\n-are taking prescription drugs or supplements that may affect brain function-\n\n-have serious vision or hearing problems\n\nIn addition to the above, additional exclusion criteria apply for all MRI studies:\n\n* Female subjects who are pregnant or have a positive pregnancy test 24 hours prior to an experiment will be excluded from neuroimaging studies.\n* All subjects will be questioned prior to MRI scanning for possible occupational exposure to metal slivers or shavings, which may have become accidentally lodged in the tissues of the head or neck. Subjects with surgical clips or shrapnel in or near the brain or blood vessels, subjects with cochlear implants, subjects with any metallic body in the eye or CNS, and subjects with any form of implant wire or metal device which may concentrate radiofrequency fields will be excluded from MRI scanning experiments because of possible risks during MRI scanning. Those whose history is suggestive of such a problem will also be excluded from the MRI portion of the experiments. They may still participate in the behavioral and MEG experiments.\n* Subjects unable to lie flat on their back for up to 3 hours may not be eligible to participate in MRI scans.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Normal volunteer participants aged 18-65, who are in good general health will be recruited from the local community and studied under this minimal risk protocol.",
+  "condition": [
+    "Healthy Volunteer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology study enrolling healthy adults with no mention of cancer or systemic therapy. There is no line-of-therapy intent relevant to advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls healthy adults without cancer or prior systemic therapy. There is no mention of advanced disease or lines of therapy, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

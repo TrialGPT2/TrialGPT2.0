@@ -1,0 +1,40 @@
+{
+  "nctid": "NCT05675436",
+  "title": "Investigating the Mechanistic Effects of Mitapivat in Subjects With Sickle Cell Disease",
+  "brief_summary": "Background:\n\nSickle cell disease (SCD) is an inherited blood disorder. The disease affects the ability of red blood cells to carry oxygen; this in turn can injure organs including the heart, lungs, and kidneys. SCD can lead to serious illness and death. Treatments such as bone marrow transplants and gene therapies can cure SCD, but they are not widely available. Current drug treatments for SCD are not always effective. This natural history study will examine how a study drug (mitapivat) affects red blood cells in people with SCD.\n\nObjective:\n\nTo learn how mitapivat affects red blood cells in people with SCD.\n\nEligibility:\n\nPeople with SCD who are enrolled in the parent study, NIH protocol IRB001565-H.\n\nDesign:\n\nProcedures for this study will be done during visits already scheduled for the parent study.\n\nParticipants will have additional blood drawn during study visits. The additional amount will be about 3.5 teaspoons.\n\nParticipants will undergo a test called near infrared spectroscopy (NIRS) up to 9 times. Probes will be placed on their skin. A blood pressure cuff will be placed on their arm. The cuff will be filled with air for up to 5 minutes and then released. Participants may be asked to breathe at a certain rate or to hold their breath during these measurements. NIRS measures oxygen levels, blood flow, and the makeup of skin and muscle.\n\nResearchers will draw additional information for this study from participants medical records.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAll subjects enrolled at NIH meeting eligibility for the parent study (AG348-C-020) are eligible for this study.\n\nEXCLUSION CRITERIA:\n\nSubjects that did not meet eligibility criteria to the parent protocol (AG348-C-020) will not be eligible to enroll for this study.\n\nSubjects will be screened for implanted metal objects or devices that may be incompatible with MRI (i.e. cerebral aneurysm clip, cochlear implant, pacemaker, etc.) These subjects will be eligible to proceed with study enrollment, but will not undergo the optional MRI study.",
+  "minimum_age": "16 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "primary clinical",
+  "condition": [
+    "Sickle Cell Anemia",
+    "Sickle Cell Thalassemia",
+    "Sickle Cell Pain",
+    "Hbss",
+    "Hbsc",
+    "Sickle Beta Thalassemia",
+    "Sickle Beta Zero Thalassemia",
+    "Sickle Cell Syndrome Variant"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls participants with sickle cell disease who are already enrolled in a parent study, without specifying any requirements regarding prior lines of systemic therapy for advanced disease. There are no restrictions or specifications about prior therapies for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based solely on enrollment in the parent study (AG348-C-020) with no mention of prior lines of systemic therapy for advanced disease. There are no criteria specifying prior treatment history, so line-of-therapy intent cannot be determined from the available information."
+    }
+  ]
+}

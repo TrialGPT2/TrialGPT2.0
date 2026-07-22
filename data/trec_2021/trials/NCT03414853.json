@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03414853",
+  "title": "Free Text Prediction Algorithm for Appendicitis",
+  "brief_summary": "Computer-aided diagnostic software has been used to assist physicians in various ways. Text-based prediction algorithms have been trained on past medical records through data mining and feature analysis. Currently, all text-based machine learning prediction problem models have been built on extracted data with no research completed on free text based prediction algorithms. This study aims to determine the accuracy of a free text prediction algorithm in predicting the probability of appendicitis in patients presenting to the Emergency Department with abdominal pain and gastrointestinal symptoms.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Eligibility criteria of doctors- Inclusion criteria: Junior doctors working in the Emergency Department Exclusion criteria: Refusal of consent\n\nEligibility criteria of patients-\n\nInclusion Criteria:\n\n* Presence of abdominal pain, OR\n* Presence of gastrointestinal symptoms such as nausea, vomiting or diarrhea, OR\n* Fever with anorexia\n\nExclusion Criteria:\n\n* Previous history of appendicectomy\n* Refusal of consent",
+  "minimum_age": "21 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Attending physicians will be recruited as study participants and randomised weekly into \"algorithm use\" versus \"no algorithm use\".\n\nPatients who fulfilled the above eligibility criteria will have their data collected and entered into the predictive algorithm.",
+  "condition": [
+    "Acute Appendicitis",
+    "Abdominal Pain"
+  ],
+  "overall_status": "COMPLETED"
+}

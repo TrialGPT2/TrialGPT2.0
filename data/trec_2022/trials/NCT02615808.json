@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02615808",
+  "title": "Developing and Evaluating User-Designed Data Displays",
+  "brief_summary": "Hospitalized children with respiratory disease are commonly monitored with continuous pulse oximetry and heart rate-respiratory rate monitors. These data streams generate \\>4,000 unique data points each patient-day, yet only a tiny fraction are used to inform care decisions. Failure to adequately summarize this large amount of data for clinicians may result in suboptimal care because clinicians may miss important data signals and may under- or over-react to individual data points. In children hospitalized with respiratory disease and in need of supplemental oxygen, there are a number of care decisions, currently made without adequate data, which could be informed by intelligent data visualization tools. This study has employed user-centered design to develop data displays that inform nurses' and respiratory therapists' decision-making in supplemental oxygen delivery. The investigators are now evaluating the effectiveness of these displays in the clinical care of patients with two common respiratory conditions-infants with bronchiolitis admitted to the general pediatrics ward and preterm infants requiring supplemental oxygen who are cared for in the neonatal intensive care unit. By reducing patient's time on supplemental oxygen and improving time with optimal oxygen saturations, this work has the potential to lead to a breakthrough innovation that improves both outcomes and value.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* patients with bronchiolitis (HM)\n* patients with supplemental oxygen need during hospitalization (HM)\n* patients \\<12 months of age (HM)\n* patients \\<32 weeks gestational age (NICU)\n* patients with consistent supplemental oxygen need in 48 hours prior to study entry (NICU)\n\nExclusion Criteria:\n\n* patients with supplemental oxygen need prior to admission (HM)\n* hospitalization occurs during the change from intervention to control periods (HM)\n* patients with congenital anomalies of the lung (NICU)\n* patients who are not in a weaning mode (e.g. on pre-discharge low flow oxygen) (NICU)",
+  "minimum_age": "",
+  "maximum_age": "12 Months",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Infant, Premature, Diseases",
+    "Bronchiolitis"
+  ],
+  "overall_status": "WITHDRAWN"
+}

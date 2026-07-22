@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT05372627",
+  "title": "NHLBI-Emory Advanced Cardiac CT Reconstruction",
+  "brief_summary": "Background:\n\nDoctors use computed tomography (CT) to get detailed pictures of the heart. CT uses x-rays to gather raw data. Computers assemble this data to make the images doctors look at. A new computer technique can make higher resolution images from the same CT scans. In this natural history study, researchers will take normal CT images of the heart. They will compare those images to super high-resolution (super high-res) images made with a super-computer.\n\nObjective:\n\nTo improve the quality of heart CT scans by using new methods to create the images.\n\nEligibility:\n\nPeople aged 18 years or older who need a CT scan for heart disease.\n\nDesign:\n\nParticipants will have a normal CT scan. A substance will be injected through a tube in their arm. They will lie on a table in a large, donut-shaped machine. An X-ray tube will move around their body, taking many pictures.\n\nResearchers will use the normal CT scans to create super high-res images. They may do this at the NIH. They may also send the images to the company that made the CT scanner. Participants personal information will be removed before images are sent to the company. The personal information will be replaced by a code.\n\nThe super high-res images will be returned to the NIH.\n\nSome information will be collected from participants medical records. Researchers will compare the normal scans to the super high-res images.\n\nParticipants' own doctors will also have a chance to see the super high-res images.\n\nParticipants' CT pictures will be stored and used for future NIH research.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Male or female, aged \\>= 18 years\n2. Undergoing clinically-indicated contrast-enhanced time-resolved cardiac CT for structural heart disease.\n3. Ability of subject to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Unable to complete contrast-enhanced cardiac CT acquisition for any reason\n2. Unwilling to authorize future use of their imaging data for research",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adults undergoing clinically-indicated contrast-enhanced time-resolved cardiac CT for suspected structural heart disease",
+  "condition": [
+    "Structural Heart Disease"
+  ],
+  "overall_status": "NOT_YET_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic imaging study enrolling adults undergoing clinically-indicated cardiac CT for structural heart disease. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on the need for a clinically-indicated cardiac CT for structural heart disease, with no mention of prior systemic therapy for advanced disease. The protocol does not reference cancer treatment or lines of therapy, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

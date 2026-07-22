@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00102453",
+  "title": "Pentoxifylline in Duchenne Muscular Dystrophy",
+  "brief_summary": "In this study, the primary aim will be to estimate the magnitude and variability of strength change over time that may be expected for subjects on the study treatment. This estimate of effect will allow us to develop a rigorous statistical plan in the future randomized study. The specific estimation technique to be applied will use a linear random effects model to estimate average strength change during the 3-month lead-in period and then during the twelve-month treatment period, taking into account the quantitative muscle testing (QMT) measures for each subject. Accounting for the correlation between repeated measures from each subject by using a random effects model will yield an unbiased estimate of variability for the population average change in strength. We will use an analysis of pre- and post-treatment data to inform a best estimate of treatment effect. For example, the difference in QMT trends pre- and post-treatment would provide a straightforward measure of efficacy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Male\n2. Age 4 to 7 years\n3. Ambulant independently. Subjects may use a wheelchair occasionally, but only for long distances\n4. Diagnosis of DMD confirmed by at least one of the following:\n\n   * Dystrophin immunofluorescence and/or immunoblot showing complete dystrophin deficiency, and clinical picture consistent with typical DMD OR\n   * Gene deletion test positive (missing one or more exons) in the central rod domain (exons 25-60) of dystrophin, where reading frame can be predicted as 'out-of-frame',\n   * and clinical picture consistent with typical DMD.\n   * Complete dystrophin gene sequencing showing an alteration (point mutation, duplication, or other mutation resulting in a stop codon mutation) that can be definitely associated with DMD, with a typical clinical picture of DMD.\n5. Positive family history of DMD confirmed by one of the criteria listed above in a sibling or maternal uncle, and clinical picture typical of DMD.\n6. Glucocorticosteroid - na\u00efve (i.e. has not been treated with prednisone or Deflazacort within 1 year before onset of the study)\n7. Has not participated in other therapeutic research protocol within the last 6 months.\n8. Evidence of muscle weakness by MRC score or clinical functional evaluation\n9. Ability to provide reproducible repeat QMT bicep score of either the right or left arm within 15% of first assessment score.\n\nExclusion Criteria:\n\n1. Symptomatic DMD carrier\n2. Use of any medication, nutritional supplement or herb for treatment of DMD within the last 3 months.\n3. Symptomatic cardiomyopathy or ventricular arrhythmias\n4. History of significant concomitant illness, impairment of blood clotting ability (as evidenced by increased PT/PTT or bleeding time over the upper limit of normal (ULN)), recent cerebral or retinal hemorrhage, bleeding diathesis, gastric ulcer, hypotension or significant impairment of renal or hepatic function (defined as serum creatinine and GGT respectively, greater than 1.5 times normal upper limit for age and gender).",
+  "minimum_age": "4 Years",
+  "maximum_age": "7 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Muscular Dystrophy, Duchenne"
+  ],
+  "overall_status": "COMPLETED"
+}

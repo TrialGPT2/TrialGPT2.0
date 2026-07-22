@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT00344188",
+  "title": "Diagnosis and Treatment of Leishmania Infections",
+  "brief_summary": "This study will examine the natural history of Leishmanial infections and their treatments. It will provide an opportunity for NIAID staff to learn more about leishmaniasis and perhaps to improve diagnostic tests for these infections. Patients between 2 and 80 years of age with known or suspected leishmaniasis are eligible for this study.\n\nParticipants will have routine blood tests and a biopsy to confirm leishmanial infection. The biopsy procedure will be determined by the type of infection local cutaneous leishmaniasis (LCL), mucocutaneous leishmaniasis (MCL) or visceral leishmaniasis (VL). CL will be confirmed with a punch biopsy, in which a cookie-cutter type razor is used to remove a small circular piece of skin tissue. MCL will be confirmed using a thin flexible tube inserted into the nose. This tube is used to examine the nose and upper airway and to remove a tissue sample, if an affected area is seen. VL will be confirmed with either a bone marrow or liver biopsy or a splenic aspirate. For these procedures, a small tissue sample is withdrawn through a needle placed in the hipbone, liver or spleen, respectively. Some patients may also have a skin test for leishmaniasis similar to tuberculin skin testing.\n\nTreatment and length of hospital stay are determined by the type of infection. CL may be treated with Pentostam, amphotericin, amphotericin B, itraconazole or ketoconazole; ML with amphotericin B, or encapsulated amphotericin; and VL with Pentostam or encapsulated amphotericin. Pentostam is infused daily for 18 to 28 doses, most as an outpatient. Blood is drawn 3 times a week for safety tests and an electrocardiogram is done 2 to 3 times a week to monitor heart rhythm. Amphotericin B is infused every day or every other day for about 30 doses, all on an inpatient basis. Patients undergo hydration (infusion of a large amount of fluid) just before and immediately after each infusion to protect the kidneys. Blood is drawn every other day and urine samples are collected occasionally for routine urinalysis. Encapsulated amphotericin is infused every other day, on an outpatient basis. Blood is generally drawn every other day to every 2 days and urinalyses are done periodically. Itraconazole and ketoconazole are taken orally for at least 1 to 3 months, with blood drawn every 2 to 3 weeks.\n\nPatients may be asked to have photographs taken before, during and after treatment to document progress. They may also be asked to provide extra blood samples for research purposes, either through a vein in the arm or through apheresis, a method for collecting large numbers of cells. For apheresis, whole blood is collected through a needle in an arm vein and circulated through a machine that separates it into its components. The desired cells are then removed, and the rest of the blood is returned to the body, either through the same needle used to draw the blood or through a second needle in the other arm.\n\nPatients with cutaneous leishmaniasis will have a follow-up clinic visit 2 weeks to 3 months after treatment is completed. If there are no complications, their participation will end at that time. Patients with mucocutaneous leishmaniasis and visceral leishmaniasis will be followed every 3 to 6 months indefinitely for routine evaluations and re-treatment if the infection recurs.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Individuals aged 3 to 100 years.\n* Diagnosis of leishmaniasis:\n\nA: Biopsy proven\n\nOR\n\nB: Likely diagnosis of leishmaniasis based on :\n\nEpidemiologic exposure, clinical manifestations, and time course\n\n-Willingness to allow samples to be stored for future research.\n\nEXCLUSION CRITERIA:\n\nAny condition that, in the judgment of the investigator, may put the participant at undue risk or make them unsuitable for participation in the study.",
+  "minimum_age": "3 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "This population of patients are referred from their physicians both regionally and nationally.",
+  "condition": [
+    "Leishmaniasis",
+    "Skin Diseases, Parasitic",
+    "Euglenozoa Infections",
+    "Parasitic Diseases"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with known or suspected leishmaniasis regardless of prior treatment history. There are no restrictions on prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility criteria do not specify any requirements or restrictions regarding prior systemic therapy for advanced disease. Both treatment-naïve and previously treated patients are eligible, including those who have only received adjuvant or no prior therapy."
+    }
+  ]
+}

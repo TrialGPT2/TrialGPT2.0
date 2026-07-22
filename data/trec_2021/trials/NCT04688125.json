@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04688125",
+  "title": "Evaluation of An Optical Measurement Algorithm Combined With Patient and Provider Input to Reduce Mask Exchanges During Initial Positive Airway Pressure Therapy",
+  "brief_summary": "Continuous positive airway pressure and non-invasive ventilation are common treatment modalities for obstructive sleep apnea, central sleep apnea, and chronic alveolar hypoventilation from a variety of causes. Use of positive airway pressure (PAP) requires use of an interface, commonly referred to as a \"mask.\" There are a range of mask options available, differing in configuration and sizing, including masks that fit into the nostrils (nasal pillows, NP), cover the nose (nasal masks, NM), cover both the nose and the mouth (oronasal masks, ONM), and rarely those that fit into the mouth (oral masks, OM) or over the entire face. The variety of masks, sizes, and materials result from the wide variety of facial configurations and patient preferences along with requirements to provide a good seal for varying pressure requirements. Failure to find a good match for a given patient may result in significant side effects, such as eye irritation owing to leak into the eyes, skin pressure sores, noise generation, and inadequate therapy when air leaks are extreme. Pressure sores, mask dislodgement, claustrophobic complaints, air leaks, and sore eyes occur in 20-50% of patients with OSA receiving PAP, and these effects negatively correlate with PAP compliance. Furthermore, several trials point to differences in compliance related to which types of masks are utilized. In a randomized cross-over trial, compliance was 1 hour more per night in patients using NM compared to those using ONM.1 In another, NPs were associated with fewer adverse effects and better subjective sleep quality than NMs.2 Therefore, failure to find an acceptable mask results in lower or non-compliance, and therefore treatment failure.\n\nCurrently, finding a right mask is performed either using crude templates, or via an iterative process, variably guided by experts in mask fitting. There are no standard certifications or algorithms to guide mask fitting. Given the above, it would be very desirable to find a reliable method to reduce the errors in mask fitting so that the costs, inconvenience, and suffering are all reduced.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \u226518 years old\n* Sleep testing shows an apnea-hypopnea index or respiratory event index \u22655\n* Patient is PAP na\u00efve or no PAP use within the last 10 years\n* Patient's diagnosis is obstructive sleep apnea, obesity hypoventilation syndrome, or central sleep apnea syndrome\n* Prescribed therapy is CPAP, A-PAP, or BPAP in a spontaneous modality\n* Patient is able to provide consent\n* Patient is English speaking (limited to English for device)\n\nExclusion Criteria:\n\n* Prescribed therapy is BPAP ST or ASV\n* Patient is not able to provide consent\n* Patient is not able to speak or read English\n* Nasal or facial trauma or surgery that leaves atypical facial features",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Male and female age \u226518 years old who initiating PAP therapy for obstructive sleep apnea (OSA), obesity hypoventilation syndrome (OHS), or central sleep apnea syndrome (CSA).",
+  "condition": [
+    "Sleep Apnea, Obstructive",
+    "Obesity Hypoventilation Syndrome (OHS)",
+    "Sleep Apnea Syndromes"
+  ],
+  "overall_status": "COMPLETED"
+}

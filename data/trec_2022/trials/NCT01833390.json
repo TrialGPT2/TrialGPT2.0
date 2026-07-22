@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01833390",
+  "title": "MagniXene MRI Use in Patients With Asthma and COPD to Assess Regional Lung Function by Delineating Ventilation Defects",
+  "brief_summary": "The purpose of this clinical trial is to demonstrate hyperpolarized xenon (HXe) as a medical imaging drug (agent) for Magnetic Resonance Imaging (MRI) of the human lung ventilation.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria (healthy subjects):\n\n* Currently feeling well without respiratory symptoms.\n* No history of lung disease.\n* Never personally smoked (defined as less 100 cigarettes in their lifetime).\n\nInclusion Criteria (COPD subjects):\n\n* Forced Expiratory Volume in 1 second (FEV1)\\<80% predicted OR FEV1 to Forced Vital Capacity (FVC) ratio \\<70%\n* Smoking history \\>10 pack years\n* Subjects should be at their clinical baseline on the day of imaging\n* Subjects must be clinically stable in order to participate in the study\n\nInclusion Criteria (asthma subjects):\n\n* Greater than 10% increase in FEV1 30-50 minutes after administration of albuterol;\n* Subjects should be at their clinical baseline on the day of imaging;\n* Subjects must be clinically stable in order to participate in the study.\n\nExclusion Criteria:\n\n* Baseline oxygen requirement.\n* Blood oxygen saturation of 92% less than as measured by pulse oximetry on the day of imaging.\n* FEV1 percent predicted less than 25%.\n* Pregnancy or lactation.\n* Claustrophobia, inner ear implants, aneurysm or other surgical clips, metal foreign bodies in eye, pacemaker or other contraindication to MR scanning. Subjects with any implanted device that cannot be verified as MRI compliant will be excluded.\n* Chest circumference greater than that of the xenon MR coil.\n* History of congenital cardiac disease, chronic renal failure, or cirrhosis.\n* Inability to understand simple instructions or to hold still for approximately 10 seconds.\n* History of respiratory infection within 2 weeks prior to the MR scan.\n* History of heart attack, stroke and/or poorly controlled hypertension.\n* Known hypersensitivity to albuterol or any of its components, or levalbuterol.",
+  "minimum_age": "21 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Asthma",
+    "COPD",
+    "Healthy"
+  ],
+  "overall_status": "COMPLETED"
+}

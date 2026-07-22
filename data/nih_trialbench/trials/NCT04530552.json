@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT04530552",
+  "title": "Testing the Effects of Low Dose Apalutamide on Prostate-Specific Antigen (PSA) Levels in Men Scheduled for Removal of the Prostate Gland",
+  "brief_summary": "Apalutamide is an anti-androgen that blocks the effect of testosterone on prostate cancer growth. This phase IIa trial is designed to determine whether very low doses of apalutamide, given for 3 to 4 weeks before prostate surgery to men with prostate cancer confined to the prostate gland, reduces plasma levels of PSA (a biomarker of apalutamide's ability to block testosterone). If low dose apalutamide lowers PSA levels in this setting, further study of this agent in men with localized prostate cancer who wish to delay definitive therapy with surgery or radiation may be warranted.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Histologically confirmed organ-confined adenocarcinoma of the prostate (PCa) suitable for prostatectomy\n* Gleason score =\\< (4+4), however no Gleason pattern 5\n* Current serum PSA =\\< 20 ng/ml\n* Age \\> 18 years\n* Karnofsky \\>= 70%\n* Leukocytes \\>= 3,000/uL\n* Absolute neutrophil count \\>= 1,500/uL\n* Platelets \\>= 100,000/uL\n* Total bilirubin =\\< 1.5 x institutional upper limit of normal (ULN) (note: in subjects with Gilbert's syndrome, if total bilirubin is \\> 1.5 x ULN, measure direct and indirect bilirubin and if direct bilirubin is =\\< 1.5 x ULN, subject may be eligible)\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase \\[SGPT\\]) \\< 2.5 x institutional ULN\n* Creatinine \\< 2 x institutional ULN\n* Thyroid stimulating hormone (TSH) within the institutional normal range\n* Willing to use adequate contraception (barrier method; abstinence; subject has had a vasectomy; or partner is using effective birth control or is postmenopausal) for the duration of study participation\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Prior or ongoing hormonal treatment for prostate cancer including, but not limited to orchiectomy, antiandrogens, abiraterone, ketoconazole, or estrogens, or luteinizing hormone-releasing hormone (LHRH) agonists/antagonists. Men on stable doses of 5-alpha reductase inhibitors (e.g., finasteride, dutasteride) are eligible as long as there is no planned dose change while on study\n* Patients who have prostate cancer with distant metastases\n* Presence of neuroendocrine differentiation in the prostate biopsies\n* Serum testosterone (blood collected between 7-10 AM for men \\< 45 years of age and prior to 2 PM for men \\>= 45 years of age) \\< 200 ng/dL\n* Have a history of prior malignancies other than prostate cancer within the past 2 years, excluding non-melanoma skin cancer\n* Severe or unstable angina, myocardial infarction, symptomatic congestive heart failure, arterial or venous thromboembolic events (e.g., pulmonary embolism, cerebrovascular accident including transient ischemic attacks), or clinically significant ventricular arrhythmias within 6 months prior to registration\n* History of seizure or known condition that may pre-dispose to seizure (including but not limited to prior stroke, transient ischemic attack, loss of consciousness within 1 year prior to registration, brain arteriovenous malformation; or intracranial masses such as schwannomas and meningiomas that are causing edema or mass effect)\n* Use of drugs known to lower the seizure threshold, including: atypical antipsychotics (e.g. clozapine, olanzapine, risperidone, ziprasidone), bupropion, lithium, meperidine, pethidine, phenothiazine antipsychotics (e.g. chlorpromazine, mesoridazine, thioridazine), and tricyclic antidepressants (e.g. amitriptyline, desipramine, doxepin, imipramine, maprotiline, mirtazapine)\n* Concurrent use of drugs in category X drug interactions with apalutamide\n* Participants may not be receiving any other investigational agents\n* History of allergic reactions attributed to compounds of similar chemical composition of apalutamide\n* Uncontrolled intermittent illnesses or medical conditions which, in the opinion of the treating physician, would make this protocol unreasonably hazardous for the patient. Such illnesses/conditions may include, but are not limited to, hypertension, ongoing or active infection, or psychiatric illness/social situations",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Localized Prostate Carcinoma",
+    "Prostate Adenocarcinoma",
+    "Stage I Prostate Cancer AJCC v8",
+    "Stage II Prostate Cancer AJCC v8"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls men with organ-confined (localized) prostate cancer who are scheduled for prostatectomy and have not received any prior systemic therapy for advanced or metastatic disease. The study population is treatment-naïve for advanced disease, and prior adjuvant or neoadjuvant therapy is not mentioned or allowed.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Eligible patients must have organ-confined prostate cancer and are excluded if they have received any prior hormonal or systemic treatment for prostate cancer, including antiandrogens or LHRH agonists/antagonists. There is no mention of adjuvant or neoadjuvant therapy, and only treatment-naïve patients for advanced disease are allowed."
+    }
+  ]
+}

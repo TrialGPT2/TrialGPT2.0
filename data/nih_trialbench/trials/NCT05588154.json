@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT05588154",
+  "title": "Collection of Blood, Bone Marrow, Skin, Saliva, and Stool Samples From Healthy Volunteers Used for Comparative Analysis of Myeloid Malignancies",
+  "brief_summary": "Background:\n\nMyelodysplastic syndromes (MDS) are disorders of blood stem cells that can develop into blood cancers. Treatment options are limited. To find better treatments, researchers need to better understand how MDS develops. To do that, they must be able to compare biospecimens from people with the disease to those of healthy people.\n\nObjective:\n\nThis study will create a database of biospecimens collected from healthy volunteers.\n\nEligibility:\n\nHealthy people aged 18 and older.\n\nDesign:\n\nParticipants will be screened. They will have a physical exam with blood and urine tests.\n\nUp to 5 types of samples will be collected on 1 or more days within 1 month of screening:\n\nBlood: Blood will be drawn by inserting a needle into a vein.\n\nSaliva: Participants will scrape the insides of their cheeks with a brush.\n\nStool: Participants will be given a container to collect stool at home. They will use a prepaid envelope to mail in the sample.\n\nBone marrow: A sample of the soft tissue inside the bones will be drawn out. The area to be biopsied, usually the lower back, will be numbed. A needle will be inserted through a small cut to remove the sample. Participants' pain will be monitored; additional numbing medicine may be used.\n\nSkin: A piece of skin about 1/6 of an inch across will be cut away. Stitches may be used to close the wound. Participants will return to the clinic to have the stitches removed.\n\nParticipants do not have to provide all of the samples listed. They will give each sample only once.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Age \\>= 18 years old\n* Healthy volunteers; the following confirmed by the Principal Investigator or designees based on recent (within 3 months before study intervention(s))\n* medical history\n* physical exam\n* complete blood count (CBC) within the normal reference range per the reporting clinical laboratory, established published literature and reports, or as deemed acceptable by the medical team based on the age and condition of the volunteer consistent with established clinical standards.\n* The ability of the participant to understand and the willingness to sign a written consent document.\n\nEXCLUSION CRITERIA:\n\n\\- Active illnesses, immunodeficiency, history of opportunistic infection, autoimmune disease, history of or active malignancy, prior organ, bone marrow, or peripheral blood stem cell transplant or antibiotic treatment within 3 months before study intervention(s).\n\nNote: participants with non-melanoma skin cancer or carcinoma in situ of the cervix or breast are eligible.\n\n* Current immunosuppressive medication.\n* Any one of the following symptoms as declared by the participant at least one day per week within 3 months before study intervention(s) (Rome IV criteria \\[36\\])\n* Diarrhea characterized as frequent (\\>2) loose stools\n* Constipation defined as \\< 3 spontaneous bowel movements per week\n* Bloating and/or distention\n* Abdominal pain.\n* Participants with a history of the human immunodeficiency virus (HIV), hepatitis C (HCV), or hepatitis B (HBV) as confirmed by a seropositive blood test.\n* Pregnancy confirmed with beta-Human Chorionic Gonadotropin (Beta-HCG) serum or urine pregnancy test performed in women of childbearing potential at screening.\n* Breastfeeding participants.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants are healthy volunteers, selected from the general population. Employees may also volunteer per the protocol.",
+  "condition": [
+    "Myelodysplastic Syndromes"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This study enrolls only healthy volunteers with no history of malignancy (except certain in situ or non-melanoma cancers) or prior systemic therapy. There is no line-of-therapy intent as no cancer patients are included.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Only healthy volunteers with no history of malignancy (except non-melanoma skin cancer or carcinoma in situ) are eligible. No prior systemic therapy for advanced disease is allowed, and patients with any cancer history (other than specified exceptions) are excluded."
+    }
+  ]
+}

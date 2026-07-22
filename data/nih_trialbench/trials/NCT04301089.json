@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04301089",
+  "title": "Immersive Virtual Reality (VR) at the Time of Clinical Evaluation to Improve Psychological Distress and Anxiety in Primary Brain Tumor (PBT) Patients",
+  "brief_summary": "Background:\n\nDistress, anxiety, and other psychological disorders may be more common in people with primary brain tumors (PBTs). PBTs can affect their symptoms, quality of life, and their tolerance of cancer treatments. Researchers want to learn if virtual reality (VR) technology can help reduce stress and improve mood. VR uses computer technology to make fake experiences and environments that look real. This allows people to escape from their lives and experience more positive thoughts and emotions.\n\nObjective:\n\nTo learn if it is feasible to use a VR relaxation intervention in people with PBTs.\n\nEligibility:\n\nAdults 18 and older who have a brain tumor and have recently reported psychological distress during their participation in the Natural History Study (NHS), protocol #16C0151\n\nDesign:\n\nThe VR intervention and all patient-reported outcome measures (PROs) will be done remotely using telehealth.\n\nParticipants will be mailed a VR headset. This headset looks like a thick pair of goggles that is worn over the eyes. Participants will view computer-generated environments on this VR headset.\n\nParticipants will fill out symptoms questionnaires at 4 different times points during participation in this study, including questionnaires for the NHS as well as 4 questionnaires unique to this study. There are also optional saliva samples collected at these timepoints. The 4 timepoints are:\n\n* Before the VR intervention\n* After the VR intervention\n* 1 week later\n* 4 weeks later\n\nParticipants will also have a phone interview 1 week after the initial VR interevention, which will last 10 to 15 minutes.\n\nParticipation lasts 4 to 6 weeks.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Primary brain tumor (PBT) patients enrolled on the Natural History Study (NHS) trial (16C0151) in the Neuro-Oncology Branch (NOB) who have an upcoming scan and clinical appointment\n* Participants can be newly diagnosed, receiving active treatment, or on surveillance\n* Concurrent enrollment in other NOB trials is permissible\n* Adults (greater than or equal to 18 years of age) who are English-speaking\n* Participants must be able to reliably self-report symptoms, based on clinician assessment\n* Participants report greater than or equal to 1 on distress item from MDASI-BT prior to clinic appointment\n* Active corticosteroid therapy is permissible\n* Ability of subject to understand and the willingness to sign a written informed consent document\n\nEXCLUSION CRITERIA:\n\n* Participants who do not have a tissue diagnosis (no past surgery or biopsy to confirm diagnosis)\n* Cranial surgery less than or equal to 2 weeks prior to initiation of study intervention\n* Scalp wound healing issues that might interfere with comfortable VR headset use\n* Those who have epilepsy or have had a seizure in the last 6 weeks\n* Participants with a current diagnosis of generalized anxiety disorder (GAD), post-traumatic stress disorder (PTSD), claustrophobia, or panic disorder\n* Participants who have a hypersensitivity to motion or severe nausea, which could make the VR experience uncomfortable\n* Those with visual deficits that might interfere with the VR experience, including hemianopsia, diplopia, and agnosia based on their most recent clinical assessment",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Anxiety"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls adults with primary brain tumors who are newly diagnosed, receiving active treatment, or on surveillance, regardless of prior lines of systemic therapy for advanced disease. There are no restrictions based on prior systemic therapy, so patients at any line of therapy are eligible.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes primary brain tumor patients who are newly diagnosed, receiving active treatment, or on surveillance, with no mention of required or excluded prior systemic therapy for advanced/metastatic disease. Patients who have only received adjuvant or no therapy are eligible, as are those with prior lines for advanced disease."
+    }
+  ]
+}

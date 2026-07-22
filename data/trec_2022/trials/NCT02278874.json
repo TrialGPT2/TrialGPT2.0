@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02278874",
+  "title": "High Risk Multiple Gestation Study",
+  "brief_summary": "The objectives of the clinical study are to demonstrate the accuracy of our proprietary algorithm method to determine the genetic health of the developing fetuses in a multiple gestation pregnancy from a maternal blood sample. The long term goal of this study will be the development of a method of minimally invasive prenatal diagnosis that has a higher sensitivity and lower false positive rate in the intended population (e.g. multiple gestation pregnancies) than other currently available screening tests.\n\nThis will result in fewer unnecessary amniocenteses and Chorionic Villus Sample (CVS) procedures, which are associated with a risk of miscarriage.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 18 or older at enrollment\n* Clinically confirmed multiple gestation pregnancy\n* Pregnancy at high risk for genetic aneuploidy as defined below:\n\n  * Confirmed positive aneuploidy by invasive testing\n  * Non invasive prenatal testing \"high risk\" result\n  * Serum screening risk of greater than 1:100\n  * Ultrasound abnormalities indicative of aneuploidy\n\n    * Structural abnormality of the posterior fossa\n    * Holoprosencephaly\n    * Structural cardiac anomaly\n    * Omphalocele\n    * Nuchal translucency greater than or equal to 3.5 mm or a nuchal fold greater Hydrops of unknown etiology\n  * Age \u2265 38 years at delivery (if serum screening risk is not less than 1:100)\n* Gestational age between \u2265 9 weeks, 0 days and \u226426 weeks 0 days by best obstetrical estimate\n* Able to provide informed consent\n\nExclusion Criteria:\n\n* Women carrying singleton pregnancy\n* Surrogate or egg donor used",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Pregnant Women",
+  "condition": [
+    "Trisomy 13",
+    "Trisomy 18",
+    "Trisomy 21",
+    "Sex Chromosome Abnormalities"
+  ],
+  "overall_status": "COMPLETED"
+}

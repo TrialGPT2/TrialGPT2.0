@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00774137",
+  "title": "Examining New Diagnostic Tests for Acute Kidney Injury After Heart Surgery",
+  "brief_summary": "People who undergo coronary artery bypass grafting (CABG) or heart valve surgery may experience acute kidney injury (AKI) after their surgery. Current medical tests cannot identify AKI until approximately 48 hours after it occurs. This study will examine three new biomarkers in blood and urine that may provide a more effective and faster way of predicting AKI in people who undergo CABG or heart valve surgery.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria for Adults: (must have at least one of the following)\n\n* Emergent surgery\n* Pre-existing kidney impairment (baseline serum creatinine greater than 2 mg/dL)\n* Ejection fraction less than 35%\n* At least 70 years old\n* Diabetes mellitus\n* Combined CABG and valve surgery\n* Repeat CABG or valve surgery\n\nExclusion Criteria for Adults:\n\n* Pre-operative acute kidney injury\n* Enrolled in a conflicting research study\n* Prior kidney transplantation\n* Baseline serum creatinine level greater than 4.5 mg/dL\n* Nephrotoxic drugs administered pre-operatively\n* Surgery for only left ventricular assist device\n\nInclusion Criteria for Children:\n\n* Undergoing open heart surgery\n\nExclusion Criteria for Children:\n\n* Pre-existing acute kidney failure (greater than 50% decline in creatinine clearance)",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "1. Adults undergoing CABG surgery or heart valve surgery.\n2. Children undergoing cardic surgery (requiring CABG) to correct congenital heart defects.",
+  "condition": [
+    "Kidney Failure, Acute",
+    "Renal Insufficiency"
+  ],
+  "overall_status": "COMPLETED"
+}

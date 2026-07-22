@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02482025",
+  "title": "The Secure Messaging for Medication Reconciliation Tool (SMMRT) Trial",
+  "brief_summary": "Medication discrepancies, defined as unintentional differences found between patients' medical records and patients' reports of the medication they are taking, occur frequently after hospital discharge, predisposing to adverse drug events (ADEs), emergency department visits and readmissions. Resolving medication discrepancies - medication reconciliation - is mandated at every care transition, but little is known about intervention strategies to improve medication reconciliation in the post-discharge period, when patients may lack prompt access to primary care and are at high risk for ADEs. To address this gap, the investigators developed and pilot tested the Secure Messaging for Medication Reconciliation Tool (SMMRT), with a pharmacist communicating with Veterans to review medications and reconcile discrepancies after hospital discharge via Secure Messaging (SM), within My HealtheVet (MHV), VA's patient portal. The objectives of The SMMRT Trial are therefore\n\nTo optimize the end-users' experience with SMMRT through usability testing and refinement of the tool; To conduct a randomized controlled trial (RCT) of usual care vs. usual care plus MHV Training vs. usual care plus MHV Training plus SMMRT to reduce hospital utilization; To evaluate how Veterans and staff perceived the impact of SMMRT on routine clinical practices and, specifically, on Veterans' interactions with their primary care providers.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* Veterans age 18 years or older\n* Having a VA primary care provider (PCP) at any VA facility in VISN-1\n* Planned discharge home (as opposed to another facility)\n* Computer and internet access\n* Anticipated to be discharged with at least 5 medications.\n\n  * Having a VA PCP will be defined as having seen the provider within the past two years\n  * Planned discharge home will be ascertained from the Veteran's nurse; approximately 75% of VA Boston discharges are to home\n  * The nurse will also provide number of anticipated discharge medications\n\nExclusion Criteria:\n\n* Cognitive impairment (as determined by the Callahan screener)",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Drug-Related Side Effects and Adverse Reactions",
+    "Adverse Drug Events"
+  ],
+  "overall_status": "COMPLETED"
+}

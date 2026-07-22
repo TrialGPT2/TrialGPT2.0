@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01011647",
+  "title": "Prevalence of Sleep Disordered Breathing",
+  "brief_summary": "A novel technique in identifying unspecified sleep apnea has been developed. This technique uses signals typical acquired from a bedside monitor that is found in critical care environments. Those signals are then processed by a sleep analysis algorithm to provide an Apnoea Hypopnea Index (AHI) score. This study is intended to determine whether the prevalence of sleep disordered breathing identification among patients in a Coronary Care Unit (CCU) using this novel approach is significantly different than using routine techniques.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age equal to or greater than 18 years at time of consent\n* Written informed consent\n* Patients admitted to the intensive care unit if able to remove oxygen\n* Patients admitted to telemetry and step-down floor that will not require oxygen\n* Primary diagnosis (any of the following)\n* Un-stable angina\n* Acute myocardial infarction\n* Congestive heart failure\n\nExclusion Criteria:\n\n* Previously diagnosed sleep disordered breathing\n* Inability to consent\n* Pregnancy\n* Intubation (no longer excluded after extubation)\n* Oxygen therapy (no longer excluded after therapy ends)\n* End-Stage renal disease\n* End-Stage liver disease\n* Terminal disorders other than cardiac\n* Severe scoliosis\n* Cervical spinal cord injuries\n* Neuromuscular disorders\n* Severe COPD as defined by prescription of home oxygen therapy\n* Other unsuitable circumstances",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subject selection will come from patients admitted to the hospital with an acute cornonary condition.",
+  "condition": [
+    "Unstable Angina",
+    "Acute Myocardial Infarction",
+    "Congestive Heart Failure"
+  ],
+  "overall_status": "TERMINATED"
+}

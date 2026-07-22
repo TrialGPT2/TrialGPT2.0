@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT06880991",
+  "title": "Development of Patient-Reported Outcome Measures Assessing Tumor Visibility and Appearance Concerns in Neurofibromatosis Type 1: A Qualitative Study",
+  "brief_summary": "Background:\n\nNeurofibromatosis 1 (NF1) is a disease that causes tumors to grow along the nerves. These include plexiform neurofibromas (pNF) and cutaneous neurofibromas (cNF). Both pNF and cNF can be visible to other people. These tumors can affect a person s appearance and quality of life. Researchers want to be able to assess changes in appearance before and after treatment for NF1 tumors.\n\nObjective:\n\nTo see if two questionnaires can help assess people s ratings about the appearance of their pNF and cNF tumors.\n\nEligibility:\n\nPeople aged 8 years and older with pNF and people 12 years and older either with cNF or both pNF and cNF. Adult caregivers of children with pNF and cNF are also needed.\n\nDesign:\n\nParticipants will complete questionnaires on paper or by phone, computer, or tablet. They will answer questions about how they look, how they feel, and how they feel about the way they look.\n\nParticipants will meet in at least 1 remote focus group or individual interview. The meeting will last about 1 hour. Each group will include 3 to 5 people, organized by age: 8 to 11 years, 12 to 17 years, 18 to 29 years, and over 30 years. Adult caregivers will meet in a group with other caregivers.\n\nThey will discuss their NF1 symptoms; how their tumors look; how they feel about the way their tumors look; and their daily activities. They will give their opinions about 2 questionnaires about appearance.\n\nThe group and individual meetings will be audio-recorded and transcribed. Information that can reveal individual identities will be removed.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Participants must self-report a diagnosis of NF1 OR be the caregiver of a child with NF1 (5-17 years old with plexiform neurofibroma \\[pNF\\] or 12-17 years old with cutaneous neurofibroma \\[cNF\\])\n\nThe following for the participant or the caregiver of a child, as appropriate:\n\n* Participants with NF1 must self-report a pNF and/or cNF tumor(s) that is visible to that individual OR others\n* Caregivers of a child with NF1 must report a pNF and/or cNF tumor(s) that the child has that is visible to the child OR others\n* Age requirements:\n\n  * \\>= 8 years old (participants with pNF)\n  * \\>= 12 years old (participants with cNF)\n  * \\>= 12 years old (participants with pNF and cNF)\n  * \\>= 18 years (caregivers)\n* Access to device with internet\n* Ability to understand English and comfort discussing their medical condition in English\n* The ability of adult participant or caregiver of minor participants to understand and the willingness to sign a written informed consent document\n\nEXCLUSION CRITERIA:\n\n* Physical or cognitive limitations that would prevent them from being able to participate in a focus group or interview, or unwillingness to do so\n* Since we will aim to have no less than 25 percent of participants from underrepresented\\* groups, individuals from represented groups may not be able to participate after we have reached the maximum target for represented groups. Consistent with best practices for scale development and validation, this will help ensure that the measures are appropriate for people from a variety of backgrounds.\n\n  \\* Underrepresented groups are defined as people who identify as African American or Black, American Indian, Alaska Native, Hispanic/Latine, Native Hawaiian, and other Pacific Islander.\n* If saturation has been met within a particular age group, potential participants from that completed age group will no longer be eligible.",
+  "minimum_age": "5 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "individuals with neurofibromatosis type 1 (NF1) or be the caregiver of a child with NF1 (5-17 years old with plexiform neurofibroma \\[pNF\\] or 12-17 years old with cutaneous neurofibroma \\[cNF\\]).",
+  "condition": [
+    "Neurofibromatosis Type 1",
+    "Neurofibroma"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a qualitative study enrolling patients with neurofibromatosis type 1 (NF1) who have visible plexiform or cutaneous neurofibromas, regardless of prior systemic therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they restrict or require any prior lines of therapy. Patients are included based on diagnosis and tumor visibility, not treatment history."
+    }
+  ]
+}

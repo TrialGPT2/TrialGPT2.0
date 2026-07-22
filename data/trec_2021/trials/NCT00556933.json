@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00556933",
+  "title": "Improved Induction and Maintenance Immunosuppression in Kidney Transplantation",
+  "brief_summary": "This 2 x 2 sequential factorial study evaluates two potential improvements to the standard immunosuppression regimen used at the investigators' institution to prevent rejection of transplanted kidneys. These two potential improvements are each applied in sequence to half of the study patients, creating 4 study arms; the other half receive the standard treatment. The two potential improvements are:\n\n1. Administering the immunosuppression induction agent rATG (\"rabbit anti-thymocyte globulin\") in a single dose at the time of transplantation, instead of in the usual series of 4 smaller doses over 6 days.\n2. After 6 months, modifying the maintenance immunosuppression used to prevent rejection by replacing the drug tacrolimus with mycophenolate mofetil (MMF).\n\nThe two interventions, spaced sequentially six months apart, enable independent analysis of the two treatments so long as it can be shown that there is no synergistic interaction between them.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Primary renal transplant recipient for end-stage renal disease\n\nExclusion Criteria:\n\n* Recipient age \\< 18 years or \\> 65 years\n* Previous history of CMV disease\n* Hepatitis B and C recipients\n* Primary disease states that require steroids for immunosuppression\n* Re-transplant with immunological cause of renal or pancreas loss\n* Non heart beating donors\n* Recipient of pediatric en bloc kidneys\n* Recipient with a Panel Reactive Antibody (PRA) score \\>75%\n* Patients who have received 3 or more prior transplants, excluding pancreas\n* Patients who are past recipients of other solid organ transplants\n* Previous history of BK virus\n* Previous treatment with Thymoglobulin\n* Allergy to rabbits\n* Simultaneous Kidney/Pancreas transplantation",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "End-stage Renal Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

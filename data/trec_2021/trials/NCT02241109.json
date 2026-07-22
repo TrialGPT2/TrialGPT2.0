@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT02241109",
+  "title": "Predicting Aortic Stenosis Progression by Measuring Serum Calcification Propensity",
+  "brief_summary": "Aortic stenosis is the most common valvular heart disease and an important public-health problem. Surgical or interventional aortic valve replacement are based on symptoms and measures of valvular and ventricular function using echocardiography.There is no uniform pattern of progression. Instead, marked differences not only between individuals, but also during the time course of the disease can be observed.\n\nSeveral prospective studies have been performed to enhance the predictability of disease behavior. Individually it is still prone to large errors and hard to predict aortic stenosis progression. Therefore, in patients with aortic sclerosis without severe stenosis, it is desirable to find a strong predictor of rapid disease progression. This would allow anticipating cardiovascular deterioration by identifying individuals at particular risk.\n\nStudy Hypothesis\n\nIn patients with aortic sclerosis, increased serum calcification propensity, as measured by the T50-Test, is related to the amount of stenosis progression in one year.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient referred to routine clinical echocardiography\n* Aortic sclerosis with or without stenosis\n* Written informed consent\n\nExclusion Criteria\n\n* Age \\<18 years\n* Aortic valve replacement scheduled within 1 year after inclusion\n* Any aortic valvular disease other than degenerative sclerotic, bi- or unicuspid valves\n* Known disease with expected survival \\<1 year\n* Known malignant tumor\n* Subvalvular obstruction (in left ventricular outflow tract) with mean pressure gradient \\>10mmHg",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Aortic Valve Sclerosis",
+    "Aortic Valve Stenosis",
+    "Stenosis Progression",
+    "Valvular Heart Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT06246357",
+  "title": "Evaluating the Functional Status of the Adrenal Glands With [68Ga]Ga-PentixaFor in Hyperaldosteronism and Hypercortisolism",
+  "brief_summary": "Background:\n\nThe adrenal glands are 2 small organs that sit on top of each kidney. They release hormones; these are chemicals that control how the body works. Tumors on or outside the adrenal glands are called functional if they release hormones; they are called nonfunctional if they do not. Doctors who treat adrenal tumors need to know which type a person has. Researchers want to find better ways to learn whether an adrenal tumor is functional.\n\nObjective:\n\nTo see if a new radioactive tracer (\\[68Ga\\]Ga-PentixaFor) can make it easier to identify functional adrenal tumors with positron emission tomography (PET) scans.\n\nEligibility:\n\nPeople aged 18 years and older with 1 or more adrenal tumors. They must have increased levels of the hormones aldosterone or cortisol. They must also be enrolled in at least 1 other related NIH study (protocols 19-DK-0066, 18-CH-0031, or 09-C-0242).\n\nDesign:\n\nParticipants will be screened. They may have imaging scans. Their ability to perform normal activities will be reviewed.\n\nParticipants will have one PET scan with the study tracer.\n\nThe tracer will be given through a tube attached to a needle inserted into a vein. Participants will receive the tracer 1 hour before the scan. They will lie still on a bed while a machine captures images of the inside of their body. The scan will take 45 to 90 minutes.\n\nParticipants heart rate, blood pressure, and rate of breathing will be checked before, during, and after the scan.\n\nParticipants will have a follow-up visit 3 days after their scan. This visit can be by phone, email, or in person.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Must have any of the following:\n\n  * one or more adrenal masses on CT and/or MRI and biochemical evidence of excess aldosterone\n\nOR\n\n--ACTH-independent hypercortisolism, with or without adrenal masses on CT and/or MRI\n\nOR\n\n* history of ACTH-dependent hypercortisolism (with or without adrenal enlargement)\n* Co-enrollment in 19-DK-0066, 09-C-0242, 18-CH-0031 or a similar NIH trial.\n* Age \\>=18 years.\n* ECOG performance status \\<= 2.\n* Women of child-bearing potential (WOCBP) and men must agree to use an effective contraception (barrier, hormonal, intrauterine device \\[IUD\\], surgical sterilization, abstinence) for two weeks prior to \\[68Ga\\]Ga-PentixaFor scan and for one week after the \\[68Ga\\]Ga-PentixaFor scan.\n\n  * Breastfeeding should be discontinued for one week after the \\[68Ga\\]Ga-PentixaFor scan.\n  * Men must agree not to donate sperm for one week after the \\[68Ga\\]Ga-PentixaFor scan.\n* Participants must be able to understand and willing to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n* Positive beta-human chorionic gonadotropin (beta-HCG) serum or urine pregnancy test performed in females of childbearing potential at screening.\n* Uncontrolled intercurrent illness or social situations based on the review of medical history that would limit compliance with study requirements.\n* Contraindications to having an MRI and CT.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hyperaldosteronism",
+    "Hypercortisolism",
+    "Cushing s Syndrome"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a diagnostic imaging study enrolling adults with adrenal tumors and evidence of hormone excess. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention or restrict prior systemic therapy for advanced/metastatic disease. Patients are included based on the presence of adrenal tumors and hormonal abnormalities, regardless of treatment history."
+    }
+  ]
+}

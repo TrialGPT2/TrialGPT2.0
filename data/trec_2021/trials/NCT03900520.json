@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT03900520",
+  "title": "Pneumonia Research and Vaccine Impact League",
+  "brief_summary": "The leading cause of severe respiratory disease and death in young children is Streptococcus pneumoniae (pneumococcus). An estimated one-fifth of global childhood pneumococcal-related deaths occurred in India. The pneumococcal conjugate vaccine (PCV) is a primary prevention tool against pneumococcal disease that is safe and effective and has been in use in many countries. In alignment with the Government of India's rollout of PCV sub-nationally in selected districts and states, this two-year observational study will use a non-interventional, observational prospective study design to evaluate the impact of PCV in 7 sites in India (5 hospitals and 2 community sites) by assessing clinical and serotype-specific outcomes that include hospitalized pneumonia and community pneumococcal carriage. A sub-study to assess the cost of illness of pneumonia will also be conducted. This study is anticipated to provide data to support sustainability of PCV expansion and disease surveillance in India.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "PREVAIL-Pneumo:\n\nInclusion criteria:\n\n* Age 1-35 months\n* Admitting diagnosis is pneumonia or lower respiratory tract illness/infection Written informed consent obtained from parent or legally authorized representative\n\nExclusion criteria:\n\n* Discharged as an PREVAIL case in the last 90 days\n\nPREVAIL-Community:\n\nInclusion criteria:\n\n* Age 1-35 months with no systemic illness (mild respiratory illness is not an exclusion criteria)\n* Written informed consent obtained from parent or legally authorized representative\n\nExclusion criteria:\n\n* Known underlying serious disease (e.g., congenital heart diseases, immunodeficiency disorders, sickle cell anemia etc.) which may negatively influence the participant's ability to participate in the study\n\nPREVAIL-Econ:\n\nInclusion criteria:\n\n* Currently enrolled into the PREVAIL study",
+  "minimum_age": "1 Month",
+  "maximum_age": "35 Months",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "There are three cohorts/groups that are recruited:\n\nPREVAIL-Pneumo: Cases aged 1-35 months of age hospitalized with physician-diagnosed pneumonia or lower respiratory tract infection.\n\nPREVAIL-Community: Children 1-35 months of age residing in the community with no systemic illness and randomly selected for inclusion into this group\n\nPREVAIL-Econ: A subset of cases enrolled into the PREVAIL-Pneumo study",
+  "condition": [
+    "Pneumonia"
+  ],
+  "overall_status": "COMPLETED"
+}

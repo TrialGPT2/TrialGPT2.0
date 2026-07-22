@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02459041",
+  "title": "Clinical Impact of EUS Elastography Mean Strain Histograms (SH) and Contrast Peak-enhancement in Focal Pancreatic Masses and Lymph Nodes",
+  "brief_summary": "The study protocol is based on a multi-center semi-quantitative approach of EUS elastography data in combination with contrast-enhanced EUS, consisting of measuring SR and SH for focal pancreatic masses and lymph nodes, as well as several parameters of CE-EUS based on time-intensity-curve (TIC) analysis. A number of parameters must be taken into consideration, as the ROIs are still manually selected by the user. The aim of the study is to establish an EUS based diagnostic algorithm in patients with pancreatic masses and lymph nodes, with negative or inconclusive cytopathology after EUS-FNA, based on previously published results and cut-offs of elastography and contrast-enhancement. The proposed algorithm of sequential use of real-time elastography, followed by contrast-enhanced EUS could be a good clinical tool to help select the patients with possible pancreatic adenocarcinoma or malignant lymph nodes, in the setting of patients with negative EUS-FNA results.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients diagnosed with solid pancreatic tumor masses, with cytological / histo-logical confirmation\n* Patients with or without suspected lymph node involvement are eligible\n* Age 18 to 90 years old, men or women\n* Signed informed consent for EG-EUS, CE-EUS and FNA biopsy\n\nExclusion Criteria:\n\n* Prior surgical treatment with curative intent or chemo-radiotherapy\n* Patients diagnosed with mucin producing tumors, pancreatic cystic tumors, etc.",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients with a suspicion of pancreatic masses or lymph nodes should undergo EUS, with sequential EG-EUS and CE-EUS. Personal data (name, surname, age, admission date, SSN, diagnosis at admission) will be registered in the study.\n\nEUS and EUS-guided fine needle aspiration are methods used for pancreatic masses and lymphnodes assessment in daily clinical practice. Contrast enhanced-EUS (CE-EUS) is aproved in european countries, and this mehode has been accepted for EUS procedures in daily practice, as well as elastography (EG-EUS). Anyway, signed informed consent for EG-EUS, CE-EUS and FNA biopsy is required for participation in the study.",
+  "condition": [
+    "Pancreatic Cancer",
+    "Secondary Malignant Neoplasm of Lymph Node",
+    "Benign Neoplasm of Lymph Nodes",
+    "Benign Pancreatic Tumors"
+  ],
+  "overall_status": "COMPLETED"
+}

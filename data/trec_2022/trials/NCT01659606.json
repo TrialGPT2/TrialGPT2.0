@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT01659606",
+  "title": "Radiation- and Alkylator-free Bone Marrow Transplantation Regimen for Patients With Dyskeratosis Congenita",
+  "brief_summary": "Dyskeratosis congenita is a disease that affects numerous parts of the body, most typically causing failure of the blood system. Lung disease, liver disease and cancer are other frequent causes of illness and death. Bone marrow transplantation (BMT) can cure the blood system but can make the lung and liver disease and risk of cancer worse, because of DNA damaging agents such as alkylators and radiation that are typically used in the procedure. Based on the biology of DC, we hypothesize that it may be possible to avoid these DNA damaging agents in patients with DC, and still have a successful BMT. In this protocol we will test whether a regimen that avoids DNA alkylators and radiation can permit successful BMT without compromising survival in patients with DC.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Bone marrow hypocellular for age\n* Moderate or severe aplastic anemia defined by one of the following: peripheral blood neutrophils \\< 0.5 x 10\\^9/L; platelets \\< 30 x 10\\^9/L or platelet transfusion dependence; reticulocytes \\< 50 x 10\\^9/L in anemic patients or red cell transfusion dependence\n* Diagnosis of dyskeratosis congenita based on clinical triad of abnormalities of skin pigmentation, nail dystrophy, oral leukoplakia; OR one of clinical triad and presence of two or more associated features; OR a pathogenic mutation in DKC1,TERC, TERT, NOP10, NHP2, TCAB1, TINF2, CTC1, PARN, RTEL1, ACD, NAF1, STN1, or ZCCHC8, as reported by a CLIA-approved laboratory; OR age-adjusted mean telomere length \\< 1%ile in peripheral blood lymphocytes as reported by a CLIA-approved laboratory; OR Hoyeraal-Hreidarsson syndrome; OR Revesz syndrome\n* Availability of a related or unrelated donor with a 7/8 or 8/8 match for HLA-A, B, C, and DRB1.\n* Patient and/or legal guardian must be able to sign informed consent.\n* Donor must provide a marrow allograft.\n* Diagnosis of Fanconi anemia must be excluded by mitomycin C or diepoxybutane chromosomal breakage testing on peripheral blood at a CLIA-approved laboratory (not required for patients with a genetic mutation consistent with DC)\n* Adequate renal function with glomerular filtration rate equal to or greater than 30 ml/min/1.73 m2\n\nExclusion Criteria:\n\n* Clonal cytogenetic abnormalities associated with MDS or AML on bone marrow examination.\n* Karnofsky/Lansky performance status \\< 40.\n* Uncontrolled bacterial, viral or fungal infections.\n* Positive test for the human immunodeficiency virus (HIV).\n* Pregnancy or breastfeeding.\n* Known severe or life-threatening allergy or intolerance to fludarabine, alemtuzumab, mycophenolate mofetil or both cyclosporine and tacrolimus.\n* Positive patient anti-donor HLA antibody, which is deemed clinically significant.\n* Prior allogeneic marrow or stem cell transplantation.\n* Prior solid organ transplantation.",
+  "minimum_age": "30 Days",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Dyskeratosis Congenita",
+    "Hoyeraal Hreidarsson Syndrome",
+    "Revesz Syndrome",
+    "Aplastic Anemia"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

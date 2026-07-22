@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00001486",
+  "title": "Genetic Study of Schizophrenia",
+  "brief_summary": "This large ongoing study at NIMH investigates the neurobiology of schizophrenia by identifying susceptibility genes, evaluating their impact on brain function to better understand how to treat and prevent this illness....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION/EXCLUSION CRITERIA:\n\nInclusion criteria for Siblings (probands and unaffected siblings):\n\n* Probands must have a DSM IV-R diagnosis of schizophrenia,schizoaffective disorder, psychosis N.O.S. or schizophreniform disorder.\n* Probands and Siblings must be between the ages of 18 and 55\n* Probands and Siblings must be free of major medical illnesses, but may have controlled hypertension, thyroid disease, or diabetes.\n* Probands and Siblings must have the cognitive ability to consent for themselves. Those who are judged to have the cognitive ability to consent for themselves at the time of participation, but do not have the legal capacity to consent for themselves may participate if the legal guardian /Legal authorized representative (LAR) provides consent by signing the informed consent form.\n* Fluency in English is required.\n\nExclusion Criteria for Siblings (probands and unaffected siblings):\n\n* Seizure disorder, mental retardation, organic brain damage or other neurological disease.\n* History of any (excepting nicotine-related) DSM5-defined moderate to severe substance use disorder (or DSM-IV-defined substance dependence).\n* Cumulative lifetime history of any (excepting nicotine-related) DSM5-defined mild substance use disorder (or any DSM-IV-defined substance abuse), either in excess of 5 years total or not in remission for at least 6 months.\n* Head trauma with loss of consciousness over 5 minutes from all but genetic sampling.\n* Chemotherapy.\n* NIMH employees/staff and their immediate family members will be excluded from the study per NIMH policy\n\nSiblings who do not qualify for the 2-day or 1-day study, may participate in the limited phenotyping arm in which only a psychiatric interview and a blood draw for genetic analysis (SCID-DNA) will be performed, case control analysis or be included as part of a trio (one parent, one sibling, one patient) to study genetic transmission from parents to offsprings.. All parents are eligible for the study.\n\nInclusion Criteria. Healthy Volunteers/Controls\n\nTo be eligible for this research study, healthy volunteers must be:\n\n* Between the ages of 18 and 55\n* Fluency in English is required\n\nHealthy Controls Exclusion Criteria:\n\nThey will not be eligible if:\n\n* They have history of DSM IV-R psychiatric diagnosis or severe chronic medical illness at the time of the study.\n* They have a history of any (excepting nicotine-related) DSM5-defined moderate to severe substance use disorder (or DSM-IV-defined substance dependence).\n* They have a cumulative lifetime history of any (excepting nicotine-related) DSM5-defined mild substance use disorder (or any DSM-IV-defined substance abuse), either in excess of 5 years total or not in remission for at least 6 months.\n* They may not be eligible for the 2-day or 1-day study if they have a first-degree relative with history of schizophrenia spectrum disorders. However, they may be included in the SCID\\_DNA or case control analyses.\n* Healthy volunteers must be free of learning disabilities.\n* NIMH employees/staff and their immediate family members will be excluded from the study per NIMH policy.",
+  "minimum_age": "18 Years",
+  "maximum_age": "55 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Probands, healthy controls, siblings, parents",
+  "condition": [
+    "Schizoaffective Disorder",
+    "Schizophrenia"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a genetic and neurobiological study of schizophrenia and related disorders, with no mention of systemic therapy or lines of therapy for advanced disease. The eligibility criteria do not reference cancer treatment or lines of therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study is not oncology-related and does not mention systemic therapy, lines of therapy, or cancer treatment. No line-of-therapy intent can be determined from the eligibility criteria."
+    }
+  ]
+}

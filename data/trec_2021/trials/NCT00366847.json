@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT00366847",
+  "title": "Computer Modeling of Congenital Heart Disease",
+  "brief_summary": "This proposal is aimed at developing a novel method for modeling and analyzing clinical factors impacting RV function, which can lead to a more reliable, consistent, and comprehensive pre-operative treatment planning. In particular, the proposed work centers on the creation of an accurate and clinically useful heart model with which to quantify, visualize, and interpret several clinical findings that are central to the medical decision-making process. The hypothesis is that by providing clinicians with 3D models that capture numerous relevant patient findings in an integrated, quantitative manner they can make more consistent, reliable, and accurate clinical assessments and may also be able to predict factors complicit in RV dysfunction and impending failure.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Choa patients only. Data will be taken from the following patient groups:\n\n  * Normal right ventricular (RV) EF with normal RV size and pulmonary insufficiency (PI)\n  * Normal RV EF with dilated RV and PI\n  * Reduced RV EF with dilated RV with PI\n  * Normal RV EF (pre-operatively) dilated RV and pulmonary valve\n  * replacement\n  * Reduced RV EF (pre-op) dilated RV and pulmonary valve replacement\n\nExclusion Criteria:\n\n* Those who do not conform with inclusion criteria",
+  "minimum_age": "",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "This is a chart review of patients with heart defects associated with Right Ventricle dysfunction who have received a cardiac MRI at Children's Healthcare of Atlanta between January 1, 1990 and March 14, 2007.",
+  "condition": [
+    "Congenital Disorders"
+  ],
+  "overall_status": "COMPLETED"
+}

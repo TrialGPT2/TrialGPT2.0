@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT06874205",
+  "title": "Assessment of 11C-JMJ-129 for Imaging PDE4D in Brain and Whole Body of Healthy Volunteers",
+  "brief_summary": "Background:\n\nPDE4D is a protein in the body that plays a role in thinking and depression. This protein may play a major role in disorders such as Alzheimer disease or major depressive disorder. To learn more about these disorders, researchers want to be able to detect levels of PDE4D in the brain. 11C-JMJ-129 is a new radiotracer (a radioactive substance that highlights parts of the body during imaging scans) that was developed to attach only to PDE4D.\n\nObjective:\n\nTo test the new radiotracer 11C-JMJ-129 during imaging scans in healthy volunteers.\n\nEligibility:\n\nHealthy people aged 18 years and older who had a screening assessment under protocol 01-M-0254.\n\nDesign:\n\nParticipants will have 2 to 4 clinic visits.\n\nParticipants will be screened. They will have a physical exam. They will have blood tests and a test of their heart function.\n\nParticipants will undergo 1 or more of these scans:\n\nA positron emission tomography (PET) scan of the whole body. The radiotracer will be injected through a tube placed in a vein in the arm. Participants will lie on a table while a donut-shaped machine passes over them. Blood will be drawn from the arm during this scan.\n\nA magnetic resonance imaging (MRI) scan of the brain. Participants will lie on a table that slides into a tube.\n\nA PET scan of the brain. These participants will be injected with the radiotracer. They will lie on a table with their head in the scanner.\n\nParticipants will be called within 3 days after each PET scan for a check on their health.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Aged 18 years or older.\n* Participants must have undergone a screening assessment under protocol 01-M-0254, \"The Evaluation of Patients with Mood and Anxiety Disorders and Healthy Participants.\"\n* Healthy based on medical history, physical examination, and laboratory testing.\n* Able to provide informed consent.\n* Willing and able to complete all study procedures including MRI tests.\n* Have had their radial artery pulse checked for the presence of adequate ulnar collateral flow and the absence of any metal or foreign objects in both wrists.\n* Agree to adhere to the lifestyle considerations\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Clinically significant abnormalities on EKG or laboratory testing. This includes CBC and acute care panel (Na, K, Cl, CO2, creatinine, glucose, urea nitrogen).\n* Any current Axis I diagnosis.\n* History of neurologic illness or injury with the potential to affect study data interpretation.\n* History of seizures, other than in childhood and related to fever.\n* Recent exposure to radiation (i.e., PET from other research) which when combined with this study would be above the allowable limits.\n* Inability to lie flat on camera bed for at least two hours, including claustrophobia and weight greater than the maximum for the scanner (500 lbs).\n* HIV Infection.\n* Pregnancy or breast feeding.\n* Participants must not have substance use disorder or alcohol use disorder.\n* Unable to travel to the NIH.\n* Are unable to have an MRI scan (e.g., because of pacemakers or other implanted electrical devices, brain stimulators, dental implants, aneurysm clips (metal clips on the wall of a large artery), metallic prostheses (including metal pins and rods, heart valves, and cochlear implants), permanent eyeliner, implanted delivery pumps, shrapnel fragments, or metal fragments in the eye.",
+  "minimum_age": "18 Years",
+  "maximum_age": "101 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Healthy"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an imaging study enrolling only healthy volunteers with no history of cancer or systemic therapy. There is no line-of-therapy intent as the study does not involve patients with advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "unknown",
+      "line_of_therapy_text": "The study is restricted to healthy volunteers with no cancer diagnosis or prior systemic therapy for advanced disease. No lines of therapy are relevant to this population."
+    }
+  ]
+}

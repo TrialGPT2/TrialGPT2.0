@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03697863",
+  "title": "Noninvasive NAVA Versus Flow-triggered Noninvasive Pressure Support in Pediatric Respiratory Failure",
+  "brief_summary": "Acute Hypoxemic Respiratory Failure (AHRF) is a leading cause of admission in Pediatric Intensive Care Unit (PICU). Traditional treatment includes endotracheal intubation and mechanical ventilation, that are invasive and not free from risks. Recent experiences from pediatric studies showed that Non-Invasive Pressure Support Ventilation (NIV-PS) has been associated with lower intubation rate, adverse events and mortality compared to mechanical ventilation delivered by an endotracheal tube. Nonetheless, in pediatric ARF, the application of a well-synchronized NIV-PS is technically challenging due to the presence of leaks and the age-specific characteristics of pediatric respiratory pattern (high respiratory rate, short inspiratory/expiratory time and weak inspiratory effort). Consequently, NIV-PS often results in difficult patient-ventilator interaction, with a failure rate up to 43% . Neurally Adjusted Ventilatory Assist (NAVA) is a new form of ventilatory assistance wherein the ventilator applies positive pressure throughout inspiration synchronously and proportionally to the Electrical Diaphragm activity (Edi). Thus, NAVA is not influenced by large leaks around uncuffed endotracheal tubes or noninvasive interfaces. Studies in intubated children found that NAVA improved interaction by reducing asynchronies and optimizing ventilator cycling.Two recent studies showed that the application of Non-Invasive NAVA (NIV-NAVA) in children with ARF is feasible and may reduce asynchronies as compared to NIV-PS.\n\nMore recently, in a recent RCT of our group, we demonstrated that NIV NAVA in children was associated with lower asynchronies, longer synchronization time between patient and ventilator at lower peak and mean airway pressure.\n\nHowever no data are published to address the question if the better synchronization between patients and ventilator obtained with NIV NAVA could lead to a reduction in intubation rate and PICU outcomes.\n\nTo address this question, we designed an observational retrospective study aiming to define if early delivered NIV NAVA could reduce intubation rate if compared with traditionally flow-cycled NIV PS in hypoxemic children admitted to PICU.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria\n\nAge \\> 1month and \\< 5 years; paO2: FIO2 \\<300 with oxygen mask (FiO2=0.4) for 15 minutes Respiratory Rate (RR)\\>2SD according to age Bilateral Chest X ray infiltrates Absence of cardiopathy diagnosed by ecochardiography .\n\nExclusion Criteria:\n\nEmergency need for intubation Glasgow Coma Scale \\<12 pH\\<7.25 Cough reflex impairment Upper-airway obstruction Hemodynamic instability (need for vasopressor or inotropes) Evidence of pneumothorax on lung echo or chest x ray Esophageal surgery, neuromuscular, mitochondrial, metabolic or chromosomal diseases with baby hypotonia and lesions of medulla.\n\nWere excluded even patients whose parents denied the consent to manage personal data at admission and patient lacking data on medical charts report",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Consecutive children with infectious Acute Respiratory Failure meeting the pediatric criteria for moderate ARDS Definition admitted to PICU of Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, Milan, Italy between the first January 2015 and first January 2017.",
+  "condition": [
+    "Acute Respiratory Failure"
+  ],
+  "overall_status": "UNKNOWN"
+}

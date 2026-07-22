@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT00001337",
+  "title": "Dose-Adjusted EPOCH Chemotherapy and Rituximab (CD20+) in Previously Untreated Aggressive Non-Hodgkin's Lymphoma",
+  "brief_summary": "5-Drug Combination Chemotherapy with Hematologic Toxicity Attenuation. Etoposide phosphate, prednisone, vincristine sulfate (Oncovin), cyclophosphamide, and doxorubicin hydrochloride (hydroxydaunorubicin)(EPOCH): Etoposide, VP-16, NSC-141540; Prednisone, PRED, NSC-10023; Vincristine, VCR, NSC-67574; Cyclophosphamide, CTX, NSC-26271; Doxorubicin, DOX, NSC-123127; with Granulocyte Colony-Stimulating Factor (Amgen), Granulocyte colony-stimulating factor (G-CSF), NSC-614629.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nNon-Hodgkin's lymphomas in the following categories: mediastinal gray zone lymphoma and primary mediastinal B cell lymphoma.\n\nDiagnosis confirmed by staff of the Hematopathology Section, Laboratory of Pathology, National Cancer Institute (NCI). Tissue blocks from patients treated in extramural sites must be forwarded to the NCI for analysis of B-cell leukemia/lymphoma 2 (bcl-2) by immunohistochemistry (IHC) and other markers within 1 month of study entry.\n\nPatients greater than or equal to 12 years old.\n\nStage and Prognosis of Patients: Any stage for mediastinal gray zone lymphoma (MGZL) and primary mediastinal B-cell lymphoma (PMBL).\n\nNo prior systemic chemotherapy. Patients may be entered if they have had prior limited-field radiotherapy, a short course of glucocorticoids and/or cyclophosphamide for an urgent problem at diagnosis (e.g. epidural cord compression, superior vena cava syndrome).\n\nHuman immunodeficiency virus (HIV) negative.\n\nNot pregnant or nursing.\n\nAdequate major organ function \\[in adults: serum creatinine less than or equal to 1.5 mg/dl or creatinine clearance greater than 60 ml/min; and in children serum creatinine (CR) less than or equal to age-adjusted normal (age 12 to 15 maximum serum creatinine 1.2 mg/dl and age greater than 15 maximum serum creatinine 1.5 mg/dl); bilirubin less than 1.5 mg/dl; absolute neutrophil count (ANC) greater than 1,000 and platelets greater than 100,000) unless impairment is due to organ involvement by lymphoma or immune-mediated mechanism caused by lymphoma.\n\nNo active symptomatic ischemic heart disease, myocardial infarction or congestive heart failure within the past year. If multi-gated acquisition (MUGA) is obtained, the left ventricular ejection fraction (LVEF) should exceed 40%.\n\nNo other serious concomitant medical illnesses or uncontrolled active infection that would jeopardize the patient's ability to receive the regimen with reasonable safety.\n\nNo history of unrelated (non-lymphomatous) neoplasms within past 5 years other than non-melanoma skin cancer or in-situ cancer.\n\nAbility to give informed consent.",
+  "minimum_age": "12 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Diffuse Large B-Cell Lymphoma (DLBCL)",
+    "Primary Mediastinal Large B-cell Lymphoma",
+    "Burkitt Lymphoma",
+    "Anaplastic Large-Cell Lymphoma",
+    "Gray Zone Lymphoma"
+  ],
+  "overall_status": "COMPLETED"
+}

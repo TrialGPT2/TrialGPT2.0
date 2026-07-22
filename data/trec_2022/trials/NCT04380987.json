@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04380987",
+  "title": "Luxembourg Cohort of Positive Patients for COVID-19: a Stratification Study to Predict Patient Prognosis",
+  "brief_summary": "Predi-COVID is a prospective cohort study composed of people positively tested for COVID-19 in Luxembourg, followed digitally for monitoring participants' health evolution and symptoms at home. Participants will be actively followed for 14 days from the time of confirmation of diagnosis, whether they are at the hospital or at home in isolation or quarantine. Short evaluations will be also performed at week 3 and week 4 and then monthly for a period up to 12 months to assess potential long term consequences of COVID-19. A subsample of 200 participants will be contacted to integrate complementary clinical data and collect samples.\n\nThe study aims at identifying factors associated with the COVID-19 disease severity. COVID-19 patients with severity criteria will be compared to patients with mild disease managed at home.\n\nA deep phenotyping related to the symptoms of the disease as well as biosampling allowing for laboratory-based and computational analytics will be performed.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* SARS-CoV-2 infection as determined by PCR, performed by one of the certified laboratories in Luxembourg\n* Signed informed consent form\n* Age \u226518 years old\n* Hospitalized or at home\n\nExclusion Criteria:\n\n* Patients not understanding French or German\n* Patients already included in an interventional study on Covid-19 (Discovery or other)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult (\u226518 years old) patients with confirmed SARS-CoV-2 infection, hospitalized or at home.",
+  "condition": [
+    "Covid19"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT05007990",
+  "title": "Caregiving Networks Across Disease Context and the Life Course",
+  "brief_summary": "Background:\n\nIn the U.S., about 53 million informal, unpaid caregivers provide care to a person who is ill, is disabled, or has age-related loss of function. These caregivers may be adult children, spouses, parents, or others. The stress of providing long-term care affects caregivers health and well-being. Researchers want to learn more about this stress and its effects.\n\nObjective:\n\nTo learn how the caregiving process affects the health and well-being of caregivers over time.\n\nEligibility:\n\nAdults aged 18 years and older who are caregivers for a person with a chronic medical condition and who have already given consent to take part in other study activities.\n\nDesign:\n\nParticipants will be put in different groups. They will complete some or all of the following tasks over 1 year. They may repeat these tasks once a year for up to 5 years.\n\nParticipants will fill out 2 online surveys. One will ask about their health and their caregiving experience. The other will ask them to list people in their social network and their care recipient s social network who give them support.\n\nParticipants will have a 2-part phone interview. It will be audio recorded. In part 1, they will be asked about the people they listed in the survey. In part 2, they will be asked about their caregiving experience and events in the care recipient s life.\n\nParticipants may fill out a weeklong diary every 3 months. It will ask about their daily social activities, well-being, and stress levels. It will also ask about their thoughts and feelings about caregiving.\n\nParticipants may give a blood sample each year they are in the study.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Adults aged 18 years and older\n* If the Care Recipient is living, they must self-identify as a primary caregiver to the Care Recipient (individual with a chronic medical condition), OR if the Care Recipient is deceased, they must self-identify as having been a primary caregiver to the now-deceased Care Recipient, OR they must otherwise be identified (i.e., referred) by a participant as a part of the caregiving network\n* Ability to consent to research\n* Fluency in English will be needed to complete interview as well as to read, comprehend surveys and consent forms, as appropriate validated measures in other languages are not readily available.\n* Physically capable of participating in applicable assessments\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from this study:\n\n* Care Recipients (as defined in this protocol)\n* Staff of NHGRI\n\nStaff of NHGRI are unable to participate in this study as a safeguard against the risk of ethical concerns. As per OHSRP SOP 404, NIH staff may be a vulnerable class of study subjects. Excluding staff of the Institute conducting the study assures there will not be any perceived or actual conflict of interest, pressure/coercion to participate among co-workers, subordinates, work unit-members, etc. As further noted in OHSRP SOP 404, exclusion further protects this class of subjects privacy and confidentiality; and protects the study s scientific integrity.\n\nPersons with impaired neuro-sensory or decision-making ability (adults unable to provide consent) will not be enrolled in the study. Persons with impaired neuro-sensory or decision making ability would not be able to participate with independent responses to the various social behavioral measures we use in the study interview and survey. Learning information about these individuals through other people instead of themselves would introduce bias to this study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Referencing the enrollment numbers from the study of Inherited Diseases, Caregiving, and Social Networks (PI: Koehly, protocol #12HG0022), this longitudinal study will initially recruit from existing participants enrolled in #12HG0022. Family caregivers providing ongoing support for a chronically ill individual may be identified and informed about the Longitudinal Caregiving Study by an intramural NIH investigator involved in natural history protocols. Caregivers may also be recruited through other (nonNIH) clinicians, researchers, advocacy groups, online and traditional advertising, and ClinicalTrials.gov.",
+  "condition": [
+    "Inherited Metabolic Disorders",
+    "Undiagnosed Diseases",
+    "Batten's Disease",
+    "Tay Sachs",
+    "Diabetes"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of caregivers for individuals with chronic medical conditions. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, as the study is not interventional and does not focus on cancer treatment.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference any cancer treatment or systemic therapy history for advanced disease. The study population is defined by caregiving status, not by prior lines of therapy."
+    }
+  ]
+}

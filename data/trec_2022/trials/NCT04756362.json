@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04756362",
+  "title": "IN-HOspital Program to systematizE Chest Pain Protocol (IN-HOPE)",
+  "brief_summary": "Multicenter Nationwide Study for Analysis of the Potential Impact in Clinical Practice of Early Exclusion Protocols for Acute Myocardial Infarction with High Sensitivity Troponin T",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \u2265 18 years of age\n* The patient agrees and signs an informed consent form\n* One of the following 2 criteria:\n\n  1. Acute chest pain (last episode of pain beginning \\<6 hours after inclusion) or\n  2. Syncope, dyspnea or epigastric pain without an obvious cause at the initial assessment (last episode of one of these symptoms beginning \\<6 hours after inclusion) associated with at least one of the following factors: Age \u2265 65 years, history of arterial disease, history of diabetes mellitus.\n\nExclusion Criteria:\n\n* Cardiac arrest or hypoxemia or hemodynamic instability or cardioversion during the first hour of assessment\n* Thrombolytic therapy, primary angioplasty or other medical condition that requires hospitalization identified within one hour after the evaluation\n* Dialysis patients\n* Patients with trauma\n* Myocardial revascularization or acute myocardial infarction in the last month\n* Pregnant and breastfeeding women\n* Patient unable to be followed for 30 days",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Consecutive patients with suspected acute coronary syndrome",
+  "condition": [
+    "Chest Pain",
+    "Acute Coronary Syndrome"
+  ],
+  "overall_status": "COMPLETED"
+}

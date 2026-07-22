@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03635294",
+  "title": "Multi-Omics and IPSCs to Improve Diagnosis of Rare Intellectual Disabilities",
+  "brief_summary": "Background Genetic factors play a major role in intellectual disability (ID) but the underlying cause is not determined in many cases.\n\nThis proposal is the continuation of the previous interregional project HUGODIMS, the aim of which was to perform whole exome sequencing (WES) in 69 thoroughly selected simplex ID parent-child trios. Thanks to HUGODIMS consortium, the underlying genetic cause of ID was determined or highly suspected in 48 cases (69.5%) and 7 novel ID genes were identified.\n\nHypothesis Investigators hypothesize that an approach combining genomics, transcriptomics, metabolomics and morphological analyses performed on induced pluripotent stem cell (iPSC)-derived neural cells would improve diagnosis of ID. The current proposal is therefore a proof-of concept project aiming at assessing the relevance and effectiveness of this multi-omics approach.\n\nAims and Methods Ten individuals with ID recruited through HUGODIMS, in whom WES have failed to identify pathogenic variants will be included.\n\nThe workflow is the following:\n\n1. Whole genome sequencing (WGS) (Nantes) of these 10 negative trios.\n2. Bio-informatics analyses\n3. In 3 WGS negative cases, 3 positive controls bearing distinct mutations in CAMK2a (a novel ID gene identified thanks to HUGODIMS), and 3 healthy negative controls:\n\n   1. Derivation of induced pluripotent stem cell (iPSC)-derived neural progenitors (iPSC core facility at Nantes)\n   2. Targeted and non-targeted metabolomics analyses performed on iPSC-derived neuronal cells (Angers)\n   3. RNA sequencing performed on the 9 cell lines (Rennes)\n   4. Morphological analyses of differentiated neuronal cell lines derived from 3 affected individuals and 3 positive controls bearing CMK2a mutations (Tours)\n   5. Integration and validation of data from multi-omics and morphological approaches\n\nExpected results and impact Investigatrors expect that this approach combining multi-omics and iPSC will help to improve diagnosis and understanding of genetic ID of unknown cause",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* 3 Whole Genome Sequencing negative cases\n* 3 positive controls bearing distinct mutations in CAMK2a\n\nExclusion Criteria:\n\n* no informed consent/refusal",
+  "minimum_age": "2 Years",
+  "maximum_age": "25 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Rare Intellectual Disabilities"
+  ],
+  "overall_status": "COMPLETED"
+}

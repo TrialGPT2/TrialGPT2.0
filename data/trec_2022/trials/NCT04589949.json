@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04589949",
+  "title": "Early Convalescent Plasma Therapy for High-risk Patients With COVID-19 in Primary Care (the CoV-Early Study)",
+  "brief_summary": "An effective, widely available, and safe treatment that can decrease the duration, severity and fatality of COVID-19 is urgently needed. Also, in the most affected regions the pressure on health care systems including ventilator support capacity can be a limiting factor for survival. Initial studies including from our group indicate that administering convalescent plasma containing high titers of neutralizing antibodies to COVID-19 patients who are already relatively late during the disease course after hospital admission is not effective, which can be explained by high titers of autologous antibodies present in patients. Thus, the antiviral capacity of convalescent plasma is hypothesized to be best positioned early in the disease course and in patients at increased risk for a severe disease course. If effective, any treatment that decreases the need for hospital admission is very valuable but so far, no COVID-19 treatment has been shown to prevent clinical deterioration when given before patients are admitted to the hospital.\n\nPrimary objective:\n\nTo evaluate the efficacy, feasibility and safety following the administration of convalescent plasma (ConvP) as a therapy for outpatients diagnosed with COVID-19 at increased risk for an unfavourable clinical outcome and within 7 days after symptom onset.\n\nStudy design:\n\nThis trial is a nationwide multicenter, double blind, randomized controlled trial in the Netherlands. Patients will be randomized between the transfusion of 300mL of convP versus regular fresh frozen plasma (FFP).\n\nPatient population:\n\nPatients with polymerase chain reaction (PCR) confirmed COVID disease with less than 8 days of symptoms, age 70 or older or 50-69 years with at least 1 additional risk factor for severe COVID-19 are eligible.\n\nIntervention:\n\n300mL of convP with a minimum level of neutralizing antibodies.\n\nA total of 690 patients will be included. Expected duration of accrual: 18-24 months Duration of follow up :Day 28 for the primary endpoint",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* RT-PCR-confirmed COVID-19.\n* Symptomatic (e.g but not limited to fatigue, fever, cough, dyspnoea, loss of taste or smell, diarrhea, falls or confusion)\n* 70 years or older OR 50-69 years and 1 or more of the risk factors described in the protocol\n\nExclusion Criteria:\n\n* Life expectancy \\<28 days in the opinion of the treating physician\n* Patient or legal representative is unable to provide written informed consent\n* Symptomatic for 8 days or more\n* Being admitted to the hospital at the informed consent procedure\n* Known previous history of transfusion-related acute lung injury\n* Known Immunoglobulin A (IgA) deficiency",
+  "minimum_age": "50 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19"
+  ],
+  "overall_status": "TERMINATED"
+}

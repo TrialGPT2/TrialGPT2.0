@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT00735969",
+  "title": "High-Dose Ribavirin and Peginterferon to Treat Chronic Hepatitis C Genotype 1",
+  "brief_summary": "This study will evaluate the effectiveness of an experimental treatment regimen for hepatitis C (HCV). Standard treatment consists of combination therapy with ribavirin, taken by mouth twice a day, and Peginterferon, injected under the skin once a week. Hepatitis C genotypes 2 and 3 have a high success rate with this regimen, while genotype 1 is more difficult to treat. This study will determine if patients with genotype 1 respond better to treatment that uses a higher dose of ribavirin than the standard approved dose of 1,000 to 1,200 mg daily.\n\nPatients 18 years of age and older with chronic hepatitis C genotype 1 who have not been successfully treated with a standard course of Peginterferon and ribavirin may be eligible for this study. Participants eligible will receive Peginterferon plus twice the standard dose of ribavirin (2,000 to 2,400 mg daily) for 48 weeks. In addition to treatment, all patients receive undergo the following:\n\nBefore Treatment:\n\n* Medical history and physical examination, symptom questionnaires, blood tests, urine collection, chest x-ray, electrocardiogram, liver ultrasound, Fibroscan (ultrasound to measure stiffness of the liver) and pregnancy test for women who are able to have children.\n* Patients with other medical conditions or special risk factors may have further evaluations before starting treatment. These may include, for example, eye evaluation for patients with diabetes, exercise stress test for people over age 40 or who have risk factors for heart disease and psychiatric evaluation for people who have depression or anxiety disorder.\n\nDuring Treatment\n\n* Periodic blood tests to monitor blood counts and viral levels.\n* Outpatient clinic visits every 4 weeks for the duration of the study for laboratory tests and review of symptoms and treatment side effects. Physical examinations and urine tests are done every 12 weeks.\n\nFollowing Completion of Treatment\n\nAbout 1 1/2 years after starting treatment, subjects are re-evaluated as they were at the start of treatment.\n\n...",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAge 18 years or above, male or female\n\nDocumented relapse or non-response to a prior adequate course of peginterferon and ribavirin\n\nGenotype 1 HCV as determined by probe specific hybridization (Inno-Lipa assay).\n\nWritten informed consent.\n\nEXCLUSION CRITERIA:\n\nAge greater than 65 years\n\nIf cirrhosis is present, decompensated liver disease, as marked by serum bilirubin greater than 4 mg percent, albumin less than 3.0 gm percent, prothrombin time greater than 2 sec prolonged, or history of bleeding esophageal varices, ascites or hepatic encephalopathy.\n\nSerum Alanine transaminase (ALT) or Aspartate transaminase (AST) levels greater than 1000 U/L (greater than 25 times the ULN). Such patients will not be enrolled but may be followed until three determinations are below this level.\n\nPregnancy or, in women of child bearing potential or in spouses of pregnant women, inability to practice adequate contraception, defined as vasectomy in men, tubal ligation in women, or use of condoms and spermicide, or birth control pills, or an intrauterine device.\n\nBreastfeeding.\n\nSignificant systemic or major illnesses including congestive heart failure, organ transplantation, serious psychiatric disease or depression, human immunodeficiency virus (HIV) infection, and angina pectoris.\n\nPrevious intolerance of weight based ribavirin dose (1,000-1,200 mg daily) including need for dose reduction, use of erythropoietin or serious adverse event attributable to ribavirin use.\n\nRenal insufficiency (creatinine clearance less than 60 ml/min) or renal failure\n\nPre existing anemia (hematocrit less than 34 percent) or known history of hemolytic anemia.\n\nUncontrolled hypertension or diabetes mellitus\n\nOther antiviral therapy within the last 6 months.\n\nImmunosuppressive therapy with either corticosteroids (more than 5 mg of prednisone daily) or major immunosuppressive agents (such as azathioprine or 6-mercaptopurine).\n\nEvidence of another form of liver disease in addition to viral hepatitis (for example autoimmune liver disease, Wilson disease, alcoholic liver disease, hemochromatosis, alpha 1 antitrypsin deficiency).\n\nEvidence of coronary artery disease or cerebral vascular disease, including abnormalities on exercise stress testing in patients with defined risk factors who will be screened for evidence of underlying coronary artery disease.\n\nActive substance abuse, such as alcohol, inhaled or injection drugs within the previous year.\n\nEvidence of hepatocellular carcinoma; either alpha-fetoprotein (AFP) levels greater than 200 ng/ml (normal less than 9 ng/ml) and/or ultrasound (or other imaging study) demonstrating a mass suggestive of liver cancer.\n\nClinical gout.\n\nActive, serious autoimmune disease, such as lupus erythematosis, ulcerative colitis, Crohn s disease or rheumatoid arthritis that in the opinion of the investigators might be exacerbated by therapy with peginterferon.\n\nUncontrolled thyroid disease\n\nEvidence if severe retinopathy or clinically relevant ophthalmological disorder (only patients with pre-existing hypertension or diabetes will undergo an ophthalmological assessment).",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chronic Hepatitis C"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with chronic hepatitis C genotype 1 who have failed prior standard therapy with peginterferon and ribavirin. Only patients with documented relapse or non-response to a prior adequate course of peginterferon and ribavirin are eligible.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": 1,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L",
+      "line_of_therapy_text": "Eligibility requires documented relapse or non-response to a prior adequate course of peginterferon and ribavirin, indicating all patients must have received exactly one prior systemic regimen for chronic hepatitis C. Patients who are treatment-naïve or who only received adjuvant/neoadjuvant therapy are not eligible."
+    }
+  ]
+}

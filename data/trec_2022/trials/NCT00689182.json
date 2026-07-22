@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00689182",
+  "title": "Safety and Efficacy of Iron Reduction by Phlebotomy",
+  "brief_summary": "Hypothesis: The reduction of total body iron by phlebotomy will be safe and feasible in the post-HSCT setting\n\nIron overload is common after hematopoietic stem cell transplantation. It is associated with chronic liver disease, with increased rates of infection and decreased survival.\n\nEligible, consenting patients will have once monthly phlebotomy procedures (500ml) for 12 months.\n\nSAFETY: At each visit, patients will have a comprehensive assessment prior to starting and after completing the phlebotomy. This assessment will include determination of pain at phlebotomy site, local infection and an assessment of symptoms of anemia including presyncope, fatigue and dyspnea. The patient's pulse, blood pressure, respiratory rate and temperature will also be determined before and following the phlebotomy.\n\nEFFICACY: Iron stores will be measured serially in each patient. Measurements will be performed prior to the start of phlebotomy, and at 6 months and 12 months following the start of the series of 12 phlebotomies. These evaluations will be undertaken regardless of the number of phlebotomies which the patient actually undergoes. Iron stores will be estimated by measuring serum ferritin and transferrin saturation levels. Total body iron will be estimated from hepatic and cardiac iron concentration as measured by magnetic resonance imaging (MRI). Gandon et al. (12) described a non-invasive technique using MRI to measure hepatic iron stores. Iron is a paramagnetic substance which causes local magnetic field inhomogeneities leading to dephasing and signal loss in MRI. Gradient echo sequences are most susceptible to their effects because they do not use a 180\u00b0 refocusing pulse, unlike conventional spin-echo sequences. Gandon et al. used multiple gradient echo sequences, compared the signal in liver to adjacent muscle and used this ratio to correlate with hepatic iron levels measured on tissue biopsy samples using spectrophotometric analysis. Multiple sequences were used because the nomogram comparing the L/M signal ratio is linear over only a small concentration of tissue iron.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* consecutive patients who have undergone autologous or allogeneic HSCT\n* who are red-cell transfusion-independent\n* at least 60 days post-transplant\n* serum ferritin of at least 1000ug/L\n* ECOG less than or equal to 2.0\n\nExclusion Criteria:\n\n* pregnancy\n* breast-feeding\n* serious infection\n* HIV antibody positive\n* renal failure (creatinine \\< 30ml/min)\n* sever obstructive lung disease\n* have a pacemaker, cerebral aneurysm or metal prosthesis\n* evidence of disease relapse",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Iron Overload"
+  ],
+  "overall_status": "COMPLETED"
+}

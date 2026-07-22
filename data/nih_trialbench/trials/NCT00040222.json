@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT00040222",
+  "title": "Clinical, Genetic, Behavioral, Laboratory and Epidemiologic Characterization of Individuals and Families at High Risk of Breast/Ovarian Cancer",
+  "brief_summary": "Individuals and families with known or suspected syndromes that include breast, ovarian or genetically-related cancers are enrolled in this family study, which is a syndrome-specific sub-set of the long-standing DCEG Human Genetics Program umbrella family studies protocol (78-C-0039). Cancer outcomes are documented through review of medical, vital, and pathology records. Selected individuals and family members are asked to complete questionnaires to assess etiologic risk factors and to undergo clinical evaluations specifically tailored to the relevant familial syndrome. Study participants are monitored prospectively for the development of outcomes of interest, typically by means of periodic mail or telephone contact. In selected instances, subjects may return to the Clinical Center periodically for study-specific follow-up examinations. Study participants are asked to donate biologic specimens to be used in the laboratory search for cancer etiology and mechanisms of carcinogenesis. DNA and serial serum samples will be collected. Tumor tissue will be obtained whenever feasible.\n\nClinical genetic testing for tumor susceptibility gene(s) mutations and risk notification will be offered consistent with ASCO guidelines when reasonable individual cancer risk estimates can be delivered, and only to those participants who choose to know their individual genetic status after appropriate education and counseling. The testing will be conducted exclusively in Clinical Laboratory Improvement Amendments (CLIA)-licensed laboratories. Clinical genetic testing and risk notification are entirely optional and do not affect subject eligibility for other aspects of the protocol. A separate consent procedure and consent form will be used for genetic testing and risk notification.\n\nThis protocol, developed in response to recommendations developed by the Clinical Center IRB, is intended to:\n\n1. Provide a mechanism under which the Clinical Genetics Branch can honor the commitment made to the members of over 60 hereditary breast/ovarian cancer families which have been participated in various Human Genetics Program research studies conducted over the past 3 decades to provide genetic counseling,\n\n   clinical germline mutation testing, and consultative services now that several of the major breast/ovarian cancer susceptibility genes have been identified;\n2. Provide a mechanism through which new families with various familial syndromes associated with an increased risk of breast and ovarian cancer can be studied, as research interests in these syndromes evolve over time; and\n3. Create a resource of well-characterized, carefully documented high-risk families to facilitate the development of new etiologic and translational research studies in the future.\n\nWhile we do not offer specific anti-cancer therapy as part of this protocol, we provide assistance to ensure that study participants who require treatment for problems that develop during the course of the study are referred to appropriate health providers. We\n\nremain available to provide advice and consultation related to the management of the familial cancer syndrome to study participants and their health care providers.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIndividuals age 18 and over are considered for inclusion in the study if they have a:\n\nFamily history of neoplasia of an unusual type, pattern, or number which includes breast cancer or is consistent with an identified or suspected familial cancer syndrome which includes breast and/or ovarian cancer,\n\nPersonal history of neoplasia(s) or benign conditions of an unusual type or with unusual demographic features (young age of onset, multiple primary sites, rare tumor type of pathologic characteristics) consistent with an identified or suspected familial cancer syndrome which includes breast and/or ovarian cancer, or\n\nA known mutation associated with one of the breast/ovarian cancer family syndromes.\n\nEligibility is now restricted to only bloodline individuals age 18 and over from families which are already enrolled in 02-C-0212 and in which there is a known BRCA mutation\n\nPersonal and family medical history must be verified through questionnaires, interviews, and review of pathology slides and medical records. For known or suspected familial syndromes in which no gene has been identified, two or more living affected cases among family members are required for participation. The types of familial syndromes under active accrual and study are predominantly investigator-and hypothesis-driven. This approach permits CGB investigators to remain alert to the opportunities afforded by unexpected clusters of rare tumors in families and individuals, and to tailor the accrual of families with specific types of syndromes to meet programmatic goals. This requires that CGB investigators remain abreast of both general knowledge and state-of the-art developments in clinical oncology, genetics, epidemiology and molecular biology, so that critical research opportunities can be recognized when they present, and so that thoughtful decisions can be made regarding the commitment of the resources needed to conduct such studies.\n\nEXCLUSION CRITERIA:\n\nIndividuals and families referred for evaluation in whom reported diagnoses are not verifiable.\n\nInability to provide informed consent.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals and families with known or suspected syndromes that include breast, ovarian or genetically-related cancers are enrolled in this family study.",
+  "condition": [
+    "Familial Ovarian Cancer",
+    "Familial Breast Cancer",
+    "BRCA1-associate Malignancies",
+    "BRCA2-associated Malignancies"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study enrolling individuals and families at high risk for breast/ovarian cancer based on family history, personal history, or known mutations. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "The protocol does not specify any requirements or exclusions based on prior systemic therapy for advanced disease. Both treatment-naïve and previously treated patients, including those who have only received adjuvant or neoadjuvant therapy, are eligible as the study is focused on genetic and epidemiologic characterization rather than treatment."
+    }
+  ]
+}

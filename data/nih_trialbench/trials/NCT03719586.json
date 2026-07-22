@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT03719586",
+  "title": "Investigational Therapeutics for the Treatment of People With Ebola Virus Disease",
+  "brief_summary": "Background:\n\nEbola virus can cause serious illness or death. No medicines are approved to treat it. Researchers need to test new medicines to see if they help people recover from Ebola and are safe to give. They need to test the drugs and compare them in a controlled way. Researchers want to test 4 drugs with people who have Ebola and are in treatment centers.\n\nObjective:\n\nTo study the safety and effectiveness of 4 drugs for people with Ebola virus.\n\nEligibility:\n\nPeople of any age with Ebola infection who are in treatment centers\n\nDesign:\n\nParticipants will be screened with questions, medical history, and blood tests.\n\nParticipants will be randomly assigned to get 1 of 3 study drugs:\n\n* ZMapp by IV over about 4 hours. It will be given 3 times, 3 days apart.\n* Remdesivir by IV over about 1 hour. It will be given once a day for 10 days.\n* Mab114 by IV for 30-60 minutes. It will be given 1 time.\n* REGN-EB3 by IV for about 2 hours. It will be given 1 time.\n\nFor at least a week, participants will stay in isolation in a clinic. They will:\n\n* Get supportive care and be monitored\n* Have a small plastic tube (IV) put in an arm vein for several days to give fluids and collect blood.\n* Get their study drug.\n* Be monitored for disease signs and drug side effects. They may get medicines for side effects.\n* Have blood and urine tests.\n\nParticipants will stay in the clinic until they finish the study drug and are well enough to leave.\n\nParticipants will have 2 follow-up visits over 2 months. They will answer questions and give blood and semen samples.\n\n...",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Males or females of any age with documented positive RT-PCR in blood for acute Ebola virus infection within 3 days prior to enrollment and who have symptoms of any duration.\n* Willingness of study participant to accept randomization to any assigned treatment arm.\n* All males and females of childbearing potential must be willing to use effective methods of contraception, from time of enrollment until Day 58 of study.\n* Must agree not to enroll in another study of an investigational agent prior to completion of Day 28 of study.\n* Ability to provide informed consent personally, or by a legally acceptable representative if the patient is unable to do so.\n\nEXCLUSION CRITIERA:\n\n* Patients who, in the judgment of the investigator, will be unlikely or unable to comply with the requirements of this protocol through Day 28.\n* Prior treatment with any investigational antiviral drug therapy against Ebola virus infection within 5 half-lives or 30 days, whichever is longer, prior to enrollment. (Patients who have received an experimental (or, in future, potentially a licensed) immunization against Ebola virus remain eligible.)",
+  "minimum_age": "",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Ebola Virus"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with acute Ebola virus infection who have not received prior investigational antiviral therapy for Ebola. All participants are treatment-naïve for systemic therapy targeting advanced Ebola infection.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Eligible patients must not have received any prior investigational antiviral drug therapy against Ebola virus infection. This means all participants are receiving first-line systemic therapy for acute Ebola infection."
+    }
+  ]
+}

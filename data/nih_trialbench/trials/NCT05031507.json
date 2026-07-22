@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT05031507",
+  "title": "Study of Skeletal Disorders",
+  "brief_summary": "Background:\n\nThere are 461 conditions that affect the bones (skeletal disorders). Many of these are not well understood and do not have any specific treatments. Researchers want to collect more data about these conditions.\n\nObjective:\n\nTo gain more information about the causes of skeletal disorders and how they progress over time.\n\nEligibility:\n\nPeople ages 2 months or older with known or suspected skeletal disorders or history of pregnancy affected by skeletal findings. Also, healthy family members of affected enrolled participants.\n\nDesign:\n\nParticipants can take part in the study either remotely or in person. Those who take part remotely may send in medical records, blood samples, photographs, and other materials.\n\nParticipants medical records will be reviewed. They may give blood and/or urine samples. They will give blood, saliva, or tissue samples for genetic tests. They may have genetic counseling.\n\nParticipants ages 2 years and older may have different kinds of imaging scans, such as x-rays. For these scans, they may have to lie still while machines take pictures of their bones.\n\nParticipants with skeletal disorders who come to the clinic will be examined. They may be asked to stay in the hospital for a few days to take extra tests. They may have a bone or skin biopsy.\n\nParticipants with skeletal disorders may be photographed to show the effects of their disorder and how it changes over time.\n\nFor participants with skeletal disorders, their blood or tissue samples may be used to make a special type of stem cell. These cells can be used in the laboratory to make many other types of cells. A large supply of these cells may be created for research.\n\nParticipation will last indefinitely.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nOur study population will support the mission and scientific focus of the Unit on Skeletal Genomics. We will focus enrollment of subjects (and their relatives) who fall within one of the below categories:\n\n* Individuals with a skeletal disorder that affects phosphate levels and/or metabolism\n* Individuals with a skeletal disorder associated with skeletal overgrowth\n* Individuals with a skeletal disorder or history of pregnancy affected by skeletal findings with an unknown molecular basis or unknown etiology\n\nIn addition to noting the above, to be eligible to participate in this study as an affected subject, an individual must meet all of the following criteria:\n\n1. Have a known (via clinical, radiographic or molecular diagnosis) or suspected skeletal disorder, findings associated with or increasing risk for skeletal abnormalities, or history of pregnancy affected by skeletal findings\n2. State willingness to comply with study procedures and availability for the duration of the study\n3. Be age 2 months or older\n4. Be able to understand and sign informed consent document (or availability of a parent/guardian or LAR to provide written consent)\n\nIn order to be eligible to participate in this study as an unaffected subject, an individual must meet all of the following criteria:\n\n1. Be an unaffected family member of an affected enrolled subject\n2. State willingness to comply with study procedures and availability for the duration of the study\n3. Be age 2 months or older\n4. Be able to understand and sign informed consent document (or availability of a parent/guardian)\n\nEXCLUSION CRITERIA:\n\nThe below describe exclusion criteria for an individual to participate as an affected subject:\n\n1. An individual who cannot or is unwilling to abide by the procedures of the protocol.\n2. An individual deemed to not have sufficient signs of or risks for skeletal disease.\n3. An individual who is pregnant.\n\nThe below describe exclusion criteria for an individual to participate as an unaffected subject:\n\n1. An individual who cannot or is unwilling to abide by the procedures of the protocol.\n2. An individual that shows signs of skeletal disease.\n3. An individual who is pregnant.",
+  "minimum_age": "2 Months",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Study cohort will include individuals with known (via clinical, radiographic or molecular diagnosis) or suspected skeletal disorders, findings associated with or increasing risk for skeletal abnormalities, or history of pregnancy affected by skeletal findings.",
+  "condition": [
+    "Skeletal Disorders"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational study enrolling individuals with known or suspected skeletal disorders, regardless of prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, and there are no restrictions or requirements regarding lines of therapy. Both treatment-naïve and previously treated patients may be included, but this is not specified. This is an observational study focused on skeletal disorders, not on treatment interventions."
+    }
+  ]
+}

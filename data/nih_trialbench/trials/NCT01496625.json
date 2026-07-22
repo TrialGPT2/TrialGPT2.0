@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT01496625",
+  "title": "National Eye Institute Biorepository for Retinal Diseases",
+  "brief_summary": "Background:\n\n\\- To understand diseases of the retina and the eye, information is needed about people with and without such diseases. Researchers want to study these people and follow them over time. They also want to study body tissues and blood to understand the nature of eye disease. Studying genes, cells, and tissues may help them understand why some people get eye problems and others do not, or why some people respond to treatment while others do not. Researchers want to collect physical samples and personal data to develop a National Eye Institute database.\n\nObjectives:\n\n\\- To collect health information and blood and tissue samples from people with and without eye diseases, to be used in research studies.\n\nEligibility:\n\n* Individuals at least 2 years of age with different types of eye disease.\n* Healthy volunteers with no history of eye disease.\n\nDesign:\n\n* Participants may be recruited from National Eye Institute studies or may be referred from other sources.\n* Participants will be screened with a physical exam and medical history. They will also have a full eye exam. Questions will be asked about family medical history, especially about eye disease.\n* Blood samples will be collected. Other samples, such as saliva, tears, hair, stool, and urine, may be collected as needed. Adult participants may also provide a skin sample.\n* Tissue or fluid from eye collected as part of eye care or treatment may also be added to the database.\n* No treatment will be provided as part of this study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nParticipants will be eligible if they:\n\n* Have the ability to understand and sign an informed consent or have a parent/legal guardian to do so if they are minor children.\n* Manifest diagnosed or undiagnosed retinal disease(s), or could serve as an unaffected control suitable for comparison to participants with various retinal diseases, particularly AMD and diabetic retinopathy (taking into account matching factors such as age and past ocular history).\n\nEXCLUSION CRITERIA:\n\nParticipants will not be eligible if they:\n\n* Are unable or unwilling to give informed consent that includes collection and study of at least one peripheral blood sample.\n* Are unable or unwilling to give informed consent that includes use of NIH medical records and clinical samples for research.\n* Have a systemic disease that compromises the ability to provide adequate ophthalmologic examination or treatment.",
+  "minimum_age": "2 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study accrual goal is up to 200 participants with AMD, 125 participants with diabetic retinopathy, 200 participants with other retinal diseases, and 125 participants without any retinal disease. A total of up to 650 participants may be enrolled. Participants may enroll in this study after referral by a medical practitioner in the private sector, or by another clinic, hospital, or medical institution. Participants may enroll in this study concurrently with another NEI or NIH protocol, or following completion of another study. Self-referral will be permitted. Advertisements will not be used.",
+  "condition": [
+    "Age-Related Macular Degeneration",
+    "Diabetic Retinopathy",
+    "Von Hippel-Lindau Syndrome",
+    "Retinal Disease",
+    "Retinal Vein Occlusion"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional biorepository study enrolling both individuals with retinal diseases and healthy controls. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, as no treatment is provided.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls participants with or without retinal disease, with no mention of prior systemic therapy or lines of therapy for advanced disease. No treatment is provided as part of this study, and eligibility is not based on prior therapy history."
+    }
+  ]
+}

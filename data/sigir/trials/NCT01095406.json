@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01095406",
+  "title": "Safety and Feasibility Study of a Mechanical Ventilation Computerized Protocol: Intellivent",
+  "brief_summary": "The present protocol will demonstrate the safety, feasibility and efficacy of a newly computerized protocol integrated into a ventilator: S1 ventilator (Hamilton Medical). During ventilation with S1 ventilator, the respiratory support including oxygenation and CO2 removal parameters are continuously adapted to patient respiratory status using science based rules. The present protocol is designed as a pilot evaluative study where the researchers will evaluate the safety, feasibility and efficacy of ventilating children during the weaning phase with the S1 ventilator for 5 hours, and compare to conventional ventilation.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\nAn eligible subject will be considered for inclusion into this clinical trial if the attending physician is ready to begin weaning from mechanical ventilation and if the patient fulfils all the following inclusion criteria:\n\n* The attending physician thinks that the patient will be able to breathe spontaneously or the patient is already breathing spontaneously.\n* No vasopressor or inotropic medication, unless the patient is receiving some digitalin or small doses of dopamine or dobutamine (\u2264 5 \u00b5g/kg/min)\n* Slight or no endotracheal tube gas-leakage ((Vti - Vte)/Vti \u2264 20%)\n* Mechanical ventilation with a plateau pressure \u2264 25 cmH2O over PEEP\n* PEEP \u2264 8 cmH2O\n* FiO2 \u2264 60% in order to obtain pulse oxymetry \u2265 95%\n* PaCO2 \\< 70 mmHg on the last blood gases\n* Extubation not expected the day of inclusion\n* Gap between ETPCO2 and PCO2 \\< 7 mmHg on last blood gas.\n\nExclusion Criteria:\n\nA patient will be excluded from this study a priori if he/she presents one or many of the following criteria:\n\n* The patient fails the pressure-support test (this test is described below in the section entitled \"Intervention\").\n* Invasive or non invasive mechanical ventilation at home or on hospital ward before PICU admission.\n* Child with a tracheotomy\n* Child with an history of mechanical ventilation \\> 2 months\n* Contemplate withdrawing mechanical ventilation for palliative care\n* Child with tracheobronchomalacia responsible for chronic respiratory failure\n* Child with a severe neuromuscular disease prior to admission or acquired in the PICU and unable to generate a negative pressure of at least - 20 cmH20 during inspiration.\n* Child with a \"do not resuscitate order\" and/or \"do not reintubate order\" is prescribed\n* The child is still receiving some curare\n* Cyanotic congenital heart disease with unrepaired or palliated right to left intracardiac shunt.\n* Primary pulmonary hypertension.\n* Child not expected to survive within a week, according to the attending intensivist\n* Brain death or suspected brain death\n* Morbid obesity defined by a body mass index (Actual Body Weight/T\u00b2 \\> 40)\n* Pregnant patient\n* Parents or tutors do not agree to sign the consent form\n* S1 ventilator is not available\n* SpO2 monitoring not available (no plethysmographic curve) or not reliable\n* EtCO2 not available (no capnogram) or no reliable (see above \"gap\")",
+  "minimum_age": "1 Hour",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Mechanical Ventilation Weaning Phase in Children"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01646411",
+  "title": "300 Antibody Diagnostic Test Kit",
+  "brief_summary": "For the development of a Point of Care IVD test kit for acute phase disease detection against a variety of bacterial and viral infections. Phase one includes 100 clinical diagnosed positive and 200 clinically \"normal\" serum and whole blood matched specimens for specificity and sensitivity determination for each marker. The positive samples must be IgM positive using any FDA cleared ELISA test kit. The negatives samples must be negative for IgM.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* current acute infection\n* age 18-70\n* male or female\n* any race\n* currently active symptoms",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with acute infection between the age of 18 and 70. Sex and race are random.",
+  "condition": [
+    "Acute Bacterial Infections",
+    "Acute Viral Infections"
+  ],
+  "overall_status": "UNKNOWN"
+}

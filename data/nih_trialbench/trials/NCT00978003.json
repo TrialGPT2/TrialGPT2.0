@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00978003",
+  "title": "Vasti Control of Patellofemoral Kinematics in Asymptomatic Volunteer",
+  "brief_summary": "Background:\n\n* Patellofemoral pain syndrome is one of the most common knee problems. It is characterized by pain in the front of the knee that is aggravated by deep knee flexion, prolonged sitting, and repetitive movement. The most widely accepted theory regarding the source of this pain is that a force imbalance around the knee puts extra stress on the area, leading to pain.\n* Researchers are interested in learning more about the muscle groups around the knee to better understand the causes of knee pain.\n\nObjectives:\n\n\\- To obtain more information on how muscles, tendons, and bones work together to cause motion in the knee, both in the normal state and after immobilizing certain muscles around the knee.\n\nEligibility:\n\n\\- Healthy individuals between the ages of 18 and 55, who have no current or chronic muscle, bone, or joint problems and who have no implants or other problems that would prevent them from receiving a magnetic resonance imaging (MRI) scan.\n\nDesign:\n\n* This protocol will be carried out over two visits, both of which will involve using standard MRI sequences to look at the knee at rest and in motion.\n* The first part will examine the knee under its natural state, with a standard MRI scan of the knee both at rest and in motion.\n* The second part will involve temporarily reducing the force producing capabilities of one of the extensor muscles in the knee. To do so, study doctors will inject lidocaine into the muscle, which will temporarily (for approximately 2 hours) block the force producing capacity of this muscle, and then perform the MRI scan....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Healthy male and female volunteers between the ages of 18 and 55.\n\n\\<TAB\\>\n\nEXCLUSION CRITERIA:\n\n1. Any relevant medical problems (connective tissue problems, active arthritis, etc.)\n2. Any clinical signs of a knee impairment in the joint being studied, including abnormal range of motion, muscle weakness, malaligment, and ligament damage.\n3. Any serious injury to the joint being studied, previous surgery on the joint being studied or extreme pain at the joint being studied.\n4. Allergy/hypersensitivity to lidocaine.\n5. Liver disease.\n6. Open angle glaucoma.\n7. Cardiac arrhythmias, congenital heart disease.\n8. G6PD.\n9. Any female who is pregnant.\n\nA volunteer will be excluded if they have a contraindication to MR imaging. Examples include:\n\n1. Metal within their body, which might be expected to concentrate radiofrequency fields or cause tissue damage from twisting in a magnetic field (e.g., aneurysm clip, implanted neural stimulator, implanted cardiac pacemaker or autodefibrillator, cochlear implant, ccular foreign body (e.g. metal shavings, insulin pump).\n2. A condition, which would preclude them from participating in an MR imaging study (e.g., paralyzed hemidiaphragm, morbid obesity, severe claustrophobia).\n3. A condition that presents an unnecessary risk to them or their unborn child (e.g., pregnancy, previous surgery of uncertain type, symptoms of pheochromocytoma or insulinoma).",
+  "minimum_age": "18 Years",
+  "maximum_age": "55 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects for this study will be recruited through the Patient Recruitment and Public Liaison (PRPL) office. PRPL will respond to clinical research study inquiries, conduct preliminary screening for the protocol, and refer prospective patients to the Protocol Manager.",
+  "condition": [
+    "Abnormalities",
+    "Patellofemoral Pain Syndrome"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-oncology study enrolling healthy volunteers with no history of muscle, bone, or joint problems. There is no systemic therapy or line-of-therapy intent applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls only healthy volunteers without any history of relevant medical problems or prior treatments. There is no mention of systemic therapy or lines of therapy for advanced disease."
+    }
+  ]
+}

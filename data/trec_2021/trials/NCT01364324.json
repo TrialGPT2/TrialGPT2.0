@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01364324",
+  "title": "Pharmacokinetics of Anti-tuberculosis Drugs in Gastrectomized Patients",
+  "brief_summary": "The purpose of this study is to evaluate the effect of gastrectomy on pharmacokinetic profile of first-line anti-tuberculosis drugs in patients with pulmonary tuberculosis (TB).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age greater than 18 years and less than 80 years\n2. pulmonary TB confirmed by microbiologic test such as AFB culture or TB PCR\n3. usage of 4 first-line anti-TB drugs (Isoniazid(INH) Rifampin(RFP) Ethambutol(EMB), Pyrazinamide(PZA) = HREZ)\n\nExclusion Criteria:\n\n1. patients with liver disease (bilirubin \u2265 1.5 mg/d or AST \u2265 2 x normal upper limit) or chronic renal failure (Cr \u2265 2.0 mg/d) who cannot use first-line anti-TB drugs\n2. patients with AIDS or hypoalbuminemia(albumin \\< 3.0g/dl)that will influence pharmacokinetics of first line anti-TB drugs\n3. patients using other drugs that will influence pharmacokinetics of first line anti-TB drugs during anti-TB treatment (e.g warfarin)\n4. patients using anti-cancer or immunosuppressive agents that will influence the response of pulmonary TB to anti-TB drugs\n5. discontinuation of first-line anti-TB drugs(HREZ)due to side effect or resistance\n6. follow-up loss before completion of anti-TB treatment\n7. any condition making the patients undergo gastrectomy during anti-TB treatment in case of Non-gastrectomy group",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Among patients with pulmonary TB diagnosed in our hospital and treated with 4 first line anti-TB drug(isoniazid/rifampicin/ethambutol/pyrazinamide= HREZ), we recruit patients who underwent gastrectomy to Gastrectomy group. And then, we recruit age-sex matched patients who did not underwent gastrectomy to Non-gastrectomy group.(age \u00b13 years)",
+  "condition": [
+    "Tuberculosis",
+    "Tuberculosis, Pulmonary",
+    "Early Gastric Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

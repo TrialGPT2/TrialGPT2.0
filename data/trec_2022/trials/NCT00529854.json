@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT00529854",
+  "title": "SIC-IR Billing and Documentation",
+  "brief_summary": "Accurate documentation in the patient medical record is critical to ensure proper diagnosis coding and subsequent hospital reimbursement. Multiple studies have demonstrated that clinicians often omit diagnoses which may result in insurance company denials and significant delays in payment. In addition, omitting diagnoses decreases the severity of patient illness which is often used as a risk adjustment tool to compare institution and physician outcomes. Medical informatics has been used to help improve accurate diagnosis documentation as well as improve billing efficiency. We plan to utilize a medical informatics program called SIC-IR (Surgical Intensive Care - Infection Registry) to improve documentation and attending billing efficiency within the surgical and trauma intensive care unit (STICU). We propose a six month study: a three month observational evaluation of current billing procedures followed by a three month prospective evaluation using a newly created SIC-IR billing module. The outcome measures will include the number of ICD-9 and CPT codes at discharge per patient, severity of patient illness based on documentation, STICU charges, number of insurance company denials, DRG relative weights, as well as a qualitative assessment of attending physician use of the electronic billing module. The observational and prospective patient populations will be compared for total patient-days in the STICU, ventilator-days, antibiotic-days, infectious complications per patient, and injury severity score (trauma patients only) to ensure the populations are similar and only the documentation and billing changes can account for our measured outcomes. We hypothesize that the SIC-IR billing module will increase the number of patient ICD-9 and CPT codes at discharge, increase severity of STICU patient illness via accurate documentation, increase total STICU charges, decrease insurance company denials, and be an efficient and well accepted electronic medical application.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* consecutive patients admitted to the surgical and trauma intensive care unit a a single level one trauma center care for by the surgical intensivist\n\nExclusion Criteria:\n\n* none",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All surgical and trauma intensive care unit patients addmitted to our reional Level I trauma center",
+  "condition": [
+    "Medical Record Documenation",
+    "Surgical and Trauma Intensive Care Unit Billing"
+  ],
+  "overall_status": "COMPLETED"
+}

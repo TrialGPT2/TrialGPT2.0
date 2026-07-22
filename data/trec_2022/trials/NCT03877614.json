@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03877614",
+  "title": "Artificial Intelligence With Deep Learning and Genes on Cardiovascular Disease",
+  "brief_summary": "An association study with large database from electronic medical record system, images, outcome analysis and genetic single nucleotide polymorphism variations by machine learning and artificial intelligence methods in a Taiwanese and Chinese medical center based population",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients' selection criteria and enrollment plan:\n\nWe will enroll subjects from either cardiovascular clinics or inpatients from the National Cheng Kung University Hospital from 2018 to 2021 after the signature of inform consent from patients and their families. The major enrollment criteria include one of the flowing diseases or conditions:\n\nA. Coronary artery disease:\n\n1. History of myocardial infarction\n2. Coronary artery disease with computer tomography angiography image study with at least one vessel luminal stenosis \\>70%\n3. Coronary artery stents implantation by hospital-based image database\n4. Thallium-201 scan positive/treadmill test positive with additional 2 risk factors, including\n\n   1. Diabetes mellitus\n   2. Hypertension\n   3. Dyslipidemia\n   4. Family history of sudden death, coronary bypass surgery, cerebral vascular attacks (CVA), premature myocardial infarction\n   5. Smoking behaviors\n\nB. Congestive heart failure with reduced ejection fraction\n\n1\\. Echocardiography left ventricular ejection fraction \\<40%\n\nC. Hypertrophic cardiomyopathy:\n\n1. Left ventricle interventricular septum\uff08IVS) \\>15 mm\n2. Left ventricle mass index\\> 200gm\n3. Apical hypertrophy noted on the report with 4 chamber view\n\nD. Atrial fibrillation\n\n1. Recorded by Holter continuous EKG\n2. Recorded by standard 12 leads complete EKG\n\nE. Pulmonary hypertension\n\n1. Echo with systolic pulmonary pressure (sysPAP)\\> 40 mmHg\n2. Diagnosis of idiopathic pulmonary hypertension\n3. Under pulmonary hypertension medication\n\nF. Fabry's disease\n\n1. \u03b1-Galactosidase (a-GAL) enzyme deficiency\n2. Genetic disorder\n\nG. Patient with only risk factors (\\<3 risk factors), recognized as the comparison group (\\>500 cases)\n\n1. Diabetes mellitus\n2. Hypertension\n3. Dyslipidemia\n4. Family history of sudden death, coronary bypass surgery, cerebral vascular attacks, premature myocardial infarction\n5. Smoking behavior\n\nExclusion Criteria:\n\n* Patients unwilling to be enrolled\n* Concentration of DNA collection was inadequate after 3 times of collection",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Pipeline for case enrollment:\n\n1. We will enroll investigating subjects from the clinics of near 10 physicians screened by our assistant or physicians themselves, with nearly 100-120 cases/month. According to our initial experience during our previous hospital-based grant in 2018 showed feasible case number to be enrolled, nearly 1000 case within 3 months enrollment. In total, we plan to recruit 5000 subjects with cardiovascular disease or with risk factors within 3 years. (IRB approval A-ER-107-149)\n2. Our study subjects will be evaluated whether they fulfill the cases criteria by an independent physician every month.\n3. In comparison with disease, the risk factor only group (500 cases) will be the matching group on genetic background and outcome comparison.",
+  "condition": [
+    "Cardiovascular Diseases"
+  ],
+  "overall_status": "UNKNOWN"
+}

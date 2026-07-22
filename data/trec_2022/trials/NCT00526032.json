@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT00526032",
+  "title": "Melanoma Detection by Oblique-Incidence Optical Spectroscopy",
+  "brief_summary": "Primary Objectives:\n\n* To establish a statistically significant database: With Spectroscopic Oblique-Incidence Reflectometry (OIR) experimental system, we will obtain OIR spatio-spectral images of 1,000 human skin non-melanocytic and melanocytic lesions that, based on clinical diagnosis, are routinely biopsied and submitted for histopathologic diagnosis and of the adjacent normal skin for self-referencing. The experimental database will contain demographic information, clinical diagnoses, clinical images, OIR images, histopathologic diagnoses, and morphometric data on the lesions.\n* To develop and validate a diagnostic algorithm:\n\n  1. Classification: A subset (\\~50%) of OIR images collected will be used to complete the development of state-of-the-art image processing algorithms to extract robustly effective diagnostic features.\n  2. Blind Testing and Evaluation: The algorithms established will be evaluated and validated in a prospective blind-test fashion using the complementary subset of the database that was not involved in designing the classifier. The sensitivity and specificity of the classification system will be evaluated based on the receiver-operating-characteristic (ROC) curve.\n* To identify the pathophysiologic parameters responsible for the diagnostic optical features: The anatomic and physiologic sources of the diagnostic optical signatures will be identified by comparative analyses using the OIR images, microscopic histomorphometric techniques and theoretical modeling to test the following hypotheses:\n\n  1. The calculated differences in hemoglobin oxygen saturation.\n  2. Comparisons of the calculated size distributions of skin scattering centers with histologic and morphometric analyses of various cellular and tissue components of the skin lesions.\n  3. The relative densities and distributions of the different anatomic and physiologic diagnostic features within the interrogation volumes are important diagnostic factors in OIR.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Patients of any age, male or female, who are having a skin exam and are found to have a suspicious skin lesion on examination of their skin\n2. Patients who agree to participate and sign the informed consent\n\nExclusion Criteria:\n\n1. Patients who do not have a suspicious skin lesion\n2. Patients who have not signed the informed consent and have agreed to participate",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants having lesions on the skin that may be cancerous.",
+  "condition": [
+    "Skin Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

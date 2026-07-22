@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT03606486",
+  "title": "Lavage of the Uterine Cavity for Diagnosis of Ovarian Cancer",
+  "brief_summary": "The goal of this project is to develop a minimally invasive test to detect ovarian cancer, by searching for mutations from the tumor in samples obtained from the cervix (Pap smears), and from the uterus (uterine lavage) in participants with advanced ovarian cancer and in participants with increased risk of ovarian cancer due to inherited mutations, such as BRCA or BRCA2 (among others).\n\nPap smear and uterine lavage samples will be collected while the participant is under anesthesia for planned debulking surgery. A novel, highly sensitive and accurate technique, Crispr-Duplex sequencing, will be used to detect tumor associated mutations in TP53 (the most commonly mutated gene in ovarian cancer) within these samples. These results will be compared to sequencing results in the tumor itself for comparison, and Pap and uterine lavage will be compared to each other to determine the optimal test. Ultimately, the goal is to use the results of this study to plan a larger study including women without cancer who are at either increased risk or normal risk of ovarian cancer, for use in early detection.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* With suspected advanced ovarian cancer or genetic predisposition to malignant neoplasm of the ovary\n* Planned surgery\n* Have a uterus and no history of tubal occlusion\n\nExclusion Criteria:\n\n* Unable to speak English\n* Unable to provide informed consent\n* Prior hysterectomy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "High Grade Ovarian Serous Adenocarcinoma",
+    "Stage III Ovarian Cancer AJCC v8",
+    "Stage IIIA Ovarian Cancer AJCC v8",
+    "Stage IIIA1 Ovarian Cancer AJCC v8",
+    "Stage IIIA2 Ovarian Cancer AJCC v8",
+    "Stage IIIB Ovarian Cancer AJCC v8",
+    "Stage IIIC Ovarian Cancer AJCC v8",
+    "Stage IV Ovarian Cancer AJCC v8",
+    "Stage IVA Ovarian Cancer AJCC v8",
+    "Stage IVB Ovarian Cancer AJCC v8"
+  ],
+  "overall_status": "TERMINATED"
+}

@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT06923072",
+  "title": "Baricitinib in the Treatment of Kohlmeier-Degos Disease in Patients With Neurological Involvement",
+  "brief_summary": "Background:\n\nKohlmeier-Degos (KD) is a rare disease that causes inflammation and blood clots, leading to blockages in small blood vessels. These blockages can result in K-D lesions throughout the body, affecting the skin, lungs, heart, spinal cord, and brain. KD can be fatal. No treatment exists for this disease.\n\nObjective:\n\nTo test a study drug (baricitinib) in people with brain and spine lesions caused by KD disease. Baricitinib is FDA approved to treat other disorders but has not yet been tried in people with KD.\n\nEligibility:\n\nPeople aged 18 years or older with KD-related lesions in the brain and spine.\n\nDesign:\n\nParticipants will be screened; they will have a physical exam with blood tests. They will also have a baseline visit that may include multiple tests, such as imaging scans of the brain and spine; a lumbar puncture to collect fluid from the spinal canal; and a meeting with a neurologist. They will fill out a questionnaire about their health. They will continue to take their normal medications throughout the study.\n\nBaricitinib is a tablet taken by mouth. Participants will remain on their normal medications for 12 weeks after their baseline visit. Then they will also take the study drug once a day at home for 24 weeks.\n\nParticipants will have clinic visits every few weeks for up to 40 weeks. Some visits may take 1 to 4 days. Baseline tests will be repeated 3 more times during study visits. Other visits will require only blood tests; these may be done by local labs that will send the samples to NIH; 2 visits may be done via telehealth....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Provision of signed and dated informed consent form by the subject or Legally Authorized Representative (LAR).\n* Stated willingness to comply with all study procedures and availability for the duration of the study.\n* Male or female, aged 18 or older.\n* Subjects diagnosed with systemic Degos disease, who manifest neurologic abnormalities observed clinically, radiologically or in abnormal laboratory findings.\n* Ability to take oral medication and be willing to adhere to the baricitinib regimen.\n* For female patients of reproductive potential, non-pregnant, non-breastfeeding: agree to use of highly effective contraception for the duration of the study and 30 days after the last dose.\n* Ability of subject or LAR to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n* Active infection not responding to appropriate therapy\n* Hemoglobin \\<7 g/dL\n* Platelet counts \\< 50 K /mcL\n* Neutropenia (ANC \\<0.5 x k/mcL)\n* Lymphopenia (Absolute Lymphocyte Count \\[ALC\\] \\<0.2x k/mcL)\n* Liver function tests (LFTs \\> 2x time upper limit of normal)\n* Estimated Glomerular Filtration Rate (eGFR)/Creatinine (Cr \\< 30 mL/min)\n* Have experienced any of the following within 12 weeks of screening: VTE (DVT/pulmonary embolism \\[PE\\]), myocardial infarction (MI), unstable ischemic heart disease, stroke, or New York Heart Association Stage III/IV heart failure.\n* Have had symptomatic herpes zoster infection within 12 weeks prior to a enrolling in the study .\n* Have had household contact with a person with active TB and did not receive appropriate and documented prophylaxis for TB.\n* Have evidence of active TB or latent TB\n* Have been exposed to a live vaccine within 12 weeks of baricitinib treatment or are expected to need/receive a live vaccine during the course of the study\n* No gadolinium based contrast agent exposure is permitted if eGFR \\< 30 mL/min/1.73m\\^2 using the CKD-EPI equation measured within 5 days .\n* Breast feeding\n* Pregnancy\n* Uncontrolled malignancy",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Kohlmeier-Degos Disease",
+    "Malignant Atrophic Papulosis",
+    "Degos Disease",
+    "Papulosis, Malignant Atrophic"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls adults with systemic Degos disease (Kohlmeier-Degos) with neurological involvement, regardless of prior systemic therapy. There are no requirements or restrictions regarding prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "The eligibility criteria do not mention any requirements or restrictions regarding prior systemic therapy for advanced disease. Both treatment-naïve and previously treated patients are eligible, including those who have only received adjuvant or no prior therapy."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02360826",
+  "title": "Statin Distribution",
+  "brief_summary": "Anticipating an increased use of statins in children and adolescents, it is imperative that we understand the genetic and developmental characteristics affecting the pharmacokinetics and pharmacodynamics of statins in childhood and adolescence. Simply extrapolating pediatric dosing guidelines from adult dose-exposure-response relationships fails to recognize the potential impact of growth and development in pediatric patients, which may have important clinical implications for drug efficacy or toxicity. Current evidence indicates that genetic variation in the SLCO1B1 transporter is important for statin disposition and toxicity in adults. The ontogeny of SLCO1B1 during human growth and development has not been well characterized, and limited pediatric data indicate that the genotype-phenotype relationship in children is the opposite of that observed in adults. Therefore, investigating the relative roles of SLCO1B1 ontogeny and genetic variation in statin disposition and response is key to determining the age at which the statin dose-exposure-response relationship mimics adults, and has important implications for other medications transported by the SLCO1B1 protein.\n\nAs the first step in this process, our specific aims for the current investigation are 1) to determine the effect of genetic variation of SLCO1B1 on the pharmacokinetics of pravastatin and simvastatin by comparing Cmax, AUC and elimination between children and adolescents with 2 functional SLCO1B1 alleles and those with one or more variant alleles, and 2) to determine if the magnitude of the genetic effect on pravastatin pharmacokinetics (defined as Cmax, AUC and elimination) is equivalent to the effect on simvastatin pharmacokinetics. As a secondary aim, Cmax and AUC of pravastatin and simvastatin will be compared between children and adolescents for each genotype group. These results will be utilized to determine the sample size necessary to adequately power future studies characterizing the role of ontogeny on statin disposition.\n\nThe ultimate goal of this proposed investigation is to establish the role of genetic variation in key transporters on the dose-exposure relationship of two commonly used statin drugs in children. This study is the first step in a series of investigations aimed at determining the mechanisms behind variations in physiologic response, clinical efficacy and significant adverse effect risk that surround the statin drugs in children and adolescents.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Children 8-21 years of age\n2. LDL cholesterol \\>130mg/dl (\\>95% percentile)\n3. Successfully genotyped for SLCO1B1\n4. Willing to sign the assent/permission/consent form\n\nExclusion Criteria:\n\n1. Underlying structural heart disease including congenital heart disease or acquired heart disease.\n2. History or laboratory evidence of an underlying intestinal, metabolic, autoimmune, or renal disease that could alter the disposition of simvastatin or pravastatin.\n3. Underlying pathology of the gastrointestinal tract or recent surgery which would be expected to alter the rate and/or extent of drug absorption\n4. Evidence of previous hypersensitivity to statin medications\n5. Unwillingness or inability to have screening labs drawn\n6. Refusal to participate in the study\n7. Unwillingness or inability to participate in an overnight fast\n8. Subjects taking drugs with interactions with statins (CYP3A4 inducers/inhibitors, OATP1B1 inducers/inhibitors)\n9. Inability to swallow a tablet drug\n10. For females, a positive urine beta-human chorionic gonadotropin pregnancy test result\n11. Evidence of hepatic abnormality as determined by values \\> 3 times the age-specific upper limit of normal for AST, ALT, total and conjugated bilirubin, serum albumin, Alkaline Phosphatase, and GGT.\n12. Abnormal red blood cell morphology and/or a hemoglobin less than 9 gm/dl",
+  "minimum_age": "8 Years",
+  "maximum_age": "21 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Drug Distribution"
+  ],
+  "overall_status": "COMPLETED"
+}

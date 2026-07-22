@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01210599",
+  "title": "A Pilot Trial of IV Pamidronate for Low Back Pain",
+  "brief_summary": "INTRODUCTION Pamidronate and other bisphosphonates (bisph) have an anti-nociceptive effect in animals. In humans, IV pamidronate is analgesic in patients affected by numerous painful conditions, including cancer bone pain, complex regional pain syndrome (CRPS), ankylosing spondylitis, and rheumatoid arthritis. The investigators have explored the effect of IV pamidronate in the management of chronic low back pain (CLBP), a worldwide public health problem in terms of lost workdays, treatment costs, and suffering.\n\nThe study was a randomized, double blind, dose-escalation trial of IV pamidronate. Study participants were divided among four study phases. Each group received IV placebo or escalating doses of IV pamidronate.\n\nSTUDY DESIGN A phase I-II, randomized, double-blind, placebo controlled, dose finding study for the treatment of patients with CLBP with IV pamidronate. The study was first conducted at Beth Israel Medical Center, NY for the first two groups, and was completed at Mount Sinai Medical Center , NY for the remaining groups.\n\nPRIMARY OBJECTIVES The intent of this pilot study was to determine the optimal IV pamidronate treatment protocol for CLBP in a Phase III trial. Primary study aims were safety and average daily pain. Subjects used an electronic diary (LOGPAD) to record their daily adverse events (AEs) and their baseline and post-treatment average pain on the 0-10 numerical rating scale (NRS).\n\nSTATISTICAL ANALYSES All the analysis were performed on an intention-to-treat basis. Primary outcomes are LOGPAD change in pain severity and whether a patient was a responder (pain score dropped \u22652 points or \u226530%). Because there was no statistical difference in these two outcomes among the 4 placebo groups, all placebo patients were combined (Comb PL) in the subsequent analyses. Primary analytic tool was mixed model for repeated measures (MMRM), assuming autoregressive covariance structure (LOGPAD pain and Brief Pain Inventory - BPI interferences), and Generalized Estimating Equation (GEE) model for categorical outcomes (Response rates and Patient Global Impression of Change - PGIC). The main objective was to assess whether the changes in outcome from baseline or the response rates were the same across the study phases, while adjusting for baseline values and time effect. Least square means were contrasted. Interaction between time and study phases were also tested to see if the treatment effect is a function of time. Fisher's exact tests or ANOVA (Kruskal-Wallis) tests were performed for cross-sectional group comparison, including baseline.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "INCLUSION STUDY CRITERIA:\n\n* Males and females 21 years of age or older Non-specific, mechanical predominantly axial CLBP (subjects with below the knee pain included when the LBP component was 50% or more than the overall pain component)\n* Pain for at least 3 months, with a minimum average daily pain score of 4 on a 0-10 NRS MRI evidence of disc degeneration and changes consistent with the diagnosis of degenerative disc disease or spondylotic disease of the spine.\n\nEXCLUSION STUDY CRITERIA:\n\n* Prior back surgery, compression fracture(s), cancer as possible cause of back pain Clinically relevant radiculopathic pain,\n* MRI evidence of frank DISK HERNIATION or any other abnormality or pathology regarded as the probable cause of the patient's pain.\n* Defect or fracture of a pars interarticularis, spondylolisthesis with greater than 4 mm of misalignment Having a glomerular filtration rate (GFR) less than 60 ml/min/1.73m 2 .\n* Hypocalcemia, significant cardiac, hematological, renal, hepatic, metabolic, endocrinological disease\n* Being pregnant or nursing\n* Receiving Worker's Compensation, having a pending legal claim\n* Weighing less than 45 kg\n* Subjects who score 26 and above on the Beck Depression Inventory\n* Prior pamidronate treatment patients who in the opinion of the study physician have poor oral hygiene, do not have regular dental care, had a tooth extraction or another invasive dental procedure within 3 months prior to study enrollment",
+  "minimum_age": "21 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chronic Low Back Pain"
+  ],
+  "overall_status": "COMPLETED"
+}

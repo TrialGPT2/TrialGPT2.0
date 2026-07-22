@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT00001406",
+  "title": "Activation and Function of Eosinophils in Conditions With Blood or Tissue Eosinophilia",
+  "brief_summary": "This study will investigate how, why and under what conditions eosinophils (a type of white blood cell) become activated and will examine their function in immune reactions. Eosinophil counts often rise in response to allergies, asthma, and parasitic worm infections. They can also go up in uncommon autoimmune conditions and, rarely, in association with tumors. Elevated levels of these cells is called eosinophilia. Usually, eosinophilia causes no apparent symptoms, but in rare cases there may be local swelling and itching, allergic lung problems, heart disease or nerve damage caused by the release of toxic substances in these cells into body tissues.\n\nPatients 1 to 100 years of age with eosinophil counts greater than 750/ml or an abnormal accumulation of eosinophils in the skin or body tissues may be eligible for this study. All participants will have a thorough medical history, physical examination and blood tests. Depending on the person's age and symptoms, other diagnostic tests may be done, including specialized studies of the eye, lungs, skin, bone marrow, nerves or heart. This is not a treatment study, and no experimental treatments will be offered. Patients who require treatment will receive standard medical care.\n\nCertain other procedures may be requested solely for research purposes. All participants will be asked to donate extra blood for laboratory studies investigating how immune cells and other immune substances in the blood act to stimulate a rise in eosinophils. In addition, some participants may undergo one or more of the following:\n\n* Annual Follow-up evaluations - Physical examinations and blood tests to evaluate changes in the patient's condition and eosinophil counts over time.\n* Bone marrow biopsy and aspiration will be recommended during the initial evaluation, and in certain patients at other times when it is important to look directly at the newly developing cells in the bone marrow. For this procedure an area of skin and bone is anesthetized with xylocaine (an anesthetic similar to that used by dentists), and a very sharp needle is used to sample the bone marrow for evaluation. Bone marrow biopsy and aspiration can have side effects of pain and/or bleeding into the skin and soft tissues at the site of the procedure. Rarely the area at the biopsy site can become infected, and is treated with antibiotics.\n* Genetic testing: Some of the blood drawn from you as part of this study will be used for genetic tests. Genetic tests can help researchers study how health or illness is passed on to you by your parents or from you to your children. Any genetic information collected or discovered about you or your family will be confidential.\n* Leukapheresis (only patients 18 years and older) to collect large numbers of certain cells - In this procedure, whole blood is collected through a needle placed in an arm vein. The blood circulates through a machine that separates it into its components. The white cells are then removed and the rest of the blood is returned to the body, either through the same needle used to draw the blood or through a second needle placed in the other arm.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Stated willingness to comply with all study procedures and availability for the duration of the study\n2. Male or female, aged 1-100\n3. Ability of subject (or Legally Authorized Representative (LAR)) to understand and sign a written informed consent document\n\n   Eosinophilic Patients only:\n4. Documented peripheral blood count \\>1500/mm3, tissue eosinophilia (abnormal accumulation of eosinophils in the skin or other body tissues) or suspected eosinophilic end organ involvement\n5. Primary (non-NIH) physician for routine medical care\n\n   Relatives only:\n6. Extended family member of an eosinophilic participant on this protocol\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Any condition(s) or diagnosis, physical and/or psychological, that the investigator feels precludes the patient from participation in the study.\n\n   Relatives only:\n2. Females must not be pregnant",
+  "minimum_age": "1 Year",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants with marked eosinophilia, eosinophilia in tissues or suspected eosinophilic end organ involvement will be seen on this protocol. Evaluation of family members may be of interest when a genetic cause of eosinophilia in suspected in a study participant.",
+  "condition": [
+    "Immune System Diseases",
+    "Eosinophilia",
+    "Helminthiasis",
+    "Hypersensitivity",
+    "Parasitic Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling patients with eosinophilia and their relatives, regardless of prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, and both newly diagnosed and previously treated patients may be included. This is a non-treatment, observational study, so line-of-therapy intent is not defined."
+    }
+  ]
+}

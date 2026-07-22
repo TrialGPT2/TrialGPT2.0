@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03878732",
+  "title": "Bindex for Osteoporosis Diagnostics",
+  "brief_summary": "Osteoporosis is a disease that leads to impaired skeletal strength and increased fracture risk. Among 200 million osteoporotic patients most are diagnosed only after several fractures. Furthermore, the progressively aging population will increase the prevalence of osteoporosis. It is estimated that over 75% of osteoporotic patients are not diagnosed and does not receive treatment for their condition. Bindex ultrasound device has been developed and validated in Caucasian female population. In this study, diagnostic thresholds for density index as determined with Bindex will be evaluated in two different ethnic populations.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria for all:\n\n* Postmenopausal status\n* Age at 50 years or over\n* Caucasian or Hispanic race (number shall be controlled, 140 in each group)\n* Body mass index (BMI \\< 35)\n\nAdditional criteria for Osteoporotic group\n\n\\- T-Score (NHANES database) -2.5 or lower at femoral neck or total femur\n\nAdditional criteria for non-osteoporotic group\n\n\\- T-Score (NHANES database) \\> -2.5 at femoral neck or total femur\n\nExclusion Criteria:\n\nfor non-osteoporotic groups (Hispanic or Caucasian)\n\n* Previous osteoporosis diagnosis\n* Previous or current use of anti-fracture medication",
+  "minimum_age": "50 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Random sample of eligible female subjects who are being treated at collaborating clinic.",
+  "condition": [
+    "Osteoporosis, Postmenopausal"
+  ],
+  "overall_status": "COMPLETED"
+}

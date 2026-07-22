@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02470273",
+  "title": "Diagnostic Imaging Study for the Melanoma Advanced Imaging Dermatoscope (mAID)",
+  "brief_summary": "The purpose of this study is to calculate the sensitivity and specificity of a novel imaging device and associated software algorithm in detecting early stage melanoma versus nevi of the skin. The instrument, which was invented by the PI, for the purposes of this study, will be loaned to three external (to Rockefeller) institutions and used on patients who are scheduled for biopsy of pigmented lesions. The purpose of correlating the output screening result of the novel device and the output diagnosis of the gold standard histology analysis procedure is so that these two diagnoses can be compared to generate the number of true positives, true negatives, false positives and false negatives for the novel device. The purpose of disseminating the device to the external institutions is to achieve the appropriate power such that the specificity can be evaluated at 99% sensitivity. The rationale for the power needed in the study is that in order to be clinically useful, the device needs to be extremely sensitive (i.e. 99%) because false negative diagnosis is a dangerous situation, leading to potential progression of melanoma, the most deadly form of skin cancer.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Participant has normal appearing skin and a suspicious pigmented lesion.\n\nExclusion Criteria:\n\n* Lesion near the eyes (due to safety)\n* Inaccessibility to lesion related to device: ears, toes, fingers, nailbeds, ankles, elbows, genitals\n* Self-reported history of photosensitivity\n* Self-reported history of vitiligo and/or other sun sensitive disease",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Dermatology patients with a suspicious lesion that will be biopsied as standard of care",
+  "condition": [
+    "Melanoma"
+  ],
+  "overall_status": "COMPLETED"
+}

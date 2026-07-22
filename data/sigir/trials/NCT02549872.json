@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02549872",
+  "title": "Dementia Phenotypes in Primary Care, Hospital, and National Mortality Registries",
+  "brief_summary": "Most patients with dementia in the UK use their local hospitals and general (family) practices throughout their illness. Linked electronic health records from primary care, hospital and death certificates records therefore provide useful information about the diagnosis and prognosis of patients who develop dementia.\n\nIn this study we will assess the validity of dementia diagnoses in linked primary care, hospital and death records, by examining the timing of important health transitions in patients with recorded dementia, and we will estimate the lifetime risk of recorded dementia in different age and sex groups",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients aged 18 years and over\n* Registered with a participating general practice during the study period\n* Minimum one year of records prior to study entry meeting CPRD data quality criteria\n* Followed on or after 1 January 1997\n\nExclusion Criteria:\n\n* Patients without recorded gender\n* Less than 1 year of follow-up between study entry and date of administrative censoring",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients registered in English general practices contributing with data to the CALIBER research platform from 1997 onward.",
+  "condition": [
+    "Dementia"
+  ],
+  "overall_status": "UNKNOWN"
+}

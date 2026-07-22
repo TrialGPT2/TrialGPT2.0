@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT00001467",
+  "title": "Genetic Analysis of Immune Disorders",
+  "brief_summary": "The purposes of this study are to 1) identify the genes responsible for certain immune disorders, 2) learn about the medical problems they cause, and 3) learn how to predict who is likely to develop these disorders and what the risk is of passing them on to children. The immune system is the body s defense system. Some immune deficiencies impair a person s ability to fight infections; others render a person susceptible to allergies, or to autoimmune diseases such as lupus or arthritis, in which the immune cells (white blood cells) attack and destroy the body s own tissues.\n\nPatients with immune disorders known or suspected to have a genetic basis and their family members may enroll in this study. Eligibility will be determined by a review of the patient s medical records and family medical history. Participants will provide a small blood sample for genetic (DNA) and white blood cell analysis. Gene samples (but not white blood cells) may also be obtained by mouth brushing or skin biopsy. For the mouth brushing, a small brush is rubbed against the inside of the cheeks for 1 minute to wipe off some cells. For the skin biopsy, a small circle of skin (about 1/8 inch) is removed under local anesthetic. Pregnant women may be asked to provide a fetal sample (amniotic fluid cells or chorionic villus sample). All samples will be used for immune or genetic studies of the family s immune disorder.\n\nIf test results show a specific genetic variation responsible for the family s immune disorder, a report will be sent to the patient s doctor or genetic counselor, who will discuss the implications for the family. NIH researchers and genetic counselors will also be available to explain results and answer questions. Information will not be available in the case of disorders that cannot yet be linked to a specific genetic abnormality.\n\nInformation from this study will increase knowledge about the immune system and what causes immune deficiencies. Participants may also learn the underlying cause of an immune disorder that affects them or someone in their family information may be useful in guiding treatment and in making decisions regarding family planning.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION / EXCLUSION CRITERIA:\n\nProbands and their blood relatives, of any age, and ethnicity, who are affected, or suspected of being affected with genetic conditions and immune dysregulations under study are eligible to enroll as patients and family member enrollees.",
+  "minimum_age": "1 Day",
+  "maximum_age": "101 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Probands and their blood relatives, of any age, sex, and ethnicity, who are affected, or suspected of being affected with genetic conditions and immune dysregulations under study are eligible to enroll as patients or family member enrollees. Fetal samples may be studied in selected cases where benefit, such as expedited postnatal treatment, could be realized.",
+  "condition": [
+    "DOK 8",
+    "STAT1",
+    "GATA2",
+    "Immunodeficiency",
+    "STAT3"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a genetic and observational study of immune disorders with no therapeutic intervention. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls patients with immune disorders and their family members for genetic analysis, without specifying any prior treatment history or line-of-therapy requirements. No mention is made of systemic therapy for advanced disease."
+    }
+  ]
+}

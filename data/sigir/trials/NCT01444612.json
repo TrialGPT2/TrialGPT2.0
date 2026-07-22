@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01444612",
+  "title": "Comparative Analysis of Injectable Anticoagulants for Thromboprophylaxis Post Cancer-related Surgery",
+  "brief_summary": "Venous thromboembolism (VTE), including deep vein thrombosis (DVT) and pulmonary embolism (PE), is a common post-operative complication. The effectiveness of fondaparinux compared with other injectable anticoagulants in VTE following major orthopedic and abdominal surgery has been evaluated in database studies; however, the effectiveness of injectable anticoagulant medications following cancer-related surgeries in the practice setting has not been as well documented.\n\nThe objective of this study is to analyze patient records from a national hospital database and compare the outcomes and costs between four types of injectable anticoagulant medications that were prescribed for the prevention of VTE following cancer-related surgery. This analysis will assess and quantify the outcomes, resource utilization, and cost of care for patients receiving fondaparinux, enoxaparin, dalteparin or unfractionated heparin. The outcomes of interest include the occurence of VTE, rates of major bleeds, medical resource utilization, and total costs (medical plus pharmacy).\n\nThe source of data for this study is the Premier Perspective Database\u2122. This hospital claims database links de-identified inpatient medical, pharmacy, and billing data from more than 500 hospitals.\n\nThis study is a retrospective cohort study that uses propensity score matching to adjust for the differences between the numbers of patients treated with each medication.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* age 18 and older\n* at least one record of a primary inpatient discharge diagnosis of cancer (index hospitalization)\n* a procedure code for a cancer-related surgery during the index hospitalization\n* a code for an anticoagulant treatment (dalteparin, enoxaparin, fondaparinux or unfractionated heparin (UFH)) as thromboprophylaxis therapy during the day prior to or two days after cancer-related surgery during the index hospitalization (this is the INDEX EVENT)\n\nExclusion Criteria:\n\n* a record that the patient received more than one injectable anticoagulant on Day 1 of anticoagulant therapy\n* a record that the patient received anticoagulant therapy prior to index anticoagulant\n* a primary diagnosis code of DVT, PE, or major bleed\n* evidence of an outpatient emergency department or hospital outpatient clinic visit that included a diagnosis code for DVT or PE during the 6 months prior to the index hospitalization\n* patient records for patients transferred from another facility outside Premier system on index hospitalization",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients aged 18 years or older with at least one primary inpatient discharge diagnosis of cancer who experienced a cancer-related surgery during the hospitalization were the initial target population.",
+  "condition": [
+    "Thrombosis, Venous"
+  ],
+  "overall_status": "COMPLETED"
+}

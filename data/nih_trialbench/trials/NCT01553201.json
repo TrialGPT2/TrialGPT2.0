@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT01553201",
+  "title": "Botulinum Toxin for Pelvic Pain in Women With Endometriosis",
+  "brief_summary": "Background:\n\n\\- Some women with endometriosis have chronic pelvic pain. This pain may be caused by spasms of the pelvic floor muscles. These spasms can be detected by an examination. Studies suggest that botulinum toxin can help treat problems caused by muscle spasms. Researchers want to see if botulinum toxin injections into the pelvic floor muscles can decrease pain and spasms in women with pelvic pain.\n\nObjectives:\n\n\\- To see if botulinum toxin can relieve pain from pelvic floor spasm in women with pelvic pain.\n\nEligibility:\n\n\\- Women between 18 and 50 years of age with pain associated with pelvic muscle spasm and endometriosis. Pain must be persistent (lasting for at least 3 months).\n\nDesign:\n\n* Participants will keep a pain diary and record their pain medication use for a month before the first visit.\n* Participants will be screened with a physical exam and medical history. Blood and urine samples will be collected. Participants will also answer questions about their pain levels and quality of life.\n* Participants will receive either botulinum toxin or a placebo (salt water) injection. The injection will be given into the pelvic floor muscles through the vaginal wall. Participants will take a muscle relaxant like Valium and have anesthetic cream put on the vaginal wall before the injection.\n* After the injection, participants will keep a pain diary for another month.\n* At a 1-month followup visit, participants will answer questions about their pain. If the pain has not improved, all participants may have a botulinum toxin injection (no placebo) into the pelvic floor muscles as before.\n* Participants will have followup visits for up to a year after the initial 1-month followup visit.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Female gender\n* Age between 18 and 55\n* History of endometriosis at surgery\n* Persistent pelvic pain for at least 3 months\n* Pelvic floor spasm\n* Negative pregnancy test (in women who have not had a hysterectomy)\n* Willing to use reliable method of contraception for the month after botulinum toxin injection including oral contraceptives, IUD, and barrier with spermicide.\n* Willing and able to give informed consent\n* Willing and able to comply with study requirements\n\nEXCLUSION CRITERIA:\n\n* Women with other causes of chronic pelvic pain including infectious, gastrointestinal, psychological disorders, fibromyalgia and chronic fatigue syndrome based on review of medical history within 1 year of first study visit,\n* Untreated severe cervical dysplasia or other gynecologic condition clinically significant abnormalities on physical or laboratory examinations that require evaluation or treatment or that would make participation unsafe\n* Hysterectomy and bilateral salpingo-oophorectomy\n* Pregnancy\n* Lactation\n* Allergy to albumen or botulinum toxin\n* Presence of antibodies to botulinum toxin or loss of response to previous injections for any indication\n* A known neuromuscular junction disorder such as myasthenia gravis or Eaton-Lambert syndrome\n* History of urinary or fecal incontinence\n* Known pelvic prolapse\n\n  * Eligibility will be based on a physical exam at NIH at the first study visit, as well as history and available medical records within 1 year before the study visit. Negative test results will be documented to confirm study eligibility. If the Pap and the GC and chlamydia tests were not done outside of the NIH within the previous year, or if documentation of the negative test results is not available, we will await the results of the screening tests done at the NIH before administering the study medication.",
+  "minimum_age": "18 Years",
+  "maximum_age": "55 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Endometriosis",
+    "Chronic Pelvic Pain",
+    "Pelvic Muscle Spasm",
+    "Quality of Life"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial investigates botulinum toxin injections for pelvic pain in women with endometriosis and pelvic floor spasm. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility criteria do not mention any requirements or exclusions based on prior systemic therapy for advanced or metastatic disease. Patients with any prior treatment history, including those who have only received adjuvant or no systemic therapy, are eligible."
+    }
+  ]
+}

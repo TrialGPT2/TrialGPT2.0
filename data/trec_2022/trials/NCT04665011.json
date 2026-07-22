@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04665011",
+  "title": "Validation of Indicor Photoplethysmography (PPG) Valsalva Pulse Response vs Non-invasive Blood Pressure",
+  "brief_summary": "This study designed is compare the pulse response to the Valsalva maneuver between a photoplethysmography sensor (PPG) and non-invasive blood pressure sensor for the purpose of validating the PPG methodology in deriving a value for the Valsalva pulse response. The aim is to show that the PPG method captures the same phase responses as the blood pressure monitor and the primary outcome is the correlation between pulse amplitude ratios for the pulse at the end of the Valsalva to an average baseline pulse.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinically stable adults, including heart failure patients visiting an outpatient clinic\n\nExclusion Criteria:\n\n* Atrial flutter or atrial fibrillation with an irregular ventricular response\n* Significant atrial or ventricular ectopy\n* History of paradoxical emboli\n* Hypertrophic obstructive cardiomyopathy\n* Known intracardiac shunt\n* Known severe aortic valve stenosis\n* Known severe mitral valve stenosis\n* History of embolic CVA\n* Myocardial infarction within one week of intended Indicor testing\n* Uncontrolled hypertension (systolic BP \\>160mmHg or diastolic BP\\>100mmHg)\n* Hypotension (systolic BP \\<90mmHg)\n* Symptomatic bradycardia\n* Known cholesterol emboli\n* Poor left ventricular function with left ventricular thrombus\n* Unstable angina\n* Significant aortic valvular disease\n* Patients weighing less than 40kg",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study sample has a focus on heart failure patients as this is a clinical target population for the clinical use of the Indicor. However, non-heart failure subjects may be needed to ensure that a range of normal outcome values are included in the analysis. Therefore, at least 70% of the enrollment is intended to be derived from a cardiology practice office, and up to 30% of the enrollment may be non-patient participants.",
+  "condition": [
+    "Heart Failure"
+  ],
+  "overall_status": "COMPLETED"
+}

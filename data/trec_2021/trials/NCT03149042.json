@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03149042",
+  "title": "Validation of a Computed Tomography (CT) Based Fractional Flow Reserve (FFR) Software Using the 320 Detector Aquilion ONE CT Scanner.",
+  "brief_summary": "Coronary Computed Tomography Angiography (CCTA) contrast opacification gradients and FFR-CT estimation can aid in the severity estimation of significant atherosclerotic lesions. Currently, FFR-CT algorithms can only be optimized using theoretical models and can only be validated in large multi-center clinical trials. Using patient specific 3D printed coronary phantoms would allow optimization of FFR-CT algorithms with a measured validation technique without the need for large clinical trials. Thus the investigators believe that this study will result in a FFR-CT algorithm/method with a better predictability for arterial lesion severity than those existing on the market today. Flow measurements will be compared with: CT-FFR for both patients and phantoms, angio lab FFR measurements and 30 days follow-up. This pilot clinical study includes \\~50 patients over a year and half at GVI.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* All the patients \\>18 yrs of age , who are undergoing CCTA and angio-FFR. Patients who are (1) scheduled for clinically mandated elective invasive coronary angiography (ICA) at Buffalo General Hospital or (2) clinically mandated CTA will be screened.\n\nExclusion Criteria:\n\n* Adults unable to consent\n* Individuals who are not yet adults (infants, children, teenagers)\n* Pregnant women\n* Prisoners\n* atrial fibrillation,\n* Renal insufficiency (estimated glomerular filtration rate (GFR) \\<60 ml/min/1.73 m2),\n* Active Bronchospasm prohibiting the use of beta blockers\n* Morbid obesity (body mass index 40 kg/m2)\n* Contraindications to iodinated contrast.\n* Emergencies requiring immediate intervention or patients unable to consent.\n* Patients not showing coronary calcium during Calcium Scoring procedures",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who are (1) scheduled for clinically mandated elective invasive coronary angiography (ICA) at Buffalo General Hospital or Juntendo Hospital Japan (2) clinically mandated CTA will be screened.",
+  "condition": [
+    "Atherosclerosis, Coronary"
+  ],
+  "overall_status": "COMPLETED"
+}

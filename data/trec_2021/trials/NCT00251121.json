@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT00251121",
+  "title": "Routine Mini-invasive Electrophysiology Study for Patients Feeling Tachycardia, With a Negative Holter ECG",
+  "brief_summary": "Patients complaining of tachycardia but with a negative Holter ECG, are for a limited time period offered a simplified electrophysiological(EP) examination. By a full electrophysiological study(EP study)electrodes are introduced for pacing and sensing i all four heart chambers. Where as by the mini invasive EP study only one electrode is introduced to the right atrium. The simplified procedure represent a smaller risk of complications, requires less resources but should yield the same diagnoses in more than 90% of the cases. The study is a feasibility study to see if the procedure can discover arrythmias in a fairly unselected patient population.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* History of complains of tachycardia\n* No arrythmias detected by a 24 hours Holter ECG\n* Age 19 to 74 years\n\nExclusion Criteria:\n\n* Patients younger than 18 years\n* Patients older than 75",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pre-excitation Syndromes",
+    "Paroxysmal Tachycardia",
+    "Atrial Fibrillation",
+    "Atrial Flutter",
+    "Wolff-Parkinson-White Syndrome"
+  ],
+  "overall_status": "COMPLETED"
+}

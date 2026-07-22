@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02425228",
+  "title": "Prospective Assessment of Image Registration for the Diagnosis of Prostate Cancer",
+  "brief_summary": "This is a pilot study to determine cancer detection rate of conventional/systematic versus targeted biopsy methods in diagnosis of potentially lethal prostate cancer. This is a diagnostic trial using each patient as his own control.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Men undergoing a first-time prostate biopsy driven by PSA elevation to rule out cancer.\n* PSA 2.5 - 20 ng/mL\n* Prostate volume 20 - 100 cc\n* No prior ablation or TURP\n* Able to tolerate MRI\n* T1c suspect\n* Signed informed consent\n\nExclusion Criteria:\n\n* Any prior prostate biopsy\n* Active bleeding disorder or concurrent use of coumadin or any other anticoagulant, unless anticoagulation can be temporarily stopped for at least 7 days before and 7 days after the biopsy\n* Any prostate ablative procedure, including transurethral resection, photovaporization, or electrovaporization\n* Any contraindication to MRI (contrast allergy, severe claustrophobia, MRI-incompatible prosthesis) ,\n* Palpable prostate mass lesion (i.e., Stage \\>T1c suspected)\n* Any condition that would preclude the subject from getting the required biopsy as stated in the protocol",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "Men with targetable lesion on MRI, undergoing a first-time prostate biopsy driven by PSA elevation to rule out cancer.\n\nWe choose to study men undergoing first-time biopsy, since the great challenge with prostate biopsy today is to establish a correct diagnosis initially. The study sample is kept uniform by excluding men with prior negative biopsies and men enrolled in the Active Surveillance program. Men without a targetable lesion and men with a PI-RADS \\<2 lesion currently undergo a mapping biopsy under an existing IRB approval; data collection on these men would continue in parallel, but would not be part of this targeting study",
+  "condition": [
+    "Elevated PSA",
+    "Prostate Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

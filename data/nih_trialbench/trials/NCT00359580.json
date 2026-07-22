@@ -1,0 +1,40 @@
+{
+  "nctid": "NCT00359580",
+  "title": "Genetic Studies in the Amish and Mennonites",
+  "brief_summary": "The purposes of this study are to identify the genes responsible for several inherited disorders commonly seen in the Amish and Mennonite populations and learn more about the natural history (medical problems that develop over time) of these disorders. In addition, researchers will establish a computer database containing Amish genealogies, derived largely from the community s extensive records of births, marriages, deaths, etc., that will help construct pedigrees (family trees) for genetic study.\n\nThe Amish and Mennonite peoples have a high rate of intermarriage within their individual communities, with a resulting high incidence of inherited disorders. Many of these disorders, such as cartilage-hair hypoplasia, Ellis-van Creveld syndrome, and others, are rarely seen outside these communities. New research using state-of-the-art methodologies in genetics will add to current knowledge about the causes and symptoms of these disorders that will eventually aid in their diagnosis and medical management.\n\nPatients with inherited disorders that occur frequently in the Amish and Mennonite populations and their family members may be eligible for this study. Individuals from both within and outside these communities may enroll.\n\nParticipants will be evaluated with a review of their medical records and their personal and family medical history and a brief physical examination. A small tissue sample will be collected for genetic studies. This will be either a blood sample (3 teaspoons from adults and 1 to 3 teaspoons from children, depending on their size) or a mouth swab (cells removed from inside the cheek by gentle brushing). Some participants may undergo additional procedures, such as diagnostic X-rays, brain scans, echocardiogram (heart ultrasound) or other studies.\n\nIf genetic testing shows a gene change (mutation), the participant will be notified to that effect in writing and offered counseling in their home regarding the test results and their implications.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nSubjects are divided into two groups:\n\nGroup A:\n\nPatients and their families with known or suspected Mendelian or complex traits, who will be enrolled in the molecular genetics and phenotypic characterization study.\n\nInformed consent will be obtained from each of these subjects.\n\nGroup B:\n\nThose individuals who are listed in the Fisher Family History and multiple other genealogy books will be included in the AGD database.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Genetic Disease"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a genetic and natural history study of inherited disorders in Amish and Mennonite populations, not a therapeutic trial. There is no line-of-therapy intent, as no cancer treatment or systemic therapy is involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Group A",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Group A includes patients and families with known or suspected Mendelian or complex traits for genetic and phenotypic study. There is no mention of cancer, systemic therapy, or lines of therapy for advanced disease."
+    },
+    {
+      "cohort_label": "Group B",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Group B consists of individuals included in the AGD database for genealogical purposes. There is no reference to cancer, systemic therapy, or lines of therapy for advanced disease."
+    }
+  ]
+}

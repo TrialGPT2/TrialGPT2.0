@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04384055",
+  "title": "Predicting Outcomes for Covid-19 Using Sonography",
+  "brief_summary": "This study seeks to investigate the role of lung ultrasound in caring for Covid-19 positive patients and whether it can be used to predict patient deterioration. This information will be vital for healthcare workers who seek to identify Covid-19 pneumonia or patients at risk for deterioration early in the disease course.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Any adult (18 or more years of age) presenting to the emergency department with symptoms suspicious for Covid-19\n* This individual underwent evaluation for Covid-19 via a nasopharyngeal RT-PCR\n* This individual received a lung ultrasound by the study authors within 28 days from initial evaluation\n\nExclusion Criteria:\n\n* Any individual who did not receive a lung ultrasound within 28 days from initial evaluation for covid-19 related illness",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "This population will include all persons under investigation (PUIs) for covid-19 presenting to the Stanford emergency department.",
+  "condition": [
+    "COVID-19",
+    "Pneumonia, Viral"
+  ],
+  "overall_status": "COMPLETED"
+}

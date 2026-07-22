@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT02190942",
+  "title": "VCRC Patient Contact Registry Patient-Reported Data Validation Study",
+  "brief_summary": "The purpose of this study is to provide validation of patient-reported data in the VCRC Patient Contact Registry by comparing patient-reported data with data provided by the physician who is the primary provider caring for the patient's vasculitis. Patients enrolled in the Patient Contact Registry with Behcet's disease, eosinophilic granulomatosis with polyangiitis (Churg-Strauss) (EGPA), giant cell arteritis (GCA), granulomatosis with polyangiitis (Wegener's) (GPA), microscopic polyangiitis (MPA), polyarteritis nodosa (PAN), and Takayasu's arteritis (TAK) were invited via email to participate in this study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* At least 20 patients with each of the following self-identified diagnoses in the VCRC Patient Contact Registry: Beh\u00e7et's disease, EGPA, GCA, GPA, MPA, PAN, and TAK who have completed the online questionnaires.\n\nExclusion Criteria:\n\n* Inability to provide informed consent and complete survey\n* Patients whose diagnosis of vasculitis was not confirmed by a physician\n* Patients who did not complete the initial questionnaire in its entirety",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Consent will be obtained from at least 20 randomly selected patients with each of the following self-identified diagnoses in the VCRC Patient Contact Registry: Beh\u00e7et's disease, EGPA, GCA, GPA, MPA, PAN and TAK that have already completed the VCRC Diagnostic Questionnaires. Permission will be obtained to contact subjects' primary vasculitis care providers to request that the providers complete an online version of this questionnaire (or print copy, if they prefer), and request specific chart items from their office to further verify the data. The sensitivity and specificity for various combinations of the diagnostic questions to predict vasculitis and to confirm type of vasculitis will be calculated using physician diagnosis / chart review as the gold standard.",
+  "condition": [
+    "Behcet's Disease",
+    "Churg-Strauss Syndrome",
+    "Giant Cell Arteritis",
+    "Wegener Granulomatosis",
+    "Microscopic Polyangiitis",
+    "Polyarteritis Nodosa",
+    "Takayasu's Arteritis"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03067298",
+  "title": "Prediction of Preeclampsia and Other Pregnancy Complications Following Combined Iterative Screening",
+  "brief_summary": "Preterm birth (PTB), preeclampsia (PE), fetal growth restriction (FGR) and intra-uterine fetal death (IUFD) constitutes the main causes of perinatal morbidity and mortality and are called \"Great Obstetrical Syndromes\". Algorithms to predict those outcomes have been developed by combining maternal characteristics (history, age, BMI, blood pressure), biochemical (sFlt-1, \u03b2-hCG, PlGF, AFP) and sonographic (uterine artery Doppler, 3D of placenta, cervical length, nasal bone measurement, nuchal translucency) markers. Another prospective observational study (\"PREDICTION study\" NCT 02189148) is also ongoing, which aims to validate those algorithms at the first trimester of pregnancy.\n\nRecent data suggest that repeating the same measurements later in pregnancy could improve the detection rates, allowing closer monitoring of high-risk patients and potential therapeutics under investigation. The current study (PREDICTION2) is an ancillary study of PREDICTION and aims at validating the use of these markers in a combined iterative manner in the prediction of preeclampsia and other obstetrical outcomes.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* nulliparous pregnant women participating in Prediction study (NCT02189148)\n\nExclusion Criteria:\n\n* \\<18 years old at recruitment;\n* multiple pregnancies;\n* fetal congenital malformation;\n* positive for HIV or hepatitis C;\n* fetal demise at recruitment;\n* women planning a delivery outside the participating hospitals;\n* women not able to provide an informed consent to the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Pregnant women",
+  "condition": [
+    "Preeclampsia",
+    "Preterm Birth",
+    "Fetal Growth Restriction",
+    "Intra Uterine Fetal Death"
+  ],
+  "overall_status": "COMPLETED"
+}

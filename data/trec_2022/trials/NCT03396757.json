@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03396757",
+  "title": "The Artificial Kidney Initiation in Kidney Injury 2",
+  "brief_summary": "The timing of renal replacement therapy (RRT) in the context of severe acute kidney injury (AKI) is one the most debated issues in critical care medicine. The Artificial Kidney Initiation in Kidney Injury (AKIKI) was the first large prospective multicenter randomized trial published on this topic. This study (published in the New England Journal of Medicine, July 2017) showed no significant difference between an early and delayed RRT initiation strategy in term of mortality. Nearly 50% of patients escaped RRT in the delayed strategy and this strategy was associated with less catheter-related infections and faster renal function recovery. Two (serum urea concentration \\>40 mmol/l and oliguria/anuria for more than 72 hours) of the 5 criteria which mandated RRT in the delayed strategy are still open to debate since they have never been shown to put patient at danger. To go further into our investigation of RRT criteria, the investigators designed a study that would compare the \"delayed strategy\" used in AKIKI that can now be considered as \"standard\" with another in which RRT is delayed for a longer period in the absence of a life-threatening complication (such as hyperkalemia or severe overload pulmonary edema).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\nAll of the following criteria must be fulfilled to be included in the observational study (first stage):\n\n* Adults (\\>18 years)\n* Hospitalized in a study ICU.\n* Evidence of acute kidney injury compatible with the diagnosis of acute tubular necrosis in a context of ischemic or toxic aggression and who receive (or received for the same episode) invasive mechanical ventilation and/or catecholamine infusion.\n* Acute kidney injury stage 3 of KDIGO classification defined by at least one of the following criteria: serum creatinine concentration of more than 4 mg/dl (354 \u00b5mol/liter) or greater than 3 times the baseline creatinine level, anuria (urine output of 100 ml/day or less) for more than 12 hours, oliguria (urine output below 0.3 ml/kg/h or below 500 ml/day) for more than 24 hours.\n\nTo be randomized (randomization stage), supplemental criteria must be fulfilled. These criteria can appear either immediately after inclusion in the observational stage, or during the follow-up of the patient in the observational stage, in the absence of any non-inclusion criteria (listed below) at the time of randomization:\n\n* Oliguria/anuria (urine output \\<0.3 ml/kg/h or \\<500 ml/day) for more than 72 hours or serum urea concentration comprised between 40 and 50 mmol/l.\n* Affiliation to a social security regime\n\nExclusion Criteria:\n\n* Severity criteria mandating immediate RRT initiation (Table 1)\n* Serum urea level \\> 50 mmol/l\n* Severe chronic renal failure (defined by a creatinine clearance \\< 30 ml/min)\n* Patients with inclusion criteria already present for more than 24 hours (to avoid delayed inclusions)\n* AKI caused by urinary tract obstruction or renal vessel obstruction or tumour lysis syndrome or thrombotic microangiopathy or acute glomerulopathy\n* Poisoning by a dialyzable agent\n* Child C liver cirrhosis\n* Cardiac arrest without awakening\n* Moribund state (patient likely to die within 24h)\n* Patient having already received RRT for the current episode of AKI\n* Renal transplant\n* Treatment limitation (withholding or withdrawal)\n* Previous inclusion in this study\n* Subject deprived of freedom, subject under a legal protective measure\n* Pregnant or breastfeeding woman",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Renal Replacement Therapy for Acute Kidney Injury in ICU"
+  ],
+  "overall_status": "COMPLETED"
+}

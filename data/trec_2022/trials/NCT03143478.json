@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03143478",
+  "title": "Mechanical Muscle Activity With Real-time Kinematics (M-MARK): A Novel Combination of Existing Technologies to Improve Arm Recovery Following Stroke",
+  "brief_summary": "About 150,000 people in the UK suffer a stroke each year and \\~60% with moderate to severe stroke fail to recover arm or hand use. Stroke rehabilitation is increasingly home-based following early supported discharge (ESD) from hospital to facilitate self-management and avoid problems associated with prolonged hospital stays. There is strong evidence that intensive practice and re-education of normal movement is essential for functional motor recovery, hence the NHS guideline of 45 minutes therapy 5 days per week, but NHS Trusts have difficulty meeting this target due to cost and access to specialist therapists.\n\nAn M-MARK Mk1 device that combines an Inertial Measurement Unit (IMU) with an Mechanomyography (MMG) sensor has been designed and laboratory tested. Novel signal processing techniques have been demonstrated that reduce problems of vibration artifacts and generate information on mechanical muscle activity and movement. The aim of the overall M-MARK project is to develop a low-cost wearable wireless device (Mk2) that patients can use independently at home while practicing standardised everyday activities to regain upper limb function. Mk2 M-MARK has now been developed in collaboration with therapists, patients and their carers. The system incorporates feedback, presented on a computer/tablet, as motivating visualisations of movement showing them if they have moved in the correct way. A separate interface has been developed for therapists, which offers a simple system to diagnose specific movement problems to inform clinical decision-making, monitor progress and thus increase efficiency of therapy.\n\nIn phase 1 of this study, user requirements were assessed to inform the development of the Mk2 M-MARK for clinical use. Ten patients and carers were interviewed and 20 health professionals took part in two focus groups, from Portsmouth Hospitals NHS trust and North Bristol NHS Trust. The Mk2 system has now been developed, reliability demonstrated and iterative testing with stroke patients has ensured usability of the system.\n\nThis phase of research will examine the clinical feasibility of using Mk2 M-MARK with stroke patients who are undergoing early supported discharge. All feasibility aspects of the wearable system will be assessed including usability and safety. Preliminary data on efficacy will be collected and a health economics analysis will be undertaken.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DEVICE_FEASIBILITY",
+  "raw_criteria": "Inclusion Criteria:\n\n* Aged 18 years old or older.\n* Between 1 and 20 weeks post clinical diagnosis of stroke with residual upper limb movement deficits.\n* Currently undergoing upper limb rehabilitation post-stroke within early supported discharge.\n* Be able to lift hemiparetic arm from lap onto a table.\n* Physically and cognitively able to comply with study protocol (Score 19 or higher on the Montreal cognitive assessment \\[9\\] (scores between 19-25 corresponds to mild cognitive impairment, and 25-30 represent normal cognition). For aphasic patients, the Oxford cognitive screen (OCS) will be used to determine cognitive status.\n* Able to walk to or transfer to a chair and bring it up to a table nearby, independently or have assistance of a carer as required.\n* Able to effectively don and doff the garment independently or have a carer who is able and willing to assist them.\n* Be medically stable enough to undergo arm rehabilitation, as determined by the ESD team.\n\nExclusion Criteria:\n\n* Unable to understand the purpose of the study, follow simple instructions and give informed consent\n* Unable to provide useful feedback (either patient or carer) due to communication difficulties post stroke.\n* A maximum level of arm function - full movement of the elbow, shoulder and hand with the only unresolved impairment being fine dexterity.\n* Requirement of an interpreter.\n* A skin disease or allergy to garment material including: Nylon, Polypropylene or Polyester.\n* Severe pain of the hemiparetic arm, shoulder or hand, either at rest or during movement.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke"
+  ],
+  "overall_status": "UNKNOWN"
+}

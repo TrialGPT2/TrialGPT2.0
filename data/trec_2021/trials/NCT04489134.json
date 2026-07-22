@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04489134",
+  "title": "P-glypoprotein Inhibition Effect on the Pharmacokinetics of Two Tacrolimus Formulations: Prolonged and Extended-release",
+  "brief_summary": "Tacrolimus is a drug administered orally available with different formulations: immediate release (Prograf\u00ae), prolonged-release (Advagraf\u00ae) and an extended-release one named LCP-Tacro (Envarsus\u00ae), formulated using the Melt-Dose process.\n\nTacrolimus is a lipophilic macrolide drug able to passive transmembrane diffusion. Its bioavailability displays a large interindividual variability, from 9 to 43%. Indeed, tacrolimus is a substrate of P-glycoprotein (P-gp) and cytochrome P450 3A4 (CYP3A4). P-gp is an efflux protein mainly located at the apex of the epithelia of the intestine, lymphocyte, kidney and blood-brain barrier. P-gp therefore limits the intestinal resorption of tacrolimus and also its diffusion into its target compartment (i.e the lymphocyte. The expression of this protein is different throughout the digestive tract with maximum expression at the ileal level. CYP3A4 is a coenzyme that is responsible of more than 90% of the metabolism of tacrolimus, at the digestive and hepatic level. Both P-gp and CYP3A4 play a role in tacrolimus absorption/diffusion process.\n\nA new formulation of tacrolimus, LCP-Tacro, (Envarsus\u00ae) was approved in 2014. Its efficacy was compared to Prograf\u00ae in two phase III de novo or switch Prograf\u00ae trials in kidney transplantation.\n\nWith tacrolimus, there is a strong inter-individual pharmacokinetic variability which, to date, has not been fully characterized. Variations in bioavailability may partly explain this high variability. The different formulations are resorbed at distinct gastrointestinal sites which could explain different absorptions between Prograf/Advagraf and LCP-Tacro forms.\n\nThese findings raise the question of the role of P-gp in explaining the difference in bioavailability between formulations. The use of a P-gp inhibitor could therefore have a different impact on exposure to different galenic formulations.\n\nVerapamil is an inhibitor of P-gp and CYP 3A4, which is frequently prescribed and recommended by FDA for drug-drug interaction studies aiming at evaluating P-gp substrates, used in healthy volunteers at dosages up to 240 mg/D13-14. Otherwise, verapamil-tacrolimus interaction has been characterized in vitro.\n\nIt has also been shown that inhibitory effect of verapamil at a single dose of 120 mg administered one hour prior to the administration of a P-gp substrate exhibited an optimum power of inhibition.\n\nThe safety of Advagraf\u00ae and Envarsus\u00ae administrations have already been subjected to several phase I trials in healthy volunteers reinforcing the knowledge of their safety profile.\n\nThe aim of the study is to compare the interaction profile of Advagraf\u00ae and Envarsus\u00ae when co-administered with verapamil in healthy subjects and to provide guidelines on tacrolimus dosage adjustment in such cases.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n* adults (\\> 18 years)\n* Non smokers (for at least 6 months)\n* Biological parameters within normal range (blood count, urea, creatinine, AST, ALT, GGT, bilirubine)\n* BMI within 18 and 25\n* Vaccinated against Covid 19\n* Negative urinary and plasma pregnancy test\n* Having effective contraception for the duration of the study and for 10 days after the last administration of the study treatment (for women and men of childbearing potential)\n* Informed consent\n\nExclusion Criteria:\n\n* participation to another study with incompatible procedure regarding the French law on research\n* Treatment with a drug drug interaction with tacrolimus\n* Cardiac rhythm at rest below 50 bpm\n* Cardiac issue detected on electrocardiogram\n* Cancer or history of cancer\n* Chronic infection or history of chronic infection\n* Diabetes or history of diabetes\n* Hypertension or history of hypertension\n* Pregnancy or lactation\n* Deprived of liberty (curatorship, guardianship or incarcerate)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pharmacokinetics"
+  ],
+  "overall_status": "COMPLETED"
+}

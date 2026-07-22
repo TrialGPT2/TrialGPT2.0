@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03276845",
+  "title": "Multiparametric High-resolution Ultrasound of the Breast",
+  "brief_summary": "Despite advances in mammographic technique, mammography is limited in the detection and diagnosis of breast lesions with respect to sensitivity and specificity. In recent decades, ultrasound has become an essential adjunct to mammography for the further characterization of mammographically detected or palpable lesions or in the diagnosis of patients with dense breasts.\n\nHowever, in spite of defined morphological criteria for the differentiation of benign from malignant lesions, ultrasound of the breast also shows limitations regarding sensitivity and specificity. On the one hand, benign lesions may have one or more malignant characteristics and thus require a biopsy. On the other hand, malignant lesions can also show benign characteristics and thus make an accurate assessment difficult.\n\nTo overcome these limitations, newer sonographic methods have been developed. These include elastography, color and power Doppler imaging, contrast enhanced imaging and 3D sonography.\n\nThe application of elastography is based on the fact that cancer has a higher stiffness than healthy breast parenchyma.\n\nIn addition, cancers are characterized by neoangiogenesis and thus generally show an increased vascularization in color and power Doppler. The detection of neoangiogenesis can be improved by the application of contrast agents. The latter provides both morphological and functional information about tumors, through the study of the contrast agent kinetics.\n\nFinally, 3D sonography allows for tumors to be examined in a third, coronal plane. This way, the interaction between the tumor and the surrounding healthy tissue can be better appreciated.\n\nThe objective of this study is the evaluation of suspicious (classified as BI-RADS 4 and 5) breast lesions by using high-resolution sonography, including elastography, color/power Doppler, contrast agent application and 3D sonography. Both morphological and functional information can thus be obtained. The primary hypothesis of this study is that this multiparametric approach will improve the detection and characterization of breast lesions.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinical, mammographic, MR-tomographic and/or ultrasonographic verification of a suspicious breast lesion (BIRADS 4 and 5)\n* Age \\> 18 years\n* Written informed consent\n* Histopathological verification of the lesions either by core biopsy or by surgical excision\n\nExclusion Criteria:\n\n* Unstable or non-compliant patients\n* Pregnant or lactating patients or patients with suspected pregnancy\n* Known contraindication to the intravenous administration of US contrast agents\n* Acute or chronic renal insufficiency\n* Pre- or post-transplant patients",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Breast Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

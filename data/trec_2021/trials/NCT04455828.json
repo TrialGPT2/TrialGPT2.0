@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04455828",
+  "title": "Wearable Remote Monitoring of Heart Rate and Respiratory Rate for Heart Failure",
+  "brief_summary": "The primary objective of this study is to study in heart failure (HF) patients to better assess HF disease state, which can aid in management and improve outcomes. Primary aims of the study include: (1) Measure HR and RR at rest and during daily activity using the WHOOP device. (2) Correlate HR and RR response to activity to New York Heart Association (NYHA) class and 90-day HF hospitalization rate. (3) Identify additional predictors of NYHA class and HF hospitalization rate for algorithm development to use the WHOOP device as a clinical tool for HF management.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Subject has provided informed consent\n2. Male or female over the age of 18 years\n3. The patient is either hospitalized with a primary diagnosis of acute heart failure or was discharged with a primary diagnosis of acute heart failure within 2 weeks prior to enrollment; or carries a diagnosis of heart failure and is seen as an outpatient at Hershey Medical Center.\n4. NYHA functional class II-IV at time of enrollment\n5. Subject willing to wear the WHOOP for the 90-day study period.\n6. Subject owns a phone for pairing with the WHOOP device (required for data storage and transfer)\n\nExclusion Criteria:\n\n1. Subjects who are limited by angina.\n2. Subjects with severe aortic stenosis.\n3. Subjects who are hemodynamically unstable requiring support with intravenous vasoactive medications or mechanical circulatory support\n4. Subjects with symptomatic ventricular arrhythmias within the past 6 months.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients, 18 and older, admitted to the hospital with a primary diagnosis of acute heart failure or any stable patient who presents for routine outpatient care, but has a diagnosis of Heart Failure, and is NYHA class II-IV at time of enrollment.",
+  "condition": [
+    "Heart Failure",
+    "Heart Failure With Reduced Ejection Fraction",
+    "Heart Failure With Preserved Ejection Fraction"
+  ],
+  "overall_status": "WITHDRAWN"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02318550",
+  "title": "Registry of Patients for MRI With Non-MRI Conditional Pacemakers and ICD Non-MRI Conditional Pacemakers and ICD",
+  "brief_summary": "The purpose of the registry is to accumulate pre-and post-scan device interrogation data for the purpose of determining the risk of MRI for patients with implantable devices.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "1. Patient has a non-MRI conditional permanently implanted pacemaker or ICD implanted after 2001\n2. Patient has a strong clinical indication for MRI where MRI is the diagnostic modality of choice for specific disease state without acceptable alternative imaging technologies as determined by the ordering physician and a radiologist\n3. Patient is at least 18 years of age\n4. Patient is willing and able to sign study informed consent and HIPAA authorization\n\nExclusion Criteria:\n\n1. Non-device related contraindication for MRI (such as implanted metallic objects, claustrophobia, morbid obesity)\n2. Presence of capped/abandoned/epicardial leads or subcutaneous coil\n3. Pregnancy\n4. Device generator at elective replacement interval\n5. Abdominal device implant",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Any patient with any commercially available pacemaker or ICD system implanted after 2001 who meet all of the inclusion criteria and none of the exclusion criteria, and who require a non-cardiac, medically-indicated MRI as described above will be eligible to enroll in the study.",
+  "condition": [
+    "MRI Scans",
+    "Magnetic Resonance Imaging",
+    "Pacemaker",
+    "Implantable Cardioverter Defibrillator"
+  ],
+  "overall_status": "COMPLETED"
+}

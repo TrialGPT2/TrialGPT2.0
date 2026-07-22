@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02508467",
+  "title": "A Phase 1 Study of Fisogatinib (BLU-554) in Patients With Hepatocellular Carcinoma",
+  "brief_summary": "This is a Phase 1, open-label, first-in-human (FIH) study designed to evaluate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PD), and preliminary antineoplastic activity of fisogatinib (formerly known as BLU- 554) administered orally in patients with FGF19 IHC+ hepatocellular carcinoma (HCC). The study consists of 3 parts, a dose-escalation part (Part 1), an expansion part (Part 2) exploring a once daily (qd) dosing schedule at the recommended Phase 2 dose (RP2D), and a Part 3 expansion of the qd dosing schedule at the RP2D in TKI naive patients.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Key Inclusion Criteria:\n\n* Confirmed diagnosis of HCC by histological examination or by non-invasive criteria according to European Association for the Study of the Liver (EASL) or American Association for the Study of Liver Disease (AASLD) guidelines (Part 1, 2 and 3).\n* For Part 1 and 2, the patient has unresectable disease and has been previously treated with sorafenib, has declined treatment with sorafenib, or does not have access to sorafenib.\n* For Part 3, the patient has not received prior treatment with a TKI.\n* Child-Pugh class A with no clinically apparent ascites\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-1\n* For Part 1, willing to provide archived tumor tissue (if available) and willing to undergo pre- and on-treatment tumor biopsy (if considered safe and medically feasible by the treating investigator)\n* For Part 2 and 3, all patients must have an FGF19 IHC result available. Only FGF19 IHC+ HCC patients will be eligible for Part 3.\n\nKey Exclusion Criteria:\n\n* Central nervous system metastases\n* Platelet count \\<75,000/mL\n* Absolute neutrophil count \\<1000/mL\n* Hemoglobin \\<8 g/dL\n* Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) \\>5x the upper limit of normal (ULN)\n* Total bilirubin \\>2.5 mg/dL\n* International normalized ratio (INR) \\>2.3 or prothrombin time (PT) \\>6 seconds above control\n* Estimated (Cockroft-Gault formula) or measured creatinine clearance \\<40 mL/min",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hepatocellular Carcinoma (HCC)"
+  ],
+  "overall_status": "COMPLETED"
+}

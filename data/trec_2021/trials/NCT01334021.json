@@ -1,0 +1,45 @@
+{
+  "nctid": "NCT01334021",
+  "title": "Genetic Testing in Predicting Tumor Response in Patients With Stage I-III HER2 Negative Invasive Breast Cancer",
+  "brief_summary": "This phase II trial studies how well genetic testing works in predicting tumor response in patients with stage I-III HER2 negative invasive breast cancer. Genetic testing is a procedure that tests tumor samples to learn if certain genes are activated (turned on) in the tumor and if the activation of these genes may predict if the tumor will be sensitive or resistant to routine breast cancer treatments, such as chemotherapy or hormonal therapy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* The patient can undergo biopsy or surgery of a primary tumor site for suspected or proven invasive breast cancer of clinical stage I to III; stage IV patients will be allowed and included in the feasibility assessment, but will not be included in outcomes analysis for secondary objectives\n* The clinical or radiologic primary tumor size is at least 1 cm diameter\n\nExclusion Criteria:\n\n* The patient has proven HER2-positive breast cancer, defined as a pathology report of amplification of the gene or 3+ score for immunohistochemical staining\n* The patient has received prior systemic therapy or radiation therapy for breast cancer\n* The patient has a prior history of invasive or metastatic cancer within 5 years of diagnosis of breast cancer, excluding squamous cell or basal cell carcinoma of the skin\n* The patient had prior excisional biopsy of the primary invasive breast cancer\n* There is hematoma or biopsy site changes that obscure the primary tumor\n* Patients deemed medically ineligible for any adjuvant or neoadjuvant therapy. Patients with ER-positive (+) tumors deemed medically eligible for hormonal therapy, but not chemotherapy will be considered eligible for this protocol. Patients with ER-negative (-) tumors who are not candidates for adjuvant anthracycline based chemotherapy will be considered ineligible for this protocol. Patients who undergo biopsy and are later found to be ineligible for adjuvant therapy will be assessed for the primary objective, but will be excluded from the secondary objectives",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Anatomic Stage I Breast Cancer AJCC v8",
+    "Anatomic Stage IA Breast Cancer AJCC v8",
+    "Anatomic Stage IB Breast Cancer AJCC v8",
+    "Anatomic Stage II Breast Cancer AJCC v8",
+    "Anatomic Stage IIA Breast Cancer AJCC v8",
+    "Anatomic Stage IIB Breast Cancer AJCC v8",
+    "Anatomic Stage III Breast Cancer AJCC v8",
+    "Anatomic Stage IIIA Breast Cancer AJCC v8",
+    "Anatomic Stage IIIB Breast Cancer AJCC v8",
+    "Anatomic Stage IIIC Breast Cancer AJCC v8",
+    "Anatomic Stage IV Breast Cancer AJCC v8",
+    "Invasive Breast Carcinoma",
+    "Prognostic Stage I Breast Cancer AJCC v8",
+    "Prognostic Stage IA Breast Cancer AJCC v8",
+    "Prognostic Stage IB Breast Cancer AJCC v8",
+    "Prognostic Stage II Breast Cancer AJCC v8",
+    "Prognostic Stage IIA Breast Cancer AJCC v8",
+    "Prognostic Stage IIB Breast Cancer AJCC v8",
+    "Prognostic Stage III Breast Cancer AJCC v8",
+    "Prognostic Stage IIIA Breast Cancer AJCC v8",
+    "Prognostic Stage IIIB Breast Cancer AJCC v8",
+    "Prognostic Stage IIIC Breast Cancer AJCC v8",
+    "Prognostic Stage IV Breast Cancer AJCC v8"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

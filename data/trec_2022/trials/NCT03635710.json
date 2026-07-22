@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03635710",
+  "title": "Smartphone Enabled Detection of Nocturnal Cough Rate and Sleep Quality as a Prognostic Marker for Asthma Control",
+  "brief_summary": "The purpose of the study is to explore the value which cough rate might provide for asthma self-management. In this study, the focus will be specifically on nocturnal cough rate. The plan is to use a longitudinal study design, in order to investigate to which extent trends in the nocturnal cough rates might have meaningful implications for future asthma control and asthma exacerbations of patients. The incidence of nocturnal cough in asthmatics will be described and visualized over the course of one month in the first stage of the study. Additionally, the aim will be to identify and model trends in nocturnal cough rates.\n\nMeasuring cough is very time-consuming. Currently, there are no cough frequency monitors available, which measure cough rates in a fully automated and unobtrusive way. Consequently, manual labeling of cough based on video or sound recordings is still considered to be the gold standard for measuring cough rates by medical guidelines. Recently, a machine learning algorithm was successfully designed to automatically detect cough in a proof of concept study. This machine learning algorithm will be further developed in order to provide robust results in the field. The focus of this study will be the cough during the night time due to the limited interfering noise, which greatly facilitates manual labeling and enables a more reliable detection rate of the machine learning algorithm.\n\nApart from developing a machine learning algorithm for cough detection, data will be gathered for the assessment of patient's sleep quality based on data obtained from smartphone's sensors.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* all patients with physician-diagnosed asthma (obtained through self-reports)\n* minimum age 18 years\n* proficient in using a smartphone (e.g. for the daily smartphone-based self-\n\nExclusion Criteria:\n\n* patients with mental diseases resulting in cognitive impairments such as depression, dementia, and Alzheimer's disease\n* patients for whom it would not be feasible to obtain reliable nighttime measurements (i.e. patients with severe insomnia or shift workers) or for whom we cannot ensure the correct allocation of nocturnal coughs to the patient in the rating process (i.e. patients who usually share the bed with a person from the same sex).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The population investigated in this study are adult asthmatics.",
+  "condition": [
+    "Asthma",
+    "Cough"
+  ],
+  "overall_status": "COMPLETED"
+}

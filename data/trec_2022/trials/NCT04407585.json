@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04407585",
+  "title": "Testing the Accuracy of a Digital Test to Diagnose Covid-19",
+  "brief_summary": "The Covid-19 viral pandemic has caused significant global losses and disruption to all aspects of society. One of the major difficulties in controlling the spread of this coronavirus has been the delayed and mild (or lack of) presentation of symptoms in infected individuals, and the insufficient Covid-19 testing capacity in the UK. This warrants the development of alternative diagnostic tools that reliably assess Covid-19 infection in the early stages of infection, while also being low- cost, low-burden, and easily administered to a wide proportion of the population.\n\nThis study aims to validate machine learning models as a diagnostic tool that predicts infection with SARS-CoV-2 based on app-reported symptoms and phenotypic data, against the 'gold-standard' swab PCR-test. This study will take place within the Covid Symptom Study app, the free symptom tracking mobile application launched in March 2020.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Study Inclusion Criteria - app users will be eligible to join the study if they:\n\n* Are based in the UK (are using the UK version of the Covid-19 Symptom Study app, and have listed a UK postcode)\n* Are the primary app user (are reporting directly for themselves)\n* Are at least 18 years of age\n* Have not tested positive for a Covid-19 test before (but may have been tested)\n\nStudy Exclusion Criteria - participants are ineligible for the study if they:\n\n* Do not meet inclusion criteria\n* Do not provide informed consent to participate\n\nParticipants will be subject to further screening to identify them as eligible for swab testing during the course of the study.\n\nSwab inclusion criteria - participants will be eligible for swab testing if they:\n\n* Have reported in the app at least once in the previous 3 days (days -2 to 0), and at least two times in the previous 9 days (days -8 to 0). All reports must be healthy (i.e. not experiencing any symptoms).\n* On the previous day (day 1), have reported that they are experiencing at least one symptom described in the app. Symptoms in the app are updated when deemed appropriate by study investigators using evidence based reports in the scientific and medical field.\n* Have answered the phenotype fields required for the prediction model with physiologically plausible values.\n\nSwab exclusion criteria - participants are ineligible for swab testing if they:\n\n* Are asymptomatic\n* Do not satisfy the inclusion criteria for testing.\n\nInsufficient testing capacity:\n\nIf insufficient testing capacity is available for the study population as described, then recruitment will be prioritised according to:\n\n* Firstly, most recent final healthy report before reporting symptoms\n* Secondly, highest number of healthy reports during the previous 9 days before reporting symptoms\n* Thirdly, randomised selection to stratify between participants of equal priority according to the first two rules above.\n\nExcess testing capacity:\n\nIf excess testing capacity is available beyond the study population as described, then inclusion criteria will be expanded in order to adequately sample across under-represented population groups.\n\nSpecifically, on day 7 of each validation phase, investigators will assess:\n\n* What excess testing capacity is available, if any\n* Which subgroups are under-represented compared to their proportion in the UK population (as best as can be established given that some participants may not have completed some phenotype fields):\n\n  (i) Age decade (ii) Sex (iii) Ethnicity (iv) BMI category\n\nFor underrepresented groups, investigators may additionally recruit participants with only one report during the previous 3 days (days -2 to 0) and no other report during the previous 9 days (days -8 to 0).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population includes individuals are UK-based primary users of the Covid Symptom Study app, who provide informed consent to participate.",
+  "condition": [
+    "Covid-19"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04083586",
+  "title": "Pattern and Frequency of Non-epileptic Involuntary Movements",
+  "brief_summary": "We will perform a medical record review of all patients seen in Assiut University hospital, Egypt, to determine the frequency of movement disorders seen, disease characteristics, diagnostic evaluations.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with movement disorders attending Assiut University neurology outpatient clinic and internal department, from Jan 2020 to Jan 2021.\n\nExclusion Criteria:\n\n* 1\\) involuntary movements epileptic in origin 2) refusal of patient to give consent to join the study",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with movement disorders attending Assiut University neurology outpatient clinic and internal department, from Jan 2020 to Jan 2021.\n\nsample size: regarding previously estimated prevalence in (kwon KY et al,2019), was 292, so our sample size as calculated: Sample Size(n) for Various Confidence Levels \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ Confidence Level(%) Sample Size 95% 167 80% 106 90% 141 97% 181 99% 203 99.9% 231 99.99% 245\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ Equation Sample size n = \\[DEFF\\*Np(1-p)\\]/ \\[(d2/Z21-\u03b1/2\\*(N-1)+p\\*(1-p)\\]\n\nResults from OpenEpi, Version 3, open source calculator--SSPropor",
+  "condition": [
+    "Involuntary Movements"
+  ],
+  "overall_status": "COMPLETED"
+}

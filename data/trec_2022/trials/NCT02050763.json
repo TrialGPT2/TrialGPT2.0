@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT02050763",
+  "title": "Assessing the Impact of an Intervention to Prevent Intimate Partner Violence and HIV in Uganda",
+  "brief_summary": "Intimate partner violence (IPV) is a precursor to and consequence of HIV infection. Few interventions combining HIV and IPV prevention have been evaluated and none has significantly decreased both outcomes.\n\nA cluster-randomized trial was conducted in Rakai, Uganda. Four intervention arm clusters (N=5,339) received an IPV prevention intervention (the Safe Homes and Respect for Everyone (SHARE) Project), enhanced HIV testing and treatment and routine HIV services provided by Rakai Health Sciences Program (RHSP). Seven control arm clusters (N=6,112) received standard of care HIV services alone.\n\nBaseline and two follow-up visits were conducted via the Rakai Community Cohort Study between 2005 and 2009. Primary outcomes were past year emotional, physical and sexual IPV and HIV incidence. Secondary outcomes included past year intimate partner rape/forced sex, number of total and extra-marital sex partners, alcohol use surrounding sex, condom use, discussion about condom use, partner's disclosure of HIV status and respondent's disclosure of HIV status. Analysis was by intention-to-treat. Modified Poisson regression was used to estimate prevalence risk ratios (PRR) to detect the impact of the intervention on IPV and secondary outcomes. Poisson regression was used to estimate incidence rate ratios (IRR) of HIV acquisition per 100 person years (py).\n\nOur study had three research aims and related hypotheses.\n\nAim 1 was to assess the impact of SHARE + RHSP community services on report of victimization from and perpetration of physical and/or sexual IPV in the past 12 months, compared to the impact of RHSP community services alone.\n\nHypothesis 1(a): SHARE intervention will reduce women's reports of IPV victimization in intervention vs. control arms.\n\nHypothesis 1(b): SHARE intervention will reduce men's reports of IPV perpetration in intervention vs. control arms.\n\nAim 2 was to assess the impact of SHARE + RHSP services on report of sexual risk behaviors among men and women compared to the impact of RHSP community services alone.\n\nHypothesis 2(a): SHARE intervention will reduce selected sexual risk behaviors in the intervention vs. control arms.\n\nAim 3 was to assess the impact of SHARE + RHSP services on HIV incidence compared to the impact of RHSP community services alone.\n\nHypothesis 3(a): Incidence of HIV will be lower in the intervention vs. control arms.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion criteria:\n\n1. Between the ages of 15-49 years;\n2. Consent to participation;\n3. Resident of at least 6 months in study community;\n4. Enrollment into RCCS at baseline (2005-06);\n5. Report of sexual activity or being in a partnership in the year prior to the baseline interview;\n6. Provision of follow-up information on variables of interest.\n7. For HIV incidence, only participants with initial HIV-negative serostatus at their baseline visit were included in the analyses.\n\nExclusion criteria:\n\n1. Younger than 15 years and older than 49 years;\n2. Did not consent to participation;\n3. Non-resident in study community;\n4. Not enrolled in RCCS between 2005-06;\n5. Not yet sexually active or not sexually active during year prior to baseline;\n6. Incomplete follow up information on variables of interest;\n7. HIV positive at baseline",
+  "minimum_age": "15 Years",
+  "maximum_age": "49 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "HIV",
+    "Physical Abuse of Adult (If Focus of Attention is on Victim)",
+    "Sexual Abuse of Adult (If Focus of Attention is on Victim)",
+    "Risk Reduction Behavior"
+  ],
+  "overall_status": "COMPLETED"
+}

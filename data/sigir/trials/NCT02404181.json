@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02404181",
+  "title": "Validation of a Delirium Monitor",
+  "brief_summary": "Delirium is a common disorder in hospitalized patients, nevertheless it is poorly recognized by physicians and nurses, even when screening instruments are used. Electroencephalography (EEG) appears to be a sensitive tool for the diagnosis of delirium. However, standard EEG recording with 25 electrodes is labor intensive. We have previously showed that a brief EEG registration with three electrodes and automatic processing can distinguish patients with delirium from patients without delirium very well. However, these findings need to be validated in an unselected population.\n\nThe primary objective of this validation study is to investigate the sensitivity, specificity, and predictive values of the EEG-based delirium monitor (including three electrodes and a reference electrode) compared to delirium quantification in frail elderly patients after surgery.\n\nIn an international multicenter study, 154 frail elderly patients will be included who will undergo elective surgery and are expected to remain admitted for at least two postoperative days. Patients are excluded if communication is not possible or admitted for neurological surgery.\n\nA five minute EEG registration with the delirium monitor with four electrodes will be performed prior surgery and three consecutive days after surgery or until discharge. Within one hour of the EEG recording, the delirium assessment will be performed and recorded on video, which will be evaluated by delirium experts. The relative delta power (calculated from one minute of artifact-free EEG segment) will be compared with the conclusion of the delirium experts.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* 60 years and older\n* Frail\n* Undergoing elective surgery\n* Expected to remain admitted for at least 2 postoperative days\n\nExclusion Criteria:\n\n* No communication possible due to a language barrier or deafness\n* Admission for neurological surgery\n* Participation in this study during a previous hospital admission\n* Practical or logistical reasons hampering the use of the delirium monitor, such as technical failure of the monitor\n* Isolation because of known carrier ship of a resistant bacterium",
+  "minimum_age": "60 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The source population will consist of frail, elderly patients (\u226560 years) who will undergo elective surgery in the University Medical Center Utrecht, Isala Clinics Zwolle, Radboud University Medical Center Nijmegen, or Charit\u00e9 Universit\u00e4tsmedizin Berlin, and who will be expected to remain admitted for at least two postoperative days. These patients will be informed on this study before admission to the hospital.",
+  "condition": [
+    "Delirium"
+  ],
+  "overall_status": "COMPLETED"
+}

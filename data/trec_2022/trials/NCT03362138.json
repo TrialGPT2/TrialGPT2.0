@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03362138",
+  "title": "Artificial Intelligence-assisted Evaluation of Pigmented Skin Lesions",
+  "brief_summary": "Malignant melanoma (MM) is a deadly cancer, claiming globally about 160000 new cases per year and 48000 deaths at a 1:28 lifetime incidence (2016).\n\nThe golden standard, dermoscopy, enables Dermatologists to diagnose with a sensitivity of 40%, and a 8-12% specificity, approximately. Additional diagnostic abilities are restricted to devices which are either unproved or experimental.\n\nA new technology of Neuronal Network Clinical Decision Support (NNCD) was developed. It uses a dermoscopic imaging device and a camera able to capture an image. The photo is transferred to a Cloud Server and further analyzed by a trained classifier. Classifier training is aimed at a high accuracy diagnosis of Dysplastic Nevi (DN), Spitz Nevi and Malignant Melanoma detection with assistance from a Deep Neuronal Learning network (DLN). Diagnosis output is an excise or do not excise recommendation for pigmented skin lesions.\n\nA total of 80 subjects already referred to biopsy pigmented skin lesions will be examined by dermoscopy imaging in a non interventional study. Artificial Intelligence output results, as measured by 2 different dermoscopes, to be compared to ground truth biopsies, by either classifier decisions or a novel Modified Classifier Technology output decisions.\n\nPrimary endpoints are sensitivity and specificity detection of the NNCD techniques. Secondary endpoints are the positive and negative prediction ratios of NNCD techniques.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient aged 18-90 years\n* A pigmented lesion by dermoscopy.\n* Clinical management by the examining dermatologist results in biopsy\n* The diameter of the pigmented area is between 1 and 40 millimeters\n* The patient has consented to participate in the study and has signed the Informed Consent Form\n\nExclusion Criteria:\n\n* Non intact skin (ulcers, bleeding)\n* The lesion is located within 1 cm of the eye\n* The lesion is located on mucosal surfaces\n* The lesion is on or under nails",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects examined at a Dermatologic speciality clinic.",
+  "condition": [
+    "Melanoma",
+    "Pigmented Skin Lesion",
+    "Dysplastic Nevi"
+  ],
+  "overall_status": "UNKNOWN"
+}

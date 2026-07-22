@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT02024282",
+  "title": "Optimising Diagnosis and Antibiotic Prescribing for Acutely Ill Children in Primary Care",
+  "brief_summary": "Acute illness is the most common presentation of children attending ambulatory care settings. Serious infections (e.g. meningitis, sepsis, pyelonephritis, pneumonia) are rare, but their impact is quite large (increased morbidity, mortality, induced fear in parents and defensive behaviour in clinicians). Early recognition and adequate referral of serious infections are essential to avoid complications (e.g. hearing loss after bacterial meningitis) and their accompanied mortality. Secondly, we aim to reduce the number of investigations, referrals, treatments and hospitalisations in children who are diagnosed with a non-serious infection. Apart from the cost-effectiveness, this could lead to less traumatic experiences for the child and less fear induction for the concerned parent. Finally, we aim to support the clinicians to rationalise their antibiotic prescribing behaviour, resulting in a reduction of antibiotic resistance in the long run.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients aged 1 month to 16 years with an acute illness for a maximum of 5 days are included consecutively.\n\nExclusion Criteria:\n\n* Children are excluded if the acute episode was caused by a merely traumatic or neurological illness, intoxication, psychiatric or behavioural problem without somatic cause, or an exacerbation of a known chronic condition. If a physician includes children twice in the study within 5 days, the second registration is considered a repeated measurement on the same subject and is subsequently excluded from the analysis.",
+  "minimum_age": "1 Month",
+  "maximum_age": "16 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sepsis",
+    "Bacteraemia",
+    "Meningitis",
+    "Abscess",
+    "Pneumonia",
+    "Osteomyelitis",
+    "Cellulitis",
+    "Gastro-enteritis With Dehydration",
+    "Complicated Urinary Tract Infection",
+    "Viral Respiratory Infection Complicated With Hypoxia"
+  ],
+  "overall_status": "COMPLETED"
+}

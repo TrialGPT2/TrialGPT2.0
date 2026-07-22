@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03812692",
+  "title": "Validation of a Simplified MATRx Plus",
+  "brief_summary": "Sleep apnea (OSA) is a condition in which the air passage in the throat closes or partly closes during sleep and repeatedly interrupts breathing. The standard treatment for sleep apnea is continuous positive airway pressure (CPAP), but it is not suitable for all patients. Another treatment is to use an oral appliance in your mouth when you sleep. The appliance covers the upper and lower teeth and acts to pull the lower jaw forward, opening the throat passage and allowing normal breathing.\n\nOral appliance therapy does not treat sleep apnea effectively in everyone. In order to identify the people in whom oral appliance therapy will work, Zephyr Sleep Technologies has invented a feedback-controlled device that tests various positions of the lower jaw. This commercially available device, known as MATRx plus, is a Health Canada approved and FDA cleared motorized dental positioner that can be used in an overnight sleep study performed in the home. Temporary dental impression trays cover your upper and lower teeth. These are attached to a small motor that slowly and gently pulls your lower jaw forward under the control of a computer in response to real-time breathing events. The commercial MATRx plus device uses measures of airflow from a nasal cannula and blood oxygen saturation from a pulse oximeter to guide the movement of the lower jaw during the test. Though the test is accurate, the equipment can be somewhat cumbersome to apply. The purpose of the study is to validate a simplified version of the test that requires fewer sensors and sleep time.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Aged between 21 and 80 years\n2. Obstructive sleep apnea (ODI \\> 10 h-1)\n3. Body mass index \\< 45 kg/m2\n4. Neck circumference \\< 50 cm\n5. Absence of severe oxyhemoglobin desaturation during sleep, indicated by a mean value of oxyhemoglobin saturation (SaO2) \\> 87%\n6. Mandibular range of motion \\> 5 mm\n7. Adequate dentition (10 upper and 10 lower teeth)\n8. Ability to understand and provide informed consent\n9. Ability and willingness to meet the required schedule\n\nExclusion Criteria:\n\n1. Inability to breathe comfortably through the nose\n2. Central Sleep Apnea (\\> 50% of apneas are central)\n3. Anticipated change in medical therapy that could alter the severity of OSA during the protocol\n4. Anticipated change in body weight (5% or more) during the protocol\n5. Symptomatic, non-respiratory sleep disorder, e.g., restless leg syndrome or chronic insomnia\n6. Severe respiratory disorder(s) other than sleep disordered breathing\n7. Loose teeth, faulty restorations, or advanced periodontal disease\n8. Participation in other studies that could interfere with study protocol\n9. Pregnant or nursing\n10. Heart failure\n11. Cerebral vascular incident within the last 12 months\n12. Use of pacemaker or other life supporting device\n13. Regular use of CPAP or oral appliance therapy within 5 days of the PSG or HSAT (individuals on therapy wishing to participate may opt to cease therapy for the 5 nights prior to each test)",
+  "minimum_age": "21 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population will be representative of the general population of individuals with obstructive sleep apnea in North America.",
+  "condition": [
+    "Obstructive Sleep Apnea"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04144699",
+  "title": "Clinical Validation of Omron WheezeScan",
+  "brief_summary": "The WheezeScan sensitivity and specificity are set to statistically prove equal to or higher values than the predicate PulmoTrack device model 2020.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nMild to moderate diagnosed or suspected asthma, bronchitis, or bronchiolitis patients who meet all of the following criteria are considered as eligible.\n\n1. Does the subject have mild to moderate diagnosed or suspected asthma, bronchitis, or bronchiolitis?\n2. Is the subject between the ages of 3 months to 8 years old?\n3. Is the parent or legal guardian available, and capable and willing to give a consent on the child's behalf.\n\nExclusion Criteria:\n\nThe subjects will be excluded from the study, if they have any of the following criteria.\n\n1. Does the subject have skin rashes or wounds on the chest?\n2. Does the subject have known allergies or irritant contact dermatitis or having hypersensitive skin?\n3. Does the subject have a defibrillator and/or pacemaker (which could interfere with the sounds to be detected)?\n4. Does the subject have an allergy to disinfecting alcohol?\n5. Does the subject have wheezes caused by not asthma, such as reflux esophagitis, pneumonia, vocal cord dysfunction, Tracheomatosis?\n6. Does the subject have a heavy runny nose?\n7. Is it difficult to hear auscultation due to the subject fussing, crying or vocalizing at data collection?\n8. Is the subject having difficulty breathing or having severe symptoms?\n9. Was the subject enrolled more than once for the same resulted breath sounds?\n\n   * Note: The subject maybe enrolled once per arm (once wheezing, once non-wheezing).",
+  "minimum_age": "3 Months",
+  "maximum_age": "8 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Wheezing Total : Min.120, Wheezing 3\\~11months : Min.19, Wheezing 12\\~23months : Min.19, Wheezing 24\\~35months : Min.19, Wheezing 36\\~107months : Min.38, No wheezing total : Min.120, No wheezing 3\\~11months : Min.19, No wheezing 12\\~23months : Min.19, No wheezing 24\\~35months : Min.19, No wheezing 36\\~107months : Min.38",
+  "condition": [
+    "Asthma in Children",
+    "Bronchitis",
+    "Bronchiolitis"
+  ],
+  "overall_status": "UNKNOWN"
+}

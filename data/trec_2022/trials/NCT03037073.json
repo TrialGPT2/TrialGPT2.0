@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03037073",
+  "title": "Duloxetine for Succinylcholine-induced Postoperative Myalgia",
+  "brief_summary": "For \\>60 years, succinylcholine is still being administered as a selective relaxant for rapid sequence intubation by anesthesiologists in many countries. It has been shown to possess unique features such as low cost, fast-acting, short half-life, safe metabolites, and causing excellent muscle relaxation for intubation. It has many side effects as well. Postoperative myalgia (POM), with an incidence rate of \\~41%-92%, is one of the most common side effects of this drug and can take several days to cause significant discomfort in patients. However, its effect is felt more in the throat, neck, shoulder, and abdominal muscles and is common among patients with outpatient surgery. Due to its unknown real context of pathogenesis and in an effort to reduce the incidence and severity of succinylcholine-induced myalgia, various medications including nondepolarizing muscle relaxants, benzodiazepines, magnesium sulfate, opioids, gabapentin, and nonsteroidal anti-inflammatory drugs have been tested, with varying degrees of success.\n\nDuloxetine is an US Food and Drug Administration-approved analgesic used for various pain syndromes, including diabetic peripheral neuropathy and fibromyalgia. The underlying mechanism for duloxetine against these pain syndromes remains unclear, but it may involve three major central nervous system (CNS) targets: (1) serotonin transporter (Ki, 4.6 nM), (2) norepinephrine transporter (Ki, 16 nM), and (3) dopamine transporter (Ki, 370 nM). In the past, the antidepressant action was often thought to be the primary mechanism for its analgesic efficacy. This theory was addressed later by \"Path Analysis,\" and the result showed that duloxetine affects pain directly rather than indirectly through mood improvement. In addition to these multiple CNS targets, duloxetine, like the antidepressant amitriptyline and the local anesthetic bupivacaine, blocks voltage-gated Na+ channels. Because neuronal Na+ channels are present in both CNS and peripheral nervous systems, such a finding expands the possible analgesic action and locus of duloxetine.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2",
+    "PHASE3"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* age 20-60 years\n* either sex\n* ASA physical status I or II\n\nExclusion Criteria:\n\n* known allergy to duloxetine, abnormal renal and liver function tests, history of chronic pain\n* regular medication with SNRI or analgesics (excluding acetaminophen and nonsteroidal anti-inflammatory drugs)\n* patients with a history of seizure disorders\n* hyperkalemia\n* systemic illness like hypertension\n* diabetes\n* increased intracranial and intraocular pressure\n* pregnant or breast-feeding females.",
+  "minimum_age": "20 Years",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Postoperative Myalgia"
+  ],
+  "overall_status": "COMPLETED"
+}

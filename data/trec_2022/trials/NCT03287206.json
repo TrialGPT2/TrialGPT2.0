@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03287206",
+  "title": "Medico-economic Evaluation of Different High-throughput Sequencing Strategies in the Diagnosis of Patients With Intellectual Deficiency",
+  "brief_summary": "Intellectual deficiency (ID) is a veritable public health issue because it affects 1 to 3% of the population at large. Currently, in France, the diagnosis is based on clinical expertise, the use of DNA microarray analysis, screening for fragile-X syndrome and, if necessary, a study of target genes depending on the clinical data. Although clinical expertise is not enough to target one gene in particular, these different tools currently lead to diagnosis in only 20% of patients on average (higher percentage in cases of syndromic intellectual deficiency), sometimes after numerous expensive biological examinations.\n\nThanks to high-throughput sequencing (HTS), medical genetics is experiencing a major technological upheaval, originating from the development of sequencing panels of target genes, such as, for example, the DI459 panel, composed of 459 genes implicated in or likely to be implicated in ID, developed by the team in Strasbourg and whole-exome sequencing (WES). The deployment of HTS in diagnosis has occurred at different speeds depending on the country, some of which have been using it in routine diagnosis for several years. The type of strategy to adopt in development anomalies is still a matter of debate in France, in the absence of results from cost-effectiveness analyses; this absence has hampered the implementation of these technologies.\n\nIn the diagnosis of ID, the DI459 panel has a diagnostic yield of 25%. Data in the literature also show a high efficacy of WES in patients with ID: approximately 32% of genetic diagnoses (progressively increasing thanks to possible reanalysis as knowledge of genomics advances) and 10% of additional diagnoses through the identification of chromosomal micro-rearrangements, making an expected total of 42% of diagnoses. WES could thus replace array-CGH. The cost is higher than that for the DI44 and DI459 panels, but it means that examinations don't have to be repeated sequentially over time if the investigations are negative.\n\nThe question of medico-economic value is thus central so as to determine which strategy is the most effective. A few medico-economic studies, comparing classical investigations with WES, have already been carried out concerning the use of HTS for diagnostic purposes, but none have concerned ID, or compared panel sequencing with WES. In this context, a medico-economic study is essential in France, because ultimately the choice of the most appropriate HTS strategy in the diagnosis of ID will have major repercussions not only clinical and economic, but also for society at large, on the one hand because of the benefits 1) for the management and prognosis of patients, and 2) for families as they will have improved access to genetic counselling. It is important to note that the Genetic community has never experienced such a huge technological innovation, which will lead to a massive increase in diagnostic yield, thus justifying the interest that the community must give to this innovation.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients (children and adults) with intellectual deficiency (ID), whatever the degree\n* Absence of a clear clinical diagnosis at the first consultation for the dysmorphology assessment\n* Patients who have never undergone genetic investigations\n* Consent of the patient or his/her legal representative\n* Patient with national health insurance cover\n* Samples available from both parents\n\nExclusion Criteria:\n\n* Pregnant or breast-feeding women\n* Patients presenting learning disorders",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "patients attending a consultation for intellectual deficiency",
+  "condition": [
+    "Intellectual Deficiency"
+  ],
+  "overall_status": "COMPLETED"
+}

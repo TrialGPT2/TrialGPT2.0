@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04408170",
+  "title": "Facilitating AcceLerated Clinical Validation Of Novel Diagnostics for COVID-19 (FALCON-C19)",
+  "brief_summary": "The United Kingdom and wider world is in the midst of the 2019 novel coronavirus (SARS-CoV-2) pandemic. Accurate diagnosis of infection, identification of immunity and monitoring the clinical progression of infection are of paramount importance to our response. Widespread population testing has proven difficult in western countries and has been limited by test availability, human resources and long turnaround times (up to 72 hours). This has limited our ability to control the spread of infection and to develop effective clinical pathways to enable early social isolation of infected patients and early treatment for those most at risk. The life sciences industry has responded to the pandemic by developing multiple new in vitro diagnostic tests (IVDs). To leverage the potential clinical benefit of those tests we require efficient but robust clinical evaluation. Therefore, to optimise resource utilisation in this global pandemic, we will conduct a platform adaptive diagnostic study on a national level, utilising a national network of expertise in the evaluation of diagnostic technology. This study will enable the evaluation of multiple assays in three priority areas:\n\n1. Evaluation of the diagnostic accuracy of IVDs for active infection with SARS-CoV-2\n2. Evaluation of assays monitoring the immune response to SARS-CoV-2 infection\n3. Evaluation of the prognostic value of commercially available tests for predicting prognosis in patients with suspected or confirmed SARS-CoV-2 infection. (This arm will not be active immediately but may be activated after initiation).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Work Stream A (in-hospital; Group 1 and Group 2):\n\nGroup 1 Inclusion Criteria:\n\nWe will include participants (patients or staff):\n\n1. That are 18 years or older\n2. That will require testing for COVID-19 in the opinion of the treating clinician\n3. That may have presented with acute symptoms of COVID-19 (e.g. fever, cough, dyspnoea, anosmia) or chest x-ray changes or they may be asymptomatic but require testing for other reasons\n\nGroup 2 Inclusion Criteria:\n\nWe will include participants:\n\n1. That are 18 years or older\n2. That have been admitted for another reason other than suspected SARS-CoV-2 infection, but when routinely swabbed they have been identified as positive for SARS-CoV-2 PCR\n\nWork Stream B (Group 3):\n\nWe will include participants:\n\n1. That are 18 years or older\n\n   EITHER:\n2. They have been identified as positive for SARS-CoV-2 PCR through testing at national laboratory infrastructure OR\n3. They have been identified as negative for SARS-CoV-2 PCR through testing at national laboratory infrastructure\n\nWork Stream C (Group 4):\n\nWe will include participants:\n\n1. That are 18 years or older\n2. Who are undergoing testing for COVID-19, whether they are symptomatic or symptomatic for COVID-19\n\nExclusion Criteria for all Work Streams:\n\n1. Patients where it is impossible/unsafe to obtain the required research samples\n2. Prisoners\n3. Patients where sampling is not feasible",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Work Stream A: Patients who present or are referred to secondary/tertiary care settings due to possible SARS-CoV-2 infection\n\nWork Stream B: Known COVID-positive and/or COVID-negative community testing\n\nWork Stream C: Undifferentiated community testing",
+  "condition": [
+    "Coronavirus Infection",
+    "COVID-19"
+  ],
+  "overall_status": "COMPLETED"
+}

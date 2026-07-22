@@ -1,0 +1,48 @@
+{
+  "nctid": "NCT03152760",
+  "title": "Exploring Gut-Brain and Brain-Gut Interactions in Alcohol Use Disorder Via Microbiota Investigations: A Pilot Study",
+  "brief_summary": "Background:\n\nAlcohol use disorder (AUD) affects about 10 percent of people in the U.S. Studies show a relationship between the bacteria (microbiota) in the gut and the brain. Researchers think this may influence AUD. They want to learn more about changes in gut bacteria that may occur in people with AUD.\n\nObjectives:\n\nTo study gut microbiota differences in current drinking versus abstinent people with AUD. Also to test if gut microbiota are related to alcohol cue-induced craving.\n\nEligibility:\n\nPeople ages 21-70 who have AUD (both abstinent and current heavy drinkers) or are healthy, moderate drinkers\n\nDesign:\n\nParticipants will be screened in Protocol 14-AA-0181.\n\nParticipants will have a first visit. They will have 4 more visits within about 10 days. Visits include:\n\nFecal sample collection\n\nPhysical exam\n\nBlood tests\n\nAssessment of diet and alcohol use\n\nX-rays to test body composition,\n\nThey will sit under a ventilation hood to measure metabolism. They must fast 12 hours before this test.\n\nThey will drink a solution. Their urine is collected over 5 hours.\n\nUltrasound of the liver area. They must fast overnight before this test.\n\nAt 2 visits, they will be in a bar-like setting. They will be exposed to stimuli associated with eating and drinking. They will rate their urge to drink alcohol and their food cravings.\n\nParticipants will collect their stool throughout the study. They will also record information about their diet and daily activities like sleep and exercise.\n\nAt the end of the study, participants will discuss their drinking. They will receive counseling if needed.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Male or female individuals 21-70 years old (inclusive)\n\nSpecific For Abstinent Group; AB\n\n* Current Alcohol Use Disorder (AUD) by DSM-5 criteria\n* Being alcohol abstinent for at least 4 weeks, with a minimum of 2 weeks in a non-protective environment at the time of study screening.\n\nSpecific For Current Drinking Group; CD\n\n* Current Alcohol Use Disorder (AUD) by DSM-5 criteria\n* Participants not seeking treatment for their alcohol use will be included.\n* Satisfying heavy drinking criteria during the 4-weeks prior to screening (i.e., for men, \\>14 standard drinks in any one week or greater than or equal to 4 drinks per occasion at least once per month over the past 30 days; for women, \\>7 drinks per week or greater than or equal to 3 drinks per occasion at least at least once per month over the past 30 days) and any drinking during the 2-day prior to signing the study-specific consent.\n\nSpecific For Healthy Control Group; HC\n\n* No current or past diagnostic of AUD by DSM-5 criteria\n* Moderate alcohol consumers: i.e., up to 1 drink per day on average and not meeting NIAAA criteria for:\n* -heavy (i.e., for men, \\>14 standard drinks in any one week or greater than or equal to 4 drinks per occasion at least once per month over the past 30 days; for women, \\>7 drinks per week or greater than or equal to 3 drinks per occasion at least at least once per month over the past 30 days)\n* -or binge drinking (i.e., drinking 5 or more standard drinks on the same occasion on at least 1 day in the past 30 days for both male and female)\n\nIf any answer is No , subject may not be enrolled.\n\nEXCLUSION CRITERIA:\n\nExclusion - All Participants (at the time subject are evaluated for this protocol)\n\n* Current pregnancy or lactation\n* Positive Urine Drug Test for illegal drugs\n* Body Mass Index (BMI) less than or equal to 18.5 kg/m(2) or BMI greater than or equal to 40 kg/m(2)\n* Presence of active implantable electronic devices (e.g., defribillators, pumps, pacemakers)\n* Current medical history of the following medical conditions:\n\n  --diabetes; chronic gut inflammatory diseases; GI or any other type of cancer; short bowel syndrome; conditions requiring parenteral nutrition;\n* Diarrhea or other symptoms of possible enteritis in the past 7 days (self-reported)\n* Recent history of sigmoidoscopy or colonoscopy (past 30 days)\n* Current use (past 90 days) of the following medications:\n\n  --oral antimicrobials (specifcally: antiviral, antifungal, or antibiotics); prebiotics; probiotics; laxatives; antispasmodic drugs; oral, IM or IV steroids\n* Any other reason or clinical condition that the PI, or Medical Advisory Investigator (MAI) considers unsafe or not in the best interest of the study research integrity\n\nIf any answer is Yes , subject may not be enrolled.",
+  "minimum_age": "21 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Male or female individuals 21-70 years old Individuals may come to the NIH/NIAAA from a variety of community settings ranging from primary residences, shelters and/or other health care facilities",
+  "condition": [
+    "Alcoholism"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-oncology observational study of alcohol use disorder and healthy controls. There is no systemic therapy for advanced disease involved, and line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Abstinent Group (AB)",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes individuals with alcohol use disorder who have been abstinent for at least 4 weeks. There is no mention of cancer or systemic therapy for advanced disease, so line-of-therapy intent does not apply."
+    },
+    {
+      "cohort_label": "Current Drinking Group (CD)",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes individuals with alcohol use disorder who are current heavy drinkers. There is no reference to cancer or systemic therapy for advanced disease, so line-of-therapy intent is not applicable."
+    },
+    {
+      "cohort_label": "Healthy Control Group (HC)",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes healthy controls with no history of alcohol use disorder. There is no cancer population or systemic therapy for advanced disease, so line-of-therapy intent does not apply."
+    }
+  ]
+}

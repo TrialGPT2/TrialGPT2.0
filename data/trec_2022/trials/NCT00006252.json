@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00006252",
+  "title": "Fludarabine and Cyclophosphamide Followed by Peripheral Stem Cell Transplant in Treating Patients With Leukemia or Lymphoma",
+  "brief_summary": "RATIONALE: Giving chemotherapy drugs, such as fludarabine and cyclophosphamide, before a donor peripheral blood stem cell transplant helps stop the growth of cancer cells. It also helps stop the patient's immune system from rejecting the donor's stem cells. When the healthy stem cells from a donor are infused into the patient they may help the patient's bone marrow make stem cells, red blood cells, white blood cells, and platelets.\n\nPURPOSE: This phase II trial is studying how well fludarabine and cyclophosphamide followed by peripheral stem cell transplant works in treating patients with leukemia or lymphoma.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* One of the following histologically confirmed diagnoses:\n\n  * Chronic lymphocytic leukemia\n\n    * Absolute lymphocytosis greater than 5,000/mm\\^3\n    * Morphologically mature lymphocytes with less than 55% prolymphocytes\n    * Lymphocyte phenotypic expression of CD19 and CD5\n    * Failed at least 1 prior regimen\n\n      * Progressive lymphocytosis with more than 50% increase in peripheral lymphocytosis or a progressive lymph node or spleen enlargement (at least 25% enlargement or the appearance of new lymph nodes) that persists for at least 4 weeks despite concurrent or prior drug treatment OR\n    * At least 1 of the following high-risk factors and not in first complete remission\n\n= 17p deletion = 11q deletion\n\n* Unmutated VH gene status\n* p53 mutations\n\n  * Prolymphocytic leukemia (PLL)\n\n    * Absolute lymphocytosis greater than 5,000/mm\\^3\n    * Morphologically mature lymphocytes with more than 55% prolymphocytes\n  * Low-grade non-Hodgkin's lymphoma\n\n    * Small lymphocytic lymphoma\n    * Follicular center lymphoma (grade I or II)\n    * Diffuse (predominately small cell type)\n    * Marginal zone, B-cell lymphoma\n    * No transformed lymphoma\n    * Failure of at least 1 prior regimen OR\n    * At least 3 of the following risk factors:\n* Over 60 years of age\n* Performance status greater than 1\n* LDH greater than normal\n* More than 1 site of extranodal disease\n* Disease stage III or IV\n\n  * Mantle cell lymphoma\n\n    * Any stage\n    * Ineligible for protocol CALGB-59908\n    * At least 1 prior treatment regimen\n    * At least 1 of the following:\n* Immunophenotypic expression of CD5 and CD19 and absence of CD23\n* Cytogenetic analysis with presence of t(11;14)\n* Overexpression of cyclin D1\n* Rearrangement of BCL1 gene\n\n  * Responsive or stable disease to most recent prior therapy\n\n    * Prior therapy for PLL not required\n  * Must have HLA identical sibling (6/6) donor by serologic typing (A, B, DR)\n\n    * No syngeneic donors\n    * No age restriction NOTE: A new classification scheme for adult non-Hodgkin's lymphoma has been adopted by PDQ. The terminology of \"indolent\" or \"aggressive\" lymphoma will replace the former terminology of \"low\", \"intermediate\", or \"high\" grade lymphoma. However, this protocol uses the former terminology.\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* Under 70\n\nPerformance status:\n\n* Not specified\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* Granulocyte count at least 500/mm\\^3\\*\n* Platelet count at least 50,000/mm\\^3\\* NOTE: \\*Unless attributable to disease\n\nHepatic:\n\n* Bilirubin no greater than 3 times upper limit of normal (ULN)\\*\n* AST no greater than 3 times ULN\\* NOTE: \\*Unless attributable to disease\n\nRenal:\n\n* Creatinine clearance at least 40 mL/min, unless attributable to disease\n\nCardiovascular:\n\n* LVEF at least 30% by MUGA\n\nPulmonary:\n\n* DLCO greater than 40%\n* No symptomatic pulmonary disease\n\nOther:\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* HIV negative\n* No uncontrolled diabetes mellitus\n* No active serious infection\n* No known hypersensitivity to E. coli-derived products\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No prior autologous transplantation\n\nChemotherapy:\n\n* At least 4 weeks since prior chemotherapy\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* At least 4 weeks since prior radiotherapy\n\nSurgery:\n\n* At least 4 weeks since prior surgery",
+  "minimum_age": "",
+  "maximum_age": "69 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Leukemia",
+    "Lymphoma"
+  ],
+  "overall_status": "COMPLETED"
+}

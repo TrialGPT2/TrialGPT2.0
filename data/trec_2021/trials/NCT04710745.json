@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04710745",
+  "title": "Atrial Fibrillation in Relationship to Plasma Biomarkers",
+  "brief_summary": "The general objective of this study is to:\n\nA. To identify novel plasmatic biomarkers associated with prevalent/incident atrial fibrillation in patients with high risk for AF and stroke.\n\nB. To assess predictive ability of novel plasmatic biomarkers (especially apelin and miRNAs) on prevalent/incident atrial fibrillation in patients with high risk for AF and stroke.\n\nC. To validate predictive models from previous studies based on comorbidities, age, sex, BMI, NT-proBNP, FGF-23, IGF-1 and IGFBP-1 on prevalent/incident AF in patients with high risk for AF and stroke.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nGeneral inclusion criteria:\n\n* AGE \\> 50 years\n* No history of supraventricular arrhythmia\n* Sinus rhythm at inclusion\n* CHADSVASc score \\> 2 in men (\\> 3 in female)\n* More than 3 specific criteria for inclusion\n* Written informed consent is obtained before any study-related assessment is performed\n\nSpecific inclusion criteria:\n\n* Age \\> 65\n* Age \\> 75\n* BMI \\> 30\n* Heart failure with preserved LVEF (according to ESC GL for HF)\n* Ischemic stroke\n* Left atrial diameter \\> 45mm\n* Chronic obstructive pulmonary disease\n* Arterial hypertension\n* PR interval \\> 200ms\n* History of MI or (objective evidence of) chronic coronary syndrome\n* Peripheral artery disease\n* Thyroid disease\n\nExclusion Criteria:\n\n* History of any supraventricular or ventricular arrhythmia (excluding premature contractions and 1st degree AV block)\n* Therapy with anticoagulants at the time of inclusion\n* Acute coronary syndrome less than 1 month prior to inclusion\n* History of cardiac surgery\n* Diabetes mellitus type 2\n* Reduced LVEF (\\<50%)\n* Acute or decompensated heart failure at the time of inclusion\n* Cardiomyopathy\n* Systemic inflammatory disease or acute inflammatory disease\n* Active malignancy\n* Alcoholism (\u2265 8 drinks/week)\n* Renal Disease (Dialysis/ transplant/ CrCl \\< 1ml/s)\n* Liver disease (cirrhosis/ transaminase \\> 3x ULT/ bilirubin \\> 2x ULT)\n* Severe or moderate mitral stenosis\n* Pregnancy",
+  "minimum_age": "50 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients from Slovak hospitals and outpatient clinics in sinus rhythm without history of AF, with high risk for ischemic stroke and AF. CHA2DS2-VASc score \\> 2 (for females \\> 3) and with more than 3 specific criteria for inclusion.",
+  "condition": [
+    "Atrial Fibrillation"
+  ],
+  "overall_status": "UNKNOWN"
+}

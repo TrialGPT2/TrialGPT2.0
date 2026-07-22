@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01226394",
+  "title": "Trial Comparing Simple Follow-up to Exploratory Laparotomy Plus \"in Principle\" (Hyperthermic Intraperitoneal Chemotherapy) HIPEC in Colorectal Patients",
+  "brief_summary": "Multicentric randomised trial. Patients with a high risk of developing colorectal Peritoneal Carcinomatosis (PC) after resection of their primary will be informed, will sign the consent and will be pre-registered. All patients will receive the current standard adjuvant treatment : 6 months of systemic chemotherapy (currently the Folfox-4 regimen which could be modified if the standard is modified). Then a work-up is done to exclude recurrence. The likelihood of a recurrence is low but if this occurs, the patient will not be randomised and will be treated with the best known treatment. If the work-up is negative, patients will be randomised to surveillance alone (control group) or exploratory laparotomy + HIPEC (experimental group).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\nA) Patients presenting with the following history:\n\n1. Histologically-proven colorectal adenocarcinoma\n2. Presenting at the time of resection of the primary with one of the following 4 criteria (criteria indicating a high risk of developing PC) :\n\n   * Minimal PC, resected at the same time as the primary\n   * Ovarian metastases\n   * Rupture of the primary tumour inside the peritoneal cavity,\n   * Iatrogenic rupture of the primary tumour during surgery\n\nB) Who have received standard systemic adjuvant chemotherapy (6 months of systemic chemotherapy) :\n\n* Chemotherapy with the Folfox 4 regimen (the current standard treatment ; it can be modified in the future in the two groups, if the standard is modified\u2026).\n* Given on an intent-to-treat basis (it can be stopped prematurely for miscellaneous reasons\u2026);\n\nC) Patients who do not present any sign of tumour recurrence at the end of these 6 months of chemotherapy.\n\nD) Patients with the following general characteristics:\n\n1. Age between 18 and 70 years,\n2. Performance Status WHO \\< 2, life expectancy \\> 12 weeks,\n3. Haematological parameters : Polynuclear neutrophils \u00b3 1.5x109/L, platelets \u00b3 100x109/L,\n4. Liver function : Total Bilirubin \u00a3 1.5 x ULN, AST (SGOT) et ALT (SGPT) \u00a3 3 x ULN, alkaline phosphatases \u00a3 3 x ULN,\n5. Renal function : Plasma creatinine \u00a3 1,25 x ULN,\n6. Operable patients,\n7. Grade \u00a3 2 peripheral neuropathy (CTC AE v3.0 annex 7)\n8. Patients entitled to French National Health Insurance coverage.\n\nE)Patients will be informed and a signed consent form will be obtained before initiating any procedure specific to the trial.\n\nExclusion Criteria:\n\n1. Cancers of non colorectal origin, particularly, appendiceal cancers are excluded\n2. Patients presenting with a detectable recurrent tumour\n3. Grade \u2265 3 Peripheral neuropathy\n4. History of cancer (excepted cutaneous basocellullar cancer or in situ carcinoma of the uterine cervix) with a recurrence during the 5 previous years\n5. Patients already included in another trial concerning first-line treatment 6) Pregnant women or likely to be pregnant\n\n7\\) Persons under guardianship 8) Follow-up impossible for geographic, social or psychological reasons",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Colorectal Cancer With a Resected Minimal Synchronous PC",
+    "Ovarian Metastases",
+    "Tumour Rupture in the Abdominal Cavity"
+  ],
+  "overall_status": "UNKNOWN"
+}

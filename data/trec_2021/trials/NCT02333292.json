@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02333292",
+  "title": "Efficacy and Safety of Therapy Against HCV Based on Direct-acting Antivirals in Real-life Conditions",
+  "brief_summary": "Objectives: 1) To evaluate la proportion of hepatitic C virus (HCV)-monoinfected patients who show sustained virologic response (SVR) to treatment including direct-acting antivirals (DAAs) in the clinical practice in clinical units that treat infectious diseases and 2) to determine the frequency of adverse events, including those that are severe and/or cause treatment interruption, in DAA-based therapy in this setting.\n\nDesign: Multicentric, prospective post-authorised cohort study. Setting: Hospitals of the Hepatitis Study Group (GEHEP) of the Spanish Society of Infectious Diseases and Microbiology (SEIMC).\n\nStudy population: HCV-monoinfected patients that initiate DAA-based treatment outside clinical trials.\n\nVariables: The primary efficacy outcome variable is the proportion of patients who reach undetectable HCV-RNA 12 weeks after the scheduled end of therapy (SVR12). The primary safety outcome variable is the percentage of subjects who discontinue therapy due to adverse events.\n\nStatistical analysis: A descriptive study will be performed, as well as a double sensibility analysis of the frequency of SVR12 using both an intention-to-treat and an on-treatment approach. Those variables that are associated with SVR12 with a p-value \\<0.2 will be included in a logistic regression analysis in which SVR12 will be the dependent variable.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* older than 18 years\n* initiation of therapy including a direct-acting antiviral against HCV\n\nExclusion Criteria:\n\n* HIV-infection\n* unable to provide written informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "HCV-infected patients who initiated treatment against HCV including a direct-acting antiviral",
+  "condition": [
+    "Chronic Hepatitis C Infection"
+  ],
+  "overall_status": "COMPLETED"
+}

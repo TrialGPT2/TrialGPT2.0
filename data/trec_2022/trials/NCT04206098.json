@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04206098",
+  "title": "Chart Review of Patients With COPD, Using Electronic Medical Records and Artificial Intelligence",
+  "brief_summary": "Chronic obstructive pulmonary disease (COPD) is the third leading cause of death in the World since 2003. Many people suffer from this disease or its complications for many years and die prematurely. In the European Union, the total direct costs of respiratory diseases are estimated to be around 6% of the total healthcare budget, with COPD accounting for 56% (38.6 billion Euros) of the costs of respiratory diseases.\n\nIn the natural history of COPD, many patients may experience acute exacerbations (AECOPD) that are described as episodes of sustained worsening of the respiratory symptoms that result in additional therapy. These episodes of exacerbation that often require been seen in the emergency department and/or a hospital admission are associated with significant morbidity and mortality; they are responsible for a significant portion of the economic burden of the disease too. The pharmacological approach used in the management of AECOPD (inhaled bronchodilators, corticosteroids, and antibiotics), has the objective to minimize the negative impact of the current exacerbation and to prevent subsequent events.\n\nDespite the collaborative effort between the European Respiratory Society, the American Thoracic Society, and others to provide clinical recommendations for the prevention of AECOPD, there is still a considerable number of patients that are prone to suffer from recurrent exacerbations and to experience a more severe impairment in health status.\n\nBased on all the above, the aim is to identify the factors potentially associated with hospital admission in patients with AECOPD in English, French, German, and Spanish, speaking countries, and to develop a predictive model that predicts the risk of hospitalization in this group of patients, by using artificial intelligence. In this study proposes to take advantage of SAVANA, a new clinical platform, created in the context of the era of electronic medical records (EMRs), to analyse the information included in the electronic medical files (i.e., big data). This clinical platform is a powerful free-text analysis engine, capable of meaningfully interpreting the contents of the EMRs, regardless of the management system in which they operate. In this context, this machine learning analytical method can be used to build a flexible, customized and automated predictive model using the information available in EMRs.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Subjects aged \u2265 35-year-old, smokers or former smokers of more than 10 pack-years.\n* Had a diagnosis of COPD (a post-bronchodilator ratio forced expiratory volume in the first second (FEV1) / forced vital capacity (FVC) \\< 0.70, and the presence of respiratory symptoms such as cough, sputum, and dyspnoea).\n* Admitted for ''respiratory disease'' \\[respiratory infection or pleural effusion (OR) respiratory failure (OR) right/left heart failure (OR) chronic bronchitis (OR) bronchospasms (AND) \\[historical diagnosis of COPD (OR) a documented FEV1/FVC \\< 0.70 in the absence of other obstructive diseases, such as asthma or bronchiolitis\\].\n\nExclusion Criteria:\n\n* Patients with a specific diagnosis upon admission of pulmonary oedema, pneumonia, radiological infiltration, pulmonary embolism, pneumothorax, rib fractures, aspiration, or any other associated respiratory or of non-respiratory condition, such as major cardiopathy with chronic heart failure, extended neoplasia, liver or kidney failure.",
+  "minimum_age": "35 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "COPD patients that may experience acute exacerbations requiring emergency department and /or a hospital admission",
+  "condition": [
+    "Chronic Obstructive Pulmonary Disease"
+  ],
+  "overall_status": "UNKNOWN"
+}

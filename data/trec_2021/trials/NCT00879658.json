@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT00879658",
+  "title": "Safety, Tolerability, Efficacy and Optimal Dose Finding Study of BAF312 in Patients With Relapsing-remitting Multiple Sclerosis",
+  "brief_summary": "The purpose of this study was to determine the dose-response curve for the MRI-based efficacy of BAF312 compared with placebo in patients with Relapsing-Remitting Multiple Sclerosis (RRMS), and to characterize its safety and tolerability for the selection of an optimal dose in a later phase III study.\n\nStudy Design Rationale An adaptive design was chosen to characterize the dose response curve of BAF312. In a first period of study (\"Period 1\"), three doses of BAF312 and placebo were tested for MRI efficacy. Based on an interim analysis (IA) after 3 months of treatment, two additional active doses for period 2 wereselected , thus allowing to optimize the overall determination of the dose response curve with 5 data points of active treatment, and placebo. The doses were kept blinded. The use of Modeling and Simulation allowed to establish the full range and dynamics of the dose-response curve in silico, and hence the definition of the optimal dose for later phase III studies.\n\nThe choice of placebo as treatment control was essential to obtain information on the specific compared to non-specific effects of active treatment and provides the best way of evaluating the efficacy and of assessing the true safety and tolerability profile of BAF312. Short-term placebo exposure (6 (Period 1) or 3 (Period 2) months, respectively) was unlikely to lead to longer term differences in outcomes \\[Polman, 2008\\]. The use of an adaptive design strategy contributed to a significant reduction of placebo exposure, both in terms of the number of patients and duration, as compared to conventional trial models.\n\nPatients having completed the study within the protocol might be eligible for the Extension Phase study where they receive long-term BAF312 treatment (a separate protocol).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Key inclusion Criteria:\n\n* Diagnosis of Multiple Sclerosis (MS) as defined by revised McDonald criteria.\n* A relapsing-remitting course of disease with at least 1 documented relapse during the previous year, or 2 documented relapses during the previous 2 years, or a positive gadolinium (Gd)-enhanced MRI scan at screening (in case the first MRI scan obtained at screening is negative, a second scan may be obtained 1 month later.)\n* An Expanded Disability Status Scale (EDSS) score of 0-5.0 inclusive at randomization.\n* Neurologically stable with no evidence of relapse or corticosteroid treatment within 30 days prior to randomization.\n* Patients who decline initiation or continuation of treatment with available disease modifying drugs for MS, for whatever reason, after having been informed about their respective benefits and possible adverse events by the investigator.\n\nKey exclusion Criteria:\n\n* A manifestation of another type of MS than RRMS\n* History of chronic disease of the immune system other than MS\n* Malignancies, diabetes, significant cardiovascular, pulmonary and hepatic diseases and conditions\n* Active infections",
+  "minimum_age": "18 Years",
+  "maximum_age": "55 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Relapsing-remitting Multiple Sclerosis"
+  ],
+  "overall_status": "COMPLETED"
+}

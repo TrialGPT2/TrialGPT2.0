@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04323631",
+  "title": "Hydroxychloroquine for the Treatment of Patients With Mild to Moderate COVID-19 to Prevent Progression to Severe Infection or Death",
+  "brief_summary": "This is a multi-center, randomized controlled, superiority, open label trial. The objective of this trial is to evaluate the efficacy of HCQ in patients with newly diagnosed COVID-19 who have mild to moderate disease or at risk for complications. We aim to demonstrate decrease in progression to severe pneumonia and hospital related complications among patients who are treated with HCQ compared to patients who are not.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patients (\\>18 years)\n* Confirmed COVID-19 infection by real-time PCR from a respiratory or other body sample within 48 hours of testing.\n* Mild to moderate infection or asymptomatic patients with comorbidities: Symptomatic patients with fever \\>37.9\u00baC or cough or dyspnea or chest pain, not fulfilling severity exclusion criteria. We will include patients regardless of time since symptom onset. In addition, we will include asymptomatic patients with comorbidities including cardiac, pulmonary, diabetes, chronic renal failure or liver disease hospitalized for observation.\n* Informed consent from patient or legal representative.\n\nExclusion Criteria:\n\n* Severe infection, defined as need for invasive or non-invasive ventilator support, ECMO or shock requiring vasopressor support.\n* Unable to take oral medication\n* Known allergy to HCQ or chloroquine\n* Prolonged QT, defined as QTc \u2265450 milliseconds for men and as QTc \u2265470 for women\n* Severely reduced LV function (Ejection fraction\\<30%)\n* Retinopathy\n* Pregnancy or breast feeding\n* Concomitant treatment with azithromycin, flecainide, amiodarone, digoxin, procainamide, propafenone, thioridazine, pimozide.\n* Chronic chloroquine/ HCQ treatment (within 1 month)\n* Need for hemodialysis\n* Participating in another RCT for treatment of COVID-19",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID-19"
+  ],
+  "overall_status": "WITHDRAWN"
+}

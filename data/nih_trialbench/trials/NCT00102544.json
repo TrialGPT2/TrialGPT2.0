@@ -1,0 +1,38 @@
+{
+  "nctid": "NCT00102544",
+  "title": "Use of Tracking Devices to Locate Abnormalities During Invasive Procedures",
+  "brief_summary": "This study will evaluate the accuracy and effectiveness of an experimental tracking device for locating abnormalities during invasive procedures, such as biopsy or ablation, that cannot easily be visualized by usual imaging techniques, such as computed tomography (CT) scans or ultrasound. Some lesions, such as certain liver or kidney tumors, small endocrine abnormalities, and others, may be hard to find or only visible for a few seconds. The new method uses a needle with a miniature tracking device buried inside the metal that tells where the tip of the needle is located, somewhat like a mini GPS, or global positioning system. It uses a very weak magnet to localize the device like a miniature satellite system. This study will explore whether this system can be used in the future to more accurately place the needle in or near the desired location or abnormality.\n\nPatients 18 years of age and older who have a lesion that needs to be biopsied or an ablation procedure that requires CT guidance may be eligible for this study. Candidates are screened with a medical history and review of medical records, including imaging studies.\n\nParticipants undergo the biopsy or ablation procedure as they normally would, with the following exceptions: some stickers are placed on the skin before the procedure and a very weak magnet is placed nearby. The needles used are similar to the ones that would normally be used except that they contain a metal coil or spring buried deep within the needle metal. The procedure involves the following steps:\n\n1. Small 1-cm plastic donuts are place on the skin with tape.\n2. A planning CT scan is done.\n3. The CT scan is sent to the computer and matched to the patient's body location with the help of a very weak magnet.\n4. The needle used for the procedure is placed towards the target tissue or abnormality and the \"smart needle\" location lights up on the old CT scan.\n5. A repeat CT is done as it normally is to look for the location of the needle.\n6. After the procedure the CT scans are examined to determine how well the new tool located the needle in the old scan.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DEVICE_FEASIBILITY",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPatients must fulfill all of the following criteria to be eligible for study admission. Patient enrollment is by referral only.\n\n1. All patients must have a pre-operative imaging (CT, MR, or PET scan) available in digital format.\n2. Age greater than or equal to 18 years.\n3. No serious concurrent medical illness that would preclude the patient from making a rational informed decision on participation.\n4. The ability to understand and willingness to sign a written informed consent form, and to comply with the protocol. If in question, an ethics consult will be obtained.\n5. All patients in non-prostate biopsy cohorts, must be undergoing an image-guided surgical or interventional radiology procedure such as an angiography or a CT/ US-guided biopsy as clinically indicated or IRB-approved under a separate research protocol.\n\nPROSTATE BIOPSY COHORT (Cohorts 1 and 9) INCLUSION CRITERIA:\n\n1\\. Patients are eligible if they have undergone a prostate MRI and have had abnormalities identified as follows:\n\n1. PSA \\>2.5 OR abnormal digital rectal exam OR an abnormality identified on prostate MRI with a clinical indication for fusion biopsy\n2. Pre-biopsy prostate MRI showing targetable lesions\n\nEXCLUSION CRITERIA:\n\nPatients with any of the following will be excluded from study entry:\n\n1. Patients with an altered mental status that precludes understanding or consenting for the biopsy procedure will be excluded from this study.\n2. Patients unlikely able to hold reasonably still on a procedure table for the length of the procedure.\n3. Inability to hold breath, if procedure will be performed with conscious sedation, and without general anesthesia.\n4. Patients with pacemakers and other potentially electrically conductive implants.\n5. Gross body weight above the CT table limit (606 pounds), if CT table used.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Adenocarcinoma",
+    "Prostate Neoplasms",
+    "Prostate Cancer",
+    "Renal Cell Carcinoma",
+    "Von Hippel Lindau Disease"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This is a device/procedural study enrolling patients undergoing image-guided biopsy or ablation for lesions that are difficult to visualize. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on the need for an image-guided biopsy or ablation procedure, with no mention of prior systemic therapy for advanced/metastatic disease. The protocol does not specify any requirements or exclusions related to lines of therapy, so line-of-therapy intent is unknown."
+    }
+  ]
+}

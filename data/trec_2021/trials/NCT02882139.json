@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02882139",
+  "title": "International Electrical Storm Registry",
+  "brief_summary": "Organized ventricular arrhythmias (ventricular tachycardia (VT), torsades de pointes (TdP) and ventricular fibrillation (VF)) represent a major event in the clinical history of a patient and they can lead to hemodynamic instability and sudden cardiac death (SCD). Recurrences of ventricular arrhythmias and electrical instability have exponentially increased in the last decades and a new clinical entity called \"electrical storm\" (ES) has emerged as major morbidity and mortality factor. The ES is defined as a cluster of 3 or more sustained ventricular arrhythmias within 24 hours, or a sustained ventricular tachycardia lasting 12 hours or more and that does not respond to treatments.\n\nMost of the patients presenting ES are already implanted with an ICD. This is due to 3 factors: first, patients with ICD implant are at higher risk to develop ventricular arrhythmias for the cardiac disease that led to the ICD implant. Second, the device records and treats also asymptomatic or poor symptomatic arrhythmic episodes that otherwise would not be detected. Third, and more important, the device gives the possibility to survive to an arrhythmic episode, making it possible for the patient to experience an ES. The incidence of ES is debated in different studies and ranges from 10 to 60% in patients with ICD for secondary prevention and from 4 to 7% in patients with ICD for primary prevention.\n\nThe aim of the ELECTRA registry is twofold:\n\n1. To create an international registry on clinical features, optimal therapy, ablation strategy, prognosis and the effect of ICD programming on patients with ES.\n2. To use the data derived from the registry for a prospective, observational study on mortality and rehospitalization rate in patients with ES.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosis of ES (documentation of 3 or more episodes of sustained ventricular arrhythmia within 24h or documentation of sustained ventricular tachycardia lasted at least 12h).In order to fulfill this criterion, a patient with a previous episode of ES could also be enrolled during routine screening.\n* Age \u226518\n* Written informed consent\n\nExclusion Criteria:\n\n* patient without ICD\n* Confirmed or suspected use of drugs or narcotics with known direct pro-arrhythmic effect\n* Inability to express an informed consent for the study",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients will be enrolled for a minimum of three years from the protocol approval. There is no pre-specified date for the end of enrollment, which will be decided by the study responsible according to the enrollment rate.\n\nA minimum of 500 patients will be included in the present registry. The exploratory nature intrinsic to the registry characteristics does not allow a sample size calculation by statistical means. However, the sample presented is based on the estimated enrolment rates of the participating centers during a 3-year enrolment period. Moreover, the sample size is large enough to postulate specific subgroup analyses.",
+  "condition": [
+    "Arrhythmias, Cardiac",
+    "Tachycardia, Ventricular",
+    "Ventricular Fibrillation",
+    "Defibrillators, Implantable"
+  ],
+  "overall_status": "UNKNOWN"
+}

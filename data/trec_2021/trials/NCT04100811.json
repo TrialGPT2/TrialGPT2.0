@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04100811",
+  "title": "Identification of Clinically Insignificant or Significant Prostate Cancer With the miR Scientific Sentinel\u2122 Platform",
+  "brief_summary": "In this non-interventional study, men being seen by urologists in the course of their normal practice that present with clinical suspicion of prostate cancer (based on DRE, elevated Prostate Specific Antigen (PSA), and/or family medical history of prostate cancer, among other reasons) and who meet the inclusion/exclusion criteria will be asked to consent to the clinical study and provide a 40-60 mL urine sample, without prior DRE, along with relevant de-identified clinical data, at the time of the initial consultation, prior to core-needle biopsy.\n\nThe miR Scientific Sentinel\u00ae Prostate Cancer Classifier Platform (Sentinel\u00ae PCC4 Test) is a new molecular test that interrogates 442 small non-coding RNAs (sncRNA) extracted from urinary exosomes. Using the expression levels of 442 sncRNAs isolated from urine exosomes, the Sentinel\u00ae PCC4 Test provides an initial classification of disease status as either no molecular evidence of prostate cancer (NMEPC), or molecular evidence (MEPC) of low-, intermediate- or high-risk of aggressive prostate cancer. This study is designed to validate the classification algorithm and finalize the performance characteristics of the Test using risk-group labeling based on pathological grading from core-needle biopsy data.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Males \u2265 45 years old\n2. Males with clinical suspicion of prostate cancer, including but not limited to elevated PSA level, suspicious DRE, family history of prostate cancer, and/or germline mutation, who as a result undergo TRUS- or MRI-guided core-needle biopsy and PSA recording (for NCCN group label).\n3. Signed informed consent prior to initiation of any study-related procedures.\n4. The patient provided a voided urine sample within 30 days prior to biopsy being performed and prior to DRE (if any). This collection must be \u2265 1 hour after the last urination.\n\nExclusion Criteria:\n\n1. Persons previously diagnosed with prostate cancer.\n2. Persons who have previously undergone a 12 core or fusion biopsy in the last 12 months\n3. Persons who have had a DRE within 72 hours of the urine collection\n4. Persons incapable of providing informed consent.\n5. Persons presenting with clinical symptoms of urinary tract infection, including prostatitis at the time of enrollment.\n6. Persons with prior history of invasive treatment for benign prostatic hyperplasia within 3-6 months of study enrollment.\n7. Patients treated with a 5-alpha-reductase inhibitor, Saw Palmetto for BPH or male pattern baldness within 3 months of the urine collection.",
+  "minimum_age": "45 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "Up to 4000 male participants will be enrolled from multi clinical sites in the U.S. and Canada. Participants will be men ages 45 and above with a core needle biopsy as part of routine clinical workup for diagnosis of prostate cancer.",
+  "condition": [
+    "Prostate Cancer"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03592810",
+  "title": "Observational Study to Assess Optimal ECPR Settings After Resuscitation",
+  "brief_summary": "Rationale: Veno-arterial extracorporeal membrane oxygenation (vaECMO) during cardiopulmonary resuscitation (ECPR) might improve outcome after cardiac arrest. However, it is well established that reperfusion injury of the brain can cause microvascular and endothelial dysfunction, leading to cellular necrosis and apoptosis. While performing ECPR, following the European resuscitation guidelines, it is yet unknown how to set the ECMO settings in order to minimize ischemia-reperfusion injury of the brain.\n\nObjective: In this study, we want to elaborate on the optimal ECMO settings in the first three hours after initiation of ECPR.\n\nStudy design: Prospective, multi-centre, observational study Study population: All patients receiving ECPR in the age between 18 and 70 years, with low flow duration\\<60min and receiving cerebral oximetry monitoring Intervention: application of an adhesive regional oximetry sensor on the patient's forehead and withdrawal of 12 ml extra blood in all patients.\n\nMain study parameters/endpoints: Cerebral Performance Category at 6 months. Neuron-specific enolase (NSE) will be determined from routine blood drawings.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Witnessed cardiac arrest or signs of life during CPR (such as gasping or movement)\n* Age\\>18 and \\< 70 years\n* Duration of low-flow \\< 60 min before decision to proceed with ECPR\n* High quality CPR (defined as end-tidal carbon dioxide (CO2et) \\>10 mmHg) provided for a minimum of 15 minutes without return of spontaneous circulation (ROSC)\n* Presumed cardiac cause of cardiac arrest (such as Chest pain before collapse, ventricular tachycardia/ventricular fibrillation (VT/VF) as initial rhythm or ST-elevation on ECG)\n* Cerebral oxymetry monitoring initiated during CPR preceding ECPR\n\nExclusion Criteria:\n\n* Patients with a GCS\\<15 before CPR.\n* Known pre-arrest cerebral performance category CPC \u2265 3\n* Presumed noncardiac cause\n* Unwitnessed collapse\n* Suspected or confirmed pregnancy\n* ROSC within 5 minutes of Advanced cardiopulmonary life support (ACLS) performed by emergency medical service (EMS) team\n* Conscious patient\n* Known bleeding diathesis or suspected or confirmed acute or recent intracranial bleeding\n* Suspected or confirmed acute stroke\n* Known severe chronic organ dysfunction or other limitations to therapy\n* \"Do not resuscitate\" order or other circumstances that make 180 day survival unlikely",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All adult patients receiving ECPR will be included. The decision to perform an ECPR is made by the local protocol and clinical judgment of the attending physician.",
+  "condition": [
+    "Extracorporeal Cardiopulmonary Resuscitation",
+    "Cardiac Arrest"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT06325696",
+  "title": "H01 in Adults With Interstitial Lung Disease (The SOLIS Study)",
+  "brief_summary": "Background:\n\nInterstitial lung disease affects the tissues that aid the transfer of oxygen and carbon dioxide between the air and the bloodstream. The disease can cause fibrosis, a thickening and scarring of lung tissue. Fibrosis often continues getting worse, and most people with this disease die in 3 to 5 years.\n\nObjective:\n\nTo test a study drug (hymecromone) in people with interstitial lung disease or lung fibrosis.\n\nEligibility:\n\nPeople aged 18 years and older with interstitial lung disease or lung fibrosis.\n\nDesign:\n\nParticipants will have at least 7 clinic visits over 5 months.\n\nParticipants will have screening and baseline visits. They will have blood tests and tests of their heart function. They will give a sputum sample. Other tests will include:\n\nSpirometry: Participants will breathe in and out through a mouthpiece to measure how much air they can hold in their lungs and how hard they can breathe.\n\nDiffusion capacity of lungs for carbon monoxide: Participants will breathe in a gas that contains a small amount of carbon monoxide. Then they will breathe through a mouthpiece. This test measures how well oxygen moves from the air into the blood.\n\nResting energy expenditure. Participants will lie still for 30 minutes with a clear dome over their head. This test measures the calories their body burns at rest.\n\n6-minute walk test. Participants will walk at their normal pace for 6 minutes. Their vital signs and blood oxygen levels will be checked.\n\nHymecromone is a tablet taken by mouth. Participants will take 2 tablets every morning and 2 tablets every night for 12 weeks. Tests will be repeated at study visits.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Ability of subject to understand, and the willingness to sign a written informed consent document and comply with requirements of the study\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Male or Female participants ages \\>18 years\n* MD diagnosis of Idiopathic Pulmonary Fibrosis or other progressive ILD as defined previously\n* DLCO\\>30% and FVC\\>45%\n* Subjects in reproductive age who are heterosexually active must use an acceptable method of contraception: condoms (male or female) with or without a spermicidal agent, diaphragm or cervical cap with spermicide, IUD, or Hormone-based contraceptive\n* Agreement to adhere to Lifestyle Considerations throughout study duration\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Active on lung transplantation list\n* On supplemental oxygen at rest\n* Evidence of an acute respiratory infection or exacerbation of pulmonary fibrosis at any time during enrollment or study\n* Known diagnosis of celiac disease or wheat or gluten allergies\n* Cirrhosis or active viral or non-viral hepatitis: Bilirubin, AST and ALT values higher than twice the upper range of normal, or a Child-Pugh score of 7 or more\n* Subjects with history of active Inflammatory Bowel Disease, dysphagia, achalasia, or difficulty swallowing capsules, tablets or pills\n* Subjects with significant renal impairment defined as eGFR lower than 60 ml/min.\n* Subjects with a baseline corrected Fridericia's QT interval (QTcF) \\>450ms or baseline ECG abnormalities which, in the opinion of the study physician, are clinically significant and would place the participant at increased risk for adverse effects.\n* Subjects with ongoing alcohol or illegal drug use disorder\n* Subjects who are pregnant, lactating or attempting to conceive\n\n  * Participants able to become pregnant (have not completed menopause, had a hysterectomy and/or both tubes and/or both ovaries removed) must use effective birth control methods to try and not become pregnant while participant in this study. Methods include (a) partner vasectomy, (b) bilateral tubal ligation, (c) intrauterine devices (IUDs), (d) hormonal implants (such as Implanon), or (e) other hormonal methods (birth control pills, injections, patches, vaginal rings).\n  * Male participants able to father children with a partner able to become pregnant must agree to use effective birth control (listed above) to participate in this study.\n* Known allergy to hymecromone or any component thereof\n* Chronic therapy with medications that are known potent human UDPglucuronosyltransferase inhibitors: canagliflozin, temazepam, tacrolimus.\n* Physician concern that participant may not adhere to the study protocol\n* Current participation in another clinical treatment trial for ILD. May participate after 12 weeks from conclusion of another treatment trial.\n* Changing dose of other ILD medications over the 3 months prior to baseline\n* Any condition(s) or diagnosis, both physical or psychological, or physical exam finding that place the participant at increased risk for adverse effects, as determined by the study physician.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Interstitial Lung Disease",
+    "Idiopathic Pulmonary Fibrosis",
+    "Lung Diseases, Interstitial"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls adults with interstitial lung disease or lung fibrosis regardless of prior systemic therapy. There are no requirements or restrictions regarding prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "The eligibility criteria do not specify any requirements or limits on prior systemic therapy for advanced disease. Patients may be treatment-naïve or previously treated, and those who have only received adjuvant therapy are also eligible."
+    }
+  ]
+}

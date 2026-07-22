@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT02496741",
+  "title": "Metformin And Chloroquine in IDH1/2-mutated Solid Tumors",
+  "brief_summary": "This phase Ib, open-label, single-center, non-randomized clinical trial will evaluate the toxicity and efficacy of metformin and chloroquine in isocitrate dehydrogenase 1/2-mutated (IDH1/2MT) patients with a glioma, intrahepatic cholangiocarcinoma or chondrosarcoma.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Presence of a glioma, IHCC or WHO grade \u2265 II CS (both newly-diagnosed and refractory/relapsed tumors)\n2. Tumor carries a neomorphic D-2HG generating mutation in IDH1 or IDH2 as determined by MS of serum and urine (optional: bile), MRS of the tumor or DNA sequencing of (circulating) tumor material.\n3. Measurable lesion according to RECIST 1.1 criteria (see Appendix B) in IHCC and CS patients and RANO criteria (see Appendix C) in glioma patients.\n4. ECOG/WHO performance 0-2 (see Appendix D).\n5. Age \\> 18 years.\n6. Adequate renal function (creatinine \\< 150 \u03bcmol/L and/ or a creatinine clearance \\> 60 ml/ L).\n7. Adequate liver function (bilirubin \\< 1.5 times upper limit of normal, ALAT or ASAT \\< 5.0 times upper limit of normal in case of liver metastases and \\< 2.5 the upper limit of normal in absence of liver metastases).\n8. Adequate bone marrow function (WBC \\> 3.0 x 109/L, platelets \\> 100 x 109/L).\n9. If patient is eligible for resection, surgery is (already) planned at least 4 weeks away from start study treatment.\n10. Mentally, physically, and geographically able to undergo treatment and follow up.\n11. Signed informed content obtained prior to treatment.\n\nExclusion Criteria:\n\n1. Pregnancy (positive serum pregnancy test) and lactation.\n2. Serious concomitant systemic disorder that would compromise the safety of the patient, at the discretion of the investigator.\n3. Patients who have any severe and/or uncontrolled medical conditions such as:\n\n   * unstable angina pectoris,\n   * symptomatic congestive heart failure,\n   * myocardial infarction,\n   * cardiac arrhythmias,\n   * pulmonary insufficiency,\n   * epilepsy (interaction with chloroquine),\n   * severe gastrointestinal, neurological or hematological diseases (interaction with chloroquine).\n4. 6 months prior to randomization:\n\n   * serious uncontrolled cardiac arrhythmia,\n   * uncontrolled diabetes as defined by fasting serum glucose \\>2X ULN,\n   * active or uncontrolled severe infection, including malaria,\n   * cirrhosis, chronic active hepatitis or chronic persistent hepatitis,\n   * severely impaired lung function.\n5. Patients that use digoxin, MAO inhibitors, fenylbutazone, oxygenbutazone, gold preparations or cimetidine (known pharmaco interaction with chloroquine) or loop diuretics (known pharmaco interaction with metformin) for which no good alternative is available.\n6. Patients that have a known history of alcohol abuse (interaction with metformin).\n7. Patients with known glucose-6-phosphate dehydrogenase deficiency, porphyria, myasthenia gravis or ocular/retinal aberrations (interaction with chloroquine).\n8. Patients with a known hypersensitivity to metformin or chloroquine.\n9. Patients that are lactose intolerant.\n10. Use of metformin or chloroquine in the previous 6 months.\n11. Long-term use of chloroquine (\\>5 years or cumulative dose \\>300 grams) in the past.\n12. Use of other anti-cancer therapy (i.e. surgical resection, chemotherapy, targeted therapy, radiation therapy, surgery). Palliative therapy is permitted, such as:\n\n    * palliative radiotherapy for symptomatic bone metastases;\n    * dexamethasone for symptom relief in patients with glioma and cerebral edema;\n    * non-enzyme inducing antiepileptic drugs (with the exception of topiramate) in patients with glioma and epileptic seizures.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Glioma",
+    "Cholangiocarcinoma",
+    "Chondrosarcoma"
+  ],
+  "overall_status": "COMPLETED"
+}

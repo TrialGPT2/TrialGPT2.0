@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04410549",
+  "title": "Pulmonary Optical Coherence Tomography in COVID-19 Patients",
+  "brief_summary": "To evaluate by intravascular OCT study the presence of microvascular pulmonary thrombosis in patients with COVID-19, high D-dimer levels and contrast CT scan negative for pulmonary thrombosis. We'll also evaluate the extension of microvascular pulmonary thrombosis in patients with contrast CT scan positive for pulmonary embolism in areas where contrast CT scan was negative.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n(part A)\n\n* Severe pulmonary coronarvirus disease 19 (COVID 19) with suspect for MicroCLOTS (microvascular COVID-19 lung vessels obstructive thromboinflammatory syndrome) AND\n* Contrast CT scan negative for pulmonary thrombosis AND\n* D-Dimer \\> 10 mcg/mL OR\n* 5 \\< D-dimer \\< 10 mcg/mL and either C Reactive Protein (CRP) \\> 100 mg/dL or IL-6 \\> 6 pg/mL or ferritin \\> 900 ng/L\n\n(part B)\n\n* Severe pulmonary coronarvirus disease 19 (COVID 19) with suspect for MicroCLOTS (microvascular COVID-19 lung vessels obstructive thromboinflammatory syndrome) AND\n* Contrast CT scan positive for pulmonary thrombosis\n\nExclusion Criteria:\n\n* Age \\< 18\n* Pregnancy or breastfeeding\n* Known allergy to iodinated contrast dye\n* Hemodynamic instability\n* Glomerular Filtration rate \\< 30 ml/min\n* Active bleeding or absolute contraindication to anticoagulant therapy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19",
+    "Pulmonary Embolism"
+  ],
+  "overall_status": "COMPLETED"
+}

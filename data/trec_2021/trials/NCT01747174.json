@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01747174",
+  "title": "REperfusion Facilitated by LOcal Adjunctive Therapy in ST-elevation Myocardial Infarction",
+  "brief_summary": "The purpose of this study is to determine whether intra-coronary adenosine or sodium nitroprusside (SNP) delivered selectively via a thrombus aspiration catheter (or if unsuccessful via a coronary microcatheter) following thrombus aspiration in Primary Percutaneous Coronary Intervention (P-PCI) reduces microvascular obstruction (MVO) parameters and infarct size as measured with cardiac MRI, compared with standard treatment following thrombus aspiration in patients presenting with ST-elevation myocardial infarction (STEMI).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* \u2265 18 years age.\n* Informed ASSENT (verbal consent) prior to angiography.\n* STEMI \u2264 6 hrs of symptom onset, requiring primary reperfusion by PCI.\n* Single-vessel coronary artery disease (non culprit disease \u226470% stenosis at angiography)\n* TIMI flow 0/I at angiography.\n\nExclusion Criteria:\n\n* Contraindications to: P-PCI \\*, CMR\\*\\*, contrast agents, or study medications: Adenosine\\*\\*\\*, SNP\\*\\*\\*\\*, Aspirin, Thienopyridine and Bivalirudin.\n* SBP \u2264 90mmHg\n* Cardiogenic Shock\n* Previous Q wave myocardial infarction\n* Culprit lesion not identified or located in a by-pass graft\n* Stent thrombosis.\n* Left main disease.\n* Known severe asthma.\n* Known stage 4 or 5 chronic kidney disease (eGFR\\<30ml/min).\n* Pregnancy.\n\nNotes:\n\n* \\* Exclusion criteria for P-PCI (presentation timing, inadequate arterial access etc); patient unable to tolerate \"prolonged\" PCI procedure (in operators' opinion).\n* \\*\\* Absolute contra-indication to CMR (Pacemaker, ICD, intra-cranial metal clips).\n* \\*\\*\\* Contraindications to Adenosine (known hypersensitivity to Adenosine, sick sinus syndrome, second or third degree atrio-ventricular block - except in patients with functioning artificial pacemaker, long QT syndrome has been defined as QTc \\> 450 ms at baseline). ECG will be undertaken just after the first dose of the study drug and QT/QTc will be recorded and compared to the baseline. If the QTc recorded after the first dose of the study drug exceeds 450ms or there is an increase in the QT/QTc of \\> 60 ms from baseline, the second dose will be abandoned and this will be recorded.\n* \\*\\*\\*\\* Contraindications to SNP (known hypersensitivity to SNP, compensatory hypertension - as may be seen in arteriovenous shunts or coarctation of the aorta, high output failure, congenital optic atrophy or tobacco amblyopia).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "ST-elevation Myocardial Infarction (STEMI)"
+  ],
+  "overall_status": "COMPLETED"
+}

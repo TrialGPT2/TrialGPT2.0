@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00018044",
+  "title": "Study of Mycobacterial Infections",
+  "brief_summary": "This study will examine the symptoms, course of disease and treatment of non-tuberculous mycobacterial (NTM) infections, as well as the genetics involved in these infections. Patients with NTM have recurrent lung infections and sometimes infections of the skin and other organs as well. They may also have curvature of the spine, barrel chest, and heart valve weakness. The study will compare the features of NTM with those of Job syndrome and cystic fibrosis, other diseases involving recurrent infections of the lungs and possibly other organs.\n\nPatients with diagnosed or suspected non-tuberculous mycobacterial infection, cystic fibrosis or Job syndrome may be eligible for this study. All participants will have a medical and family history, blood and urine tests, imaging studies that may include X-rays, computed tomography (CT) or magnetic resonance imaging (MRI) scans, and DNA and other genetic studies. In addition, all patients with Job syndrome and cystic fibrosis, and patients with NTM who have lung disease undergo the following procedures:\n\n* Scoliosis survey X-rays of the spine to look for curvature or other abnormalities of the spinal column\n* Echocardiography imaging test that uses sound waves to examine the heart chambers and valves\n* Electrocardiogram measurement of the electrical activity of the heart\n* Pulmonary function tests breathing tests to measure how much air the patient can move into and out of the lungs\n* Body measurements measurements of height, weight, arm span, finger length, etc.\n* Joint function assessment of joint mobility using different maneuvers to test flexibility of joints and ligaments\n* Examination of physical features that might be associated with NTM, such as high arched palate of the mouth, flat feet, or certain skin features\n* Dermatology (skin) examination for reactive skin conditions or other skin problems and possibly a skin biopsy (surgical removal of a small skin tissue sample for microscopic examination)\n* Interview with genetics specialist\n\nThese tests may require several days to complete. Patients with NTM will also be examined by a cystic fibrosis specialist and may have a sweat test. In addition, NTM patients will be asked to return to NIH every year for 5 years for follow-up tests, if medically indicated, including CT of the chest, scoliosis survey and examination by other specialists.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA FOR PATIENTS:\n\nThis protocol will study patients with mycobacterial infections, including those without previously identified predisposing disease processes as well as individuals with underlying malignancies.\n\nPatients with nontuberculous mycobacterial infections will be of particular interest, as we are interested in isolating and characterizing the primary immune defect(s) responsible for this infection susceptibility.\n\nSelect patients with acquired immunodeficiencies or tuberculosis may also be studied if relevant host defects are suspected.\n\nPatients must be referred to NIH with a diagnosis or suspicion of having mycobacterial infection.\n\nMale and female patients will be accepted without limitations due to age.\n\nOnly patients with nontuberculous mycobacterial infections without HIV infection will be considered for long-term disease management.\n\nINCLUSION CRITERIA FOR RELATIVES:\n\nAs part of this protocol, we may obtain medical records, blood work, urine, saliva or buccal swab from some blood relatives of patients on the study, with the hope of isolating and characterizing the primary immune defect(s) responsible for mycobacterial infection susceptibilityand if there are any genetic links seen within families. We hope to identify families with an apparent genetic susceptibility to respiratory diseases predominantly associated with P-NTM and perform whole genome sequencing within this group to identify genetic mutations accounting for this increased susceptibility. Male and female patients will be accepted without limitation due to age. These relatives will not receive treatment or have any other protocol procedures done unless they become a patient on the study.\n\nEXCLUSION CRITERIA:\n\nNone.",
+  "minimum_age": "",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with mycobacterial infections, including those without previously identified predisposing disease processes as well as individuals with underlying malignancies. Patients with nontuberculous mycobacterial infections will be of particular interest but select patients with acquired immunodeficiencies or tuberculosis may also be studied if relevant host defects are suspected. We may obtain specimens from some blood relatives of enrolled patients.",
+  "condition": [
+    "Mycobacterium Infections"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational study enrolling patients with diagnosed or suspected non-tuberculous mycobacterial infection, cystic fibrosis, or Job syndrome, regardless of prior treatment history. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, and there are no restrictions or requirements regarding lines of therapy. This is an observational study including both treated and untreated patients, so line-of-therapy intent is not defined."
+    }
+  ]
+}

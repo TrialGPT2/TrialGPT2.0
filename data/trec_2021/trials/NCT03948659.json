@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03948659",
+  "title": "Ventriculo-arterial Coupling in Cirrhotics",
+  "brief_summary": "Cirrhotic in intensive care unit have a very specific haemodynamic status. Cardiovascular abnormalities in advanced liver cirrhosis are characterized by a hyperdynamic circulation featuring increased heart rate and high cardiac output, concomitant with decreased systemic vascular resistance. As liver cirrhosis progresses, cardiac dysfunction, known as cirrhotic cardiomyopathy, is associated with prognosis of these patients.\n\nSpecifically, diastolic dysfunction has been more emphasized for estimating clinical outcome in cirrhotic patients, whereas systolic dysfunction has limited prognostic implications in hepatorenal syndrome patients.\n\nHowever, in most cirrhotic patients, cardiac dysfunction is latent and only manifests under stressful conditions because reduced ventricular contractility in these patients is masked by pronounced arterial vasodilation and increased arterial compliance. Therefore, a load-dependent index such as left ventricular ejection fraction is insensitive to detect systolic cardiac impairment in the resting state in cirrhotic patients. Hence, a more appropriate index is required to evaluate the integration of the ventricular and arterial systems in cirrhotic cardiovascular disorders.\n\nInteraction between the left ventricle and the arterial system has been explained on the basis of end-systolic pressure-volume relation. Left ventricular end-systolic elastance (Ees), as quantified by the ratio of end-systolic pressure to end-systolic volume, is an index of the load-independent ventricular contractile state. Given this pressure-volume relationship, effective arterial elastance (Ea) can be calculated by the ratio of end-systolic pressure to stroke volume, indicating a net measure of arterial load. The ratio of these values (Ea/Ees), designated ventriculo-arterial coupling (VAC), represents the integrated interaction of the ventricular and arterial systems.\n\nWe can evaluate it with non-invasive echocardiographic method.\n\nWe analyse VAC among cirrhotic patients admitted in intensive care unit, with non-invasive echographic method thanks to records made from August 2018 to April 2019.\n\nHypothesis: VAC decrease from the baseline value when mean arterial pressure is improved.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Liver cirrhotic patients (any cause, any level)\n* With acute decompensation\n* Admitted in intensive care unit in Croix Rousse Hospital, Lyon, France\n* Who receive NOREPINEPHRINE as hemodynamic therapy\n* Blood pressure monitoring thanks to an arterial line (radial, humeral or femoral)\n* Urinary catheter, suprapubic catheter or any comparable device to monitor urine output.\n* The patient did not object to take part of the study.\n\nExclusion Criteria:\n\n* Acute hemorrhage (Clinical definition or hemoglobin lower than 70g/L at admission)\n* Patient requiring kidney replacement therapy\n* Patient requiring invasive mechanical ventilation\n* Any pathology that makes non-invasive ventriculo arterial coupling assessment impossible (non-sinus rhythm, severe valvular disease)\n* Patient who objects to take part of the study",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Cirrhotic patients with acute decompensation admitted in intensive care unit and who received norepinephrine as hemodynamic therapy",
+  "condition": [
+    "Cirrhosis"
+  ],
+  "overall_status": "COMPLETED"
+}

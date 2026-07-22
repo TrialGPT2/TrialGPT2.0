@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT02706652",
+  "title": "Prospective Screening for Patient-Specific Genotypes and Phenotypes That Influence Drug Dosing and Trial Selection in Cancer Patients",
+  "brief_summary": "Background:\n\nPeople's genetic markers and other genetic characteristics can affect their response to drug therapy. Researchers want to screen people for these markers and characteristics. They want to do this before the people are screened for studies at the National Cancer Institute. That should save time that can be lost when people go through the whole screening for a study only to find out they cannot join. The data collected may also be used to select the proper dose of anticancer agents that are being studied.\n\nObjective:\n\nTo screen people for genetic markers and/or baseline characteristics. These will be used to determine if they can enroll in a clinical trial. They may also be used to select the proper dose of anticancer agents that are being tested.\n\nEligibility:\n\nAdults 18 and older who are being considered for or being treated in a National Cancer Institute study\n\nDesign:\n\nParticipants will have their blood drawn for genetic tests.\n\nSome participants will have a cheek swab.\n\nParticipants genetic data will be stored for future research. It could be shared with other researchers.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Any patient who is being evaluated for and/or treated on an IRB-approved protocol at the National Cancer Institute.\n* Age \\>18 years.\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n\\- A patient will be excluded if there is an insufficient quality or quantity of sample available to perform the assay and no further sample can be drawn in order to re-assess the status of a genetic or biomarker.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Any patient who is being evaluated for and/or treated on one of the following IRB-approved protocols at the National Cancer Institute: 12-C-0151, or 09-C-0173, or 18-C-0061.",
+  "condition": [
+    "Cancer"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This is a prospective screening protocol for genetic and phenotypic markers in cancer patients being evaluated for or treated on any NCI clinical trial. There are no restrictions on prior lines of therapy for advanced disease; patients at any stage of treatment, including those who have only received adjuvant therapy or are treatment-naïve, are eligible.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes any patient being evaluated for or treated on an IRB-approved protocol at the NCI, with no mention of required or excluded prior systemic therapy for advanced disease. Patients who have only received adjuvant or neoadjuvant therapy, or are treatment-naïve, are eligible."
+    }
+  ]
+}

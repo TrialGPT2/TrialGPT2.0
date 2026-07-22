@@ -1,0 +1,43 @@
+{
+  "nctid": "NCT05745441",
+  "title": "Dinner Time for Obesity and Prediabetes",
+  "brief_summary": "Obesity and its metabolic complications are leading causes of global morbidity and mortality. Evidence is mounting that inappropriate timing of food intake contributes to obesity. Specifically, late eating is associated with greater weight gain and metabolic syndrome. However, the mechanism by which late eating harms metabolism is not fully understood but may be related to mis-timing of food intake in relation to the body's endogenous circadian rhythm. Conversely, harmonization of eating timing with endogenous circadian rhythm may optimize metabolic health. In this study the investigators will use gold-standard methods of characterizing circadian rhythm in humans to examine the metabolic impacts food timing relative to endogenous circadian rhythm.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "The investigators are enrolling both Normal-Weight Healthy (NWH) and Obesity-Prediabetes (OPD) research participants. At this time (5/2023) the investigators are focusing on the NWH group.\n\nInclusion Criteria:\n\n* For the Normal-Weight Healthy (NWH) cohort: Healthy male and female adults, age 18-50, with BMI 18-24.9 kg/m2 inclusively\n* For the Obesity-Prediabetes (OPD) cohort: Male and female adults, age 18-50, with BMI ≥30 kg/m2 and prediabetes\n* All participants must be able to understand study procedures, to comply with the procedures for the entire length of the study and be fully mobile.\n\nExclusion Criteria:\n\n* Sleep disorder including insomnia, untreated moderate-severe sleep apnea, restless leg syndrome, or narcolepsy\n* Night shift work\n* Extreme delayed sleep phase defined as self-reported routine bedtime later than 1:00 AM or having mid-sleep on free days later than 5:00 AM on the Munich Chronotype Questionnaire (MCTQ) or DLMO later than 24:00\n* Gastroesophageal reflux disease that affects ability to tolerate a dinner close to bedtime\n* Active smoking\n* Current drug or alcohol use or dependence that, in the opinion of the site investigator, would interfere with adherence to study requirements.\n* Diabetes (type 1 or 2) or on any diabetes medications besides metformin\n* Evidence of metabolic or cardiovascular disease, or disease that may influence metabolism (e.g. cancer, thyroid disease)\n* Hemoglobin A1c ≥5.7% for NWH cohort; Hemoglobin A1c ≥6.5% for OPD cohort\n* Hemoglobin \\< 10 g/dL\n* Self-reported kidney disease\n* Any known history of an inherited metabolic disorder\n* Pregnant or lactating female (pregnancy test will be required prior to metabolic visits)\n* Peri-menopausal or post-menopausal female as determined by follicle stimulating hormone of \\> 30 mIU/mL or fewer than 3 menstrual periods in 6 months\n* Professional or collegiate athlete\n* Participants who have travelled across time zones must have adequate time to recover from jet lag prior to enrollment (i.e., at least 3 days per time zone). Travel across \\>1 time zone after enrollment in the study will not be permitted.\n* Weight less than 40 kg or more than 180 kg\n* Gastrointestinal disorders that can lead to obstruction of the digestive tract (i.e. diverticular disease, history of bowel obstruction, inflammatory bowel disease, motility disorder)\n* History of any surgical procedures in the gastrointestinal tract.\n* Swallowing disorders\n* Taking any prescription medication or other drug that may influence metabolism (e.g. diet/weight-loss medication, asthma medication, blood pressure medication, psychiatric medications, corticosteroids, or other medications at the discretion of the PI and/or study team)\n* Chronic use of sedative hypnotics, anxiolytics, opiates\n* Use of medications that can affect circadian rhythm (beta blockers, melatonin)\n* Presence of a cardiac pacemaker or other implanted electro-medical devices\n* Those who have to undergo strong electromagnetic field during the period of use of the ingestible thermosensor (i.e. MRI)\n* Weight loss or gain of ≥ 5% of total body weight over the preceding 3 months\n* Currently participating in a weight loss program\n* Prior bariatric surgery\n* Volunteers with strict dietary concerns (e.g. vegetarian or kosher diet, food allergies)\n* History of significant intravenous access issues\n* Non-English speaking individuals: The complexity of the instructions for various components of the study would make the study procedures difficult to follow in the setting of a language barrier.\n* Other conditions or situations at the discretion of the PI",
+  "minimum_age": "18 Years",
+  "maximum_age": "50 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "PreDiabetes",
+    "Obesity",
+    "Healthy"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a metabolic study in normal-weight and obese/prediabetic adults, not a cancer trial. There is no mention of systemic therapy for advanced disease, and prior cancer treatment is not relevant to eligibility.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Normal-Weight Healthy (NWH)",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "There are no criteria related to prior systemic therapy for advanced disease; this is not an oncology trial. Eligibility is based on BMI and metabolic health, not cancer treatment history."
+    },
+    {
+      "cohort_label": "Obesity-Prediabetes (OPD)",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "There are no criteria related to prior systemic therapy for advanced disease; this is not an oncology trial. Eligibility is based on BMI and prediabetes status, not cancer treatment history."
+    }
+  ]
+}

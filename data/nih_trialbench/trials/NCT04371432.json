@@ -1,0 +1,42 @@
+{
+  "nctid": "NCT04371432",
+  "title": "Genetics of COVID-19 Susceptibility and Manifestations",
+  "brief_summary": "Background:\n\nCoronavirus 2019 (COVID-19, or SARS-CoV-2) is a serious public health problem, and genetics may play a role in how serious the illness becomes in certain people. Genes are the instructions that our body uses to grow and develop. Variations in our genes can cause medical conditions and may be the reason why some people get sicker than others.\n\nObjective:\n\nThis study aims to learn more about the genetic contributions to the severity of COVID-19. We hope to use this information to develop therapies that reduce the severity of COVID-19 symptoms in some people.\n\nEligibility:\n\nAnyone located in the United States who has tested positive for SARS-CoV-2 infection may be eligible to join (including NIH staff).\n\nDesign:\n\nParticipants will complete a questionnaire about their health history and COVID-19 symptoms.\n\nParticipants will give a blood or saliva sample. It will be about 2 tablespoons of blood, or we will send a saliva collection kit. Researchers will use this blood or saliva sample to study the participant s DNA.\n\nThe data about participants genes will be stored in a large database. The database will be shared with other qualified researchers who are trying to learn about COVID-19. Participants names and other personal details will not be shared. Instead, the data will be labeled with a code.\n\nParticipants may be contacted by study team members for up to a year after they join the study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA\n* Cohort 1 (Existing NIH Clinical Center Patient/Participants invited to participate by their NIH study team)\n* Cohort 2 (Individuals recruited through NIH Occupational Medicine Services (OMS) patients referred by NIH investigators or other providers; individuals who self-refer)\n* Located in the United States\n* Positive test for SARS-CoV-2 virus infection\n* Age greater than or equal to 3 years old\n\n  * only for participants providing a blood sample\n\nEXCLUSION CRITERIA:\n\n* Individuals for whom we cannot consent for participation in a language offered by our existing interpretation service.\n* Weight less than 10 kg\\*",
+  "minimum_age": "1 Month",
+  "maximum_age": "110 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "This protocol will only enroll identifiable participants by invitation only. De-identified biospecimens and/or other clinical information may be analyzed. All prospective study participants will be notified of their potential eligibility by an established contact at the NIH Clinical Center. Cohort 1= Existing NIH Clinical Center inpatients/participants tested positive for SARS-CoV-2 invited to participate by their NIH study team; Cohort 2= Individuals recruited through NIH OMS, patients referred by collaborators, patients who self-refer, tested positive for SARS-CoV-2 with mild or severe manifestations of COVID-19 disease (and selected relatives of participants irrespective of infection status)",
+  "condition": [
+    "COVID-19",
+    "Coronavirus 2019"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-interventional genetics study enrolling individuals with a positive SARS-CoV-2 test, regardless of cancer history or prior therapies. There are no requirements or restrictions related to prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Cohort 1",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based solely on a positive SARS-CoV-2 test and location in the United States; there are no criteria regarding prior cancer therapies or lines of systemic therapy for advanced disease."
+    },
+    {
+      "cohort_label": "Cohort 2",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based solely on a positive SARS-CoV-2 test and location in the United States; there are no criteria regarding prior cancer therapies or lines of systemic therapy for advanced disease."
+    }
+  ]
+}

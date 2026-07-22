@@ -1,0 +1,40 @@
+{
+  "nctid": "NCT01137162",
+  "title": "Clinical and Pathologic Studies of Patients Undergoing Treatment With EGFR Inhibitors",
+  "brief_summary": "Cetuximab, erlotinib, and panitumumab are all recently FDA approved epidermal growth factor receptor (EGFR) inhibitors that treat a wide variety of tumor types, such as colon, lung, and head and neck. Blockade of the EGFR results in inhibition of multiple downstream pathways, leading to slowed tumor growth. In addition, these inhibitors may enhance anti-tumor immune responses through uncharacterized mechanisms. While producing significant responses in many settings, EGFR inhibitors also result in significant skin toxicity (rash) in a high percentage of patients. Multiple studies have correlated the presence and severity of rash with clinical response. Unfortunately, severe rash can often lead to dose delays, reductions, or even discontinuation of EGFR inhibitors, thus limiting their efficacy. The mechanism of both the rash and its correlation with tumor response is poorly understood. Skin biopsies display a robust leukocyte infiltrate, but a systematic analysis of the type of infiltrating leukocytes, activation state, or homing receptor expression has not been performed. Chemokines and chemokine receptors control leukocyte trafficking to the skin and other tissue sites, and defined receptor profiles for skin-, gut-, and lung-homing leukocytes are well established. In this study, the investigators propose to evaluate the homing phenotype of leukocytes from peripheral blood and skin biopsies of patients receiving EGFR inhibitors. The investigators will use RNA microarrays to evaluate the expression of chemokines and other key genes regulated in skin during treatment. The investigators will utilize in vitro methods to investigate effects of EGFR inhibitors on imprinting of T cell tissue-specific homing receptors. The investigators will examine correlations among the pathologic data, clinical findings, and tumor response. If validated, peripheral blood evaluation could potentially be used as a predictive indicator for patients receiving EGFR inhibitors. This study may also identify novel targets for limiting skin toxicity while receiving EGFR inhibitors, thus allowing maximal dosing and clinical response from these agents.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients are eligible if they have histologically proven adenocarcinoma, are planning to or currently undergoing treatment with an anti-EGFR (epidermal growth factor receptor) therapy, and are 18 years of age or older.\n\nExclusion Criteria:\n\n* None",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with adenocarcinoma",
+  "condition": [
+    "Anal, Colon, and Rectal Cancers",
+    "Head and Neck Cancer",
+    "Lung Cancer",
+    "Colon Cancer",
+    "Colonic Neoplasms",
+    "Colorectal Neoplasms",
+    "Colon/Rectal Cancer",
+    "Colon/Rectal Cancer Colon Cancer",
+    "Colon/Rectal Cancer Rectal Cancer",
+    "Colon/Rectal Cancer Anal Cancer",
+    "Head and Neck Cancers",
+    "Head and Neck Cancers Lip",
+    "Head and Neck Cancers Oral Cavity",
+    "Head and Neck Cancers Nasopharynx",
+    "Head and Neck Cancers Oropharynx",
+    "Head and Neck Cancers Hypopharynx",
+    "Head and Neck Cancers Larynx",
+    "Head and Neck Cancers Trachea",
+    "Lung Cancer Non-Small Cell Cancer (NSCLC)",
+    "Lung Cancer Small Cell Lung Cancer (SCLC)"
+  ],
+  "overall_status": "TERMINATED"
+}

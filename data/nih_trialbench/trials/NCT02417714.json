@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT02417714",
+  "title": "Prospective Evaluation of Next Generation CT Reconstruction (NextGenIR)",
+  "brief_summary": "Background:\n\n\\- Computed Tomography (CT) is a scan that makes detailed pictures of the body. It uses radiation to do that. In 2011, about 85.3 million CT scans were done in the United States. But there is growing concern about the health effects of radiation. There are new and different ways to make CT pictures that use less radiation. Researchers want to learn whether these new methods create images that are similar to images from a traditional CT.\n\nObjective:\n\n\\- To learn if new CT imaging methods with less radiation make images that are similar to traditional ways.\n\nEligibility:\n\n\\- Adults 18 years of age and older who are scheduled for a CT of the chest, abdomen and pelvis with contrast.\n\nDesign:\n\n* Researchers will review participants medical records to see if they can be in this study.\n* Participants may have blood drawn from an arm vein by a needle stick. The blood will be used to make sure they can be in this study and that it is safe for them to have contrast.\n* During the participants CT scan appointment, one extra scan will be done using low radiation methods.\n* During a CT scan, the participant lies on a table. A large x-ray machine takes pictures of the body.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nInclusion Criteria for Body CT:\n\n1. Clinical indication for a chest, abdomen and pelvis CT with contrast\n2. Age equal to or greater than 18 years\n3. Able to understand and willing to sign the Informed Consent Form\n\nInclusion Criteria for Chest CT:\n\n1. Clinical indication for a CT with or without contrast that includes the chest\n2. Age equal to or greater than 18 years\n3. Able to understand and willing to sign the Informed Consent Form\n\nEXCLUSION CRITERIA:\n\nExclusion Criteria for Body CT:\n\n1. Pregnancy\n2. Serum Cr \\> 1.5 mg/dL\n3. Clinical CT scan with more than one contrast imaging phase (for example three phase liver)\n\nExclusion Criteria for Chest CT\n\n1\\. Pregnancy",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants will be enrolled at the NIH Clinical Center. A total of 215 subjects will be enrolled. Subjects will be recruited from the NIH Clinical Center radiology department from subjects scheduled to have a CT scan of the chest, abdomen and pelvis with contrast.",
+  "condition": [
+    "Healthy Subjects"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an imaging study evaluating CT reconstruction methods in adults scheduled for clinical CT scans. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention cancer diagnosis or prior systemic therapy for advanced disease. Patients are included based on the need for a CT scan, not treatment history."
+    }
+  ]
+}

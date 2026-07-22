@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT05484882",
+  "title": "Genomics, Environmental Factors and Social Determinants of Cardiovascular Disease in African-Americans Study (GENE-FORECAST): Prospective COVID-19 Natural History Study",
+  "brief_summary": "Background:\n\nThe COVID-19 pandemic infected and killed African Americans at higher rates than other Americans. Researchers want to understand why.\n\nObjective:\n\nThis natural history study will look at how genetic, environmental, and social factors may predict or affect COVID-19 in African Americans. Information from this study will be combined with data from the GENE-FORECAST study.\n\nEligibility:\n\nAfrican Americans who were previously enrolled in GENE-FORECAST.\n\nDesign:\n\nThe study includes a telephone interview and 1 visit to the NIH clinic. Participants may engage in either one or both of these activities.\n\nThe telephone interview will last 20 minutes. Participants will talk about their experiences during the COVID-19 pandemic.\n\nThe clinic visit will last up to 4 hours.\n\nParticipants will have a physical exam. They will have blood and urine tests.\n\nThey will be tested for COVID-19. A long swab will be inserted into a nostril to get a fluid sample from the back of the nose.\n\nThey will have noninvasive tests of their blood vessels. One device used is a pen-like probe placed lightly on the wrist. Another is a rubber sleeve placed around a finger while a blood pressure cuff is used on the arm.\n\nParticipants will have a test to measure the electrical activity in their heart. Stickers attached to wires will be placed on their chest, arms, and legs.\n\nParticipants will answer more questions about COVID-19. They will talk about their health behavior. They will talk about their family's health and the neighborhood they live in. Other questions will ask how they feel, live, work, and play.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Self-identified African American men and women who previously enrolled in GENE-FORECAST, completed baseline activities and gave permission for recontact through the GENE-FORECAST protocol.\n* Stated willingness to participate in study procedures.\n* Ability of subject to understand and the willingness to give verbal informed consent for the CATI and the ability to understand and the willingness to sign a written informed consent document for the clinic visit.\n\nIndividuals eligible for this protocol are previous GENE-FORECAST participants, all of whom are English speakers. Therefore, by default, this study includes only English speakers.\n\nEXCLUSION CRITERIA\n\nOnly individuals who completed the baseline protocol of GENE-FORECAST and gave permission for recontact through the GENE-FORECAST protocol will be invited to participate. Among this group, there are no exclusions for this study except those who are pregnant.",
+  "minimum_age": "21 Years",
+  "maximum_age": "115 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Up to 650 African American men and women residing in the metropolitan DC area who previously competed baseline activities in the GENE-FORECAST protocol. Participants will be at least 21 years of age.",
+  "condition": [
+    "Heart Disease"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational natural history study of African Americans previously enrolled in GENE-FORECAST, focusing on COVID-19 outcomes. There is no cancer treatment or systemic therapy involved, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This is an observational study with no cancer treatment or systemic therapy; eligibility is based solely on prior participation in GENE-FORECAST and not on cancer therapy history. Line-of-therapy intent is not applicable."
+    }
+  ]
+}

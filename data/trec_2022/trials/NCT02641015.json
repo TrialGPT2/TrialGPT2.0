@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02641015",
+  "title": "Study to Assess Management and Outcomes of Hospitalised Patients With Complicated UTI (RESCUING)",
+  "brief_summary": "A retrospective observational study to assess the clinical management and outcomes of hospitalised patients with complicated urinary tract infection in countries with high prevalence of multidrug resistant gram-negative bacteria (COMBACTE-MAGNET,WP5)",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nPatients with UTI and at least one of the following underlying conditions:\n\n* Indwelling urinary catheter\n* Urinary retention (at least 100ml of residual urine after voiding)\n* Neurogenic bladder\n* Obstructive uropathy (e.g. nephrolithiasis, fibrosis)\n* Renal impairment caused by intrinsic renal disease: Estimated glomerular filtration rate (eGFR) \\<60 mL/min\n* Renal transplantation\n* Urinary tract modifications, such as an ileal loop or pouch\n* Pyelonephritis and normal urinary tract anatomy\n\nand at least one of the following signs or symptoms:\n\n* Chills or rigors associated with fever or hypothermia (temperature greater than 38\u00baC or below 36\u00baC)\n* Flank pain (pyelonephritis) or pelvic pain (cUTI)\n* Dysuria, urinary frequency, or urinary urgency\n* Costo-vertebral angle tenderness on physical examination\n* UTI-related altered mental state\n\nand at least one of the following microbiological results:\n\n* Urine culture with at least 105 CFU/mL or greater of a uropathogen (no more than 2 species)\n* At least one blood culture growing possible uropathogens (no more than 2 species) with no other evident site of infection\n\nExclusion Criteria:\n\n* Patients less than 18 years of age\n* Prostatitis\n* Polymicrobial infections that include Candida spp.\n* Polymicrobial infections that include more than 2 bacterial species\n* cUTI with Candida spp. as sole uropathogen",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Hospitalised patients from 1st January 2013 to the 31st December 2014. Diagnosis of cUTI as the primary cause of hospitalisation and patients hospitalised for another reason but who developed cUTI during their hospitalisation. Patients will be identified by searching for any of the following ICD-9 CM or ICD-10 CM codes at discharge on the hospital administration system: ICD-9 CM Codes: 590.1, 590.10, 590.11, 590.2, 590.8, 590.80, 590.9, 595.0, 595.89, 595.9, 99.0 ICD-10 CM Codes: N10, N12, N13.6, N15.1, N15.9, N30.0, N30.8, N30.9, N39.0",
+  "condition": [
+    "Urinary Tract Infections",
+    "Bacterial Resistance"
+  ],
+  "overall_status": "COMPLETED"
+}

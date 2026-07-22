@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03209583",
+  "title": "ATrial Tachycardia PAcing Therapy in Congenital Heart",
+  "brief_summary": "Congenital heart disease (CHD) affects approximately 1% of newborns in the US, with 25% of those affected having critical conditions requiring open heart surgery within one year of birth. Surgical and medical advances have allowed many patients to live beyond their fourth and fifth decades of life. Unfortunately, cardiac arrhythmias are a relatively common sequela due to cardiac anomalies and surgical scars in addition to residual volume and pressure load on the heart. Atrial arrhythmias, including sinus node dysfunction and intra-atrial re-entrant tachycardia (IART) are among the more common abnormalities found in adults with repaired CHD. The presence of IART significantly increases morbidity and mortality, and anti-arrhythmic medications have been shown to be a sub-optimal treatment strategy with the majority of patients requiring multi-drug therapy. Catheter ablation procedures remain a treatment option, but are less successful for some patient demographics. In the mid-1990's, pacemakers with atrial anti-tachycardia pacing (ATP) capabilities were developed, primarily for the management of atrial flutter and fibrillation in adults with structurally normal hearts. Given the need for pacemakers in the CHD population to manage sinus node dysfunction and atrioventricular node conduction block, the adoption of atrial anti-tachycardia pacemakers began to gain favor. However, there is limited data available comparing the safety and effectiveness of ATP therapy between various demographics of CHD patients. In the current study, the investigators aim to determine if ATP is an effective treatment strategy for IART, specifically within particular sub-populations of CHD patients. Additionally, investigators hope to delineate any significant differences in efficacy of ATP treatment between adult and pediatric congenital heart patients. The research team will accomplish our goals with a retrospective, multi-center study in which data is collected from existing electronic medical records and pacemaker interrogations. Following data collection, the investigators will employ statistical analyses to determine if certain CHD demographics are statistically significant predictors of ATP therapy outcomes.\n\nThe purpose of this prospective/retrospective study is to determine how effective atrial anti-tachycardia therapies are with the congenital heart patients who are known to have atrial arrhythmias. As this population ages, we know that arrhythmic burden increases and medications are increased or changed for symptomatic improvement.\n\nPatients will be enrolled at the time of anti tachycardia device (ATD) placement or when device therapies are turned on. Patients will need a minimum of 5 years of clinical history prior to implantation and after implantation (unless patient is very young). Data will be collected both retrospectively and prospectively. The research team will consent patients at the time of clinical evaluations and scheduled follow-ups (usually 3 - 6 months). If therapy is effective, investigators will determine the specific programming which was successful. If therapy was ineffective, investigators will also determine if a change in programing was made and if this improved ATP efficacy. Investigators will also determine the arrhythmia burden. Cardioversion and medications before and after ATD implantation will be the key determinants of arrhythmia burden in this study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* must have structural CHD, an atrial arrhythmia and an ATD implanted. ATP must be turned on.\n\nExclusion Criteria:\n\n* Other arrhythmias substrates such as Long QT (LQT), hypertrophic Cardiomyopathy (HCM), Catecholaminergic polymorphic ventricular tachycardia (CPVT), Arrhythmogenic Right Ventricular Cardiomyopathy.(ARVC), Brugada \\& patients who undergo transplant, surgical maze, or ablation within 5 years of ATD implantation.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Children and adults with structural congenital heart disease, with documented atrial arrhythmia (IART, CHB, SND), and with an ATD which has therapies enabled. Patients will all be seen by providers at the University of Iowa Children's Hospital.",
+  "condition": [
+    "Atrial Arrhythmia",
+    "Atrial Tachycardia",
+    "Congenital Heart Disease",
+    "Pacemaker Re-Entrant Tachycardia"
+  ],
+  "overall_status": "RECRUITING"
+}

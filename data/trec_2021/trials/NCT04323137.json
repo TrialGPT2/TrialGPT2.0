@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT04323137",
+  "title": "Encouraging Flu Vaccination Among High-Risk Patients Identified by ML",
+  "brief_summary": "The purpose of the current study is to test different interventions to determine the most effective way to promote flu vaccine uptake in a high-risk population identified by an \"artificial intelligence\" (AI) or machine learning (ML) algorithm. The specific aims are:\n\n1. Evaluate the effect on flu vaccination rates of informing health-system patients who are identified by an ML analysis of EHR data to be at high risk for flu complications that they are at high risk with either (a) no additional explanation, (b) an explanation that this determination comes from an analysis of their medical records, and (c) the additional explanation that an AI or ML algorithm made this determination.\n2. Evaluate the effects of the same three interventions on diagnoses of flu in the same patients.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Current Geisinger patient at the time of study\n* Falls in the top 10% of patients at highest risk, as identified by the flu-complication risk scores of Medial's machine learning algorithm (which operates on coded EHR data)\n* May limit inclusion to patients that are under Geisinger primary care, depending on algorithm performance of patients who have non-Geisinger PCPs\n\nExclusion Criteria:\n\n* Has contraindications for flu vaccination\n* Has opted out of receiving communications from Geisinger via all of the modalities being tested",
+  "minimum_age": "17 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Influenza",
+    "Vaccination",
+    "Health Promotion",
+    "Health Behavior",
+    "Risk Reduction"
+  ],
+  "overall_status": "COMPLETED"
+}

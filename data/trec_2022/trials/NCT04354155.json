@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04354155",
+  "title": "COVID-19 Anticoagulation in Children - Thromboprophlaxis (COVAC-TP) Trial",
+  "brief_summary": "The purpose of this study is to evaluate the safety, dose-requirements, and exploratory efficacy of twice-daily subcutaneous enoxaparin as venous thromboembolism prophylaxis in children (birth to 18 years) hospitalized with signs and/or symptoms of SARS-CoV-2 infection (i.e., COVID-19).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Birth to \\<18 years of age; AND\n2. Positive nucleic acid test for SARS-CoV-2 within the past 7 days; AND\n3. Hospitalized, \\<72 hours post-admission; AND\n4. One or more signs and/or symptoms of COVID-19 illness within the past 72 hours, as follows:\n\n   1. Cough; OR\n   2. Fever (oral temperature \\>100.4\u00b0F/38\u00b0C); OR\n   3. Chest pain; OR\n   4. Shortness of breath; OR\n   5. Myalgia; OR\n   6. Acute unexplained loss of smell or taste; OR\n   7. New/increased supplemental oxygen requirement; OR\n   8. Acute respiratory failure requiring non-invasive or invasive ventilation; OR\n   9. Encephalitis.\n\nExclusion Criteria:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Receiving therapeutic anticoagulation for treatment of a thromboembolic event diagnosed within the past 12 weeks; OR\n2. Clinical-relevant bleeding (see criteria under Primary Outcome, below) within the past 72 hours; OR\n3. Platelet count \\<50,000/\u00b5L within the past 24 hours; OR\n4. Prothrombin time (PT) \u22652 seconds above the upper limit of age-appropriate local reference range within the past 24 hours; OR\n5. Activated partial thromboplastin time (aPTT) \u22654 seconds above the upper limit of age-appropriate local reference range within the past 24 hours; OR\n6. Fibrinogen level \\<75 mg/dL; OR\n7. Severe renal impairment, as defined by estimated glomerular filtration rate (eGFR) \\<31 mL/min/ 1.73 m2, as calculated by the Schwartz formula; OR\n8. Parent or legally authorized representative unwilling to provide informed consent for patient participation.",
+  "minimum_age": "0 Years",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Infection Viral",
+    "Thromboses, Venous",
+    "COVID-19"
+  ],
+  "overall_status": "COMPLETED"
+}

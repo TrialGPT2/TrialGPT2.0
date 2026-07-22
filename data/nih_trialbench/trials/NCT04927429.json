@@ -1,0 +1,40 @@
+{
+  "nctid": "NCT04927429",
+  "title": "Technical Development of Cardiovascular Magnetic Resonance Imaging",
+  "brief_summary": "Background:\n\nIn the U.S., over 6.5 million people have heart failure. Researchers want to develop new testing methods for cardiovascular problems using magnetic resonance imaging (MRI) to improve the clinical diagnosis and management of people with heart failure.\n\nObjective:\n\nTo develop and test new methods for imaging the heart and blood vessels using MRI.\n\nEligibility:\n\nPeople ages 18 years and older who are having an MRI of their heart or blood vessels. Healthy volunteers are also needed.\n\nDesign:\n\nParticipants will be screened with a medical history.\n\nParticipants will have a physical exam and blood tests. They will have an electrocardiogram (ECG) to measure the heart s electrical activity. Then they will have their scheduled MRI scan. The MRI scanner is a large, hollow tube. Participants will lie on a table that moves in and out of the tube. During the MRI, they may have contrast dye injected through an intravenous line inserted into their arm or hand. ECG may be used to monitor their heartbeat or coordinate pictures with their heartbeat. A flexible belt may be used to monitor their breathing. A finger probe may be used to track their heart rate and/or oxygenation level. Their blood pressure may be measured. Pictures may be taken of their blood vessels, heart, and lungs before, during, and after they get medicine to increase blood flow. They may lie flat and pedal a stress bicycle to increase their heart rate.\n\nParticipation will last for 5 years. During that time, participants may receive a yearly survey about their health. They may be contacted for an optional follow-up MRI within 2 years of their MRI.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nGroup A: In order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Provision of signed and dated informed consent form by subject\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Male or female, 18 years or older\n* Subjects undergoing a clinically indicated MRI examination. Examples of medical indications include known or suspected heart failure or cardiomyopathy, chest pain with known or suspected coronary artery disease, unexplained dyspnea, valve disease, known or suspected congenital heart disease, cardiac masses and known or suspected aortic disease, exposure to cardiotoxic drugs, and systemic illnesses with known associated cardiovascular involvement.\n\nGroup B, Healthy volunteers enrolled for developmental testing and establishing reference values for the custom pulse sequences. In order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Provision of signed and dated informed consent form\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Male or female, 18 years or older\n\nEXCLUSION CRITERIA:\n\n1. An individual who meets any of the following criteria will be excluded from participation in this study:\n\n   * Unable to undergo magnetic resonance imaging because of:\n\n     * Central nervous system aneurysm clips\n     * Implanted neural stimulator\n     * Implanted cardiac pacemaker or defibrillator\n     * Cochlear implant\n     * Ocular foreign body (e.g. metal shavings)\n     * Implanted Insulin pump\n     * Metal shrapnel or bullet\n\n   unless any of the above objects have been cleared as safe for MRI according to the assessment present as clinical routine at the site.\n   * 2.For examinations that include contrast injection of GBCA:\n\n     \\-- renal excretory dysfunction, estimated glomerular filtration rate \\<= 30 mL/min/1.73m(2) body surface area.(estimated glomerular filtration rate is only determined according to the institutional guidelines of patients at risk of renal dysfunction and may also depend upon the dose of GBCA administered).\n\n     \\-- Known allergic reactions to GBCA\n\n     \\-- Subjects may still be invited for non-contrast enhanced examinations or undergo MR examination with ferumoxytol as contrast agent.\n\n     . For examinations that include contrast injection of ferumoxytol\n\n     \\-- Known allergic reactions to ferumoxytol or to mannitol excipient\n   * For subjects with a planned pharmacological stress test with adenosine or regadenoson the following contraindications will be considered as exclusion criteria:\n\n     --Bronchospastic lung disease with ongoing wheezing or history of significant reactive airway disease\n\n     --Second- or third- degree atrioventricular blood, sinus node disease without a functioning MR conditional pacemaker\n\n     --Systolic blood pressure \\< 90 mmHg\n\n     --Uncontrolled hypertension (systolic BP \\> 200 mmHg or diastolic BP \\> 110 mmHg)\n\n     --Recent (\\< 48hr) use of dipyridamole of dipyridamole- containing medications\n\n     --Known hypersensitivity to adenosine or regadenoson.\n     * Unstable angina, acute coronary syndrome, or less than 2- 4 days after an acute myocardial infarction\n     * For regadenoson only: seizure disorder as regadenoson may lower seizure threshold. Aminophylline should not be used in cases of seizures associated with Regadenoson.\n   * Pregnant Women.\n   * Lactating Women for administration of GBCA unless the subjects is willing to discard the milk for 24 hours after receiving gadolinium\n\n   In addition, the following exclusion criteria pertains to Group B, healthy volunteers to be considered for reference values:\n   * Known history of major illness, including, but not limited to having a hypertension diagnosis in need of anti-hypertensive medication, myocardial infarction, diabetes, familial hypercholesterolemia, cardiomyopathy, congenital heart disease, moderate or severe valvular disease, cerebrovascular insult or peripheral vascular disease, symptoms of angina or dyspnea, current smoker.\n   * Decisionally impaired individuals",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Primary clinical",
+  "condition": [
+    "Cardiovascular Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an imaging development study enrolling both patients with cardiovascular disease undergoing clinically indicated MRI and healthy volunteers. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Group A",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility for Group A is based on undergoing a clinically indicated MRI for various cardiovascular conditions; there is no mention of prior systemic therapy for advanced disease. The protocol does not specify any requirements or exclusions related to prior lines of therapy."
+    },
+    {
+      "cohort_label": "Group B",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Group B consists of healthy volunteers with no major illness; there is no mention of prior systemic therapy for advanced disease. Prior cancer therapy is not addressed in the eligibility criteria."
+    }
+  ]
+}

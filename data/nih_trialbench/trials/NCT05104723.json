@@ -1,0 +1,38 @@
+{
+  "nctid": "NCT05104723",
+  "title": "Safety and Efficacy of Tofacitinib for Chronic Granulomatous Disease With Inflammatory Complications",
+  "brief_summary": "Background:\n\nChronic granulomatous disease (CGD) is a disease of the immune system, which is how the body fights germs. People with CGD get infections easily and have other health problems. Some medicines to treat CGD have a lot of side effects and do not always work. Researchers want to see if a new drug can help.\n\nObjective:\n\nTo see if tofacitinib is safe to use for treating chronic CGD.\n\nEligibility:\n\nAdults aged 18 and older with CGD who have not had success with other treatments and who are enrolled on NIH study # 93-I-0119.\n\nDesign:\n\nParticipants will be screened with the following:\n\nPhysical exam\n\nMedical history\n\nBlood, urine, and stool tests\n\nPregnancy test, if needed\n\nAn upper gastrointestinal endoscopy and/or colonoscopy, if needed for their symptoms. Tissue samples will be collected.\n\nSkin assessment, if needed\n\nParticipants will repeat some screening tests at visits.\n\nParticipants will complete questionnaires about their general health and how CGD affects their daily life. Photographs will be taken of their skin, if needed. They will have lung function tests, if needed. They will have a computed tomography (CT) scan of the chest, abdomen, and pelvis, if needed. A CT scan uses X-rays to create pictures of the inside of the body.\n\nParticipants will gradually reduce the amount of some CGD medicines they take. Then they will take tofacitinib as a pill twice a day or once a day for 3 months. They will keep a drug diary. They will have monthly study visits. They will have a follow-up visit about 1 month after their last study drug visit.\n\nParticipation will last for about 6 months.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Aged \\>=18 years.\n2. Enrolled on NIH study 93-I-0119.\n3. Has a documented diagnosis of one or more of the following and is not controlled under current therapy (per investigator assessment):\n\n   1. Endoscopically diagnosed mild-to-severe CGD-related IBD.\n   2. Radiographic or PFT changes (DLCO\\<60%, FEV1\\<70%) consistent with CGD-related inflammatory lung disease.\n   3. Any inflammatory skin disease related to CGD (eg, hidradenitis suppurativa or granulomatous skin disease).\n4. Able to provide informed consent.\n5. Participants who can become pregnant or who can impregnate their partner must agree to use at least one highly effective method of contraception when engaging in sexual activities that can result in pregnancy, starting at the first dose of tofacitinib until 2 days after the last dose. Highly effective methods include a barrier (eg, condom, diaphragm, cervical cap), intrauterine device, or hormonal contraception.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Known allergy or hypersensitivity to any component of the tofacitinib formulation.\n2. Known allergy or hypersensitivity to any component of the acyclovir or valacyclovir formulation.\n3. Active or latent tuberculosis.\n4. Infection with hepatitis B or C, or HIV.\n5. Active EBV infection.\n6. History of GI perforation.\n7. History of malignancy (except for nonmelanoma skin cancer).\n8. Concomitant use of acetylsalicylic acid and/or NSAIDs that cannot be safely discontinued.\n9. History of connective tissue disease.\n10. End-stage renal disease or chronic kidney disease, defined as estimated glomerular filtration rate (eGFR) \\<15 mL/min/1.73 m\\^2.\n11. Evidence of other invasive or systemic fungal, bacterial, or viral infections requiring therapy.\n12. Pregnant.\n13. Breastfeeding.\n14. Current use of inhaled tobacco products, vaping product, inhaled cannabis, or other illicit inhaled drugs.\n15. Current use of strong CYP3A4 inducer and unable to discontinue at least 14 days before beginning of tofacitinib regimen.\n16. Concomitant medical condition that could interfere with study drug evaluation or that is a contraindication to the proposed investigational treatment based upon known agent safety profile or toxicities.\n17. Any of the following laboratory abnormalities:\n\n    1. Alkaline phosphatase and either ALT or AST \\>2.5 times the upper limit of normal (ULN).\n    2. Serum creatinine level \\>5 mg/dL.\n    3. Absolute neutrophil count (ANC) \\<1000 cells/microL.\n    4. Lymphocyte count \\<500 cells/microL.\n18. History of unprovoked deep vein thrombosis, pulmonary embolism, or other thrombotic events.\n19. History of heart failure.\n20. Current immobilization, ie, bed-bound and unable to ambulate.\n21. Exposure to any investigational agent within the last 4 weeks.\n22. Any other finding that, in the judgment of the investigator, would interfere with, or serve as a contraindication to, protocol adherence, assessment of safety or reactogenicity, or a participant s ability to give informed consent, or increase the risk of having an adverse outcome from participating in the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chronic Granulomatous Disease",
+    "Inflammatory Gastrointestinal Disease",
+    "Inflammatory Skin Disease",
+    "Inflammatory Lung Disease"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This trial enrolls adults with chronic granulomatous disease (CGD) who have inflammatory complications not controlled under current therapy. There are no explicit requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility requires CGD with inflammatory complications not controlled under current therapy, but there is no mention of prior lines of systemic therapy for advanced disease. The protocol does not specify a minimum or maximum number of prior systemic treatments, nor does it address adjuvant-only patients."
+    }
+  ]
+}

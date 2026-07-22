@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04570397",
+  "title": "Ravulizumab and COVID-19",
+  "brief_summary": "Ultomiris (Ravulizumab), is a monoclonal antibody that specifically targets terminal complement products and is proposed for the treatment of COVID-19 induced microvasculature injury and endothelial damage leading to thrombotic microangiopathy (TMA) causing acute kidney injury (AKI). Ravulizumab is to be used for participants with a confirmed diagnosis of COVID-19 who clinically or diagnostically present with deteriorating renal function. Ravulizumab causes immediate and sustained inhibition of the terminal complement cascade. The use of ravulizumab could ameliorate COVID-19 induced kidney injury due to TMA, shorten hospital stay, and improve the overall survival.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Males or Females 18 years of age or above and weighing 40kg or above at the time of providing informed consent.\n2. A clinical diagnosis of thrombotic microangiopathy will then be applied to include the following criteria: i) D-dimer \\> 100% the upper limit of the reference range and ii) serum creatinine \\>25% of the normal range or iii) \\>25% increase from patient's baseline serum creatinine.\n3. Diagnosis of SARS-CoV-2 infection within 90 days prior to enrollment\n\nExclusion Criteria:\n\n1. Participant is not expected to survive more than 24 hours.\n2. Participant has an unresolved Neisseria Meningitides infection.\n3. Hypersensitivity to murine proteins or to one of the excipients of ravulizumab.",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19",
+    "Thrombotic Microangiopathies",
+    "Acute Kidney Injury"
+  ],
+  "overall_status": "UNKNOWN"
+}

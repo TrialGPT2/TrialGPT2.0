@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT01150708",
+  "title": "A Prospective Natural History Study of Patients With Syringomyelia",
+  "brief_summary": "Background:\n\n* Syringomyelia is a disorder in which a cyst (syrinx) forms within the spinal cord and causes spinal cord injury, with symptoms worsening over many years, including paralysis, loss of sensation, and chronic pain. Researchers are interested in obtaining more knowledge about how a syrinx forms in order to develop safer and more effective treatments for syringomyelia and related conditions.\n* The goal of surgical treatment of syringomyelia is to eliminate the syrinx and prevent further spinal cord injury. In most patients, surgery results in the syrinx becoming smaller, but the effect of surgery on a patient s muscle strength, pain level, and overall function has not been studied over time. In addition, some individuals with syringomyelia or related conditions are not considered to be good candidates for surgery, and more information is needed about potential alternative treatments for these individuals.\n* By recording more than 5 years of symptoms, muscle strength, general level of functioning, and magnetic resonance imaging (MRI) scan findings from individuals who receive standard treatment for syringomyelia, researchers can obtain more information about factors that influence its development, progression, and relief of symptoms.\n\nObjectives:\n\n\\- To conduct a 5-year natural history study of individuals with syringomyelia and related conditions.\n\nEligibility:\n\n\\- Individuals at least 18 years of age who have syringomyelia or related conditions (including pre-syringomyelia or Chiari I malformation without syringomyelia).\n\nDesign:\n\n* This study requires 7 outpatient visits to the National Institutes of Health Clinical Center: an initial visit; a visit 3 months later; and visits 1, 2, 3, 4, and 5 years after the initial visit. An additional 10 days of inpatient treatment and testing will be required if surgery is needed during the study.\n* The following tests will be performed during this study:\n* Medical history and physical examination, which may also determine eligibility for surgery\n* Detailed neurological history and examination\n* Blood and urine samples\n* MRI scans: Participants will have 2 scans at the initial evaluation, 2 scans at the 3-month visit, and 1 scan every year for the following 5 years.\n* Additional neurological and imaging tests if needed, including a lumbar puncture to collect spinal fluid, a myelogram (imaging study) of the spinal fluid, and a computed tomography scan of the skull and spine.\n* Participants who are surgical candidates will have additional tests along with the surgery, including diagnostic studies (electrocardiogram and chest X-ray) before surgery and an MRI scan 1 week after surgery.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible to participate in this research study, the subject must:\n\n1. Be 18 years of age or older.\n2. Have syringomyelia, presyringomyelia, or Chiari I malformation without syringomyelia.\n3. Be able to give informed consent.\n\nADDITIONAL CRITERIA FOR PATIENTS THAT MAY UNDERGO SURGERY (not required for study inclusion)\n\n1. new or increased impairment in sensation, strength, or walking within the previous 2 years; and\n2. an MRI-scan showing a syrinx or the presence of abnormal fluid and swelling in the spinal cord; the abnormality in the spinal cord must be located in a part of the spinal cord that could produce the patient s symptoms; and\n3. evidence of abnormalities at the base of the skull or within the spine that are often associated with syringomyelia, or abnormalities in CSF circulation that increase the pressure of the cerebrospinal fluid; and\n4. medical health that is sufficient to allow the subject to withstand a major surgical procedure and to remain active during the recovery period after surgery.\n\nEXCLUSION CRITERIA:\n\nThe subject will not be eligible to participate in this research study if the subject:\n\n1. Is pregnant (because multiple MRI scans might injure a fetus).\n2. Cannot have an MRI scan as determined by the radiologist (see the risks below).\n3. Has a problem with bleeding that cannot be corrected.\n\nNote: Prior surgery for syringomyelia does not result in exclusion from the study if there is radiographic evidence of recurrent or persistent syringomyelia after surgery for this condition (failed previous surgery).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population is 180 patients with syringomyelia or with a condition that predisposes to the formation of syringomyelia such as presyringomyelia or Chiari I malformation without syringomyelia. A syrinx or syringomyelia is defined as an intramedullary cyst that extends / length \\> 1 spinal segment. Presyringomyelia will be defined as T2 hyperintensity \\> 4mm diameter extending over one spinal segment and associated with either Chiari I Malformation or a spinal lesion.A Chiari I Malformation without syringomyelia is defined as descent of the cerebellar tonsils \\> 5 mm below the foramen magnum without associated syringomyelia.",
+  "condition": [
+    "Syringomyelia",
+    "Arnold Chiari Deformity"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a prospective natural history study of patients with syringomyelia or related conditions, including both treatment-naïve and previously treated individuals. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, as this is not an interventional oncology trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference prior systemic therapy for advanced disease, as this is a natural history study of syringomyelia and related conditions. There are no requirements or exclusions based on prior lines of therapy, and the study is not focused on cancer or systemic treatment lines."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02276092",
+  "title": "Impact of a Regional Antimicrobial Stewardship on the Length of Stay of Patients Admitted to Hospital With Pneumonia",
+  "brief_summary": "This study evaluates the effectiveness of an antimicrobial stewardship program to reduce the length of stay of patients admitted to hospital with a diagnosis of pneumonia. The antimicrobial stewardship program will be implemented in several hospitals in Ontario, Canada. The program will identify patients with pneumonia, review their charts and make recommendations to their attending physicians about antibiotic management.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Community-acquired pneumonia\n* Immunocompetent\n* Age \\> 18 years\n\nExclusion Criteria:\n\n* Admitted to an intensive care unit or high intensity unit\n* Requiring invasive or non-invasive ventilation\n* Life expectancy less than 3 months\n* Hospitalization within the previous 3 months for at least 48 consecutive hours\n* Immunocompromised defined as defined as having leukemia, lymphoma, HIV with CD4 count \\<=200, splenectomy or on cytotoxic chemotherapy\n* Neutropenic \\[defined as a PMN count\\<=0.5x109 cells/L\\] from any cause\n* Receiving immunosuppressants \\[defined as \\>=40 mg prednisone daily (or steroid equivalent) for \\>=2 weeks preceding hospitalization OR any other immunosuppressant used for systemic illness OR to prevent transplant rejection",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult patients over the age of 18 years admitted to a hospital ward with a diagnosis of community-acquired pneumonia as determined by the most responsible physician",
+  "condition": [
+    "Pneumonia"
+  ],
+  "overall_status": "COMPLETED"
+}

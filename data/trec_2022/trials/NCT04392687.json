@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04392687",
+  "title": "The Study of Slip Pulse Feature Extraction Method Based on the Image Processing Technology for Traditional Chinese Medicine",
+  "brief_summary": "The diagnoses processes of Traditional Chinese Medicine (TCM) focus on the following four main types of diagnoses methods consisting of inspection, listening and smelling, inquiry, and palpation. The most important one is palpation also called pulse diagnosis which is to measure wrist artery pulse by TCM doctor's fingers to detect patient's health state. The pulse diagnosis has three parts, namely 'Cun', 'Guan' and 'Chi', with the location. Wrist measurements correspond to different parts of the body's organs.\n\nHowever, the pulse information is analyzed by TCM doctor's pulse diagnoses process, which is picked only a single waveform from a long-term pulse measured process and often discarded the other waveforms contained in the same information, e.g. Slippery Pulse waveform. The research object of this project is to divide the TCM diagnosis patients into two groups, one is the Slippery Pulse group and the other is a Normal Pulse group, in which 30 cases are collected in each group. The purpose of this project will integrate the TCM doctor's experiences and standardize them in order to construct an effective Slippery Pulse diagnosis system. It could refine Slippery Pulse diagnoses processes and reduce their diagnoses loading by using the proposed approach during this project. Therefore, we could carry out the research on feature extraction method of Slippery Pulse based on the image processing technology. We could extract the pulse characteristics of Slippery Pulse automatically from the many measurement signals and improve the automatic judging ability of the current pulse instrument to the Slippery pulse waveform. Provide important pulse information to the TCM doctors as an important reference for clinical diagnoses.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Already sign test consent permit.\n2. More than 20-year-old.\n\nExclusion Criteria:\n\n1. Can not accept acupuncture points stimulators.\n2. Allergic to acupuncture needles.",
+  "minimum_age": "20 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "primary care clinic",
+  "condition": [
+    "Alippery Pulse"
+  ],
+  "overall_status": "UNKNOWN"
+}

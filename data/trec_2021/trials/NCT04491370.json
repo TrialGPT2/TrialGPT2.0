@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT04491370",
+  "title": "Autologous Stem Cell Transplant Followed by Polatuzumab Vedotin in Patients With B-cell Non-Hodgkin and Hodgkin Lymphoma",
+  "brief_summary": "Patients will receive one of two conditioning regimens (BEAM or CBV) before receiving an autologous stem cell transplant (ASCT). If patients achieve either complete, partial, or stable response following ASCT, they will receive an IV dose of Polatuzumab Vedotin once every 21 days until they receive 8 doses. After Polatuzumab Vedotin therapy is completed, patients will be followed every 4 months for about 2 years.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosis B-cell NHL: Burkitt lymphoma, Diffuse Large B Cell Lymphoma, Follicular Lymphoma, Mantle Cell Lymphoma, Marginal Zone Lymphoma, Transformed Follicular Lymphoma, Richter syndrome, and CD20+ Hodgkin Lymphoma.\n* Disease Status Primary Induction Failure, 1st, 2nd or 3rd relapse/progression having attained a CR, PR, or stable disease post reinduction therapy.\n* Performance Level Patients must have a performance status \u2265 50%. Use Karnofsky for patients \\> 16 years of age and Lansky for patients less than or equal to 16 years of age. See Appendix I for performance score.\n* Life Expectancy Patients must have a life expectancy of \\> 6 weeks.\n* Prior Therapy Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study.\n\n  1. Myelosuppressive chemotherapy: Must not have received within 2 weeks of entry onto this study (4 weeks if prior nitrosourea).\n  2. Biologic (anti-neoplastic agent): At least 7 days since the completion of therapy with a biologic agent.\n* Organ Function Requirements\n\nAdequate Renal Function Defined As:\n\n* Creatinine clearance or radioisotope GFR \\> 60 mL/min/1.73 m2 or\n* A serum creatinine based on age/gender as follows:\n\nAge Maximum Serum Creatinine (mg/dL) Male Female\n\n* 12 to \\< 13 years 1.2 1.2 13 to \\< 16 years 1.5 1.4\n* 16 years 1.7 1.4\n\n  * Adequate Liver Function Defined As:\n\n    * Total bilirubin less than or equal to 1.5 x upper limit of normal (ULN) for age, and\n    * SGOT (AST) or SGPT (ALT) \\< 3 x upper limit of normal (ULN) for age for presumed hepatic leukemia or lymphoma.\n  * Adequate Cardiac Function Defined As:\n\n    * Shortening fraction of \\> 27% by echocardiogram, or\n    * Ejection fraction of \\> 50% by radionuclide angiogram.\n  * Adequate Pulmonary Function Defined As:\n\n    \u2022 Normal respiratory rate for age and a pulse oximetry \\> 94% on room air unless due to underlying malignancy.\n  * Peripheral Blood Stem Cell Collection\n\n    \u2022 Patients have a target of 5.0 x 106 CD34 (minimum of 2.5 x 106 CD34) PBSC collected and cryopreserved prior to start of myeloablative conditioning\n  * All patients and/or their parents or legal guardians must sign a written informed consent.\n\nExclusion Criteria:\n\n* Patient may not have had a prior stem cell transplant\n* Patients must not have active CNS lymphoma\n* Other concurrent investigational agents for treatment of B-cell lymphoma\n* Pregnancy and/or active Breast Feeding\n* Sexually active patients of reproductive potential are not eligible unless they have agreed to use an effective contraceptive method for the duration of their study participation.\n* Patient must not have an uncontrolled infection.\n* Patient must not have \u2265 Grade 3 neuropathy.",
+  "minimum_age": "12 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "B-cell Lymphoma",
+    "Burkitt Lymphoma",
+    "Diffuse Large B Cell Lymphoma",
+    "Follicular Lymphoma",
+    "Mantle Cell Lymphoma",
+    "Marginal Zone Lymphoma",
+    "Transformed Non-Hodgkin Lymphoma",
+    "Richter Syndrome",
+    "Hodgkin Lymphoma"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT00026884",
+  "title": "Collection of Serum and Tissue Samples From Patients With Biopsy-Proved or Suspected Malignant Disease",
+  "brief_summary": "Selected patients suspected of having or with prior biopsy proof of malignant disease will be seen in the Urologic Oncology Branch, NCI. Blood samples may be collected at the time of the initial visit and at periodic intervals during the course of the disease. These samples will be stored in the tissue bank of the Urologic Oncology Branch. Aliquots of malignant and normal tissue will be collected at the time of surgery and stored in the tissue bank, Urologic Oncology Branch, NCI. These materials will be used in the research efforts of the Urologic Oncology Branch, NCI.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Adult and minor patients with biopsy-proven malignant disease\n* Adult and minor patients suspected of having a malignant disease\n* Patients who have or are suspected of having an inherited genitourinary malignant disorder\n* Participants must be \\>= 2 years of age\n* Family members (related by blood) of patients who have or are suspected of having a malignant disease or an inherited genitourinary malignant disorder.\n* All patients and guardians, for children younger than 18 years of age, must sign an informed consent document indicating their understanding of the investigational nature and the risks of this study before any protocol related studies are performed. Patients under the age of 18 but who are age 13 or older will be asked to sign an assent document prior to participation.\n\nEXCLUSION CRITERIA:\n\n\\- Subjects whose co-morbidities preclude surgical intervention.",
+  "minimum_age": "2 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "1\\. Patients with biopsy-proven malignant disease 2. Patients suspected of having malignant disease 3. Patients with known or suspected urologic malignant disorders who have clinically indicated urologic or non-urologic surgical lesion 4. Family members of patients suspected of having an inherited genitourinary malignancy 5. Family members of patients with a DNA variant",
+  "condition": [
+    "Malignant Neoplasms",
+    "Hereditary Neoplastic Syndromes",
+    "Kidney Cancer",
+    "Renal Cancer",
+    "Bladder Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a biospecimen collection protocol enrolling patients with suspected or confirmed malignant disease, regardless of prior therapy. There are no restrictions on prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes all patients with biopsy-proven or suspected malignant disease, with no mention of required or excluded prior systemic therapy for advanced disease. Patients who have only received adjuvant or neoadjuvant therapy, or are treatment-naïve, are eligible. There are no restrictions on the number of prior lines."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT06280807",
+  "title": "Observation of Environment and Reproductive-Endocrine Effects",
+  "brief_summary": "Background:\n\nEndocrine disorders occur when the glands that make hormones do not work properly. Hormones levels that are too high or too low can cause problems such as late or early puberty, irregular periods, and infertility. Environmental factors - including pollution; chemical exposure at home and work; foods; medicines; and sleep habits - may cause problems with the endocrine and reproductive systems.\n\nObjective:\n\nTo learn how environmental factors may affect the endocrine and reproductive systems.\n\nEligibility:\n\nMales or females, referring to sex assigned at birth, aged 8 years and older; they must have hypogonadism, infertility, or other reproductive disorders.\n\nDesign:\n\nAdult participants will have 4 to 5 visits in 5 years. Children may have up to 12 visits; they may remain in the study up to the age of 23. Most visits will be less than 3 hours.\n\nParticipants will be screened. They will have a physical exam. They will have blood and urine tests. They will complete questionnaires; they will answer questions about their diet, health, and other topics. Some may be referred for additional tests, such as imaging scans and semen analysis.\n\nSpecific tests conducted during study visits will vary, depending on the participant s diagnosis. In addition to repeated blood and urine tests, these may include:\n\nBody composition measure: Participants will sit in a pod-shaped machine for about 6 minutes. The machines measures the air inside the capsule to record body fat and breathing volume.\n\nResting energy expenditure test: Participants will lie down with a clear dome placed over their head. They will breathe quietly for 30 minutes. This test measures the number of calories their body burns at rest.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Male or female, referring to sex assigned at birth (cis gender)\n2. Age \\> 8 years and weight \\>= 12 kg\n3. A diagnosis of hypogonadism, infertility or other reproductive dysfunction\n\n   Some specific diagnoses (as defined in standard guidelines) will include:\n   * Male or female hypogonadism\n\n     * Obesity/metabolic syndrome related to hypogonadism.\n     * Other reproductive dysfunction (e.g., secondary to endocrine dysfunction, thyroid disorders, Cushing syndrome, pharmacotherapy, etc.)\n     * Premature Ovarian Insufficiency\n     * Isolated hypogonadotropic hypogonadism\n   * Polycystic Ovarian Syndrome\n   * Delayed Puberty\n   * Precocious puberty\n   * Perimenopause and post-menopausal states\n   * Androgen Excess States (Nonclassic Congenital Adrenal Hyperplasia, Extreme hyperinsulism, Idiopathic etc.)\n\n   or\n\n   -Exhibiting signs of a diagnosis of hypogonadism, e.g., Bosma arrhinia microphthalmia syndrome (BAMS)\n4. Ability of participant, legal guardian, or Legally Authorized Representative (LAR) to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. A diagnosis of a serious medical disorder such as malignancy or heart disease will be grounds for exclusion at the discretion of the PI or AI.\n2. Inability to follow up with the research study and/or perform study procedures, at the discretion of the PI or AI.\n3. Pregnant participants, less than 18 years of age, for their safety, since there is not a trained doctor on the study to give proper medical care to pregnant individuals less than 18 years of age.\n\nIndividuals who do not meet the criteria for participation in this study (screen failure) because of an acute, reversible or transient medical reason may be rescreened upon reversal, improvement or stabilization of their clinical status. Participants who develop an acute, reversible or transient medical condition during the study may return upon reversal, improvement or stabilization of their clinical status.",
+  "minimum_age": "8 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult and pediatric (between the ages of 8 and 18), cisgender male and females, from the communities and surrounding areas of Durham, Chapel Hill and Raleigh in NC; and Bethesda, MD.",
+  "condition": [
+    "Hypogonadism",
+    "Hypergonadism",
+    "Precocious Puberty",
+    "Late Puberty",
+    "Amenorrhea"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling patients with hypogonadism, infertility, or other reproductive-endocrine disorders to assess environmental and reproductive-endocrine effects. There are no requirements or restrictions regarding prior systemic therapy for advanced disease, as this is not an interventional oncology trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference cancer, advanced disease, or prior systemic therapy. There are no requirements or exclusions based on prior lines of therapy for advanced/metastatic disease, as this is a non-oncology observational study."
+    }
+  ]
+}

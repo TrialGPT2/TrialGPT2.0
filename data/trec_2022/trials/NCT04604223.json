@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04604223",
+  "title": "Effect of Pioglitazone on T2DM Patients With COVID-19",
+  "brief_summary": "Approximately 10-15% of patients infected with COVID-19 develop severe illness characterized by respiratory distress, increased risk of clotting disease, myocardial damage, stroke and mortality. Subjects with Type 2 diabetes (T2DM) are at increased risk for severe COVID-19 disease. Exuberant inflammatory and immune responses were suggested as the etiology responsible for the development of severe COVID-19 disease. The increased chronic inflammatory state characteristic of T2DM could contribute to the increased risk of severe COVID-19 disease in T2DM patients. Therefore, its possible that anti-inflammatory therapy will reduce the risk of severe COVID-19 disease. Consistent with this assumption, a recent study has reported that steroid therapy improves the outcome in patients with severe COVID-19 disease.\n\nThe medication pioglitazone is a strong insulin sensitizer that reduces plasma glucose concentrations in T2DM patients. In addition to improving insulin sensitivity, several studies have demonstrated that pioglitazone reduces chronic inflammation in T2DM patients, which is manifested in a decrease in TNF-alpha, interleukin, hs CRP, leptin and other inflammatory markers in T2DM treated with pioglitazone. Further, pioglitazone enhances the plasma level of anti-inflammatory agents. For example, the plasma level of 15-epi-lipoxin A, a lipid mediator with strong anti-inflammatory and inflammation-resolving effects that has been reported to neutralize RNA coated viruses, is significantly elevated by pioglitazone treatment in T2DM patients. Therefore, we hypothesize that administering pioglitazone to T2DM patients who have moderate-to-severe COVID-19 will improve the clinical outcome of their COVID-19 disease.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. T2DM according to the ADA criteria. Patients with long standing diabetes as well as patients with new onset diabetes will be recruited. Patients receiving glucocorticoids for treatment of COVID-19 and manifest plasma glucose levels consistent with diabetes diagnosis also will be included\n2. Patients can be drug na\u00efve, receiving oral antihyperglycemic therapy (except pioglitazone), GLP-1 RA or insulin therapy will be allowed to participate in the study\n3. COVID-19 infection confirmed with PCR test\n4. Age 21-85 years\n5. Patients of both sexes will be included\n6. In addition to diabetes and COVID-19 diagnoses, patients should manifest at least one of COVID-19 symptoms (Fever, Chills, Headache, Rhinorreah, Cough (dry or with sputum), Sore Throat, shortness of breath, Hemoptysis, Altered mentation, Fatigue/Malaise, Myalgia, Nausea/Vomiting, Diarrhea, Anosmia, Chest pain).\n7. Patient receiving other anti-inflammatory therapy for their routine COVID-19 care (e.g. hydroxychloroquine), or antiviral therapy (e.g. remdesivire) will be included in the study and will be evenly randomized amongst the two treatment groups\n\nExclusion Criteria:\n\n1. T1DM\n2. Absence of confirmation of COVID-19 infection\n3. Age \\<21 years\n4. Presence of heart failure (LVEF\\<40%) or a history of hospitalization for heart failure\n5. Use of diuretics (furosemide or aldactone) for heart disease usually for heart failure. Patients with hypertension receiving diuretic therapy (usually thiazide) will be included in the study\n6. Patient on mechanical ventilation or patients whose clinical condition requires mechanical ventilation in the following 24 hours.\n7. Patients not expected to survive \\> 48 hours\n8. Patients receiving pioglitazone for the management of their diabetes\n9. Patients participating in other research study will be excluded\n10. Pregnant women will be excluded from the study",
+  "minimum_age": "21 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19",
+    "Type 2 Diabetes"
+  ],
+  "overall_status": "UNKNOWN"
+}

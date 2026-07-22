@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00977847",
+  "title": "Integrating Patient Generated Family Health History From Varied Electronic Health Record (EHR) Entry Portals",
+  "brief_summary": "In the 21st century, the importance of family health history will increase as it will be essential to put detailed personal genetic information into the context of an individual's health, namely the context of how the shared code has played out in an individual and his/her closest relatives. These scientific developments in the investigators' understanding of genetics will demand a more comprehensive family history dataset for all patients, and the time limitations on healthcare providers demand a technology-driven solution that integrates an individual's knowledge of their family history with the medical records maintained by their health care providers. A solution does not currently exist by which most Americans can organize their family health history and then place it into their electronic health record (EHR). The investigators propose to develop and compare three different ways of proactively collecting family history information from patients using computer technology independent of a health care visit, including telephone (interactive voice response technology), tablet computers in a physician's waiting room, and a secure internet portal at home. These tools will be based on the US Surgeon General's My Family Health Portrait, an electronic family history collection tool. Family history data will be transferred and integrated with a patient's EHR in a large primary care network. This project will seek to demonstrate that family history data can be accurately reported by diverse patients using these technologies, and that these data can be integrated to tailor an individual's health care based on their familial risk.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\nMale and Female Patients who:\n\n* receive primary care at one of the study selected Primary Care Practices,\n* are between 18-75 years old,\n* are English or Spanish speakers, and\n* have appointments scheduled in the upcoming 1 - 3 months for an annual or comprehensive visit.\n\nExclusion Criteria:\n\n* We will not include individuals over the age of 75 because the role of family risk assessment and prevention is less established.\n* Also will not include non-English or non-Spanish speakers.\n* Patients will also be excluded if they are hearing impaired.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Family Characteristics",
+    "Health Status",
+    "Family Research"
+  ],
+  "overall_status": "COMPLETED"
+}

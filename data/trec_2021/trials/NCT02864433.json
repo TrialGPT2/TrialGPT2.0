@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02864433",
+  "title": "Evaluation of a Pilot Program to Introduce Cholera Vaccine in Haiti as Part of Global Cholera Control Efforts",
+  "brief_summary": "The investigators aim to evaluated a public health program in Haiti that introduced an oral cholera vaccine as part of comprehensive control efforts for a major cholera epidemic. Although the vaccine (Shanchol(R)) had been demonstrated to be very safe, and effective at preventing cholera in many settings, it had not extensively been used to control an outbreak, and it had not been extensively studied in populations that were previously naive to cholera (i.e. countries that had never had cholera before). This cholera epidemic was the first ever report of cholera in Haiti.\n\nAfter the cholera vaccination campaign was complete, the investigators aimed to evaluate the field efficacy of the vaccination campaign by evaluating the number of cases of cholera, and determining if cholera patients had been vaccinated. The investigators compared the rate of vaccination in cholera cases to controls from the community that had not had cholera in a case-control study.\n\nThe investigators also performed a second study - a bias-indicator study - that enrolled patients with non-cholera diarrhea, and community controls. The role of the bias-indicator study was to evaluate for potential sources of bias, since the investigators could expect that cholera vaccination should have no effect on non-cholera diarrhea.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion criteria for cholera cases:\n\n* Seeks treatment for acute non-bloody diarrhea (defined as 3 or more loose, watery or liquid stools in a 24-hour period with an onset of 3 days or fewer prior to presentation) at a participating study site\n* Diarrhea episode is diagnosed as cholera, confirmed by Crystal VC rapid test and culture\n* Resident of Bocozel or Grande Saline at the time of study initiation\n* Was eligible for the vaccination campaign (i.e. \u2265 12 months of age at the time of completion of the vaccine campaign, not pregnant during the vaccination campaign).\n\nExclusion criteria for cholera cases:\n\n* \\< 12 months of age at the time of completion of the cholera vaccine campaign\n* Pregnant at the time of the vaccination campaign\n\nInclusion criteria for non-cholera diarrhea cases:\n\n* Seeks treatment for acute non-bloody diarrhea (as defined above) at a participating study site\n* Culture negative cholera by Crystal VC rapid test and culture\n* Resident of Bocozel or Grande Saline at the time of study initiation\n* Was eligible for the vaccination campaign (\u2265 12 months of age at the time of completion of the vaccine campaign, not pregnant at the time of the campaign)\n\nExclusion criteria for non-cholera diarrhea cases:\n\n* \\< 12 months of age at the time of completion of the cholera vaccine campaign\n* Pregnant at the time of the vaccination campaign\n\nInclusion criteria for all controls:\n\n* Did not seek treatment for diarrhea between the date that study enrollment began and corresponding case's symptom onset (defined below)\n* Resident of Bocozel or Grande Saline at the time of study initiation\n* Was eligible for the vaccination campaign (\u2265 12 months of age at the time of completion of the vaccine campaign, not pregnant at the time of the vaccination campaign)\n\nExclusion criteria for cholera controls and secondary controls:\n\n* \\< 12 months of age at the time of completion of the cholera vaccine campaign\n* Pregnant at the time of completion of the cholera vaccine campaign",
+  "minimum_age": "12 Months",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "This study will be conducted in the catchment area of the vaccine campaign, in the rural regions of Bocozel and Grande Saline, located in the Artibonite Department of Haiti. Bocozel has a catchment population of approximately 56,000 people and Grande Saline has a catchment population of approximately 21,000 people. These two neighboring sections are one of two Haitian locations in which the two-dose Shanchol oral cholera vaccine will be implemented as part of the vaccination campaign in 2012. Key stakeholder meetings conducted by PIH staff among diverse groups of community members in Bocozel suggest broad acceptance of the vaccine. Based on these meetings and reported oral cholera vaccine uptake in other countries, we estimate that vaccine uptake will be 80% or higher in Bocozel.",
+  "condition": [
+    "Cholera",
+    "Diarrhea"
+  ],
+  "overall_status": "COMPLETED"
+}

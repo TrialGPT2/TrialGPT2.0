@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03034525",
+  "title": "Assessing the Risk of Pulmonary Embolism in Patients After Hospitalization for First Episode of Syncope",
+  "brief_summary": "Acute pulmonary embolism (APE) is a common disease, which involves significant morbidity and mortality. The clinical presentation of APE has many faces but it is acceptable to suspect this disease when the patient presenting with at least one of the following: shortness of breath, pleuritic chest pain, cough, sub-febrile fever or hemoptysis.\n\nThe relationship between syncope and APE is not entirely clear. Prandoni et al conducted a systematic process for the exclusion / confirmation of APE all patients hospitalized for a first investigation of syncope. In this study APE was diagnosed in about 17% of the patients. In 12.7% of patients with an alternative explanation for syncope APE was diagnosed. Interestingly, 25% of the patients had no other manifestation of pulmonary embolism apart from the syncope itself.\n\nAccording to the updated clinical guidelines, APE should not be routinely tested as an etiology for syncope and not systematically excluded. According to the new data presented by Prandoni et al, this means that a significant percentage of patients hospitalized for an investigation of syncope are discharged when they are suffering from APE (in most cases probably an event of unprovoked pulmonary embolism) without treatment with anticoagulants, making them particularly prone to PE recurrence.\n\nAim. To examine the incidence of pulmonary embolism (Pulmonary Embolism, PE), and VTE (venous thromboembolism, VTE) in patients hospitalized for a first investigation of syncope.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients over 18 years old during study period.\n\n  \\* On admission diagnosis of syncope and collapse (ICD9 code 427.31).\n* Patients are insured by Clalit Health Services.\n\nExclusion Criteria:\n\n\\* Hospitalization during the study period for additional event of syncope.\n\n* Patients receiving anticoagulation on recruitment.\n* Patients investigated for APE during hospitalization (by testing for D-dimer, computerized tomography angiography or perfusion-ventilation lung scan).\n* Patients who began treatment anticoagulation, not because of VTE, during study period.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study is a retrospective, multicenter cohort study, conducted at Rambam Health Care Campus and Sourasky Medical Center, Tel Aviv and includes all Clalit HMO insured patients who were admitted for investigation of first event of syncope from 2006 to 2013 (diagnosis on admission- syncope and collapse (ICD9 code 427.31)).",
+  "condition": [
+    "Pulmonary Embolism",
+    "Syncope"
+  ],
+  "overall_status": "UNKNOWN"
+}

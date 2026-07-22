@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02600806",
+  "title": "Clinical Pathway Based on Procalcitonin Levels for the Management of Community-acquired Pneumonia in Outpatients",
+  "brief_summary": "A clinical protocol was developed for the management of adult outpatients with community-acquired pneumonia (CAP) and Pneumonia Severity Index risk classes I-II. Patients are assigned to oral azithromycin or levofloxacin according to procalcitonin (PCT) levels measured with a rapid point-of-care method. When PCT levels are \\<0.5 ng/ml, azithromycin, 500 mg/day is given orally for 5 days; if PCT is \u22650.5 ng/ml, levofloxacin, 500 mg/day is given orally for 7 days",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Fever with or without respiratory symptoms\n* New infiltrate on chest radiograph\n* Pneumonia Severity Index (PSI) score \u2264 70 (risk classes I and II).\n\nExclusion Criteria:\n\n* PSI risk classes III-V\n* Age \u226565 years\n* Comorbidity (diabetes, chronic obstructive pulmonary disease, chronic renal disease, neoplasia, immunosuppression including HIV infection, chronic heart failure or cirrhosis)\n* White blood cell count \u226520.0 x 109/L\n* Pleural effusion\n* Bilateral infiltrates\n* Previous failure or allergy to macrolides or quinolones\n* Need for oxygen therapy -",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Community-acquired Pneumonia"
+  ],
+  "overall_status": "UNKNOWN"
+}

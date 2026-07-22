@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01847378",
+  "title": "Feasibility of Contact Force Catheter Mapping and Ablation in Epicardial and Endocardial Ventricular Tachycardias",
+  "brief_summary": "Ventricular tachycardia is one of the commonest cause of sudden death in chronic chagas disease. As most ventricular tachycardias originate from scar in patients with heart disease, catheter ablation is an important step in patient treatment. Identification of fibrosis prior to ablation of sustained ventricular tachycardia (SVT) might reduce the time of anesthesia, procedure time, radiation exposure and possibly the risk of complications. Knowledge of arrhythmia circuit within scar allows planning strategies for each procedure. Condreanu et al. stablished that voltages inferior to 6.52 mV (unipolar) and 1.54mV (bipolar) are useful tools in detecting scar during electroanatomic mapping. Accuracy, however when compared to magnetic resonance imaging is limited due to difficulties in maintaining good contact between ablation catheter and ventricular wall. Contact force catheters might help increase accuracy of voltage mapping because they allow detection of poor contact areas. Although the threshold for identification of scar in ischemic and non ischemic patients during electroanatomical mapping is already known, this parameters still lacking for chronic chagasic individuals. A marked qualitative histological difference between these fibrous scars supports the hypothesis that voltage scar in chagasics might be different. Catheter ablation contact with endo and epicardial surface is an important issue when ablating arrhythmias. Conventional catheter ablation is not equipped with sensors capable of detecting degree of contact with the target. To our knowledge, the literature lacks information in regard to late lesions produced by a known contact force pressure \"in vivo\". The pattern of electrical activation in these patients and their relationship with local coronary veins for resynchronization likely to approach through the coronary sinus can be useful in defining chagasic that can benefit from resynchronization.\n\n1. Compare endocardial and epicardial impedance and voltage using CARTO 3 with fibrosis on 3T MRI\n2. Correlate areas of late activation within scar during activating mapping in sinus rhythm with different signal intensity in 3T MRI\n3. Evaluate the influence of contact pressure during application of radiofrequency in making fibrosis analyzed 30 days after the procedure using a 3T MRI.\n4. Assess the site of latest left ventricular activation in sinus rhythm and correlate with the coronary veins location",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* individuals aged between 18 and 80 years old\n* life expectancy greater than 1 year\n* positive reaction in at least two different serologic techniques for Chagas disease (ELISA, indirect hemagglutination or indirect immunofluorescence)\n* symptomatic recurrent monomorphic ventricular tachycardia (recorded by holter, electrocardiogram or looper)\n* prior to implantable cardioverter defibrillator implantation in patients with ventricular tachycardia as an attempt to prevent shoks\n* patients in \"electrical storm\", defined as three or more episodes of ventricular tachycardia in 24h. Each episode must demand a medical intervention.\n* monomorphic ventricular tachycardia induced during electrical physiological study in patients with syncope of unexplained cause\n\nExclusion Criteria:\n\n* claustrophobia\n* creatinine clearance inferior to 30ml/min/m2 (clearance between 30ml/min/m2 and 60ml/min/m2 will be analyzed individually)\n* thrombus in the left ventricle\n* pregnancy\n* heart failure NYHA IV\n* allergy to iodinated contrast or gadolinium\n* patients with implantable devices (pacemakers, implantable defibrillators and similar)\n* coagulopathy (INR \\> 1,5 or aPTT 2x normal values)\n* platelet count inferior to 100.000",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Chagasic patients with symptomatic documented ventricular tachycardia",
+  "condition": [
+    "Ventricular Tachycardia",
+    "Sudden Death",
+    "Syncope",
+    "Chest Pain"
+  ],
+  "overall_status": "UNKNOWN"
+}

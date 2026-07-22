@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT02851706",
+  "title": "Natural History of and Specimen Banking for People With Tumors of the Central Nervous System",
+  "brief_summary": "Background:\n\nBrain and spinal cord tumors are uncommon. But they contribute substantially to cancer deaths in the U.S. in children and adults. Little progress has been made in treating brain tumors. Researchers want to learn more about these tumors by studying people who have them.\n\nObjectives:\n\nTo understand brain and spinal cord tumors better and uncover areas for further research. Also, to connect people with these tumors to doctors who can help them manage their illness and give them new treatment options.\n\nDesign:\n\nParticipants will have an initial (baseline) visit. They will have their medical history taken and undergo physical and neurological exams. They will have blood tests. They may have scans (imaging studies) of the nervous system.\n\nIf participants have urine or cerebrospinal fluid collected during their regular care, researchers may save some.\n\nBrain tumor tissue from a prior surgery may be studied.\n\nGenomic DNA testing will be done on samples. Results will be linked to participants medical and/or family history.\n\nThe number of study visits at NIH will depend on the wishes of participants and their local doctors.\n\nParticipants will take a brain tumor survey on a computer. They can take it all at once or in 6 separate sections.\n\nParticipants will answer questions about their general well-being. They will answer questions to learn if they have symptoms of depression or anxiety.\n\nPhysicians will discuss test results with participants. They will recommend management and treatment options.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Patients (Person with the Disease)\n* All patients \\>= 18 years of age with tumors of the CNS (or a history of tumors of the CNS) of interest to the NOB who may be future candidates for another NOB trial. This includes patients with undiagnosed imaging abnormalities in the central nervous system (brain and/or spinal cord) and patients with known genetic syndromes at high risk of developing CNS Cancers.\n* Patients with tumors of the CNS that are of particular interest to members of the NOB because they pose important clinical and/or scientific questions and/or shed light on important aspects of the disease.\n* Patients with rare tumors of the CNS (defined as occurring in less than 2,500 patients/year in the United States) who offer an important educational benefit to neuro-oncology trainees and staff.\n* Ability of subject or Legally Authorized Representative (LAR) to understand and the willingness to sign a written informed consent document.\n* Caregivers (Informants)\n* Participants must be able to speak and read in English\n* Age \\>= 18 years old\n* Participant must be able to understand and willing to sign a written consent document\n* Participants must be a caregiver for Natural History Study participants with the disease addressed above (Patients). Caregivers will be defined as anyone who patients identify as an unpaid close friend or family member who knows them well and who is involved with their day-to-day care.\n\nEXCLUSION CRITERIA:\n\nNone",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with CNS Tumors and patients with known genetic syndromes at high risk of developing CNS cancers",
+  "condition": [
+    "Brain Cancer",
+    "Brain Tumor",
+    "Spine Cancer",
+    "Spine Tumor",
+    "Neoplasm"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational natural history and specimen banking study for patients with tumors of the central nervous system. There are no restrictions on prior lines of therapy for advanced disease; patients at any stage of treatment or surveillance are eligible.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes all adults with CNS tumors or a history of CNS tumors, including those with undiagnosed imaging abnormalities and those at high genetic risk. There are no requirements or restrictions regarding prior systemic therapy for advanced disease, and patients who have only received adjuvant or no therapy are eligible."
+    }
+  ]
+}

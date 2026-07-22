@@ -1,0 +1,43 @@
+{
+  "nctid": "NCT02466971",
+  "title": "Testing the Addition of a New Anti-Cancer Drug, Triapine, to the Usual Chemotherapy Treatment (Cisplatin) During Radiation Therapy for Advanced-stage Cervical and Vaginal Cancers",
+  "brief_summary": "This randomized phase III trial studies radiation therapy and cisplatin with triapine to see how well they work compared to the standard radiation therapy and cisplatin alone in treating patients with newly diagnosed stage IB2, II, or IIIB-IVA cervical cancer or stage II-IVA vaginal cancer. Radiation therapy uses high energy protons to kill tumor cells and shrink tumors. Drugs used in chemotherapy, such as cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Triapine may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. It is not yet known whether radiation therapy and cisplatin are more effective with triapine in treating cervical or vaginal cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient has a new, unrated histologic diagnosis of stage IB2 (\\> 4 cm), II, IIIB or IVA squamous, adenocarcinoma, or adenosquamous carcinoma of the uterine cervix (FIGO 2009) or stage II-IVA squamous, adenocarcinoma, or adenosquamous carcinoma of the vagina not amenable to curative surgical resection alone; the presence or absence of para-aortic lymph node metastasis will be based on pre-therapy 18F-FDG PET/CT; NOTE: if the baseline 18F-FDG PET/CT identifies hypermetabolic para-aortic disease, such patients will NOT be eligible; the patient must be able to tolerate imaging requirements of an 18F-FDG PET/CT scan\n* Patient must provide study specific informed consent prior to study entry\n* Patient must have a Gynecologic Oncology Group (GOG) performance status of 0, 1, or 2 or equivalent\n* Absolute neutrophil count \\> 1,500/uL\n* Platelets \\> 100,000/uL\n* Hemoglobin \\> 10 g/dL\n* Total bilirubin \\< 2.0 mg/dL\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) \\< 2.5 X institutional upper limit of normal\n* Prothrombin time (PT)/activated partial thromboplastin time (aPTT) \\< 1.5 X institutional upper limit of normal\n* Creatinine =\\< 1.5 mg/dL to receive weekly cisplatin\n\n  * Patients whose serum creatinine is between 1.5 and 1.9 mg/dL are eligible for cisplatin if the estimated creatinine clearance (CCr) is \\>= 30 ml/min; for the purpose of estimating the CCr, the formula of Cockcroft and Gault for females should be used\n* Patient does not have uncontrolled diabetes mellitus (i.e., fasting blood glucose \\> 200 mg/dL)\n* Patient has a life expectancy of greater than 20 weeks\n* Patient does not have known brain metastases (testing optional)\n* Patient does not have known human immunodeficiency virus syndrome (HIV, testing optional); known HIV-positive patients receiving combination antiretroviral therapy are ineligible because of the potential for pharmacokinetic interactions with triapine\n* Patient does not have a known allergy to compounds of similar or biologic composition as triapine\n* Patient does not have known glucose-6-phosphate dehydrogenase (G6PD) deficiency as the condition interferes with triapine antidote metabolism (G6PD testing optional)\n* Patient is not actively breastfeeding (or has agreed to discontinue breastfeeding before the initiation of protocol therapy)\n\nExclusion Criteria:\n\n* Patient has another concurrent active invasive malignancy\n* Patient has had a prior invasive malignancy diagnosed within the last three years (except \\[1\\] non-melanoma skin cancer or \\[2\\] prior in situ carcinoma of the cervix); patients are excluded if they have received prior pelvic radiotherapy for any reason that would contribute radiation dose that would exceed tolerance of normal tissues at the discretion of the treating physician\n* Patient has uncontrolled intercurrent illness including, but not limited to, symptomatic congestive heart failure, unstable angina pectoris, myocardial infarction within six months of protocol initiation, cardiac arrhythmia within six months of protocol initiation; known inadequately controlled hypertension; clinically significant pulmonary disease including dyspnea at rest, or patients requiring supplemental oxygen, or poor pulmonary reserve; or clinically significant renal function impairment (baseline serum creatinine \\> 2 mg/dL); or psychiatric illness/social situations that would limit compliance with study requirements\n* Patient is receiving another investigational agent for the treatment of cancer\n* Patient is currently pregnant\n* Patient does not agree to use two forms of birth control if they are of child-bearing potential\n* Patients who have had a hysterectomy or are planning to have an adjuvant hysterectomy following radiation as part of their cervical cancer treatment are ineligible (05/30/2017)\n* Patients scheduled to be treated with adjuvant consolidation chemotherapy or other anti-neoplastic therapy at the conclusion of their standard chemoradiation (05/30/2017)\n* Patients with self-reported or known diagnosis of G6PD deficiency (05/30/2017)\n* Patients with vaginal cancer may have previously undergone a hysterectomy for various indications; patients with vaginal cancer who underwent a hysterectomy for treatment of cervical cancer less than five years prior to their diagnosis of vaginal cancer are ineligible",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Advanced Vaginal Adenocarcinoma",
+    "Advanced Vaginal Adenosquamous Carcinoma",
+    "Advanced Vaginal Squamous Cell Carcinoma",
+    "Cervical Adenocarcinoma",
+    "Cervical Adenosquamous Carcinoma",
+    "Cervical Squamous Cell Carcinoma",
+    "Stage IB2 Cervical Cancer AJCC v6 and v7",
+    "Stage II Cervical Cancer AJCC v7",
+    "Stage II Vaginal Cancer AJCC v6 and v7",
+    "Stage IIA Cervical Cancer AJCC v7",
+    "Stage IIB Cervical Cancer AJCC v6 and v7",
+    "Stage III Vaginal Cancer AJCC v6 and v7",
+    "Stage IIIB Cervical Cancer AJCC v6 and v7",
+    "Stage IV Vaginal Cancer AJCC v6 and v7",
+    "Stage IVA Cervical Cancer AJCC v6 and v7",
+    "Stage IVA Vaginal Cancer AJCC v6 and v7",
+    "Unresectable Vaginal Carcinoma",
+    "Vaginal Adenocarcinoma",
+    "Vaginal Adenosquamous Carcinoma",
+    "Vaginal Carcinoma",
+    "Vaginal Squamous Cell Carcinoma, Not Otherwise Specified"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

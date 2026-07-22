@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04335630",
+  "title": "Cardiovascular Manifestations of COVID-19",
+  "brief_summary": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the pathogen responsible for the novel coronavirus disease 2019 (COVID-19). The first reports of COVID-19 came from Wuhan, China in December of 2019. Since then, the disease has spread rapidly around the globe, accounting for thousands of deaths in multiple countries. On March 11th, 2020, the World Health Organization declared COVID-19 as a pandemic. Although COVID-19 manifests primarily as a respiratory illness, several cardiovascular implications have been reported related to its natural course and treatment. Its exact effect on the cardiovascular system though is currently unknown. Therefore, we propose a retrospective, observational, case-control study looking for cardiovascular manifestations of COVID-19, including laboratory evidence of myocardial injury, electrocardiographic changes, arrhythmias and echocardiographic abnormalities. Hospitalized patients admitted with fever, cough, sore throat, and/or dyspnea who were tested positive for SARS-CoV-2 will be included in our study and will be matched based on their age and gender with patients admitted with similar symptoms who tested negative for SARS-CoV-2. The electronic medical charts of the study subjects will be reviewed and relevant demographic, clinical, laboratory and imaging findings will be deidentified and recorded. Since our study will be a retrospective chart review study it carries minimal risk for the patients and the investigators. Cardiovascular disease associated with COVID-19 might be contributing to the high mortality rates and its recognition will allow for prevention, early diagnosis and appropriate treatment. This will be the first, large, case-control study assessing cardiovascular involvement of COVID-19 in a well-defined cohort of patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients admitted to the hospital with symptoms of fever, sore throat, cough, nasal congestion and/or dyspnea who were tested positive for SARS-CoV-2 by PCR\n\nExclusion Criteria:\n\n* Patients of high clinical suspicion for COVID-19 with only one negative PRC test for SARS-CoV-2\n* Patients with COVID-19 who do not require hospitalization",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects admitted to the COVID unit and medical intensive care unit of Memorial Hermann Hospital/Texas Medical Center from March 30th, 2020 to March 30th, 2021 will be identified by location search of the electronic medical records. Subjects who were tested positive for SARS-CoV-2 by PCR will be age- and gender-matched with subjects admitted to the COVID unit or medical intensive care unit with similar symptoms but negative PCR tests for SARS-CoV-2 (one negative PCR test for patients of low clinical suspicion and two negative tests, 24 hours apart from each other, for patients of high clinical suspicion). Demographic, clinical, laboratory and imaging findings will be collected by retrospective electronic chart review.",
+  "condition": [
+    "Cardiovascular Diseases",
+    "COVID"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04163146",
+  "title": "Lung Function Variability in Children and Adolescents",
+  "brief_summary": "Long-term variability analysis of peak expiratory flow (PEF) and forced expiratory volume in 1 s (FEV1) has been successfully used in research to predict the exacerbation of the disease in adult individuals with asthma. However, there is a paucity of data regarding PEF and FEV1 variability in asthmatic children and adolescents. Such a task requires at least daily PEF and FEV1 measurements, recording in diaries, and periodic evaluation of the data. The process may be proven both complicated and time consuming, thus reducing patients' adherence. Recent advances in biosensor technology have permitted the development of reliable, low-cost, portable spirometers, able to connect with smartphones and monitor lung function parameters in real time and from a distance.\n\nThe objectives of the present study is the assessment of PEF and FEV1 variability: a) in healthy children and adolescents, in order to define the normal daily fluctuation of PEF and FEV1 and the parameters that may influence it, and b) in children and adolescents with asthma, in order to explore the differences from healthy subjects and reveal any specific variability changes prior to exacerbation. Such data would improve our understanding regarding the disease and permit the development of integrated tools for assessing the level of asthma control and the risk of future exacerbations.\n\nThe study will include 100 healthy children and adolescents aged 6 to 18 years for the assessment of normal PEF and FEV1 variability, and 100 children and adolescents of the same age with diagnosed asthma for the assessment of PEF and FEV1 variability in asthmatics. PEF and FEV1 measurements will be performed using an FDA-approved portable spirometer (MIR Spirobank Smart) capable to connect to smartphone. Each participant will receive his personal spirometer. Measurements will be performed twice a day between 07:00-09:00 and 19:00-21:00 hours and dispatched via email to a central database for a period of 3 months. PEF and FEV1 variability will be assessed by detrended fluctuation analysis, aiming to define the normal pattern (healthy controls) and to detect and quantify the deviations (asthmatics). The anticipated duration of the study is 24 months.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Cohort A. Healthy children and adolescents\n\nInclusion Criteria:\n\n* Age 6 - 18 years\n* No asthma or asthma medication in the last 2 years\n* Normal baseline spirometry\n* Smartphone possession (parents or participants) with ability of internet connection (Wi-Fi or mobile data)\n* Informed written consent (parents, parents \\& children \\>12 years old)\n\nExclusion Criteria:\n\n* Inability to perform 3 consecutive measurements within the 3-month period of observation\n* Inability to perform 6 measurements in total (3.3% of the anticipated 180 measurements) within the 3-month period of observation\n* Major respiratory events (e.g., asthma attack, severe respiratory infection, chest trauma) or other health-related events that may hamper the performance of lung function measurements (e.g., surgery, trauma) within the 3-month period of observation.\n\nCohort B. Children and adolescents with asthma\n\nInclusion Criteria:\n\n* Age 6 - 18 years\n* Doctor-diagnosed asthma under treatment\n* Smartphone possession (parents or participants) with ability of internet connection (Wi-Fi or mobile data)\n* Informed written consent (parents, parents \\& children \\>12 years old)\n\nExclusion Criteria:\n\n* Inability to perform 3 consecutive measurements within the 3-month period of observation\n* Inability to perform 6 measurements in total (3.3% of the anticipated 180 measurements) within the 3-month period of observation\n* Major respiratory events (e.g., severe respiratory infection, chest trauma) or other health-related events that may hamper the performance of lung function measurements (e.g., surgery, trauma) within the 3-month period of observation",
+  "minimum_age": "6 Years",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Asthma in Children",
+    "Lung Function Decreased"
+  ],
+  "overall_status": "UNKNOWN"
+}

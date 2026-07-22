@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02765620",
+  "title": "PERCIST Criteria for Response Evaluation With Solid Tumors",
+  "brief_summary": "Chemo-radiotherapy and targeted therapy are widely used as non-surgical treatments for solid tumors. Early assessment of treatment response is considered efficient and helpful to clinical management and personalized therapy.RECIST 1.1 criteria was accepted widely. Complete response (CR), partial response (PR), stable disease (SD), and progressive disease (PD) are defined in the RECIST criteria. This type of classification divides intrinsically continuous data (tumor size) into 4 bins, losing statistical power for ease of nomenclature and convenience. The 18F-FDG PET exam is based on metabolic information and considered to overcome limitations of anatomic imaging and more suitable for assessment of therapeutic response.PERCIST 1.0 proposes a series of detailed and unambiguous regulations about standardization procedures to ensure the reproducibility. Complete metabolic response (CMR), partial metabolic response (PMR), stable metabolic disease (SMD), and progressive metabolic disease (PMD) are defined in the PERCIST criteria.\n\nSo far, there have several studies using metabolic-based PERCIST criteria in patients with solid tumors, including lung cancer, digestive tumor and lymphoma, etc. But all of these studies had limitations of small study sample, thus were need to be further investigated. Compared to RECIST, the advantages of PERCIST were to evaluate chemotherapy, especially targeted therapy, to distinguish PMR and SMD patients from SD group in RECIST, and to better predict the response rate. Recently, several studies applied PERCIST criteria to evaluate neoadjuvant chemotherapy in pancreatic cancer and rectal cancer, and revealed the metabolic response results were well related to pathology. All these studies conclude PERCIST criteria could help making clinical therapeutic decisions. Moreover, several studies have shown that PERCIST has advantage in predicting early response of several malignant tumors.\n\nThe aim of this multicenter study is 1) to evaluate treatment response in newly diagnosed and pre-therapeutic patients with solid tumors who are going to receive a baseline , an early follow-up (after a certain period of treatment cycle) and a final (after treatment) 18F-FDG PET/CT; 2) to compared PERCIST criteria to RECIST 1.1 criteria in prediction treatment response, especially in early stage of treatment; 3) to reveal the value of PERCIST criteria in clinical therapeutic management and tailed therapy.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 30-80 years old ( might differ based on certain cancer type)\n* Newly diagnosis of solid tumor proved by imaging\n* Pathology proved to be primary solid tumor\n* First PET/CT scan was performed before any kinds of anti-tumor treatment including surgery\n* No other anti-tumor treatments except for that required during the trial\n* Written and informed consent with signature before the study\n* Complete medical history and clinical record (including physical examination, electrocardiogram, hematology, biochemistry, tumor pathology etc)\n* Follow-up of PSF and OS over a year\n\nExclusion Criteria:\n\n* Pregnancy, lactation, and impaired renal or liver function\n* Receive additional anti-tumor treatments (including surgery) other than that required during the trial\n* Poorly controlled diabetes\n* Poor compliance\n* Failed to perform scans\n* Contrary to the standard operating procedures\n* Without a definite pathologic diagnosis or follow-up results\n* Not suitable for clinical trials (for example with mental illness)",
+  "minimum_age": "30 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Newly diagnosed and pre-therapeutic patients with solid tumors, including but not limited to: lung cancer, lymphoma, gastric cancer, breast cancer, colorectal cancer, ovarian cancer, cervical cancer etc.",
+  "condition": [
+    "Lung Neoplasms",
+    "Breast Neoplasms",
+    "Colonic Neoplasms",
+    "Lymphoma"
+  ],
+  "overall_status": "UNKNOWN"
+}

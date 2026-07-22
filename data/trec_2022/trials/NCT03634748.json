@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03634748",
+  "title": "Thrombolysis in stRoke With Unknown onSet Based on noncontrasT CT",
+  "brief_summary": "Multicentric, observational, registry-based study of 0.9 mg/kg i.v. thrombolysis in wake-up stroke or stroke with unknown onset based on non-contrast CT appearance only",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion:\n\n1. Ischemic stroke with NIHSS \u2265 4\n2. Wake-up stroke or unknown onset stroke\n3. Age \u2265 18 years\n4. rtPA Bolus within 4.5h of awakening and/or within 4.5 of discovering symptoms\n5. rtPA Bolus within 30 min. of admission CT\n\nExclusion:\n\n1. Noncontrast cranial CT scan with ASPECTS \\< 7\n2. Evidence of intracranial or subarachnoid hemorrhage\n3. Inability to control systolic BP \\>185mm Hg, or diastolic BP \\>110mm Hg with IV antihypertensive medication\n4. Known coagulopathy or evidence of active bleeding\n5. Surgical procedures, subclavian arterial puncture, trauma, and gastrointestinal or genitourinary bleeding within 14 days of the event\n6. Patients taking oral anticoagulants and having an INR \\>1.7\n7. A platelet count \\<100 000, venous glucose either \\<50 or \\>450\n8. Premorbid mRS \\> 3",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "wake-up stroke, unknown onset stroke",
+  "condition": [
+    "Stroke, Acute"
+  ],
+  "overall_status": "COMPLETED"
+}

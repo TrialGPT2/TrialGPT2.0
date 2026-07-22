@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04095416",
+  "title": "Compression Wraps as Adjuvant Therapy in Management of Acute Systolic Heart Failure",
+  "brief_summary": "There will be two populations in this study: control group, and intervention group. These groups will undergo propensity matching to account for confounders and minimize selection bias. 120 patients will be enrolled, 60 to each population. The objective of this study is: assess the utility of lower extremity compression wraps as adjuvant therapy in inpatient management of acute systolic heart failure\n\nThe control group will consist of patients admitted to I5 Cardiology for management of acute systolic heart failure with intravenous diuresis and standard medical therapy, meeting inclusion criteria. Information will be gathered through observational prospective data analysis from Epic EMR, and will include daily diuretic type and dose required, daily urine output, daily creatinine, total days of admission, daily and pre-discharge weight, admission BNP, and pre-discharge BNP.\n\nThe intervention group will consist of patients admitted to I5 Cardiology meeting inclusion criteria and being managed with standard medical therapy. This group will receive additional therapy using bilateral lower extremity compression wraps applied by nursing staff per pre-set protocol, and will receive education on the use of compression wraps. Patients will be instructed to wear the compression wraps for the entirety of the time they are undergoing intravenous diuresis, with pauses in care as needed for hygiene and symptom relief purposes. During the time of compression wrap application, the following data will be collected: urine output, daily weights, daily creatinine, daily and total dose and type of intravenous diuretic used. Prior to discharge, a BNP will be obtained.\n\nEndpoints (including percentage of weight reduction, total urine output achieved with diuresis, total dose requirement and type of intravenous diuresis, total days of intravenous diuresis, days to discharge, discharge BNP, and percent reduction from admission BNP) will then be compared to assess the utility of adding lower extremity compression wraps to inpatient management of acute systolic heart failure.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* age greater than 18 and less than 85 years of age\n* admitted to I5 with Acute Systolic Heart Failure with an ejection fraction of less than 50% as determined by echocardiogram within 6 months\n* requiring inpatient management with intravenous diuresis.\n* diagnosis of acute systolic heart failure, of any underlying etiology\n* at least 2+ pitting edema (or documented lower extremity pitting edema of at least moderate or significant severity) on primary assessment.\n\nExclusion Criteria:\n\n* cannot tolerate IV diuresis\n* who cannot wear or tolerate lower extremity compression stockings or wraps\n* ESRD\n* peripheral neuropathy\n* ejection fraction greater than 50% as evaluated by echocardiogram within 6 months",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Heart Failure; With Decompensation"
+  ],
+  "overall_status": "TERMINATED"
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04581941",
+  "title": "Deep Brain Stimulation Effects in Essential Tremor",
+  "brief_summary": "Deep Brain Stimulation (DBS) is an effective therapy for patients with medically refractory essential tremor. However, DBS programming is not standardized and multiple clinic visits are frequently required to adequately control symptoms. The investigators aim to longitudinally record brain signals from patients using a novel neurostimulator that can record brain signals. The investigators will correlate brain signals to clinical severity scores to identify pathological rhythms in the absence of DBS, and we will study the effects of DBS on these signals in order to guide clinical programming.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria\n\n* Patient gives an informed consent.\n* Patient is over 21 years of age.\n* Having a diagnosis of a essential tremor confirmed by a trained movement disorders neurologist;\n* Having failed or not tolerated conventional medical management, at the discretion of the neurologist managing the patient;\n\nExclusion Criteria\n\n* Having alternative diagnoses to essential tremor;\n* Having comorbid neurodegenerative disorders that may affect mobility or cognition (e.g. comorbid Parkinson's disease or dystonia);\n* Having sequelae of prior brain insult (e.g. prior stroke or brain tumor);\n* History of prior resective brain surgery (e.g. tumor resection);\n* Not being a DBS candidate;\n* Receiving unilateral implants\n* Having a higher surgical risk that precludes patient from having standard intraoperative mapping.",
+  "minimum_age": "21 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with essential tremor, who have been cleared for DBS surgery.",
+  "condition": [
+    "Essential Tremor"
+  ],
+  "overall_status": "COMPLETED"
+}

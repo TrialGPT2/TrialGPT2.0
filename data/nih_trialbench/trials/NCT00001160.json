@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT00001160",
+  "title": "Studies on Tumors of the Thyroid",
+  "brief_summary": "Participants in this study will be patients diagnosed with or suspected to have a thyroid nodule or thyroid cancer.\n\nThe main purpose of this study is to further understand the methods for the diagnosis and treatment of thyroid nodules and thyroid cancer. Many of the test performed are in the context of standard medical care that is offered to all patients with thyroid nodules or thyroid cancer. Other tests are performed for research purposes. In addition, blood and tissue samples will be taken for research and genetic studies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Male or female, adults or children \\>= 6 months+.\n2. Patients with known or suspected thyroid nodules and/or thyroid cancer.\n3. At risk family members of patients who have a genetic susceptibility to developing thyroid cancer.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1\\. Serious underlying medical conditions that restrict diagnostic testing or therapy such as renal failure, congestive cardiac failure or active coexisting non-thyroid carcinoma requiring intervention before thyroid cancer is addressed.",
+  "minimum_age": "6 Months",
+  "maximum_age": "98 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Only those with thyroid nodules and/or thyroid cancer will be allowed to enroll.",
+  "condition": [
+    "Hurthle Cell Thyroid Cancer",
+    "Tall Cell Variant Thyroid Cancer",
+    "Follicular Thyroid Cancer",
+    "Thyroid Cancer",
+    "Papillary Thyroid Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling all patients with thyroid nodules or thyroid cancer, regardless of prior therapy. There are no restrictions on prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes all patients with known or suspected thyroid nodules and/or thyroid cancer, with no mention of prior systemic therapy requirements or restrictions. Patients who have only received adjuvant or no therapy are eligible. There are no line-of-therapy limitations specified."
+    }
+  ]
+}

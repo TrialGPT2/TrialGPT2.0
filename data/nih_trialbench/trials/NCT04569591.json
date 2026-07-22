@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT04569591",
+  "title": "Corticotrophin-releasing Hormone (CRH) Stimulation for 18F-FDG-PET Detection of Pituitary Adenoma in Cushing s Disease",
+  "brief_summary": "Background:\n\nCushing s disease is caused by a pituitary gland tumor. Patients with Cushing s disease suffer obesity, diabetes, osteoporosis, weakness, and hypertension. The cure is surgery to remove the pituitary tumor. Currently, MRI is the best way to find these tumors. But not all tumors can be seen with an MRI. Researchers hope giving the hormone CRH before a PET scan can help make these tumors more visible.\n\nObjective:\n\nTo test whether giving CRH before a PET scan will help find pituitary gland tumors that might be causing Cushing s disease.\n\nEligibility:\n\nPeople ages 8 and older with Cushing s disease that is caused by a pituitary gland tumor that cannot be reliably seen on MRI\n\nDesign:\n\nParticipants will be screened with their medical history, a physical exam, an MRI, and blood tests.\n\nParticipants will have at least one hospital visit. During their time in the hospital, they will have a physical exam and a neurological exam. They will have a PET scan of the brain. A thin plastic tube will be inserted into an arm vein. A small amount of radioactive sugar and CRH will be injected through the tube. Participants will lie in a darkened room for about an hour and be asked to urinate. Then they will lie inside the scanner for about 40 minutes. After the scan, they will be asked to urinate every 2-3 hours for the rest of the day. Blood will be drawn through a needle in the arm.\n\nParticipants will have surgery to remove their tumor within 3 months after the scan.\n\nParticipants will then continue regular follow-up in the clinic.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Subjects aged 8 or older with biochemical evidence of Cushing s disease and a clinical MRI pituitary neuroradiology result of negative or possible adenoma (e.g. \"no tumor\" or \"possible tumor\")\n2. MRI of the pituitary gland with and without contrast obtained within 9 months of screening\n3. For newly diagnosed Cushing s disease cases, IPSS is required.\n4. Ability to undergo PET-imaging without general anesthesia\n5. Ability to provide informed consent for study participation (parents or guardians in the case of minors)\n6. Clinical diagnosis of Cushing s disease based on documented medical records\n7. Surgical candidate for and subject agrees to resection of ACTH producing pituitary adenoma within 24 weeks of PET-imaging\n8. Normal liver function as evidenced by liver enzyme tests completed within 14 days before injection of radiopharmaceutical: SGOT, SGPT \\<= 5 x upper limit of normal; bilirubin \\<= 2 x upper limit of normal\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Pregnancy or lactation\n2. Glomerular filtration rate \\< 50 mL/min/1.73 m\\^2, hepatorenal syndrome, history of urinary retention or post-liver or kidney transplantation.\n3. Hyponatremia (serum sodium below 135 mmol/L)\n4. A history of angina, significant coronary artery disease, congestive heart failure, or SIADH due to risk of fluid overload and/or hyponatremia.\n5. Uncontrolled hypertension (blood pressure \\>150/95 mmHg) due to risk of further increase if fluid overload occurs.\n6. Uncontrolled, severe hypotension (sustained blood pressure \\<90/60), or symptomatic hypotension.\n7. Current use of any of the following medications:\n\n   * Vasopressors: phenylephrine, dopamine and vasopressin.\n   * Drugs that can worsen hyponatremia:\n\n   non-steroidal anti-inflammatory drugs (NSAIDs) within 4 days of testing, loop diuretics (bumetanide, ethacrynic acid, furosemide, torsemide), chlorpromazine, chlorpropamide, cisplatin, monoamine oxidase inhibitors (MAOI), opiate agonists, oxybutynin, selective serotonin reuptake inhibitors (SSRI), vincristine, tricyclic antidepressants (TCA),\n\n   -Drugs that interfere with DDAVP duration of action or potency:\n\n   carbamazepine, lamotrigine, tolvaptan\n8. Habitual or psychogenic polydipsia, due to increased risk of hyponatremia\n9. History of Type IIB von Willebrand s disease due to risk for thrombosis.\n10. Elevated blood glucose level above 200 mg/dL on the day of the scan prior to FDG administration.\n11. Known intolerance to DDAVP\n\nINCLUSION OF VULNERABLE PARTICIPANTS:\n\n* Children: Children age 8 and older are included in this protocol. More than half of the subjects with CD requiring transsphenoidal surgery at the NIH are children. The knowledge gained by the use of DDAVP PET imaging in children with MR-invisible tumors will provide generalizable knowledge in the treatment of CD in this population. Children under the age of 8 usually require anesthesia for a PET scan, which involves greater risk. Therefore, children under the age of 8 will be excluded from participation.\n* Pregnant or lactating women: Pregnant and lactating women will be excluded from participation. The PET radiopharmaceutical used in this study can be harmful to a developing fetus. Therefore women who are able to become pregnant will have a pregnancy test performed within 24 hours before PET imaging. Individuals will not be able to participate in PET scanning if the pregnancy test results positive.",
+  "minimum_age": "8 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cushing's Disease",
+    "Pituitary Adenoma"
+  ],
+  "overall_status": "NOT_YET_RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with newly diagnosed Cushing's disease due to pituitary adenoma who are surgical candidates and have not yet undergone resection. There is no requirement for prior systemic therapy for advanced disease, as the intervention is a diagnostic imaging study prior to surgery.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligible patients are newly diagnosed with Cushing's disease and must be surgical candidates who have not yet undergone pituitary tumor resection. There is no mention of prior systemic therapy for advanced disease, and patients are enrolled prior to any definitive therapy for advanced/metastatic disease."
+    }
+  ]
+}

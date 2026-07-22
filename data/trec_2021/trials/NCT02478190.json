@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT02478190",
+  "title": "ED Management of Severe Hyperglycemia: A Clinical Trial",
+  "brief_summary": "Emergency Department (ED) patients with severe hyperglycemia will be randomized to two treatment goals: discharge glucose less than 600 mg/dL or less than 350 mg/dL.\n\nRandomization is stratified by whether the chief complaint is \"High Blood Sugar\" in the electronic medical record or other.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Glucose of more than 400mg/dL but less than 600 mg/dL at any point in the ED\n* Working phone number and willing to discuss health status at 7-10 days via phone\n\nExclusion Criteria:\n\n* Plan for hospital admission\n* Already received insulin during the ED stay\n* Type 1 diabetes\n* Less than 18 years old\n* Non-English speaking\n* Altered mental status or encephalopathy (unable to provide informed consent)\n* DKA, as determined clinically by the treating physician, without a lab requirement.\n* Critically ill, as determined by the treating physician.\n* Unable to provide informed consent\n* Prisoners\n* Pregnant women",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hyperglycemia",
+    "Diabetes Mellitus",
+    "Complications of Diabetes Mellitus",
+    "Diabetes-Related Complications",
+    "Diabetes Mellitus, Type 2"
+  ],
+  "overall_status": "COMPLETED"
+}

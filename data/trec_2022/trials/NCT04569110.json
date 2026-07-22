@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04569110",
+  "title": "The Microbiology of Pleural Infection",
+  "brief_summary": "Pleural Infection (PI) is a common, severe and complicated disease with considerable morbidity and mortality. (1,2) The knowledge of pleural infection microbiology remains incomplete. Sequencing of the bacterial 16S rRNA gene is a reliable methodology to discover the total microbiome of complex samples.\n\nThe investigators designed a translational metagenomics study to study the bacteriology of pleural infection. The investigators will use pleural fluid specimens from a) the \"Prospective validation of the RAPID clinical risk prediction score in adult patients with pleural infection: the PILOT study\" (3) clinical trial and b) non-pleural infection patients. The pleural fluid specimens will be subjected to 16S rRNA next generation sequencing.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "The pleural fluid specimens were collected for the \"Prospective validation of the RAPID clinical risk prediction score in adult patients with pleural infection: the PILOT study\". PMID: 32675200 DOI: 10.1183/13993003.00130-2020. The investigators analysed the samples retrospectively.\n\nInclusion Criteria:\n\n* As per protocol of the \"Prospective validation of the RAPID clinical risk prediction score in adult patients with pleural infection: the PILOT study\". PMID: 32675200 DOI: 10.1183/13993003.00130-2020\n\nExclusion Criteria:\n\n* As per protocol of the \"Prospective validation of the RAPID clinical risk prediction score in adult patients with pleural infection: the PILOT study\". PMID: 32675200 DOI: 10.1183/13993003.00130-2020",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "* Patients with pleural infection (PILOT cohort)\n* Patients with pleural effusion but without pleural infection (negative control group)",
+  "condition": [
+    "Pleural Infection",
+    "Pleural Infection Bacterial"
+  ],
+  "overall_status": "COMPLETED"
+}

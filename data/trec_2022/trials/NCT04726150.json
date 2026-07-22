@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04726150",
+  "title": "Effect of CoVid-19 (CoronaVirusDisease-19) and Exercise on Myocardial Fibrosis and Ventricular Arrhythmias",
+  "brief_summary": "COVID-19 can cause myocarditis, which can cause myocardial fibrosis. This has been shown to increase mortality and morbidity among athletes. Several efforts have been made to guide sports participation after COVID-19, but not much scientific evidence is present to back-up those guidelines. The current initiative aims gain a heightened insight in this matter.To identify the presence of fibrosis athletes who recovered from COVID-19 will undergo CMR (Cardiac MRI). All athletes will also undergo echocardiography, 5-day Holtermonitoring among others. This will allow to determine whether differences between those with and those without fibrosis are present. If fibrosis is present, athletes will be offered an implantation of a very small monitoring device that will be able to detect arrhythmias with a much higher sensitivity. Also an exercise echocardiography will be performed, to determine the safety of continuation of athletic efforts.\n\nAmendment:\n\nRecently myocarditis and pericarditis have also been observed after the administration of mRNA-vaccines, specifically after the second dose. The effect of vaccination on exercise capacity is less clear. To investigate this we propose to amend the inclusion criteria for COVIDEX with \"athletes undergoing or having undergone COVID vaccination\"",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Athletes (professional or recreational but aiming to compete at a national or international level), performing mixed-type or endurance sports as defined by Pelliccia et al. who:\n\n  1. have recovered from a proven (either by PCR (Polymerase Chain Reaction), serology or chest Computed Tomography) COVID-19 infection\n  2. are more than 1-month post onset of symptoms or the first positive PCR and\n  3. are willing to start (or are) exercising again\n\nExclusion Criteria:\n\n1. known prior cardiac fibrosis\n2. known or newly diagnosed coronary artery disease\n3. allergy or contraindications for gadolinium contrast.\n4. unwillingness or impossibility to give informed consent\n5. Presence of edema on the CMR",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Athletes \\>= 18 years if age who suffered from COVID, who are at least one month post diagnosis of COVID-19 and who are willing to start exercising again",
+  "condition": [
+    "Covid19",
+    "Athletes Heart",
+    "Myocarditis Viral",
+    "Ventricular Arrythmia"
+  ],
+  "overall_status": "COMPLETED"
+}

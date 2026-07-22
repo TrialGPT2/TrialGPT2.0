@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01176565",
+  "title": "Antihypertensive Treatment of Acute Cerebral Hemorrhage-II",
+  "brief_summary": "The specific aims of this study are to:\n\n1. Definitively determine the therapeutic benefit of the intensive treatment relative to the standard treatment in the proportion of patients with death and disability (mRS 4-6) at 3 months among subjects with ICH who are treated within 4.5 hours of symptom onset.\n2. Evaluate the therapeutic benefit of the intensive treatment relative to the standard treatment in the subjects' quality of life as measured by EuroQol at 3 months.\n3. Evaluate the therapeutic benefit of the intensive treatment relative to the standard treatment in the proportion of hematoma expansion (defined as increase from baseline hematoma volume of at least 33%) and in the change from baseline peri-hematoma volume at 24 hours on the serial computed tomographic (CT) scans.\n4. Assess the safety of the intensive treatment relative to the standard treatment in the proportion of subjects with treatment-related serious adverse events (SAEs) within 72 hours.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* IV nicardipine can be initiated within 4.5 hours of symptom onset.\n* Clinical signs consistent with the diagnosis of stroke, including impairment of language, motor function, cognition, and/or gaze, vision, or neglect.\n* Total Glasgow Coma Scale (GCS) score (aggregate of verbal, eye, and motor response scores) of 5 or greater at time of emergency department (ED) arrival.\n* International normalized ratio (INR) value \\< 1.5\n* CT scan demonstrates intraparenchymal hematoma with manual hematoma volume measurement \\<60 cc.\n* For subjects randomized prior to IV antihypertensive administration: SBP greater than 180 mmHg\\* prior to IV antihypertensive treatment (this includes pre-hospital treatment) AND WITHOUT spontaneous SBP reduction to below 180 mmHg at the time of randomization OR\n* For subjects randomized after IV antihypertensive administration: SBP greater than 180 mmHg\\* prior to IV antihypertensive treatment (this includes pre-hospital treatment) AND WITHOUT SBP reduction to below 140 mmHg at the time of randomization.\n* Informed consent obtained by subject, legally authorized representative, or next of kin.\n\n  * Notes: The unit \"mmHg\" stands for \"millimeters of mercury\", a standard way of measuring blood pressure. Patients with SBP \\< 180 mmHg should be monitored for 4.5 hours from symptom onset as their SBP may rise to eligible levels before the eligibility window closes.\n\nExclusion Criteria:\n\n* ICH is due to previously known neoplasms, arteriovenous malformation (AVM), or aneurysms.\n* Intracerebral hematoma considered to be related to trauma.\n* ICH located in infratentorial regions such as pons or cerebellum.\n* Intraventricular hemorrhage (IVH) associated with intraparenchymal hemorrhage and blood completely fills one lateral ventricle or more than half of both ventricles.\n* Patient to receive immediate surgical evacuation.\n* Current pregnancy, or parturition within previous 30 days, or active lactation.\n* Use of dabigatran within the last 48 hours\\*\\*.\n* A platelet count less than 50,000 per microliter (\u00b5L or mm3)\n* Known sensitivity to nicardipine.\n* Pre-morbid disability requiring assistance in ambulation or activities of daily living.\n* Subject's living will precludes aggressive ICU management.\n* Subject is currently participating in another interventional clinical trial\n\n  * Use of dabigatran was clarified through investigator presentations, educational materials, and clinical tools to include newer similar class medications (such as rivaroxaban, apixaban, and edoxaban) that were being developed and in various stages of approval across enrolling countries through the course of this trial, in the event that patients using these medications may have been encountered during screening.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Intracerebral Hemorrhage"
+  ],
+  "overall_status": "TERMINATED"
+}

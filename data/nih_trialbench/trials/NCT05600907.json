@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT05600907",
+  "title": "Study to Assess the Use of JSP191 in Matched Unrelated Donor Transplantation for Chronic Granulomatous Disease (CGD)",
+  "brief_summary": "Background:\n\nChronic granulomatous disease (CGD) is a rare immune disorder that can cause serious infections throughout the body. The only cure for CGD is a stem cell transplant. Transplants from a sibling are best, but many people must get transplants from unrelated donors. However, these transplants can cause serious complications in people with CGD.\n\nObjective:\n\nTo see if a study drug (JSP191) can help improve the success rates of stem cell transplants for people with CGD from an unrelated donor.\n\nEligibility:\n\nPeople aged 4 to 65 years with CGD who require a transplant.\n\nDesign:\n\nParticipants will be screened. Part of the screening will help to identify the best match to a transplant donor. Participants will have a physical exam, including dental and eye exams. They will have blood and urine tests. They will have tests of their breathing and heart function. A bone marrow sample will be taken. They will have their stem cells collected.\n\nParticipants will have a catheter inserted into a vein in their chest. It will remain in place for the entire period of transplant and recovery.\n\nParticipants will be in the hospital 40 to 50 days for the transplant. This will include a conditioning phase, to prepare their body for the procedure, as well as the transplant and recovery phases. As part of the conditioning phase, participants will receive JSP191 through a vein for 1 hour.\n\nAfter discharge, participants will have follow-up visits 2 times a week for 100 days. Additional follow-up visits will continue for 5 years....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Has confirmed CGD.\n* Has sufficient complications from underlying disease to warrant undergoing transplantation (either a history of or ongoing inflammation/CGD-related autoimmunity OR a CGD-related infection while on prophylaxis) OR has a Quartile 1 or 2 residual oxidase production level.\n* Aged 4 years to 65 years.\n* Has an unrelated matched donor available (but no matched related donor available).\n* Must be able to stay within 1 hours travel of the NIH for the first 3 months after transplantation and have a family member or other designated companion to stay with during the post-transplant period.\n* Must provide a durable power of attorney for health care decisions to an appropriate adult relative or guardian in accordance with form NIH 200 NIH Durable Power of Attorney for Health Care Decision Making.\n* If of childbearing potential, must agree to consistently use contraception from 1 month prior to baseline, throughout study participation, and for 1 year after receiving transplanted cells. Acceptable forms of contraception are:\n\n  * Contraceptive pills or patch, Norplant, Depo-Provera, or other FDA-approved contraceptive method.\n  * Male partner has previously undergone a vasectomy.\n* If able to impregnate a partner, must agree to consistently use contraception from the time of enrollment through 3 months post-transplant. Acceptable forms of contraception are:\n\n  * Male condom with spermicide.\n\nEXCLUSION CRITERIA:\n\n* Eastern Cooperative Oncology Group (ECOG) or equivalent performance status \\>= 3 (see Supportive Care guidelines, available at https://training.seer.cancer.gov/followup/procedures/dataset/ecog.html).\n* Left ventricular ejection fraction \\< 40%.\n* Transaminases \\> 5x upper limit of normal based on the individual s clinical situation and at the discretion of the investigator.\n* CRP \\> 100 mg/dL within 6 weeks of the transplant.\n* Psychiatric disorder or mental deficiency severe enough as to make compliance with the HSCT unlikely, and/or to make regulatorily and legally effective informed consent impossible.\n* Major anticipated illness or organ failure incompatible with survival from allogeneic HSCT.\n* Pregnant or breastfeeding.\n* HIV positive.\n* Uncontrolled seizure disorder.\n* Any condition or circumstance that the PI feels would create difficulty in maintaining compliance with the requirements of this protocol.\n* Individuals who are not willing to submit their information as part of the alemtuzumab (Campath) Distribution Program application or participants whom the Distribution Program committee has determined are not qualified to receive alemtuzumab.\n\nNOTE: Alemtuzumab (IV formulation) is no longer distributed commercially. In order to receive product, the physician must contact the program for the patient. If the patient is not willing to consent to submit their information (demographics, contact information, and rationale for use) to the program such that we can obtain the drug, then we cannot proceed with conditioning; therefore, the individual will not be eligible for this protocol.",
+  "minimum_age": "4 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chronic Granulomatous Disease",
+    "CGD"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a transplant trial for patients with chronic granulomatous disease (CGD) who require a matched unrelated donor stem cell transplant. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, as the trial is for a non-malignant hematologic disorder.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference prior systemic therapy for advanced disease, as this is a transplant protocol for CGD, a non-malignant disorder. There are no requirements or exclusions based on prior lines of therapy."
+    }
+  ]
+}

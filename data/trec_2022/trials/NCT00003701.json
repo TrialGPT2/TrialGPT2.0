@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00003701",
+  "title": "Combination Chemotherapy in Treating Patients With Bladder Cancer",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining more than one drug may kill more tumor cells. It is not yet known whether four-drug combination chemotherapy is more effective than two-drug combination chemotherapy in treating bladder cancer.\n\nPURPOSE: Randomized phase III trial to compare the effectiveness of two combination chemotherapy regimens in treating patients who have bladder cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS: Histologically confirmed transitional cell carcinoma of the bladder or mixed histologies containing a component of transitional cell carcinoma Must have undergone radical cystectomy and pelvic lymph node dissection within 12 weeks prior to randomization No evidence of distant metastatic disease on pre- or postoperative radiographic scans No positive surgical margins in the cystectomy specimen and no known macroscopic residual disease left at time of cystectomy No bladder sparing surgery May have undergone continent urinary diversion or neobladder procedure but must have recovered completely from the effects of surgery Must have muscle-invasive disease on final pathologic staging and have a primary tumor stage of pT4, any N, M0, or any pT, N+, M0, or pT3b, any N, any M, and following a pelvic lymph node dissection have a pathologic nodal stage of pN0 (only if pT3b or pT4), pN1, or pN2 Clinically unsuspected organ confined prostate cancer found during cystoprostatectomy allowed\n\nPATIENT CHARACTERISTICS: Age: Any age Performance status: ECOG 0-2 Life expectancy: Not specified Hematopoietic: WBC at least 3,500/mm3 Platelet count at least 100,000/mm3 Hepatic: Bilirubin no greater than 1.5 times upper limit of normal (ULN) SGOT no greater than 2 times ULN Renal: Creatinine no greater than 1.7 mg/dL OR Creatinine clearance at least 60 mL/min Cardiovascular: No second degree atrioventricular block or bundle branch block Other: No history of prior malignancy in the past 5 years except basal or squamous cell carcinoma of the skin or carcinoma in situ of the cervix No active infection requiring antibiotics No history of allergic reaction to drugs utilizing the vehicle Cremophor Not pregnant or nursing Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY: Recovered from all prior therapies Biologic therapy: No prior biologic response modifier therapy No filgrastim (G-CSF) 24 hours pre- or post-chemotherapy administration Chemotherapy: No prior systemic chemotherapy Endocrine therapy: Not specified Radiotherapy: No prior radiotherapy as a component of bladder sparing therapy No prior adjuvant radiotherapy for locally advanced disease with positive margins Surgery: See Disease Characteristics Other: Prior intravesical therapy for superficial bladder cancer allowed and recovered",
+  "minimum_age": "0 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Bladder Cancer",
+    "Urethral Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

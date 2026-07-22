@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT01617408",
+  "title": "Brain Stimulation and Vision Testing",
+  "brief_summary": "Background:\n\n-The brain has two systems for recognizing objects. One system recognizes what an object is, and the other system recognizes where the object is located. However, there is much about how the brain handles and interprets the information from these two systems that is still unclear. Researchers want to study the parts of the brain that are involved in how vision is processed. They will use magnetic resonance imaging (MRI) and transcranial magnetic stimulation (TMS) or transcranial electrical stimulation (tES) on the brain. MRI measures what parts of the brain become more active when tasks are performed. TMS uses magnetic pulses to temporarily change the activity in parts of the brain. tES uses electrical current to temporarily change brain function.\n\nObjectives:\n\n-To better understand how people visually recognize different types of objects.\n\nEligibility:\n\n-Healthy volunteers between 18 and 50 years of age, who only speak English.\n\nDesign:\n\n* This study includes many different experiments on vision. Each experiment may combine visual tasks, MRI scans, and TMS or tES. Participants may be asked to have several different tests. Each test will require a separate visit to the National Institutes of Health.\n* Participants will be screened with a physical exam and medical history. They will have a baseline brain scan at the first visit.\n* Participants may do visual tasks alone, with MRI only, with TMS or tES only, or with MRI and TMS or tES combined. For the visual tasks, they will look at pictures of objects on a computer screen. Sometimes the images will appear very briefly (less than one-tenth of a second). Sometimes they will appear for up to 5 seconds. These images will be of things like faces, bodies, tools, and scenes. Participants will be asked to respond in different ways to the pictures. They may respond by typing on a computer keyboard or by pressing a button. Participants will have time to practice the tasks before the experiment.\n* Participants will remain on the study for up to 3 years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nHealthy\n\nAges 18-50 years (inclusive)\n\nAble to read and write in English to guarantee understanding of all written and spoken instructions, which are in English\n\nEXCLUSION CRITERIA:\n\nIndividuals with conditions that could pose a risk relating to the safety of the MRI procedure, the TMS procedure or the combined TBS and fMRI procedure will be excluded from the protocol such as:\n\n* Those with ferromagnetic metal in the cranial cavity or eye, e.g. aneurysm clip, implanted neural stimulator, cochlear implant, ocular foreign body.\n* Those with an abnormality on a structural MRI.\n* Those with an implanted cardiac pacemaker or auto-defibrillator\n* Those with an insulin pump.\n* Those with an irremovable body piercing\n* Pregnant women\n* Those with a visual impairment that will prevent them from performing the task\n* Those without consent capacity will not be enrolled\n* Those who do not understand the study instructions\n* Those with a history of neurological problems. Neurological problems include, but are not limited to; family history of epilepsy, history of seizures and recurrent migraines.\n* Those using medicines that can lower the seizure threshold. These can include but are not limited to; imipramine, amitriptyline, doxepine, nortriptyline, maprotiline, chlorpromazine, clozapine, foscarnet, ganciclovir, ritonavir, amphetamines.\n* Those with a visual impairment that will prevent them from performing the task\n* Those who have a significant psychiatric illness or have a history of psychiatric illness.\n* NIMH staff/employees/family members",
+  "minimum_age": "18 Years",
+  "maximum_age": "50 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Neurologically normal subjects aged between 18 and 50 years old.",
+  "condition": [
+    "fMRI",
+    "Dorsal Pathway",
+    "Ventral Pathway"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology study enrolling only healthy volunteers with no history of neurological or psychiatric illness. There is no line-of-therapy intent as no cancer patients or systemic therapies are involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls only healthy volunteers without any history of neurological or psychiatric illness. There is no mention of cancer, systemic therapy, or lines of therapy for advanced disease."
+    }
+  ]
+}

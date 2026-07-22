@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01572584",
+  "title": "Lung Ultrasound in the Evaluation of Pneumothorax Size",
+  "brief_summary": "Background\n\n* Assessment of the percentage of lung collapse is crucial in the therapeutic decision-making of pneumothorax.\n* The methods normally used to this purpose are radiological. Computerized tomography scan (CT) is highly accurate because it allows the exact evaluation of the volume of the air layer. However, in clinical practice assessment of the volume of pneumothorax mainly relies on the measurement of the inter-pleural distance at conventional chest radiography (CXR). This latter method is inaccurate.\n* Lung ultrasound is a new method highly accurate in the first diagnosis of pneumothorax, with a sensitivity superior to CXR and similar to CT in case of traumatic pneumothorax.\n* The scientific community is actually debating about the usefulness of lung ultrasound in the quantification of pneumothorax \\[\\]. Lung ultrasound can assess the superficial extension of the pneumothorax, but cannot evaluate its volume.\n\nAim\n\n* Main purpose of the study is to compare measurement of the superficial extension of pneumothorax on the chest wall obtained by lung ultrasound, to the evaluation of the air volume performed by CT in patients with pneumothorax.\n* The main hypothesis of the study is that the cut-off between small (\\<11% of lung collapse) and large (\\>11% of lung collapse) pneumothorax can be identified by a lung ultrasound evaluation of the superficial extension of pneumothorax.\n* Second purpose of the study is to compare the accuracies of lung ultrasound and CXR in predicting the volume of pneumothorax assessed by CT.\n* Secondary hypothesis is that lung ultrasound demonstrates greater accuracy in the prediction of volume of pneumothorax and percentage of lung collapse.\n\nMethods\n\n* Patients with a diagnosis of pneumothorax confirmed at CT are prospectively enrolled and submitted to lung ultrasound within 20 min from the CT study.\n* Different locations of the sonographic \"lung point\" on the chest wall (i.e. the point on the chest wall where the sonographic pattern of the normally aerated lung alternates with the pathologic sonographic pattern of pneumothorax) are compared with different volumes of pneumothorax measured by CT.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Radiologic diagnosis of pneumothorax\n* Clinical need to perform a CT scan\n* Ability to perform the lung ultrasound imaging within 20 minutes from the CT study\n\nExclusion Criteria:\n\n* age less than 16 years",
+  "minimum_age": "16 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients from the Emergency Department Patients admitted to the Hospital Outpatients from the Radiology Department who undergo invasive thoracic procedures",
+  "condition": [
+    "Pneumothorax"
+  ],
+  "overall_status": "COMPLETED"
+}

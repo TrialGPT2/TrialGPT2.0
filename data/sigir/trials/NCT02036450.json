@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT02036450",
+  "title": "Atrial Fibrillation Detected by Continuous ECG Monitoring",
+  "brief_summary": "The LOOP study aims to determine whether screening for atrial fibrillation (AF) with implantable loop recorder and initiation of oral anticoagulation (OAC) if AF is detected will reduce the risk of stroke and systemic arterial embolism in patients with risk factors for stroke.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 70-90 years, and\n* Previously diagnosed with \u22651 of:\n\n  * Diabetes mellitus (type 1 or type 2, with or without medical therapy)\n  * Hypertension (with or without medical therapy)\n  * Heart failure\n  * Previous diagnosed stroke (previous transient ischemic attack is not considered an inclusion criterion)\n\nExclusion Criteria:\n\n* History of atrial fibrillation or flutter irrespective of type\n* Cardiac pacemaker or defibrillator (with or without re-synchronization therapy)\n* Contraindication to oral anticoagulation therapy\n* Anticoagulation therapy; vitamin K antagonists, direct oral anticoagulants, or (low-molecular) heparins. Therapy with platelet inhibitors such as acetyl-salicylic acid, clopidogrel, persantine is not considered an exclusion criterion\n* Renal failure treated with permanent dialysis\n* Uncorrected congenital heart disease, or severe valvular stenosis, obstructive cardiomyopathy, active myocarditis, or constrictive pericarditis.\n* On a waiting list for major surgery (cardiac, thoracic or abdominal)\n* Cardiac or thoracic surgery has been performed within 3 months from inclusion\n* Any major organ transplant (e.g. lung, liver, heart, or kidney)\n* Cytotoxic or cytostatic chemotherapy and/or radiation therapy for treatment of a malignancy within 6 months before randomization or clinical evidence of current malignancy with the following exceptions: Basal or squamous cell carcinoma of the skin, cervical intraepithelial neoplasia, prostate cancer (if stable, localized disease with a life expectancy of \\> 2.5 years in the opinion of the investigator)\n* Life-expectancy shorter than 6 months\n* Known to be human immunodeficiency virus (HIV) positive with an expected survival of less than 5 years due to HIV infection\n* Recent (within 3 months) history of alcohol or drug abuse based on self-reporting\n* Any condition (e.g. psychiatric illness, dementia) or situation, that in the investigators opinion could put the subject at significant risk, confound the study results, or interfere significantly with the subject participation in the study\n* Unwillingness to participate or patient does not understand Danish language",
+  "minimum_age": "70 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Atrial Fibrillation",
+    "Stroke",
+    "Hypertension",
+    "Diabetes"
+  ],
+  "overall_status": "COMPLETED"
+}

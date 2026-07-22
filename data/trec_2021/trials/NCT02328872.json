@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02328872",
+  "title": "Compass - Randomised Controlled Trial of Primary HPV Testing for Cervical Screening in Australia",
+  "brief_summary": "Compass is a randomised controlled trial of primary HPV testing for cervical cancer screening in Australia. A pilot study involving 5,000 women was carried out in 2013-2014. The trial will involve recruiting 76,300 women from primary health clinics. Women aged 25-69, attending for cervical screening or for routine follow-up will be invited to participate in the 2-arm trial. A liquid-based cytology (LBC) sample will be taken from consenting women and sent to VCS Pathology. Women will be randomised in a 1:2 parallel group allocation to LBC and HPV arms using randomisation with the minimisation procedure, with stratification by birth cohort according to whether offered HPV vaccination in Australia's national publicly-funded HPV vaccination program (date of birth \\>=July 1st 1980 and \\<1st July 1980). In the LBC (active control) arm, women will undergo 2.5 yearly image read cytology screening with reflex HPV triage testing for low grade cytology. In the HPV (intervention) arm women will undergo 5 yearly HPV screening with partial genotyping enabling separate identification of HPV16 and HPV18 and referral of this group for diagnostic evaluation, and secondary randomisation of \"intermediate risk\" women testing positive for oncogenic HPV (but not HPV 16 or 18) to either image read LBC screening or dual-stained (DS) cytology testing with p16/Ki67. The laboratory reports issued to practitioners will specify the recommended management for women, according to study arm and test results.Participating women will be flagged and clinical outcomes will be tracked via the Compass Register. Data linkage between the Compass Register and HPV vaccination records held on the Australian Immunisation Register will be performed in order to integrate vaccination and screening histories for trial participants. Participants will be actively followed for an anticipated 5 years from the time of recruitment and the primary outcome is based on the total cumulative detection of CIN3+ after exit testing at 5 years. The anticipated study completion date of March 2027 takes into consideration the final migration of participants to the National Cancer Screening Register and allows for two years to follow-up any intermediate risk results occurring in the last of the recruited trial participants.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SCREENING",
+  "raw_criteria": "Inclusion Criteria:\n\n* Australian residents with a cervix, aged 25-69 years who are attending for routine cervical screening. (Note: since April 2016 recruitment has been confined to the younger strata, i.e. women age-eligible for HPV vaccination aged at least 25 and born on or after 1st July 1980, as the recruitment target of the older cohort was met).\n* Participants may have been previously enrolled in the Compass Pilot but must have been discharged to routine screening. Women may also be in follow-up management for a previous abnormality or unsatisfactory cytology.\n\nExclusion Criteria:\n\n* Previous total hysterectomy (uterus and cervix).\n* The presence of symptoms or signs for which cervical cancer must be excluded.\n* Currently undergoing treatment for cervical cancer.\n* Currently enrolled in the Compass Pilot Study.",
+  "minimum_age": "25 Years",
+  "maximum_age": "69 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Cancer of the Cervix",
+    "Cervical Intraepithelial Neoplasia"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

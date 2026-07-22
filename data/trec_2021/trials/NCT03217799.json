@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03217799",
+  "title": "Noninvasive Measurement of Blood Coagulation",
+  "brief_summary": "The investigators have developed an optical system that measures the coagulation status of patients in vivo in a non-invasive manner. The system is based on a small optical sensor that emits coherent light into the skin and collects the reflected light from the red blood cells in the blood vessels in the skin under the sensor. The sensor is placed on the fingertip, and during a brief period of occlusion of blood flow by a small pneumatic cuff, red cell movement becomes Brownian in nature and is thereby affected by the viscosity of the blood. In patients who have a bleeding tendency, red blood cell movement will be faster, while in patients with a hypercoagulable state the red cell movement will be slower. Treatment with anticoagulant medications is expected to affect the movement of the red blood cells and these changes can be detected by the sensor. The investigators plan to test the device in normal subjects and in subjects taking Coumadin, direct oral anticoagulants, antiplatelet drugs and heparin-based medications. The investigators will determine whether anticoagulants affect the noninvasive measurement and compare the results with standard laboratory tests of coagulation.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nSubjects receiving anticoagulant therapy, including warfarin, DOACS, heparin, and antiplatelet drugs\n\nExclusion Criteria:\n\n\\-",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients attending the Coagulation clinic at Meir Hospital",
+  "condition": [
+    "Anticoagulants; Increased",
+    "Anticoagulant Overdosage",
+    "Coagulation Disorder",
+    "Blood Clot",
+    "Blood Coagulation Disorder"
+  ],
+  "overall_status": "UNKNOWN"
+}

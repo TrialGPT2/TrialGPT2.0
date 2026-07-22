@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03119571",
+  "title": "ACCESS to the Cardiac Cath Lab in Patients Without STEMI Resuscitated From Out-of-hospital VT/VF Cardiac Arrest",
+  "brief_summary": "To determine if survival to hospital discharge with good neurological outcome for adults ages 18-75 who are resuscitated from out-of-hospital VT/VF cardiac arrest without clinical signs of a heart attack do better by going straight to the cardiac catheterization laboratory or admitted to the intensive care unit for evaluation. The investigators think a large portion of resuscitated patients presenting with VT/VF have ischemic heart disease which is the cause for the arrest. And prompt access to the cardiac catheterization laboratory to reverse the blocked artery will improve survival with good neurological outcomes.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult presumed or known to be 18-75 years old\n* Resuscitated from OOHCA\n* Initial cardiac arrest rhythm of pulseless VT/VF (including patients treated with an AED)\n* No ST-segment elevation MI (No STEMI) (or STEMI-equivalent syndrome) on ED 12-lead ECG (as interpreted by a physician)\n\nExclusion Criteria:\n\n* Initial non-shockable out-of-hospital cardiac arrest rhythm (pulseless electrical activity or asystole)\n* Valid do not resuscitate orders (DNR),\n* Blunt, penetrating, or burn-related injury, drowning, electrocution or known overdose,\n* Known prisoners\n* Known pregnancy,\n* ST-segment elevation on ED 12-lead ECG (as interpreted by a physician)\n* Absolute contraindications to emergent coronary angiography including,\n* known anaphylactic reaction to angiographic contrast media,\n* active gastrointestinal or internal bleeding, or\n* severe concomitant illness that drastically shortens life expectancy or increases risk of the procedure.\n* Suspected or confirmed intracranial bleeding\n* Refractory cardiac arrest (prior to randomization)\n* Patients meeting ACCESS Trial eligibility criteria initially seen in an outside hospital and then transferred to an ACCESS Trial participating hospital",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cardiac Arrest Due to Underlying Cardiac Condition",
+    "Ventricular Fibrillation",
+    "Cardiopulmonary Arrest With Successful Resuscitation"
+  ],
+  "overall_status": "TERMINATED"
+}

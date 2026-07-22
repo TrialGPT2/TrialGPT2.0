@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT01145313",
+  "title": "Impact of Atypical Antipsychotic Therapy on Health Outcomes and Costs Among Patients With Major Depressive Disorder",
+  "brief_summary": "The primary objective is to examine changes in pre/post-augmentation healthcare costs and resource utilization in patients diagnosed with major depressive disorder (MDD) who augment their current antidepressant therapy with an atypical antipsychotic.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nPatients who meet the following criteria will be included in the study:\n\n* aged 18 to 64 years\n* diagnosis of major depressive disorder during the study timeframe (ICD 9 codes 296.2, 296.3, 311)\n* evidence of at least 6 consecutive claims for traditional antidepressant therapy with a 30 day supply or at least 2 claims with a 90 day supply (consecutive defined as \u226415 days gap)\n* must be continually enrolled during the study timeframe and have both medical and pharmacy benefits\n* evidence of at least 4 consecutive claims for an atypical antipsychotic prescription with a 30 day supply or 2 claims with a 90 day supply (consecutive defined as \u226415 days gap)\n* evidence of antidepressant therapy for at least 60 consecutive days prior to the initiation of atypical antipsychotic\n* After at least a 60 day trial of traditional antidepressant medications, patient augments with an atypical antipsychotic medication for at least 4 months.\n\nExclusion Criteria:\n\nPatients are excluded if they:\n\n* have any claims for a diagnosis of schizophrenia, schizoaffective or bipolar disorder during the study period\n* have Electroconvulsive therapy (ECT) during the study period\n* new augmentation with mood stabilizers, L-thyroxine (T4), L-Thyronine (T3), buspirone, stimulant, or others during the post-period (table 1)\n* are pregnant during the study period\n* patients with Medicare or Medicaid",
+  "minimum_age": "18 Years",
+  "maximum_age": "64 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The population is identified as patients diagnosed with MDD who are treated with antidepressants and subsequently augment with atypical antipsychotic therapy.",
+  "condition": [
+    "Depressive Disorder, Major"
+  ],
+  "overall_status": "COMPLETED"
+}

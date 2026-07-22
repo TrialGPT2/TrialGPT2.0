@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04333524",
+  "title": "FDG PET Evaluation for Marginal Zone Lymphoma and Its Prognostic Role",
+  "brief_summary": "The general aim of the present study is to assess the role of PET for the staging and for the assessment of response and outcome prediction in Marginal Zone Lymphoma (MZL). This study will be conducted as a multicenter retrospective analysis of MZL for whom PET scan are available as DICOM file for central review.\n\nThe study is designed as a retrospective collection of patients with MZL enrolled in the prospective IELSG36 and IELSG38 trials sponsored by IELSG and in the observational NF10 study sponsored by Federazione Italiana Linfomi (FIL), with the possibility to add additional cases from participating institutions.\n\nThe study will be conducted on performed scans. No additional scan or procedure will be required for study purposes.\n\nThe study will be divided into two sections with different aims:\n\nPart A will be conducted to understand the role of PET for the staging of MZL. PET scans will be analyzed and compared with data retrieved from CT scan and from other staging procedures, also including bone marrow biopsy, ultrasound, and laboratory exams. This part of the study will describe ability of PET to identify pathologic lesions and to contribute to staging definition or to stage migration.\n\nPart B will be conducted to validate standardized criteria for response assessment in MZL including FDG-PET among procedures and to define the prognostic role of metabolic response in MZL. For this purpose the primary endpoint for this part of the study is defined as the progression free survival. Secondary endpoint will be Overall survival, and response rate defined with conventional procedures and rate of histological transformation.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. One of the following subtypes of Histology confirmed Indolent non-follicular B-cell lymphoma:\n\n   * Splenic MZL (bone marrow histology and/or splenic tissue);\n   * Extranodal MZL or MALT (tissue biopsy);\n   * Nodal MZL (lymph node biopsy).\n2. Age over 18.\n3. Availability of details on clinical presentation, treatment details and results, and on follow-up.\n4. Execution of PET at diagnosis or/and at end of treatment or/and at relapse.\n5. Execution of CT scan with iodine contrast medium at diagnosis and at assessment of response.\n6. Patients with histologically confirmed marginal zone lymphomas according to the current WHO classification are registered in the study. Diagnosis based on tru-cut core-needle biopsies are permitted in the study.\n7. Written informed consent.\n\nExclusion Criteria:\n\n1. Patients with a diagnosis of Non Hodgkin Lymphoma other than MZL.\n2. Scans images not available for whatever reason.\n3. Cases diagnosed on fine needle aspiration cytology only.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with MZL enrolled in the prospective IELSG36 and IELSG38 trials and on the observational NF10, with the possibility to add additional cases from participating institutions",
+  "condition": [
+    "Marginal Zone Lymphoma"
+  ],
+  "overall_status": "RECRUITING"
+}

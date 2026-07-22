@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02061072",
+  "title": "Web-based Application for the Population Pharmacokinetic Service - Phase 1",
+  "brief_summary": "The aims of this trials are:\n\n1. to collect published and unpublished individual classic pharmacokinetic data (individual patient data from independent investigators and pharmaceutical companies)\n2. to make available population pharmacokinetic models for the concentrates derived from the data collected\n3. to develop a web based application intended to use the above models to calculate pharmacokinetic parameters for individual patients, and\n4. to test the system functionality via simulation of the use of the prototype by use of faked test data.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with severe or moderate Hemophilia A or B\n* Informed consent to data processing\n\nExclusion Criteria:\n\n* Non measurable plasma factor VIII due to high titre inhibitor",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with severe or moderate Hemophilia A or B",
+  "condition": [
+    "Hemophilia A",
+    "Hemophilia B"
+  ],
+  "overall_status": "COMPLETED"
+}

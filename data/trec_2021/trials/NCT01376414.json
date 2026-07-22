@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01376414",
+  "title": "H. Pylori Testing for Patients With Non-specific Upper Abdominal Pain in the Emergency Department",
+  "brief_summary": "This pilot study aims to estimate the prevalence of Helicobacter pylori (H. pylori) colonization in patients presenting with non-specific abdominal pain (NSAP) in an urban academic emergency department (ED) located in Washington, DC.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nFor any patient with chief complaint of \"ABD\", \"STOM\", \"EPIG\", \"CHEST\", \"NAUS\" \"Do you have pain or discomfort or burning in your upper abdomen as the main reason for coming to ER today?\"\n\nExclusion Criteria:\n\n* The patient LESS than 18 years old.\n* Patient does NOT speak English NOR has reliable adult translator.\n* Patient does NOT have capacity to give consent? (confused/intoxicated/etc.)\n* The patient currently is on antibiotics.\n* The patient currently is on a PPI. (eg. Prilosec \\[omeprazole\\]), protonix \\[pantoprazole\\], prevacid \\[lansoprazole\\], aciphex \\[rabeprazole\\], nexium \\[esomeprazole\\]\n* The patient has taken bismuth or pepto-bismol today.\n* The patient is known to be or suspected to be pregnant.\n* The patient UNABLE to walk to H.pylori Breath test.\n* The patient had \"recent\" negative H.pylori test for same symptoms.\n* There an \"obvious alternative cause\" for pain (per attending).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All adult patients (\\>18 years) presenting to the ED with symptoms of abdominal pain will be screened for eligibility. The ED is a single site urban academic level one trauma center.",
+  "condition": [
+    "Gastritis",
+    "Peptic Ulcer",
+    "Peptic Ulcer Perforation",
+    "Stomach Ulcer"
+  ],
+  "overall_status": "COMPLETED"
+}

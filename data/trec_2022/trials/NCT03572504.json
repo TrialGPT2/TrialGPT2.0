@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03572504",
+  "title": "Height Measurement in Critically Ill Children",
+  "brief_summary": "Height/length has to be assessed accurately in critically ill children, as its value is required to assess nutritional status, to calculate nutritional requirements, to calculate body surface area (involved in drug prescriptions), and to assess pulmonary function.\n\nThe WHO has standardized practices to perform height/length measurements, but this gold standard is not applicable in critically ill children (who cannot stand and are equipped with catheters, tubes and various devices). It is not accurate to rely on previous measurements as children are continuously growing. No height/length measurement tool or method has been validated so far in this population, neither any estimation nor extrapolation methods.\n\nThe investigators aim to compare the WHO gold standard for height/length measurement to a list of other methods, validated in other children populations and currently used in the pediatric setting. We intend to compare each of them to the gold standard. The secondary objectives are to describe each height/length extrapolation or estimation method and to estimate the practical use of each method for critically ill children.\n\nA prospective observational study is planned. 140 critically ill children admitted to pediatric intensive care unit (PICU) will be recruited.\n\nBody segments (ulna, tibia, knee-heel, arm span) will be measured and length/height extrapolated from formulas used in different populations. Previous length/height measurements will be collected to draw growth curves and extrapolate actual length/height. Parents will be asked how tall their child is.\n\nAfter PICU discharge, while the child meets WHO measurement standards, accurate length/height will be measured and compared to the results of the above mentioned techniques.\n\nComparison will be made in-between these results.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* age from 28 days to 18 years\n* admitted in pediatric intensive care\n* WHO standard not applicable\n* parent consent\n\nExclusion criteria:\n\n* expected death before discharge\n* expected that the child will not meet in the near future WHO standard criteria to measure height/length\n* growth \\> 5% height before meeting the WHO criteria\n* limb abnormalities, scoliosis, retractions.",
+  "minimum_age": "28 Days",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "One tertiary care university children hospital Pediatric intensive care unit",
+  "condition": [
+    "Critically Ill Child",
+    "Nutritional Status",
+    "Height",
+    "Length"
+  ],
+  "overall_status": "COMPLETED"
+}

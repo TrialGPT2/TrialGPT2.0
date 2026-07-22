@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT03081871",
+  "title": "Mobile Cardiovascular Risk Service Trial",
+  "brief_summary": "Risk factors for cardiovascular disease are poorly controlled even for patients who frequently visit their physician, leading to large numbers of preventable cardiovascular events such as heart attacks and strokes. Research from integrated healthcare systems suggests that risk factors can be controlled better and treatment strategies for cardiovascular disease can be markedly improved by using a centralized cardiovascular risk service (CVRS) managed by pharmacists. The investigators are confident that a pharmacist-managed mHealth CVRS can become a strategy in un-integrated healthcare settings to markedly reduce cardiovascular events in the United States.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "INCLUSION CRITERIA:\n\n1. Patients age 55 and older;\n2. Owns and uses a smartphone;\n3. Any ONE of the following guideline-related needs in the past 18 months:\n\n   1. Most recent encounter LDL \\>= 100 mg/dl\n   2. Most recent encounter BP \\> 140/90 mmHg (or \\> 150/90 for persons age 60+)\n   3. Most recent encounter not taking recommended post-stroke medications\n   4. Most recent encounter not taking recommended post-MI medications\n   5. Diabetics with most recent encounter not on ACE inhibitor or ARB blocker\n   6. Any patient with most recent A1c \\> 8.0%\n   7. Diabetics with no urine microalbumin screening, past 18 months\n\nEXCLUSION CRITERIA:\n\n1. Non-English speaking (app available only in English for this study)\n2. No encounter in the past 18 months (they may be receiving care elsewhere and guideline-related needs may not be reliably assessed) at the clinic itself\n3. Most recent systolic BP \\>200 or diastolic BP \\> 110 mm Hg\n4. Any history of significant hepatic disease, including cirrhosis, Hepatitis B or C infection, or laboratory abnormalities (serum ALT or AST \\> 3 times normal (either AST above 96 U/L or ALT above 99 U/L or total bilirubin \\> 2.0 mg/dl))\n5. History of hemorrhagic stroke\n6. Pulmonary hypertension\n7. Stage 4 or metastatic cancer\n8. Current nursing home residence or has plans to move to one within the next 12 months\n9. Has plans to transfer care from the current clinic within the next 6 months\n10. Inability to give informed consent or impaired cognitive function\n11. Currently pregnant (females only)\n12. Currently a prisoner",
+  "minimum_age": "55 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cardiovascular Diseases",
+    "Personal Health Records",
+    "Pharmaceutical Care",
+    "Mobile Apps"
+  ],
+  "overall_status": "COMPLETED"
+}

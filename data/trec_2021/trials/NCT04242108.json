@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04242108",
+  "title": "Diagnostic Performance of Deep Learning for Angle Closure",
+  "brief_summary": "Primary angle closure diseases (PACD) are commonly seen in Asia. In clinical practice, gonioscopy is the gold standard for angle width classification in PACD patietns. However, gonioscopy is a contact examination and needs a long learning curve. Anterior segment optical coherence tomography (AS-OCT) is a non-contact test which can obtain three dimensional images of the anterior segment within seconds. Therefore, the investigators designed the study to verify if AS-OCT based deep learning algorithm is able to detect the PACD subjects diagnosed by gonioscopy.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "The inclusion criteria in the study were as follows: (1) All participants must be \u2265 18 years old; (2) Study subjects had a previous diagnosis of the ACA status (narrow or open, PAS or non-PAS) based on gonioscopy, SS-OCT scans and medical history records. Exclusion criteria of the data include: (1) poor compliance in receiving gonioscopy examination; (2) unclear AS-OCT scans due to blinking or out of focus; (3) recent use of miotics within a month; 4) secondary angle closure sue to subluxation or dislocation, uveitis, neovascular glaucoma, et al.; 5) history of ocular surgery or laser iridotomy; 6) patients who previously had an episode of primary angle closure (which was obtained on history by asking the patients).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The training and primary validation datasets were collected from the databases of electronic medical and research records at Zhongshan Ophthalmic Center from September 1, 2016, to September 1, 2019. The external test dataset was obtained from the Singapore Eye Research Institute (SERI), Singapore during June 2008 to November 2019, and the Chulalongkorn University and King Chulalongkorn Memorial Hospital (KCMH, Bangkok, Thailand) from October, 2019 to April, 2020.",
+  "condition": [
+    "Angle Closure Glaucoma"
+  ],
+  "overall_status": "UNKNOWN"
+}

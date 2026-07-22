@@ -1,0 +1,39 @@
+{
+  "nctid": "NCT05457790",
+  "title": "Feasibility and Preliminary Efficacy of Acceptance and Commitment Therapy (ACT) for Sleep Disturbances in Adults With Sickle Cell Disease (SCD)",
+  "brief_summary": "Research Type: Clinical Trial\n\nBackground:\n\nPeople with sickle cell disease (SCD) have many health challenges. Also, they often have trouble sleeping. Acceptance and commitment therapy (ACT) might help people with SCD to improve their sleep problems.\n\nObjective:\n\nTo see how well ACT works in people with SCD and sleep problems and to find out how they feel about it.\n\nEligibility:\n\nPeople between the ages of 18 and 55 with SCD and trouble sleeping.\n\nDesign:\n\nThe study is remote. Participants will not have to come to the NIH at all. They will need a device that has Bluetooth and can connect to the internet.\n\nSome participants will be in the study for 12 weeks. Others will participate for 20 weeks.\n\nParticipants will video chat with an ACT coach once a week for 8 weeks. The coach will guide participants through mindfulness exercises and teach ACT ideas. Each session lasts about 45 minutes.\n\nParticipants will be loaned an actigraph, a device worn on the wrist like a watch that measures and records movement. They will download a free app to upload data from the actigraph for the researchers.\n\nParticipants will wear the actigraph on their nondominant wrist day and night for either 4 or 6 designated weeks. During these weeks, participants will complete a sleep diary each morning when they wake up. This takes about 2 minutes.\n\nParticipants will be sent other surveys to complete from home during the study. They will answer questions about their physical and emotional health. These take 20-25 minutes.\n\nThe last survey will be 4 weeks after participants finish the ACT treatment. They will answer questions about how helpful they thought ACT was and how easy or hard it was to wear the actigraph.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Ability of participant to understand and the willingness to sign a written informed consent document\n* Ability to read and speak English\n* Age \\>=18 - \\<= 55 years\n* Self-reported active diagnosis of Sickle Cell Disease\n* Must score a T-score of 57.5 or higher from the PROMIS Sleep Disturbance Scale\n* Self-reported sleep disturbance of at least 3 months\n* Access to necessary resources for participating in a technology-based intervention (i.e., computer, smartphone or tablet with internet access and either a USB port or Bluetooth capability)\n* Must be willing to register online and install the software to use the actigraph and willing to complete the sleep diaries\n* Must be able and willing to attend remote ACT coaching calls during the study team s working hours\n\nEXCLUSION CRITERIA:\n\n* Uncontrolled psychiatric illness, cognitive impairments, or other circumstance as judged by the Principal Investigator (PI) or Lead Associate Investigator (LAI), both licensed psychologists, that would limit compliance with study requirements\n* Evidence of disease progression at the time of referral to this study to the extent that it would impede participation or completion of evaluations as determined by the medical advisory investigator in conjunction with the study PI/LAI\n* Individuals who are planning to start a new treatment or who are planning to change medications (e.g., pharmacological, dietary supplements, or psychological) for sleep disturbance or that have been known to significantly affect sleep in the next 6 months (Current sleep medication is not an exclusion criteria)\n* Individuals currently enrolled in a treatment protocol that would impact sleep\n* Previous treatment that cured sickle cell disease.\n* Individuals scheduled to receive gene therapy or stem cell therapy, or begin the conditioning regimen for these procedures, in the next 6 months",
+  "minimum_age": "18 Years",
+  "maximum_age": "55 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sickle Cell Disease",
+    "Sickle Cell Anemia",
+    "Insomnia",
+    "Sleeplessness",
+    "Transient Insomnia",
+    "Nonorganic Insomnia",
+    "Chronic Insomnia"
+  ],
+  "overall_status": "SUSPENDED",
+  "line_of_therapy_overall_summary": "This trial investigates the feasibility and efficacy of Acceptance and Commitment Therapy (ACT) for sleep disturbances in adults with sickle cell disease. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention any requirements or exclusions based on prior systemic therapy for advanced or metastatic disease. The trial is focused on sleep disturbances in sickle cell disease, not on cancer or systemic therapy lines."
+    }
+  ]
+}

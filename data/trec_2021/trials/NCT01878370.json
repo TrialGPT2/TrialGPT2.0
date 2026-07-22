@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01878370",
+  "title": "Audit and Feedback for Primary Care: a Cluster-randomized Trial",
+  "brief_summary": "In a previous study, the investigators delivered graphs to family physicians that outlined the proportion of patients with a history of diabetes or heart disease achieving evidence-based quality targets derived from guideline recommendations. A qualitative evaluation found that participating family physicians did not act upon the feedback for two main reasons. First, they felt that targets recommended in guidelines often did not apply for particular patients. Second, they complained that had difficulty using the feedback reports that only provided aggregate level data for clinical action. In this cluster-randomized trial, the investigators test two approaches to conducting audit and feedback that aims to address these issues. The investigators hypothesize that feedback identifying a small number of patients at high-risk for cardiovascular events requiring action will more effectively lead to changes in clinical behavior than feedback identifying all patients not reaching optimal care targets.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* Family physicians belonging to and sharing data with the Electronic Medical Record Administrative Linked Database in Ontario\n* Patients rostered to these family physicians with diabetes or hypertension or ischemic heart disease\n\nExclusion Criteria:\n\n* Family physicians without at least two years of Electronic Medical Record data in EMRALD\n* Family physicians without at least 100 rostered, active patients",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Diabetes",
+    "Hypertension",
+    "Ischemic Heart Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

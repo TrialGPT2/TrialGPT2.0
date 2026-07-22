@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02428842",
+  "title": "Biomarker Evaluation in Advanced Stage Cervical Cancer by an International Working Group. Tumor Stages (1B1 - 4)",
+  "brief_summary": "Prospective Multicentric European trial for Cervical cancer, not previously treated, with tumour biopsies, and blood collection for molecular analysis at predetermined time points.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria:\n\n1. No prior treatment for cervical cancer.\n2. FIGO Stage IB1 to IVB; all histological subtypes (excluding neuro-endocrine type).\n3. Pelvic MRI available or planned before the start of treatment, , if FIGO \u2265 IB2. and optional for IB1 stage\n4. Possibility to communicate imaging data by CD-ROM (format DICOM 3.0 or more).\n5. Disease amenable to biopsy (3 tumour samples are mandatory prior to treatment).\n6. Age \u2265 18 years.\n7. ECOG (Eastern Cooperative Oncology Group) 0-2.\n8. Life expectancy \\> 6 months.\n9. Patient eligible for standard treatment (according to standards of each center).\n10. Patient having health care insurance.\n11. Informed and signed consent by patient.\n\n(DICOM = Digital Imaging and Communications in Medicine)\n\nExclusion Criteria:\n\n1. Patient enrolled in a clinical trial involving an investigative new agent.\n2. Co morbidity, preventing patient to tolerate the proposed standard treatment.\n3. Past history of invasive cancer over the 5 years preceding entry in the present trial (except basal cell carcinoma and carcinoma in situ of the cervix).\n4. Impossibility to carry out evaluation by MRI (patient claustrophobic, pacemaker, metallic implant, non availability, other), ), if FIGO \u2265 IB2 .\n5. Patient deprived from ability to decide on her own.\n6. Patient unable to have a regular follow up for geographical, social or psychological reasons.\n7. Pregnancy or patient old enough to procreate and not using effective contraceptive method.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Cervical Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

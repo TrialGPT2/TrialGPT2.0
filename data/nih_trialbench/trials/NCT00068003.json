@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT00068003",
+  "title": "Harvesting Cells for Experimental Cancer Treatments",
+  "brief_summary": "Background:\n\nThe NCI Surgery Branch has developed experimental therapies that involve taking white blood cells from patients' tumor or from their blood, growing them in the laboratory in large numbers, and then giving the cells back to the patient.\n\nObjective:\n\nThis study will collect white blood cells from normal volunteers and white blood cells and/or tumor cells, from patients who have been screened for and are eligible for a NCI Surgery Branch treatment protocol. The cells collected from normal volunteers will be used as growth factors for the cells during the period of laboratory growth. The cells and/or tumor from patients will be used to make the cell treatment product.\n\nEligibility:\n\nPatients must be eligible for a NCI Surgery Branch Treatment Protocol\n\nNormal Volunteers must meet the criteria for blood donation\n\nDesign\n\nBoth patients and normal Volunteers will undergo apheresis. Patients will then undergo further testing as required by the treatment protocol.\n\nThere is no required follow up for normal volunteers.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* ELIGIBILITY CRITERIA FOR PATIENTS WITH A CURRENT DIAGNOSIS OF CANCER:\n\nINCLUSION CRITERIA:\n\n* Patients must have a form of cancer currently being studied in the NCI-SB.\n* Patient is able to understand and willing to sign a written informed consent document.\n* Age greater than or equal to 18 years.\n* Clinical performance status of ECOG 0 or 1.\n* Serology\n\n  * Seronegative for HIV antibody. (The experimental treatments being evaluated depend upon an intact immune system. Patients who are HIV seropositive can have decreased immune-competence and thus may be less responsive to the experimental treatment and more susceptible to its toxicities).\n  * Seronegative for hepatitis B surface antigen and seronegative for hepatitis C antibody. If hepatitis C antibody test is positive, then the patient must be tested for the presence of antigen by RT-PCR and be HCV RNA negative.\n* Lesions which will be harvested for the generation of TIL should be accessible via standard surgical or radiological techniques and be associated with acceptable morbidity.\n\nEXCLUSION CRITERIA:\n\n* Active systemic infections, coagulation disorders, or other major medical illnesses of the cardiovascular, respiratory, or immune system.\n* Patients who cannot give proper informed consent to the experimental therapy due to an active psychiatric disorder or inability to understand the nature of the proposed therapy and attendant risk.\n* Women of child-bearing potential who are pregnant because of the potentially dangerous effects of some of the procedures (e.g., tumor biopsy or surgery for tumor resection) on the fetus.\n\nELIGIBILITY CRITERIA FOR HEALTHY VOLUNTEERS:\n\nINCLUSION CRITERIA for PBMC Donors:\n\n* Age greater than or equal to 18 years.\n* Non-reactive for HBsAg, anti-HBc, anti-HCV, anti-HIV-1/2, HBV/HCV/HIV-1 NAT, anti-HTLV-I/II, anti-T. cruzi, West Nile Virus NAT,syphilis, and babesia.\n* PBMC donors must meet the strict behavioral and medical history requirements as per applicable NCI-SB Apheresis Donor SOP(s).\n\nINCLUSION CRITERIA FOR WHOLE BLOOD DONORS:\n\n* Age greater than or equal to 18 years.\n* Whole blood donors must meet the DTM inclusion criteria for allogeneic whole blood donation.\n\nEXCLUSION CRITERIA for PBMC Donors:\n\n* Has had babesiosis.\n* Is at risk or has Creutzfeldt-Jakob Disease.\n* Is on steroid therapy or any other medication or has received vaccination that might interfere with cell preparation per Principal Investigator s (PI) discretion.\n* Has ongoing illness that would cause harm to the volunteer during the apheresis procedure as determined by the PI.\n* Has had yellow jaundice, liver disease, or hepatitis since the age of 11.\n* Has uncontrolled diabetes.\n* Has a hematologic malignancy or any bleeding abnormalities.\n* Has received any type of organ transplant in the past 12 months.\n* Has undergone xenotransplantation at any time.\n* Has received a dura mater graft.\n* If female, is pregnant or has given birth within the last six weeks.\n* Has had an ear or body piercing or tattoos within the past 12 months.\n* Has had a blood transfusion within the past 12 months.\n* Has spent time outside the United States to a restricted country.\n* Has participated in any high-risk activities.\n\nEXCLUSION CRITERIA for Whole Blood Donors:\n\n\\- Whole blood donors who do not meet the DTM criteria for allogeneic whole blood donation.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with a current diagnosis of cancer who are 18 years of age or older - Healthy volunteers who are 18 years of age or older and meet the safety evaluation criteria established by the FDA for donation of blood products, or, meet the safety evaluation criteria established by the NIH Clinical Center Department of Transfusion Medicine (DTM) Blood Bank for screening of allogeneic whole blood donors",
+  "condition": [
+    "Melanoma",
+    "Gastrointestinal Cancer",
+    "Metastatic Cancer",
+    "Breast Cancer",
+    "Non-Small Cell Lung Cancer"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This is a cell harvesting protocol for patients eligible for an NCI Surgery Branch treatment protocol; it does not independently specify any line-of-therapy requirements. Line-of-therapy intent is determined by the downstream treatment protocol for which the patient is being screened.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility requires only that patients are eligible for an NCI Surgery Branch treatment protocol; no specific line-of-therapy requirements are stated in this protocol. The line-of-therapy intent is determined by the downstream treatment protocol, which is not specified here."
+    }
+  ]
+}

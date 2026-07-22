@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03783728",
+  "title": "Video Based Directly Observed Therapy for Latent TB",
+  "brief_summary": "Center for Disease Control (CDC) data reveal that after years of sustained decrease, the incidence of active tuberculosis (TB) disease in the US has plateaued. Most of the cases occur when Mycobacterium tuberculosis (Mtb) reactivates replication in people who have latent tuberculosis infection (LTBI). Only 5 to 10% of subjects with LTBI develop active TB Infection over their lifetime. Current US guidelines recommend treating everyone with LTBI to stop progression to active TB. As treatment is long, only about 45-55% of patients finish treatment overall, regardless of whether the patients are at high (\\>10%) or low lifetime risk of reactivation. The investigator's study aims to test the efficacy of a combined approach of first determining subjects at high risk of reactivation and then treating them with a CDC approved once a week treatment regimen, directly observed by a nurse over video (video-based Directly Observed Therapy, vDOT). Ensuring treatment of the high-risk group will eventually decrease the community active TB burden.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n\\- Age 18 years + 1 day (defined as date of birth plus one day). This age cutoff has been selected as tstin3d.com has only been validated for this age group.\n\nSubjects must have all of the following:\n\n* Untreated Latent Tuberculosis Infection (LTBI), defined as positive Tuberculin skin test/QuantiFERON TB Gold test or T-spot assay done within 1 month prior to enrollment.\n* Absence of active TB disease as determined by history, physical examination, chest X-ray, (sputum smear and/or culture done as needed by the assessing physician for Mtb).\n* Greater than 10% cumulative risk of developing active TB disease (determined by TSTin3D.com).\n\nExclusion Criteria:\n\n* A subject will be excluded if any of the following criteria are met:\n* Presence of active TB disease\n* BMI \\<16\n* Cardiovascular instability (Blood pressure: Systolic \\>180 or \\<90 mm/Hg or Diastolic \\>100 or \\< 50mm/Hg; pulse \\<40 or \\>110)\n* Chest X-Ray report within last 3 months not available\n* HIV positive and currently on treatment with a regimen that has severe drug interactions with 3HP.\n* Presumed infected with INH or Rifapentine (RIF)-resistant M. tuberculosis\n* Women who are pregnant, nursing or expect to become pregnant for the duration of the study.\n* Temperature \u226538.5\u00b0C or other clinical evidence of an acute infection at screening\n* History of treatment for \\>14 consecutive days with a rifamycin or \\>30 consecutive days with isoniazid during the previous 2 years\n* Documented history of completing adequate treatment for active tuberculosis or latent M. tuberculosis infection in a HIV-seronegative person\n* History of sensitivity/intolerance to isoniazid or rifamycins\n* Serum aspartate aminotransferase (AST) \\>5 times the upper limit of normal (ULN) if AST was determined\n* Hemodynamic instability or medical/psychological condition precluding participation in the study as judged by the investigator\n* No access to a smartphone for personal use\n* Refuse blood draws\n* Refuse to participate in the study\n* If female of childbearing potential and on a hormonal contraception method, refuse to use an additional barrier method with the hormonal method for the duration of the study",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adults with latent tuberculosis",
+  "condition": [
+    "Latent Tuberculosis"
+  ],
+  "overall_status": "WITHDRAWN"
+}

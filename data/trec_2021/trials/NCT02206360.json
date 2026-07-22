@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT02206360",
+  "title": "Pancreatic Cancer Early Detection Program",
+  "brief_summary": "Early detection testing is recommended for individuals at elevated risk for the development of Pancreatic Cancer. This Protocol will define sufficiently elevated risk as either equal to or greater than five times the general population risk, or five times the average risk (1.5%) of developing pancreatic cancer by age 70; that is a 7.5% lifetime risk. Our inclusion criteria has a strong focus on the risk for pancreatic cancer imparted by the presence of hereditary cancer genes, as well as by family history. Enrolled subjects will undergo Endoscopic Ultrasound (EUS) alternating with Magnetic Resonance Imaging (MRI), every six to 12 months, for up to 5 years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria: Any of the following:\n\n1. Known carrier of either the BRCA2 or CDKN2A mutation;\n2. Known carrier of any of the following mutations (BRCA1, MLH1, MSH2, PMS2, MSH6, EPCAM , P53, PALB2, APC, or ATM) PLUS first or second degree relative affected with pancreatic cancer;\n3. Individual with Peutz-Jeghers Syndrome;\n4. Familial Pancreatic Cancer, defined as at least two affected relatives with Pancreatic Cancer, who are first degree relatives with each other, and at least one of those affected must be first degree relative to the study subject;\n5. Both parents affected, any age:\n6. Any first degree relative diagnosed with pancreatic cancer under age 50;\n7. Chronic Pancreatitis Syndrome, defined by either PRSS1 or SPINK1 mutations AND appropriate clinical and family history\n\nExclusion Criteria:\n\n1. Any medical condition that contraindicates endoscopy or biopsy\n2. Any medical condition that contraindicates MRI\n3. Status post partial or complete resection of the pancreas\n4. History of pancreatic cancer, either endocrine or exocrine\n5. Clinical suspicion of pancreatic cancer, or any previous radiographic or histologic diagnosis of a pre-malignant finding, including IPMN (Intraductal papillary mucinous neoplasm) and PanIN (Pancreatic intraepithelial Neoplasm).\n6. diagnosis of dementia\n7. Uncontrolled, current illness\n8. Renal insufficiency with serum creatinine greater than 2.0 mg/dl",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals aged 18 and older, who carry sufficiently elevated risk for the development of pancreatic cancer, numerically defined as over (or near) 5 times the general population risk, as determined by their personal, familial, or genetic history.",
+  "condition": [
+    "Pancreatic Cancer",
+    "Pancreas Cancer",
+    "Pancreatic Adenocarcinoma",
+    "Familial Pancreatic Cancer",
+    "BRCA 1/2",
+    "HNPCC",
+    "Lynch Syndrome",
+    "Hereditary Pancreatitis",
+    "FAMMM",
+    "Familial Atypical Multiple Mole Melanoma",
+    "Peutz Jeghers Syndrome"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT01117506",
+  "title": "Coronary Obstruction Detection by Molecular Personalized Gene Expression (Corus CAD or ASGES)",
+  "brief_summary": "To validate the use of Corus CAD (Age/Sex/Gene Expression score - ASGES) blood assay in subjects who are referred for the work-up of coronary artery disease. The study will evaluate the clinical utility of a gene expression test Corus CAD (Age, Sex, Gene Expression Score - ASGES) in subjects referred for myocardial perfusion imaging (MPI) work-up for suspected obstructive atherosclerotic coronary artery disease (CAD). The Corus CAD (ASGES) is a gene expression test that quantify the expression of multiple genes from circulating peripheral blood cells to detect the presence of clinically significant obstructive CAD in patients with chest pain.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Ages 45-90 for women; 35-90 for men.\n* Stable chest pain syndrome (typical or atypical) or anginal equivalent in the judgment of the investigator (e.g., pain in the neck, jaw, arm or shoulder or dyspnea possibly due to cardiac ischemia).\n* Referred for a stress test using MPI.\n* The patient has signed the appropriate Institutional Review Board approved Informed Consent Form.\n\nExclusion Criteria:\n\n* History of known MI or significant CAD.\n* Current MI or acute coronary syndrome.\n* Current New York Heart Association (NYHA) class III or IV congestive heart failure symptoms.\n* Severe regurgitant or stenotic cardiac valvular lesion.\n* Severe left ventricular systolic dysfunction (LVEF \u2264 35 % documented in the last year); if no assessment was performed or documented in the year preceding enrollment, presume normal LVEF.\n* Active systemic infection (diagnosed by a combination of clinical symptoms and laboratory testing, including but not limited to fever, leukocytosis, positive blood cultures, pneumonia, urinary tract infection, or abscess in the preceding 2 months) or chronic infection (e.g., HIV, Hepatitis B or C, Tuberculosis).\n* Protocol-specified rheumatologic, autoimmune or hematologic conditions (e.g., rheumatoid arthritis, systemic lupus erythematosis, polymyalgia rheumatica, or systemic sarcoidosis).\n* Known or suspected diabetes mellitus or documented Hemoglobin A1c (HbA1c) \u2265 6.5; presume normal HbA1c if none documented.\n* Total WBC \u2265 11,000 cells/ul and platelet count \u2264 75,000 cells/ul from a CBC with differential drawn within 7 days prior to enrollment \\[WBC \u2265 11,000 cells/ul and platelet count \u2264 75,000 cells/ul from a CBC drawn \\> 7 days prior need to be re-drawn at enrollment\\].\n* Recipient of any organ transplant.\n* Immunosuppressive or immunomodulatory therapy including any dose of systemic corticosteroids in the preceding 2 months.\n* Chemotherapy in the preceding year.\n* Major surgery in the preceding 2 months.\n* Blood or blood product transfusion in the preceding 2 months.\n* Subjects for whom all forms (stress or pharmacologic) of MPI are contraindicated.\n* Subjects for whom invasive coronary angiography or coronary CT angiography is contraindicated, including IV beta-blocker.\n* Subjects who planned to decline research CCTA or invasive coronary angiography, regardless of MPI result.\n* Subjects with history of atrial fibrillation/flutter or frequent irregular or rapid heart rhythms.\n* Known history of renal insufficiency (serum creatinine \u2265 2.0 mg/dL), or severe allergy to iodinated contrast.",
+  "minimum_age": "35 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study will enroll a patient population that presents with stable chest pain syndrome or anginal equivalent and referred for stress myocardial profusion imaging.",
+  "condition": [
+    "Coronary Artery Disease",
+    "Chest Pain",
+    "Cardiovascular Diseases",
+    "Coronary Heart Disease",
+    "Angina Pectoris",
+    "CAD",
+    "CVD",
+    "CHD"
+  ],
+  "overall_status": "COMPLETED"
+}

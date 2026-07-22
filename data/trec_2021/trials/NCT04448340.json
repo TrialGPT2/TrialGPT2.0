@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04448340",
+  "title": "A Novel Machine Learning Algorithm to Predict the Lewy Body Dementias",
+  "brief_summary": "Parkinson's disease dementia (PDD) and Dementia with lewy bodies (DLB) are dementia syndromes that overlap in many clinical features, making their diagnosis difficult in clinical practice, particularly in advanced stages. We propose a machine learning algorithm, based only on non-invasively and easily in-the-clinic collectable predictors, to identify these disorders with a high prognostic performance.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nthe PDD group comprised of patients fulfilling the Criteria for probable PDD of the Movement Disorders Society (b) the DLB group comprised of patients, according to the recent revised criteria for probable DLB .\n\nExclusion Criteria:\n\n* major psychiatrics disorders, depression",
+  "minimum_age": "50 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "the PDD group comprised of patients fulfilling the Criteria for probable PDD and the DLB group.Patients will be enrolled from the register-based database of two clinics. The following data were collected: gender, age, education, hand dominance, Disease duration (years) and levodopa equivalent daily dose (LEDD). The burden of disease will be assess by the Movement Disorders Society-United Parkinson's Disease Rating Scale (MDS-UPDRS) part III in the Off medication state and the following six cognitive/behavioral tests: Mini-Mental State Examination (MMSE), PD- Cognitive Rating Scale (PD-CRS), Brief Visuospatial Memory test (BVMT-TR), Symbol digit written (SDMT), Trail making test (TMT A,B), Wechsler adultintelligence scale (WAIS-V). All patients will undergo brain MRI and blood test to exclude secondarycauses of dementia.",
+  "condition": [
+    "Dementia"
+  ],
+  "overall_status": "UNKNOWN"
+}

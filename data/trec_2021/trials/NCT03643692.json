@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03643692",
+  "title": "Adaptive, Real-time, Intelligent System to Enhance Self-care of Chronic Disease",
+  "brief_summary": "The Adaptive, Real-time, Intelligent System to Enhance Self-care of chronic diseases (ARISES) project will use type 1 diabetes (T1DM) as an exemplary case study to demonstrate safety, technical proof of concept and efficacy of a novel mobile platform. Combining wearable sensors and smartphone technology, a range of biological, environmental and behavioural data will be analysed to provide real-time therapeutic and lifestyle decision support. Using Case-Based-Reasoning (CBR), the system will be adaptive and personalised with the ability to learn from previously encountered scenarios. Ultimately, ARISES aims to empower self-management of chronic illness and limit the complications associated suboptimal treatment.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DEVICE_FEASIBILITY",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adults \u226518years of age\n* Diagnosis of T1DM for \\> 1 year\n* Structured education completed in last 3 years and capable of CHO counting\n* CBG measured at least twice daily for CGM calibration\n* Capacity to follow the protocol and sign the informed consent\n* Access to a personal computer/laptop\n\nExclusion Criteria:\n\n* Severe episode of hypoglycaemia (requiring 3rd party assistance) in last 6 months\n* Diabetic ketoacidosis in the last 6 months prior to enrolment\n* Impaired awareness of hypoglycaemia (based on Gold score)\n* Pregnant or planning pregnancy over time of study procedures\n* Breastfeeding\n* Enrolled in other clinical trials\n* Active malignancy or being investigated for malignancy\n* Suspected or diagnosed endocrinopathy like adrenal insufficiency, unstable thyroidopathy, endocrine tumour\n* Gastroparesis\n* Autonomic neuropathy\n* Macrovascular complications (acute coronary syndrome, transient ischaemic attack, cerebrovascular event within the last 12 months prior to enrolment in the study)\n* Visual impairment including unstable proliferative retinopathy\n* Reduced manual dexterity\n* Inpatient psychiatric treatment\n* Abnormal renal function test results (calculated GFR \\<40 mL/min/1.73m2)\n* Liver cirrhosis\n* Not tributary to optimization to insulin therapy\n* Abuse of alcohol or recreational drugs\n* Oral steroids\n* Regular use of the paracetamol, beta-blockers or any other medication that the investigator believes is a contraindication to the participant's participation.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Diabetes Mellitus, Type 1"
+  ],
+  "overall_status": "COMPLETED"
+}

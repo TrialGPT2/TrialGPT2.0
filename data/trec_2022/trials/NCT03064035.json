@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT03064035",
+  "title": "Fixed Versus Variable Dosing of 4-factor Prothrombin Complex Concentrate for Emergent Warfarin Reversal",
+  "brief_summary": "The goal of this study is to determine if a fixed dose of 4-factor prothrombin complex concentrate (4FPCC) is as effective as the current standard of care. 4FPCC is used to reverse the effects of warfarin when a patient has emergent bleeding. The investigators hope that this study will help doctors treat patients quicker in the future. In addition, it may be cheaper for patients and hospitals. This is the same medication the doctor would use to reverse warfarin's effects, but at a lower dose.\n\nHypothesis: A fixed dose of 4FPCC will be comparable to FDA-approved variable dosing for reversal of warfarin-induced anticoagulation (defined as an international normalized ratio \\[INR\\] \u2264 1.5) in patients with an INR \u22652 experiencing an emergent bleed or requiring emergent surgery.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Chronic anticoagulation with warfarin and initial INR \u22652\n* Emergent bleeding (i.e. intracranial hemorrhage, gastrointestinal hemorrhage, urgent invasive procedures, etc.) or urgent surgery requiring reversal of INR to \u22641.5\n\nExclusion Criteria:\n\n* Younger than 18 years of age\n* History of heparin-induced thrombocytopenia (HIT)\n* Patients without initial or post-administration INR readings\n* Patients with an initial INR \\<2\n* Pregnant patients\n* Prisoners",
+  "minimum_age": "18 Years",
+  "maximum_age": "125 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Bleeding on Long-Term Anticoagulation Therapy",
+    "Hemorrhage",
+    "Significant Bleeding in Patients With a Coagulopathy (Prolonged Thrombin Time)",
+    "Urgent Reversal of Vitamin K Antagonist (VKA) Anticoagulation"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02172833",
+  "title": "Antibiotic-associated Coagulopathy",
+  "brief_summary": "Over the past few decades, a good number of studies with regard to coagulopathy and increased bleeding tendency which is defined as macro- or microscopic hemorrhage, declination of hemoglobin level, thrombocytopenia, and hypoprothrombinemia potentially caused by the use of antibiotics through a variety of suggested mechanisms, including myelosuppression, immune-mediated destruction of thrombocytes and coagulation factors, and suppression of vitamin K epoxide reductase or vitamin K-dependent \u03b3-glutamate carboxylase which may lead to inhibition of biosynthesis of coagulation factor II, VII, IX, and X, have been reported or published. Nevertheless, many of them are case-series studies or case reports with low level of evidence, and there have been no large-scale retrospective cohort studies regarding antibiotic-associated coagulopathy being published. Moreover, in addition to exposure to antibiotics, there are several risk factors, including severity of illness, hepatic or renal function, nutrition status, comorbidities such as cancer and hematologic disease, surgery or other invasive procedure, concomitant use of anticoagulants, NSAIDs, and salicylates, and age, which may exert influence on the function of the coagulation system as well. Therefore, the study aims to clarify the association between the use of antibiotics and the increase of bleeding tendency or the development of bleeding event and to identify possible risk factors of the increase of bleeding tendency or the development of bleeding event in patients receiving antibiotic treatment through the application of nested case-control design and the usage of both the National Health Insurance Research Database (NHIRD) and medical records in National Taiwan University Hospital during the time period from January, 1995 to December, 2013.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* patients aged older than 20 years old\n* using antibiotics for more than 48 hours in the emergency department\n\nExclusion Criteria:\n\n* shift of antibiotic prescription in the ER\n* patients with hemorrhage -related diagnoses\n* non-temporally consecutive referral from the ER to the ward",
+  "minimum_age": "20 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients aged older than 20 years old using antibiotics for more than 48 hours in the emergency department in National Taiwan University Hospital and in in LHID 2000, 2005, and 2010 cohort derived from National Health Insurance Research Database",
+  "condition": [
+    "Infection",
+    "Blood Coagulation Disorders"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT06944067",
+  "title": "Study to Understand the Genetic Risk of Developing an Immune Response After Blood Transfusions Among Individuals With Sickle Cell Disease",
+  "brief_summary": "The purpose of this research study is to look at genes and determine how they interact with each other to find changes that could explain why some people's immune systems may respond to blood transfusions. This response is called an alloimmune response. We strongly believe that when someone has an alloimmune response, it is caused by changes in their genes. We plan to compare changes in the genes of individuals that develop red blood cell alloimmunization after blood transfusions with those that do not develop alloimmunization. This may help us to create more targeted therapeutic interventions, which may improve the health of alloimmune responders.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA\n\nTo be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1\\. Individual (\\> 2 years of age) with confirmed SCD diagnosis who meets at least one of the following conditions:\n\n1. History of greater than ten administered transfusions or 20 transfusion units (where known)\n2. History of one or more antibody screens\n3. Known candidate variant genotype\n\nEXCLUSION CRITERIA\n\nAn individual who meets any the following criteria will be excluded from participation in this study:\n\n1. Impaired decision-making capability, with or without a legally authorized representative\n2. History of transplant (e.g., organ, bone marrow, stem cell)\n3. Taking immunosuppressive medications at time of enrollment\n4. Confirmed pregnancy",
+  "minimum_age": "2 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals with sickle cell disease who may or may not have had a history of alloimmune response to blood transfusions. The study population will include children ages 2-17 years old and adults. The study population will not include pregnant women, people taking immunosuppressive medications, or people with a history of transplant (e.g., bone marrow or stem cell transplant).",
+  "condition": [
+    "Sickle Cell Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational genetic study in individuals with sickle cell disease who have received blood transfusions. There is no systemic therapy for advanced or metastatic disease involved, and line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls individuals with sickle cell disease who have received blood transfusions, but does not involve systemic therapy for advanced or metastatic disease. No line-of-therapy criteria are specified or relevant."
+    }
+  ]
+}

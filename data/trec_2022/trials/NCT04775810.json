@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04775810",
+  "title": "Study of a Signal-processing Algorithm Aiming at Improving Speech-in-noise Intelligibility in Normal-hearing and Hearing-impaired Persons",
+  "brief_summary": "Nearly half a billion people suffer from disabling hearing loss. The most common form of hearing loss in adults is age-related hearing loss (ARHL), which causes a reduced ability to understand speech in noisy environments. The ability of people with ARHL to communicate is therefore greatly impacted, limiting their social interactions and thus their quality of life. Yet, the wear of hearing aids - which is the current standard rehabilitation treatment in such cases - does not lead to optimal satisfactory outcomes when it comes to understanding speech in noisy environments.\n\nThe objective of this pilot study is to test a new signal-processing algorithm, based on artificial intelligence, that aims at enhancing the intelligibility of speech-in-noise signals. The efficiency of the algorithm is compared to a standard denoising algorithm commonly used in hearing aids. The primary outcome measure is the word-identification performance of the participants, using the FrMatrix test (Jansen et al., 2012). Two secondary outcome measures are investigated: listening effort (self-assessed using a Likert scale, and measured through response times), and subjective preference (assessed in a paired-comparison task).\n\nThe study is conducted in 20 normal-hearing subjects and in 40 older (age \u2265 55 years) hearing-impaired subjects.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion criteria for normal-hearing participants :\n\n* consenting to and available for the study\n* age \u2265 18 years and \u2264 25 years\n* right-handed\n* native French speaker\n* pure-tone air-conduction audiometric thresholds at .5, 1, 2, and 4 kHz all \u2264 20 dB hearing loss (HL)\n\nExclusion criteria for normal-hearing participants :\n\n* score at the Tinnitus Handicap Inventory \\> 56\n* uncorrected visual impairment\n* pregnancy\n* subject placed under legal authority (guardianship, tutorship)\n\nInclusion criteria for hearing-impaired participants :\n\n* consenting to and available for the study\n* age \u2265 55 years\n* native French speaker\n* pure-tone air-conduction average hearing thresholds (PTA) for frequencies of .5, 1, 2, and 4 kHz \u2265 30 dB HL and \u2264 70 dB HL\n* right-ear PTA for low frequencies (\\< 2 kHz) lower than the right-ear PTA for high frequencies (\\> 4 kHz). The difference between the two PTAs must be \u2265 20 dB\n* the difference between the PTA for frequencies of .5, 1, 2, and 4 kHz (PTA.5-4kHz) in the right ear and the left-ear PTA.5-4kHz must be \u2264 10 dB\n\nExclusion criteria for hearing-impaired participants :\n\n* score at the Tinnitus Handicap Inventory \\> 56\n* history of a hearing impairment that was left uncorrected for more than 10 years\n* uncorrected visual impairment\n* congenital hearing impairment\n* M\u00e9ni\u00e8re's disease\n* auditory neuropathy\n* mixed hearing loss\n* fluctuating hearing impairment\n* sudden hearing loss\n* hearing impairment concomitant with other symptoms (e.g. vertigo)\n* score at the Montreal Cognitive Assessment (MoCA) \\< 27\n* subject placed under legal authority (guardianship, tutorship)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Speech Intelligibility in Noise"
+  ],
+  "overall_status": "UNKNOWN"
+}

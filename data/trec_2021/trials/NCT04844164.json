@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04844164",
+  "title": "Vitamin D Metabolism in Patients With Endocrine Disorders",
+  "brief_summary": "This prospective controlled interventional study aims to reveal the diversity of vitamin D metabolism in patients with certain endocrine disorders (Cushing's disease, acromegaly, primary hyperparathyroidism, diabetes mellitus type 1) compared to healthy adults. All patients will receive a single dose (150,000 IU) of cholecalciferol aqueous solution orally. Laboratory assessments including serum vitamin D metabolites (25(OH)D3, 25(OH)D2, 1,25(OH)2D3, 3-epi-25(OH)D3, 24,25(OH)2D3 and D3), free 25(OH)D, vitamin D-binding protein (DBP) and parathyroid hormone (PTH) as well as serum and urine biochemical parameters will be performed before the intake and on Days 1, 3 and 7 after the administration.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria:\n\n* confirmed diagnosis (arms \"Cushing's Disease\", \"Acromegaly\", \"Diabetes Mellitus Type 1\", \"Primary Hyperparathyroidism\")\n* active phase of the disease (arms \"Cushing's Disease\", \"Acromegaly\")\n* no history of surgical and specific pharmacological treatment (arm \"Primary Hyperparathyroidism\")\n* HbA1c \\<8.0% (arm \"Diabetes Mellitus Type 1\")\n* absence of the specified endocrine disorders (arm \"Control group\")\n\nExclusion Criteria:\n\n* factors associated with vitamin D level\n\n  * intake of the following drugs during the 3 months preceding the study: vitamin D medications; glucocorticosteroids; antiretroviral drugs; antifungal drugs; cholestyramine, orlistat; antiepileptic drugs; antidepressants (fluoxetine); diuretics (spironolactone); antimicrobial agents (macrolides, tetracyclines, isoniazid, rifampin, primaquine); chemotherapy (cyclophosphamide, tamoxifen, paclitaxel, ifosfamide, irinotecan, etoposide, vinblastine); immunosuppressants (cyclosporin A, tacrolimus, sirolimus); H2 receptor antagonists.\n  * BMI \\>35 kg/m2\n  * pregnancy\n  * granulomatous disease (sarcoidosis, tuberculosis, histoplasmosis, berylliosis, coccidiomycosis)\n  * disease with malabsorption syndrome (Crohn's disease, ulcerative colitis, celiac disease, post-bariatric surgery condition, decompensation of chronic pancreatitis)\n  * reduced renal function (eGFR \\<60 ml/min/1.73m2)\n  * laboratory signs of liver failure (hypoalbuminemia, hypoprothrombinemia)\n* hypercalcemia or risk factors for hypercalcemia\n\n  * serum total calcium \\>3.0 mmol/L\n  * myeloma\n  * immobilization\n  * thiazide diuretics intake\n* allergy to vitamin D drugs\n* total 25(\u041e\u041d)D \\>60 ng/ml (determined by chemiluminescent immunoanalysis)",
+  "minimum_age": "18 Years",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pituitary ACTH Hypersecretion",
+    "Acromegaly",
+    "Diabetes Mellitus, Type 1",
+    "Primary Hyperparathyroidism"
+  ],
+  "overall_status": "COMPLETED"
+}

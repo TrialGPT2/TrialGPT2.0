@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00593723",
+  "title": "IMRT Tomotherapy for Esophagus Cancer",
+  "brief_summary": "Concurrent chemotherapy and radiation therapy are the standard of care for inoperable patients with esophagus cancer. Unfortunately, the 5-year survival of 20% for this population is quite low. Methods to intensify radiation therapy delivery without increasing local toxicities are needed. Intensity modulated radiation therapy (IMRT) is an advanced method of delivering external beam radiation that may minimize the volume of normal tissue irradiated to high dose and thus decrease the risk of normal tissue toxicity. The proposed study will prospectively test whether IMRT is tolerable for delivering IMRT doses of 60 Gy for patients with esophagus cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\>= 18\n* Karnofsky Performance Status of \\>= 60\n* TNM Stages T1-4, N0-3, M0\n* Pathologic confirmation of esophagus cancer\n* Evaluation by medical oncologist determines that the patient is medically fit for concurrent chemotherapy\n* Evaluation by surgeon determines that patient is unresectable\n\nExclusion Criteria:\n\n* Age \\< 18\n* Karnofsky Performance Status \\< 60\n* Radiographic or pathologic evidence of distant metastatic disease (classified as M1b in AJCC staging manual)\n* Prior radiation therapy to the thorax or upper abdomen, preventing definitive radiation therapy.\n* Pregnant or lactating, if female.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Esophagus Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

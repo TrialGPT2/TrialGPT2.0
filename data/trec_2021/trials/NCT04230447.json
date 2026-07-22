@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04230447",
+  "title": "Establishment of a Cohort of Patients With Sepsis-associated Encephalopathy (SAE)",
+  "brief_summary": "In this study, the researcher involved the sepsis patients(defined by sepsis 3.0) in Peking Union Medical College Hospital. The SAE was defined as the Glasgow Coma Scale (GCS) score of less than 15 and the Non-SAE group GCS = 15. The control group was the non-infectious patients with acute disease strikes and the healthy control. After the sample collection, the RNA-sequence, metabolites and cytokines were under detection.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion criteria:\n\n1. sepsis 3.0 diagnostic criteria;\n2. Estimated length of hospital stay\\> 24h;\n3. ages 18-89;\n4. Acute brain dysfunction: delirium, coma, epilepsy, focal neurological deficit;\n5. Patients who meet the non-infectious SIRS diagnostic criteria\n\nExclusion criteria:\n\n1. Diagnosis of patients with brain injury before admission, including Alzheimer's disease, craniocerebral injury, etc .;\n2. Primary brain injury (cerebral hemorrhage, cerebral infarction, etc.), secondary brain injury (liver brain, lung brain, uremia encephalopathy, pancreatic encephalopathy, metabolic encephalopathy, Wake encephalopathy, etc.);\n3. pregnant and lactating women;\n4. Those who have undergone bypass surgery in the past 3 months;\n5. Hearing and vision impairment;\n6. mental illness and melanoma;\n7. Abnormal coagulation, active bleeding\n8. Patients with infection at lumbar puncture site\n9. Meningeal leukemia patients\n10. Patients with other types of encephalopathy",
+  "minimum_age": "18 Years",
+  "maximum_age": "89 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Meet the above three categories of patients consistent with inclusion and exclusion criteria",
+  "condition": [
+    "Sepsis-Associated Encephalopathy"
+  ],
+  "overall_status": "RECRUITING"
+}

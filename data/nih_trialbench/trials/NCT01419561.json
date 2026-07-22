@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT01419561",
+  "title": "Natural History Study of the KSHV Inflammatory Cytokine Syndrome (KICS)",
+  "brief_summary": "Background:\n\n\\- KSHV inflammatory cytokine syndrome (KICS) is a newly recognized disease caused by Kaposi sarcoma-associated herpesvirus (KSHV). This virus can cause cancer. People with KICS can have severe symptoms. They include fever, weight loss, and fluid in the legs or abdomen. People with KICS may also be at risk of getting other cancers associated with KSHV. These cancers include Kaposi sarcoma and lymphoma. Because KICS is a newly identified disease, more information is needed on how the disease works and what can be done to treat it.\n\nObjectives:\n\n\\- To collect genetic and medical information from people with KSHV inflammatory cytokine syndrome.\n\nEligibility:\n\n\\- Individuals at least 18 years of age who have Kaposi sarcoma herpes virus and symptoms that resemble those caused by KICS.\n\nDesign:\n\n* Participants will have regular study visits. The schedule will be determined by the study researchers.\n* Participants will provide a complete medical history and have a full physical exam. Blood and urine samples will be collected as well.\n* People with KICS that requires treatment may get new experimental treatments. These treatments may include antiviral drugs and chemotherapy drugs, depending on the nature of the disease.\n* Participants will have imaging studies, such as chest x-rays and computed tomography scans, to study the tumors.\n* Bone marrow and lymph node biopsies may be done to collect tissue samples for study.\n* Participants who have Kaposi sarcoma will have photographs taken of their lesions.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Age greater than or equal to18 Years.\n* Any HIV status.\n* At least two manifestations drawn from at least two of the categories (clinical symptoms, laboratory abnormalities and/or radiographic abnormalities), which are at least possibly attributable to KICS and are not readily explicable from known medical conditions in the participant:\n* Clinical symptoms (each at least grade 1 by CTCAE definitions)\n* Fever (\\>38 degrees C), chills or rigors\n* Fatigue or lethargy\n* Cachexia or edema\n* Cough, dyspnea, airway hyperreactivity, or nasal inflammation\n* Nausea, anorexia, abdominal pain or altered bowel habit\n* Athralgia or myalgia\n* Altered mental state\n* Neuropathy with or without pain\n* Laboratory abnormalities\n* Anemia (hemoglobin\\<12.0g/dL)\n* Thrombocytopenia (platelets\\<100,000 cells/microL)\n* Leukopenia (white cell count\\<4,000 cells/microL)\n* Hypoalbuminemia (albumin\\<3.5g/dL)\n* Hyponatremia (sodium\\<135mmol/L)\n* Coagulopathy (PT or PTT \\>1.5 times upper limit of normal)\n* Radiographic Abnormalities\n* Pathologic lymphadenopathy (at least five discrete nodes each \\>1cm in their longest dimension)\n* Splenomegaly (\\>12 cm in the longest dimension)\n* Hepatomegaly (\\>17cm in the longest dimension)\n* Body cavity effusions not caused by primary effusion lymphoma nor chylous effusions directly related to lymphatic infiltration by KS\n* C-reactive protein (CRP) \\>3mg/L.\n* Exposure risk for KSHV infection (including being a first or second generation immigrant from an endemic area, or male-to-male sexual activity) or evidence of KSHV infection demonstrated by one of:\n\n  * Molecular evidence of KSHV in whole blood, or KSHV VL levels within circulating PBMCs as determined by the Whitby laboratory\n  * Immunohistochemical evidence of KSHV in tissues (for example by staining for LANA or vIL-6) confirmed in the Laboratory of Pathology (LP), CCR, NCI.\n  * Presence of KS or PEL (KSHV-associated malignancies), confirmed in the LP, CCR, NCI.\n* Women of child-bearing potential (WOCBP) and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry, for the duration of study participation, and after treatment (if received), according to drug requirements. Should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately.\n\nEXCLUSION CRITERIA:\n\n\\- Biopsy proven KSHV-associated MCD, confirmed in the LP, CCR, NCI.\n\nNote: In collaboration with LP, we have recently found that some participants with KICS but without a lymph node or splenic diagnosis of MCD have MCD-like cells in their effusions or circulating blood. This may in fact represent a newly recognized form of KSHV-MCD, but our analysis continues. While certain of these participants were historically included in this study, given this new understanding, they will not be entered on this protocol and removed if liquid MCD is diagnosed.\n\n* Pregnancy\n* Any abnormality that would be scored as NCI CTC Grade 4 toxicity that is unrelated to HIV, its treatment, or to KICS that would preclude the use of all of the study treatments or the ability to monitor the natural history of KICS untreated.\n* Any condition or set of circumstances that in the opinion of the investigators would make participation in this study unsafe or otherwise inappropriate for a given individual.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "KSHV Inflammatory Cytokine Syndrome (KICS)",
+    "KSHV",
+    "HHV-8"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study of KSHV inflammatory cytokine syndrome (KICS) that enrolls patients regardless of prior systemic therapy for advanced disease. There are no restrictions on prior lines of therapy for advanced/metastatic disease, and both treatment-naïve and previously treated patients may be included.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "any line",
+      "line_of_therapy_text": "The eligibility criteria do not specify any requirements or restrictions regarding prior systemic therapy for advanced or metastatic disease. Patients may be treatment-naïve or have received any number of prior lines for advanced disease."
+    }
+  ]
+}

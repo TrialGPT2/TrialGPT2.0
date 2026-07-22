@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02105480",
+  "title": "Automated Algorithm Based Analysis of Phonocardiograms of Newborns",
+  "brief_summary": "The purpose of this double-blind pivotal clinical utility study is to determine on a large patient population whether heart murmurs can be reliably detected with high sensitivity and specificity using a locked, automated algorithm-based phonocardiogram analysis (also referred to as computer aided auscultation (CAA)).\n\nEach patient is auscultated and diagnosed independently by a medical specialist. Additionally, for each patient, an echocardiogram is performed as the gold-standard for determining heart pathologies. The CAA results are compared to the findings of the medical professionals as well as to the echocardiogram findings.\n\nHypothesis: The specific (locked) CAA algorithms used in this study are able to automatically diagnose pathological heart murmurs in premature babies and newborns with at least the same accuracy as experienced medical specialists.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* any premature baby or newborn\n* parental approval for study participation\n\nExclusion Criteria:\n\n* none",
+  "minimum_age": "1 Minute",
+  "maximum_age": "5 Days",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Premature babies and newborns stationed at the department of neonatology",
+  "condition": [
+    "Heart Murmurs",
+    "Mitral Valve Prolapse",
+    "Systolic Murmurs"
+  ],
+  "overall_status": "COMPLETED"
+}

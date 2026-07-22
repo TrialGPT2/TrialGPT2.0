@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01565109",
+  "title": "NESC: Neoadjuvant Treatment of Gastric Adenocarcinoma",
+  "brief_summary": "It is estimated to 7300 the number of new cases of gastric cancer each year in France.\n\nAccording to a randomized trial comparing 3 cycles of ECF (epirubicin, cisplatin, 5FU) administered before surgery and 3 cycles after surgery with surgery alone in adenocarcinoma of the stomach and lower esophagus, clinical and experimental data are the neoadjuvant chemotherapy is a new standard treatment for operable gastric cancer. This treatment with a median survival of more than 3 years to obtain a hazard ratio of 0.75 in favor of chemotherapy arm (p = 0.009). The 5-year survival being 36% for patients treated with chemotherapy versus 23% for surgery alone. Progression-free survival was also significantly prolonged with a hazard ratio of 0.66.\n\nThe proposed clinical study by Ajani et al shows that the combination of Docetaxel with the schema Cisplatin - 5FU provides greater clinical benefit and induces to consider the triple combination as a reference treatment in metastatic gastric cancer in patients under 65 years.\n\nPreoperative radiochemotherapy is expected to increase the rate of curative resections, reduce gastrointestinal and hematologic toxicity.\n\nTwo studies evaluating the feasibility of preoperative RTCT in operable gastric adenocarcinoma with continuous 5GU (+ or - paclitaxel) and 45 Gy are available and the combination 5FU oxaliplatin has been assessed in the esophagus and rectum tumors.\n\nThe NESC study, Phase II, proposes the following schema: 2 cycles of chemotherapy with Docetaxel - Cisplatin - 5FU then preoperative chemoradiation with oxaliplatin - continuous 5FU and radiotherapy in locally advanced gastric adenocarcinoma stage III and IV non-metastatic administered before surgery.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Male or female patients, Age: 18 to 65\n* ECOG performance status of \u2264 1\n* Histological documentation of the gastric adenocarcinoma. An extension will be admitted to the omentum\n* Adenocarcinoma of the stomach according to staging classification TNM Scannographic: T2bN0, T2bN1, T3NO T3N +, T4N0, and T4N + M0 (cardia, Siewert II, III, fundus, body, antrum) performed by ultrasonography and CT Scan. Optional : laparoscopy\n* A positive peritoneal cytology is not a disqualifying factor if there is no macroscopic carcinomatosis\n* Absence of previous abdominal irradiation above the 5th sacral vertebra (in the liver, pancreas, spleen, or mediastinal lodge)\n* Loss of weight less than 15% over the base weight before diagnosis\n* No psychological, familial, sociological or geographical condition that may affect compliance and adherence to treatment, patient monitoring or understanding of the study.\n* Signed informed consent obtained before any study specific procedures.\n* Food Consumption\\> 1000 calories / day whatever the mode of administration (enteral or parenteral)\n* Laboratory test conducted within one week of starting to study treatment:\n\n  * Absolute neutrophil count \\> 1500/mm3\n  * Platelet count \\> 100 000/mm3\n  * Total bilirubin \\<2 mg/dL\n  * Serum creatinine \\<13 mg/dL or creatinine clearance \\> 40 ml/min\n  * Hemoglobin (Hgb) \u2265 10 g/dL (Hemoglobin transfusion if necessary)\n  * ALT / AST \\<1.5 x ULN\n  * PTT \u2265 60 %\n  * Life expectancy of at least 3 months\n\nExclusion Criteria:\n\n* Peripheral sensory neuropathy \u2265 grade 1 (according to CTCAE version 3.0).\n* Myocardial infarction, stroke or pulmonary embolism, unstable angina less than 6 months before start of study drug.\n* Uncontrolled infection\n* Pregnant or breast-feeding patients. Women of childbearing potential must have a pregnancy test performed.\n* Prior treatment for gastric adenocarcinoma\n* Lower limbs arteritis (\u2265 stage II according the Leriche and Fontain classification)\n* Patient participating in another clinical trial or already receiving other anti-cancer treatment\n* Concomitant treatment with a phenytoin\n* Known previous / current malignancy within the last 5 years except for non-melanoma skin, non-metastatic prostate carcinoma and cervival carcinoma in situ or superficial bladder carcinoma.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Gastric Adenocarcinoma"
+  ],
+  "overall_status": "COMPLETED"
+}

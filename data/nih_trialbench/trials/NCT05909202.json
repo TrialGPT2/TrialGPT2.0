@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT05909202",
+  "title": "A Nature-Based Virtual Reality (VR) Intervention in Family Caregivers of Allogeneic Hematopoietic Stem Cell Transplant (HSCT) Recipients",
+  "brief_summary": "Background:\n\nPeople who receive an allogeneic hematopoietic stem cell transplant (HSCT) require long-term care at home afterwards. Their caregivers often experience high levels of stress, which can lead to symptoms such as depression, anxiety, poor sleep, fatigue, and difficulties with concentration and memory.\n\nObjective: To explore whether a nature-based immersive virtual reality (VR) program helps reduce stress in people who care for HSCT patients.\n\nEligibility:\n\nPeople aged 18 and older who are primary caregivers of HSCT patients.\n\nDesign:\n\nThis is a two-phase study. Participants will be enrolled for 4 weeks. They will have 2 clinic visits.\n\nParticipants will have a physical exam at the beginning of the study. They will be asked to provide a saliva sample in Phase 1, and saliva and blood samples in Phase 2.\n\nParticipants will be given a VR headset. This is a device that looks like a pair of goggles worn over the eyes. They will be asked to wear the headset for 20 minutes per day. They will see 360 (Infinite) high-definition videos of nature and hear nature sounds.\n\nParticipants will record the time they spend using the VR headset in a daily diary. They will take surveys with questions about any stress and symptoms they feel once a week. This will take up to 5 minutes. Participants will have a short regular follow-up visit by phone one week after starting their participation.\n\nAt the end of the intervention study, participants will return for another physical exam. They will give saliva and/or blood samples again.\n\nResearchers will also look at the medical records of the HSCT patients; the HSCT patients must consent to this.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nCaregiver subjects\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Ability to understand and the willingness to sign a written informed consent document.\n2. Age 18 years and older.\n3. Serving as a primary caregiver\\* for an adult patient (18 years and older) planning to undergo their 1st allogeneic HSCT at the NIH Clinical Center during the four-week study period.\n4. Ability to read, speak and understand English.\n5. Access to necessary resources for participating in online survey (i.e., computer, laptop, tablet, smartphone, internet access).\n\n   * If more than one caregiver is planned for the transplant recipient during the transplant phase, only one primary caregiver will be eligible to participate in the study. A primary caregiver is defined as someone who lives with or provides care regularly for the HSCT recipient during the 4-week study period. Caregivers will be categorized as to whether they are the sole caregiver versus one of the multiple caregivers.\n\nHSCT recipient subjects\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Ability to understand and the willingness to sign a written informed consent document.\n2. Age 18 years and older.\n3. Planning to undergo their 1st allogeneic HSCT at the NIH Clinical Center during the four-week study period.\n4. Ability to read, speak and understand English\n\nEXCLUSION CRITERIA:\n\nCaregiver subjects\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Serving as a paid caregiver for the patient.\n2. Not agreeing to follow the study procedures.\n3. Recent use of immersive VR programs for stress relief and/or entertainment (more than 2 days/week within the past 3 months). \\*\n4. Participation in another stress-reduction type interventional study within the past 3 months.\n5. Having a medical condition that is prone to frequent nausea or dizziness.\n6. Current or past history of seizure, chronic migraines, epilepsy, claustrophobia, panic disorder, post-traumatic stress disorder, generalized anxiety disorder, major depressive disorder or other known severe neurological or mental health disorders.\n7. Being sensitive to flashing light or motion.\n8. Having a balance disorder such as vertigo and cybersickness.\n9. Having another medical condition or injury that may prevent use of VR headset and/or VR software (e.g., visual or hearing problems, open sores, wounds, skin rash on face, or active infection).\n10. Self-reported diagnosis of Opioid, Cocaine and/or Cannabis use disorder in the past year.\n\n    * In Phase II, if a participant from Sham VR group personally uses immersive VR programs for stress relief and/or entertainment (more than 2 days/week) during the study period, the participant will be no longer eligible.\n\nHSCT recipient subjects:\n\n1\\. Not agreeing to follow the study procedures.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Neoplasm",
+    "Caregivers"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a supportive care study enrolling caregivers of patients undergoing their first allogeneic HSCT; there is no systemic therapy for advanced disease being studied. Line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls caregivers of patients planning to undergo their first allogeneic HSCT. There is no mention of systemic therapy for advanced disease, and line-of-therapy criteria are not applicable to this population."
+    }
+  ]
+}

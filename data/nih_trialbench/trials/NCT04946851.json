@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT04946851",
+  "title": "Addictions Neuroclinical Assessment (ANA)",
+  "brief_summary": "Background:\n\nAlcohol use disorder (AUD) is a major public health problem. In the U.S., 16 to 18 million adults have an AUD. Researchers want to test an assessment tool called the ANA. It uses self-report and behavioral measures to assess 3 neuroscience domains of addiction. They hope to better understand, manage, prevent, and treat AUD.\n\nObjective:\n\nTo learn how people s brains function related to their drinking.\n\nEligibility:\n\nPeople ages 18 years and older who have enrolled in NIAAA natural history study 14-AA-0181.\n\nDesign:\n\nParticipants will complete surveys and tasks on a computer. The surveys and tasks assess a range of aspects of thinking and making decisions. The surveys and tasks also assess behaviors and feelings about alcohol and other rewards, and negative emotions. Participants will spend 90 minutes on the computer. Then they will take a break. In total, they will spend 4 blocks of time on the computer. Each block will last 90 minutes. They will take a break in between each block of time. They can take more breaks if needed.\n\nOutpatient participants and healthy volunteers will complete this study in 1 visit. It will last about 6 hours. A second visit may be scheduled if needed. Outpatient participants will take a breath alcohol test. If their test is positive, their visit may be rescheduled or they may be withdrawn from the study.\n\nInpatient participants will complete this study over several days.\n\nData collected from participants in this study may be combined and analyzed with their data from NIAAA study 14-AA-0181 and/or NIAAA imaging study 14-AA-0080.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet both of the following criteria:\n\n1. Participants must be \\> 18 years of age\n2. Participants must have enrolled in the NIAAA Screening Protocol (14-AA-0181).\n\nEXCLUSION CRITERIA:\n\nThere are no formal exclusionary criteria for this study. Based on enrollment criteria for the NIAAA Screening Protocol, individuals less than 18 years of age, or prisoners will not be enrolled in this study.\n\nOutpatients will be tested for acute intoxication/impairment at the time of consent and study procedures using an alcohol breathalyzer and a clinical evaluation. Individuals with a positive breath alcohol concentration (BrAC), or those who are determined to be acutely intoxicated or impaired by the clinicians will be re-scheduled or withdrawn from the study.\n\nIn addition, individuals who are determined by the clinicians to be uncooperative or unable to provide consent, will not be invited to participate in this study. Individuals who report not being able to use a mouse and keyboard, or who are determined by the clinical research team to be unable to use a mouse and keyboard, will not be invited to participate in this study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The target population for this study includes adults across the spectrum of alcohol use who have been screened under the NIAAA screening protocol (14-AA-0181). This sample includes non-drinkers, light drinkers, non-treatment-seeking heavy drinkers, and treatment-seeking individuals with alcohol use disorder. Recruitment will be open to all participants from the NIAAA screening protocol.",
+  "condition": [
+    "Normal Physiology",
+    "Alcohol Use Disorder"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This is not an oncology trial and does not involve systemic therapy or lines of therapy for advanced disease. The study enrolls adults with alcohol use disorder or healthy volunteers based on participation in a separate screening protocol.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "There is no mention of cancer, systemic therapy, or lines of therapy for advanced disease. Eligibility is based solely on age and participation in a screening protocol for alcohol use disorder."
+    }
+  ]
+}

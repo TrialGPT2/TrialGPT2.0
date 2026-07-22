@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04653337",
+  "title": "Neuroimaging Guided and Robot-assisted rTMS for Suicidal Ideation of Depression",
+  "brief_summary": "There is relatively insufficient evidence on whether rTMS can improve suicidal ideation in depressive patients. And existing studies have been inconsistent in the treatment of depressive suicidal thoughts. The possible reason is inaccurate stimuli localization. Improving the accuracy of rTMS stimulus positioning may further improve the intervention effect of suicidal ideation. This study will introduce an automated TMS system with robot control and optical sensor combined with neuronavigation softwarea. By using the robot based on neuronavigation system, the rTMS coil can be accurately positioned over any preselected brain region. An infrared optical measurement device is also used in order to detect and compensate for head movements of the patient. The purpose of this randomized double-blind and sham-controlled study is to test the efficacy and safety of robot-assisted rTMS based on neuronavigation in the treatment of depressive suicidal ideation.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* 18-60 years\n* meeting the criteria of the Diagnostic and Statistical Manual of Mental Disorder- V of MDD, single or recurrent\n* have a score \\> 17 on the HAMD-17\n* have a score \u2265 6 on the BSI-CV\n* right- handedness\n* physical examination, medical history, vital signs, blood routine, liver and kidney function, ECG, EEG and other indicators are normal\n* are voluntary and competent to consent to treatment\n\nExclusion Criteria:\n\n* People with a history of severe physical illness and depression caused by psychoactive substances and non-dependent substances\n* Patients with metal or electronic equipment, such as intracranial metal foreign bodies, cochlear implants, pacemakers and brace, etc.\n* Risk of seizures, previous central nervous system diseases, head trauma, alcoholism, abnormal EEG, MRI evidence of abnormal brain structure, or family history of epilepsy\n* Acute suicide\n* have psychotic symptoms and need to use antipsychotic drugs\n* receive ECT treatment within 2 months\n* pregnant, breastfeeding or planning to become pregnant during the trial\n* refuses to sign the consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Suicidal Ideation",
+    "Depression"
+  ],
+  "overall_status": "UNKNOWN"
+}

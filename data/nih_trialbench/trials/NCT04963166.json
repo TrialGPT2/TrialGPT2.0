@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT04963166",
+  "title": "Natural History of Systemic and Nasal Mucosal Immunity After Influenza Vaccination in a Pediatric Population",
+  "brief_summary": "Background:\n\nThe influenza (flu) virus infects millions around the world every year. Children are at increased risk of complications from the flu. The flu vaccine protects against influenza, but the vaccine can be improved. Researchers want to learn more about children s mucosal and systemic immunity after flu vaccination. This could help to develop more effective flu vaccines in the future.\n\nObjective:\n\nTo learn what happens in kids immune systems after receiving a flu vaccine.\n\nEligibility:\n\nChildren ages 2-17 who have received a flu vaccine in the past and plan to get the current seasonal flu vaccine given by injection.\n\nDesign:\n\nAll study visits will take place at home and communication with the study team will be done via phone or videoconference.\n\nParticipants will review medical history and flu vaccination history with the study team.\n\nParticipants will get the flu vaccine at their local doctor s office or pharmacy. They will not be given the vaccine in this study.\n\nParticipants will complete an electronic survey to give details about the date and type of flu vaccine received.\n\nParticipants will collect nasal and fingerstick samples at home. They will collect 4 nasal samples and 3 fingerstick samples over 6 months: once before they get the flu vaccine and 2-3 times after they get the vaccine. They will use collection kits that include instructions, sample collection supplies, and shipping materials. They will ship all samples back to NIH with all costs covered by NIH.\n\nParticipation will last for 6 months.\n\nCompensation is provided.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to enroll in this study, an individual must meet all of the following criteria:\n\n* \\>= 2 years of age and \\< 18 years of age at the time of enrollment.\n* Completed a previous influenza series in the past and therefore requires only one seasonal influenza vaccine every year.\n* Planning to receive the current seasonal inactivated influenza vaccine given by injection.\n* Parent or guardian willing and able to provide verbal consent.\n* Willing and able to undergo home blood micro-sampling and nasal sampling.\n* Willing to have samples stored for future research.\n* Parent/guardian able to proficiently speak, read, and write English.\n\nEXCLUSION CRITERIA:\n\nAny individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Already received the current season s influenza vaccine.\n* Planning to receive the current seasonal live attenuated influenza vaccine (LAIV).\n* Self-reported pregnancy or breastfeeding.\n* Any condition that, in the opinion of the investigator, would compromise the safety of the study participant or staff, or would prevent proper conduct of the study.",
+  "minimum_age": "2 Years",
+  "maximum_age": "17 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Children receiving their first ever influenza vaccine require two doses of the vaccine one month apart and will not be included in this study. Only participants who have already received a flu vaccine series in the past will be eligible for this study. Evaluation of immunity after the first ever influenza vaccination series is an important question that should be explored separately. We will enroll participants into one of three cohorts by age: 2 6 years old, 7 11 years old, and 12 17 years old. We will aim to enroll similar numbers of participants into each group to ensure a diverse age range in our population.",
+  "condition": [
+    "Influenza Immunity"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-oncology vaccine study in pediatric patients receiving the seasonal influenza vaccine. There is no concept of line-of-therapy for advanced disease applicable to this trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study enrolls children aged 2–17 who are planning to receive the current seasonal inactivated influenza vaccine. There is no mention of cancer, advanced disease, or systemic therapy, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

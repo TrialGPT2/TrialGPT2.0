@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT02446951",
+  "title": "Implementation of a Clinical Decision Rule for Treatment of Neonatal Jaundice in the Emergency Department",
+  "brief_summary": "Jaundice is a condition caused by elevated levels of bilirubin in the body otherwise known as hyperbilirubinemia. It occurs when there is an increase in bilirubin production or normal production with problems eliminating it from the body. Serum levels of bilirubin in excess of 5 mg/dL signifies clinical jaundice, yet more than half of full term infants experience these levels within the first week of life. For those patients who have markedly elevated serum bilirubin levels, which phototherapy cannot sufficiently treat, the use of exchange transfusions is a viable option within the hospital setting. In comparison, bili-blankets have been used as a form of phototherapy for those patients being treated in a home-based setting to reduce the likelihood of hospital readmissions.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients are birth to 7 days post-natal age\n* Present in Minneapolis or St Paul ED during the pre-implementation or implementation period with a chief complaint of jaundice.\n\nExclusion Criteria:\n\n* Children born prematurely\n* Concern for sepsis or bacterial infection\n* In-born error of metabolism\n* Metabolic disease\n* Positive newborn screen (e.g. Sickle Cell Disease, Cystic Fibrosis)",
+  "minimum_age": "",
+  "maximum_age": "7 Days",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "ED patients presenting with jaundice.",
+  "condition": [
+    "Hyperbilirubinemia"
+  ],
+  "overall_status": "COMPLETED"
+}

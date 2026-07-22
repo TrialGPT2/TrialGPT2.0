@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04861922",
+  "title": "Unfractioned Heparin for Treatment of Sepsis Caused by Abdominal Infection",
+  "brief_summary": "Sepsis is the leading cause of death in intensive care units and a major public health concern in the world. Heparin, a widely used anticoagulant medicine to prevent or treat thrombotic disorders, has been demonstrated to prevent organ damage and lethality in experimental sepsis models. However, the efficacy of heparin in the treatment of clinical sepsis is not consistent. Caspase-11, a cytosolic receptor of LPS, triggers lethal immune responses in sepsis. Recently, we have revealed that heparin prevents cytosolic delivery of LPS and caspase-11 activation in sepsis through inhibiting the heparanase-mediated glycocalyx degradation and the HMGB1- LPS interaction, which is independent of its anticoagulant properties. In our study, it is found that heparin treatment could prevent lethal responses in endotoxemia or Gram-negative sepsis, while caspase-11 deficiency or heparin treatment failed to confer protection against sepsis caused by Staphylococcus aureus, a type of Gram-positive bacterium. It is probably that other pathogens such as Gram-positive bacteria might cause death through mechanisms distinct from that of Gram-negative bacteria. Peptidoglycan, a cell-wall component of Gram-positive bacteria, can cause DIC and impair survival in primates by activating both extrinsic and intrinsic coagulation pathways, which might not be targeted by heparin. We speculate that the discrepancy between the previous clinical trials of heparin might be due to the difference in infected pathogens. Thus, stratification of patients based on the type of invading pathogens might improve the therapeutic efficiency of heparin in sepsis, and this merits future investigations.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\nPatients will be eligible for inclusion if all of the inclusion criteria are met:\n\n1.Sepsis-3 criteria from Society of Critical Care Medicine (SCCM) /European Society of Intensive Care Medicine (ESICM), and the infection site is from abdomen 2.18\u2264 age \u226475years 3.obtain informed consent\n\nExclusion Criteria:\n\n1. The primary site of infection is from other parts (such as lungs, intracranial, etc.) except abdomen\n2. Diagnosis of sepsis for more than 48 hour\n3. Pregnant and lactating women\n4. Severe primary disease including unrespectable tumours, blood diseases and Human Immunodeficiency Virus (HIV);\n5. Have a known or suspected adverse reaction to UFH including HIT\n6. Have bleeding or high risk for bleeding\n7. Have an indication for therapeutic anticoagulation or have taken anticoagulants within 7 days\n8. Use of an immunosuppressant or having an organ transplant within the previous 6 months\n9. Participating in other clinical trials in the previous 30 days\n10. Have received cardiopulmonary resuscitation within 7 days\n11. Have terminal illness with a life expectancy of less than 28 days",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sepsis",
+    "Gram-Negative Bacterial Infections",
+    "Heparin"
+  ],
+  "overall_status": "UNKNOWN"
+}

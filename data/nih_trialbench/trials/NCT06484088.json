@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT06484088",
+  "title": "Study Brain Mechanisms of Frustration With Magnetoencephalography in Healthy Volunteers",
+  "brief_summary": "Background:\n\nIrritability can be defined as an unusually strong response to frustration; these responses may include severe temper outbursts and a constant grumpy mood. Irritability is a common symptom of many mental health disorders. Little is known about how the brain responds to frustration, and few treatments are available for this problem. Researchers want to know more about how the brain responds to frustration.\n\nObjective:\n\nTo learn how the brain responds to frustration.\n\nEligibility:\n\nHealthy adults aged 18 to 55 years. They must have been screened through studies 01-M-0254 or 17-M-0181.\n\nDesign:\n\nParticipants will have up to 3 study visits in 2 months. Each visit will last up to 4 hours.\n\nVisit 1: Participants will be screened. They will have a physical exam. They will complete questionnaires about how often and how easily they get angry or grumpy. They will be trained to use a device that measures hand grip.\n\nVisit 2: Participants will have a magnetic resonance imaging (MRI) scan. They will lie on a table that slides into a tube. Padding will hold their head still.\n\nVisit 3: Participants will undergo magnetoencephalography (MEG). A cone with detectors will be lowered over their head while they are seated. The MEG will measure the magnetic fields in the participant s brain both while they are resting and while they are doing the frustration task. For the task, they will hold a grip device in each hand. They will use the devices to pick 1 of 2 doors on a computer screen. The task has 3 parts. The participant s face will be filmed during this task.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "-INCLUSION CRITERIA:\n\nThis study will include adult healthy volunteers.\n\n* Age: 18-55\n* Consent: can give consent\n* Speak and read English\n\n  --The instruments have not been validated in other languages.\n* At the NIH site, previously screened through other NIH protocols such as protocol 01-M-0254, 17-M-0181, and 93-M-0170 and determined eligible as healthy volunteers.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this\n\nstudy:\n\n-Any serious medical condition\n\n* History, physical exam, or laboratory testing including drug abuse screen.\n\n  -Prescription and over-the-counter medications and dietary supplements with psychoactive properties (e.g., St. John's Wort, Melatonin, Valerian)\n\n  -Any condition that interferes with MRI or MEG\\*\\*\n* History\n\n  -Any current psychiatric diagnosis\n* SCID-V, clinical assessment, or history.\n\n  -Pregnancy\n* Pregnancy testing will be done before all MRIs.\n\n  -People who work on night shifts\n* History\n\n  -Drug use\n* Subjects with drug use or positive drug screen more than two years ago are eligible for participation.\n\n  -Need to wear eye glasses to work with computers\\*\n* History\n\n  -Need to wear contact lenses to work with computers\\*\\*,\\*\\*\\*\n* History\n\n  -Dental retainer\\*\\*\n* Subjects wearing removable dental retainers are eligible for participation\n\n  * Eye glasses create artifacts in MEG and their rigid shape does not fit well in the MEG scanner. The MEG core has plastic optometry lenses that can be placed in paper frames. However, the paper frames need to be secured with tape which makes wearing them very uncomfortable, potentially promoting negative emotion and reducing the reliability of facial expression analysis.\n\n    * Only applies to the NIH site.\n\n      * Contact lenses create artifacts that interfere with eye-tracking.",
+  "minimum_age": "18 Years",
+  "maximum_age": "55 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Irritability"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a study in healthy volunteers with no cancer diagnosis or treatment. There is no line-of-therapy intent as the trial does not involve cancer patients or systemic therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls only healthy adult volunteers with no mention of cancer or systemic therapy. There are no eligibility criteria related to prior lines of therapy for advanced disease."
+    }
+  ]
+}

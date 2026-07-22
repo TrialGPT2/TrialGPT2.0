@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00004734",
+  "title": "Vitamin Therapy for Prevention of Stroke",
+  "brief_summary": "A stroke occurs when part of the brain is damaged from lack of normal blood supply. This may result in difficulty with feeling, speech, muscle strength or coordination, movement, thinking, or other brain functions. Having a stroke increases the risk of another stroke occurring in the future. Higher blood levels of a natural chemical known as homocysteine may contribute to hardening of the arteries in the brain or heart and increase the risk of stroke or heart attack. Folic acid, vitamin B6 (pyridoxine), and vitamin B12 (cyanocobalamin) may lower blood levels of homocysteine and reduce the risk of having another stroke or a heart attack.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Any stroke (non-disabling cerebral infarction, NDCI) \\< 120 days prior to randomization\n* Symptoms lasting \\> 24 hrs, or if \\< 24 hrs, CT or MRI shows new infarction at expected site\n* Modified Rankin score \\< 3\n* Homocysteine level \\> the 25th percentile, ie, 9.5 mol/L for men, and 8.5 mol/L for women\n* Patient compliance with multivitamin during run-in phase \\> 75%\n\nExclusion Criteria:\n\n* Stroke due to: intracranial hemorrhage, dissection of a cervico-cephalic artery, veno-occlusive disease, drug abuse, vasculitis\n* CT or MRI shows lesion other than infarction as cause of syndrome\n* Modified Rankin score of 4 or 5 at eligibility\n* Presence of potential sources of cardiogenic emboli: atrial fibrillation, prosthetic cardiac valve, intracardiac thrombus or neoplasm, valvular vegetation\n* Neurologic illness other than stroke that would prevent proper evaluation of recurrent stroke\n* Illness that limits life expectancy to \\< 2 years\n* Severe congestive heart failure\n* Renal insufficiency requiring dialysis\n* Untreated B12 deficiency or untreated pernicious anemia\n* Uncontrolled hypertension (systolic \\>185 mm/Hg or diastolic \\>105 mm/Hg on two readings separated by 5 min.) at eligibility\n* Conditions preventing reliable participation in study: refractory depression, severe cognitive impairment, alcoholism, other substance abuse\n* Medications given within last 30 days that affect homocysteine: methotrexate, tamoxifen, L-dopa, phenytoin, or bile acid sequestrants that can decrease folate levels\n* Women of childbearing potential\n* Patients receiving active intervention in another trial\n* Patients on multi-vitamins, single B6, or folic acid, unless willing to discontinue and take study supplement\n* Any surgical procedure, invasive cardiac instrumentation, endarterectomy, stent placement, thrombectomy or other endovascular treatment of abnormal carotid artery performed within 30 days prior to randomization or scheduled within 30 days after randomization",
+  "minimum_age": "35 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke",
+    "Cerebral Infarction",
+    "Myocardial Infarction"
+  ],
+  "overall_status": "COMPLETED"
+}

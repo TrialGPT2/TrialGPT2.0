@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01320670",
+  "title": "Neuroimaging Predictors of Treatment Failure in Adult New-onset Epilepsy",
+  "brief_summary": "Epilepsy, defined as recurrent, unprovoked seizures, is a common condition, affecting 0.5-1% of the general population. People with uncontrolled epilepsy suffer poor health and increased mortality due to their condition. They frequently experience social stigma and are socioeconomically disadvantaged. It is therefore imperative to help them gain control of their seizures as quickly as possible. A wide range of antiepileptic drugs (AEDs) has become available to treat people with epilepsy. However, despite maximal therapy, approximately 20-40% show pharmacoresistance (PR) and thus continue to have seizures.\n\nWe do not understand why a significant proportion of people with epilepsy have PR. For any given patient presenting with a first unprovoked seizure, we are unable to predict PR at the time of presentation. At least 2 different AEDs must be tried at maximum doses for a year before we can diagnose PR. At this point, surgical therapies become an increasingly urgent consideration.\n\nRetrospective magnetic resonance imaging (MRI) studies in the chronic stages of epilepsy have shown that patients with PR are more likely to have focal structural lesions in the brain, and in particular to have signs of damage to the hippocampi. For example, there are retrospective data suggesting that a decreased hippocampal N-acetylaspartate (NAA)/creatine ratio (measured by magnetic resonance spectroscopy \\[MRS\\]) and hippocampal atrophy (determined by hippocampal volumetry) correlate with PR. However, it is not clear whether these findings reflect the underlying pathophysiology of PR, or simply reflect the effects of chronic seizures and chronic drug treatment on the brain.\n\nThe First Seizure Clinic at the Halifax Infirmary represents a unique opportunity for prospective, longitudinal studies of patients who present with a first seizure or with newly diagnosed epilepsy. In these patients, advanced neuroimaging techniques at presentation might show changes that truly reflect the underlying pathophysiology of PR, rather than changes that develop as a consequence of prolonged seizures and drug treatment. Neuroimaging follow-up might help us to understand the pathophysiologic changes that accompany the evolution of PR. Ultimately, it is our hope to combine neuroimaging features and clinical features of patients with PR in a predictive model that would help us to predict PR at presentation.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 17 years\n* Newly diagnosed epilepsy or history of first unprovoked, witnessed seizure\n\nExclusion Criteria:\n\n* Lack of consent provoked seizure due to obvious\n* Acute lesion on CT (e.g. stroke, hemorrhage\n* Provoked seizure due to obvious, chronic lesion on CT (e.g. vascular malformation, tumour)\n* Progressive brain disease (e.g. neoplastic, infectious, demyelinating diseases)\n* History of epilepsy longer than 1 year at presentation to FSC\n* History of AED treatment for more than 4 weeks\n* Contraindication to MRI",
+  "minimum_age": "17 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with first seizure or new-onset epilepsy aged \\> 17 years",
+  "condition": [
+    "Epilepsy",
+    "Seizures"
+  ],
+  "overall_status": "UNKNOWN"
+}

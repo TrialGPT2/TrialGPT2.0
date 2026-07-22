@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04399889",
+  "title": "hCT-MSCs for COVID19 ARDS",
+  "brief_summary": "This is a 50 patient, Phase 1/2a multi-center pilot study to test the safety and to describe the preliminary efficacy of intravenous administration of allogenic human cord tissue mesenchymal stromal cells (hCT-MSC) as an investigational agent, under U.S. INDs 19968 (Duke) and 19937 (U Miami) to patients with acute respiratory distress syndrome (ARDS) due to COVID-19 infection (COVID-ARDS). The first 10 consecutive patients will receive investigational MSCs manufactured by Duke. In the second phase of the study, 40 additional patients will be randomized to receive placebo or investigational MSCs manufactured by Duke or University of Miami.\n\nPatients will be eligible for infusion of 3 daily consecutive doses of hCT-MSC or placebo if they have a confirmed diagnosis of COVID-19 and meet clinical and radiographic criteria for ARDS.\n\nResults from the first 10 patients will be compared with concurrent outcomes utilizing standard of care treatments in participating hospitals and in published reports in the medical literature. Results from the additional 40 patients will be combined with the first 10 and analyzed. The trial is relying on focused eligibility of the participants (patients with ARDS), single cohort with short trial time (4 weeks), and simple assessment of clinical outcome (survival, improvement of ARDS). This is a sequential design in the sense that after the first 10 patients are evaluated a decision will be made by the PIs and the Data Safety Monitoring Board whether to proceed with the exploratory randomized portion of the study.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. The patient or legally authorized representative (LAR) must have the ability to understand and the willingness to provide a signed and dated informed consent form.\n2. Age 18 years and over\n3. The patient agrees to use adequate contraception for the duration of the treatment protocol and for 6 months post treatment.\n4. Positive RT- PCR testing for COVID-19 nucleic acid using nasopharyngeal swabbing or any other site\n5. Patient meets ARDS criteria and is on non-invasive or mechanical ventilation or high flow nasal cannula\n\n   1. bilateral opacities on chest imaging consistent with pulmonary edema\n   2. A need for positive pressure ventilation or high flow nasal cannula\n   3. PaO2/FiO2 ratio \u2264 300 mmHg by arterial blood gas or SpO2/FiO2 imputation.\n   4. Infiltrates not fully explained by cardiac failure or fluid overload in the physician's best clinical judgement\n6. Subjects requiring dialysis as a result of a COVID-19 infection will not be excluded.\n\nExclusion Criteria:\n\n1. Evidence of multiorgan failure involving one or more organs, excluding the lungs as defined below:\n\n   1. Presence of shock, defined as MAP \\< 65 mmHg with signs of peripheral hypoperfusion, or continuous infusion of 2 or more vasopressor or inotrope agents to maintain MAP \u2265 65 mmHg.\n   2. Serum bilirubin \\> 10 mg/dl\n   3. Platelet count \\< 50,000/ml\n   4. Subjects requiring dialysis as a result of anything other than a COVID-19 infection will be excluded\n2. Evidence of acquired or congenital immunodeficiency (due to immunosuppressive therapy excluding steroid use for treatment of COVID-19 acute respiratory failure, HIV, previous treatment for cancer, etc.)\n3. History of metastatic cancer diagnosis or treatment in the past 1 year\n4. History of previous treatments with MSCs or other cell therapies\n5. Patient is co-enrolled in any other IND-sponsored clinical trials for COVID-19 or ARDs. Drugs that are administered under emergency use authorizations (EUA) by the FDA are permitted.\n6. Evidence of pregnancy or lactation\n7. Moribund patient not expected to survive \\>24 hours\n8. Unable/unwilling to deliver lung protective ventilation\n9. Patient is receiving Extracorporeal Membrane Oxygenation (ECMO)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID",
+    "Corona Virus Infection",
+    "COVID19"
+  ],
+  "overall_status": "TERMINATED"
+}

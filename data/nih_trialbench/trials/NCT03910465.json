@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT03910465",
+  "title": "Children and Adults With Chordoma",
+  "brief_summary": "Background:\n\nChordoma is a rare type of bone cancer. It occurs in the skull base or spine. Researchers want to study people with chordoma in different ways. They hope this will help them design better future treatments and supportive care studies for this disease.\n\nObjective:\n\nTo learn more about chordoma by looking at its clinical course, how it appears on imagine scans, and how it responds to therapies and treatments.\n\nEligibility:\n\nPeople ages 2 and older with chordoma who are enrolled in NCI protocol 19-C-0016\n\nDesign:\n\nParticipants will be screened with their medical history.\n\nParticipants will have a visit to examine their disease. This will include:\n\n* Physical exam\n* Neurologic exam\n* CT scan and MRI: Participants will lie on a table. The table will slide into a machine. The machine will take pictures of the body.\n\nParticipants will have other tests every 6-12 months:\n\n* Smell test\n* Surveys to assess their emotional, physical, and behavioral well-being and needs\n* Cognitive function tests\n\nParticipants or their home doctors will be contacted every 6 12 months. They will be asked to provide information about their disease. This could include test results and imaging evaluations.\n\nSome participants may be asked to come to the clinic for more visits.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Ability of subject or Legally Authorized Representative (LAR) to understand and the willingness to sign a written consent document.\n* Subjects with radiographically or histologically documented chordoma\n* Age greater than or equal to 2 years old\n* Subjects must be enrolled into NCI protocol 19-C-0016: Natural History and Biospecimen Acquisition Study for Children and Adults with Rare Solid Tumors .\n\nEXCLUSION CRITERIA:\n\n-None",
+  "minimum_age": "2 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "primary clinical",
+  "condition": [
+    "Chordoma"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study enrolling all patients with chordoma regardless of prior therapy. There are no restrictions on prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes all patients with radiographically or histologically documented chordoma, with no exclusion based on prior therapy or disease stage. Patients who have received no prior systemic therapy, only adjuvant/neoadjuvant therapy, or any number of lines for advanced disease are eligible."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "nctid": "NCT05642195",
+  "title": "Evaluation of a Cancer Lysate Vaccine and Montanide (Registered Trademark) ISA-51 VG With or Without the IL-15 Super-Agonist N-803 as Adjuvant Therapy for PD-L1 Negative Non-Small Cell Lung Cancer",
+  "brief_summary": "Background:\n\nSurgery is the primary treatment for non-small cell lung cancer (NSCLC) that is diagnosed in its earlier stages. But the tumors often return. Radiation and chemotherapy can improve survival in some people who have had surgery for NSCLC, but these treatments also cause serious side effects. A new approach, called immunotherapy, may be a better way to stop NSCLC tumors from coming back.\n\nObjective:\n\nTo test a new treatment (H1299 lung cancer cell vaccine combined with the drug N-803) in people who received surgery for NSCLC.\n\nEligibility:\n\nAdults aged 18 years or older with no sign of disease after surgery for NSCLC.\n\nDesign:\n\nParticipants will be screened. They will have a physical exam with blood tests. They will have tests of their heart and lung function. They will have imaging scans.\n\nStudy treatment will be given in 28-day cycles. Participants will visit the clinic on the first day of each cycle. They will receive 2 treatments at each visit:\n\nThe study vaccine is given as 2-4 small shots under the skin of the thigh or arm.\n\nN-803 is given as a shot under the skin of the abdomen.\n\nTreatment will continue for 6 cycles. Blood tests and imaging scans will be repeated throughout the study.\n\nParticipants will have a blood test 1 month after receiving the 6th vaccine. Some participants may then resume taking N-803; they may also receive 2 more vaccinations at 3 and 6 months after their previous treatment.\n\nFollow-up visits will continue for up to 5 years.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Participant with histologically or cytologically proven Stage IB-IIIA (T2a-T4/N0, T1- T3N1, T1-T2/N2) NSCLC per 8th edition TNM Staging System with no clinical evidence of active disease (NED) or minimal residual disease (MRD) not readily accessible by non-invasive biopsy or resection/radiation following standard therapy. Initial diagnosis must be confirmed by the NIH Laboratory of Pathology.\n* History of PD-L1 expression in cancer cells \\< 1% as determined by IHC analysis.\n* Participant must be enrolled within 12 weeks following completion of prior SOC therapy.\n* Participant must have an ECOG performance status of 0-2.\n* Participant must be \\>=18 years of age.\n* Participant must be willing to co-enroll on protocol 06C0014 (Prospective Analysis of Genetic and Epigenetic Alterations in Patients with Thoracic Malignancies) allowing for the collection of blood for correlative experiments pertaining to this protocol and related translational research efforts in the Thoracic Surgery Branch.\n* Participant must have evidence of adequate bone marrow reserve, hepatic and renal function as evidenced by the following laboratory parameters (all eligibility assessment/enrollment bloodwork must be done at NIH no more than 2 weeks prior to enrollment):\n* Absolute neutrophil count greater than 1500/mm3\n* Absolute lymphocyte count greater than 800/mm3\n* Platelet count greater than 75,000/mm3\n* Hemoglobin greater than 8 g/dL (participant may receive transfusions to meet this parameter)\n* INR\\< 1.5xULN\n* Total bilirubin \\< 1.5 x upper limits of normal (except those with Gilberts disease)\n* Serum creatinine less than or equal to 1.6 mg/mL or the eGFR must be greater than 60 mL/min/1.73m2\n* Seronegative for HIV antibody by bloodwork performed at NIH no more than 4 weeks prior to enrollment.\n* Seronegative for active hepatitis B, and seronegative for hepatitis C antibody. If hepatitis C antibody test is positive, then patient must be tested for the presence of antigen by RTPCR and be HCV RNA negative by bloodwork performed at NIH no more than 4 weeks\n\nprior to enrollment.\n\n* Participants who are breastfeeding or plan to breastfeed must agree to discontinue/postpone breastfeeding while receiving investigational treatment and for 120 days after the last dose of vaccine or N-803.\n* Women of childbearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) within 28 days prior initiation of study therapy, for the duration of study participation and up to 120 days after the last\n\ndose of the drug.\n\n-Participant must be able to understand and willing to sign an informed consent.\n\nEXCLUSION CRITERIA:\n\n* Participants receiving other investigational agents.\n* Participants on any active treatment for their cancer upon study entry.\n* Participant who is initially rendered NED or have MRD following standard therapy but exhibit disease progression prior to initiation of vaccination.\n* Participant requiring chronic systemic treatment with steroids above physiologic doses.\n* Participant receiving warfarin anticoagulation, who cannot be transitioned to other agents such as enoxaparin or dabigatran, and for whom anticoagulants cannot be held for up to 24 hours.\n* Participant with uncontrolled hypertension (\\> 160/95), unstable coronary disease evidenced by uncontrolled arrhythmias, unstable angina, decompensated CHF (\\> NYHA Class II), or myocardial infarction within 6 months prior to initiation of study therapy.\n* Participant with any of the following pulmonary function abnormalities: FEV, \\< 35% predicted; DLCO \\< 35% predicted (post-bronchodilator); oxygen saturation less than 92% on room air based on assessment at NIH or outside medical facility no more than 4 weeks prior to protocol enrollment.\n* Active COVID infection\n* Participant pregnancy\n* Uncontrolled intercurrent illness occurring within 3 months prior to initiation of study therapy /social situations (as assessed by social services) that would limit compliance with study requirements.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Non-Small Cell Lung Cancer",
+    "Non-Small Cell Lung Carcinoma",
+    "Carcinoma, Non-Small-Cell Lung",
+    "Carcinomas"
+  ],
+  "overall_status": "SUSPENDED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with resected stage IB-IIIA PD-L1 negative NSCLC who have no evidence of disease after surgery and standard therapy, to receive adjuvant immunotherapy. No prior systemic therapy for advanced/metastatic disease is required or allowed.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligible patients must have stage IB-IIIA NSCLC with no evidence of disease after surgery and standard therapy, and must enroll within 12 weeks of completing prior standard-of-care therapy. No prior systemic therapy for advanced/metastatic disease is required or allowed; patients may have received only adjuvant or neoadjuvant therapy."
+    }
+  ]
+}

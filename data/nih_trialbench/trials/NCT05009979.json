@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT05009979",
+  "title": "18F-DCFPyL PET/CT in Hepatocellular Carcinoma",
+  "brief_summary": "Background:\n\nA radiotracer (or tracer) is a radioactive substance. It is used in Positron Emission Tomography (PET) imaging to help see specific sites in the body. Researchers want to learn if a new tracer can help them better identify hepatocellular cancer (HCC) in people.\n\nObjective:\n\nTo learn if a radiotracer called piflufolastat F-18 (18F-DCFPyL), can identify sites of HCC better than current standard imaging.\n\nEligibility:\n\nAdults aged 18 years and older who may have HCC based on previous standard imaging.\n\nDesign:\n\nParticipants will be screened with a medical history, physical exam, and blood tests. They will have a computed tomography (CT) and/or magnetic resonance imaging (MRI) scan.\n\nParticipants will have a whole-body positron emission tomography (PET/CT) scan. The PET and CT scanners use x-rays to make pictures of the inside of the body. The PET uses a tracer to help make the pictures. Participants will get an intravenous (IV) injection of 18F-DCFPyL 1 hour before the scan.\n\nWithin two weeks, participants will have a Fludeoxyglucose F 18 (18F-FDG) PET/CT scan. 18F-FDG is a commonly used tracer. They will get 18F-FDG via IV 1 hour before the scan.\n\nParticipants will have a CT/magnetic resonance imaging (MRI) within 2 months of the first 18F-DCFPyL PET/CT.\n\nParticipants will have standard treatment for their cancer. During treatment, they will have a tumor biopsy. If the biopsy shows they do not have HCC, they will be removed from the study.\n\nFor participants who have HCC and their cancer was identified in the 18F-DCFPyL PET/CT, they will have a second 18F-DCFPyL PET/CT and 18F-FDG PET/CT.\n\nParticipants will have follow-up visits every 3 months for 2 years. Then they will have yearly visits for 3 years.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* High radiological suspicion of hepatocellular carcinoma (LR4 (probably hepatocellular carcinoma) or LR5 (definitely hepatocellular carcinoma) based on the most current version of Liver Imaging Reporting \\& Data System (LI-RADS) with at least one measurable lesion on standard imaging modality computed tomography (CT) and/or magnetic resonance imaging (MRI).\n* Eligible for local therapies (included but not limited to surgical resection, stereotactic radiation therapy, transarterial chem/radio/bland embolization, microwave ablation, radiofrequency ablation).\n* Ability to take oral medication and be willing to adhere to the study intervention regimen.\n* Age \\>=18 years.\n* Eastern Cooperative Oncology Group (ECOG) performance status \\<=2.\n* Known human immunodeficiency virus (HIV)-infected individuals must be on effective anti-retroviral therapy with undetectable viral load within 6 months.\n* Known chronic hepatitis B virus (HBV) infected individuals, must be on suppressive therapy with undetectable viral load.\n* Individuals with a history of hepatitis C virus (HCV) infection must have been treated and cured.\n* The effects of piflufolastat F-18 (18F-DCFPyL) (study drug) on the developing human fetus are unknown. For this reason and because this agent as well as other therapeutic agents used in this trial are known to be teratogenic, women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for 2 months after each study positron emission tomography and computed tomography (PET/CT) imaging. Should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately.\n* Ability of subject to understand and the willingness to sign a written informed consent document\n\nEXCLUSION CRITERIA:\n\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to 18F-DCFPyL, or other agents used in study.\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Subjects with severe claustrophobia unresponsive to oral anxiolytics.\n* Other medical conditions deemed by the principal investigator (or associates) to make the subject unsafe/ineligible for protocol procedures.\n* Subjects weighing \\> 350 lbs. (weight limit for scanner table), or unable to fit within the imaging gantry\n* Serum creatinine \\> 2 times the upper limit of normal\n* Pregnant women are excluded from this study because 18F-DCFPyL is an agent with the potential for teratogenic or abortifacient effects. as well as other agents used in this trial are known to be teratogenic.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hepatocellular Carcinoma"
+  ],
+  "overall_status": "TERMINATED",
+  "line_of_therapy_overall_summary": "This is an imaging study enrolling patients with suspected or newly diagnosed hepatocellular carcinoma (HCC) who are eligible for local therapies. There is no requirement for prior systemic therapy for advanced/metastatic disease, and patients may be treatment-naïve.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility requires only a high radiological suspicion of HCC and eligibility for local therapies, with no mention of prior systemic therapy for advanced disease. Patients may be newly diagnosed and treatment-naïve, and those who have only received adjuvant or no prior therapy are eligible."
+    }
+  ]
+}

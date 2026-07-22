@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT01369199",
+  "title": "Combination Entecavir and Peginterferon Therapy in HBeAg-Positive Immune-Tolerant Adults With Chronic Hepatitis B",
+  "brief_summary": "The investigators evaluated the safety and efficacy of a short lead-in course (8 weeks) of entecavir followed by combination of entecavir plus peginterferon alfa-2a for 40 weeks.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Enrolled in \\& completed the baseline evaluation for NCT01263587 or completed the necessary components of NCT01263587 by the end of baseline visit.\n* \\>18 years of age at the baseline visit (day 0). Patients \\>50 years of age at baseline will need to have a liver biopsy as standard of care with hepatic activity index (HAI) ≤3 \\& Ishak fibrosis score ≤1 within 96 weeks prior to baseline visit.\n* Documented chronic HBV infection as evidenced by detection of HBsAg in serum for ≥24 weeks prior to baseline visit OR at least one positive HBsAg \\& negative anti-hepatitis B core (HBc) immunoglobulin (IgM) within 24 weeks prior to baseline visit OR at least one positive HBsAg \\& two positive HBV DNA over a period of ≥24 weeks prior to baseline visit.\n* Presence of HBeAg in serum at last screening visit within 6 weeks of baseline visit.\n* Serum HBV DNA level \\>10˄7 IU/mL on at least two occasions at least 12 weeks apart during the 52 weeks before baseline visit. One of the two HBV DNA levels must be within 6 weeks of baseline visit.\n* ALT levels persistently ≤45 U/L in males, ≤30 U/L in females (approx. 1.5 times the upper limit of normal (ULN) range) as documented by at least three values: one taken 28-52 weeks before baseline visit, one taken 6 to 24 weeks before the baseline visit, \\& the final value within 6 weeks prior to baseline visit.\n* No evidence of hepatocellular carcinoma (HCC) based upon alpha-fetoprotein (AFP) ≤20 ng/mL at screening visit (up to 6 weeks prior to baseline visit). a. Participants who meet American Association for the Study of Liver Diseases (AASLD) criteria for HCC surveillance must have negative liver imaging as shown by ultrasound, computerized tomography (CT) or magnetic resonance imaging (MRI) within 28 weeks prior to baseline visit. b. Participants with AFP \\>20 ng/mL must be evaluated clinically with additional imaging \\& shown not to have HCC on CT or MRI before they can be enrolled.\n\nExclusion Criteria:\n\n* History of hepatic decompensation\n* Evidence of decompensated liver disease prior to or during screening, including direct bilirubin \\>0.5 mg/dL, international normalization ratio (INR) \\>1.5, or serum albumin \\<3.5 g/dL.\n* Platelet count \\<120,000/mm3, hemoglobin \\<13 g/dL (males) or \\<12 g/dL (females), absolute neutrophil count \\< 1500 /mm3 (\\<1000/mm3 for African-Americans) at last screening visit.\n* Previous treatment with medications that have established activity against HBV including interferon \\& nucleos(t)ide analogs ≥24 weeks. Patients with \\<24 weeks of prior HBV treatment \\& a wash-out period \\>24 weeks are not excluded.\n* Known allergy or intolerance to study medications.\n* Females who are pregnant or breastfeeding. Females of childbearing potential unable or unwilling to use a reliable method of contraception during the treatment period.\n* Renal insufficiency with calculated creatinine clearance \\<50 mL/min at screening.\n* History of alcohol or drug abuse within 48 weeks of baseline visit.\n* Previous liver or other organ transplantation (including engrafted bone marrow).\n* Any other concomitant liver disease, including hepatitis C or D. Non-alcoholic fatty liver disease (NAFLD) with steatosis \\&/or mild to moderate steatohepatitis is acceptable but NAFLD with severe steatohepatitis is exclusionary.\n* Presence of anti-hepatitis D virus (HDV) or anti-hepatitis C virus (HCV) (unless HCV RNA negative) in serum on any occasion in the 144 weeks prior to baseline visit. Presence of anti-HIV (test completed within 6 weeks prior to baseline visit).\n* Pre-existing psychiatric condition(s), including, but not limited to: current moderate or severe depression, history of depression requiring hospitalization within the past 10 years, history of suicidal or homicidal attempt within the past 10 years, history of severe psychiatric disorders as determined by a study physician.\n* History of immune-mediated or cerebrovascular disease, chronic pulmonary or cardiac disease associated with functional limitation, retinopathy, uncontrolled thyroid disease, poorly controlled diabetes or uncontrolled seizure disorder, as determined by a study physician.\n* Any medical condition that would, in the opinion of a study physician, be predicted to be exacerbated by therapy or that would limit study participation.\n* Any medical condition requiring, or likely to require, chronic systemic administration of corticosteroids or other immunosuppressive medications during the course of this study.\n* Evidence of active or suspected malignancy, or a history of malignancy within the 144 weeks prior to baseline visit (except adequately treated carcinoma in situ or basal cell carcinoma of the skin).\n* Expected need for ongoing use of any antivirals with activity against HBV during the course of the study.\n* Concomitant use of complementary or alternative medications purported to have antiviral activity.\n* Participation in any other clinical trial involving investigational drugs within 30 days of the baseline visit or intention to participate in another clinical trial involving investigational drugs during participation in this study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hepatitis B"
+  ],
+  "overall_status": "TERMINATED",
+  "line_of_therapy_overall_summary": "This trial enrolls adults with HBeAg-positive chronic hepatitis B who are immune-tolerant and have not received significant prior antiviral therapy for HBV. Patients with prior HBV treatment for less than 24 weeks and a sufficient wash-out period may be eligible.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Patients must not have received prior HBV therapy with interferon or nucleos(t)ide analogs for 24 weeks or more. Those with less than 24 weeks of prior HBV treatment and a wash-out period over 24 weeks are allowed, effectively making this a first-line (1L) advanced therapy setting."
+    }
+  ]
+}

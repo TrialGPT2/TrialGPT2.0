@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01726985",
+  "title": "Model for Heart Failure ExAcerbation Reduction Trial",
+  "brief_summary": "Heart failure is the leading cause of hospitalizations and readmissions in the United States and is a tremendous economic strain on our healthcare system. There is currently, based on national averages, a 30% readmission rate and 10% mortality rate within 3 months of being hospitalized for heart failure. Retrospective studies have shown benefit to using biomarkers such as BNP to guide inpatient heart failure management. Our own CCF retrospective study showed that decreasing NT-ProBNP by 23%, making patients fluid negative by more than 1.3L, and discharging patients with serum sodium above 135 reduces readmission rates significantly. The purpose of this study is to prospectively use the above mentioned goals in the treatment of heart failure in order to reduce heart failure readmission and mortality rates.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Must have either Acute on Chronic Heart Failure or Chronic Heart Failure regardless of presenting/primary complaint\n\nTo fulfill CHF Dx, MUST have 2+ of the following:\n\n* Clinical: Dyspnea, orthopnea, PND, edema, S3, rales, improve w diuretics\n* Radiographic: Pulm venous congestion, pleural effs, cardiomegaly\n* Lab: NT pro BNP \\> 1000\n\nExclusion Criteria:\n\n* None",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients aged 18 and over hospitalized at Cleveland Clinic Florida with diagnosis of CHF.",
+  "condition": [
+    "Acute on Chronic Heart Failure"
+  ],
+  "overall_status": "COMPLETED"
+}

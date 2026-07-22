@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02278744",
+  "title": "Trial for Salvage Re-Irradiation of Metastatic Spine Lesions Using Single-Fraction Stereotactic Radiosurgery",
+  "brief_summary": "This is a phase I clinical trial investigating the use of single fraction re-irradiation following local progression of spine and cauda equina (L2 to sacrum) lesions that have previously received radiation therapy. Patients will be treated with single-fraction radiation therapy at 3 dose levels using image-guided stereotactic radiosurgery techniques.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients must have histologic or cytologic proof of a non-hematologic malignancy confirmed by MSKCC pathologic review\n* Patients must have radiographic evidence of malignancy in the spine or cauda equina region (L2 to sacrum) which is suitable for radiation therapy\n* Patients must have received prior external beam radiation therapy to the region proposed for SRS re-irradiation at least 6 months prior to planned re-irradiation\n* For patients who were previously treated at an outside institution, adequate records must be available to determine the true dose the cord/cauda received during prior RT. Sufficiency of the treatment records will be assessed and signed-off by the Medical Physics investigator.\n* Patients must have demonstrated progression of disease on MRI or CT assessment of the spinal cord/cauda within the previous radiation field\n\n  o progression may consist of an increase in maximal dimension of the tumor by \u226520%, compromise of the spinal cord/cauda equina and/or exiting spinal nerves (assessed clinically or radiographically), or both.\n* Target lesion size for re-irradiation must be \u2264 2 vertebral bodies\n* KPS \u2265 60%\n* Age \u2265 18 years old\n\nExclusion Criteria:\n\n* Patients with a life expectancy of \\< 6 months as predicted by the Adult Comorbidity Index (ACE-27, see Appendix 1).\n* Patients with intradural or intramedullary lesions, or lesions with \\< 2mm distance from tumor to spinal cord\n* Patients with circumferential epidural disease\n* Systemic chemotherapy delivered or planned to be delivered within (+/-) 5 days of SRS re-irradiation\n* Patients receiving bevacizumab within 12 weeks prior to protocol treatment.\n* Unable to undergo either a myelogram or MRI of spinal cord/cauda equina and/or exiting spinal nerves\n* Patients who may not receive therapeutically effective doses via an external beam approach to the lesion of interest as specified by the Dose Limit Guidelines Evaluation of doses previously delivered to spinal cord/cauda equina and other critical structures (bowel, esophagus, kidneys, rectum) will be taken into consideration\n\n  * If repeat irradiation would exceed any normal tissue constraint as noted in Appendix 2, the patient will be ineligible\n  * If the total prior radiation dose to the spinal cord/cauda equina and/or sacrum over all prior treatments exceeds 100 Gy BED (biologically effective dose), the patient will be ineligible, where a total of 100 Gy BED is determined by the calculation: BED = nd(1 + d/\u03b1/\u03b2), where n = number of fractions and d = dose per fraction; \u03b1/\u03b2 is the constant for spinal cord/cauda/sacrum late effect and equals 2 \\[Rades 2005, Nieder 2005, Sahgal 2012\\]\n* Patients with paraspinal extension of disease with visceral involvement exclusive of patients with cauda equina and sacral disease extension.\n* Abnormal complete blood count. Any of the following:\n\n  * Platelet count \\< 75,K/mcL\n  * Hemoglobin level \\< 9g/dl\n  * WBC \\< 3.5K/mcL\n* Abnormal coagulation profile: INR \\> 2.5 and/or PTT \\> 80\n\n  o Patients who are on anticoagulation medication that may not be safely held for the procedure (\u2265 5 days for antiplatelet agents and warfarin; \u2265 24 hours for low-molecular weight heparin formulations) will be excluded\n* Pregnant or lactating women.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Metastatic Spine Lesions"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

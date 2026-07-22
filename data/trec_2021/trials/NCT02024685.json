@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT02024685",
+  "title": "Treatment Decision Analysis Model for Prostate Cancer: A Randomized Trial",
+  "brief_summary": "This is a psychosocial/behavioral study and does not involve administration of any treatment or diagnostic procedures. We will use a randomized trial to test the hypothesis that a decision analysis model that provides individualized estimates of quality-adjusted disease-free survival for each of the treatment options for clinically localized prostate cancer will lead to higher quality treatment decisions congruent with a patient's values leading to improved decisional regret and treatment satisfaction. In this trial, all patients would be evaluated at baseline for their utilities for various clinically important health states. The control arm will receive counseling regarding treatment options using standard patient-physician interactions and nomogram-predicted probabilities of treatment outcome for the various treatment options and they will be unaware of the decision analysis recommendation. The treatment arm would be counseled using standard patient-physician interactions and they would also be provided with a personalized treatment recommendations based on the decision analysis model prior to treatment selection. The primary endpoint of this study will be regret-free survival at 2 years after treatment. There will be a 1:1 randomization. A random permuted design will be used to assure approximate balanced number of patients in the two groups over time.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients referred to the Cleveland Clinic Foundation for the treatment of clinically localized prostate adenocarcinoma\n* Ability to read English at a grade eight level\n\nExclusion Criteria:\n\n* No other cancer diagnosis for the past 3 years, except for non-melanoma skin cancer\n* Prior chemotherapy within the last 3 years\n* Previous pelvic radiation therapy\n* Previous pelvic surgery\n* Neoadjuvant therapy prior to referral, such as hormones",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Adenocarcinoma of Prostate",
+    "Adenocarcinoma of the Prostate Stage I",
+    "Adenocarcinoma of the Prostate Stage II",
+    "Adenocarcinoma of the Prostate Stage III"
+  ],
+  "overall_status": "TERMINATED"
+}

@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT00500617",
+  "title": "Personalized Risk Evaluation and Diagnosis (Using Corus CAD or ASGES) in the Coronary Tree",
+  "brief_summary": "The PREDICT study is to develop and validate a diagnostic blood ASGES (age, sex, gene expression score) or Corus CAD for atherosclerotic coronary artery disease (CAD). The Corus CAD (Age/Sex/Gene Expression score - ASGES) will use quantitative real-time PCR (RT-PCR) to quantify the expression of multiple genes from circulating peripheral blood cells to assess the presence of clinically significant CAD in a patient.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Referral for a coronary angiogram (either invasive X-ray angiography or coronary CTA)\n* Any one of the following clinical syndromes:\n\n  1. chest pain syndrome, stable angina, or anginal equivalent suggesting myocardial ischemia\n  2. low-risk unstable angin, or\n  3. asymptomatic individuals with a high probability of CAD\n\nExclusion Criteria:\n\n* History of myocardial infarction or known CAD\n* Current Myocardial Infarct (MI), acute coronary syndrome with high-risk features or unstable angina with high-risk features\n* New York Heart Association (NYHA) class III or IV congestive\n* Inability to give informed congestive heart failures\n* Severe left ventricular systolic dysfunction (LVEF\\<35%)\n* Severe regurgitant or stenotic cardiac valve lesion\n* Active or chronic systemic infection\n* Rheumatologic, autoimmune or hematologic conditions\n* Any organ transplant\n* Immunosuppressive therapy\n* Chemotherapy in the preceding year\n* Major blood or blood product transfusion in the preceding 2 months",
+  "minimum_age": "21 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients undergoing clinically indicated invasive coronary artery angiogram or CT angiogram.",
+  "condition": [
+    "Coronary Artery Disease",
+    "Angina Pectoris",
+    "Chest Pain",
+    "Cardiovascular Diseases",
+    "Coronary Heart Disease",
+    "CAD",
+    "CVD",
+    "CHD"
+  ],
+  "overall_status": "COMPLETED"
+}

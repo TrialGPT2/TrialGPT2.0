@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04231266",
+  "title": "Multi-Center Study of ManNAc for GNE Myopathy",
+  "brief_summary": "GNE myopathy is a rare genetic muscle disease characterized by progressive muscle atrophy and weakness. The disease is caused by mutations in the gene that encodes the enzyme that initiates and regulates N-acetylneuraminic acid (Neu5Ac) biosynthesis and glycan sialylation. Currently, there is no therapy available for this disease. N-Acetylmannosamine (ManNAc), an orphan drug in development for GNE myopathy, is an uncharged monosaccharide and the first committed precursor in Neu5Ac biosynthesis. In this randomized, double-blind, placebo-controlled trial the efficacy and long-term safety of ManNAc will be evaluated in subjects with GNE myopathy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Subject should be 18-70 years of age at the time of enrollment, inclusive, and of either gender.\n2. Subject has a diagnosis of GNE myopathy based upon a consistent clinical course and biallelic GNE gene mutations that classify as pathogenic or likely pathogenic according to American College of Medical Genetics and Genomics (ACMG) guidelines.\n3. Subjects must have 10.00-65.99% of predicted muscle strength measured by QMA at screening in at least one of the selected muscle groups (ankle dorsiflexion, knee flexion, grip, shoulder abduction and elbow flexion).\n4. Subject has the ability to travel to the Clinical Trial Site for visits.\n5. Subjects must be able to communicate effectively with study staff and understand the requirements of the protocol without translators.\n6. Subject must be able to comply with requirements of the protocol, including blood collection, drug administration, and muscle strength assessments.\n7. Women of childbearing potential must be willing to use an effective method of contraception for the duration of the trial. It is recommended that male subjects follow birth control measures for the duration of the trial.\n8. Subject must be able to provide informed consent.\n\nExclusion Criteria:\n\n1. Subject had an infection or medical illness requiring intravenous antibiotics or hospitalization within 30 days prior to the baseline/randomization visit.\n2. Subject has another comorbid condition which may affect physical function.\n3. Subject has a psychiatric illness or neurological disease that would interfere with the ability to comply with the requirements of this protocol.\n4. Subject with hepatic laboratory parameters (AST, ALT, GGTP), equal to or greater than 3 times the upper limit of normal at screening.\n5. Subject with existing renal dysfunction, as defined by glomerular filtration rate (GFR) less than 60 mL/min/1.73 m2 at screening.\n6. Subject is anemic (defined as Hematocrit \\<30%) or has platelets \\<75 x 10\\^3/µL or white blood cell count less than 3 x 10\\^3/µL at screening.\n7. Subject shows evidence of clinically significant cardiovascular, pulmonary, hepatic, renal, hematological, metabolic, or gastrointestinal disease, or has a condition that requires immediate surgical intervention.\n8. Subject is pregnant or breastfeeding at any time during the study.\n9. Subject has received treatment with another investigational drug, investigational device, or approved therapy for investigational use less than 90 days prior to screening.\n10. Subject has received any dose of ManNAc, sialic acid, intravenous immunoglobulin (IVIG), and/or other compounds containing, or that can be metabolized into sialic acid, within 6 months prior to enrollment as reported by subject at the time of screening.\n11. Subject has received stem cell therapy or gene therapy within 1 year prior to screening.\n12. Subject has hypersensitivity to ManNAc or erythritol or in the judgment of the investigator, has a condition that places the subject at increased risk for adverse effects.\n13. The presence of persistent diarrhea or malabsorption that could interfere with the subject's ability to absorb drugs or to tolerate ManNAc therapy.",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "GNE Myopathy"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with GNE myopathy regardless of prior systemic therapy, as there is no standard systemic therapy for this rare genetic disease. Line-of-therapy intent is not applicable in the context of oncology or advanced/metastatic disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference prior lines of systemic therapy for advanced disease, as this is a non-oncology, rare genetic muscle disease trial. Line-of-therapy intent is not defined or applicable."
+    }
+  ]
+}

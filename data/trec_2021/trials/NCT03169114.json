@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03169114",
+  "title": "Raja Isteri Pengiran Anak Saleha Appendicitis Treatment Without Operation",
+  "brief_summary": "The RIPASA score is a Clinical Prediction Rule (CPR) for the diagnosis of acute appendicitis. Since its inception in 2009, the RIPASA score has been validated in various population in healthcare institutions around the world and reported significantly higher sensitivity and specificity when compared to Alvarado score. RIPASA score ranges from 3 to 16.5 with those having a score of less than 7 having a low probability of acute appendicitis and those with a score of 7.5 having a high probability of acute appendicitis.\n\nThere has been a trend in the past decade on non-operative management of early-uncomplicated acute appendicitis (EuAA) with antibiotic therapy. This antibiotic non-operative management strategy (AMS) has been reported to work in children, thus avoiding unnecessary emergency operation. In adults presenting with early-uncomplicated acute appendicitis, this management pathway is still uncertain and most randomized controlled trials (RCT) and meta-analysis have not been able to show significant benefit of AMS over surgery management strategy (SMS), partly due to variable treatment efficacy, high recurrence rate within a year and a lack of agreement of whom would constitute a group of EuAA.\n\nThe working hypothesis of this study is that RIPASA score as a Clinical Prediction Rule, can determine a group of patients with a diagnosis of EuAA, based on the range of scores (RIPASA score 7.5 - 11.5), who will benefit from an AMS rather than SMS, leading to improve patients' outcomes through a significant reduction in negative appendicectomy rate, shorter length of hospital stay, reduce post-operative complications and changing physician behavior in managing this group of patients to an AMS rather than SMS and ultimately financial cost savings.\n\nThe primary specific aim of this study is to compare AMS with SMS in patients with EuAA in a prospective non-inferiority RCT. Secondary specific aims are to determine the range of RIPASA score that can define a group of patients with EuAA, step 3 validation of RIPASA score as a valid CPR and improve patient outcomes in terms of reducing unnecessary negative appendicectomy rate, hospital stay and complications arising from such surgery, and ultimately financial cost savings.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* More than 12 years of age\n* High probability of early-uncomplicated acute appendicitis with confirmed RIPASA score of 7.5 to 11.5\n\nExclusion Criteria:\n\n* 12 years of age or less\n* RIPASA score 7 or less, or greater than 12\n* Clinical diagnosis of acute complicated appendicitis with perforation or signs of generalized peritonitis.",
+  "minimum_age": "13 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Appendicitis",
+    "Surgery"
+  ],
+  "overall_status": "TERMINATED"
+}

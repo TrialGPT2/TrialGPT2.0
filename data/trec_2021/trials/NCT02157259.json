@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02157259",
+  "title": "An Observational Study of the Causes, Management, and Outcomes of Community-acquired Sepsis and Severe Sepsis in Southeast Asia",
+  "brief_summary": "This is an observational study to identify the etiology, management, and outcome of community-acquired sepsis and severe sepsis in children and adults in Southeast Asia. The study will take place in Thailand, Vietnam, and Indonesia, the partner countries of SEAICRN. Potential study patients will be any patients (both children and adults) who are presented at the hospital with community-acquired sepsis or severe sepsis and require hospitalization.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age \u226530 days old and weighing at least 3 kg or more on the day of enrollment into the study\n2. Required hospitalization as decided by the attending physician\n3. Documented by attending physician that an infection is the primary cause of illness leading to the hospitalization. These can be infections due to any pathogens (bacteria, viruses, fungi and parasites).\n4. Presence of Systemic Inflammatory Response Syndrome (SIRS):\n\n   4.1 For adults (\u2265 18 years old), any combination of a minimum of any 3 of the following 20 parameters\n   * Fever or hypothermia (Core body temperature defined as \\>38.3 C or \\<36.0 C)\n   * Tachycardia (heart rate \\>90 beats per minute)\n   * Tachypnea (respiratory rate \\>20 per minute)\n   * Arterial hypotension (systolic blood pressure (SBP) \\<90 mmHg, mean arterial pressure (MAP) \\<70 mmHg, or SBP decrease \\>40 mmHg)\n   * White blood cell (WBC) \\>12,000 u/L or \\<4000 u/L or immature forms \\>10%\n   * Platelet count \\<100,000 u/L\n   * Altered mental status with Glasgow Coma Score (GCS) \\<15\n   * Hypoxemia (Pulse Oximetry Level \\<95)\n   * Ileus\n   * Significant edema or positive fluid balance\n   * Decreased capillary refill or mottling\n   * Hyperglycemia (plasma glucose \\>140 mg/dL) in the absence of diabetes\n   * Plasma C-reactive protein \\>2 SD above the normal value\n   * Plasma procalcitonin \\> 2 SD above the normal value\n   * Arterial hypoxemia (PaO2 / FIO2 \\<300)\n   * Acute oliguria (urine output \\<0.5 mL/kg/hr or 45 mmol/L for 2 hours)\n   * Creatinine increase \\>0.5 mg/dL\n   * INR \\>1.5 or a PTT \\>60 seconds\n   * Plasma total bilirubin \\>4 mg/dl or 70 mmol/L\n   * Hyperlactatemia (\\>1 mmol/L)\n\n   4.2 For pediatric patients (\\>30 days old and \\<18 years old), all of the 3 following symptoms:\n   * Fever or hypothermia (rectal temperature defined as \\>38.5 C or \\<35.0 C \\[or equivalent\\])\n   * Tachycardia (heart rate \\>2 SD above the normal value for age). This could be absent in hypothermic subject.\n   * Tachypnea (respiratory rate \\>2 SD above the normal value for age)\n\n   AND at least one of the following parameters:\n   * Altered mental status,(e.g., drowsiness, poor quality of cry, poor reaction to parent stimuli, and poor response to social overtures)\n   * Systolic blood pressure \\<2 SD below the normal value for age OR narrow pulse pressure (\\<20 mmHg) OR poor perfusion (capillary refill \\>2 sec)\n   * Hypoxemia (Pulse Oximetry Level \\<95)\n   * White blood cell \\>15,000 u/L or \\<5,000 u/L or immature forms \\>10%.\n5. Informed Consent has been obtained.\n\nExclusion Criteria:\n\n* Admitted to the study site hospital for this current episode for more than 24 hours before enrollment.\n* Hospitalized for this current episode for more than 72 hours at another primary/referring hospital.\n* Prior to this current episode, the subject was admitted to any hospital within the last 30 days.\n* An underlying pre-existing condition is thought to have led to or contributed to this sepsis episode. For example, sepsis is considered to be directly attributable to existing non-infectious conditions such as stroke, cardiovascular diseases, acute myocardial infarction, cancer, burn, injury, and trauma.\n* Prior to enrollment, it is documented by the attending physician that hospital acquired infection is associated with the cause of the sepsis or severe sepsis.\n* The subject has been enrolled into this study or another sepsis study before.",
+  "minimum_age": "30 Days",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Male and female patients, age 30 days on the day of enrollment with community-acquired sepsis or severe sepsis in Southeast Asia. Of the 2,250 enrolled patients, 1,125 will be adults and 1,125 will be children.",
+  "condition": [
+    "Sepsis",
+    "Severe Sepsis"
+  ],
+  "overall_status": "COMPLETED"
+}

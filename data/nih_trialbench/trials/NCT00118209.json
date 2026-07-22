@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT00118209",
+  "title": "Rituximab and Combination Chemotherapy in Treating Patients With Diffuse Large B-Cell Non-Hodgkin's Lymphoma",
+  "brief_summary": "This randomized phase III trial studies rituximab when given together with two different combination chemotherapy regimens to compare how well they work in treating patients with diffuse large B-cell non-Hodgkin's lymphoma. Monoclonal antibodies, such as rituximab, may block cancer growth in different ways by targeting certain cells. Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving rituximab together with combination chemotherapy may kill more cancer cells. It is not yet known which combination chemotherapy regimen is more effective when given with rituximab in treating diffuse large B-cell non-Hodgkin's lymphoma.\n\nPURPOSE: This randomized phase III trial is studying rituximab when given together with two different combination chemotherapy regimens to compare how well they work in treating patients with diffuse large B-cell lymphoma.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "1. Histologically documented de novo CD20+ DLBCL with stage II, III or IV disease.\n\n   * Stage I primary mediastinal (thymic) DLBCL is also eligible.\n   * Patients with an underlying low-grade lymphoma, such as a transformed lymphoma or low-grade lymphoma in the bone marrow, are not eligible.\n   * Diagnosis should be based on an adequate tissue sample, including open biopsy or core needle biopsy.\n   * Needle aspiration for primary diagnosis is unacceptable.\n   * Patients must have one of the following WHO classification subtypes:\n\n     * Diffuse large B-cell lymphoma (includes morphological variants: centroblastic, immunoblastic, T-cell/histiocyte rich, and anaplastic)\n     * Mediastinal (thymic) large B-cell lymphoma\n     * Intravascular large B-cell lymphoma\n   * Note: Failure to submit a pathology block within 60 days of patient registration will be considered a major protocol violation.\n\n     * Fresh (frozen) tumor biopsy must be available or attempted. A frozen tumor biopsy equivalent to a minimum of four at least 16 gauge needle cores is an important component of this study.\n     * Patients without adequate frozen material should have a biopsy performed to obtain material.\n     * If a biopsy is performed and does not yield adequate material, the patient is still eligible for the study. If a biopsy cannot be done safely, the patient may still be eligible for the study if permission is granted.\n   * Note: This study does not allow concurrent radiation unless a patient has a documented CNS treatment failure with no systemic failure.\n2. No prior cytotoxic chemotherapy or rituximab. Patients may be entered if they have received prior limited field radiation therapy or a short course of glucocorticoids (\\< 10 days) for an urgent local disease complication at diagnosis (e.g., cord compression, SVC syndrome). Patients who have received chemotherapy for prior malignancies are not eligible.\n3. Age ≥ 18 years\n4. ECOG Performance Status 0-2\n5. No active ischemic heart disease or congestive heart failure. If there is suspicion of cardiac disease, a cardiac ejection fraction must show LVEF \\> 45%, but the study is not required\n6. No known lymphomatous involvement of the CNS. A lumbar puncture prior to study is not required in the absence of neurological symptoms\n7. No known HIV disease. Patients with a history of intravenous drug abuse or any other behavior associated with an increased risk of HIV infection should be tested for exposure to the HIV virus. Patients who test positive or who are known to be infected are not eligible.\n8. Non pregnant and non-nursing. Treatment would expose an unborn child to significant risks. Women and men of reproductive potential should agree to use an effective form of contraception.\n9. Patients with active medical processes (e.g., uncontrolled bacterial or viral infection, bleeding) not related to their lymphoma should be excluded.\n10. Required Initial Laboratory Values (unless non-Hodgkin lymphoma):\n\n    * ANC ≥ 1000/μL\n    * Platelets ≥ 100,000/μL\n    * Creatinine≤ 1.5 mg/dL or creatinine clearance ≥ 50 cc/min\n    * Total Bilirubin ≤ 2 mg/dL (unless a history of Gilbert's Disease)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Large B Cell Lymphoma"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with previously untreated advanced (stage II-IV) diffuse large B-cell lymphoma who have not received prior cytotoxic chemotherapy or rituximab. All patients are treated in the first-line setting for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility requires no prior cytotoxic chemotherapy or rituximab, and patients must have newly diagnosed, advanced-stage (II-IV) DLBCL. Only treatment-naïve patients for advanced disease are allowed; prior chemotherapy for other malignancies is not permitted."
+    }
+  ]
+}

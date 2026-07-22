@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04371562",
+  "title": "Predicting Death and ICU Admission in COVID-19 Patients in ED",
+  "brief_summary": "INTRODUCTION. The novel coronavirus designated SARS-CoV-2, has determined an international outbreak of respiratory illness named Covid-19. Patients with Covid-19 present primarily with fever, myalgia or fatigue, and dry cough. Based on available data from 5% to 10% among hospitalized patients will require ICU admission.\n\nIn this context of overflow of critically ill patients, it is mandatory to establish clear and objective criteria to assess and predict a Covid-19 patient's need for ICU admission, and potentially predict death occurrence. Early Warning Scores (EWS) are used in hospitalized patients to predict clinical deterioration. Several study demonstrate the utility of EWS in ED to predict patient outcome.\n\nAIM. The objective of this study is to evaluate five EWSs, to predict the need for ICU admission and the mortality in patients admitted in ED with COVID-19.\n\nMETHODS. This is a single-center, retrospective observational study. We will review the clinical records of all the patients consecutively admitted to our ED for Covid-19 over a three-weeks period (March 1 to 21, 2020). We will exclude from study cohort patients aged \\<18 years old and pregnant women, and patients already on oro-tracheal intubation at ED arrival. Based on clinical records five EWS will be calculated: NEWS, NEWS2, qSOFA, MEWS, REMS.\n\nStudy endpoints. The primary study endpoints will be death at 7 days, and need for ICU at 7 days, since ED admission. As secondary endpoints we will evaluate need for ICU and death at 24 and 48 hours since ED admission.\n\nStatistical Analysis Receiver operating characteristic (ROC) curve analysis will be used to evaluate the overall performance of the selected EWSs in predicting the defined adverse outcomes. According to Youden's index we will estimate the optimal cut-off points and corresponding sensitivity and specificity at selected score threshold values. The comparison between the ROC AUCs will be made according to DeLong method.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* COVID 19 confirmed patients.\n\nExclusion Criteria:\n\n* \\<18 years\n* Pregnant women\n* Asymptomatic and normal x-ray findings subjects",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Consecutive COVID-19 patients admitted to ED",
+  "condition": [
+    "COVID"
+  ],
+  "overall_status": "COMPLETED"
+}

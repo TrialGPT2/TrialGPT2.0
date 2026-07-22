@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT00844948",
+  "title": "Vocal Acoustic Biomarkers in Depression",
+  "brief_summary": "This Phase II SBIR study will replicate pilot study methods establishing computer-automated methods for assessing depression severity using interactive voice response system technology and demonstrating feasibility of obtaining measures of depression severity and treatment response through vocal acoustic analysis of speech samples obtained over the telephone. The study will automate vocal acoustic analysis methods, evaluate applicability to other patient populations (non-English speakers, children/young adult, and geriatric), and further develop multivariate acoustic models to enhance biomarker sensitivity to treatment response and prediction of the response likelihood for individual patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age 18 - 80.\n2. Written informed consent.\n3. Current MDD according to the fourth version of the Diagnostic and Statistical Manual for Mental Disorders (DSM-IV)\n4. Recently started to receive or about to start receiving treatment for MDD\n5. Quick Inventory of Depressive Symptomatology - Clinician-Rated (QIDS-C) and QIDS-IVR scores equal or greater than 10 at baseline visit.\n\nExclusion Criteria:\n\n1. Subjects with suicidal ideation where outpatient treatment is determined unsafe by the study clinician. These patients will be immediately referred to appropriate clinical treatment.\n2. History or current diagnosis of the following DSM-IV psychiatric illness: organic mental disorder, schizophrenia, schizoaffective disorder, delusional disorder, psychotic disorders not otherwise specified, bipolar disorder, patients with mood congruent or mood incongruent psychotic features, patients with substance dependence disorders, other than alcohol, active within the last 12 months.\n3. History or current diagnosis of dementia.\n4. Diagnosis or history of hypothyroidism.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "English speaking: Young Adults, age 18-25; Elderly, age 60-80. Chinese speaking (Mandarin or Cantonese): age 18-80.",
+  "condition": [
+    "Depression"
+  ],
+  "overall_status": "COMPLETED"
+}

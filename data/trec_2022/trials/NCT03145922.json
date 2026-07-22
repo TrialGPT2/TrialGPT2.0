@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03145922",
+  "title": "Epigenetic Regulation of Altered T-cell Immunity in Sarcoidosis",
+  "brief_summary": "Sarcoidosis is a multi-system granulomatous disorder that is triggered and influenced by gene-environment interactions. Although sarcoidosis predominantly affects the lungs in most cases, the clinical disease course is highly variable and any organ can be affected leading to end organ damage despite currently available therapeutics that unfortunately also have numerous and potentially devastating side effects. The environmental triggers of sarcoidosis are unknown but several occupational, environmental and infectious agents have been associated with sarcoidosis in susceptible hosts. Exposure to these triggers result in inflammation, characterized by activation of CD4+ T-cells, cytokine production, subsequent recruitment of other immune cells, and granuloma formation. Although several genetic markers have been associated with sarcoidosis, none fully explain individual susceptibility or clinical course variability, strongly implicating the environment and epigenetics. We have the ability to generate a map of the epigenetic histone modifications in immune cells via Chromatin Immuno-Precipitation coupled with next generation sequencing (ChIP-seq) and a map of transcriptome profiles via RNA-seq. The availability of histone and transcriptional signatures defining T cell activity in sarcoidosis will help identify the specific molecular programs affected by disease processes and can become the basis for future discovery of novel biomarker diagnostics in a clinical setting.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Between the ages of 18 and 85\n* Diagnosis of sarcoidosis confirmed by either biopsy or by manifestations consistent with acute sarcoidosis in absence of other known diagnosis.\n* Have a suspected diagnosis of sarcoidosis and is scheduled to undergo a biopsy procedure to confirm a diagnosis of sarcoidosis.\n* Able to tolerate and willing to undergo study procedures\n\nExclusion Criteria:\n\n* Current cigarette smoking or smoking within six months prior to the study\n* Currently or recently (\\<6months) on immunosuppressive therapy\n* Pregnancy\n* Patient inability to participate in the study, such as undergo venipuncture and or BAL",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "People living with Sarcoidosis.",
+  "condition": [
+    "Sarcoidosis",
+    "Sarcoidosis, Pulmonary"
+  ],
+  "overall_status": "RECRUITING"
+}

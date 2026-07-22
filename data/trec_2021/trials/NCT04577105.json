@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04577105",
+  "title": "Risk Factors and Computed Tomography Findings in COVID-19.",
+  "brief_summary": "In the SARS-CoV2 pandemic, imaging studies proved its diagnostic utility to determine the severity of lung involvement. Computed tomography (CT) is a state-of-the-art study proven to be a highly sensitive diagnostic test complemented by RT-PCR testing to determine the disease and the degree of severity.\n\nIn March 2020, the Dutch Society of Radiology developed a standardized assessment scheme for COVID-19 lung disease, called CO-RADS. This system proposes a level of suspicion of pulmonary involvement of COVID-19, based on the simple chest tomography findings. The level of suspicion ranges from very low (CO-RADS 1) to very high (CO-RADS 5), with two additional categories involving a technically deficient study (CO-RADS 0) and a positive RT-PCR test for SARS -CoV-2 known before tomography (CO-RADS 6).\n\nFor its part, acute respiratory damage secondary to SARS-COV2 pneumonia causes acute respiratory distress syndrome, which warrants immediate medical attention. During the evaluation and triage of patients with suspected or confirmed SARS-COV2 infection, it is a challenge for health personnel given that the severity and clinical presentation is highly variable. The patient's risk stratification is carried out using previously established and validated risk scales and is a fundamental tool for making clinical decisions. Some of the risk indices and scales have been developed and used in the pandemic epicenters, such as China and Europe. Useful for the clinician is the national early warning scale (NEWS 2), severe disease risk assessment score (COVID-GRAM), the rapid severity index for COVID-19 (qCSI), evaluation score of Modified sequential organ failure (mSOFA), the sepsis-induced coagulopathy score (SIC), the ROX index as a predictor of success to the high-flow nasal cannula. The evaluation of the risk of thrombotic complications such as the Padua risk, of cardiac complications such as QT segment prolongation, through the Tisdale risk score.\n\nRisk stratification is essential in the current COVID-19 pandemic situation; upon admission, the clinician will discern if the patient requires in-hospital medical treatment, the risk of severe disease, and progression to assisted mechanical ventilation.\n\nThis work aims to establish whether the severity of the findings identified by cardiac tomography upon admission and the risk established by the different established prognostic indices.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients who go to the emergency department meet the criteria for a suspected, probable, or confirmed case of COVID-19 infection.\n* Patients who have undergone a simple chest tomography during their stay in the INC Emergency Department.\n* Patients whose information and data availability can be obtained through the triage's electronic clinical record carried out in the emergency department and coronary unit.\n* Patients with clinical data, laboratory data, oxygen saturation, and inspired oxygen fraction are necessary to evaluate prognostic indices.\n* Test for SARS-CoV2 infection by RT-PCR reported as positive, negative, or not performed, but with suspicion of COVID-19.\n* Patients who have had an arterial blood gas.\n\nExclusion Criteria:\n\n* Patients with incomplete clinical, laboratory, blood gas parameters.\n* Patients in whom saturation and initial FiO2 are not reported.\n* Patients referred to another Hospital during their initial evaluation.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients admitted to the emergency department, coronary unit, or post-surgical therapy unit of the National Institute of Cardiology Ignacio Ch\u00e1vez.",
+  "condition": [
+    "Covid19",
+    "ARDS",
+    "Pneumonia, Viral",
+    "Computed Tomography"
+  ],
+  "overall_status": "COMPLETED"
+}

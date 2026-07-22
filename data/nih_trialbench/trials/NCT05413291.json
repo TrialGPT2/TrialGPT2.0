@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT05413291",
+  "title": "Natural History Protocol for Movement Disorders",
+  "brief_summary": "Background:\n\nA movement disorder is a condition that causes a person s body to move in ways that are not normal. There are different types. Some disorders cause movements people can t control, such as tics or shaking. Some cause reduced or slow movements. Movement disorders can cause disability in people. Sometimes members of the same family will have the same disorder. Researchers want to learn more about how people develop these disorders. This research could lead to better treatments.\n\nObjective:\n\nThis natural history study will collect data on people with different types of movement disorders. It will also collect data on their family members. The data will support further research.\n\nEligibility:\n\nChildren and adults aged 2 years and older who have a movement disorder. Family members of people with movement disorders are also needed.\n\nDesign:\n\nParticipants will undergo screening. They will have a physical exam. Researchers will look at their existing medical images. Any photographs or videos of their movements will also be reviewed.\n\nMost participants will come to the NIH clinic for only 1 visit. They will answer questions about their condition. They will have normal tests used to diagnose their condition. They may have blood tests and different types of imaging scans. They may have tests to see how well their nerves function. The tests used will depend on the type of disorder they have.\n\nFamily members will have some of the same tests as people with disorders.\n\nParticipants will not receive any new treatments.\n\nSome participants may be asked to return for a follow-up visit.\n\nUp to 4000 people may participate.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Male or female, aged 2 and above\n* Either one of these:\n\n  * Have or suspected to have a diagnosis of a movement disorder.\n  * Family member of someone who has or is suspected of having a diagnosis of a movement disorder.\n* Ability of subject or Legally Authorized Representative (LAR) to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets the following criteria will be excluded from participation in this study:\n\n-Being \\< 2 years old.",
+  "minimum_age": "2 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The following population groups may participate: - Subjects with neurological disorders who are 2 years old or older, - Family members who are 2 years old or older of people with a neurological disorder",
+  "condition": [
+    "Movement Disorder",
+    "Tremor",
+    "Parkinson's Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study of movement disorders and does not involve any cancer-directed therapy or lines of systemic treatment. There are no requirements or restrictions regarding prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This observational study enrolls participants with movement disorders and their family members, with no mention of cancer, systemic therapy, or lines of therapy for advanced disease. There are no eligibility criteria related to prior cancer treatment."
+    }
+  ]
+}

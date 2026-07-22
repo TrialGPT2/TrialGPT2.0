@@ -1,0 +1,53 @@
+{
+  "nctid": "NCT05155033",
+  "title": "Phase II Trial of Combination Anti-PD-1 and Aldesleukin for Metastatic Melanoma and Renal Cell Carcinoma",
+  "brief_summary": "Background:\n\nAldesleukin is used to treat metastatic or advanced melanoma and renal cell carcinoma. Pembrolizumab is used to treat many cancers including melanoma. Researchers want to see if these drugs can be used together to produce better results in people with these types of cancer.\n\nObjective:\n\nTo learn if the combination of pembrolizumab and aldesleukin can be used to treat metastatic or advanced melanoma and renal cell cancer.\n\nEligibility:\n\nAdults aged 18 years or older who have metastatic or advanced melanoma or renal cell carcinoma.\n\nDesign:\n\nParticipants will be screened with:\n\n* Medical history\n* Physical exam\n* Electrocardiogram\n* Blood and urine tests\n* Ability to perform tasks of daily living\n* Imaging scans (CT, MRI, PET, and/or X-rays). They may get a contrast agent to enhance the images.\n* Photographs, if needed\n\nSome of these tests will be repeated during the study.\n\nParticipants will receive the study drugs by IV (a plastic tube that is put into a vein) for 4 days. A second cycle of treatment will be given 21 days later. They will stay in the hospital for each of the cycles in the first course of treatment. After 2 months, their cancer will be evaluated. They may receive a second course of pembrolizumab alone on Days 1 and 21. They will not have to stay in the hospital for this course.\n\nAbout 30 days after treatment ends, participants will have a safety follow-up visit. Then they will have visits every 3 months for up to 1 year, and then every 6 months for up to 4 years. Follow-up can also be done by phone, email, and mail. If their cancer gets worse, they will stop having visits.\n\nParticipation will last for 5 years.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Participants must have histologically or cytologically confirmed cancer that falls into one of three cohorts: (1) metastatic melanoma or advanced locoregional melanoma not amenable to curative surgical resection and refractory to anti-PD-1 therapy; (2) metastatic renal cell carcinoma (clear cell histology) refractory to at least one line of PD1/PDL1 based therapy; (3) metastatic or advanced locoregional melanoma not amenable to curative surgical resection and naive to anti-PD-1 therapy.\n* Participants must have measurable disease (per RECIST v1.1 criteria), metastatic melanoma or renal cell cancer.\n* Age \\>=18 years of age.\n* Clinical performance status of ECOG 0 or 1.\n* Willing to practice birth control from the time of enrollment on this study and for four months after treatment.\n* Must have a negative pregnancy test because of the potentially dangerous effects of the treatment on the fetus.\n* Seronegative for HIV antibody. (The experimental treatment being evaluated in this protocol depends on an intact immune system. Participants who are HIV seropositive may have decreased immune-competence and thus be less responsive to the experimental treatment and more susceptible to its toxicities.)\n* Seronegative for hepatitis B antigen and for hepatitis C antibody. If hepatitis C antibody test is positive, then participant must be tested for the presence of antigen by RT-PCR and be HCV RNA negative.\n* Participants must have adequate organ and marrow function as defined below:\n\n  * ANC \\> 1000/mm\\^3 without the support of filgrastim\n  * WBC \\>= 3000/mm\\^3\n  * Platelet count \\>= 100,000/mm\\^3\n  * Hemoglobin \\> 8.0 g/d (Subject may be transfused to reach this cut-off)\n  * Serum ALT/AST \\<= 5.0 x ULN\n  * Serum creatinine \\<= 1.6 mg/dL\n  * Total bilirubin \\<= 2.0 mg/dL, except in participants with Gilbert s Syndrome, who must have a total bilirubin \\< 3.0 mg/dL.\n* More than four weeks must have elapsed since completion of any prior systemic therapy at the time of enrollment.\n\nNote: Participant may have undergone minor surgical procedures or limited field radiotherapy within the four weeks prior to enrollment, as long as related major organ toxicities have recovered to \\<= grade 1.\n\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n* Willing to sign a Durable Power of Attorney Form.\n* Subject must be co-enrolled on protocol 03-C-0277\n\nEXCLUSION CRITERIA:\n\n* Participant is nursing because of the potentially dangerous effects of the treatment on the fetus or infant.\n* Concurrent systemic steroid therapy.\n* Active systemic infections requiring anti-infective treatment, coagulation disorders, or any other active or uncompensated major medical illnesses.\n* Any form of primary immunodeficiency (such as Severe Combined Immunodeficiency Disease and AIDS).\n* History of major organ autoimmune disease.\n* Grade 3 or 4 major organ irAEs following treatment with anti-PD-1/PD-L1 monotherapy, including but not limited to myocarditis, pneumonitis, colitis, and hepatotoxicity.\n* Concurrent opportunistic infections (The experimental treatment being evaluated in this protocol depends on an intact immune system. Participants who have decreased immune-competence may be less responsive to the experimental treatment and more susceptible to its toxicities.)\n* History of severe immediate hypersensitivity reaction to pembrolizumab or aldesleukin.\n* History of coronary revascularization or ischemic symptoms.\n* For select participants with a clinical history prompting cardiac evaluation: last known LVEF \\<= 45%.\n* For select participants with a clinical history prompting pulmonary evaluation: known FEV1 \\<= 50%.\n* Participant is receiving any other investigational agents.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Metastatic Melanoma",
+    "Advanced Locoregional Melanoma",
+    "Metastatic Renal Cell Carcinoma",
+    "Clear Cell Histology"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with metastatic or advanced melanoma or renal cell carcinoma into three cohorts based on prior anti-PD-1/PD-L1 therapy exposure. Cohorts include anti-PD-1 refractory melanoma, anti-PD-1/PD-L1 refractory renal cell carcinoma, and anti-PD-1 naïve melanoma.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Cohort 1: Melanoma, anti-PD-1 refractory",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Patients must have metastatic or advanced melanoma not amenable to curative resection and be refractory to anti-PD-1 therapy, indicating at least one prior line of systemic therapy for advanced disease. Adjuvant-only patients are excluded as prior anti-PD-1 therapy for advanced disease is required."
+    },
+    {
+      "cohort_label": "Cohort 2: Renal cell carcinoma, anti-PD-1/PD-L1 refractory",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Patients must have metastatic renal cell carcinoma (clear cell histology) and be refractory to at least one line of PD-1/PD-L1 based therapy, requiring at least one prior systemic line for advanced disease. Adjuvant-only patients are excluded as prior advanced/metastatic therapy is required."
+    },
+    {
+      "cohort_label": "Cohort 3: Melanoma, anti-PD-1 naïve",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Patients must have metastatic or advanced melanoma not amenable to curative resection and be naïve to anti-PD-1 therapy, indicating no prior systemic therapy for advanced disease. Adjuvant-only patients are excluded as the cohort specifies advanced/metastatic disease and anti-PD-1 naïve status."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03159377",
+  "title": "Ultra-Low Dose CT Denoising for Lung Nodule Detection",
+  "brief_summary": "We will perform an ultra low-dose CT (ULDCT) in addition to a regular chest CT scan for adult patients undergoing a clinically indicated chest CT. Using a recently developed computationally efficient algorithm for the denoising of ULDCT scans after image reconstruction, we will compare the sensitivity, specificity and accuracy of lesion detection with the ULDCT as compared to the regular CT scan.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Any adult patient scheduled for a chest CT, in-patient or outpatient\n\nExclusion Criteria:\n\n* Children",
+  "minimum_age": "18 Years",
+  "maximum_age": "110 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Any adult patient scheduled for a chest CT, in-patient or outpatient, in our institution",
+  "condition": [
+    "Pulmonary Nodule, Multiple"
+  ],
+  "overall_status": "COMPLETED"
+}

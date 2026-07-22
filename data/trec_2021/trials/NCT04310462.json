@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04310462",
+  "title": "Effectiveness of an EHR Interface to Reduce Dosage of Hydroxychloroquine",
+  "brief_summary": "Hydroxychloroquine (HCQ) is a disease-modifying, anti-rheumatic drug that regulates immune system activity and is typically prescribed to treat rheumatoid arthritis and systemic lupus erythematosus, as well as other immune conditions. Although generally well tolerated, study data have demonstrated that long-term use of HCQ may lead to irreversible and potentially vision-threatening retinal toxicity. The American Academy of Ophthalmology (AAO) issued guidelines in 2011, and again in 2016 that recommended dosing of HCQ be based on an individual's body weight, and also outlined how and when to screen for retinal toxicity. While clinicians have been aware of the potential side effects of HCQ for decades, studies have shown that many patients continue to receive higher than recommended doses.\n\nThe goal of this study is to conduct a pragmatic trial to assess the utility of a new e-prescribing (eRX) interface for prescriptions of hydroxychloroquine (HCQ). The investigators will measure the effectiveness of the system in reducing the number of individuals prescribed HCQ over current guidelines by randomizing clinicians to the new interface. Ideally, the eRX interface will result in a lower number of potential adverse events (i.e. retinal toxicity) associated with high-dose, long-term use of HCQ.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* All providers that prescribed hydroxychloroquine in the year previous to the intervention start date in rheumatology and dermatology clinics\n\nExclusion Criteria:\n\n* Inactive providers in rheumatology and dermatology clinics",
+  "minimum_age": "",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Rheumatic Diseases"
+  ],
+  "overall_status": "TERMINATED"
+}

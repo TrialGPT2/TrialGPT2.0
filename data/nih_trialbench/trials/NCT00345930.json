@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00345930",
+  "title": "DILIN - Prospective Study",
+  "brief_summary": "The purpose of this study is to identify individuals who have suffered a liver injury arising as an idiosyncratic reaction to a prescription drug or a complementary and alternative medicine. Recently added acute cases enrollment that meets criteria to the protocol. Also added Fibroscans to the protocol that will be completed at baseline and follow-up on chronic subjects.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\> 2 years at enrollment into the study.\n* Evidence of liver injury that is known or suspected to be related to consumption of a drug or CAM product in the 6-month period prior to enrollment.\n* Written Informed consent from the patient or the patient's legal guardian.\n* Documented clinically important DILI, defined as any of the following:\n\n  1. ALT or AST \\>5 x ULN or A P'ase \\>2 x ULN confirmed on at least 2 consecutive blood draws in patients with previously normal values.\n  2. If baseline (BL) ALT, AST or A P'ase are known to be elevated, then ALT or AST \\>5 x BL or A P'ase \\>2 x BL on at least 2 consecutive blood draws. \"Baseline\" is defined as the average of at least 2 measurements performed during the 12-month period prior to starting the DILI medication.\n  3. Any elevation of ALT, A P'ase, or AST, associated with (a) increased total bilirubin \\[ ≥ 2.5 mg/dL\\], in absence of prior diagnosis of liver disease, Gilbert's syndrome, or evidence of hemolysis or (b) coagulopathy with INR \\> 1.5 in absence of coumadin therapy or known vitamin K deficiency.\n\nExclusion Criteria:\n\nPatients with any of the following will not be eligible for participation:\n\n* Competing cause of acute liver injury such as hepatic ischemia that is felt by the investigator to be the primary reason for observed liver injury and supported by laboratory tests, serologies, liver biopsy, or radiology.\n* Known, pre-existing autoimmune hepatitis, primary biliary cirrhosis, primary sclerosing cholangitis, or other chronic biliary tract disease which may confound the ability to make a diagnosis of DILI.\n* Acetaminophen hepatotoxicity.\n* Liver/bone marrow transplant prior to the development of drug- or CAM-induced liver injury.",
+  "minimum_age": "2 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who have suffered a drug induced liver injury and meet inclusion and exclusion criteria",
+  "condition": [
+    "Liver Diseases"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling patients with drug- or CAM-induced liver injury, regardless of cancer history or prior systemic therapy. There are no requirements or restrictions related to lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention cancer, advanced disease, or prior systemic therapy. Enrollment is based solely on liver injury due to drugs or CAM products, so line-of-therapy intent is not defined or applicable."
+    }
+  ]
+}

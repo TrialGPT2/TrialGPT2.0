@@ -1,0 +1,41 @@
+{
+  "nctid": "NCT00397111",
+  "title": "Development of Magnetic Resonance Imaging Techniques for Studying Mood and Anxiety Disorders",
+  "brief_summary": "This study is intended to help develop new MRI imaging techniques for studying mood and anxiety disorders. Researchers believe that depression and anxiety disorders may cause structural and functional changes in the brain. This study will optimize the way MRI scans are collected to look at brain structure and examine how the brain behaves while subjects perform particular tasks. Healthy volunteers and individuals with major depressive disorder may be eligible for this study.\n\nParticipants undergo magnetic resonance imaging (MRI) and neuropsychological testing. : Individuals will be asked to participate in an MRI study on one of several scanners. The scanner used will measure blood flow in the brain, concentrations of certain chemicals in the brain, or magnetic properties of the brain. The scan may involve They watching a screen presenting images or doing a task in which they respond to pictures or sounds. Participants may be asked to return for additional scans.\n\nThe study also involves neuropsychological tests, which assess cognitive performance. Often, people with mood disorders have subtle changes in performance on these tests that allow researchers to pinpoint where brain abnormalities occur. Before the tests can be used in patients, they must be validated by using healthy subjects. These tests are presented either orally, in written form, or on a computer.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nHealthy Controls\n\n* Male and female subjects between 18 and 65 years of age\n* Subjects must be able to give written informed consent prior to participation in this study.\n* Subjects who do not currently meet and have never met criteria for any major psychiatric disorder, and who have no known first degree relatives with mood disorders.\n* For cognitive experiments utilizing language stimuli only native English speakers will be enrolled.\n\nMajor Depressive Disorder\n\n* Male and female subjects between 18 and 65 years of age.\n* Subjects have been found eligible for other ETPB research protocols according to 01-M-0254.\n* Subjects must fulfill DSM-IV or V criteria for Major Depression based on clinical assessment and confirmed by a structured diagnostic interview (SCID-P).\n* Subjects must be able to give written informed consent prior to participation in this study.\n* For cognitive experiments utilizing language stimuli, only native English speakers will be enrolled.\n\nEXCLUSION CRITERIA:\n\nHealthy Control\n\n* Subjects with major medical or neurological disorders expected to influence cerebral blood flow or morphology, or taking any medication that is likely to influence the imaging parameters-of-interest within 3 weeks of scanning.\n* Women who are pregnant are excluded from the study. Subjects will undergo pregnancy testing no more than 24 hours prior to MRI scanning.\n* Subjects with contraindication to MRI scanning such as aneurysm clips, implanted neural stimulator, implanted cardiac pacemaker or auto-defibrillator, cochlear implant, or ocular foreign body.\n* A history of drug or alcohol abuse within 1 year or a lifetime history of drug or alcohol dependence (DSM-IV) or alcohol use disorder (DSM-V equivalent).\n\nMajor Depressive Disorder\n\n* Presence of Axis 1 psychiatric diagnosis other than Major Depression or an Axis 2 disorder\n* Subjects with major medical or neurological disorders expected to influence cognitive function or are taking any drugs likely to affect mood or cognitive function within 1 week of study participation. Depressed subjects will not be tapered/withdrawn from medications under this study.\n* A history of drug or alcohol abuse within 1 year or a lifetime history of drug or alcohol dependence (DSM-IV) or alcohol use disorder (DSM-V equivalent).\n* Subjects with major medical or neurological disorders expected to influence cerebral blood flow or morphology.\n* Women who are pregnant or breastfeeding will be excluded from MRI portions of the study. Subjects will undergo pregnancy testing no more than 24 hours prior to MRI scanning.\n* Subjects with contraindication to MRI scanning such as aneurysm clips, implanted neural stimulator, implanted cardiac pacemaker or auto-defibrillator, cochlear implant, or ocular foreign body.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult healthy volunteers and individuals with major depressive disorder will be recruited from the general population.",
+  "condition": [
+    "Mood Disorders",
+    "Anxiety Disorders"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an imaging study enrolling healthy controls and individuals with major depressive disorder to develop MRI techniques. There is no cancer diagnosis or systemic therapy for advanced disease involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Healthy Controls",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort consists of healthy volunteers with no psychiatric disorders. There is no mention of cancer or systemic therapy, so line-of-therapy intent is not applicable."
+    },
+    {
+      "cohort_label": "Major Depressive Disorder",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes subjects with major depressive disorder. There is no mention of cancer or systemic therapy for advanced disease, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

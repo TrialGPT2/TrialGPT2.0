@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT00023023",
+  "title": "Study of Transfusion-Transmitted Infections",
+  "brief_summary": "This study will follow blood transfusion recipients for 6 to 9 months following transfusion to monitor the quality and safety of blood transfusion. Improved viral testing and careful donor screening in the last several years has dramatically reduced the rates of transfusion-related HIV and hepatitis. Nevertheless, ongoing surveillance of transfusion-related infections is essential to maintain a high safety standard and to determine the transfusion risk of other infectious agents, such as cytomegalovirus, Epstein-Barr virus, parvovirus B-19, HHV-8 (Kaposi s sarcoma virus) and other possible hepatitis viruses that might be blood-transmitted. Transfused patients blood will be tested for various infectious agents. Their blood samples and blood samples from their donors will be frozen and stored in a repository so that any new infectious agent can be rapidly evaluated for its danger to the safety of the blood supply.\n\nAdult patients at the National Institutes of Health and children at the Children s National Medical Center who are scheduled to receive a blood transfusion or to undergo surgery for which a blood transfusion may be needed are eligible for this study.\n\nAll participants will have a 20- to 25-milliliter (about 2 tablespoonfuls) blood sample drawn before their transfusion and again at 1, 2, 4, 12 and 24 weeks after the transfusion. Patients who are transfused on more than one occasion over the course of the study will provide three additional monthly samples. Patients who develop a transfusion-transmitted infection during the study will provide up to four more samples to study the infection and its effects. Participants will complete a brief questionnaire at the end of the study regarding prior blood transfusions and the development of any illnesses, such as hepatitis, that might have been caused by the transfusion.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA\n\nAll adult (greater than or equal to 18 years) patients who are transfused at NIH will be eligible if:\n\n1. they have not been transfused in the 6 weeks preceding the index transfusion;\n2. they are expected to remain in the continental USA for at least six months post the index transfusion; and\n3. if they are consented and a pre-sample is obtained\n4. if they receive a transfusion during their NIH stay",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Under an established collaborative agreement and IRB authorization agreement between NIH and Suburban Hospital/Johns Hopkins Health System (JHHS), TRIPS will enroll patients undergoing open heart surgery at SH.",
+  "condition": [
+    "Viral Disease",
+    "Blood Donation",
+    "Transfusion-Transmitted Infections"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study of patients receiving blood transfusions, regardless of cancer status or prior systemic therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based solely on receiving a blood transfusion, with no mention of cancer, advanced disease, or prior systemic therapy. There are no criteria related to lines of therapy for advanced disease."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nctid": "NCT06032923",
+  "title": "Double-blind Placebo Controlled Study to Evaluate the Effect of NAD+ Boosting With Nicotinamide Riboside on Immunometabolism and Immunity in Systemic Lupus Erythematosus",
+  "brief_summary": "Study Description:\n\nSystemic lupus erythematosus (SLE) occurs predominantly in women and is driven by type I interferon dysregulation and neutrophil hyperresponsiveness. Neutrophils in females have reduced mitochondrial bioenergetic capacity which affects immunometabolism. Nicotinamide adenine dinucleotide (NAD)+ boosting with nicotinamide riboside blunts type 1 IFN activation in-vivo in monocytes of healthy subjects and ex-vivo in SLE subjects. These findings support the proposal of the hypothesis that NAD+ boosting by NR supplementation will modulate metabolic pathways in lupus and blunt type 1 interferon signaling. Moreover, as type 1 interferon drives endothelial dysfunction, linked to increased cardiovascular risk, the effect of NR on endothelial function will be examined.\n\nObjectives:\n\nPrimary Objective: Evaluate the effect of NR vs. placebo on immunometabolic and inflammatory remodeling in female SLE subjects:\n\nExploratory Objective: Compare and characterize myeloid cell bioenergetic and immunometabolic profiles in healthy control and SLE female subjects\n\nEndpoints:\n\nPrimary Endpoint:\n\nThe primary end point will be to assess the effect of NR on blunting type I IFN signaling by measuring monocytic secretion of IFN-beta secretion compared to baseline in response to placebo vs. NR supplemented in SLE study subjects.\n\nExploratory Endpoints:\n\nHealthy control vs. SLE subjects:\n\n* Compare type I IFN transcript profiles in monocytes and neutrophils at baseline and in response to activation.\n* Assess cell bioenergetics including: 1) monocyte and neutrophil metabolic flux mass spectroscopy of 13C-glucose and 13Cglutamine analysis to investigate their metabolic fates; (iii) Mitochondrial oxygen consumption (using glucose, amino acid, and fatty acid substrates) and glycolysis rates.\n\nSLE baseline vs. NR/placebo supplementation:\n\nBaseline vs. 6 weeks of NR/placebo:\n\n-Assess effect of NR on bioenergetics by measuring steady-state metabolite levels comparing changes in placebo vs. NR groups in monocytes and neutrophils.\n\nBaseline vs. 12 weeks of NR/placebo:\n\n* Whole blood NAD+ levels (batched and measured at the end of study enrollment period)\n* Explore effects of NR on gene regulation using monocyte and neutrophils by RNA-seq and chromatin remodeling analysis.\n* Determine the effect of NR vs placebo on endothelial dysfunction in SLE subjects",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\nSLE subjects:\n\n* Female subjects 18 years or older who meets \\> 3 of 11 modified Am. Coll. of Rheumatology (ACR) (1997) Revised Criteria for SLE and mild/moderate disease activity defined as an SLE Disease Activity Index 2000(SLEDAI 2K) between zero and less than or equal to 14 at screening;\n* If on glucocorticoids, the dose must be less than or equal to 20 mg daily and stable for at least 4 weeks prior to screening;\n* If on hydroxychloroquine or other antimalarials such as chloroquine or quinacrine, dose must have been stable for the 12 weeks prior to screening. The max. allowed doses - hydroxychloroquine 400 mg/day, chloroquine phosphate 500 mg/day and quinacrine 100 mg/day;\n* If on immunosuppressive drugs (methotrexate, azathioprine, mycophenolate mofetil, cyclosporine, tacrolimus); dose must have been stable for the 12 weeks prior to screening\n* Subjects of childbearing potential must agree to practice effective birth control for the duration of the study;\n* Stated willingness to comply with all study procedures and availability for the duration of the study;\n* Agreement to adhere to Lifestyle Considerations throughout study duration;\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n* If on vitamin B3 or tryptophan supplementation at screening, willing to stop it at least 6 weeks before the baseline visit.\n\nControl subjects:\n\n* Female subjects 18 years or older\n* No history of autoimmune or inflammatory disease\n* If on vitamin B3 or tryptophan supplementation at screening, willing to stop it at least 6 weeks before the blood draw visit.\n\nEXCLUSION CRITERIA:\n\nSLE Subjects:\n\n* Active renal or central nervous system disease or major renal or hepatic dysfunction;\n* Treatment with rituximab, belimumab or any other biologic agent within the 6 months prior to screening\n* Treatment with cyclophosphamide or IVIG within the 6 months prior to screening and or increase in glucocorticoid dose within 4 weeks of screening;\n* Pregnancy or lactation (nursing)\n* Treatment with another investigational drug or other intervention within 6 months of screening\n\nControl Subjects:\n\n* Inability to sign consent\n* Pregnancy or nursing\n\nPregnant women are excluded from participation on this study. Self-reported pregnancy status may be accepted from female control participants of child-bearing potential for a blood draw which is considered a minimal risk procedure.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Systemic Lupus Erythematosus (Sle)"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls female subjects with systemic lupus erythematosus (SLE) and healthy controls to evaluate the effect of nicotinamide riboside on immunometabolism and immunity. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, as SLE is not a malignancy and the protocol does not reference lines of therapy in the oncology sense.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "SLE subjects",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference prior lines of systemic therapy for advanced disease, as this is a non-oncology (SLE) trial. Patients may be on stable immunosuppressive or antimalarial therapy, but there are no requirements or restrictions regarding prior lines of therapy in the context of advanced disease."
+    },
+    {
+      "cohort_label": "Control subjects",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Healthy control subjects with no history of autoimmune or inflammatory disease are enrolled. Prior lines of therapy for advanced disease are not applicable."
+    }
+  ]
+}

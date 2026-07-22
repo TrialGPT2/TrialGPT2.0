@@ -1,0 +1,50 @@
+{
+  "nctid": "NCT03307304",
+  "title": "Investigations of Juvenile Neuronal Ceroid Lipofuscinosis",
+  "brief_summary": "Background:\n\nCLN3, or Batten disease, is a genetic disorder. This deadly disease leads to decline of brain and nervous system functions. Symptoms of CLN3 typically occur between 4 and 7 years of age. They include changes in how a person sees, thinks, and moves. CLN3 can also cause seizures. No effective treatments for the disease are yet known. There is limited testing of potential therapies. Researchers want to study CLN3 more so they can improve future therapies.\n\nObjective:\n\nTo identify clinical or biochemical markers that can be used as therapeutic outcome measures for CLN3.\n\nEligibility:\n\nPeople with CLN3. It must be based on\n\nTwo CLN3 mutations OR\n\nOne CLN3 mutation AND findings seen with a powerful microscope\n\nFamily members of a person with CLN3.\n\nDesign:\n\nParticipants will have already been referred to NIH for CLN3 evaluation.\n\nIf participants agree to do the study, they will:\n\n1. give spinal fluid, blood, urine, and skin samples. They may provide other samples if they were already collected. These may include cells, surgical specimens, and DNA.\n2. will be seen by multiple healthcare specialists.\n\nParticipants may provide medical records or photos. Participants will sign a release of medical records form.P\n\nResearchers may send samples or clinical data to other investigators. For research testing, the samples will not include the participant s name. For a test in a clinical lab, researchers will include the participant s name. These results will become part of the clinical record at NIH.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nFor the Main and Sub-Studies, participants \\> 1 week of age, of all genders, demographics, geographic locations, and disease severity will be recruited in order to obtain cross-sectional representation of CLN3-related conditions (Main and Sub-Studies) or all NCLs (Sub-Study B). Participants in the Main study will be followed at approximately yearly intervals to obtain longitudinal data. Participants in Sub-Study A may elect to send in medical records and samples only, or to come to the NIH for evaluations as outlined in Section 4. We anticipate that\n\nparticipants in Sub-Study B will be seen mostly at NCL/CLN3-related family conferences.\n\nMain Study:\n\nIndividuals \\> 1 week of age with a diagnosis of CLN3 or a CLN3-related/other NCL-type condition. Diagnosis determined by one of the following:\n\n1. Two CLN3 or NCL condition-appropriate genetic mutations\n2. One CLN3 mutation AND\n\ni) clinical presentation suggestive of CLN3, OR\n\nii) characteristic electron microscopy (EM) findings (such as curvilinear body, fingerprint profile, granular osmiophilic deposits).\n\nSub-Study A:\n\nIndividuals \\> 1 week of age with a diagnosis of CLN3 or CLN3-related/other NCL-type condition. Diagnosis determined by one of the following:\n\n1. Two CLN3 or condition-appropriate genetic mutations\n2. One CLN3 mutation AND\n\ni) clinical presentation suggestive of CLN3, OR\n\nii) characteristic electron microscopy (EM) findings (such as curvilinear body, fingerprint profile, granular osmiophilic deposits).\n\nOR\n\nIndividuals \\> 1 month of age who have family member(s) diagnosed with CLN3 or CLN3-related/other NCL-type condition.\n\nSub-Study B:\n\nIndividuals \\> 1 week of age with a clinical diagnosis of CLN3 or NCL.\n\nOR\n\nIndividuals \\> 1 month of age who have family member(s) diagnosed with CLN3 or NCL.\n\nEXCLUSION CRITERIA:\n\nMain Study:\n\n1. Individuals who cannot travel to the NIH because of their medical condition.\n2. Individuals who, in the opinion of the Investigator, are unable to comply with the protocol or have medical conditions that would potentially increase the risk of participation.\n3. Females who are pregnant.\n\nSub-Studies A and B:\n\n1. Unaffected individuals \\> 18 years of age who have cognitive impairments.\n2. Individuals who, in the opinion of the Investigator, are unable to comply with the protocol or have medical conditions that would potentially increase the risk of participation.",
+  "minimum_age": "1 Week",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals with CLN3-Batten and family members who are interested in the study and have consented to enroll.",
+  "condition": [
+    "Juvenile Neuronal Ceroid Lipofuscinosis (CLN3)",
+    "Batten Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling individuals with CLN3 (Batten disease) or related conditions, as well as family members, to collect clinical and biological samples. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Main Study",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based solely on genetic or clinical diagnosis of CLN3 or related NCL conditions, with no mention of prior systemic therapy for advanced disease. There are no requirements or exclusions based on prior lines of therapy."
+    },
+    {
+      "cohort_label": "Sub-Study A",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on diagnosis of CLN3 or related NCL conditions, or being a family member of an affected individual. There is no mention of prior systemic therapy for advanced disease."
+    },
+    {
+      "cohort_label": "Sub-Study B",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on clinical diagnosis of CLN3 or NCL, or being a family member of an affected individual. Prior systemic therapy for advanced disease is not addressed."
+    }
+  ]
+}

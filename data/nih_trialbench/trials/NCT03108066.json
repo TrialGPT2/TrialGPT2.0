@@ -1,0 +1,44 @@
+{
+  "nctid": "NCT03108066",
+  "title": "MK-3795 (PT2385) for the Treatment of Von Hippel-Lindau Disease-Associated Clear Cell Renal Cell Carcinoma (MK-3795-003)",
+  "brief_summary": "The primary objective of this study is to assess the overall response rate (ORR) of von Hippel-Lindau (VHL) disease-associated clear cell renal cell carcinoma (ccRCC) tumors in VHL participants treated with MK-3795.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Has at least 1 measurable ccRCC tumor and no solid ccRCC tumor greater than 3.0 cm, based on radiologic diagnosis (histologic diagnosis not required); may have VHL disease-associated lesions in other organ systems\n* Has a diagnosis of von Hippel Lindau disease, based on a germline VHL alteration\n\nExclusion Criteria:\n\n* Has had prior radiotherapy or systemic anti cancer therapy for ccRCC (includes anti-vascular endothelial growth factor (VEGF) therapy or any systemic investigational anti cancer agent)\n* Has a prior or concomitant non-VHL disease-associated invasive malignancy with the exception of adequately treated basal or squamous cell carcinoma of the skin, cervical carcinoma in situ or any other malignancy from which the participant has remained disease free for more than 2 years\n* Has any history of metastatic disease\n* Has had radiotherapy to any non-ccRCC site within 4 weeks prior to entering the study or has not recovered from adverse events (AE)\n* Has had any surgical procedure for VHL disease or any major surgical procedure completed within 4 weeks prior to entering the study or has any surgical lesions from recent major surgical procedures that are not well healed",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "VHL Gene Mutation",
+    "VHL",
+    "VHL Syndrome",
+    "VHL Gene Inactivation",
+    "Von Hippel",
+    "Von Hippel-Lindau Disease",
+    "Von Hippel's Disease",
+    "Von Hippel-Lindau Syndrome, Modifiers of",
+    "Clear Cell Renal Cell Carcinoma",
+    "Clear Cell RCC",
+    "ccRCC"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with VHL disease-associated ccRCC who have not received any prior systemic therapy or radiotherapy for ccRCC and have no history of metastatic disease. All participants are treatment-naïve for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Patients must not have had any prior radiotherapy or systemic anti-cancer therapy for ccRCC, and must have no history of metastatic disease. Only treatment-naïve patients for advanced disease are eligible."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00001895",
+  "title": "Electromechanical Mapping to Evaluate Heart Muscle",
+  "brief_summary": "Patients with narrowed heart arteries who undergo coronary angiography (imaging of the heart's blood vessels) may participate in this \"heart mapping\" study designed to gain information about the condition of different areas of the heart muscle.\n\nIn coronary angiography, a thin tube called a catheter is inserted through a small incision in the groin and pushed up to the heart. There, a contrast dye is injected, revealing areas of blockage in the coronary arteries-the vessels that supply blood to the heart muscle. As soon as the angiography is completed, patients in this study will undergo another procedure called \"Biosense mapping.\" For this procedure, a special catheter with a tiny sensor at the tip will be inserted into the sheath that was used for the angiography and advanced to the heart's main pumping chamber-the left ventricle. The sensor detects the pattern of an electromagnetic field generated from a pad under the patient, and an image of the precise location of the catheter in 3-dimensional space can be seen on a computer screen. The catheter is then navigated to various precise locations in the ventricle, producing an electromechanical map that distinguishes scarred muscle tissue from healthy tissue-information that can be important in guiding treatment.\n\nWhen this mapping is completed, the patient will be given a drug called dobutamine to increase the heartbeat, and the mapping will be repeated. The heart may also be mapped while the heart rate is increased with a pacing catheter to simulate exercise. The test will be stopped if adverse side effects develop.\n\nPatients in the study will also have magnetic resonance imaging (MRI) and PET (positron emission tomography) scans to get additional information about the heart muscle, such as blood flow and metabolism rate.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Male or female patients greater than or equal to 21 years undergoing diagnostic cardiac catheterization.\n\nMust not have unstable angina.\n\nNo significant unprotected left main disease (greater than 50% stenosis).\n\nNo recent myocardial infarction (less than 4 weeks).\n\nFemales must not be pregnant or lactating.\n\nNo chronic atrial fibrillation.\n\nNo prosthetic heart valves.\n\nNo significant aortic valve pathology (sclerosis or stenosis) which might prevent retrograde crossing of catheter across the aortic valve.\n\nNo left ventricular thrombus seen on echo.\n\nNo severe heart failure (NYHA Class 4).\n\nNo severe ectopy (greater than 1 every 10 beats) or ventricular tachycardia.\n\nNo active infections (fever and elevated white cell count).\n\nPatients will not be considered for this protocol because of contraindications to MRI scan, as stated below:\n\nPacemaker\n\nImplanted defibrillator\n\nCerebral aneurysm clips\n\nSwan Ganz catheter with electrodes for a thermistor\n\nCochlear implants\n\nInsulin pumps\n\nNeural stimulator",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Myocardial Ischemia"
+  ],
+  "overall_status": "COMPLETED"
+}

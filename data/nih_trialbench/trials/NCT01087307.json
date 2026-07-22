@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT01087307",
+  "title": "Sample Collection Registry for Quality Control of Biological and Environmental Specimens and Assay Development and Testing",
+  "brief_summary": "Background:\n\n\\- Researchers are interested in developing a registry protocol to obtain biologic and environmental samples anonymously from adult volunteers for use in laboratory tests and studies. The samples will be used to determine if new tests are sufficiently valid and precise to be used in research studies and for quality control purposes.\n\nObjectives:\n\n\\- To provide a registry of samples for test development, validation, analysis, and quality control at the National Institute of Environmental Health Sciences.\n\nEligibility:\n\n\\- Male and nonpregnant female volunteers at least 18 years of age.\n\nDesign:\n\n* Samples to be collected will include blood, urine, saliva, household dust, cheek cells, hair, nasal cells, stool, nail clippings, exhaled breath condensate, or sperm.\n* Specimens may be collected during a one-time sample collection, or participants may be asked to provide specimens on several occasions over a specified period, not to exceed 1 year.\n* Eligible participants will be asked to come to the clinical research unit to have their blood drawn and any noninvasive samples retrieved. Prior to blood draw, researchers will administer a brief past 24-hour questionnaire for research purposes. Specimens will be collected using standard clinical protocols.\n* Participants will receive monetary compensation for providing samples for this protocol.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* ELIGIBILITY CRITERIA:\n\nAll participants must be non-pregnant and 18 years of age or older. No children, cognitively impaired persons, or prisoners will be enrolled.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy Volunteers",
+  "condition": [
+    "Exposure"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic sample collection registry enrolling healthy adult volunteers for biospecimen collection. There are no requirements or restrictions regarding prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention cancer diagnosis or prior systemic therapy. All adults (18+) who are not pregnant are eligible, regardless of treatment history. This protocol is not disease- or therapy-specific."
+    }
+  ]
+}

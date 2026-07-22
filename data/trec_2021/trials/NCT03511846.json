@@ -1,0 +1,29 @@
+{
+  "nctid": "NCT03511846",
+  "title": "Pain Biomarker Study",
+  "brief_summary": "This study investigates molecular and physical biomarkers of headaches in order to better understand mechanisms of these diseases.\n\nThere are 3 main parts:\n\n1. Use of capsaicin (active ingredient in hot chili peppers) to trigger release of calcitonin gene related peptide - the hypothesis is that this will be different in headache subjects compared to controls (and if so might be used to predict how these patients will respond to certain medications that modulate calcitonin gene-related peptide). Subjects will be given capsaicin as a cream applied to the forehead or the inner nostril, or a hot sauce that is ingested.\n2. Use of capsaicin to trigger eye watering - the hypothesis is that oxygen gas will slow down the amount of eye watering. Cluster headache patients respond very powerfully to oxygen gas but to very little else. The mechanism for oxygen is unknown but in rodents there is data that it works on the parasympathetic / lacrimal gland system. This study translates rodent data into humans in a non-invasive way to confirm the mechanism of this very effective treatment.\n3. Use of ice water to trigger headaches - brain freeze causes a very short-lived but intense headache that may cause similar biomarker release as other headache disorders. This may be a useful human model for other headache disorders.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosis of one of the following: a. Diagnosis of a primary headache disorder according to the International Headache Classification, including migraine with aura, migraine without aura, chronic migraine, tension headache, cluster headache, paroxysmal hemicrania, short-lasting unilateral neuralgiform headache attacks with conjunctival injection and tearing (SUNCT), short-lasting unilateral neuralgiform headache attacks with cranial autonomic symptoms (SUNA), and hemicrania continua; b. Diagnosed by a pain medicine physician with lumbar radiculopathy (possibly including neuropathic features, nerve impingement on MRI, or electromyography (EMG) report suggestive of lumbar radiculopathy); or c. Healthy control subject with no history of debilitating headaches or debilitating back pain / radiculopathy pain, and no headaches or back pain within the previous 3 months.\n* Able to provide HIPAA authorization to share prior medical records/imaging\n* Age 18 and older\n\nExclusion Criteria:\n\n* The following items exclude the subject from all portions of the study: a. Known history of cardiovascular or neurovascular diseases. These diseases may include carotid stenosis of \\>50%, vertebral stenosis, peripheral vascular disease, angina or myocardial infarction, stroke, or vascular malformations; b. History of brain tumors or epilepsy; c. Active pregnancy or lactation; d. Daily cigarette, tobacco or nicotine use; e. Life expectancy less than 1 year, co-existing disease or other characteristic that precludes appropriate diagnosis of headache or spine pain; f. Active drug / alcohol use or dependence that, in the opinion of the investigator, would interfere with adherence to study requirements; or g. Inability or unwillingness of subject to give informed consent (e.g., ward of the state)\n* The following items exclude the subject only from the capsaicin portion of the study: a. Known allergy to capsaicin or hot peppers\n* The following items exclude the subject only from the oxygen portion of the study: a. Pulmonary or other non-headache diseases that require the use of supplemental oxygen\n* The following items exclude the subject only from the cold water irrigation (ice water) portion of the study: a. Trauma, fractures, or congenital abnormalities of the soft palate",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Migraine",
+    "Cluster Headache",
+    "Trigeminal Autonomic Cephalgia",
+    "Hemicrania Continua",
+    "Paroxysmal Hemicrania",
+    "SUNCT",
+    "Short-Lasting Unilateral Neuralgiform Headache with Conjunctival Injection and Tearing"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION"
+}

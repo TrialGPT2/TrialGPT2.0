@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT00345345",
+  "title": "Alemtuzumab (Campath) to Treat T-Large Granular Lymphocyte Leukemia",
+  "brief_summary": "This study will examine the use of alemtuzumab (Campath) in patients with T cell large granular lymphocytic leukemia (T-LGL). Patients with T-LGL often have reduced white blood cells, red blood cells and platelets, and increased numbers of abnormal cells called large granular lymphocytes (LGLs). Patients may have recurrent infections, anemia, or abnormal bleeding. Campath destroys specific parts of the abnormal LGLs, which interfere with the production of normal blood cells. This study will determine whether Campath can increase blood counts and reduce the number of abnormal LGLs in patients and will examine the side effects of the drug.\n\nPatients 18 to 85 years of age with T-LGL leukemia may be eligible for this study. Participants undergo the following procedures:\n\nBefore starting Campath treatment\n\n* Medical history and physical examination, blood tests, electrocardiogram (ECG).\n* Echocardiogram (heart ultrasound) and 24-hour Holter monitoring (continuous ECG recording).\n* Bone marrow biopsy: About a tablespoon of bone marrow is withdrawn through a needle inserted into the hipbone. The procedure is done using local anesthetic.\n* Placement of central line, if needed: An intravenous line (tube) is placed into a major vein in the chest. It can stay in the body and be used for the entire treatment period. The line is used to give chemotherapy or other medications, including antibiotics and blood transfusions, and to collect blood samples. The line is usually placed under local anesthesia in the radiology department or the operating room.\n* Apheresis: A catheter (plastic tube) is placed in a vein in each arm. Blood is drawn from one vein and run through a cell-separating machine, where the white blood cells are collected and saved. The remaining blood is transfused back to the patients through the vein in the other arm.\n\nDuring Campath treatment\n\n* Campath therapy: After a small test dose, patients receive10 daily infusions of Campath, each of which lasts about 2 hours. The first few infusions are given at the NIH Clinical Center so that the patient can be monitored closely.\n* Induction therapy: Aerosolized pentamadine, valacyclovir and other medicines are given to protect against or treat various infections that commonly affect patients with suppressed immune systems.\n* Whole blood or platelet transfusions, if needed, and injections of growth factors, if needed.\n* Blood tests and check of vital signs (temperature, pulse, blood pressure) every day during treatment. Echocardiogram and 24-hour Holter monitor after the last dose of Campath.\n\nFollow-up evaluations after Campath treatment ends\n\n* Blood tests at home or at NIH (weekly for the first 3 months, then every other week until 6 months, then annually for 5 years\n* Echocardiogram at NIH (at 3 months only)\n* Bone marrow biopsy at NIH (at 6 and 12 months, then as clinically indicated)\n* One repeat apheresis collection for laboratory studies.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nClinical history supportive of the diagnosis of T-LGL leukemia (i.e. a history of cytopenias with peripheral blood morphologic evidence of LGLs)\n\nImmunophenotypic studies of peripheral blood showing an increased population of T-LGLs (suggested by staining with CD3+, CD8+ and CD16+ or CD57+) or gammadelta T cells\n\nRestricted or clonal rearrangement of the T-cell receptor by PCR AND one or more of the following:\n\nSevere neutropenia (less than 500 neutrophils/microliter); OR\n\nSevere thrombocytopenia (less than 20,000 platelets/microliter), or moderate thrombocytopenia (less than 50,000 platelets/microliter) with active bleeding; OR\n\nSymptomatic anemia with a hemoglobin less than 9 g/dL or red blood cell transfusion requirement of greater than 2 units/month for two months prior to initiation of Campath\n\nAges 18-85 (both inclusive)\n\nEXCLUSION CRITERIA:\n\nA reactive LGL lymphocytosis to a viral infection\n\nSerologic evidence of HIV infection\n\nInfection not adequately responding to appropriate therapy\n\nPrevious immunosuppressive therapy with alemtuzumab\n\nHistory of carcinoma that is not considered cured (excluding non-melanoma skin carcinoma)\n\nMoribund status or concurrent hepatic, renal, cardiac, neurologic, pulmonary, infectious, or metabolic disease of such severity that it would preclude the subject's ability to tolerate protocol therapy or that death within 7-10 days is likely\n\nCurrent pregnancy or unwilling to take oral contraceptives or refrain from pregnancy if of childbearing potential\n\nNot able to understand the investigational nature of the study or give informed consent.",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "T-LGL Lymphoproliferative Disorders"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with T-LGL leukemia regardless of prior lines of systemic therapy for advanced disease, except those previously treated with alemtuzumab. There are no explicit requirements or limits on prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility criteria do not specify any minimum or maximum number of prior systemic therapies for advanced disease; only prior alemtuzumab is excluded. Patients who are treatment-naïve or have received any number of prior therapies (other than alemtuzumab) are eligible, including those who have only received supportive care or adjuvant therapy."
+    }
+  ]
+}

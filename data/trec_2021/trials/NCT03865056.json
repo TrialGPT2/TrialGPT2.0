@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03865056",
+  "title": "Therapy With High-flow Oxygen by Nasal Cannula vs Noninvasive Ventilation in Patients With Acute Hypoxemic Respiratory Failure: a Crossover Physiologic Study",
+  "brief_summary": "Background and rationale: A large multicenter randomized controlled trial demonstrated that in patients with hypoxemic non-hypercapnic respiratory failure treatment with nasal high flow oxygen (NHF) resulted in a reduction of the endotracheal intubation rate (38%) compared with noninvasive ventilation (NIV) delivered by facemask (50%) or with conventional oxygen therapy (47%), although the difference was not statistically significant. These results could be potentially explained by the physiological benefits provided by the NHF. However, one of the surprising findings of this study was that patients randomized to the facemask NIV group had a similar or even poorer outcome than oxygen alone. Interestingly, an observational study showed that in patients receiving facemask NIV for acute hypoxemia delivered tidal volumes were higher than expected (8.1-11.1 ml/kg predicted body weight), suggesting that NIV could potentially cause ventilator-induced lung injury resulting in worsening respiratory failure.\n\nWe, therefore, plan a crossover physiologic study investigating the hypothesis that compared with NIV the treatment with NHF of patients with acute hypoxemic non-hypercapnic respiratory failure results in a more homogeneous distribution of tidal volume, and hence less ventilator-induced lung injury, as measured by electrical impedance tomography (EIT).\n\nMethods: This physiologic study will enroll 20 patients from the ICU at Toronto General Hospital in one year. Adult patients with acute hypoxemic non cardiogenic respiratory failure and PaO2:FiO2 \u2264 300 mmHg, respiratory rate \\> 25 breaths/minute, PaCO2 \u2264 45 mmHg and absence of clinical history of underlying chronic respiratory failure will be eligible. Patients that received invasive mechanical ventilation for \\> 48 hours in the same hospital admission, requiring immediate intubation, with hemodynamic instability (systolic arterial pressure \\< 90 mmHg after optimal fluid therapy), with Glasgow Coma Scale \\< 12, or contraindications to noninvasive ventilation and tracheostomy, will be excluded. After baseline assessment while receiving oxygen through facemask or nasal prongs, patients will receive in randomly assigned order NHF for 20 minutes and NIV for 20 minutes, in a crossover manner. EIT recordings, diaphragm ultrasound, and collection of blood samples for arterial blood gases will be performed at the end of each phase.\n\nData analysis: The primary endpoint is the comparison of the EIT intra-tidal ventilation index between treatment with NHF and NIV. As secondary endpoints, we will determine whether NHF, in comparison to NIV, provides respiratory support with lower global inhomogeneity index (EIT), lower tidal volumes, reduces respiratory muscle effort (respiratory rate and diaphragmatic ultrasound), and improves gas exchange (oxygen saturation, PaO2:FiO2, PaCO2, RR).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Hypoxemia defined by a ratio of the partial pressure of arterial oxygen to the fraction of inspired oxygen (PaO2:FiO2) \u2264 300 while the patient is breathing oxygen through NHF for at least 15 minutes;\n2. Respiratory rate \\> 25 breaths/minute;\n3. Partial pressure of arterial carbon dioxide (PaCO2) \u2264 45 mmHg;\n4. Absence of clinical history of underlying chronic respiratory failure.\n\nExclusion Criteria:\n\n1. Lack of consent;\n2. Age \\< 18 years;\n3. Invasive mechanical ventilation for \\> 48 hours in the same hospital admission\n4. Immediate need for intubation;\n5. Previous inclusion in the present study;\n6. Systolic arterial pressure \\< 90 mmHg after optimal fluid therapy;\n7. Cardiogenic pulmonary edema;\n8. Glasgow Coma Scale \\< 12;\n9. Imminent death;\n10. Contraindications to noninvasive ventilation;\n11. Tracheostomy.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hypoxemia"
+  ],
+  "overall_status": "UNKNOWN"
+}

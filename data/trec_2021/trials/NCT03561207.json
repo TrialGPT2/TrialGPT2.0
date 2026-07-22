@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03561207",
+  "title": "3D Prediction of Patient-Specific Response",
+  "brief_summary": "This is a prospective, non-randomized, observational registry study evaluating a patient-specific ex vivo 3D (EV3D) assay for drug response using a patient's own biopsy or resected tumor tissue for assessing tissue response to therapy in patients with advanced cancers, including ovarian cancer, high-grade gliomas, and high-grade rare tumors.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 18 years and older\n* Diagnosis of or suspected diagnosis of EOC, HGG, high-grade RT\n* Individual must undergo elective surgery or biopsy to remove tumor tissue\n* Consideration as a candidate for systemic therapy with cytotoxic chemotherapy, targeted small molecule inhibitors or immunotherapy\n* Eastern Cooperative Oncology Group (ECOG) Performance Status \u2264 3\n* Written informed consent in accordance with institutional standards must be obtained from the patient or legal guardian\n\nExclusion Criteria:\n\n* Inability or refusal of the patient or legal guardian to sign a written informed consent\n* Failure to have surgery or a biopsy as part of routine clinical practice\n* Refusal to have the Assay performed on their tissue\n* Known active cancer metastatic to the brain except for patients with brain metastases that have been treated and are considered stable.\n* Inability or unwillingness to receive chemotherapy treatment beyond surgery\n* Any coincidental medical condition that, in the Investigator's opinion, would preclude participation in the study or compromise the patient's ability to give informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with suspected, newly diagnosed or relapsed diagnosis of advanced cancer (ovarian, brain, or other rare tumors) undergoing surgery or biopsy to remove tumor tissue will be enrolled and their tissue collected and tested with the EV3D Assay across drugs that are most often used to treat the specified cancer types, including standard of care therapies or as recommended by NCCN guidelines.",
+  "condition": [
+    "Advanced Cancer",
+    "Ovarian Cancer",
+    "Glioblastoma Multiforme",
+    "Anaplastic Astrocytoma"
+  ],
+  "overall_status": "UNKNOWN"
+}

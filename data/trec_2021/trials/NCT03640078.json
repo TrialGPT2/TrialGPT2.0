@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03640078",
+  "title": "Automated Reading of Anti-neutrophil Cytoplasmic Autoantibodies, Indispensable Markers of Vasculitis",
+  "brief_summary": "Neutrophil cytoplasmic autoantibodies (ANCA) are essential serum markers in the diagnosis of vasculitis. Indirect immunofluorescence with microscope reading by two readers is the reference technique for their detection. In the AP-HM immunology laboratory we are looking for ANCAs in more than 7000 sera per year. The reading of the slides is time-consuming, dependent operator, and lacks standardization. In order to optimize these parameters, we propose the automation of ANCA reading by using a robotic platform developed in our laboratory and called ICARE (Immunofluorescence for Computed Antibodies Rational Evaluation). This microscopic imaging platform with automated reading is currently used in daily routine for the detection of anti-nuclear autoantibodies.\n\nThe objective of the project is to establish an algorithm allowing i) to automatically and reproducibly discriminate the positive ANCAs from the negative ANCAs and ii) to propose to the biologist a fluorescence aspect. The investigators will then validate this algorithm on 2000 consecutive routine samples sent to the laboratory for ANCA research.\n\nThe usual care will not be changed, only a phase of acquisition of the images will be added to the analysis.\n\nThe investigators expect to use this algorithm \"ICARE / ANCA\" in daily hospital routine and thus optimize the results with a real economic impact is 50% less reading time.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n* Vasculitis patients having signed a consent\n\nExclusion Criteria:\n\n* patients refusing to sign a consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Vascular Diseases"
+  ],
+  "overall_status": "UNKNOWN"
+}

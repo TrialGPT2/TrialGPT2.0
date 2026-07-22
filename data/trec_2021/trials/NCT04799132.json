@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04799132",
+  "title": "Association Between Body Mass Index and HFNC Therapy Success",
+  "brief_summary": "Patients over 18 years of age who are admitted to the Intermediate Care Unit of the Clinica del Country and the Clinica la Colina, with symptoms suggestive of severe pneumonia secondary to COVID-19 infection and acute hypoxemic respiratory failure. The primary outcome will be to determine the relationship between body mass index and high-flow cannula therapy success defined as: No need for mechanical ventilation.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Patients over 18 years of age.\n2. Diagnosis of severe pneumonia secondary to COVID-19 infection and acute respiratory distress syndrome, defined by upper and lower respiratory symptoms plus positive C-reactive protein test for COVID-19.\n3. Patient admission to the Clinical del Country and Clinica de la Colina intermediate care units.\n4. Oxygen therapy by high-flow system (high-flow cannula) requirement.\n5. Anthropometric data availability upon admission to our facilities.\n\nExclusion Criteria:\n\n1. Patients with a survival expectancy of less than 12 months according to the Charlson scale categorization or patients with oncological pathology.\n2. Patients under 18 years of age.\n3. Pregnant women.\n4. Patients with cardiogenic pulmonary edema.\n5. History of chronic liver disease or cirrhosis Child - Pugh C.\n6. Patients with contraindications to high-flow cannula therapy initiation.\n7. Patients with respiratory, hemodynamic and neurological indications that contraindicate HFNC initiation.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients over 18 years of age who are admitted to the Intermediate Care Unit of the Clinica del Country and the Clinica la Colina, with symptoms suggestive of severe pneumonia secondary to COVID-19 infection and acute hypoxemic respiratory failure.",
+  "condition": [
+    "Covid19",
+    "Obesity",
+    "Overweight",
+    "Pneumonia, Viral"
+  ],
+  "overall_status": "COMPLETED"
+}

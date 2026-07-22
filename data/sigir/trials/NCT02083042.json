@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02083042",
+  "title": "Clinical Validation of Lophius Biosciences Kit T-Track\u00ae CMV in Kidney Transplant Recipients",
+  "brief_summary": "This study aims to validate whether Lophius Biosciences Kit T-Track\u00ae CMV is suitable to assess the functionality of CMV-specific cell-mediated immunity (CMI) and to determine a protective cut-off value for CMV reactivations/disease in kidney transplant recipients.\n\nLophius kit T-Track\u00ae CMV represents a highly standardized and sensitive diagnostic tool to assess the functionality of a network of clinically relevant CMV-reactive effector cells. It is based on the stimulation of peripheral blood mononuclear cells (PBMC) with urea-formulated immunodominant CMV proteins, pp65 and IE-1, and the subsequent quantification of CMV-specific CMI (spot forming colonies) using a highly sensitive IFN-\u03b3 ELISpot.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient receiving a kidney graft\n* Recipient being CMV-seropositive prior transplantation and receiving a graft from either a CMV-seropositive or from a seronegative donor (intermediate risk groups, D+/R+; D-/R+,)\n* Patient scheduled to follow the preemptive antiviral strategy with oral valganciclovir or intravenous ganciclovir after transplantation\n* Patient receiving the standard triple immunosuppressive regimen (CNI, MMF/MPA or mTOR inhibitors, steroids), with or without induction therapy (except ATG) as start therapy after transplantation\n* Male or female patient at least 18 years of age\n* Written informed consent\n\nExclusion Criteria:\n\n* Patient is scheduled for the optional visit 1, but requires ongoing treatment with a systemic immunosuppressive drug already prior to kidney transplantation (except induction therapy other than ATG)\n* Patient receiving ATG as induction therapy\n* Patient is known to be positive for HIV or suffering from chronic hepatitis infections\n* Patient has significant uncontrolled concomitant infections or other unstable medical conditions before transplantation that could interfere with the study objectives\n* Patient is unable to comply with the visit schedule in the protocol\n* Patient has any form of substance abuse, psychiatric disorder or condition that, in the opinion of the investigator may invalidate communication with the investigator",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Kidney transplant recipients of intermediate risk groups for CMV serostatus (D+/R+; D-/R+), and scheduled for the preemptive antiviral strategy",
+  "condition": [
+    "Cytomegalovirus",
+    "Kidney Transplantation",
+    "CMV Specific Immune Response"
+  ],
+  "overall_status": "COMPLETED"
+}

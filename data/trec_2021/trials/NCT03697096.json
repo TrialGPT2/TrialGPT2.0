@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03697096",
+  "title": "The INSPIRE-ASP UTI Trial",
+  "brief_summary": "The INSPIRE-ASP UTI trial is a cluster-randomized controlled trial of HCA hospitals comparing routine empiric antibiotic stewardship practices with real-time precision medicine computerized physician order entry smart prompts providing the probability that a non-critically ill adult admitted with UTI is infected with a resistant pathogen.\n\nNote: that enrolled \"subjects\" represents 59 individual HCA hospitals that have been randomized.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Facility Inclusion Criteria:\n\n* HCA hospitals admitting adults for UTI\n* Facility use of MEDITECH as their electronic health record system\n\nFacility Exclusion Criteria:\n\n\\-\n\nNote: unit of randomization is the hospital, however the CPOE alert intervention will calculate risk estimates for adults age \\>=18 admitted to non-ICU wards and who are ordered to receive extended-spectrum antibiotics for UTI. Prisoners were excluded from prompts and analysis.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Urinary Tract Infection (UTI)"
+  ],
+  "overall_status": "COMPLETED"
+}

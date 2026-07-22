@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01061957",
+  "title": "Raltegravir Treatment in Patients Failing Highly Active Antiretroviral Therapy (HAART) in Denmark",
+  "brief_summary": "Raltegravir is the first integrase inhibitor approved for treatment of HIV infected patients harboring multiresistant viruses. The drug has been proved effective in both trials and clinical settings, but the long-term efficacy is not described and the effect compared to treatment in Highly active antiretroviral therapy (HAART) naive patients remains to be established.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Raltegravir cohort patients: From the Danish HIV Cohort Study (DHCS) we included all HIV-1 positive patients, who\n\n  1. started raltegravir after 1 January 2006 and before 1 July 2009,\n  2. had been treated with HAART previously\n  3. had at least two VL tests done prior to initiation of raltegravir treatment,\n  4. had virological failure prior to start of raltegravir and\n  5. did not participate in randomized clinical trials on raltegravir. Virological failure was defined as VL \\> 500 copies/ml in the two latest VL tests prior to raltegravir initiation while on HAART treatment.\n* Control cohort patients: From DHCS we identified a control cohort of HIV infected patients who started HAART for the first time after 1 January 2006 and before 1 July 2009. From this population we extracted two control patients for each raltegravir patient, each matched by gender, race (Caucasian, Black and other), route of HIV infection (homosexual, heterosexual, injection drug user (IDU) and other) and age (intervals of \\< 20 years, 20 to 30 years, 30 to 40 years, \\> 50 years).",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "One cohort of HIV patients with virological failure initiating Raltegravir One control cohort of HIV patients initiating HAART for the first time.",
+  "condition": [
+    "HIV Infections"
+  ],
+  "overall_status": "COMPLETED"
+}

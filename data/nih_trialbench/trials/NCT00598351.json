@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00598351",
+  "title": "Natural History Study of Patients With Neurofibromatosis Type 2",
+  "brief_summary": "Objective\n\nWith this prospective natural experiment trial on neurofibromatosis type 2 (NF2) study, we hope to understand the factors leading to tumor progression and neurological disease burden in NF2.\n\nStudy Population\n\nA total of 269 participants, ages 8-75, with a clinical or genetic diagnosis of NF2 will participate in this study.\n\nDesign\n\nStudy participants will be evaluated with a thorough physical and neurologic examination upon enrollment. This initial outpatient evaluation will include magnetic resonance imaging with contrast of brain and spine and blood collection for research use. Participants with measurable hearing will have audiology assessment performed. Participants with untreated vestibular schwannomas will have vestibular assessment performed during the initial visit. Genetic studies performed outside will be acceptable as confirmation of NF2 in enrolled patients. If needed to confirm NF2 with genetic studies, or for research purpose, whole genome/whole exome sequencing may be performed on blood obtained from subjects enrolled in this study. All participants will be evaluated by a speech language pathologist.\n\nSubjects will be followed as outpatients for up to ten years, during which clinical, and radiologic evaluation will be performed annually. Auditory testing will be performed annually for participants with measurable hearing. Participants with initially untreated vestibular schwannomas will be followed annually with vestibular testing. Speech and swallowing reassessments will be repeated if worsening of speech or swallowing is reported. Blood will be collected at each visit for blood biomarker testing\n\nOutcome measures\n\nWe hope to understand the biologic basis for speech and swallowing dysfunction in patients with NF2. We will study and report the strength of association of MRI findings, clinical assessments cranial nerve deficits and speech/swallowing dysfunction. We hope to\n\nidentify imaging biomarkers of hearing loss in NF2. We will attempt to discover the mode of peripheral neuropathy in patients with NF2. Lastly, we will attempt to discover previously unknown serum biomarkers associated with high tumor burden in NF2.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible for entry into the study, candidates must meet all the following criteria:\n\n* Have the diagnosis of NF2 by established clinical criteria or genetic testing.\n* Be between the age of 8 and 75.\n* Have the capacity to undergo serial MRI scanning of the CNS without IV sedation.\n* Able to give informed consent, or have a parent able to provide informed consent if a child.\n\nEXCLUSION CRITERIA:\n\nCandidates will be excluded if they:\n\n* Have a clinically unstable condition that precludes serial clinical and imaging evaluation (i.e. Class 3 congestive heart failure, severe chronic renal insufficiency, severe chronic obstructive pulmonary disease).\n* Cannot have an MRI scan due to an allergy or relative contraindication to MRI contrast agents, prior surgery or implant that involves metal clips or wires, which might be expected to cause tissue damage or produce image artifacts such as pacemakers, stimulators, pumps, aneurysm clips, metallic prostheses, and artificial heart valves.\n* ABIs or cochlear implants are not approved by the NIH Radiology department for safe use on NIH scanners..\n* Have severe chronic renal insufficiency (glomerular filtration rate less than 30 mL/min/1.73 m2), hepatorenal syndrome or post-liver transplantation.\n* Are pregnant at time of intake visit (women of childbearing age will be tested with a urine pregnancy test).",
+  "minimum_age": "8 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "subjects with a diagnosis of NF2 by established clinical criteria or genetic testing",
+  "condition": [
+    "Neurofibromatosis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study of patients with neurofibromatosis type 2 (NF2) and does not require or restrict prior systemic therapy for advanced disease. All patients with a clinical or genetic diagnosis of NF2 are eligible regardless of treatment history.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention any requirements or restrictions regarding prior systemic therapy for advanced or metastatic disease. Patients are enrolled based solely on a diagnosis of NF2, regardless of prior treatment history."
+    }
+  ]
+}

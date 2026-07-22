@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03035487",
+  "title": "Urology of Virginia Case Series",
+  "brief_summary": "The investigational protocol describes a small case series designed to compare three imaging modalities for use in visualizing prostate cancer.\n\nThe three modalities to be tested are: transrectal micro-ultrasound , and conventional resolution transrectal ultrasound (LR-TRUS) (both as implemented on ExactVu, the multi-frequency novel micro-ultrasound system under investigation), and multi-parametric MRI (mpMRI).\n\nThese modalities will be used for guiding systematic (standard, random, extended sextant) plus image-guided targeted prostate biopsies among men with known cancer and an indication for prostate biopsy.\n\nIn the case of mpMRI, biopsy will be performed under micro-ultrasound guidance with the radiology report used for targeting.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DEVICE_FEASIBILITY",
+  "raw_criteria": "Inclusion Criteria:\n\n1. All men \u2265 40 years age and \\<80 years of age with a history of prostate cancer and an indication for a prostate biopsy will be offered inclusion in the study. Typical indications for biopsy include abnormal PSA (prostate specific antigen) and/or abnormal DRE (digital rectal exam) and/or history of prostate cancer.\n2. PSA\\<50\n3. Clinical stage \\< cT2c\n\nExclusion Criteria:\n\nPatients will be excluded from being included in the investigation if any of the following is true:\n\n1. Men undergoing TRUS-guided prostate biopsy in the OR under anesthesia\n2. Men with known prostate volume (from prior imaging) of \\> 60cc\n3. Men with anorectal abnormalities preventing TRUS-guided prostate biopsy\n4. Men who are unable to provide their own informed consent\n5. Men who have contraindications to MRI or gadolinium chelate contrast",
+  "minimum_age": "40 Years",
+  "maximum_age": "79 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Prostate Cancer",
+    "Cancer of the PROSTATE",
+    "Prostatic Neoplasm"
+  ],
+  "overall_status": "COMPLETED"
+}

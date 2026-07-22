@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT02358330",
+  "title": "Project 1: Evaluating EHR-Based Health System Modifications for the Chronic Care of Smoking",
+  "brief_summary": "Smoking is the leading preventable cause of cancer mortality in the US. Despite its profound health and economic costs, smoking treatment is infrequently provided in healthcare settings, and when provided, it is not sufficiently effective. To address this, this project will develop and evaluate more efficient electronic health record (EHR) methods to identify smokers and engage them in evidence-based treatment.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* The clinics participating in the MBD experiment will be selected based on the following criteria:\n\n  1. Size: clinics will be fairly large, including at least 4-6 clinicians, to ensure adequate recruitment for clinical trials connected with thye EHR recruitment.\n  2. Location: clinics will be concentrated in Southcentral and Southeastern Wisconsin so that case managers from UW-CTRI Madison and Milwaukee research sites can provide services at multiple clinics.\n  3. Diversity: clinics from each of the two health systems will include both urban and rural locations, and at least one high- and one low-SES clinic (based on rates of Medicaid and uninsured patients).\n  4. Independence: clinics will not share staff or be physically adjacent to one another to combat bleeding of interventions across clinics (see 87 for the independence requirement for MBD).\n  5. All clinics will routinely collect the data that will serve as dependent variables in the MBD design (this will be universal among the three health system clinics).\n\nExclusion Criteria:\n\n* Any clinic not meeting the above inclusion criteria",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "This is a multiple baseline design with the unit of analysis as the clinic. 20-28 clinics will be recruited.",
+  "condition": [
+    "Smoking",
+    "Nicotine Dependence",
+    "Electronic Health Records",
+    "Translational Research"
+  ],
+  "overall_status": "COMPLETED"
+}

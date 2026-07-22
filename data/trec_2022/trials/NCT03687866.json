@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03687866",
+  "title": "Non-invasive Screening of Fetal Trisomy 21 by Digital PCR",
+  "brief_summary": "In France, as in many countries of the world, trisomy 21 or Down syndrome (DS) is the subject of an antenatal screening based on a risk calculation (R) including the assay of biochemical markers in the maternal blood, and the measurement of a fetal ultrasound parameter (nuchal translucency). In the population of pregnant women said to be at high risk (R\\> 1/250), confirmation of the diagnosis of DS is made by invasive sampling (trophoblast biopsy or amniocentesis), which allows the establishment of fetal karyotype. In addition to limited sensitivity (80 to 85% depending on the techniques), this screening is an anxiety factor (8% false positives), and miscarriages of euploid fetuses (normal karyotype) in 1% of cases (procedures invasive).\n\nThe plasma of a pregnant woman contains a mixture of free DNA of maternal (90%) and fetal origin (cffDNA for cell free fetal DNA) (about 10%, but this proportion increases in cases of fetal trisomy 21. The proportion of cffDNA is sufficient to qualitatively and quantitatively study specific genetic markers of a pair of chromosomes. It is therefore possible to evaluate the quantity of markers chromosome of interest relative to a reference chromosome marker, and to calculate a marker / marker ratio of interest, theoretically identical for all autosomes (chromosomes 1 to 22) during euploid pregnancy. In case of fetal aneuploidy (for example, trisomy 21), this ratio is unbalanced for the chromosomal pair involved.\n\nAdvances in technology, such as high-throughput mass sequencing (MPS) and digital PCR (dPCR), now make it possible to consider the diagnosis of fetal maternal DS through the study of cffDNA. Several teams have already published on this subject with the MPS technique, applied directly to free DNA from maternal plasma, or after a cffDNA isolation step. This involves sequencing the DNA fragments present in the sample and placing them back on their original chromosome. In case of trisomy 21 fetal, one seeks to put in evidence of an excess of sequences from chromosome 21. These techniques require expensive equipment (sequencer, bioinformatic platform, servers) and a technical time and important analysis (often several days for a single run). Concerning the research of aneuploidies by digital PCR (dPCR), few publications are today due to the absence of sufficiently powerful instruments until recently. DPCR is less expensive.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Women with high risk of fetal trisomy 21 with maternal screening test, who benefited of invasive sampling\n\nExclusion Criteria:\n\n* women with twin pregnancies\n* pregnancies with other chromosomal abnormalities",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Women with high risk of fetal trisomy 21 with maternal screening test, who benefited of invasive sampling (chorionic villi or amniotic fluid) and karyotype",
+  "condition": [
+    "Trisomy 21"
+  ],
+  "overall_status": "TERMINATED"
+}

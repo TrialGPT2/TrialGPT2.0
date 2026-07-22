@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03753724",
+  "title": "IDEAL: Artificial Intelligence and Big Data for Early Lung Cancer Diagnosis Study",
+  "brief_summary": "This study aims to test the use of novel CT image analysis techniques to enable a better characterisation of small pulmonary nodules. The study will incorporate solid and predominantly solid nodules of 5-15 mm scanned using a variety of scanner types, imaging protocols and patient populations. The investigators hope that the new image processing techniques will improve the accuracy of lung nodule analysis which will in turn reduce the number of unnecessary investigations for benign nodules and may increase the accuracy of the early diagnosis of lung cancer in malignant nodules. This study aims to test this novel analysis software to subsequently allow validation.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Male or Female, aged 18 years or above\n* CT scans identified as having pulmonary nodule(s) of 5-15mm\n* Patients with solid or predominantly solid nodules referred to the pulmonary nodule clinic or for CT scan review by a specialist\n* CT scan section thickness of 3mm and less\n\nExclusion Criteria:\n\n* The CT scans are technically inadequate\n* Having received treatment for cancer in the last 5 years\n* Patient has more than five reported qualifying nodules",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients aged 18 years old or older with CT scans reported as having pulmonary nodule(s) of 5-15mm who meet the inclusion criteria and who can be placed into groups 1, 2 or 3.",
+  "condition": [
+    "Pulmonary Nodule, Solitary",
+    "Pulmonary Nodule, Multiple",
+    "Lung Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

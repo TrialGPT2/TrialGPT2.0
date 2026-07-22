@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04344925",
+  "title": "Non Invasive Positive Pressure Ventilation to Minimize Aerosolization for COVID 19",
+  "brief_summary": "Patients presenting to the emergency department, or needing hospitalization, for a variety of medical conditions often require non-invasive ventilation (breathing support). For example, for a person with shortness of breath as a complication of COPD (Chronic obstructive pulmonary disease) the gold standard of care requires application of a BiPAP machine. However, in the current environment of COVID-19, the aerosols produced by this machine in a COVID-19 positive patient pose serious potential harms to healthcare providers and other patients. All patients with similar symptoms to COVID-19 need to be treated as positive until definite testing determines otherwise. The best test available for COVID-19 takes up to 4 hours to determine the patients status, which is too long to delay application of a BiPAP. This could lead to either a delay in care or the need for invasive breathing measures (intubation), which requires intense resource utilization, may not be in line with a patient's goals of care, and could cause serious harms (i.e. infection, medication reactions, etc.) in patients who do not need it. The use of a closed-loop BiPAP machine in which no expired air is released into the environment would solve these problems. Building off the failures of a similar approach that was trialed in Italy in response to the COVID-19 crisis, this project will develop and test a novel closed-loop BiPAP system.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient with respiratory failure due to primary pulmonary pathology.\n* Patient who is selected for BiPAP or CPAP by the health care provider\n\nExclusion Criteria:\n\n* Age \\<18 years.\n* Respiratory failure due to non-pulmonary pathology.\n* Impaired consciousness (Glasgow coma scale \\<10).\n* Patients with contraindications of NIV.\n* Severe upper gastrointestinal bleeding.\n* Chest trauma.\n* Agitated or violent patient.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult patients presenting to the emergency department with respiratory distress requiring non-invasive ventilation.",
+  "condition": [
+    "COVID-19"
+  ],
+  "overall_status": "TERMINATED"
+}

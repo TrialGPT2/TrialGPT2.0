@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02889068",
+  "title": "Targeted Next Generation Sequencing and Intellectual Disability",
+  "brief_summary": "The purpose is to determine the benefit of next generation sequencing (NGS) targeted on genes involved in intellectual disability for etiologic diagnosis of intellectual disabilities. In other words, it concerns the number of patients whose etiologic diagnosis will be established with NGS and could not with common techniques. Actually, the molecular etiology of intellectual disability is crucial to calculate the risk of recurrence and allows the perinatal diagnosis to these families.\n\nSecondary purposes are:\n\n1. To determine the place of NGS in the strategy of etiologic diagnosis of intellectual disability, to determine the order of analyses performed for a patient with intellectual disability without clinical signs.\n2. To evaluate the number of variants with unknown significance and thus non-usable for genetic counselling without supplementary analysis.\n3. To determine the number of samples that can be at most pooled keeping a good efficacy of capture and results with suitable read depth\n4. To determine the possibility of detecting copy number variations (CNVs) in genes of interest with NGS\n5. To establish genotype/phenotype correlations for each gene for which a mutation has been identified\n6. To optimize the software pipelining for a rapid analysis for diagnosis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Moderate or severe intellectual disability\n* Availability of patient and parent DNA\n* No etiologic diagnosis with standard approaches: negative fragile X, normal pangenomic 180K and 1M array-CGH\n* Informed consent of person having parental authority\n\nExclusion Criteria:\n\n* Non availability of parent DNA\n* Patient lost to follow-up",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with severe to moderate intellectual disability, with syndrome or not.",
+  "condition": [
+    "Intellectual Disability"
+  ],
+  "overall_status": "COMPLETED"
+}

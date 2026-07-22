@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT04344470",
+  "title": "Study of Volition: Behavioral Analysis and Clinical Neurophysiological Analysis",
+  "brief_summary": "Background:\n\n'Free will' can be defined as the belief that people have control over their thoughts and movements. The topic of free will is controversial and is still being debated. Science has only partial answers to questions about free will, so researchers want to learn more about it. They want to assess the role of consciousness when intentions are present with behavior. This could help to explain the causal role of consciousness in movement or decisions.\n\nObjective:\n\nTo learn more about free will.\n\nEligibility:\n\nHealthy, right-handed adults ages 25-45\n\nDesign:\n\nParticipants will be screened with medical history, physical exam, and neurological exam.\n\nParticipants will have 1 study visit. It will last up to 4 hours.\n\nParticipants will sit in a comfortable chair in front of a screen. They will perform some or all of the following tasks.\n\nVisual Task. Participants will watch different stimuli on the screen and answer simple questions.\n\nElectroencephalography (EEG). An EEG records the electrical activity of the brain ('brain waves'). For the EEG, small electrodes are put on the scalp with an electrode cap. A gel is placed in the space between the electrodes and the scalp. Participants' brain waves will be recorded, including while they decide whether to move their thumb.\n\nChoice/Reaction Time Task. Participants will watch different stimuli on the screen and react to them by moving their wrist. During this task, they will wear an EEG cap on their head and electrodes on their arms and wrists.\n\nElectromyography. Small electrodes will be attached to participants' skin. Their muscle activity will be recorded while they decide whether to move their wrist and during the movement itself.\n\nTranscranial Magnetic Stimulation (TMS): TMS is a non-invasive brain stimulation that uses magnetic field to stimulate nerve cells in your brain. TMS can increase or decrease brain activity in particular area of your brain. TMS operates completely outside of the body and is generally very well tolerated....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Age between 25-45 years\n* Right-handed (tested by the Edinburg handedness inventory).\n* Able to give informed consent.\n* Able to comply with all study procedures.\n* Fluent in English.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Illegal drug use within the past 6 months based on history alone. The intent is to exclude those with drug use that may affect study results.\n* Self-reported consumption of \\>14 alcoholic drinks/week for a man and \\>7 alcoholic drinks/week for a woman.\n* Abnormal findings on neurological examination.\n* History of current brain tumor, stroke, head trauma with loss of consciousness, epilepsy, or seizures.\n* Current episode of major depression or any major psychiatric illness.",
+  "minimum_age": "25 Years",
+  "maximum_age": "45 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Normal Physiology"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a behavioral and neurophysiological study enrolling healthy adults with no cancer diagnosis or treatment history. There is no line-of-therapy intent as this is not an oncology trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls healthy volunteers without cancer or prior systemic therapy. There is no mention of cancer treatment or lines of therapy, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

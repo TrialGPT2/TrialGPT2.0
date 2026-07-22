@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03345654",
+  "title": "Individually-guided Hearing Aid Fitting",
+  "brief_summary": "This translational project aims to optimize the fitting of hearing aids by development and clinical validation of a toolset that guides signal processing choice based on the individual auditory and cognitive abilities of the patient.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* sensorineural hearing loss with pure-tone thresholds 70 dB HL or better at octave frequencies between 250 and 4000 Hz, 4 (.5, 1, 2, 3 kHz)\n* frequency pure-tone average (PTA) of \u2265 30 dB HL.\n* Listeners will have symmetrical losses, defined here as a 4-frequency PTA difference between ears \u2264 20 dB HL.\n\nExclusion Criteria:\n\n* recent (within last 12 months) hearing aid use\n* conductive loss (air-bone gaps \\> 10 dB at any frequency and/or abnormal immittance) -\n* scoring \\< 23 on the Montreal Cognitive Assessment\n* Hearing loss exceeding the limits that can be successfully aided with hearing aids (i.e., profound hearing loss)\n* Hearing loss remediated with a cochlear implant (cannot wear hearing aids)\n* Significant history of otologic or neurologic disorders\n* Non English speaking participants\n* Any clinically significant unstable or progressive medical condition\n* Any condition which, in the opinion of the investigator, places the participant at unacceptable risk if he or she were to participate in the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Population will be recruited from the Northwestern University Center for Audiology, Speech, Learning, and Language. They will be adults (18+) who are new hearing aid users with no recent prior hearing aid experience. Any patient at the clinic who purchases a new pair of hearing aids and meets the study criteria will be provided information about the study.",
+  "condition": [
+    "Hearing Loss"
+  ],
+  "overall_status": "COMPLETED"
+}

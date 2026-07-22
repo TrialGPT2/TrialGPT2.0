@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT06303180",
+  "title": "NIDCD Otolaryngology Clinical Protocol Biospecimen Bank",
+  "brief_summary": "Background:\n\nMany disorders of the head and neck can affect a person s hearing; balance; smell; taste; swallowing; voice; or speech. These disorders include cancers and genetic and inflammatory diseases. To find better ways to diagnose and treat these disorders, researchers need to study tissues and other biological samples from people who have them.\n\nObjective:\n\nTo collect biological samples for a repository that will be used for research.\n\nEligibility:\n\nPeople of any age with a disorder of the head and neck that requires the taking of biological samples. The conditions may be any that affect hearing; balance; smell; taste; swallowing; voice; or speech.\n\nDesign:\n\nPart 1: Participants will give permission for their leftover tissue samples to be used for research. These are tissue samples from the head and neck that were collected in the course of routine tests and care or other research studies. Information on each participant s age, diagnosis, and previous treatments will also be collected.\n\nPart 2: Some participants may be asked for more samples. All those aged 3 years or older will have a physical exam. They will provide blood and saliva samples. A cotton swab or brush will be used to collect cells from the inside of the cheek.\n\nParticipants 18 years or older may have additional tests. They may provide nasal secretions: A piece of gelfoam or a sponge will be placed in the nose to soak up secretions for 5 to 10 minutes. They may have biopsies: Small samples of tissue will be cut from the skin and the tissue lining the mouth.\n\nSamples may be used for genetic testing.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Ability to provide their own consent, or for minors, a parent or guardian is able to consent on their behalf.\n* Ability of subject (or Legally Authorized Representative (LAR) to understand and the willingness to sign a written informed consent document.\n* Have a hearing, balance, smell, taste, voice, speech or language condition for which the subject is under clinical care or research purposes under a separate Review Board (IRB) approved protocol; OR be a healthy volunteer aged at least 3 years, enrolled on an approved research protocol.\n\nEXCLUSION CRITERIA\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Have active symptomatic major organ disorders that would increase the risk of biopsy for research, including but not limited to bleeding disorders, ischemic heart disease, a recent myocardial infarction, active congestive heart failure or severe pulmonary dysfunction\n* Have specific medical condition, such as a bleeding tendency where additional biopsies or phlebotomy procedures may increase the subjects risk in participating. This will be determined at the discretion of the principal investigator.",
+  "minimum_age": "3 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "1000 subjects of any age, any race, ethnicity and gender. Only viable neonates will be enrolled. We are hoping to accrue about 100 subjects a year over 10 years. NIH employees and staff participating in an approved NIH protocol. There will be no collection or recruitment of healthy volunteers.",
+  "condition": [
+    "Hearing Loss",
+    "Head and Neck Neoplasms",
+    "Hearing Disorders",
+    "Laryngeal Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a biospecimen banking protocol enrolling patients with a wide range of head and neck disorders, including cancers, regardless of prior therapy. There are no restrictions or requirements regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on having a head and neck disorder (including cancer) requiring tissue sampling, with no mention of prior systemic therapy for advanced disease. Both treatment-naïve and previously treated patients may be included, but the protocol does not specify any line-of-therapy requirements or exclusions."
+    }
+  ]
+}

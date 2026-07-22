@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03246802",
+  "title": "Partial Prostate Salvage High Dose Rate Brachytherapy",
+  "brief_summary": "A dose-response relationship for radiation in the management of prostate cancer is well established. Local recurrence of prostate cancer after external beam radiotherapy occurs in at least 40% of patients treated because of inability to deliver sufficient dose through external beam techniques. These patients respond well to re-irradiation using brachytherapy with about 50% of selected patients remaining free of recurrence 5 years after salvage. Advanced imaging using multiparametric Magnetic Resonance Imaging (mpMRI) allows identification of the site of recurrence, permitting partial prostate salvage brachytherapy. There is extensive literature on Low Dose Rate salvage brachytherapy but less on High Dose Rate.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\>45 and Life expectancy \\>10 years\n* Previous External Beam Radiotherapy (EBRT) dose up to 78Gray/39 fractions, 81 Gray/45 fractions or 70 Gray/28 fractions or LDR brachytherapy with site of recurrence in an under-dosed or untreated site\n* \\> 3 year interval since EBRT\n* No late toxicity from prior EBRT \\> grade 2\n* Rising PSA post EBRT \\> nadir + 2 ng/ml but \\< 10 ng/ml\n* PSA Doubling time \\> 6 months\n* Negative staging with CT scan of the abdomen/pelvis and bone scan\n* Able to undergo multiparametric MRI with endorectal coil\n* Radiographic evidence of dominant intraprostatic lesion (DIL) as only area of recurrence (i.e unifocal recurrence) and corresponding to site of original disease\n* Biopsy confirmation of DIL with pathology review by British Columbia Cancer Agency GenitoUrinary pathologist (TB)\n* Willing to provide informed consent\n* History and physical examination within 90 days of registration\n* ECOG performance status 0-1 prior to registration\n* IPSS \\< 16, or adequate voiding study (post void residual \\< 100cc and peak flow rate \\> 10 cc/second).\n* No prior trans urethral prostatic resection\n* Recurrence suitable for implant with HDR brachytherapy as assessed on ultrasound simulation (maximum PTV ideally \\< 65% of prostate volume)\n* No history of inflammatory bowel disease or previous rectal surgery\n* Suitable for procedure under anesthesia, spinal or general\n* INR \\<2.5 and platelet count \\>75 x 109/L\n* Androgen Deprivation Therapy may be initiated at the discretion of the treating oncologist\n\nExclusion Criteria:\n\n* Not compliant with criteria above\n* Unable to give informed consent",
+  "minimum_age": "45 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Recurrent Prostate Cancer"
+  ],
+  "overall_status": "RECRUITING"
+}

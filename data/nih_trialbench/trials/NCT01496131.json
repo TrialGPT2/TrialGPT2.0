@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT01496131",
+  "title": "Tecemotide (L-BLP25) in Prostate Cancer",
+  "brief_summary": "This study examines tecemotide (L-BLP25) in combination with standard treatment for prostate cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Histopathologic documentation of prostate cancer confirmed at the institution of study enrollment prior to starting this study\n* Newly diagnosed or previously untreated prostate cancer with intermediate or high risk features as defined in the protocol\n* No evidence of metastatic disease on computed tomography (CT) / magnetic resonance imaging (MRI) or bone scans\n* No systemic steroid use within 2 weeks prior to initiation of experimental therapy. Limited doses of systemic steroids to prevent intravenous contrast, allergic reaction or anaphylaxis (in subjects who have known contrast allergies) are allowed\n* Eastern Co-operative Oncology Group (ECOG) performance status of 0-1\n* Human leukocyte antigen (HLA)-A2 or A3 positive for immunologic monitoring\n* Hematological and biochemical eligibility parameters as defined in the protocol\n* No other active malignancies within the past 3 years (with the exception of non-melanoma skin cancers or carcinoma in situ of the bladder)\n* Willing to travel to the study center(s) for follow-up visits\n* Age greater than or equal to 18 years old\n* Able to understand and sign informed consent\n* Must agree to use effective birth control (such as a condom) or abstinence during and for a period of 4 months after the last administration of immunotherapy\n\nExclusion Criteria:\n\n* No evidence of being immunocompromised by human immunodeficiency virus, a medical condition requiring systemic steroids, a medical condition requiring immunosuppressive therapy, splenectomy\n* Active Hepatitis B or Hepatitis C\n* Subjects should have no autoimmune diseases that have required treatment as specified in the protocol\n* History of immunodeficiency diseases, hereditary or congenital immunodeficiencies\n* Serious intercurrent medical illness\n* A clinically significant cardiac disease\n* Subjects who have received any prior therapy for prostate cancer\n* Subjects who have known brain metastasis, or with a history of seizures, encephalitis, or multiple sclerosis\n* Subjects receiving any other investigational agents\n* Contraindication to biopsy such as bleeding disorders, ratio of prothrombin time to partial thromboplastin time (PT/PTT) \\>=1.5 times the upper limit of normal, artificial heart valve\n* Contraindication to MRI such as subjects weighing \\>136 kilograms, allergy to magnetic resonance (MR) contrast agent, subjects with pacemakers, cerebral aneurysm clips, shrapnel injury or implantable electronic devices\n* Contraindication to radiation therapy such as pre-existing and active prostatitis or proctitis, inflammatory bowel disease or known genetic sensitivity to ionizing radiation, or history of prior radiation to the pelvis",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Prostate Cancer"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with newly diagnosed or previously untreated, non-metastatic prostate cancer. Prior systemic therapy for prostate cancer is not allowed, so all patients are treatment-naïve for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility requires no prior therapy for prostate cancer and no evidence of metastatic disease. Patients must be newly diagnosed or previously untreated, so only first-line systemic therapy for advanced disease is allowed."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03113110",
+  "title": "Empagliflozin in Post-Transplantation Diabetes Mellitus",
+  "brief_summary": "RELEVANCE:\n\nUp to 50% of patients without previously known disorders of glucose metabolism develop posttransplantation diabetes mellitus (PTDM) after renal transplantation, which is associated with cardiovascular events. Although PTDM is triggered by immunosuppressive agents (calcineurin inhibitors, glucocorticoids), there is consensus against switching patients from potent tacrolimus to the less diabetogenic cyclosporin. Full-blown PTDM must therefore be treated aggressively. Empagliflozin inhibits sodium-glucose cotransporter 2 in the proximal tubule of the kidney and dramatically reduced cardiovascular risk in type 2 diabetics in a recent randomized trial. Especially in diabetics with impaired renal function, empagliflozin was safe, well tolerated, and effective against hyperglycemia and against high blood pressure. Data on SGLT2 inhibition after transplantation are completely lacking. Therefore, the potential antidiabetic of choice is currently withheld from the vulnerable PTDM population.\n\nMETHODS, STUDY DESIGN:\n\nProspective, single-center, non-inferiority study. Inclusion criteria: PTDM (antidiabetic therapy \u22656 months, based on prior 2-h BG \u2265200 mg/dL, fasting BG \u2265125 mg/dL (2 times) or HbA1c \u22656.5%); stable renal allograft function \\>6 months; eGFR \u226530 mL/min/1.73m2. Most important exclusion criteria: type 1 and 2 diabetes; insulin demand \\>40 IU/day; HbA1c \\>8.5%. After study inclusion, patients will record 4 weeks of 4-times daily BG measurements before undergoing an OGTT, lab work and urine analysis (including ketones, urinary culture). Empagliflozin (10 mg) will be started and insulin discontinued within 3 days. Patients will be asked to perform urinary dipstick tests at home (i.e. ketones), and to continue recording BG. Study visits at 2 and 4 weeks (second OGTT + lab work (as above)). If control over hyperglycemia is insufficient, insulin therapy will be added back, otherwise study patients remain on empagliflozin monotherapy for 1 year. Statistics will include the paired t-test.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosed PTDM defined as: A transplant patient requiring antidiabetic therapy, based on a previous 2-hour plasma glucose level \u2265 200 mg/dL in the OGTT (75mg glucose), based on previous blood glucose levels \u2265 200 mg/dL during random controls or based on fasting glucose levels \u2265 125 mg/dL twice or HbA1c \u2265 6.5%\n* Stable graft function for more than 6 months post transplantation (eGFR \u2265 30 ml/min/1.73m2)\n* At least 6 months of standard of care antidiabetic therapy (usually basal insulin) for PTDM\n\nExclusion Criteria:\n\n* Age\\< 18 years\n* Patients with prior history of type 1 or type 2 diabetes\n* Pregnancy\n* Severe renal impairment (GFR \\< 30 mL/min./1.73 m2)\n* Severe blood glucose elevation with the need for therapy with insulin \\> 40 IU/day or HbA1c \\>8.5%",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Posttransplant Diabetes Mellitus"
+  ],
+  "overall_status": "COMPLETED"
+}

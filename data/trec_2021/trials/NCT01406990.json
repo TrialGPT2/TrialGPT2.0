@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01406990",
+  "title": "Aspirin Responsiveness in Women With Coronary Artery Disease",
+  "brief_summary": "The purpose of this study is to measure the percentage of women with known Coronary Artery Disease (CAD) who are hyporesponsive to low dose (81 mg) aspirin.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Able and willing to provide informed consent\n* Women at least 45 years old of any race\n* Taking 81 mg aspirin daily, for at least one month\n* Diagnosed with known or suspected CAD with at least one of the following: angiographic evidence of at least one lesion \\> 50% stenosis, history of significant elevation of biomarker troponin or CK-MB, or history of ECG changes in at least 2 contiguous leads characterized by either new ST depression \\> 0.1 mV or transient (\\<30 min) ST elevation \\> 0.1 mV, coronary artery revascularization either by PCI or CABG\n\nExclusion Criteria:\n\n* \\< 45 years or \\> 85 years of age\n* Clinically unstable: hypotension defined as sustained systolic blood pressure of \\<90 mmHg due to cardiac failure with associated symptoms, unstable or severe pulmonary edema, decompensated congestive heart failure, acute mitral regurgitation, acute ventricular septal defect, acute cerebrovascular event or transient ischemic attack (TIA) within the past six months, history of ventricular fibrillation and no implantable cardioverter defibrillator (ICD), sustained supraventricular tachycardia \\> 30 seconds or associated with symptoms and no ICD, untreated complete heart block or untreated high grade secondary heart block\n* Pregnant, planning to become pregnant, or breastfeeding\n* Alcohol abuse or illicit drug abuse\n* Allergy or intolerance to salicylates and/or excipients including a history of and/or active GI bleed\n* Use of NSAIDs within seven days or planned regular use during the study\n* Taking HRT or oral contraceptives within the past 30 days or planned use during study\n* Use of heparin, warfarin, ADP inhibitors (clopidogrel, prasugrel, or ticlopidine), or glycoprotein IIb/IIa inhibitors within previous 96 hours or planned use during the study\n* Use or planned use of any other medications known to interfere with AA-induced platelet function\n* Currently participating in another investigational drug or device study\n* Survival less than six months",
+  "minimum_age": "45 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Women between 45 and 85 years of age with known CAD on low dose Aspirin (81 mg) seen at the Cardiac Center of Creighton University",
+  "condition": [
+    "CAD"
+  ],
+  "overall_status": "COMPLETED"
+}

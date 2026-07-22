@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04460274",
+  "title": "Forecast Number of Covid-19 Cases Worldwide",
+  "brief_summary": "Coronavirus disease-19 (Covid-19) had an unprecedented effect on both nations and health systems. Time series modeling using Auto-Regressive Integrated Moving Averages (ARIMA) models have been used to forecast variables extensively mainly in statistics and econometrics. The investigators aimed to predict the total number of cases for Covid-19 using ARIMA models of time-series analysis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Confirmed case of Covid-19\n\nExclusion Criteria:\n\n* Cases not reported",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Population consists all confirmed cases of Covid-19 reported from Situation Dashboard of the European Center for Disease Prevention and Control website Coronavirus 19 Situation Report",
+  "condition": [
+    "Covid-19"
+  ],
+  "overall_status": "COMPLETED"
+}

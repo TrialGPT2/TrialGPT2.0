@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT02910037",
+  "title": "Precision Diagnosis of Acute Infectious Diseases; Neuroinflammatory Cohort",
+  "brief_summary": "This study aims to use a clinically validated metagenomic next-generation sequencing (mNGS) assay to provide a demonstration of precision medicine for diagnosis of acute infectious disease in hospitalized patients. From June 2016 to June 2017, 200 patients will be enrolled from multiple hospitals in California and outside of California. Patients will be evaluated to determine the impact on the mNGS assay on diagnostic yield, hospital costs and clinical outcomes.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Exclusions:\n\n* Patients on a 5150 or 5250 psychiatric hold\n* Prisoners\n* University of California employees / students or close associates of any of the key personnel on the study\n* Outpatients and/or patients with chronic illness\n\nInclusion:\n\nDemographic Criteria\n\n1. Age: any (no age limit)\n2. Language: any (with the use of interpreting services for obtaining consent)\n\nFor the following, the infectious syndromes include meningitis, encephalitis, fever, sepsis, and pneumonia:\n\nClinical Criteria\n\n1. Hospital admission or transfer with diagnosis of an presumed infectious syndrome or clinical presentation consisting with an infectious syndrome, as defined below:\n\n   * Meningitis: fever \\>38\u00b0C and abnormal imaging or CSF pleocytosis (CSF white blood cell count (WBC) \\> 5 /mm\\^3) +/- stiff neck, +/- headache, +/- seizure\n   * Encephalitis: pleocytosis and at least one of the following: altered mental status, seizures, new onset of focal neurologic findings, abnormal EEG, acute brain abnormalities on neuroimaging\n2. No known diagnosis of non-infectious etiology responsible for symptoms\n3. Time of enrollment: within 7 days of onset of symptoms, either initial presentation or acute exacerbation of presumed infectious syndrome.\n\nSpecimen Criteria\n\n1. cerebrospinal fluid available within 7 days of symptom onset AND within 3 days of hospital admission or transfer unless evidence for acute exacerbation as defined by abrupt decline in clinical status, worsening pleocytosis or other laboratory parameters\n2. Minimum of 600 microliters (uL) of clinical sample, stored at 4 degrees Celsius (C) no more than 5 days (ideally frozen in -70 degrees Celsius within 24 hours of collection)\n3. No more than 3 freeze-thaw cycles",
+  "minimum_age": "1 Minute",
+  "maximum_age": "110 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Encephalitis",
+    "Meningitis"
+  ],
+  "overall_status": "COMPLETED"
+}

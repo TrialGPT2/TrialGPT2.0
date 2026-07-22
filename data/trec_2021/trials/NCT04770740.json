@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04770740",
+  "title": "Randomized Controlled Clinical Trial to Investigate Effects of Vitamin K2 in COVID-19",
+  "brief_summary": "Coronavirus disease 2019 (COVID-19) is caused by the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2). While the majority of people recover after mild symptoms, a portion of COVID-19 patients develops respiratory failure. Coagulopathy and thromboembolism are prevalent in severe COVID-19, and these factors are associated with decreased survival. Coagulation is an intricate balance between clot promoting and dissolving processes in which vitamin K plays an essential role. Elastin is a major component of dynamic tissues such as lungs and arteries, and elastin calcification stimulates elastin degradation and vice versa. The vitamin K-dependent Matrix Gla Protein (MGP) protects elastin from both calcification and degradation.\n\nAlthough technically feasible, direct quantification of blood vitamin K levels is not an appropriate method to assess overall vitamin K status due to differences in bioavailability and half-life time between the two naturally occurring vitamin K forms (vitamin K1 and K2). Measuring inactive levels of vitamin K-dependent proteins in the circulation is the method recommended by most experts, as it represents the systemic availability of both vitamin K1 and K2. Dp-uc (dephospho uncarboxylated, i.e. inactive) MGP and proteins induced by vitamin K absence (PIVKA-II) both inversely correlate with vitamin K status and can be used as surrogate markers of total vitamin K status.\n\nRecently, we found a severely reduced vitamin K status (as quantified by dp-ucMGP) in COVID-19 patients compared to controls. In COVID-19 patients, low vitamin K status was also associated with poor outcome (defined as the need for invasive ventilation or death), accelerated elastin degradation (quantified by plasma (iso)desmosine (DES) a byproduct of elastin degradation). Based on these finding and previous studies, we hypothesize that improving vitamin K-status by vitamin K supplementation could have favorable effects on pulmonary damage and coagulopathy in COVID-19.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* COVID-19 patients who are admitted to the CWZ with COVID-19, with a laboratory confirmed SARS-CoV-2 infection within the previous 96 hours\n* Respiratory failure requiring supplemental oxygen, defined as requiring supplemental oxygen to sustain an arterial PO2 \u226570mmHg (measured by arterial blood gas) or an oxygen saturation of \u226594% (measured using a pulse oximeter)\n* At least 18 years old\n* Able to safely swallow the study medication or possibility of safely administering this through a nasogastric tube\n* Use of prophylactic heparin or LWMH according to hospital protocols, or use of therapeutic dosages if there is a medical indication for this\n* Informed consent signed by patient\n\nExclusion Criteria:\n\n* Use of oral anticoagulation drugs; patients may be included when they have been switched to LMWH\n* Patients on vitamin K antagonists with a supra-therapeutic anticoagulation at admission who require vitamin K supplementation to correct this, or were administered vitamin K for this reason within the preceding 5 days\n* Patients already using vitamin K supplements at admission\n* Participation in another intervention study\n* Direct admission to an intensive care unit (ICU) for invasive ventilation at presentation\n* Confirmed active pulmonary embolism or deep venous thrombosis prior to inclusion\n* Known allergy to any of the components of the study medication or placebo\n* Patients who are hemodialysis dependent at admission\n* Pregnancy at the time of inclusion\n* Diagnosed malignancy at the time of inclusion",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19"
+  ],
+  "overall_status": "COMPLETED"
+}

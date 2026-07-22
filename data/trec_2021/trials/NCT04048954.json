@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04048954",
+  "title": "Use of a Smartphone Application on the Detection of Complications Related to Smoking",
+  "brief_summary": "Smokers do not know the symptoms of cancer and wait on average 5 months with symptoms before consulting. 80% of lung cancers are diagnosed at too late and incurable stage.\n\nSystematic CT screening of smokers is under evaluation and currently not supported because expensive and little used in real life (in the US 1.8% of smokers after 7 years of establishment in the USA).\n\nAn English study showed an increase in the number of operable stage cancers of 3% among smokers by calling them on a trailing cough by a simple poster campaign (\"You smoke, you cough for more than 3 weeks, consult\").\n\nRegarding COPD, it is linked to tobacco in 85% of cases, affects 3.5 million French and is in 2013 the 4th leading cause of death in France. The evolution of COPD is marked by exacerbations, period of acute aggravation of symptoms, responsible for the deterioration of the quality of life or even hospitalization or death. COPD remains a silent killer responsible, according to this same summary review, of 16,500 deaths per year in France.\n\nDr DENIS has developed a web application that has shown a 7-month survival benefit by early detection of lung cancer relapses based on the reporting of patient symptoms analyzed by a validated algorithm in 300 patients and 1 randomized trial.\n\nThe Applitabac app takes this concept of symptom self-assessment by patients. By multiplying the number of symptoms analyzed compared to the English study, Applitabac should be able to increase the sensitivity of this early detection of COPD and increase the number of operable bronchial cancers and increase the chances of survival of patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\>= 18 years old\n* Applitabac user who has received a notification directing him to his doctor\n* Smoker or former smoker (current smoking cessation or \u2264 5 years)\n* Patient informed of the use of his data and not opposing it\n\nExclusion Criteria:\n\n* Presence of another evolutionary neoplasia in the past 2 years\n* Patient who did not use the Applitabac app",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Smoker or former smoker",
+  "condition": [
+    "Tabagism",
+    "Lung Cancer",
+    "Chronic Obstructive Pulmonary Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

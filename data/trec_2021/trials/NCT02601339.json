@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02601339",
+  "title": "NIRS Monitoring in Premature Infants",
+  "brief_summary": "This study uses frequency domain near-infrared spectroscopy coupled with diffuse correlation spectroscopy (FDNIRS-DCS) technology for monitoring cerebral blood flow (CBF) and cerebral oxygen metabolism (CMRO2) at the bedside for newborns with germinal matrix-intraventricular hemorrhage (GM-IVH) and/or post-hemorrhagic hydrocephalus (PHH) in comparison to newborns with hydrocephalus of a different etiology (VC) and healthy controls (HC). We hypothesize that baseline cerebral metabolic dysfunction is a better biomarker for GM-IVH and PHH severity and response to PHH treatment.\n\nThis is a Boston Children's Hospital (BCH)-institutional review board(IRB) approved, multi-site study that includes collaboration with Brigham and Women's Hospital (BWH) and Beth Israel Deaconess Medical Center (BIDMC). Pei-Yi Lin receives funding from The National Institute of Health (NIH) to support the study and is the overall principal Investigator (PI) overseeing the study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "1. GM-IVH group:\n\n   Inclusion criteria for GM-IVH group: born at gestational age (GA) 24-32 weeks; \\< 3 months old corrected-GA (cGA) at first measure or eligible for measurement within 12 weeks after the infant reaches 40 weeks post-menstrual age (PMA). Grade I-III IVH diagnosed by clinical cranial ultrasound or magnetic resonance imaging (MRI).\n\n   Exclusion criteria for GM-IVH group: chromosomal abnormalities known at the time of enrollment; known or suspected metabolic disorder or neoplasm; critical congenital heart disease; congenital hydrocephalus; brain lesions that affect cerebral brain metabolism, other than GMH-IVH; central nervous system (CNS) infection.\n2. PHH group:\n\n   Inclusion criteria for PHH group: born at gestational age (GA) 24-37 weeks \\< 3 months old cGA at first measure or eligible for measurement within 12 weeks after the infant reaches 40 weeks age (PMA). PHH diagnosed by clinical cranial ultrasound or MRI.\n\n   Exclusion criteria for PHH group: chromosomal abnormalities known at the time of enrollment; known or suspected metabolic disorder or neoplasm; critical congenital heart disease; congenital hydrocephalus; brain lesions that affect cerebral brain metabolism, other than IVH-PHH; CNS infection. Implanted devices or other devices that preclude the use of MRI.\n3. HC group:\n\n   Inclusion criteria for HC group: born at gestational age (GA) 24-32 weeks; \\< 3 months old cGA at first measure or eligible for measurement within 12 weeks after the infant reaches 40 weeks age (PMA); Apgar \\>7 at 5 min.\n\n   Exclusion criteria for HC group: any clinical indication of brain injury or congenital brain malformation; chromosomal abnormality known at the time of enrollment; known or suspected metabolic disorder or neoplasm; critical congenital heart disease; CNS infection.\n4. VC group:\n\nInclusion criteria for VC group: \\< 12 months old cGA at first measure or eligible for measurement within 1 year after the infant reaches 40 weeks age (PMA). Symptomatic hydrocephalus of any etiology or at high risk of developing hydrocephalus of any etiology, except post-hemorrhagic etiology; characterized by abnormal rate of head growth and full anterior fontanelle. Ventricular enlargement diagnosed by ultrasonography or MRI; no signs of IVH.\n\nExclusion criteria for VC group: known or suspected metabolic disorder or neoplasm; critical congenital heart disease; CNS infection. Implanted devices or other devices that preclude the use of MRI.",
+  "minimum_age": "0 Months",
+  "maximum_age": "12 Months",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "The subject population will include premature and full-term neonates that fit criteria for one of the GM-IVH, PHH, HC, or VC groups.",
+  "condition": [
+    "Hemorrhage",
+    "Premature Infants",
+    "Newborn",
+    "Hydrocephalus"
+  ],
+  "overall_status": "RECRUITING"
+}

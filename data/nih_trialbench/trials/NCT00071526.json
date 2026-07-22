@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00071526",
+  "title": "Urinary Vitamin C Loss in Diabetic Subjects",
+  "brief_summary": "Several studies have reported that diabetic subjects have lower plasma vitamin C concentrations than non-diabetic subjects. Although urinary vitamin C loss in diabetic subjects was reported to be increased in two studies, these are difficult to interpret due to lack of controlled vitamin C intake, inadequate sampling, lack of control subjects, or methodology uncertainties in vitamin C assay and sample processing. Consequently, it is unclear whether diabetic subjects truly have both low plasma and high urine vitamin C concentrations. We propose that low plasma vitamin C concentrations in diabetic subjects are due in part to inappropriate renal loss of vitamin C in these subjects but not in healthy controls. We will study nondiabetic controls and cohorts with diabetes. Vitamin C concentrations in plasma, RBCs, and urine will be measured in outpatients. In those willing to be admitted to the Clinical Center, we will measure vitamin C pharmacokinetics to determine the relative bioavailability for vitamin C in individuals with and without abnormal urinary loss of vitamin C (or renal leak). Single nucleotide polymorphisms (SNPs) will be determined in genomic DNA responsible for the two proteins mediating sodium dependent vitamin C transport, SVCT1 and SVCT2. We will also explore mechanisms underlying abnormal urinary vitamin C loss.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be included in the study, study subjects should be:\n\n* Aged 18-65 years.\n* Either:\n\n  * Have no diagnosis of diabetes: \"nondiabetic controls\", or\n  * Have a diagnosis in their medical history of either Type 1 or Type 2 diabetes\n\nEXCLUSION CRITERIA (for outpatient study, arm 1)\n\nExclusion criteria will include the following:\n\n* Unable or unwilling to provide a signed and dated informed consent form\n* Unable or unwilling to comply with study procedures and lifestyle considerations\n\nEXCLUSION CRITERIA (for inpatient studies, arms 2 and 3)\n\nStudy participants interested in participating in Arms 2 and/or 3 will be excluded from this further participation if they meet any of the following:\n\n* significant organ malfunction leading to clinical instability including liver disease, pulmonary disease, ischemic heart disease, heart failure, stroke, peripheral vascular disease, and anemia at investigator discretion\n* other serious or chronic illness; history of serious or chronic illness; coronary artery disease, or peripheral vascular disease resulting in clinical instability\n* pregnancy or lactation\n* presence of other conditions which, in the judgment of the investigators, can influence vitamin C metabolism or vitamin C renal handling",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Community sample.",
+  "condition": [
+    "Diabetes"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial is not an oncology study and does not involve systemic therapy for advanced or metastatic disease. There are no requirements or restrictions regarding prior lines of therapy for advanced cancer.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention cancer diagnosis or prior systemic therapy for advanced disease. No information is provided regarding lines of therapy, as the study focuses on diabetic and non-diabetic subjects in relation to vitamin C metabolism."
+    }
+  ]
+}

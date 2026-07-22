@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT02347787",
+  "title": "A Multi-center Trial of IMPaCT CHW Support for Chronically-ill Patients",
+  "brief_summary": "This is a multi-center randomized controlled trial comparing the effectiveness of community health worker (CHW) vs. usual clinician support in helping chronically-ill patients with low socioeconomic status to improve their health outcomes.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient of specific practice (Mutch/St.Leonards Court, Spectrum, PVAMC) for at least 1 yr defined as having one office visit within preceding 12 months\n* Resident of home ZIP code including ANY of the following 19104, 19131, 19139, 19142, 19143, 19145, 19146, \\& 19151\n* Has 2 or more of the following conditions: 1. Obesity: BMI30 2. HTN: ICD9 relating to HTN from EMR problem list or EMR ICD9 encounter diagnosis x2) 3.DM: ICD9 relating to DM from EMR problem list or EMR ICD9 encounter diagnosis x2) 4. tobacco (from EPIC Social History/Vital Signs)\n* Has at least one poorly controlled condition based on the most recent value prior to enrollment: Obesity (BMI\\>=35); HTN (SBP \\>= 160); DM (HgBA1c \\>=9); Tobacco Use (\\>0 cigarettes)\"\n* Is uninsured, insured by Medicaid, or dually eligible for Medicare and Medicaid or VA Insurance\n* Has a scheduled appointment at a study clinic in the future.\n* Community Health Workers/CHWs/IMPaCT Partners involved in the care of patients of the three practices will be included in the qualitative portion of this study.\n\nExclusion Criteria:\n\n* Will not provide informed consent for this study.\n* Does not have the capacity to provide informed consent for this study.\n* Previously enrolled in this study.\n* Currently enrolled in another study focusing on chronic disease management.\n* Currently has a CHW\n* No one will be excluded on the basis of sex or race.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hypertension",
+    "Diabetes",
+    "Obesity",
+    "Tobacco Dependence"
+  ],
+  "overall_status": "COMPLETED"
+}

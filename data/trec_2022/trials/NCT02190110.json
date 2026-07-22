@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02190110",
+  "title": "Pulmonary Embolism Diagnosis: Ultrasound Wells Score vs Traditional Wells Score",
+  "brief_summary": "Pulmonary embolism (PE) should be suspected in patients with dyspnea, chest pain, syncope, shock/hypotension, or cardiac arrest. Discriminating patients in different categories of pre-test probability of PE has become a key step in all diagnostic algorithms for PE. The most frequently used clinical prediction rule is the Wells score (\"PE likely\" \\> 4 points and \"PE unlikely\" \u2264 4 points). PE can be safely ruled out in patients with a \"PE unlikely\" associated with a negative d-dimer test result. Conversely, patients with \"PE likely\" or positive d-dimer level should undergo further diagnostic testing, like multidetector computed tomography pulmonary angiography (MCTPA).\n\nWells score accuracy is not optimal. Vein and lung US can be rapidly performed at bedside as an extension of physical examination and have a high specificity. The aim of this study is to evaluate if the combination of clinical data reported in the Wells score and US data obtained from vein and lung US (US Wells score) has a better diagnostic accuracy compared to traditional Wells score.\n\nIn adult patients suspected of PE traditional Wells score will be calculated and vein and lung US (multiorgan US) will be performed in all patients and and US Wells score calculated. The US Wells score differs from the traditional Wells score in the following items: \"signs and symptoms of DVT\", replaced by \"vein US showing DVT\", and \"alternative diagnosis less likely than PE\" replaced by \"alternative diagnosis less likely than PE after multiorgan US\". This latter item is considered positive if at least one subpleural infarct is detected at lung US, and negative if no subpleural infarcts are detected and an alternative diagnosis like pneumonia, pleural effusion or diffuse interstitial syndrome may explain the symptoms of presentation. If no findings are detected at lung US, the points for the item remain the same assigned by traditional Wells score. Final diagnosis of PE will be preferentially established by MCTPA and in patients discharged without a second level imaging test because of negative Wells or d-dimer, and patients with not conclusive second level diagnostic test, will enter the 3 months follow-up protocol.\n\nThe diagnostic performance of traditional and US Wells scores will be assessed by calculating sensitivity, specificity, positive, and negative predictive value, and likelihood ratios. Failure rate and efficacy of d-dimer in patients stratified as \"PE likely\" and \"PE unlikely\" will also be calculated.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients more than 18 years old\n* Patients presenting with dyspnea, thoracic pain or syncope, palpitations, cardiac arrest\n* Suspicion of PE\n\nExclusion Criteria:\n\n* Patient did not consent to participate in the study\n* Presence of a diagnosis alternative to PE objectively demonstrated after the first assessment.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult patients (more than 18 years old) suspected of PE presenting to ED will be recruited at the time of the medical evaluation and before a final diagnosis is established.",
+  "condition": [
+    "Pulmonary Embolism"
+  ],
+  "overall_status": "COMPLETED"
+}

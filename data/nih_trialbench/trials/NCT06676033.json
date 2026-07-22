@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT06676033",
+  "title": "Epcoritamab in Chronic Lymphocytic Leukemia and Richter Syndrome",
+  "brief_summary": "This correlative study aims to understand the pharmacodynamic effects and clonal dynamics in response to epcoritamab by obtaining and analyzing lymph node, bone marrow, and blood samples from subjects enrolled in GCT3013-03 trial sponsored by Genmab at NIH. Samples will be collected before and at multiple time points during treatment with epcoritamab. National Heart, Lung, and Blood Institute (NHLBI) investigators are experienced in testing samples treated with bsAb2,3 including epcoritamab in an ongoing pre-clinical collaboration with Genmab. Addressing the objectives of this correlative study will advance the science and clinical application of epcoritamab specifically as well as T-cell engaging bsAb in general as an emerging class of immunotherapy for cancer.\n\nThe study is enrolling by invitation only.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Must be undergoing screening for GCT3013-03\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\nNone",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Leukemia, Chronic Lymphocytic",
+    "Richter Syndrome"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a correlative study enrolling subjects from the GCT3013-03 trial of epcoritamab in CLL and Richter Syndrome. The line-of-therapy intent is not specified in this protocol, as eligibility is determined by participation in the parent trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility requires only that subjects are undergoing screening for the GCT3013-03 trial; no information is provided about prior lines of therapy or treatment history. Line-of-therapy intent cannot be determined from this protocol."
+    }
+  ]
+}

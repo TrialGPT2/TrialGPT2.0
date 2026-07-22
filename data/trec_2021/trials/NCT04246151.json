@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04246151",
+  "title": "Oral Vancomycin Versus Probiotics Versus Placebo for Prevention of Clostridium Difficile Infection in Colonized Patients",
+  "brief_summary": "The goal of this pilot study is to assess the feasibility of randomizing hospitalized patients that are colonized with C. difficile and started on systemic antibiotics to either a probiotic, oral vancomycin, or placebo in a parallel-group 1:1:1 design. The ultimate goal is to conduct an appropriately-powered RCT to determine the optimal method for reducing C difficile infection in colonized patients.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patients of 18 years of age or older identified as asymptomatic carriers of C. difficile (i.e. not meeting case definition of C. difficile infection, see below)\n* Started on systemic (oral or intravenous) antibiotics for any (presumed) bacterial infection\n* Patient must have vitals (heart rate, blood pressure, temperature), estimated creatinine clearance (using the Chronic Kidney Disease Epidemiology equation (CKD-Epi)) and a complete blood count available within 24 hours of enrolment\n\nExclusion Criteria:\n\n* On a course of systemic antibiotics that had been started more than 72 hours ago (as current evidence suggests that the earlier probiotics are started, the more efficacious they are)\n* Patient with C. difficile, i.e. presence of diarrhea (three or more loose or watery stools within 24 hours), or fevers or hypotension from C. difficile infection\n* Any patients with contra-indications to probiotics or vancomycin:\n\n  * Immunosuppressed (primary or acquired immunodeficiency, including AIDS (defined as AIDS defining condition or cluster of differentiation 4 (CD4) nadir of \\<200/ul), hematologic malignancies, long-term systemic corticosteroid treatment, active treatment with chemotherapeutic agents or biologicals, autoimmune diseases, nephrotic syndrome)\n  * Structural heart disease (e.g. atrial septal defect, ventricular septal defect)\n  * Gastroesophageal or compromised gut integrity (e.g. short gut syndrome, intestinal injury or dysfunction, inflammatory bowel diseases including current or past history of Crohn's disease and ulcerative colitis)\n  * Patients on systemic aminoglycosides, ethacrynic acid, polymixin B, or colistin.\n  * Prior or current hearing loss\n  * Female patients with known pregnancy or who are planning to get pregnant, or who are breastfeeding\n  * Patients with end-stage renal diseases defined as an estimated glomerular filtration rate of \\<15ml/min, or absence of a current estimated creatinine clearance\n  * History of an allergic reaction to one of the study drugs, or sensitivity to milk\n* Patients started on probiotics or oral vancomycin while in hospital",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Clostridium Difficile Colonization",
+    "Clostridium Difficile Diarrhea"
+  ],
+  "overall_status": "WITHDRAWN"
+}

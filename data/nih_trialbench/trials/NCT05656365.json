@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT05656365",
+  "title": "Evaluating the Genetics and Immunology of Periodic Fever, Aphthous Stomatitis, Pharyngitis, and Cervical Adenitis (PFAPA) Syndrome and Other Tonsil Disorders",
+  "brief_summary": "Background:\n\nPeriodic fever, aphthous stomatitis, pharyngitis, and cervical adenitis (PFAPA) is the most common periodic fever syndrome of childhood. Symptoms can include swelling of the glands in the throat, mouth ulcers, and tonsillitis. Removal of the tonsils can stop the periodic flareups. But researchers do not know how PFAPA develops. In this natural history study, researchers will collect specimens and data from people with PFAPA to see what they might have in common.\n\nObjective:\n\nTo collect blood and other specimens from people with PFAPA to learn more about the illness.\n\nEligibility:\n\nPeople aged 1 month or older with symptoms of PFAPA or another tonsil disorder.\n\nDesign:\n\nParticipants will be screened. Their medical records will be reviewed. Researchers will ask about a family history of PFAPA.\n\nThe following specimens may be collected:\n\nBlood. Blood will be drawn either from a needle inserted into a vein or from a prick in the finger or heel.\n\nMucus and cells. A stick with soft padding on the tip may be rubbed inside the nostrils or mouth.\n\nStool.\n\nSaliva.\n\nTissue samples may be taken if participants are having surgery to remove the tonsils or adenoids. Participants having surgery may also have a nasopharyngeal wash; salt water will be squirted into the back of the throat and then sucked back out with a syringe.\n\nMost participants will provide specimens only once. They can do this in person at the clinic; they can also have their local health providers send specimens to the researchers. Some participants may have optional follow-up visits over 10 years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nParticipants must meet all the following inclusion criteria to be eligible for this study:\n\n1. Aged \\>=1 month. To be seen at the NIH CC, participants must be \\>=3 years of age.\n2. Diagnosed with PFAPA or another tonsil disorder, or has symptoms consistent with these conditions, as determined by the investigator.\n3. Able to provide informed consent (for ages \\>=18 years) or has a parent or guardian who can provide informed consent on their behalf (for ages \\<18 years).\n4. Willing to allow specimens and data to be stored for future research.\n5. Willing to allow genetic testing on their biospecimens.\n\nEXCLUSION CRITERIA:\n\nAn individual who has any condition that, in the judgment of the investigator, may put them at undue risk or make them unsuitable for participation in the study will be excluded.",
+  "minimum_age": "1 Month",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients diagnosed with PFAPA and other tonsil disorders.",
+  "condition": [
+    "Periodic Fever, Aphthous Stomatitis, Pharyngitis, And Cervical Adenitis (Pfapa)",
+    "Obstructive Sleep Apnea",
+    "Tonsillitis",
+    "Tonsil Disorder",
+    "Sleep Disordered Breathing"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study of PFAPA and other tonsil disorders that does not involve cancer or systemic therapy for advanced disease. There are no requirements or restrictions regarding prior lines of therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls participants with PFAPA or other tonsil disorders regardless of prior treatment history. There is no mention of systemic therapy, advanced disease, or lines of therapy, as this is not an oncology trial."
+    }
+  ]
+}

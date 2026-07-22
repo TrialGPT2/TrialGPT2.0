@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04272060",
+  "title": "Ultra-high-resolution CT vs. Conventional Angiography for Detecting Coronary Heart Disease",
+  "brief_summary": "Cardiac catheterization with invasive coronary angiography is the gold standard for determining the presence or absence of significant coronary heart disease (CHD). However, cardiac catheterization is costly and, as an invasive procedure, it is associated with some risk of adverse events, rarely even stroke, myocardial infarction, or death. Recent advances in multi-detector computed tomography angiography (CTA) have allowed rapid, noninvasive coronary artery imaging in patients with suspected CHD. CTA generally yields high accuracy for identifying patients with CHD when compared to cardiac catheterization. However, diagnostic accuracy is reduced in the setting of severe coronary artery calcification and coronary stents due to its inferior spatial resolution compared to cardiac catheterization. Because high-risk patients often have severe coronary calcification or stents, the application of CTA has been particularly limited in this important patient group. Recently, an ultrahigh-resolution CT scanner was released which has shown promise to overcome the limitation of conventional CTA in the setting of severe coronary artery calcification or stents. This ultrahigh-resolution \"precision\" CT scanner (UHR-CT) contains detector rows with half the width than currently available systems (0.25 mm vs. 0.5 mm) resulting in approximately twice the spatial resolution.\n\nThe purpose of this investigation is to test the hypothesis that high-resolution CTA is not inferior to the current standard of cardiac catheterization for identifying significant CHD in patients with high-risk characteristics, including severe coronary artery calcification and coronary stents.\n\nThe investigators propose to enroll 50 patients over 24-30 months in this investigation as part of a multicenter study. Patients referred for cardiac catheterization with known CHD and suspected obstructive coronary artery stenosis will be included. All patients will undergo both cardiac catheterization and UHR-CT for determining significant CHD as defined by coronary functional assessment. The primary end point will be the diagnostic accuracy by area-under-curve (AUC) method for identifying patients with hemodynamically significant CHD.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients aged 45-85 years with history of CHD will be asked to participate. History of CHD is defined as prior documentation of a coronary artery stenosis of 50% or greater by coronary angiography or by prior documentation of coronary artery revascularization by percutaneous coronary intervention (PCI). Women of child bearing potential must demonstrate a negative pregnancy test within 24 hours of the study CTA.\n* Suspected obstructive coronary artery stenosis based on clinical history and/or noninvasive testing, prompting a clinical referral for invasive coronary angiography; and/or planned PCI within the next 60 days.\n* Ability to understand and willingness to sign the Informed Consent Form.\n\nExclusion Criteria:\n\n* Known allergy to iodinated contrast media\n* History of multiple myeloma or previous organ transplantation\n* Elevated serum creatinine (\\> 1.5mg/dl) or calculated creatinine clearance of \\< 60 ml/min (using the Cockcroft-Gault formula\n* Atrial fibrillation or uncontrolled tachyarrhythmia, or advanced atrioventricular block (second or third-degree heart block)\n* Evidence of severe symptomatic heart failure (NYHA Class III or IV);\n* Known or suspected moderate or severe aortic stenosis\n* Previous coronary artery bypass or other cardiac surgery\n* Patients without a history of CHD who had no or only mild coronary calcification on chest CT imaging within the past 5 years or had most recent coronary calcium scan with a score \\<400\n* Suspected acute coronary syndrome\n* Presence of any other history or condition that the investigator feels would be problematic",
+  "minimum_age": "45 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Coronary Artery Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

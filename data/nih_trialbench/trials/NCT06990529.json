@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT06990529",
+  "title": "Long-term Safety and Efficacy of Leniolisib in PIDs With Immune Dysregulation",
+  "brief_summary": "This is an open-label extension (OLE) study to extend treatment to patients with primary immunodeficiency (PID) disorders linked to phosphoinositide 3-kinase delta signaling who participated in a prior study of leniolisib, LE 7201. The primary objective is to assess long-term safety and tolerability of leniolisib. Secondary and exploratory objectives include various efficacy and immunophenotyping measures for leniolisib.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Subject must have participated in LE 7201.\n2. Subject is deemed by the Investigator to benefit from continued leniolisib therapy.\n3. Subject or their legal representatives (for a patient under the age of 18 years) must be able to communicate with the Investigator and understand and comply with the requirements of the study, including an ability to provide written informed consent before any assessment is performed.\n\nExclusion Criteria:\n\n1. Subject has had a successful allogeneic hematopoietic stem cell transplant.\n2. Previous or concurrent use of immunosuppressive medication, such as:\n\n   1. Use of an mTOR inhibitor or a PI3K delta inhibitor, besides leniolisib, within 3 weeks prior to first dosing of study medication.\n   2. Rituximab or other B-cell depleting antibodies, belimumab, cyclophosphamide, or alemtuzumab within 6 months prior to first dosing of study medication.\n   3. Cyclosporine A, mycophenolate mofetil, 6-mercaptopurine, azathioprine, methotrexate, tacrolimus, ruxolitinib or other Janus kinase (JAK) inhibitors within 3 weeks prior to first dosing of study medication.\n   4. Corticosteroids above 25 mg prednisone or equivalent per day within 2 weeks prior to first dosing of study medication.\n   5. Other immunosuppressive agents expected to have a significant impact on immune cell number or function.\n3. Subject is receiving concurrent treatment with another investigational therapy or use of another investigational therapy less than 4 weeks or 5 half lives (whichever is longer) prior to first dosing of study medication.\n4. History of hypersensitivity to the study drug or to drugs of similar chemical classes.\n5. Current use of medication known to be a strong inhibitor or moderate or strong inducer, of isoenzyme cytochrome P450 (CYP)3A.\n6. Current use of medications that to a larger extent are breast cancer resistant protein (BCRP), organic anion transporting polypeptide (OATP)1B1, and/or OATP1B3 substrates.\n7. History of acquired immunodeficiency diseases, including a positive human immunodeficiency virus (HIV) test result at screening.\n8. Uncontrolled chronic or recurrent infectious disease (except those considered to be characteristic of PID), or evidence of tuberculosis (TB) infection as defined by a positive QuantiFERON TB-Gold test at Screening.\n9. Any surgical or medical condition which may jeopardize the subject in case of participation in the study, or might significantly alter the absorption, distribution, metabolism, or excretion of drugs (conditions due to underlying clinical PID phenotype may be permitted):\n\n   1. Uncontrolled hypertension\n   2. Congestive heart failure (New York Heart Association status of class III or IV)\n   3. Diagnosis of electrocardiogram (ECG) abnormalities indicating a significant risk of safety\n   4. Chronic obstructive pulmonary disease (Global Initiative for Chronic Obstructive Lung Disease \\[GOLD\\] stage 3-4)\n   5. Chronic need for supplemental oxygen or invasive or non-invasive respiratory support\n   6. Major GI tract surgery that may affect drug absorption (such as gastric bypass surgery, gastroenterostomy)\n   7. Acute pancreatitis\n   8. Liver failure or clinically significant liver disease or dysfunction as indicated by ALT or AST greater than 2.5 times the upper limit of normal, bilirubin greater than 2 times the upper limit of normal, INR greater than 1.5 in the absence of anticoagulation, or presence of diuretic refractory ascites\n   9. History of significant renal injury/renal disease severely affecting renal function or presence of impaired renal function as indicated by estimated glomerular filtration rate (eGFR) of less than 30 mL/min/1.73 m2.\n10. A positive hepatitis B surface antigen (HBsAg), positive hepatitis B polymerase chain reaction (PCR), positive hepatitis C PCR, or positive hepatitis C antibody result at screening.\n11. Administration of live vaccines (this includes any attenuated live vaccines) starting from 6 weeks prior to first dosing of study medication, during the study, and up to 7 days after the last dose of leniolisib.\n12. Subject has a previous diagnosis of lymphoma that has been treated with chemotherapy, radiotherapy, or transplant within 1 year prior to first dosing of study medication or is anticipated to require lymphoma treatment within 6 months of the first dose of study medication.\n13. Subject has a history of malignancy (except lymphoma) within 3 years prior to first dosing of study medication or has evidence of residual disease from a previously diagnosed malignancy, except for adequately treated cancers of the skin (basal or squamous cell) or carcinoma in situ of the uterine cervix.\n14. Subject has uncontrolled post-transplant lymphoproliferative disease-like Epstein-Barr-virus-related lymphoproliferative disease.\n15. Subject has had major surgery requiring hospitalization or radiotherapy within 4 weeks prior to first dosing of study medication or has a planned or expected major surgical procedure during the study period.\n16. Pregnant or nursing (lactating) women.\n17. An individual of child-bearing potential who is physiologically capable of becoming pregnant, unless using highly effective methods of contraception.",
+  "minimum_age": "12 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "PIDs Linked to PI3K"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an open-label extension study for patients with primary immunodeficiency (PID) who previously participated in a leniolisib trial. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, as eligibility is based solely on participation in the prior study.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on prior participation in study LE 7201, with no mention of prior lines of systemic therapy for advanced disease. The protocol does not specify or restrict the number of prior lines for advanced/metastatic disease, nor does it address adjuvant-only patients."
+    }
+  ]
+}

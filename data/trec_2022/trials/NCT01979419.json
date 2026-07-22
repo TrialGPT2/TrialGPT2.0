@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01979419",
+  "title": "Korea Alzheimer's Disease Neuroimaging Initiative",
+  "brief_summary": "PRIMARY OBJECTIVES\n\n-Establish a registry for Alzheimer's disease (AD) and subcortical ischemic vascular dementia (SIVD)\n\nSTUDY DESIGN\n\n-This is a non-randomized, natural history, observational, registry study.\n\nSAMPLE SIZE AND RECRUITMENT\n\n\\- Five hundred subjects will be enrolled at each clinical site (50 NC, 200 with MCI, 50 with AD, 100 with vMCI, and 100 with SIVD)\n\nSUMMARY OF KEY ELIGIBILITY CRITERIA\n\n* Newly enrolled subjects will be between 50-80 (inclusive) years of age.\n* 1\\) Cognitively Normal Subjects\n* 2\\) MCI subjects\n* 3\\) AD subjects\n* 4\\) vMCI or SIVD\n\nPROCEDURES\n\n* Recruited subjects will have clinical/cognitive assessments, biomarker and genetic sample collection, and imaging.\n* Subjects will be followed up for 36 months from the baseline visit. All assessments are to be performed every year from baseline(0, 12, 24, 36 months), except; 1) FDG-PET and amyloid-PET will be performed every two years, i.e., on baseline and at 24 month visit. 2) CSF collection will also be performed on baseline and at 24 months visit. 3) Clinical/cognitive assessment and MRI evaluation will additionally be done at 6 months from baseline to determine short term change.\n\nOUTCOME MEASURES\n\n* Group differences for each clinical, cognitive, biochemical, and imaging measurement.\n* Rate of conversion or change of disease severity will be evaluated among all groups\n* Correlations among biomarkers and biomarker changes",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Cognitively Normal Subjects\n\n   * Mini-Mental State Examination (MMSE) scores between 24-30 (inclusive)\n   * Clinical Dementia Rating (CDR)=0\n   * non-depressed (Geriatric Depression Scale scores less than 4)\n   * no evidence of cognitive impairment\n2. MCI subjects\n\n   * MMSE scores between 24-30 (inclusive)\n   * a subjective memory concern reported by subject, informant, or clinician\n   * objective memory loss measured by age and education year adjusted scores on logical memory sub-test (below -1.5 SD)\n   * CDR=0.5\n   * preserved activities of daily living, and an absence of dementia.\n3. AD subjects\n\n   * MMSE scores between 20-26 (inclusive)\n   * CDR= 0.5 or 1.0.\n   * meets National Institute of Neurological and Communicative Disorders and Stroke / Alzheimer's Disease and Related Disorders Associations (NINCDS/ADRDA) criteria for probable AD\n4. vMCI or SIVD\n\n   * For diagnosis of vMCI or SIVD, it is necessary to meet the above clinical/cognitive test scores of MCI or AD.\n   * Presence of vascularity are determined by; 1) more than 2 vascular risk factors in recent 5 years (hypertension, diabetes, stroke, dyslipidemia, other cardiovascular disease, obesity, lack of exercise, and smoking) AND 2) more than 1 evidence of vascular neurological symptom, sign, or history AND 3) neuroimaging evidence of white matter hyperintensity, which is rated moderate or severe on MR T2-weighted image(T2WI) or FLAIR images.\n\nExclusion Criteria:\n\n* Screening/baseline MRI scan with evidence of infection, infarction, or other focal lesions; Participants with multiple lacunes or lacunes in a critical memory structure are excluded\n* Presence of pacemakers, aneurysm clips, artificial heart valves, ear implants, metal fragments or foreign objects in the eyes, skin or body\n* Major depression, bipolar disorder as described in Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) within the past 1 year\n* Currently treated with medication for obsessive-compulsive disorder or attention deficit disorder\n* History of schizophrenia\n* History of alcohol or substance abuse or dependence within the past 2 years\n* Any significant systemic illness or unstable medical condition which could lead to difficulty complying with the protocol\n* Any significant neurologic disease such as Parkinson's disease, multi-infarct dementia, Huntington's disease, normal pressure hydrocephalus, brain tumor, progressive supranuclear palsy, seizure disorder, subdural hematoma, multiple sclerosis, or history of significant head trauma followed by persistent neurologic defaults or known structural brain abnormalities.",
+  "minimum_age": "50 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Community Sample",
+  "condition": [
+    "Mild Cognitive Impairment",
+    "Alzheimer's Disease",
+    "Subcortical Vascular Dementia"
+  ],
+  "overall_status": "UNKNOWN"
+}

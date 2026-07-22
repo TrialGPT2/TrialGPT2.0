@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01639443",
+  "title": "Reducing VA No-Shows: Evaluation of Predictive Overbooking Applied to Colonoscopy",
+  "brief_summary": "In this research study, investigators use colonoscopy as a case example to evaluate a predictive overbooking model derived using patient-level predictors of absenteeism. The no-show overbooking intervention employs a logistic regression model that uses patient data to predict the odds of no-showing with 80% accuracy. These projected no-show appointments will be overbooked by clerks for patients who agree to join a \"fast track\" short-call line. By rapidly processing endoscopy patients and moving them out of traditional slots, investigators predict more scheduling slots would become available for patients awaiting colonoscopy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients who are scheduled for upper endoscopy and agree to the terms of \"fast track\" offer.\n\nExclusion Criteria:\n\n* If a patient expresses concern about service denial, confusion about the bargain, or refuses to participate, the investigators will schedule these patients routinely.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Colon Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

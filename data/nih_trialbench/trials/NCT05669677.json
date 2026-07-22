@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT05669677",
+  "title": "Study to Determine the Response to COVID-19 Vaccination and Prevalence of COVID-19 in Subjects With Chronic Liver Disease",
+  "brief_summary": "Background:\n\nThe COVID-19 global pandemic killed more than 6 million people worldwide. Several vaccines have been developed against the virus that causes this disease. These vaccines are effective at preventing severe symptoms and death from COVID-19. Some people with chronic liver disease, especially those with an advanced condition called cirrhosis, do not respond to many vaccines as well as healthy people do. The goal of this natural history study is to find out how well people with chronic liver disease respond to the COVID-19 vaccines.\n\nObjective:\n\nTo learn how chronic liver disease affects the body s immune response to vaccination against COVID-19.\n\nEligibility:\n\nPeople aged 18 years or older with chronic liver disease. They must also be enrolled in protocol 91-DK-0214 or 18-DK-0091.\n\nDesign:\n\nParticipants will have 3 visits, each spaced 6 months apart. Each visit will last 2 hours.\n\nParticipants will have their vital signs recorded. These include age, sex, race, height, and weight. They will give their medical history.\n\nAt each visit, participants will have blood drawn through a needle inserted into a vein in the arm. The sample drawn at each visit will be from 1 to 8 tablespoons.\n\nAt each visit, participants will fill out a questionnaire. They will answer questions about whether they have been vaccinated against COVID-19; whether they have had COVID-19; and whether they have been exposed to someone who had COVID-19. The questionnaire will take 10 to 15 minutes.\n\nResearchers will also look at results of past blood tests from other research studies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to participate in this study, an individual must meet all of the following criteria:\n\n1. Male or females \\>= 18 years of age\n2. Evidence of chronic liver disease within the last 12 months.\n\n   a. Patients with chronic hepatitis B who became negative for HBsAg will be eligible because they may reactivate following SARS-COV-2 exposure.\n3. Enrolled in protocol 91-DK-0214 or 18-DK-0091\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. History of only resolved chronic Hepatitis C (anti-HCV positive, HCV RNA negative) with no evidence of any other chronic liver disease, unless cirrhotic or unless prior cryopreserved peripheral blood mononuclear cells (PBMC) available.\n2. Inability to provide informed consent\n3. Patients with primary immunodeficiency disorders\n4. Presence of conditions that, in the opinion of the investigators, would not allow the patient to be followed in the current study",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Male or female subjects greater than or equal to 18 years of age will be recruited from study 91-DK-0214: with chronic liver disease or recovery of chronic liver disease followed at the Clinical Center.",
+  "condition": [
+    "Chronic or Recovered Hepatitis B",
+    "Chronic or Recovered Hepatitis C",
+    "Chronic or Recovered Hepatitis D",
+    "NAFLD",
+    "NASH"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a natural history study evaluating immune response to COVID-19 vaccination in adults with chronic liver disease. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they specify any requirements or exclusions based on prior cancer treatment. The study is focused on chronic liver disease and COVID-19 vaccination response, not on cancer therapy lines."
+    }
+  ]
+}

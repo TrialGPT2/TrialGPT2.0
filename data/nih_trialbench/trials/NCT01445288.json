@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT01445288",
+  "title": "Exploratory Study of Effects of Radiation Therapy in Pediatric Patients With Central Nervous System Tumors",
+  "brief_summary": "This study will analyze the effects of radiation given to children who have tumors of the central nervous system (CNS). Researchers want to learn more about changes in the quality of life that patients may experience as a result of radiation.\n\nPatients ages 21 and younger who have a primary CNS tumor and who have not received radiation previously may be eligible for this study. They will have a medical history and physical examination. Collection of blood (about 2-1/2 tablespoons) and urine will be done, as well as a pregnancy test. Patients will complete neuropsychological tests, which provide information about their changes in functioning over time. An expert in psychology will give a number of tests, and the patient's parents or guardian will be asked to complete a questionnaire about the patient's behavior. Also, patients will be given a quality of life questionnaire to complete and vision and hearing tests. The radiation itself is prescribed by patients' doctors and is not part of this study.\n\nMagnetic resonance imaging (MRI) will give researchers information about the tumor and brain, through several scanning sequences . MRI uses a strong magnetic field and radio waves to obtain images of body organs and tissues. Patients will lie on a table that slides into the enclosed tunnel of the scanner. They will need to lie still, and medication may be given to help them to do that. They may be in the scanner for up to 2 hours. As the scanner takes pictures, patients will hear knocking or beeping sounds, and they will wear earplugs to reduce the noise. A contrast agent will be administered, to allow images be seen more clearly. Blood and urine tests will be conducted after the first dose of radiation. MRI scans will be done 2 weeks after patients finish radiation therapy and again at 6 to 8 weeks, 6 months, 12 months, and yearly. Also at those follow-up periods, patients will undergo similar procedures as previously, including blood and urine tests and neuropsychological testing. Patients can remain in this study for 5 years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAge: Patients must be less than or equal 21 years of age.\n\nTumor: Any primary CNS tumor.\n\nReferred for radiation therapy at NCI.\n\nSigned informed consent by patient, parent or legal guardian.\n\nPERFORMANCE SCORE: any.\n\nPRIOR/CONCURRENT THERAPY: Patients will be eligible if they have not received prior radiation.\n\nPatients who have undergone prior surgery or who have received chemotherapeutic regimens are eligible.\n\nEXCLUSION CRITERIA:\n\nPatients who have received prior radiation.\n\nPatients who are unable to have MRI performed for any reason.",
+  "minimum_age": "1 Month",
+  "maximum_age": "21 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Pediatric patients 21 years of age or younger with CNS tumors for which radiation therapy is recommended@@@",
+  "condition": [
+    "Diffuse Intrinsic Pontine Glioma",
+    "PNET",
+    "Ependymoma",
+    "Germinoma",
+    "Medulloblastoma"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This study enrolls pediatric patients with primary CNS tumors who are referred for radiation therapy and have not previously received radiation. Patients may have received prior surgery or chemotherapy, including adjuvant or neoadjuvant therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligible patients must not have received prior radiation therapy but may have had prior surgery or chemotherapy, including adjuvant regimens. Patients who have only received adjuvant or neoadjuvant therapy (and no prior systemic therapy for advanced disease) are allowed. This cohort represents first-line radiation therapy for CNS tumors."
+    }
+  ]
+}

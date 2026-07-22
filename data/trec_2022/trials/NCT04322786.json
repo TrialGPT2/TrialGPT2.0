@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04322786",
+  "title": "The Use of Angiotensin Converting Enzyme Inhibitors and Incident Respiratory Infections, Are They Harmful or Protective?",
+  "brief_summary": "The study use UK based linked electronic health records from the Clinical Research Datalink (CALIBER) of 5.6 million individuals to conduct a matched case-control study to investigate the incidence of influenza in individuals prescribed ACEI compared to those not prescribed ACEI.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* We identify individuals aged 18 years or older and registered in the current primary care practice for at least one year.\n\nExclusion Criteria:\n\n* We exclude individuals with a prior history of influenza and viral pneumonia before study entry.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The nested case-control study include cases who had an ACEI prescription during study follow-up. We randomly select one control per case from the study cohort of individuals without any documented ACEI use. Controls are matched to incident AF patients according to sex, age (10-year age strata).",
+  "condition": [
+    "Covid-19, Coronavirus, Angiotensin Converting Enzyme Inhibitors, Influenza, Electronic Health Records, Epidemiology, Comorbidity, Incidence, United Kingdom"
+  ],
+  "overall_status": "UNKNOWN"
+}

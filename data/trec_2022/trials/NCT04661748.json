@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04661748",
+  "title": "Automated Alerts of Patient Deterioration vs. Routine Monitoring of High-risk Patients Admitted to Medical Wards",
+  "brief_summary": "The primary aim of the current study is to assess the effect of continuous wireless vital signs monitoring with generation of real-time alerts compared to blinded monitoring without alerts on the cumulative duration of any severely deviating vital signs in patients admitted to general hospital wards with acute medical conditions. Patients admitted with medical conditions represents a large and heterogenous group occupying a substantial part of the total in-patient capacity in the Danish hospitals today. The hypothesize is that continuous vital signs monitoring, and real-time alerts will reduce the cumulative duration of severely deviating vital signs.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Inclusion and randomization possible within 12 hours of fulfilling all other inclusion criteria below.\n* Adult patients (\u226518 years).\n* At least one (additional) expected overnight stay.\n* High-risk medical admission, defines as EITHER:\n\n  * one or more of the following symptoms or tentative diagnoses: Pneumonia, dyspnea, acute coronary syndrome, new onset heart failure or sepsis WITH two or more of the following deviations in vital signs recorded at one time point within 48 hours of admission:\n\n    * Respiratory rate \u2265 21 min-1 or \u2264 7 min-1\n    * Oxygen saturation of arterial hemoglobin \u2264 93 %\n    * Pulse rate \u2265 111 min-1 or \u2264 40 min-1\n    * Systolic blood pressure \u2264 100 mmHg or \\> 200 mmHg\n    * Temperature \\> 39 \u00b0C or \u2264 35,9 \u00b0C\n    * Any alteration in mental status\n    * Any oxygen supplementation\n\nOR\n\n\u25cb Discharged from ICU-stay lasting \u2265 24 hours regardless of cause of ICU-admission.\n\nExclusion Criteria:\n\n* Patient expected not to cooperate with study procedures.\n* Allergy to plaster or silicone.\n* Patients admitted for palliative care only (i.e. no active treatment).\n* Planned admission to unit using continuous vital sign monitoring (i.e. an intermediary care/telemetry unit).\n* Patients previously enrolled in the studies WARD-COPD (H-18026653) or WARD-Surgery (H-17033535).\n* Patients previously enrolled in the surgical ward RCT\n* A pacemaker or Implantable Cardioverter Defibrillator (ICD) device.\n* Inability to give informed consent.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Alert Fatigue, Health Personnel",
+    "Deterioration, Clinical"
+  ],
+  "overall_status": "COMPLETED"
+}

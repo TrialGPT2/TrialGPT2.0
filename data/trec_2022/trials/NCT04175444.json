@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04175444",
+  "title": "Establishing a Normative Database in Pediatric Population of the Head-mounted visuALL Field Analyzer",
+  "brief_summary": "The goal of this study is to determine reference values of the VisuALL Field Test in pediatric population. Standard Automatic Perimetry (SAP) is the gold standard test for the evaluation of different diseases of the visual pathway like glaucoma. Its main goal is to measure the differential light sensitivity at several locations in the central field of vision. Nevertheless, the accuracy of the current devices is limited by several factors such as the inherent inconsistency of the psychophysical test, stressful examinations and frequency of testing.\n\nSeveral devices have been developed since the advent of the Octopus Perimeter and the Humphrey Field Analyzer (HFA) in an effort to improve the early detection of glaucoma. Several of these visual field test variants are implemented using laptops, iPads, and virtual reality headsets. These modalities bring portability but lack fixation methods, environmental control, and hardware standardization. These deficiencies may limit their wide usage.\n\nThe main goal of this study is to develop an initial pediatric reference database of a novel visual field test ecosystem that takes advantage of a Head Mounted Device (HMD).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* No history of intraocular surgery\n* Best corrected visual acuity (BVCA) 20/25 or better in each eye\n\nExclusion Criteria:\n\n* A spherical refraction outside \u00b1 5.0 D and cylinder correction outside 2.0 D.\n* Intraocular surgery in the study eye\n* History of systemic condition known to affect visual function.\n* History of medication known to affect visual function.",
+  "minimum_age": "8 Years",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Population will be healthy children recruited. All ethnicities will be included and both genders.",
+  "condition": [
+    "Visual Field Defect, Peripheral"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03767790",
+  "title": "Model Predictive Control (MPC) Artificial Pancreas vs. Sensor Augmented Pump (SAP)/Predictive Low Glucose Suspend (PLGS) With Different Food Choices in the Outpatient Setting",
+  "brief_summary": "The objective of this randomized crossover clinical trial is to 1) assess the efficacy and safety of an automated insulin delivery (AID) system using a Model Predictive Control (MPC) algorithm versus sensor augmented pump therapy (SAP)/Predictive Low Glucose Suspend (PLGS) in people with type 1 diabetes, and 2) assess the impact of different meal macronutrient content on glucose control when using AID and SAP.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis, based on investigator assessment, of type 1 diabetes for at least one year and using insulin for at least 1 year.\n* Using an insulin pump for at least 3 months at the time of screening. Insulin pump use includes use of automated features, to include predictive or threshold low-glucose suspend or hybrid closed-loop with without a Dexcom sensor.\n* Familiarity and use of a carbohydrate ratio for meal boluses.\n* Age \u226518.0 years old\n* HbA1c \\< 10.5%, as performed by point of care or central laboratory testing. A1c will be assessed at the screening visit, or if already completed within 2 weeks of the screening visit, the prior lab value may be used in lieu of repeating this assessment.\n* For females, not currently known to be pregnant. If female and sexually active, must agree to use a form of contraception to prevent pregnancy while a participant in the study. A negative serum or urine pregnancy test will be required for all females of child-bearing potential. Participants who become pregnant will be discontinued from the study. Also, participants who during the study develop and express the intention to become pregnant within the timespan of the study will be discontinued.\n* Willingness to switch home pump to PLGS or full manual mode if using hybrid closed-loop with an FDA approved system.\n* Have an emergency contact living at home with the subject who will be available to be contacted by the study staff overnight in the event of an emergency.\n* Investigator has confidence that the participant can successfully operate all study devices and is capable of adhering to the protocol, to include having basic cooking equipment at home to prepare the study meals.\n* Willingness to switch to lispro (Humalog) or aspart (Novolog) if not using already, and to use no other insulin besides lispro (Humalog) or aspart (Novolog) during the study.\n* Willingness not to start any new non-insulin glucose-lowering agent during the course of the trial.\n\nExclusion Criteria:\n\n* Use of an unapproved closed-loop insulin delivery system within 2 weeks before screening or during the study is not allowed.\n* Gastrointestinal disease such as celiac disease or multiple food allergies.\n* Any form of gluten sensitivity or wheat allergy.\n* Allergies to any form of nuts or ingredients present in the study meals (tomatoes etc).\n* History of difficulty digesting food.\n* Concurrent use of Afrezza or any non-insulin glucose-lowering agent other than metformin (including GLP-1 agonists, Symlin, DPP-4 inhibitors, SGLT-2 inhibitors, sulfonylureas).\n* Hemophilia or any other bleeding disorder\n* One or more episodes of hypoglycemia requiring an emergency room visit or hospitalization in the past 6 months.\n* One or more episodes of hyperglycemia requiring an emergency room visit or hospitalization in the past 6 months.\n* Self-reported or clinically documented hypoglycemia unawareness.\n* A condition, which in the opinion of the investigator or designee, would put the participant or study at risk\n* Participation in another pharmaceutical or device trial at the time of enrollment or during the study\n* Having a direct supervisor at place of employment who is also directly involved in conducting the clinical trial (as a study investigator, coordinator, etc.); or having a first-degree relative who is directly involved in conducting the clinical trial",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Type 1 Diabetes Mellitus"
+  ],
+  "overall_status": "COMPLETED"
+}

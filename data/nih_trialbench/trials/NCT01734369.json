@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT01734369",
+  "title": "Environmental Risk Factors for Myositis in Military Personnel",
+  "brief_summary": "Background:\n\n* Myositis is a rare disease in which the body s immune cells attack the muscle tissue. It can cause muscle weakness, swelling, and pain. It can develop in people with no history of muscle problems. Environmental exposures may determine who develops myositis. Genes may also affect development of the disease.\n* Some people who serve in the military develop myositis. However, other military personnel do not. Researchers want to compare military personnel with and without myositis. They will look for common factors that might have led to the disease.\n\nObjectives:\n\n\\- To study environmental risk factors for myositis in military personnel.\n\nEligibility:\n\n* Military personnel who developed myositis during their period of service.\n* Healthy military personnel who do not have myositis or another autoimmune disease.\n\nDesign:\n\n* Participants will have a physical exam and medical history.\n* Participants will fill out forms about environmental exposures, particularly while in the military. The questions will ask about past infections, vaccines and medications, and personal habits. They will also ask about participants occupations during military service and their deployments.\n* Participants will also provide blood samples for study.\n* No treatment will be provided as part of this study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* ELIGIBILITY CRITERIA:\n\nFor Aim 1 of the study:\n\nThe inclusion criteria for myositis subjects are:\n\n-Diagnosis of PM, DM or IBM during military service. Subjects may be active duty or no longer active duty personnel. A matrix diagnosis of myositis will be based on ICD-9 codes, laboratory tests and medical records in an attempt to match criteria for probable or definite PM, DM or IBM\n\nThe inclusion criteria for matched control subjects are:\n\n-The same gender, race, age within 10 years, and service in the military within 10 years as the myositis subject.\n\nThe exclusion criteria for control subjects are:\n\n-A matrix diagnosis of autoimmune or chronic muscle disease based on ICD-9 codes and medical records.\n\nFor Aims 2 and 3 of the study:\n\nThe inclusion criteria for enrollment of myositis subjects are:\n\n* Diagnosis of myositis during military service or service as a military contractor or civilian working for the military, based on criteria for probable or definite PM or DM, or clinically or pathologically defined or possible IBM. Subjects may be active duty or no longer active duty personnel. Military contractors or civilians working for the military include those with at least 1 year of collective service on a military base or who actively deployed with military units after October 1998 and developed myositis will be eligible for this study.\n* Able and willing to give informed consent, to complete the questionnaires and to donate blood samples.\n\nThe inclusion criteria for matched controls are:\n\n* Persons with military experience or having served as a military contractor or civilian working for the military attending the same clinic or hospital as the myositis subject to which they are matched, or if not available, volunteers from the general community (such as other participating military or VA hospitals, private HCPs, or the NIH healthy volunteer program), gender- race- and age- (within 10 years) and military service period (within 10 years) matched to the myositis subject. Military contractors include those with at least 1 year of collective service on a military base or who actively deployed with military units after October 1998.\n* Controls should be without a recognized autoimmune or chronic muscle disease, able and willing to give informed consent, to complete the questionnaires and to donate blood samples.\n\nThe exclusion criteria for all protocol subjects are:\n\n* Medical illness that in the judgment of the investigators does not allow safe blood draws or other clinical evaluations needed for study participation.\n* Chronic muscle diseases other than idiopathic inflammatory myopathy (e.g., infectious, dystrophic, metabolic, toxic or drug-induced myopathies).\n* Cognitive impairment.\n* Not able or willing to give informed consent.\n* Age \\<18 years.\n* Current incarceration\n\nThere are no gender or ethnic restrictions to enrollment in the study.\n\nHIV is not an exclusion for this study for the two following reasons:\n\n* It has no impact on study procedures or tests.\n* HIV may be one of the viral risk factors we are investigating.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Myositis patients include diagnosis of myositis during military service or service as a military contractor based on criteria for probable or definite PM or DM, or clinically or pathologically defined or possible IBM. Subjects may be active duty or no longer active duty personnel. Military contractors include those with at least 1 year of collective service on a military base or who actively deployed with military units after October 1998 and developed myositis will be eligible for this study. Control subjects include persons with military experience or having served as a military contractor attending the same clinic or hospital as the myositis subject to which they are matched, or if not available, volunteers from the general community (such as other participating military or VA hospitals, private HCPs, or the NIH healthy volunteer program), matched to the myositis subject.",
+  "condition": [
+    "Dermatomyositis",
+    "Adult Polymyositis",
+    "Inclusion Body Myositis",
+    "Myositis"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study of environmental risk factors for myositis in military personnel and matched controls. No cancer therapy or lines of systemic therapy for advanced disease are relevant to this protocol.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This is a non-interventional study of myositis and does not involve cancer treatment or systemic therapy for advanced disease. No line-of-therapy criteria are specified or applicable."
+    }
+  ]
+}

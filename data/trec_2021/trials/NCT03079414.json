@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03079414",
+  "title": "The Role of Electrophysiology Testing in Survivors of Unexplained Cardiac Arrest",
+  "brief_summary": "Sudden cardiac death (SCD) remains a major cause of mortality within developed nations despite aggressive efforts to reduce its societal burden. Despite extensive clinical and genetic investigations, a subgroup of cardiac arrests remain unexplained, highlighting the potential contribution of additional cardiac conditions that may not be identified with contemporary diagnostic algorithms. The EPS ARREST study aims to evaluate the role of invasive electrophysiology study within this patient population.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Unexplained cardiac arrest requiring cardioversion or defibrillation\n2. Willing and able to sign informed consent\n\nExclusion Criteria:\n\n1. Coronary artery disease (stenosis \\> 50%) and clinical findings consistent with an ischemic arrest\n2. Reduced left ventricular function (left ventricular ejection fraction \\< 50%) on echocardiogram or cardiac MRI.\n3. Persistent resting QTc \\> 460 msec for males and 480 msec for females\n4. Resting QTc \\< 350 msec\n5. Type I Brugada ECG with \\>/= 2 mm ST elevation in V1 and/or V2 (Spontaneous or Drug-Induced)\n6. Polymorphic or bidirectional ventricular tachycardia observed with exertion on exercise treadmill testing\n7. Clinical, electrocardiographic, and/or imaging findings consistent with a diagnosis of arrhythmogenic right ventricular cardiomyopathy\n8. Myocarditis\n9. Reversible cause of cardiac arrest such as marked hypokalemia (\\<2.8 mmol/l) or drug overdose sufficient in severity without other cause to explain the cardiac arrest.\n10. Arrhythmic mitral valve prolapse syndrome\n11. Documented ventricular fibrillation initiated by a short-coupled premature ventricular contraction",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Survivors of unexplained sudden cardiac death for whom an underlying etiology remains unclear following a standard diagnostic workup, including 12-lead surface ECG, coronary artery assessment, echocardiography, cardiac MRI with late gadolinium enhancement, procainamide challenge, and exercise treadmill testing.",
+  "condition": [
+    "Sudden Cardiac Death"
+  ],
+  "overall_status": "COMPLETED"
+}

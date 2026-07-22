@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT01780168",
+  "title": "The NIH MINI Study: Metabolism, Infection, and Immunity in Inborn Errors of Metabolism",
+  "brief_summary": "The Metabolism, Infection and Immunity (MINI) Study is a longitudinal natural history study at the National Institutes of Health (NIH) that aims to define the relationship between infection, immunity and clinical decline in individuals with mitochondrial disease. Mitochondrial diseases are a group of disorders caused by problems with the cell s ability to produce energy. Infection in individuals with mitochondrial disease can lead to worsening clinical symptoms, particularly neurologic symptoms.\n\nGoals:\n\nThe main goal of our study is to understand the relationship between infection and clinical decline in patients with mitochondrial disease. Mitochondrial diseases can affect many different parts of the body, including the immune system and its ability to respond to infection. Therefore, we perform a comprehensive evaluation of participants including a detailed immunologic assessment.\n\nWe are not testing any new medicine or procedure to treat or cure IEM or mitochondrial diseases. However, by understanding the relationship between infection and mitochondrial disease, we hope to develop treatments in the future. At the NIH, we are interested in research. Although we do provide advice and care for people enrolled in our study, we are not able to take over the long-term care of participants. To enroll in our study, you (your child) must already have a confirmed diagnosis of a mitochondrial disease. We are not able to provide a \"first time\" diagnosis or regular metabolic care.\n\nWhat is involved?\n\nOnce you contact our team members, you will be asked to provide medical records to determine eligibility. Our team will review the records and notify you if you (your child is) eligible to join the study.\n\n-Onsite participation: You (your child) will be invited to visit the National Institutes of Health in Bethesda, Maryland. This first visit will typically last 3-5 days. Depending on the level of participation, additional visits may be requested. Our team members will work with you and your child to coordinate the supports needed during your stay at NIH. Study participants may be seen in the clinic, day hospital or inpatient setting.\n\nWhen you (your child) arrive at the NIH we will have an informed consent discussion to confirm willingness to participate, answer questions and review the risks and benefits of the study. You (your child) will meet with a physician who will ask about medical and family history and do a physical exam (like in any doctor's office). We will ask all study participants to allow us to collect urine, draw blood, swab your (your child s) nose, and perform a detailed assessment. We may suggest additional evaluations or specialty consults for some participants based on clinical manifestations, age and level of independence. We will explain these studies to you (your child). They may include items such as- imaging studies, DEXA or MRI scan, energy expenditure or metabolic testing, developmental neuropsychological logical testing, physiatry, ophthalmology, or other consults. In some cases, we may request a skin biopsy (if one has not been done). You will receive the results of your (your child's) clinical testing and notes from any clinical consultations.\n\n-Remote participation: If you (your child) are unable to travel, you (your child) may be enrolled remotely for records review, questionnaires, and telethealth exams. Blood or other samples collection may be requested in coordination with local providers or lab testing companies",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to paraticipant in this study, an individual must meet all of the following criteria:\n\n1. Stated willingness to comply with all study procedures and availability for the duration of the study.\n2. Male or female, \\>12 months of age.\n3. Diagnosis of mitochondrial disease with documented molecular evidence of disease.\n4. Healthy volunteers of any gender and ethnicity \\>2 years of age may also be eligible to enroll in the protocol. Healthy volunteers may be from the local community, or family members of patients with MtD.\n5. Agreement to adhere to Lifestyle considerations throughout study duration.\n6. Ability of subject or Legally Authorized Representative (LAR) to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n1. Lack of a local MtD provider (For participants with MtD only)\n2. \\<12 months of age\n3. Pregnancy or lactation\n4. Discretion and clinical judgement of the Principal Investigator",
+  "minimum_age": "2 Years",
+  "maximum_age": "115 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with inborn errors of metabolism including those with mitochondrial disease",
+  "condition": [
+    "Oxidative Phosphorylation Deficiencies",
+    "Electron Transport Chain Disorders, Mitochondrial",
+    "Mitochondrial Disorders",
+    "Leigh Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational natural history study enrolling patients with mitochondrial disease and healthy volunteers. There is no requirement or restriction regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they specify any requirements or exclusions based on treatment history. This is a natural history study including both mitochondrial disease patients and healthy volunteers, with no reference to lines of therapy."
+    }
+  ]
+}

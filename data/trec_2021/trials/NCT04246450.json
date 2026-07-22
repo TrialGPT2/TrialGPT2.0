@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04246450",
+  "title": "Arrhythmic Risk Stratification in Nonischemic Dilated Cardiomyopathy",
+  "brief_summary": "Nonischemic dilated cardiomyopathy is a heterogeneous disease often associated with increased rates of sudden cardiac death. Although many algorithms have been proposed, risk stratification remains suboptimal, and implantable cardioverter-defibrillators are currently recommended only in patients with poor left ventricular function. However, most cases of sudden cardiac death occur at earlier stages, in patients with relatively preserved left ventricular function and exercise capacity, for which device-therapy is currently not indicated. Several noninvasive risk factors have been associated with increased arrhythmic risk, including clinical history (syncope), imaging (fibrosis on cardiac magnetic resonance imaging and left ventricular dimensions in echocardiography) and electrocardiographic parameters (ventricular arrhythmic burden, late potentials, heart rate variability and repolarization abnormalities).\n\nThe investigators hypothesized that the encouraging findings of studies assessing more sophisticated stratification-algorithms in patients with ischemic heart disease could be extrapolated in patients with nonischemic dilated cardiomyopathy. Thus, combining noninvasive risk factors with programmed ventricular stimulation may risk-stratify such patients more accurately. In this regard, the prospective observational multicenter ReCONSIDER study aims to integrate several approaches to arrhythmic risk stratification in nonischemic dilated cardiomyopathy in a tiered, multifactorial, approach, in which noninvasive risk factors are combined with electrophysiologic studies. This approach may pave the way for a more comprehensive risk stratification algorithm in patients with nonischemic dilated cardiomyopathy, leading to more rational device-therapy, and, ultimately to lower mortality.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\nALL of the following criteria must be fulfilled:\n\n1. Dilated cardiomyopathy diagnosis based on the ESC proposed criteria1: Dilation based on left ventricular end-diastolic diameter or volume \\>2SD larger than age, gender, and body surface area adjusted normal values, hypokinesia based on left ventricular ejection fraction \u226450%, not attributable to loading conditions or coronary artery disease. In cases of LVEF\\<45%, otherwise unexplained, and no evident ventricular dilation, the diagnosis of hypokinetic, nondilated CMP will be made\n2. Patients will have to have been diagnosed \\>6 months prior to enrolment in order to exclude reversible myocarditis cases\n3. Be on sinus rhythm or with paroxysmal atrial fibrillation to facilitate noninvasive risk factor (NIRF) presence assessment\n4. Age \\>18 years and \\<80 years\n5. On optimal medical therapy for at least 3 months\n\nExclusion Criteria:\n\nA patient will be excluded from the study if any of the following criteria are present:\n\n1. Significant ventricular extrasystole burden (\\>10,000/24hrs or \\>10% PVCs) on 24hr ambulatory ECG (PVC-induced cardiomyopathy)38, 39, persisting even after all pharmacologic and/or interventional (ablation) attempts\n2. Permanent atrial fibrillation\n3. More than moderate left-sided valvular heart disease\n4. Epicardial vessel lumen stenoses \\>70% detected on coronary angiogram36 in a major coronary artery\n5. Expected survival \\<12months\n6. Pregnancy (planned and accidental)\n7. Stage IIIb chronic kidney disease (estimated glomerular filtration rate \\<30ml/hr). This mainly relates to the non-tachycardic SCD mechanisms in this population (bradycardia/pulseless electrical activity)40-42, not amenable to antitachycardic ICD interventions\n8. NYHA IV functional class\n9. Participation in another study with an active treatment arm\n10. Contraindication to either MRI performance or insertion of a transvenous ICD system",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sudden Cardiac Death Due to Cardiac Arrhythmia",
+    "Dilated Cardiomyopathy"
+  ],
+  "overall_status": "UNKNOWN"
+}

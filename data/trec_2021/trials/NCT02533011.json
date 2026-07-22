@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02533011",
+  "title": "Evaluation of the Heparin Binding Protein Levels in Sepsis",
+  "brief_summary": "Present criteria used to define sepsis are non-specific, making it difficult to both distinguish sepsis from other diseases and to predict which patients are likely to become more severely ill. In standard care, patients at risk of becoming more severely ill are neither identified nor indicated for resuscitative efforts until they develop hemodynamic insufficiency or organ failure; after progression to severe disease, mortality increases significantly. The identification of risk patients can lead to earlier initiation of resuscitation therapies and potentially lead to reduced morbidity and mortality. This study aims to determine whether Heparin-binding protein (HBP), which is secreted from neutrophils during infection and a mediator of vascular leakage, can act as a biomarker for the progression to severe sepsis with circulatory failure.\n\nThe objective of this study is to validate the utility of HBP to predict the development of delayed onset organ dysfunction in sepsis in patients and to compare the performance of HBP relative to currently used prognostic biomarkers in sepsis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of a bacterial or viral infection\n* 18 years or older\n* Meet the sepsis alert criterion (Hypotension (BP \\< 90 after 2 L of fluids or lactate \u2265 4) OR\n* PIRO (Predispose, Infection, Response, Organ dysfunction ) score \u2265 15 .\n\nExclusion Criteria:\n\n* Minors (less than 18 years of age)\n* Patients who do not meet sepsis criteria as described above",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients admitted through the emergency department with infection.",
+  "condition": [
+    "Sepsis",
+    "Infection",
+    "Septic Shock"
+  ],
+  "overall_status": "COMPLETED"
+}

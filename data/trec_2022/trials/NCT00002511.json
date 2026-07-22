@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00002511",
+  "title": "Radiation Therapy Compared With No Further Treatment Following Surgery in Treating Patients With Prostate Cancer",
+  "brief_summary": "RATIONALE: Radiation therapy uses high-energy x-rays to damage tumor cells and may be an effective treatment for prostate cancer.\n\nPURPOSE: Randomized phase III trial to compare radiation therapy with no further treatment in treating patients with stage III prostate cancer following radical prostatectomy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically documented invasive adenocarcinoma of the prostate staged pT3 pN0 after radical prostatectomy\n\n  * Preoperative staging must have been T0-3 N0 M0 based on physical exam, chest x-ray, bone scan, CT or MRI of entire pelvis and abdomen, and serum PSA\n  * At least 1 of the following features must be present:\n\n    * Complete capsule invasion (i.e., perforation)\n    * Positive surgical margins (microscopic or gross)\n    * Seminal vesicle invasion\n* Radiotherapy must begin within 16 weeks following surgery, after recovery of urinary function\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 75 and under\n\nPerformance status:\n\n* WHO 0-2\n\nHematopoietic:\n\n* Not specified\n\nHepatic:\n\n* Not specified\n\nRenal:\n\n* Not specified\n\nOther:\n\n* No other malignancies\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* Not specified\n\nEndocrine therapy:\n\n* No more than 4 months of preoperative hormonal therapy\n\nRadiotherapy:\n\n* Not specified\n\nSurgery:\n\n* Radical prostatectomy required within 12 weeks with recovery of urinary function",
+  "minimum_age": "",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Prostate Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03906227",
+  "title": "Tailoring Maintenance Therapy to Cluster of Differentiation 5 Positive (CD5+) Regulatory B Cell Recovery in ANCA Vasculitis",
+  "brief_summary": "ANCA vasculitis is a pauci-immune systemic small vessel vasculitis. The anti-neutrophilic cytoplasmic antibodies (ANCA) are pathogenic and cause disease by activating neutrophils which damage blood vessels. CD means \"cluster of differentiation\" . CD5 is a type I transmembrane protein found on T cells, thymocytes, and some B cells. Cluster of Differentiation 20 (CD20) is a type III transmembrane protein found on B cells. The investigators previously detected an association between recovery of Interleukin 10 (IL-10)-secreting CD20+ and CD5+ regulatory B cells after immunotherapy (with rituximab and corticosteroids) and decreased risk of subsequent relapse in patients with ANCA-vasculitis. The investigators hypothesize that patients with complete reconstitution of a functional regulatory B cell repertoire after induction therapy are at low risk of relapse and may be monitored conservatively without further immunotherapy. The investigators will test this hypothesis through a proof of concept randomized controlled study. Patients with normalization of CD5+ regulatory B cells will be randomized to maintenance therapy with rituximab vs. close observation without immunosuppression. Patients whose peripheral CD5+ regulatory B cells remain low after induction therapy (who are at higher risk of relapse), will receive maintenance immunosuppression with rituximab. Patients needing or randomized to maintenance therapy who are unable to receive rituximab will receive azathioprine or mycophenolate mofetil, two standard alternative medications for maintenance immunosuppression.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients 18-85 years old.\n* ANCA Glomerulonephritis (GN) or vasculitis per Chapel Hill Consensus Criteria, with documented current or previously positive Myeloperoxidase (MPO)- or Proteinase 3 (PR3)-ANCA by ELISA test. Patients with biopsy-proven, pauci-immune crescentic glomerulonephritis are eligible if they have a positive ANCA test by immunofluorescent microscopy (IIFM).\n* Patients must be in complete remission for at least 1 month and after AT LEAST 3 MONTHS of induction of therapy with corticosteroids and rituximab (either 1000 mg IV x 2 or 375 mg/m2 IV x 4) OR corticosteroids and cyclophosphamide (monthly IV or daily oral doses). They must be on no more than 5 mg daily of oral prednisone or equivalent. Complete remission is defined as a Birmingham Vasculitis Activity Score (BVAS) score = 0.\n* Patients may be ANCA negative or positive at randomization.\n* B cells are not depleted anymore: B cell recovery reaches 1% CD19+ B cells (enough to allow determination of CD5+ B cells with confidence).\n\nExclusion Criteria:\n\n* Patients who have had \u2265 2 relapses (defined as recurrence of any signs or symptoms attributable to active vasculitis) previously as patients with multiple prior relapses may be at higher risk of future relapse and require maintenance therapy\n* Patients with persistent low-grade disease activity (\"grumbling\" disease defined as BVAS \\> 0 and \u2264 3)\n* Patients with active systemic infections or deep space infections within the 3 months prior to screening.\n* Patients participating in another clinical trial mandating maintenance therapy\n* Patients with drug-induced ANCA vasculitis (e.g. levamisole-adulterated cocaine)\n* Active tuberculosis, human immunodeficiency virus (HIV), hepatitis C virus or hepatitis B virus infections\n* For women of child-bearing potential, pregnancy, breastfeeding, unwillingness or inability to comply with effective contraception\n* Inability to come to scheduled visits",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "ANCA Associated Vasculitis"
+  ],
+  "overall_status": "TERMINATED"
+}

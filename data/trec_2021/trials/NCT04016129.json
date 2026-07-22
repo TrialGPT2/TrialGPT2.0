@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04016129",
+  "title": "CAR-T Immunotherapy Targeting CD19- ALL",
+  "brief_summary": "This study will evaluate safety and efficacy of a combination of 4th generation chimeric antigen receptor gene-modified T cells targeting CD19 negative ALL that express CD22, CD123, CD38, CD10, CD20 and TSLPR, as many patients developed CD19-negative disease after CD19 CART immunotherapy. Clinical response and development of a standardized lentiviral vector and cell production protocol will be investigated. This is a phase I/II trial enrolling patients from multiple clinical centers.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age older than 6 months.\n2. Native CD19 negative B cell malignancies or relapse after CD19-CAR-T immunotherapy.\n3. Malignant B cells expressing one or more of the following surface molecules: CD22/CD123/CD38/CD10/CD20/TSLPR.\n4. The KPS score over 80 points, and survival time is more than 1 month.\n5. Greater than Hgb 80 g/L.\n6. No contraindications to blood cell collection.\n\nExclusion Criteria:\n\n1. Complications with other active diseases, and difficult to assess patient response.\n2. Bacteria, fungus, or virus infection, and unable to control.\n3. Living with HIV.\n4. Active HBV and HCV infection.\n5. Pregnant and nursing mothers.\n6. Under systemic steroid use within a week of the treatment.",
+  "minimum_age": "6 Months",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "B-cell Leukemia"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04681963",
+  "title": "Clinical Characteristics of Acutely Hospitalized Adults With Community-acquired- Pneumonia",
+  "brief_summary": "There is no gold standard when diagnosing of pneumonia. The variability of clinical signs and symptoms make it difficult to distinguish pneumonia from other causes of respiratory conditions. Well defined characteristics upon arrival to the emergency department will contribute to the better and quicker diagnosis of community-acquired pneumonia.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients \\> 18 years old\n* Patients suspected with CAP by the attending physician. The physician will base his/her suspicion on e.g. clinical symptoms such as cough, increased sputum production, chest tights, dyspnea and fever\\>38C, and indication for x-ray.\n\nExclusion Criteria:\n\n* If the attending physician considers that participation will delay a life-saving treatment or patient needs direct transfer to the intensive care unit.\n* Admission within the last 14 days\n* Verified COVID-19 disease within 14 days before admission\n* Pregnant women\n* Severe immunodeficiencies: Primary immunodeficiencies and secondary immunodeficiencies (HIV positive CD4 \\<200, Patients receiving immunosuppressive treatment (ATC L04A), Corticosteroid treatment (\\>20 mg/day prednisone or equivalent for \\>14 days within the last 30 days), Chemotherapy within 30 days)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Acutely admitted patients suspected of community-acquired pneumonia at three hospitals in The Region of Southern Denmark (Hospital S\u00f8nderjylland, Hospital Lillebaelt and Odense University Hospital).",
+  "condition": [
+    "Pneumonia"
+  ],
+  "overall_status": "COMPLETED"
+}

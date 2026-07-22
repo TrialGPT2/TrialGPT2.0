@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04433871",
+  "title": "COVID-19 in Pediatric Oncology and Hematology Centers in France",
+  "brief_summary": "Since the description of the first cases of infection in December 2019 in the Hubei province in China, a new coronavirus, called SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2), emerged and caused a pandemic. This new virus is responsible for an infectious disease with respiratory and potent severe symptoms, called COVID-19 (coronavirus disease 2019). The first data concerned essentially the adult population and gave a clinical description of the disease. However, data is missing in the pediatric population. The first published studies indicate that children seem to have a lower risk to get a severe form of COVID-19. Except the case of a child with leukemia recently described with the diagnosis of COVID-19, there is currently no data about pediatric patients with an oncology history or under chemotherapeutic drugs. Cancers are rare among children and is estimated to concern about 1700 new cases in a year in France. Malignant tumor or its treatment can affect self-immunity, which could favor SARS-CoV-2 infection or its aggravation. Thus, the investigators propose in this study to collect data about French children with a cancer and diagnosed with COVID-19.The analysis of the collected data will refine clinical characteristics of SARS-CoV-2 infection in this population. It will be critical for elaborating recommendations for the management of COVID-19 in children with cancer.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Children and parents or adult patient informed AND\n* Patient followed-up in a French SFCE pediatric oncology and/or hematology center AND\n* Patient followed-up for a cancer or a benign tumor treated with chemotherapy, radiotherapy or targeted therapy and an oncologic treatment ongoing or terminated less than 6 months ago, or patient with an history of hematopoietic stem cells transplantation with immunosuppressive treatment ongoing or terminated less than 6 month ago, or patient with history of CAR-T cell therapy AND\n* SARS-CoV-2 infection confirmed by PCR or IgM positivity OR\n* Compatible diagnosis of SARS-CoV-2 infection without biological confirmation if: 1- presence of at least two of the following clinical signs if any contact with a COVID+ subject or three of the following clinical signs in case of no such contact: fever, cough, taste or smell abnormality, myalgia, rhinorrhea, diarrhea, respiratory acute signs, recent fatigue, rash, chest pain. AND\n* At least one chest CT-scan abnormality compatible with COVID-19\n\nExclusion Criteria:\n\n* opposition of the patient or of the parents",
+  "minimum_age": "1 Month",
+  "maximum_age": "30 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Children or young adult with a recent oncologic history diagnosed with COVID-19.",
+  "condition": [
+    "Covid-19",
+    "Cancer"
+  ],
+  "overall_status": "UNKNOWN"
+}

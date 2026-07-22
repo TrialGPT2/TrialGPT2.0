@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04611672",
+  "title": "Linearity and Non-linearity of Cerebral Autoregulation",
+  "brief_summary": "Injured brain tissue supplied by a disturbed state of cerebral autoregulation (CA) is at risk of secondary ischemia, e.g. in patients with stroke, subarachnoid hemorrhage, intracerebral hemorrhage or bacterial Meningitis. Up to now, there is lack of a simple and easy to perform bed side test that would allow for to intervene when CA failure is indicated. For this purpose, we explore the dynamics of the interplay between blood pressure and cerebral blood flow velocity using transcranial Doppler ultrasound (or near infrared spectroscopy derived haemoglobin concentration changes) as a measure of CA. To describe these dynamics different mathematical models are used, but they all still need validation and proof of concept because these dynamics are poorly understood with respect to the factors which influence the composition of the mathematical models.\n\nObjectives: To what amount is CA disturbed in the different stroke subgroups ? Is a disturbed CA a risk factor of poorer outcome ?",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* every typ of ischemic stroke of any severity\n* presence of a \"temporal bone window\"\n\nExclusion Criteria:\n\n* Age \\< 18 years,\n* pregnancy\n* no informed consent.\n* absence of a \"temporal bone window\"",
+  "minimum_age": "18 Years",
+  "maximum_age": "110 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Stroke patients: all stroke patients which will be referred to our stroke Center aged 18 years or older. N=500.\n\nHealthy controls of all ages above 18 years. N=80",
+  "condition": [
+    "Stroke, Acute"
+  ],
+  "overall_status": "UNKNOWN"
+}

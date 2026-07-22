@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00006024",
+  "title": "Temozolomide Plus Lomustine Followed by Radiation Therapy in Treating Patients With High-Grade Malignant Glioma",
+  "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to damage tumor cells. Combining more than one chemotherapy drug with radiation therapy may kill more tumor cells.\n\nPURPOSE: Phase I trial to study the effectiveness of temozolomide plus lomustine followed by radiation therapy in treating patients who have high-grade malignant glioma.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed high-grade malignant glioma of one of the following subtypes:\n\n  * Glioblastoma\n  * Anaplastic astrocytoma\n  * Anaplastic oligoastrocytoma\n  * Gliomatosis cerebri\n* No disseminated disease or primary spinal cord malignancies\n* Measurable intracranial residual disease by MRI\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 3 and over\n* Under 22 at time of diagnosis\n\nPerformance status:\n\n* Karnofsky 50-100% if over 10 years of age\n* Lansky 50-100% if 10 years of age or under\n\nLife expectancy:\n\n* At least 8 weeks\n\nHematopoietic:\n\n* Absolute neutrophil count at least 1,000/mm\\^3\n* Platelet count at least 100,000/mm\\^3 (transfusion independent)\n* Hemoglobin at least 8.0 g/dL (RBC transfusions allowed)\n\nHepatic:\n\n* Bilirubin no greater than 1.5 times normal for age\n* SGPT no greater than 2.5 times normal for age\n* Albumin at least 2 g/dL\n\nRenal:\n\n* Creatinine no greater than 1.5 times normal for age OR\n* Creatinine clearance or radioisotope glomerular filtration rate at least lower limit of normal for age\n\nPulmonary:\n\n* No dyspnea at rest\n* No exercise intolerance\n* Pulse oximetry at least 94%\n\nOther:\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No uncontrolled infection\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No prior biologic therapy\n* No concurrent prophylactic hematopoietic growth factors\n\nChemotherapy:\n\n* No prior chemotherapy\n\nEndocrine therapy:\n\n* Prior corticosteroid therapy allowed\n* No concurrent corticosteroids as antiemetic\n\nRadiotherapy:\n\n* No prior radiotherapy\n\nSurgery:\n\n* No more than 31 days since prior maximal neurosurgical procedure\n\nOther:\n\n* No concurrent phenobarbital or cimetidine",
+  "minimum_age": "3 Years",
+  "maximum_age": "21 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Brain Tumor",
+    "Central Nervous System Tumor"
+  ],
+  "overall_status": "COMPLETED"
+}

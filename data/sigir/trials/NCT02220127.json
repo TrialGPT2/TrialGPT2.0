@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02220127",
+  "title": "RCT of the 4mm vs. the 8mm Collimator for GKR of Brain Micrometastases",
+  "brief_summary": "Gamma Knife Radiosurgery (GKR) is a well-established treatment modality for brain metastasis (Chiou 2013; Salvetti, Nagaraja et al. 2013). Large multicentre series have been published on patients with single and multiple cerebral metastases, treated with GKR over a period of 30 years (Karlsson, Hanssens et al. 2009). Multiple institutions have reported a consistently high local tumour control rate of 80%-90% following GKR (Chang, Lee et al. 2000; Da Silva, Nagayama et al. 2009; Salvetti, Nagaraja et al. 2013).\n\nThere is controversy over the use of GKR and/or Whole Brain Radiotherapy (WBRT) in patients with multiple metastases. WBRT provides a lower rate of distant recurrences, whereas GKR achieves good local control of treated lesions without the deleterious side effects of radiotherapy (Lippitz, Lindquist et al. 2014). This discussion is mainly focused on the risk of distant recurrences, which is lower if WBRT is given. There is evidence showing that Radiosurgery (RS) based on high contrast/resolution stereotactic MRI decreases the incidence and lengthens the time to distant recurrences (Hanssens, Karlsson et al. 2011). As a result, the current tendency is to treat all the lesions visible in high contrast/resolution images the day of Gamma Knife; which is followed by regular MRI follow ups and subsequent GKR for distant recurrences in order to avoid/delay WBRT.\n\nIt has been estimated that more than a half of distant recurrences will grow from tumour cells that were already in the brain (as micrometastases) when radiosurgery is delivered, but not much has been studied on the optimal prescription and radiation delivery method for these lesions. There is controversy over which collimator should be used when treating micro-metastases (BmM). These lesions can either be treated with the 4mm collimator at an isodose between the 40% and 90%, or the 8mm collimator at an isodose above 90%. The 8 mm collimator is thought to offer better Local Control Rate (LCR) with the advantage of faster delivered treatments, while the 4 mm collimator is considered to be safer, given its steep dose fall-off. It is the aim of this study to find out which of the 4 mm or 8 mm collimators can achieve the higher LCR with less complications. A large number of lesions will be randomised to either the 4 or the 8 mm collimator and the patients followed up to evaluate clinical efficacy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patients with brain metastasis from any primary tumour receiving GKR.\n* All intracranial micro-metastases including lesions located in the cerebral hemispheres, thalamus, basal ganglia and cerebellum and excluding lesions located in the brain stem below the level of the superior colliculi.\n* Target volume \\< 0.14 cc3 and maximum diameter \\< 7 mm.\n* The subject consents to participate in the study.\n\nExclusion Criteria:\n\n* Inability to consent\n* Younger than 18 years of age.\n* Lesions in the brainstem (below the level of the superior colliculi) are better treated with the 4 mm collimator and they will be excluded from the study.\n* Patients with more than 25 brain lesions suitable for randomisation will be excluded from the study.\n* Co-morbidity or previous treatment such as surgery, chemotherapy or WBRT is not to be considered as exclusion criteria.\n* Pregnancy in the context of brain metastases is not a contraindication for GKR, and therefore it will not be considered as exclusion criteria for this trial.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Brain Micrometastases"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00646022",
+  "title": "Natural History of Familial Carcinoid Tumor",
+  "brief_summary": "This study will evaluate members in families with a history of small bowel carcinoid cancer to study the natural history of those family members that have the disease, determine ways to improve early detection by performing surveillance on those at risk but without disease and to identify the gene(s) that may cause the tumors. Familial carcinoid tumors usually originate in hormone-producing cells that line the small intestine or other cells of the digestive tract. The tumors are slow-growing and usually take many years before they cause symptoms. It is known that these tumors occur more often in some families and are then passed from one generation to the next by inherited genes.\n\nMembers of families, including all siblings and offspring in which two or more immediate blood relatives have had small bowel carcinoid tumors are eligible for this study. In some cases unaffected spouses of family members diagnosed with carcinoid cancer are also requested to participate by donating a sample of blood only.\n\nParticipants undergo a medical evaluation every 3 years during a 3- to 5-day hospital stay at the NIH Clinical Center. All participants have a personal and family medical history obtained and undergo a physical examination, blood and urine tests.\n\nPeople who already have a small bowel carcinoid tumor or are at risk of developing a carcinoid tumor have some or all of the following procedures to determine the presence of carcinoid tumor and its (omit next two words- location or) spread to other areas of the body:\n\n* Video Capsule Endoscopy: Visualization of the gastrointestinal tract by ingesting a disposable, \"vitamin-pill sized\" video capsule that has its own camera and light source.\n* CT of the chest abdomen and pelvis with oral and IV contrast : X-ray examination of the chest, abdominal and pelvis organs.\n* 18 FDOPA Positron emission tomography (PET) with CT for localization: Nuclear imaging scan to look at tumor activity.\n* MRI Liver with contrast - to determine if disease has spread to liver\n* Gallium 68 PET/CT-limited to individuals that have residual tumor.\n* Clinical and research blood work\n\nShould mid gut carcinoid tumors be found every participant will be assisted in determine what the best course of treatment will be for them.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nThere are four types of participants who will be included in this protocol as outlined below.\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria for their group:\n\nGroup 1 (Arm 1 or Arm 2)\n\n* Male and female subjects \\>= 18 years of age\n* Have a diagnosis of small intestinal carcinoid tumor\n* Have at least one blood relation with a diagnosis of either small intestinal, pulmonary, kidney or gastropancreatic neuroendocrine tumor or metastatic neuroendocrine tumor of unknown primary\n\nGroup 2 (Arm 1 or Arm 2)\n\n* Male and female subjects \\>= 18 years of age\n* Has multiple synchronous primary small intestinal tumors\n\nGroup 3 (Arm 1 or Arm 2)\n\n* Male and female subjects \\>=18 years of age\n* Does not have a diagnosis of carcinoid tumor\n* Has one of the following:\n\n  * at least two blood relatives with any combination of diagnoses of small intestinal carcinoid tumor, a pulmonary, kidney, gastropancreatic neuroendocrine tumor or metastatic neuroendocrine tumor of unknown primary OR\n  * has at least one blood relative with multiple, synchronous primary small bowel tumors\n\nGroup 4 (Arm 2 only)\n\n* Male and female subjects \\>= 18 years of age\n* Not biologically related to the participating family but has offspring who is/are blood relative(s) of a participating subject.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this\n\nstudy:\n\n1. Members of families with multiple endocrine neoplasia (MEN) I, MEN II or other familial tumor syndromes such as Von Hippel Lindau Syndrome and Neurofibromatosis type I and type II for which there is a known genetic predisposition to non-carcinoid tumors as well as\n\n   carcinoid tumors will be excluded from the study.\n2. Any condition which, in the opinion of the investigator, would make it unsafe to participate or would prohibit completion of the protocol.\n3. Inability to provide informed consent (Arm 1 only)\n4. Pregnant or breastfeeding (Arm 1 only)",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Community sample",
+  "condition": [
+    "Carcinoid"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history and surveillance study of familial carcinoid tumor, enrolling both affected and unaffected family members, as well as unrelated controls. There is no requirement for prior systemic therapy for advanced disease, and treatment is not an intervention in this protocol.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "The study enrolls individuals with or without a diagnosis of carcinoid tumor, including unaffected family members and unrelated controls. There is no requirement for prior systemic therapy for advanced/metastatic disease, and patients may be treatment-naïve or have only received adjuvant therapy."
+    }
+  ]
+}

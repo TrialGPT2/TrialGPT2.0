@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01868334",
+  "title": "SOP Toolkit in Diverse Practices Implemented & Tested With RE-AIM",
+  "brief_summary": "The purpose of this study is to test whether or not the 4 Pillars Toolkit increases adult Influenza, pneumococcal polysaccharide vaccine (PPSV), tetanus, adult diphtheria and acellular pertussis vaccine (Tdap/Td) vaccination rates. The vaccines are all FDA licensed vaccines and to be used according to national guidelines. The investigators will conduct a randomized cluster trial of this toolkit in diverse primary care practice with electronic medical records (EMRs).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Practice staff and adults in enrolled clinical sites\n\nInclusion Criteria:\n\nSite inclusion criteria:\n\n* 1\\) an appropriate adult population: e.g., adults aged 50 years and older;\n* 2\\) currently using an EMR that has prompt ability, such as EpicCare;\n* 3\\) having and keeping immunization data within this EMR\n\nPatient-level inclusion criteria:\n\n* 1\\) Adults (18 years and above) who are active patients of the enrolled practices (e.g., active patients are those with a visit within the last 12 months)\n* 2\\) All unvaccinated adults without a contraindication are eligible to receive Td/Tdap and influenza, regardless of age and at age 65 years or older are eligible for PPSV.\n\nExclusion Criteria:\n\nSite exclusion criteria:\n\n* 1\\) consistent SOP use for the 3 vaccines being studied or high vaccination rates (e.g., 80%)\n\nPatient-level exclusion criteria:\n\n* 1\\) those with a true contraindication, following the CDC's Guide to Contraindications (attached with the US Recommended Adult Immunization Schedule), such as prior vaccine anaphylaxis.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Adult Influenza Vaccinations",
+    "Adult PPSV Vaccinations",
+    "Adult Tdap/Td Vaccinations"
+  ],
+  "overall_status": "COMPLETED"
+}

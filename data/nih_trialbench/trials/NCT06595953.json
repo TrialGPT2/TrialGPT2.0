@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT06595953",
+  "title": "Gaze-Contingent Music Therapy Augmentation of CBT for Pediatric Anxiety",
+  "brief_summary": "Background:\n\nAnxiety disorders are becoming more common among children and teenagers. Anxiety can lead to long-term physical and mental problems, such as depression. Treatments for anxiety disorders include medications as well as cognitive behavioral therapy (CBT); CBT is a form of talking therapy. Both approaches work in only about 50 percent of cases. A new approach, called gaze-contingent music reward therapy (GCMRT), may help.\n\nObjective:\n\nTo find out whether GCMRT combined with CBT is more effective than CBT alone.\n\nEligibility:\n\nChildren aged 8 to 17 years with separation anxiety disorder; generalized anxiety disorder; or social anxiety disorder. They must be enrolled in protocol 01-M-0192.\n\nDesign:\n\nParticipants will come to the clinic once a week for 4 weeks for CBT. Sometimes the participant will meet with the doctor alone; sometimes their parent may be present. They will do some computer-based tasks: They may be asked to push a button when a target appears; they may look at pictures of faces while the computer tracks their eye movements. Participants will take questionnaires each week. They will answer questions about their anxiety symptoms, feelings, and behavior.\n\nFor the next 8 weeks, participants will participate in both CBT and 1 of 2 types of GCMRT.\n\nGCMRT is a computer-based task. Participants will look at pictures with many faces in them; while they do this, pleasant music will play and stop playing over a 12-minute period.\n\nParticipants will have a final visit in week 13. They will take questionnaires. They will do final research tasks. Each visit lasts about 2 hours....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Ability of subject and parent to understand the study and the willingness to assent/consent into the study.\n2. Males and females; Age 8-17\n3. Clinician confirmed diagnosis of ongoing separation anxiety disorder, generalized anxiety disorder, or social anxiety disorder. A clinician will review a KSADS-PL DSM-5 (November 2016) (Kiddie Schedule for Affective Disorders and Schizophrenia for School Aged Children) interview, which will have occurred on Protocol 01-M-0192, to confirm diagnosis\n4. Willingness to adhere to 12 weekly in-person sessions of CBT\n5. Enrolled in Protocol 01-M-0192\n6. Subjects must speak, read and write English to be able to participate\n7. All subjects will have IQ\\>70 as assessed by a WASI or assessment by trained clinical staff which will have occurred under Protocol 01-M-0192\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Current use of any psychotropic medication\n2. Ongoing participation in another treatment or intervention study\n3. Ongoing mental health treatment outside of NIH\n4. Any mental health diagnosis aside from an anxiety disorder as determined by the Kiddie Schedule for Affective Disorders and Schizophrenia (K-SADS)\n5. Any serious medical conditions\n6. Restrictions that preclude in-person attendance of therapy",
+  "minimum_age": "8 Years",
+  "maximum_age": "17 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Psychiatric Disorders",
+    "Anxiety Disorders"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls pediatric patients with anxiety disorders who are treatment-naïve to psychotropic medications and other mental health interventions. All participants must not be receiving any current psychotropic medication or ongoing mental health treatment, indicating a first-line therapy setting.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": null,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility excludes current use of any psychotropic medication and ongoing mental health treatment, so only patients who are treatment-naïve for their anxiety disorder are enrolled. There is no mention of prior systemic therapy for advanced disease, and all participants are receiving their first intervention in this trial."
+    }
+  ]
+}

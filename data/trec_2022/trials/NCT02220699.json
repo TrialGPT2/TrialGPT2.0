@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02220699",
+  "title": "Screening for Osteoporosis in General Practice",
+  "brief_summary": "All Danish general practices have a data capture system that collects selected data from the electronic patient record. These data are used for various quality assurance purposes. The aim of the study is to evaluate the quality assurance system/program that identifies patients having an increased risk of osteoporosis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient identified as being at an increased risk of osteoporosis by the data capture system\n\nExclusion Criteria:\n\n* Known osteoporosis.\n* Patients treated with alendronate.\n* Patients below 25 years of age.\n* Bone metastasis.\n* Terminal disease.\n* Severe dementia or other disease or condition that is incompatible with participation.\n* Bone mineral density scan within the past 3 years.\n* Errors in their ICPC coding that leads to the patient being misclassified as having an increased risk of osteoporosis.\n* Patients not wanting to participate.",
+  "minimum_age": "25 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients at list at the participating general pracitices who are identified to be at an increased risk of osteoporosis by the data capture program are invited to participate (by direct contact, mail or e-mail)",
+  "condition": [
+    "Osteoporosis"
+  ],
+  "overall_status": "COMPLETED"
+}

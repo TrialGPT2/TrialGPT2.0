@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02896244",
+  "title": "AssessmeNT of the Incidence of Clostridium Difficile Infections in Hospitalized Patients on Antibiotic TrEatment",
+  "brief_summary": "During or after antibiotic treatment, antibiotic residues impair the intestinal microbiota (gut flora) and lead to adverse effects such as the emergence of bacterial resistance or the occurrence antibiotic-associated diarrhoea (AAD) including antibiotic-induced C. difficile infection (CDI). The spread of resistant Gram-negative bacteria and the increasing number and severity of CDI are considered as worldwide public health threats.\n\nDa Volterra is a biotechnology company developing a novel product, DAV132 (a medical device in Europe), intended to prevent these antibiotic adverse effects. Da Volterra is planning to carry out a phase 2-3 randomized controlled trial (RCT) of DAV132 in the prevention of antibiotic-induced CDI. The RCT will involve hospitalized patients aged \u226550 years old and treated with predefined antibiotic classes known to increase the risk of CDI. The incidence of CDI in this population is unknown, yet, incidence is an important determinant for the required sample size.\n\nTherefore, the main objective of the current study is to assess CDI incidence in patients \u226550 years of age treated with predefined antibiotic classes.\n\nIn addition, to optimise the target population of the DAV132 RCT, the effect of the predefined antibiotic agents on the intestinal microbiota will be assessed. Furthermore, biomarkers predictive of CDI occurrence might help identify patients at high risk for the disease, which could further optimise the RCT. No validated biomarkers have been described in the literature yet. Assessment of potential biomarkers is another aim of the present study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Male or female hospitalized patient.\n2. Aged \u2265 50 years old.\n3. Initiation of intravenous or oral treatment with intended duration \u22655 days (\u22651 day for clindamycin) with at least one of the following antibiotic classes, or treatment scheduled within the next 72 hours:\n\n   * Third or fourth generation cephalosporins\n   * Fluoroquinolones\n   * Penicillins +beta-lactamase inhibitors\n   * Clindamycin\n   * Carbapenems\n4. Written informed consent provided prior to inclusion.\n\nExclusion Criteria:\n\n1. Ongoing antibiotic treatment with one of the above classes initiated \\>6 hours before inclusion into the study.\n2. ICU admission at the time of inclusion or anticipated admission within 48h.\n3. Suspected or diagnosed CDI, ongoing treatment for CDI, or diarrhoea at the time of inclusion.\n4. Patient with stoma.\n5. Subject has been included into this study previously.\n6. Patient treated with probiotics to prevent CDI.\n7. Patient with any social or logistical condition which in the opinion of the investigator may interfere with the conduct of the study, such as incapacity to well understand, not willing to collaborate, or cannot easily be contacted after discharge.\n8. Subject is subject to legal protection.\n9. Subject deprived of liberty by judicial or administrative decision.",
+  "minimum_age": "50 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients aged 50 or older receiving oral or intervenous antibiotic treatment with Third or fourth generation cephalosporins, Fluoroquinolones, Penicillins +beta-lactamase inhibitors, Clindamycin, or Carbapenems during hospitalization.",
+  "condition": [
+    "Clostridium Difficile"
+  ],
+  "overall_status": "COMPLETED"
+}

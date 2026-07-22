@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04392193",
+  "title": "Proton Particle Therapy for Cardiac Arrhythmia",
+  "brief_summary": "Researchers are gathering information on the safety and effectiveness of proton radiation therapy in reducing the number of ventricular tachycardia (VT) episodes in subjects who continue to experience VT despite treatment with an implantable cardioverter defibrillator (ICD) and undergoing a previous catheter ablation.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DEVICE_FEASIBILITY",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Prior myocardial infarction, or non-ischemic disease, resulting in myocardial dysfunction\n2. EF \\<50%\n3. An implanted ICD device as secondary prevention for monomorphic VT/VF (MMVT/MMVF). This includes patients who receive a device for primary prevention and then have recurrent sustained monomorphic VT or VF.\n4. Have failed a prior catheter-based ablation for VT/VF after device implantation or have a contraindication to repeat ablation and have failed reasonable drug options over the 9 months prior to consideration of particle therapy.\n5. Repeat ablation from an epicardial venue in the absence of prior cardiac surgery, or where such an ablation is felt to be inappropriate in the view of the PI.\n6. Electrocardiographic documentation of 2 additional episodes of recurrent, sustained monomorphic ventricular tachycardia (MMVT) and/or PVC induced VT or VF that are terminated by ATP or ICD shocks (by device interrogation) over the past 9 months, since the sentinel ablation (see criteria #4). Also included, incessant VT that does not fall within device parameters for activation of ATP or shock delivery or is refractory to medication titration.\n7. Age \\<=80 years.\n\nExclusion Criteria:\n\n1. VT in the absence of cardiomyopathy.\n2. Reversible causes of VT including thyroid disorders, acute alcohol intoxication, recent major surgical procedures, trauma, or VT clearly produced by recurrent ischemia.\n3. Multiple (e.g.\\>3) clinical VT morphologies that are thought to originate from widely disparate RV or LV areas.\n4. Recent cardiac events including MI, PCI, or valve or bypass surgery in the preceding 3 months, or anticipated in the next 3 months.\n5. Hypertrophic obstructive cardiomyopathy (HOCM) \\>Class IV\n6. Progressive Class IV angina, or Class IV CHF (including past, or planned heart transplantation).\n7. Heritable arrhythmias or increased risk for torsade de pointes with Class I or III drugs.\n8. Prior surgical interventions for VT such as an encircling ventriculotomy procedure.\n9. Contraindication to appropriate anti-coagulation therapy after ablation.\n10. Renal failure requiring dialysis.\n11. Prior therapeutic radiation therapy to the left chest that would preclude safe ablation of the cardiac target in the judgement of the radiation oncologist.\n12. Medical conditions limiting expected survival \\<1 year.\n13. Women of child bearing potential (unless post-menopausal or surgically sterile)\n14. Participation in any other clinical mortality trial (participation in other non-mortality trials should be reviewed with the clinical trial management center)\n15. Unable to give informed consent.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cardiac Arrhythmia"
+  ],
+  "overall_status": "COMPLETED"
+}

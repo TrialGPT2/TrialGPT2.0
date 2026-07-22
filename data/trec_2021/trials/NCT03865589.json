@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT03865589",
+  "title": "Using Ultrasound Elastography to Predict Development of Hepatic Sinusoidal Obstruction Syndrome",
+  "brief_summary": "To perform an receiver operating characteristic (ROC) analysis, define a threshold and quantify the sensitivity and specificity of US SWE for risk stratification of patients into three categories as defined by the European Bone Marrow Transplant (EBMT) adult and pediatric criteria: no sinusoidal obstruction syndrome (SOS), mild to moderate SOS, and severe to very severe SOS. Secondarily, the investigators would also like to quantify the temporal relationship between US SWE changes and SOS diagnosis according to various clinical criteria (Modified Seattle, Baltimore, EBMT consortium).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Any patient undergoing a myeloablative conditioning regimen for HCT between 3/1/2019 and 12/31/2025 defined as one of the following:\n\n  * TBI \\>= 1200 cGy (fractionated)\n  * Cyclophosphamide + TBI (\\> 500 cGy (single) or \\> 800cGy (fractionated))\n  * Cyclophosphamide + Etoposide + TBI (\\> 500 cGy (single) or \\> 800 cGy (fractionated))\n  * Cyclophosphamide + Thiotepa + TBI (\\> 500 cGy (single) or \\> 800 cGy (fractionated))\n  * Busulfan (Total dose \\> 7.2 mg/kg IV or \\>9.0mg/kg orally) + Cyclophosphamide\n  * Busulfan (Total dose \\>7.2 mg/kg IV or \\>9.0 mg/kg orally) + Melphalan\n  * Busulfan (Total dose \\>7.2 mg/kg IV or \\>9.0 mg/kg orally) + Thiotepa\n  * NOTE: Busulfan cumulative plasma AUC of \\>75 mg/L per hour or \\>18270 microMolar per minute could be used in the preceding criteria in lieu of the mg/kg doses.\n\nOR\n\n2\\. Any patient who has a myeloablative conditioning regimen (as defined by the local HCT team) that includes sirolimus and tacrolimus for GVHD prophylaxis.\n\nOR\n\n3\\. Any patient who is high risk for SOS irrespective of conditioning regimen: Neuroblastoma, HLH, Osteopetrosis, Thalassemia, treatment with inotuzumab or gemtuzumab within 3 months prior to HCT admission, 2nd HCT if it is myeloablative and within 6 months of prior, iron overload, steatohepatitis, active inflammatory or infection hepatitis or any other condition which puts the patient at a higher risk of developing SOS.\n\nSubjects aged 1 month through 99 years will be eligible for the study. Patients who receive defibrotide and/or ursodiol for VOD/SOS prophylaxis will also be eligible for the study. At most 175 children (ages 1 month to 18 years) and 175 adults (\\>18 years old) can be enrolled into the study.\n\nInclusion dates: Patients seen between 1/1/2019 and 12/31/2025\n\nExclusion Criteria:\n\nAny patient who has contraindication to ultrasound shear wave elastography (e.g. unable to hold still) Adults unable to consent Pregnant women Prisoners Wards of the state",
+  "minimum_age": "1 Month",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Bone Marrow Transplant Complications",
+    "Sinusoidal Obstruction Syndrome",
+    "Veno Occlusive Disease, Hepatic",
+    "Stem Cell Transplant Complications"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

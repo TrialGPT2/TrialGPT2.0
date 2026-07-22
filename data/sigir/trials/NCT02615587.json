@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02615587",
+  "title": "Burden of Illness in Atrial Fibrillation",
+  "brief_summary": "The overall goal of this retrospective registry study is to investigate the burden-of.illness in atrial fibrillation (AF) in Denmark. Several Danish registries will be utilized to collect information on the diseases epidemiology including incidence and prevalence of AF and stroke as well as a stroke risk stratification of the Danish AF-population, the clinical and economical burden (in terms of direct and indirect cost) of AF and stroke to Danish patients, healthcare providers / healthcare system and society as well as describing treatment patterns with anticoagulant agents and their consequences in terms of stroke, bleeds, death and according cost in a real-life setting.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Primary and secondary diagnosis with AF;\n* The base population of AF patients will be identified in the National Patient Registry. For a given period of time (2000-2013, both years inclusive) all patients with a hospital contact (admission, outpatient visit or ER visit) and for whom AF was the primary or secondary diagnosis code (ICD10-code: DI480, DI481, DI482, DI483, DI484, DI489) will be included.\n\nExclusion Criteria:\n\n* Patients younger than 18 and older than 90 years of age.",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The base population of AF patients will be identified in the National Patient Registry. For a given period of time (2000-2013, both years inclusive) all patients with a hospital contact (admission, outpatient visit or ER visit) and for whom AF was the primary or secondary diagnosis code will be identified.",
+  "condition": [
+    "Atrial Fibrillation"
+  ],
+  "overall_status": "COMPLETED"
+}

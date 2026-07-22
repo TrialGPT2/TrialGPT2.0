@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02408263",
+  "title": "Electrical Skin Conductance Monitoring as an Assessment of Post Operative Pain Scores",
+  "brief_summary": "Pain has been defined as a subjective experience. Various pain assessment tools, (such as NRS) have been developed and validated to objectively monitor and treat pain. There are certain patient populations, in whom, the current pain assessment tools cannot be used effectively due to communication problems such as cognitively impaired patients. In the US, the Joint Commission on Accreditation of Healthcare Organizations (JCAHO) has made it mandatory to monitor and treat pain. In the absence of reliable pain assessment tools that would objectively measure pain, there is also risk of under treatment and overtreatment of pain that may lead to negative outcomes. Therefore, a monitor that is able to predict pain levels objectively, will help to achieve above goals. The investigators are using Skin Conductance Algesimeter (SCA) to measure pain by analyzing changes in skin conductance.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients undergoing unilateral THR and TKR who are between the ages of 18 and 85 regardless of the anesthesia and postoperative analgesia type.\n* Patients participating in other studies may participate in this study as well\n* Patients with Motor Activity Assessment Scale (MAAS) Score of 3 and 4\n\nExclusion Criteria:\n\n* Age \\<18, \\>85\n* History of chronic pain as defined by use of long acting opioid medication \\> 6 months duration.\n* MAAS Score of \\<3 and \\>4.\n* Anticholinergic agent use\n* Patients with the following conditions:\n\nAutonomic neuropathy\n\n* Pacemaker/AICD\n* Burn patients or patients with severe dermatologic conditions (as defined by skin conditions causing further pain to patients that actively has to be treated)\n* Allergy to adhesive tape\n* Communication barriers\n* Bilateral Procedures\n* Patient with diagnosis of\n* Dysautonomia\n* Sympathetic dysfunction such as: Raynaud disease, Buerger disease\n* Disorders of sweating such as: Acquired idiopathic generalized anhidrosis",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients undergoing surgery for unilateral Total Hip Replacement and Total Knee Replacement.",
+  "condition": [
+    "Postoperative Pain"
+  ],
+  "overall_status": "COMPLETED"
+}

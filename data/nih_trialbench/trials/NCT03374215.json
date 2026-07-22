@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT03374215",
+  "title": "Clinical and Molecular Characteristics of Primary Aldosteronism in Blacks",
+  "brief_summary": "Background:\n\nThe adrenal gland makes the hormone aldosterone. This helps regulate blood pressure. An adrenal gland tumor that makes too much aldosterone can cause high blood pressure and low potassium. The cause of these tumors is unknown, but sometimes they are inherited.\n\nObjective:\n\nTo study the genes that may cause primary aldosteronism in Black individuals.\n\nEligibility:\n\nPeople ages 18-70 who:\n\nAre Black, African American, or of Caribbean descent\n\nAnd have difficult to control blood pressure or primary aldosteronism\n\nRelatives of people with primary aldosteronism\n\nDesign:\n\nParticipants who are relatives of people with primary aldosteronism will have only 1 visit, with medical history and blood tests.\n\nParticipants with primary aldosteronism or difficult to control blood pressure (suspected to possibly have primary aldosteronism) will be screened with a 1-2 hour visit. If they qualify, they will return for a hospital stay for 7-10 days. Tests may include:\n\nMedical history\n\nPhysical exam\n\nBlood tests: Participants will have a small tube (IV catheter) inserted in a vein in the arm. They may drink a glucose-containing liquid or get a salt solution. If medically indicated, they may have invasive blood tests with a separate consent.\n\nUrine tests: Some require a high-salt diet for 3 days.\n\nHeart tests\n\nScans: Participants lie in a machine that takes pictures of the body. A dye may be injected through a vein.\n\nSmall hair sample taken from near the scalp.\n\nKidney ultrasound\n\nBone density scan: Participants lie on a table while a camera passes over the body.\n\nIf the doctors feel it is medically necessary, they will offer participants treatment depending on their results. These treatments may cure the patient of their disease and may include:\n\n1. Having one adrenal gland removed by the Endocrine surgeon under anesthesia. Patients will have follow-up visits 2-4 weeks after surgery.\n2. Taking drugs to block the effects of aldosterone\n\nParticipants may return about 1 year later to repeat testing.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nInclusion criteria for main study:\n\n* Age greater than or equal to 18y.\n* Self-described Black race. Those with reported other racial backgrounds may enroll in protocol 00-CH-0160 instead.\n* Evidence supportive of the diagnosis of PA (e.g. HTN, hypokalemia, known adrenal nodule, elevated ARR, etc).\n* Willing and able to return to the NIH for follow-up evaluation.\n\nInclusion criteria for blood (peripheral) DNA only study:\n\n* Age greater than or equal to 7y.\n* Relative of a patient that participates in the main study (above) (i) with family history of hypertension, ACTs, or both, or (ii) with a genetic mutation identified in the course of the genetic investigations described in the main study.\n\nEXCLUSION CRITERIA:\n\nExclusion criteria for main study:\n\n* Individuals over the age of 70 years will be excluded because of the possibility of comorbidities that may significantly affect appropriate initial work-up and post-operative management. In addition, research data may be compromised by the inability to interpret data collected from patients over the age of 70 years that may be on multiple medications for a variety for reasons.\n* Women who are pregnant or nursing will be excluded for safety concerns with hyperaldosteronism workup.\n* Individuals whose medical status will not allow them, for safety reasons, to participate in the provocative testing (e.g. NYHA Class III or IV heart failure, or CKD Stage 3b or worse), or who in the opinion of the investigators have unacceptably high risk for surgical morbidity and mortality (e.g. Revised Cardiac Risk Index Class IV or above, or American Society of Anesthesiologists Physical Status Class 3 or above) will be excluded from the protocol, as they will not be able to participate profitably in the research aspects of this protocol.\n* Individuals who have current substance abuse or a psychiatric disorder or any other condition that in the opinion of the investigators would impede competence, compliance, or participation in the study.\n* Individuals found to have a known inherited syndrome as the cause for hormone over-secretion will be excluded from participation in this protocol, as the mechanisms of hormone over-secretion and tumorigenesis is likely to be distinct in these individuals. Specific examples of syndromes that may be excluded from this protocol include individuals with Carney complex, McCune-Albright syndrome, and MEN-1. If inquiries are received from such patients, they will be referred to the appropriate ongoing protocols, if possible.\n* Family members who end up being diagnosed with PA will be referred to the 00-CH-0160 protocol, to avoid selection bias in genetic mutation analyses for PA.\n* Patients unwilling or unable to abide by procedures of the protocol.\n\n\\<TAB\\>\n\nExclusion criteria for the DNA only study:\n\n-Patients unwilling or unable to provide peripheral blood for DNA studies.",
+  "minimum_age": "7 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Primary clinical, referrals from community physicians@@@",
+  "condition": [
+    "Adrenal Gland Neoplasm",
+    "Hypertension",
+    "Bone Diseases, Metabolic",
+    "Cardiovascular Disease",
+    "Hyperinsulinemia"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of patients with primary aldosteronism or difficult-to-control hypertension, and their relatives, focusing on clinical and genetic characteristics. There is no requirement or restriction regarding prior systemic therapy for advanced disease, as this is not an interventional oncology trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference prior systemic therapy for advanced or metastatic disease, nor do they specify any cancer treatment history. This is a non-oncology, observational study of primary aldosteronism and hypertension, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

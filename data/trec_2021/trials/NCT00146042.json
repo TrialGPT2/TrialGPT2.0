@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00146042",
+  "title": "UMCC 9901: Phase II Study of Tailored-Dose Docetaxel + Trastuzumab in Her-2 Positive Metastatic Breast Cancer",
+  "brief_summary": "This is a research study which aims to improve the way that doctors determine the dose of chemotherapy given to patients. Right now, chemotherapy is determined by a patient's height and weight. However, some patients metabolize chemotherapy faster or slower than the average person because of a different level of drug metabolizing enzyme in the liver. Therefore, some patients are either given too small or too large a dose of chemotherapy because the amount of enzyme is not taken into account. This research study will examine the use of a simple test, call the Erythromycin Breath Test(ERMBT) to determine the amount of enzyme which can metabolize the chemotherapy drug docetaxel (Taxotere). The dose of docetaxel will be tailored to the amount of enzyme which is available to metabolize the drug for each patient. The drug, docetaxel, is combined with another drug, trastuzumab (Herceptin), because at this time this combination appears to be promising in metastatic breast cancer research.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with biopsy proven, measurable metastatic breast cancer. Patients with bone-only, and/or effusion-only disease are excluded.\n* HER-2 neu positive by standard immunohistochemical criteria (2+ positivity).\n* No prior chemotherapy for distant metastatic disease.\n* Prior paclitaxel in the adjuvant setting is allowed.\n* Karnofsky performance status equal to 70 or greater.\n* ANC \\> 1500, Hgb \\> 10, plt \\> 100.\n* Patients with some degree of hepatic dysfunction and renal dysfunction are encouraged, in order to evaluate the ability of the ERMBT in tailoring dose in these patient populations.\n\nExclusion Criteria:\n\n* Age less than 18 years.\n* Allergy to erythromycin.\n* Previous treatment with docetaxel. Prior paclitaxel is allowed.\n* Grade \\> 2 peripheral neuropathy.\n* No confounding factors present to provide misinterpretation of data (i.e., concurrent malignancy).\n* Patients who are pregnant or nursing will not be eligible for this protocol. Women of childbearing age who are not practicing reliable birth control must have a documented negative serum HCG.\n* Patients who require concurrent treatment with drugs which are known to induce or inhibit CYP3A activity will be ineligible for the trial. This list includes the drugs midazolam, anti-mycotic agents (ketoconazole and related compounds), macrolide antibiotics (erythromycin and related compounds), nifedipine, anti-seizure drugs, and rifampin (induction).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "HER-2 Positive Metastatic Breast Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT04073290",
+  "title": "Prevention of Post-TIPS Hepatic Encephalopathy by Administration of Rifaximin and Lactulose",
+  "brief_summary": "Rationale: Hepatic encephalopathy (HE) is a major and common complication in patients with liver cirrhosis. HE can be classified in the extensive range of neurocognitive deterioration as minimal HE (MHE), covert HE (grade I), or overt HE (OHE, grade II-IV). Liver cirrhosis is the most common cause of portal hypertension (PH). Patients who develop complications of PH, like variceal bleeding or refractory ascites, can benefit from a Transjugular Intrahepatic Portosystemic Shunt (TIPS) placement. Unfortunately, post-TIPS HE is a common and often severe complication. Incidence of new onset or worsening of HE after TIPS is approximately 20-45%. Currently there is no strategy to prevent post-TIPS HE.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Elective TIPS placement for refractory ascites or recurrent variceal bleeding:\n\n   Recurrent tense ascites and one or more of the following criteria:\n\n   i. Not responding to the maximal dose of diuretics (400 milligram spironolactone and 160 milligram furosemide).\n\n   ii. Kidney insufficiency (Creatinine \\> 135 umol/L) induced by diuretics. iii. Electrolyte disturbances (Sodium \\< 125 mmol/L, Potassium \\> 5.5 mmol/L) induced by diuretics.\n\n   iv. Not tolerating higher dose of diuretics (e.g. because of subjective side effects like muscle cramps).\n\n   Recurrent variceal bleeding, not responsive to treatment with endoscopic band ligation and beta-blockers, with a high risk of failure of endoscopic treatment:\n\n   i. Patients with a variceal bleeding and Child-Pugh C (10-13 points) cirrhosis or ii. Patients with a variceal bleeding, Child-Pugh B and an active bleeding during endoscopy\n2. Age \u226518 years\n3. Confirmed liver cirrhosis as documented by liver biopsy, elastography (e.g. Fibroscan) or combination of usual radiological and biochemical criteria.\n4. Signed informed consent\n\nExclusion Criteria:\n\n1. Any absolute contraindications for TIPS placement\n2. Use of ciclosporin\n3. Life-threatening variceal bleeding with emergency TIPS placement which can not be delayed 72 hours\n4. Age \\> 80 years\n5. Non-cirrhotic portal hypertension\n6. Portal vein thrombosis (main trunk)\n7. HIV\n8. Current or recent (\\<3 months) use of rifaximin\n9. Overt neurologic diseases such as Alzheimer's disease, Parkinson's disease\n10. Pregnant or breastfeeding women\n11. Patients refusing or unable to sign informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hepatic Encephalopathy",
+    "Cirrhosis, Liver",
+    "Portal Hypertension",
+    "Liver Diseases",
+    "Pathological Processes"
+  ],
+  "overall_status": "RECRUITING"
+}

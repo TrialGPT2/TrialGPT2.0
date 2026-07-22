@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02253537",
+  "title": "Evaluation of the QuantiFERON-TB Test.",
+  "brief_summary": "To compare the results of the investigational test to the currently approved QuantiFERON-TB Gold In-Tube test.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinical symptoms consistent with a high probability of having TB disease\n* Receiving, or are likely to receive, therapy for active TB\n* Confirmed tuberculosis by either AFB smear and culture testing, or Nucleic Acid Amplification methods and culture testing.\n* Between 18 and 70 years of age.\n\nExclusion Criteria:\n\n* Taken therapy for active TB or latent TB for more than 14 days\n* Culture confirmation of M. tuberculosis not obtained",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with bacteriologically confirmed and untreated TB disease.",
+  "condition": [
+    "Tuberculosis"
+  ],
+  "overall_status": "COMPLETED"
+}

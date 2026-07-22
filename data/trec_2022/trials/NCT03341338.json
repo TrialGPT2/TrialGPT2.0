@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03341338",
+  "title": "Genes-in-Action - Hepcidin Regulation of Iron Supplementation",
+  "brief_summary": "Anaemia continues to be one of the most common health problems affecting children and pregnant women in low-income countries. Nutritional iron deficiency is believed to be the main driver of anaemia, so mass iron supplementation and food fortification programs have been recommended by most public health organizations. However, these interventions are frequently ineffective and new strategies are desperately needed.\n\nBoth anaemia and iron absorption are influenced by multiple factors, including nutritional status, infection, low grade inflammation and host genetics. The discovery of hepcidin, the master regulator of iron absorption and regulation has opened new avenues for investigation. Genome-wide association studies have identified several single nucleotide polymorphisms (SNPs) within hepcidin regulatory genes that are associated with altered iron status both in African populations.\n\nThe study aims to investigate the impact of genetic alterations in hepcidin regulation on oral iron absorption. A recall-by-genotype study will be conducted using an existing database of pre-genotype individuals in rural Gambia (West Kiang). This database comprise of data on \\>3000 Gambians, with Illumina HumanExome array data on 80K directly genotyped putative functional variants as well as imputation data on 20M variants.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Be healthy and over 18 years of age old.\n* Have provided appropriate ethical consent for involvement in studies relating to genetics.\n* Have available genotype data based on previous or ongoing genetic studies. Fasted (overnight)\n\nExclusion Criteria:\n\n* Indication of infection/inflammation at the time of enrollment as determined by self-reporting, medical history or hematology (full blood count)\n* Severe anemia (HGB\\<7 g/dL)\n* Pregnant and lactating women\n* Carrier of known genetic variants associated with iron metabolism (sickle trait, G6PD deficiency variants, HFE polymorphisms",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy adult Gambians (aged \\>18 years) with available genotype data from a cohort of 3118 individuals",
+  "condition": [
+    "Anemia"
+  ],
+  "overall_status": "COMPLETED"
+}

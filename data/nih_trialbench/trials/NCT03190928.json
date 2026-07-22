@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT03190928",
+  "title": "Clonal Evolution in Follicular Lymphoma",
+  "brief_summary": "Background:\n\nFollicular lymphoma is a type of cancer of the lymph nodes. Lab studies are important for cancer research. They help scientists better understand differences in the cancer biology of different patients. Researchers want to collect serial samples over time from people with follicular lymphoma to help them design future treatments.\n\nObjective:\n\nTo collect a variety of samples from people with follicular lymphoma to study how these diseases progress and respond to treatment.\n\nEligibility:\n\nAdults at least 18 years old who have been diagnosed with, but have not yet had any treatment for, follicular lymphoma.\n\nDesign:\n\nParticipants will be screened with medical history and physical exam. They will answer questions about daily functioning. They will have blood and urine tests. They may have scans and have tissue samples taken.\n\nParticipants will be monitored about every 4 months for up to 2 years. They will repeat screening tests. They will have a cheek swab. A small brush will be rubbed against the inside of the cheek to wipe off some cells.\n\nParticipants will have imaging scans about every 8 months for up to 2 years.\n\nParticipants may have a bone marrow aspiration and biopsy. The hipbone will be numbed with a small needle.\n\nA needle will be put into the hipbone, and about 2 tablespoons of bone marrow will be taken out through the needle.\n\nParticipants will continue being monitored every 6 months for up to 5 years, then 1 time a year.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Histologically or cytologically confirmed follicular lymphoma (FL), grades 1-2, or 3a confirmed by the Laboratory of Pathology, NCI; patients who meet criteria for immediate initiation of systemic therapy are eligible\n* Adequate tissue available from original diagnostic biopsy.\n\nNOTE: If biopsy was \\>12 months prior to enrollment OR adequate tissue is not available, tissue biopsy may be optionally repeated unless such a biopsy is considered unacceptable risk to the patient. Patients without adequate tissue are eligible at the discretion of the PI.\n\n\\- Must have disease that is measurable or evaluable on either computed tomography (CT) scans or FDG-positron emission tomography (FDG-PET) scans\n\nNOTE: Since patients with FL may have lesions that wax and wane on imaging, the requirement for disease being measurable or evaluable can come from imaging taken at any time at or after diagnosis, the most recent imaging prior to enrollment does not need\n\nto show measurable or evaluable disease.\n\n\\- Age greater than or equal to 18 years\n\nNOTE: Patients with the pediatric-type follicular lymphoma are usually \\<18 years of age, and often have a very different clinical course than patients with the adult-type of FL. Due to this difference in biology, children are excluded from this study.\n\n\\- ECOG performance status \\<2 (Karnofsky \\>60%)\n\nEXCLUSION CRITERIA:\n\n* Previous history of diffuse large B-cell lymphoma or histologic transformation\n* Any prior systemic treatment for lymphoma including cytotoxic chemotherapy, biologic therapy, and monoclonal antibody therapy (radiotherapy permitted); patients who have received chemotherapy, biologic therapy, hormonal therapy, or monoclonal antibody for other malignancies are potentially eligible provided that all of the following are true: a) that malignancy was not lymphoma, b) systemic therapy ended at least 3 years prior to the diagnosis of FL, and c) there is no evidence of active malignancy other than FL\n\nNOTE: Initiation of first-line systemic therapy is allowed while on this trial; concurrent participation in first-line treatment clinical trials will be permitted.\n\n* Patients who are HIV-positive\n* Any second malignancy that requires active systemic therapy\n* Any other (non-lymphoma) life-threatening disease\n* Patients unable to provide informed consent (surrogates will not be used)\n* Pregnant women are excluded from enrollment onto this study because the invasive procedures and/or sedation needed to perform them may cause unnecessary harm to the unborn fetus. In the event a woman becomes pregnant while on study, she will not be removed from the study; however, no follow-up invasive clinical or research procedures will be done that include unacceptable to risk to the patient and/or to the unborn fetus.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Up to 200 patients with pathologically-confirmed follicular lymphoma (grades 1-2, 3a) will be enrolled and screened for eligibility, and up to 80 eligible patients will receive active surveillance on this study for the purpose of expert monitoring of their disease, improved risk-stratification, and donation of tissue and cellular products for research.",
+  "condition": [
+    "Follicular Lymphoma"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with follicular lymphoma who have not received any prior systemic therapy for lymphoma. The study is focused on treatment-naïve patients at the time of enrollment.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility requires no prior systemic treatment for lymphoma, including chemotherapy, biologic therapy, or monoclonal antibody therapy. Patients must be treatment-naïve for follicular lymphoma at enrollment; prior systemic therapy for other malignancies is allowed only if it ended at least 3 years before FL diagnosis and was not for lymphoma."
+    }
+  ]
+}

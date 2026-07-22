@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT04326530",
+  "title": "Use of a Modern Breath Sampling System (the Pneumopipe\u00ae Combined With an Array of E-nose Sensors) for the Prediction of Treatment Response in Persistent Asthmatic Children",
+  "brief_summary": "Due to a large disease heterogeneity, the proper management of childhood asthma may be a challenging task. Despite the screening of lung function is a fundamental tool, spirometry alone may not allow a reliable prediction of the disease prognosis, such as treatment response and asthma exacerbations.\n\nRecently, it has been shown that the detection of volatile organic compounds (VOCs) in exhaled breath (Breathomics) is able to predict asthma exacerbations and to discriminate children with persistently controlled asthma from those with uncontrolled asthma. These studies have been realized through gas chromatography / mass spectroscopy techniques, which also provide information on specific compounds useful for pathophysiologic research; however, they are expensive and time consuming.\n\nAn alternative approach, scarcely adopted so far, is based on cross-reactive nonspecific sensor arrays (e-noses), which may provide valuable information on disease status through pattern recognition algorithms or discriminant analyses of the global sensor response pattern (breath-fingerprint). In particular, the Pneumopipe\u00ae (European patent 12425057.2, Rome, Italy) is a recent and innovative device allowing direct absorption of VOCs on a cartridge after an individual has normally breathed in it for 3 min. It is a very simple and cheap procedure, suitable for non-collaborative populations. Moreover, cartridges may be preferable over sampling bags in terms of preservation and transportability. This modern breath sampling system provides repeatable measurements, and negligible overlap has been observed with information provided by spirometry.\n\nThe main objective of the present study is to assess whether baseline (pre-treatment) spirometry and e-nose measurements may predict asthma prognosis in persistent asthmatic children, in terms of response to the prescribed treatment with inhaled steroid (ICS), and to provide simple rules for discriminating treatment responders and non-responders. The secondary aim is to assess e-nose ability to predict asthma exacerbations, disease control and adherence.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion criteria:\n\n* male or female gender\n* age between 6 and 16 years\n* first asthma diagnosis according to GINA recommendations (http://ginasthma.org), including assessment of the history of respiratory symptoms (wheezing, shortness of breath, chest tightness and cough) and environmental exposures (smoke, mold, vehicular traffic), spirometry (FEV1/FVC\\<0.90 at baseline, \\>12% FEV1 increase from baseline after bronchodilator inhalation) and skin prick tests.\n\nExclusion criteria:\n\n* exacerbations requiring oral corticosteroids in the last four weeks\n* use of controller medications (leukotriene receptor antagonists and/or inhaled corticosteroids) in the last four weeks\n* respiratory infections in the last four weeks\n* immunological, metabolic, cardiac or neurological diseases\n* major malformations of the respiratory system\n* active smoking.",
+  "minimum_age": "6 Years",
+  "maximum_age": "16 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "150 steroid-naive, persistent asthmatic children enrolled during their first consultation at the IRIB-CNR outpatient clinic.",
+  "condition": [
+    "Asthma in Children"
+  ],
+  "overall_status": "UNKNOWN"
+}

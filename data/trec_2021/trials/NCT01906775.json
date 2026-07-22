@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01906775",
+  "title": "Sub-threshold Pacing to Prevent Pacemaker-induced Ventricular Tachycardia",
+  "brief_summary": "Implantable cardioverter defibrillators (ICD) may have the capacity to provoke or worsen ventricular tachyarrhythmias (VT). It has been reported that ICD shocks by itself can increase mortality. This study aimed to determine the role of back-up pacing-induced VT (PIT) to the overall ICD shock burden by avoiding pause-related ventricular back-up pacing by programming the pacing output to a sub-threshold level for ineffective pacing.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* age \\> 18 years\n* implanted ICD\n* occurrence of pacemaker-induced VT\n\nExclusion Criteria:\n\n* documentation of pause-related syncope\n* AV block\n* sick-sinus syndrome\n* younger than 18 years",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients having an implanted ICD for secondary prevention of ventricular tachyarrhythmias. Patients are routinely under follow-up for device interrogation in our outpatient device department.\n\nPatients with identified pacemaker-induced ventricular tachycardia were selected and after two or more episodes of VT, the ventricular back-up pacing was reprogrammed to a sub-threshold level.",
+  "condition": [
+    "Ventricular Tachyarrhythmias",
+    "ICD Shock Therapy",
+    "ICD Shock Burden"
+  ],
+  "overall_status": "COMPLETED"
+}

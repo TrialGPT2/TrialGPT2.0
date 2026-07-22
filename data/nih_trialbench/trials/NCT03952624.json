@@ -1,0 +1,39 @@
+{
+  "nctid": "NCT03952624",
+  "title": "Patient-Centered Assessment of Symptoms and Outcomes",
+  "brief_summary": "Background:\n\nThe cause of fatigue is not well understood. It can be felt differently by different people. Some people think there are different types of fatigue, with different causes. Researchers think a therapy to treat one type of fatigue in one condition should be able to treat that type of fatigue in other conditions.\n\nObjective:\n\nTo understand the types of fatigue.\n\nEligibility:\n\nAdults 18 and older who have felt fatigue for more than a month, and non-fatigued adults\n\nDesign:\n\nParticipants will be screened with a physical exam, their medical history, a vision test, and blood and urine tests.\n\nParticipants will begin to track the foods they eat.\n\nThis study will involve up to 10 visits. Each visit will last no more than 4 hours.\n\nIn Stage 1, participants will have an interview, fill out questionnaires, and play computer games. They will take walking and handgrip tests. They will give blood, urine, and saliva samples. They will wear a wrist monitor at home for 7 days and write down their activities. They will be put into a group: fatigue or non-fatigued control.\n\nIn Stage 2, participants will answer questionnaires and give a blood sample. They will have heart tests. They may take exercise and lung function tests that include wearing a nose clip. They may have an optional brain MRI: They may wear an electrode cap on their head during the scan to measure brain activity. They will lie on table that slides into a cylinder. They may perform tasks in the scanner.\n\nAfter the study, participants might be contacted about other studies.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAll Participants (including returning participants)\n\n* Adult participants aged \\>= 18 years at the time of enrollment.\n* Able to provide written informed consent.\n* Willing and able to complete study procedures.\n\nFatigued Participants\n\n-In addition to the above, must experience fatigue for more than a month.\n\nHealthy Volunteers for the fMRI study\n\n* Right handed\n* Not taking any prescribed medications for chronic medical conditions\n* Not diagnosed with any chronic medical condition\n\nEXCLUSION CRITERIA:\n\nExclusion from study entry:\n\n* Not fluent in English.\n* Have medical health issues that create additional and substantial adverse risks related to study procedures. Medical examples are the acute complications of medical disease, such as unstable hypertension, diabetic ketoacidosis, symptomatic hyperthyroidism, and unstable angina.\n* Have a psychiatric condition that prevents participant from being able to reliably report the fatigue experience (e.g., a psychotic disorder with severely disorganized thinking);\n* Current substance use disorder within the last five years or positive urine toxicology results at enrollment and before Stage 2. Prior marijuana use within the past five years will not be an exclusion.\n* Categorized as a high-risk drinker (\\>=5 drinks/day and \\>=15 drinks/week for men, \\>=4 drinks/day and \\>=8 drinks/week for women). ( Dietary Guidelines for Americans 2015-2020,\" U.S. Department of Health and Human Services and U.S. Department of Agriculture).\n* NIH employees.\n* Pregnant or lactating women.\n* Ongoing medical condition that is deemed by the Principal Investigator to interfere with the conduct or assessments of the study or safety of the participant.\n\nExclusion from specific tests:\n\n* fMRI Technical Development Sub-Study\n\n  * Implanted cardiac pacemakers, metal aneurysm clips;\n  * Broken bones repaired with metal pins, screws, rods, plates;\n  * Prosthetic eye implants;\n  * Transdermal medications or infusion pumps;\n  * Bullet fragments or other metal pieces in body from old wounds;\n  * Significant work exposure to metal particles;\n  * Clinically relevant claustrophobia;\n  * Unable to lie comfortably on back for up to 4 hours;\n  * Left-handed. (Participants that are ambidextrous, will complete the Edinburgh Handedness Inventory).\n* EEfRT and Stroop Test\n\n  * Severe essential hand tremor or severe hand pain (e.g., severe arthritis or severe carpel tunnel) that makes it difficult to perform rapid keyboard presses will be an exclusion from the EEfRT and Stroop Test.\n  * Color-blindness, verified by scoring \\>14 on the Ishihara card test, will exclude a participant from taking the Stroop test. The Ishihara card test will be administered only if the participant states he or she is color-blind.\n* Tilt Table Test\n\n  --Beta blocker medications.\n* CPET\n\n  * Any neuromuscular conditions (e.g., multiple sclerosis, Parkinson s disease) with significant mobility impairment that prohibits treadmill or bike performance, or any medical condition (e.g., congestive heart failure, coronary artery disease, chronic obstructive pulmonary disease \\[COPD\\], severe osteoarthritis and poorly controlled asthma) that would make it risky for the participant to exercise (e.g., exercise-induced angina and asthma), will exclude a participant from the CPET.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants will be recruited via a stepwise approach. Limited recruitment will occur during the first 6 months to 12 months after initial IRB approval, as part of the feasibility assessment. During this time, NIH investigators such as those from NINR, the NIDCR Sjogren s Clinic, and the 16-N-0058 study (Myalgic Encephalomyelitis/Chronic Fatigue Syndrome) will be informed about the study. These investigators will not actively recruit their own patients for the study but will be asked to post a recruitment flyer in their clinics. After the first year, the study will open to the general population.",
+  "condition": [
+    "Fatigue",
+    "Cancer",
+    "CFS",
+    "ME/CFS",
+    "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "Lupus",
+    "Systemic Lupus Erthematosus",
+    "Sjogrens"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of fatigue in adults, including both fatigued and non-fatigued participants, with no requirement or restriction based on prior systemic therapy for advanced disease. Line-of-therapy intent is not applicable to this study.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference cancer, advanced disease, or prior systemic therapy. There are no requirements or exclusions based on prior lines of therapy for advanced/metastatic disease."
+    }
+  ]
+}

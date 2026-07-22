@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03497871",
+  "title": "Personal Decision Support System for Heart Failure Management",
+  "brief_summary": "Despite the availability of evidence-based guidelines for disease management in patients with congestive heart failure (CHF), the uptake of these guidelines in clinical practice is sub-optimal and adherence rates are disappointing. Within the HeartMan project, a personal e-health system was developed to help CHF patients manage their disease, with the ultimate goal to improve health-related quality of life (HRQoL). The system uses wrist-band sensors to monitor patients' physical activity and physiological parameters. These data are connected to a decision support system, providing medical advice to patients concerning physical exercise, nutrition, medication intake, clinical measurements, environment management, and mental support. The decision support system is based on predictive models, clinical care guidelines and expert knowledge. The advice will be personalized according to each individual patient's medical and psychological profile, and will be presented to the patient through the user interface of a mobile application on a smartphone. A proof of concept trial with a 1:2 (control:intervention) randomization protocol was designed. The sample size calculation was based on primary outcome data from the previous CHIRON project, showing that 90 patients are needed to show at least -5.8 (\u00b1 6 to 8 s.d.) beats/min difference in average daily awake heart rate difference - as a fundamental parameter correlating with patient reported HRQoL - with 90% power between the two groups. Data collection will include an estimation of exercise capacity based on a six-minute walking test, and questionnaire assessments using standardized instruments. The trial will be initiated in two countries. In order to account for possible dropouts, 60 patients will be enrolled in Italy and 60 in Belgium (20 control and 40 intervention patients in each country). Target patients are stable ambulatory CHF patients (NYHA class 2-3; reduced left ventricular ejection fraction \u226440%). Eligible patients will be recruited by their treating physician from collaborating medical centers in both countries; they will be enrolled in the trial after giving informed consent for participation. After baseline assessment, patients will be randomized into either the intervention (duration of 6 months) or control (usual care) condition. Data collection will be repeated at the end of the trial.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Willing and able to make use of a smartphone and to give informed consent for participation to the study\n* Ischemic or non-ischemic heart failure disease\n* Functional New York Heart Association (NYHA) class 2-3\n* Reduced left ventricular ejection fraction \u226440%\n* Ambulatory heart failure patients in stable condition: at least one hospitalization due to their heart failure once, but no hospitalization during the month before start of the trial and no planned surgery\n* Good cognitive function, if cognitive impairment is suspected the patient will be evaluated by using the Mini Mental State Examination (MMSE)\n* Sufficient knowledge of the native language (Dutch in Belgium, Italian in Italy)\n\nExclusion Criteria:\n\n* Heart failure patients who fulfill the above mentioned criteria, but suffer from a concomitant end-stage chronic kidney disease necessitating haemodialysis\n* Heart failure patients who fulfill the above mentioned criteria, but are already participating in a disease management program, influencing the HeartMan intervention",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Heart Failure, Congestive"
+  ],
+  "overall_status": "COMPLETED"
+}

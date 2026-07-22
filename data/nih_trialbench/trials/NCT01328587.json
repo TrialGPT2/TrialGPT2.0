@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT01328587",
+  "title": "Eltrombopag for Moderate Aplastic Anemia",
+  "brief_summary": "Background:\n\n* Moderate aplastic anemia is a blood disease which may require frequent blood and platelet transfusions. Sometimes patients with this disease can be treated with immunosuppressive drugs. Not all patients respond and not all patients are suitable for this treatment.\n* Thrombopoietin (TPO) is a protein made by the body. The bone marrow needs TPO to produce platelets. TPO may also be able to stimulate bone marrow stem cells to produce red cells and white cells. However, TPO cannot be given by mouth. This has led researchers to develop the drug eltrombopag, which acts in the same way and can be given by mouth. Eltrombopag has been shown to safely increase platelet numbers in healthy volunteers and in patients with other chronic blood diseases, including severe aplastic anemia. Researchers are interested in looking at whether eltrombopag can be given to people with moderate aplastic anemia and significantly low blood cell counts.\n\nObjectives:\n\n\\- To evaluate the safety and effectiveness of eltrombopag in people with moderate aplastic anemia or patients with bone marrow failure and unilineage cytopenia who need treatment for significantly low blood cell counts.\n\nEligibility:\n\n\\- People at least 2 years of age who have moderate aplastic anemia or bone marrow failure and unilineage cytopenia,and significantly low blood cell counts.\n\nDesign:\n\n* Patients will be screened with a physical examination, medical history, blood tests, a bone marrow biopsy, and an eye exam.\n* Patients will receive eltrombopag by mouth once a day.\n* Patients will have weekly blood tests to monitor the effectiveness of the treatment and adjust the dose in response to possible side effects.\n* Patients may continue to take eltrombopag if their platelet count or hemoglobin increases, their requirement for platelet or blood transfusion decreases after 16 to 20 weeks of treatment, and there have been no serious side effects. Access to the drug will continue until the study is closed. Patients will be asked to return for a follow-up visit 6 months after the last dose of medication.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nCurrent diagnosis of moderate aplastic anemia or unilineage bone marrow failure disorders.\n\n* Moderate aplastic anemia is defined as aplastic anemia (hypocellular bone marrow for age) with no evidence for other disease processes causing marrow failure, and depression of at least two out of three blood counts below the normal values:\n\n  * ANC less than or equal to 1200/mm(3)\n  * platelet count less than or equal to 70,000/mm(3)\n  * anemia with hemoglobin less than or equal to 8.5 g/dL and absolute reticulocyte count less than or equal to 60,000/mm(3) in transfusion-dependent patients but not fulfilling the criteria for severe disease defined by depression of two of the three peripheral counts:\n  * ANC less than or equal to 500/mm(3)\n  * platelet count less than or equal to 20,000/mm(3)\n* reticulocyte count less than or equal to 60,000/mm(3)\n* Unilineage bone marrow failure disorders are defined:\n\n  * Hemoglobin less than 8.5 g/dL and reticulocyte count less than 60,000 or red cell transfusion dependent and hypocellular to normocellular bone marrow for age with significantly reduced erythroid precursors.\n  * OR thrombocytopenia less than or equal to 30,000/uL or platelet transfusion dependent and hypocellular to normocellular bone marrow for age with reduced megakaryocytes.\n* No evidence of viral or drug suppression of the marrow, dysplasia, or underproduction anemias secondary to B12, folate, iron or other reversible causes.\n\nPlatelet transfusion dependent is defined as the need for platelet transfusion due to platelet counts of \\< 10,000/microL with no bleeding (prophylactic transfusion) or \\< 20,000/microL with bleeding (therapeutic transfusion). Red cell transfusion dependent is defined as transfusion of greater than 4 units of blood in the 8 weeks prior to study entry.\n\nAge greater than or equal to 2 years old\n\nWeight greater than 12 kg\n\nEXCLUSION CRITERIA:\n\nKnown diagnosis of Fanconi anemia\n\nCounts that meet criteria for severe aplastic anemia\n\nInfection not adequately responding to appropriate therapy\n\nHIV positivity\n\nCreatinine \\> 2.5 mg/dL\n\nBilirubin \\> 2.0 mg/dL, including congenital abnormalities in the bilirubin count\n\nSGOT or SGPT \\>5 times the upper limit of normal\n\nHypersensitivity to eltrombopag or its components\n\nFemale subjects who are nursing or pregnant or are unwilling to take oral contraceptives or refrain from pregnancy if of childbearing potential\n\nEvidence of an active malignant hematological or clonal disorder, or abnormal cytogenetic studies of the bone marrow performed within 12 weeks of study entry.\n\nUnable to understand the investigational nature of the study or give informed consent or does not have a legally authorized representative or surrogate that can provide informed consent\n\nMoribund status or concurrent hepatic, renal, cardiac, neurologic, pulmonary, infectious, or metabolic disease of such severity that it would preclude the patient's ability to tolerate protocol therapy, or that death within 7-10 days is likely.\n\nTreatment with horse or rabbit ATG or Campath within 6 months of study entry.\n\nTreatment with cytokines such as G-CSF or Erythropoietin.\n\nSubjects with known cirrhosis in severity that would preclude tolerability of eltrombopag as evidenced by albumin less than 35g/L.\n\nLife expectancy of less than 3 months\n\nPatients with an active diagnosis of cancer who have received chemotherapeutic treatment or other specific antineoplastic drugs or radiation therapy within 6 months of study entry.\n\nUnable to take investigational drug",
+  "minimum_age": "2 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Moderate Aplastic Anemia",
+    "Unilineage Bone Marrow Failure Disorders"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with moderate aplastic anemia or unilineage bone marrow failure who require treatment for low blood counts, regardless of prior systemic therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility does not specify any required or excluded prior systemic therapy for advanced disease; patients may be treatment-naïve or previously treated. The only exclusions are recent immunosuppressive therapy (ATG, Campath within 6 months) or cytokines, but there is no minimum or maximum number of prior lines. Patients who have only received supportive care or adjuvant-type therapy are eligible."
+    }
+  ]
+}

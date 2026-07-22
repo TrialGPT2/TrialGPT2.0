@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03046433",
+  "title": "Children-Adult Asthma Cohort Study in China",
+  "brief_summary": "This study is a multicenter and prospective cohort study of children diagnosed with asthma. Clinical symptoms and signs, quality of life, blood test, and lung function were detected every three months. FeNO detection, chest imaging, and induced sputum smear were detected when necessary. Biological samples will be collected when recruiting and finishing follow-up.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age: More than or equal to 6 years old\n2. Fulfilling the diagnosis criteria of asthma or cough variant asthma (CVA) based on the guideline of China.\n3. The patients cooperated very well with the doctors to perform lung function test.\n\nAsthma is defined as fulfilling followings 1-4 or 4 and 5:\n\n1. History of variable respiratory symptoms: wheezing, shortness of breath, chest tightness, and coughing. Symptoms are often worse at night or upon awakening, and often triggered by exercise, laughter, allergens, or cold air, viral infections.\n2. At onset, scattered wheeze in the lungs is heard with prolonged expiratory time.\n3. The above symptoms and signs were efficient for anti-asthma, or alleviates voluntarily.\n4. Exclusive of other diseases with wheezing, shortness of breath, chest tightness, and coughing.\n5. If the manifestation is non-typical, fulfilling one of the followings:\n\n   * Documented airflow limitation\uff1a\n\n     1. Positive BD reversibility test: Increase in FEV1 of \\>12% from baseline, 15 minutes after inhalation of 200-400 \u03bcg albuterol;\n     2. Significantly increased in lung function after anti-inflammatory treatment;\n     3. Increase in FEV1 of \\>12%, after 4 to 8 weeks of treatment with inhaled corticosteroids and (or) anti-leukotrienes.\n   * Positive bronchial challenge test;\n   * Excessive variability in twice-daily PEF over 2 weeks: Average daily diurnal PEF variability \\>13%.\n\nCough variant asthma (CVA) is defined as fulfilling following:\n\n1. Cough at least 4 weeks without sputum and wheeze, worsening at night or upon awakening;\n2. No symptoms of infection, or no effect on long term antibiotic treatment;\n3. The symptoms and signs were efficient for anti-asthma treatment;\n4. Exclusive of other diseases causing wheeze;\n5. Positive exercise challenge test and (or) average daily diurnal PEF variability \\>13%;\n6. Individual or primary, secondary relatives with allergic history, or positive allergen detection.\n\nExclusion Criteria:\n\nSubject will be excluded if she or he has one of the following:\n\n1. congenital heart disease;\n2. heart failure;\n3. liver failure or renal insufficiency;\n4. kidney disease;\n5. connective tissue disease;\n6. immunodeficiency;\n7. tumor;\n8. a history of hypertension or diabetes mellitus.",
+  "minimum_age": "6 Years",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Children who was confirmed diagnosis as asthma or cough variant asthma (CVA) at the certain hospitals (sponsor and collaborators)",
+  "condition": [
+    "Asthma in Children"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT02821767",
+  "title": "Natural History, Pathogenesis, and Outcome of Ocular Disorders",
+  "brief_summary": "Background:\n\nThe National Eye Institute (NEI) wants to evaluate and provide standard treatment to people with eye diseases.\n\nObjective:\n\nTo examine and treat people with eye diseases and learn more about eye diseases and how they are inherited.\n\nEligibility:\n\nPeople with eye diseases who can give consent or have a guardian who can consent for them. Asymptomatic first-degree relatives willing to provide a blood sample may also be enrolled for the purpose of genetic testing.\n\nDesign:\n\nParticipants will be screened with an eye exam.\n\nParticipants will have 1-12 visits per year depending on their eye disease for up to 5 years. Visits last about 4 hours and could include:\n\nMedical and family history\n\nPhysical exam\n\nEye exam and photography.\n\nOculography: They put on contact lenses or goggles. They watch spots on a computer\n\nscreen for 20-30 minutes.\n\nElectrooculography: Small metal disks are placed on the skin next to both eyes. They look left\n\nand right in the dark and light for about 30 minutes.\n\nElectroretinography: They sit in the dark with their eyes patched. A small metal disk is taped\n\nto the forehead. After 30 minutes, the patches are removed and contact lenses put in. They\n\nwatch flashing lights.\n\nFluorescein angiography: A needle guides a thin plastic tube into an arm vein. A dye is\n\ninjected through the tube and travels up the blood vessels in the eyes. Pictures are taken of the\n\neyes.\n\nImmunosuppressive treatment\n\nEye cell sample: Samples are obtained from swabbing, pressing paper on, or taking a small\n\nbiopsy sample from the surface of the eye.\n\nBlood tests\n\nSkin, tear, urine, saliva, stool, or hair sample\n\nExam under anesthesia for some children\n\nAt each visit participants could get medications, eye drops, eye injections, laser treatments, or surgery.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible, the following inclusion criteria must be met, where applicable.\n\n1. Have a diagnosed, undiagnosed or suspected eye disease.\n2. Have the ability to understand and sign an informed consent or have a parent/legal guardian do so if they are minor children or a legally authorized representative to provide consent for adults without consent capacity.\n\nEXCLUSION CRITERIA:\n\nA participant is not eligible if any of the following exclusion criteria are present.\n\n1. Are unwilling to give informed consent or assent when applicable.\n2. Are unwilling or unable to be followed as clinically indicated.\n3. Have a systemic disease that compromises the ability of NEI clinicians to provide adequate ophthalmologic examination or treatment.",
+  "minimum_age": "1 Month",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Primary Clinical",
+  "condition": [
+    "Eye Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history and treatment study for people with any eye disease, with no restrictions on prior therapy. Patients may be treatment-naïve or previously treated, and there are no requirements regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility includes anyone with a diagnosed, undiagnosed, or suspected eye disease, with no mention of prior systemic therapy or lines of therapy for advanced disease. There are no restrictions or specifications regarding prior treatments, so line-of-therapy intent cannot be determined."
+    }
+  ]
+}

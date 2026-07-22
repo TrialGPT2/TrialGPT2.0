@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02159287",
+  "title": "Study of the Efficacy, Safety and Tolerability of Low Molecular Weight Heparin vs. Unfractionated Heparin in Stroke",
+  "brief_summary": "Patients with Atrial fibrillation (AF) make a unique group of ischemic stroke, mostly caused by emboli from the left atrial appendage. Oral anticoagulation (Warfarin) is recommended for prevention of recurrent embolic stroke but it takes several days to reach a therapeutic international normalized ratio (INR : 2.5) so bridging therapy with a short acting intravenous anticoagulant is recommended until therapeutic INR level is reached. A common strategy is to use intravenous unfractionated heparin (UFH) until a standard activated partial thromboplastin time (aPTT) is reached and then initiating warfarin. Another strategy is to use subcutaneous (SQ) injection of a low-molecular-weight heparin (LMWH) eg. Enoxaparin.\n\nThe investigators will compare LMWH and UFH, focusing on risk of new stroke and mortality rate.\n\nMETHOD: This study is randomized controlled trial that will be performed in 80 patients ages between 18 and 75 with confirmed acute ischemic stroke purely due to AF who will be hospitalized in Shiraz Medical University affiliated teaching hospitals. Patients will be randomly assigned in two groups. A brain CT will be done to confirm the absence of intracranial hemorrhage and to assess the size of cerebral ischemia.\n\nFirst group will receive 1 mg of enoxaparin (Clexane, Sanofi, Paris) per kilogram of body weight SQ every 12 hour with warfarin 5mg orally everyday and both drugs will be continued until the target INR level (2.5) is reached then clexane will be discontinued.\n\nThe second group will receive continuous UFH infusion 1000 unit per hour and then the dose will be adjusted to maintain a therapeutic aPTT (two times to baseline) level then warfarin will be started (5 mg everyday).\n\nThe investigators will follow patients in both groups until target INR will be achieved (2.5) and after that clexane and UFH will be discontinued. Adverse events will be assessed in both groups for three months.\n\nData will be analyzed with Statistical Package for the Social Sciences (SPSS) version 15 and Chi-square statistics.\n\nMain outcome of our study will be evaluation of new stroke, mortality, central nervous system (CNS) hemorrhage, major bleeding, drop out and other unwanted side effects in first week and three months after stroke.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* confirmed diagnosis of acute ischemic stroke purely due to AF\n* AF confirmed by ECG or 24 hour holter monitoring\n* patients who need initiation of anticoagulation for prevention of recurrent stroke\n\nExclusion Criteria:\n\n* ages less than 18 or more than 75\n* no cooperation\n* CNS hemorrhage\n* major bleeding\n* infarction size of more than one third of middle cerebral artery territory\n* National Institutes of Health Stroke Scale (NIHSS) more than 20\n* hypersensitivity to IV UFH or LMWH\n* no informed consent\n* other causes for stroke except AF\n* pregnancy\n* breast feeding\n* uncontrolled hypertension (BP more than 220/120)\n* renal, hepatic, respiratory or cardiac failure\n* myocardial infarction\n* infectious endocarditis\n* coma\n* vasculitis\n* dissection",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Embolic Stroke"
+  ],
+  "overall_status": "UNKNOWN"
+}

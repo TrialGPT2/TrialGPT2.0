@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02840201",
+  "title": "Sub-Clinical Atrial Fibrillation Biomarker Study",
+  "brief_summary": "This is a sub-study of the ARTESiA study registered as NCT01938248. This study is designed to validate biomarkers in subclinical atrial fibrillation and to determine if the prospective biomarker will be informative of the potential efficacy of treatment.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Permanent pacemaker or defibrillator (with or without resynchronization) or insertable cardiac monitor\n* At least one episode of device-detected SCAF \u2265 6 minutes in duration but no single episode \\> 24 hours in duration at any time prior to enrollment. Any atrial high rate episode with average \\> 175 beats/min will be considered as SCAF. No distinction will be made between atrial fibrillation and atrial flutter. SCAF requires electrogram confirmation (at least one episode) unless \u2265 6 hours in duration\n* Age \u2265 55 years\n* Risk Factor(s) for Stroke:\n\nPrevious stroke, TIA or systemic arterial embolism OR Age at least 75 OR Age 65-74 with at least 2 other risk factors OR Age 55-64 with at least 3 other risk factors\n\nOther risk factors are:\n\n* Hypertension\n* CHF\n* Diabetes\n* Vascular disease (i.e. CAD, PAD or Aortic Plaque)\n* Female\n* Must be from a participating Canadian recruitment centre\n* Consent to participate in the ARTESiA parent study\n\nExclusion Criteria:\n\n* Clinical atrial fibrillation documented by surface ECG (12 lead ECG, Telemetry, Holter) lasting \u2265 6 minutes, with or without clinical symptoms\n* Mechanical valve prosthesis, recent (within past 6 months) deep vein thrombosis or pulmonary embolism or other condition requiring treatment with an anticoagulant\n* Allergy to aspirin or apixaban\n* Severe renal insufficiency (serum creatinine \\> 2.5 mg/dL \\[221 \u03bcmol/L\\] or a calculated creatinine clearance \\< 25 ml/min)\n* Serious bleeding in the last 6 months or at high risk of bleeding (this includes, but is not limited to: prior intracranial hemorrhage, active peptic ulcer disease, clinically significant thrombocytopenia or anemia, recent stroke within past 10 days, documented hemorrhagic tendencies or blood dyscrasias)\n* Moderate to severe hepatic impairment\n* Ongoing need for combination therapy with aspirin and clopidogrel (or other combination of two platelet inhibitors)\n* Meets criteria for requiring lower dose of apixaban AND also has ongoing need for strong inhibitors of both CYP3A4 and P-glycoprotein (e.g., ketoconazole, itraconazole, ritonavir or clarithromycin)\n* Ongoing need for strong inducers of both CYP3A4 and P-glycoprotein (e.g., rifampin, carbamazepine, phenytoin, St. John's wort)\n* Received an investigational drug in the past 30 days\n* Participants considered by the investigator to be unsuitable for the study for any of the following reasons:\n* Not agreeable for treatment with either aspirin or apixaban or anticipated to have poor compliance on study drug treatment\n* Unwilling to attend study follow-up visits\n* Life expectancy less than 2 years due to concomitant disease\n* Women who are pregnant, breast-feeding or of child-bearing potential without an acceptable form of contraception in place (sterilization, abstinence or other method with less than 1% failure rate)",
+  "minimum_age": "55 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Canadian patients participating in the ARTESiA study will be recruited for this sub-study.",
+  "condition": [
+    "Subclinical Atrial Fibrillation"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

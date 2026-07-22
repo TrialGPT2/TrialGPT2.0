@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03728595",
+  "title": "Validation of a Predictive Score for HAST",
+  "brief_summary": "Patients with chronic lung diseases travelling by plane often suffer with symptoms related to lower oxygen levels they are exposed to while flying.\n\nTherefore, patients with respiratory conditions are routinely assessed to establish if they need supplemental oxygen in flight. A hypoxic altitude simulation test (HAST) is often part of this assessment and consists in having patients breathe a oxygen/nitrogen blend with a lower oxygen concentration compared to normal room air, simulating in-flight conditions. Oxygen levels are measured before and after the test through a blood sample (from the earlobe or an artery in the wrist) and with a finger probe. In-flight oxygen is required if the oxygen level in the blood is lower than 6.6 kPa. HASTs are time consuming, costly, and require a dedicated hospital appointment.\n\nUsing historical data, the Investigators developed scores based on capillary blood gas (blood sample from the earlobe), diagnosis and sex to predict the outcome of the HASTs. The Investigators validated the proposed scores in a separate historic cohort of patients and showed it had good concordance with the HASTs results.\n\nIn this study, the Investigators want to confirm prospectively if the score, based on blood results (venous and/or earlobe), can predict the outcome of the HASTs and therefore reduce the number of tests performed, travel time for patients, and costs for the NHS.\n\nAll patients, aged 18 or older, who are having a HAST for clinical purposes at the cardio-respiratory lab at Leeds Teaching Hospital NHS Trust will be invited to take part in the study. The Investigators will record diagnosis, results of HAST and previous spirometry from the medical notes, perform a spirometry if not done in the previous 12 months and collect a blood sample (one tube, 4 mls). With these data, the Investigators will calculate the score and assess its agreement with the outcome of the HAST.\n\nEach participant's involvement in the study will last for approximately 90-120 minutes, which is the normal duration of a HAST.\n\nThe Investigators aim to include up to 280 subjects in the study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \u226518 years old (at the time of HAST)\n* Clinically stable\n* Hypoxic altitude simulation test, scheduled as part of the clinical care\n\nExclusion Criteria:\n\n* Inability to provide informed consent\n* Being part of a clinical trial, which would exclude patients who are taking part in other studies including observational studies.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Outpatient attending for a HAST at Leeds Teaching Hospital NHS Trust.",
+  "condition": [
+    "Chronic Respiratory Disease",
+    "Hypoxia, Altitude",
+    "COPD",
+    "ILD",
+    "Cystic Fibrosis"
+  ],
+  "overall_status": "COMPLETED"
+}

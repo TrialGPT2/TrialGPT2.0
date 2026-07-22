@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03329261",
+  "title": "Incidence of Major Cardiovascular Events in Diabetic Patients With ACS Undergoing Coronary Angioplasty and Treated With Clopidogrel 150 mg Versus 75 mg",
+  "brief_summary": "Acute Coronary Syndrome (ACS) is triggered by the rupture of an atherosclerotic plaque that results in a platelet aggregation reaction in the coronary artery. The administration of antiplatelet agents starting from the acute phase of the disease has helped reduce the risk of ischemic relapse both during initial and long-term hospitalization.\n\nManagement of clopidogrel following an ischemic event has been the subject of several treatment regimens ranging from a single continuous dose to a sequential double dose of between 7 and 30 days. The CURRENT-OASIS 7 therapeutic trial showed a benefit of clopidogrel double dose in reducing the risk of myocardial intervention (MI) and the composite outcome: cardiovascular mortality, MI, or stroke (CVA/TIA) at 30 days. However, the study protocol was interested in all ACSs, regardless of the Type 2 Diabetes Mellitus (T2DM) status in selected patients. Also, doubling of clopidogrel dose was maintained over 7 days after angioplasty. The literature describes an increased cardiovascular risk in type II diabetics in secondary prevention. No previous study has evaluated the effect of clopidogrel double dose given for 1 month on the reduction of this risk in the long-term in diabetic patients.\n\nThus, the objective of this study is to evaluate the efficacy and safety of clopidogrel double dose, given for 1 month in ACS in the diabetic patient.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion criteria:\n\n* Male or female aged between 18 to 75 years old.\n* Proven ACS requiring PTCA within 1 week of inclusion. The ACS should be without ST-segment elevation (presence of chest pain with ST-segment or T-wave changes without sustained ST segment elevation) with elevation of cardiac biomarkers of MI (positive troponins).\n* Coronary angiography showing at least one coronary lesion, whether mono, bi or multi-truncate\n* Type 2 diabetes confirmed for at least one year\n* Patient candidate for treatment with Clopidogrel\n* Informed consent of patients\n\nNon-Inclusion Criteria:\n\n* Non-consenting patient and/or participating in another clinical study\n* ACS with ST segment elevation (STEMI)\n* History of digestive or cerebral bleeding with antiplatelet agents or anticoagulants\n* Insulin-dependent diabetes mellitus (IDDM)\n* Diabetic requiring insulin\n* Patient in cardiogenic shock\n* Patient under treatment with anti-glycoprotein IIb/IIIa or stopped less than 72 hours prior to inclusion\n* Previously treated with clopidogrel or thrombolytics\n* Patients programmed for surgery in less than 6 months\n* Ischemic stroke less than 6 weeks old\n* History of haemorrhagic stroke (regardless of time)\n* Patients under or candidates for Vitamin K antagonist (VKA)\n* Patients under another antiplatelet agent (Ticlopidine, Prasugrel)\n* Patients with a contraindication to clopidogrel (hypersensitivity to the active substance or to any of the excipients, severe hepatic impairment, progressive hemorrhagic lesion such as peptic ulcer or intracranial hemorrhage)\n* Under omeprazole treatment, or considered during the study\n* Anemia (Hb \\<12g/dl)\n* Thrombocytopenia with less than 100000 cells/mm3\n* Serum creatinine greater than 200 \u03bcmol/l\n* Pregnancy and/or breast-feeding\n* Severe renal impairment\n\nExclusion criteria:\n\n* Non-compliance with treatment (treatment compliance \\<80%)\n* AE/SAE requiring cessation of treatment\n* Planning a CABG\n* Occurrence of pregnancy during the study",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Diabetes Mellitus, Type 2",
+    "NSTEMI - Non-ST Segment Elevation MI",
+    "Coronary Angioplasty"
+  ],
+  "overall_status": "COMPLETED"
+}

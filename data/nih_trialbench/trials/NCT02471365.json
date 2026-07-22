@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT02471365",
+  "title": "Study of Exposure to Chemicals in Consumer Products",
+  "brief_summary": "Background:\n\n\\- In a lifetime, a person may encounter tens of thousands of chemicals used as ingredients in the products they buy. It s not easy to measure them because the companies that sell the products don t have to tell the exact chemical ingredients. Researchers want to compare how existing methods (e.g., surveys and models) measure exposure to chemicals in personal care and household products.\n\nObjective:\n\n\\- To test and improve the ways that studies gather data about contact with chemicals found in consumer products.\n\nEligibility:\n\n\\- Healthy women volunteers ages 35 74 who use at least 15 consumer products a day.\n\nDesign:\n\n* Participants will be screened with medical history, pregnancy test, smoking test, and blood sample. They will answer questions about their homes and products they use.\n* Participation will last about 30 hours over 12 days.\n* Researchers will:\n* Place air samplers inside and outside participants homes for 10 days. One sampler will need to be plugged into an electrical outlet. It will make a low, continuous sound while in operation.\n* Collect house dust samples and record all consumer products in the house.\n* Visit the house daily to collect samples.\n* Participants will:\n* Give a blood sample at a clinic twice.\n* Collect all urine voids for 10 days. They will label it and put it in a special cooler.\n* Wear 4 small devices that measure air pollution, chemicals, location, and activity.\n* Record what they eat and what consumer products they use. They will write these in a diary and \\<TAB\\>photograph them on an iPhone provided to them.\n* On day 2 of the study, they will collect a duplicate sample of what they eat.\n* Take iPhone videos of their use of certain products.\n* Answer questions about chemical ingredients in their personal care products.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Individuals born female will be recruited for this study.\n* Individuals must be between 35 and 74 years old at the time of enrollment.\n* Individuals must be a non-smoker living in a non-smoking home. Individuals who are former smokers or live with a former smoker must be at least one year smoke free at the time of enrollment.\n* Individuals must be non-pregnant and non-nursing at the time of enrollment.\n* Individuals will not be selected for specific preexisting health conditions but will be excluded if any of the conditions described in Section 5.2 (EXCL 5) are present at the time of enrollment.\n* Individuals who spend a majority of their time in the home each day will be recruited for this study. This includes individuals who work from home, are stay-at-home caretakers, retired, unemployed, etc.\n* Individuals must use a high number of consumer products. A high consumer product user is someone who uses more than a certain number of products (e.g., 15 or more products a day). This number will be finalized following the completion of a separating screening activity by NIEHS under a separate IRB protocol, and will be defined prior to enrollment of participants in the study.\n\nEXCLUSION CRITERIA:\n\n* Persons born male or female-identifying transgender individuals will be excluded from the study population.\n* Individuals younger than 35 years old or older than 74 years old will be excluded from the study population.\n* Individuals who smoke, use tobacco products, or any form of electronic cigarettes, personal vaporizers, or electronic nicotine delivery systems will be excluded from the study population. Additionally, based on the pre-screening questionnaire individuals who live in homes with others who use one or more of these products will not be eligible to participate. Prescreening responses will be verified against cotinine test results from Screening Day 1\n* Individuals who may be pregnant, are pregnant, or are nursing will be excluded from the study population.\n* Individuals with chronic kidney or liver disease or insulin-dependent diabetics based on pre-screening questionnaire will not be eligible to participate in the study.\n* Individuals who work outside of the home or spend a majority of their time each day outside of the home for other activities will be excluded from the study population.\n* Individuals who use less than a certain number of consumer products (e.g., 15 products per day) will be excluded from the study population.",
+  "minimum_age": "35 Years",
+  "maximum_age": "74 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Individuals will be recruited from the RTP area, since they will be required to complete home and clinic visits as part of their study participation.@@@@@@",
+  "condition": [
+    "Product Use"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is not an oncology trial and does not involve systemic therapy for advanced disease. There are no requirements or restrictions regarding prior lines of therapy for advanced/metastatic cancer.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention cancer diagnosis or prior systemic therapy for advanced disease. This study enrolls healthy women based on consumer product use, not cancer treatment history."
+    }
+  ]
+}

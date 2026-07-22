@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04774172",
+  "title": "Mortality and Morbidity Outcomes in Marfans",
+  "brief_summary": "Marfan Syndrome (MFS) is a genetic disease affecting the eyes, skeleton, heart and arteries. Despite MFS affecting multiple organ systems, cardiovascular manifestations are the most serious and life threatening. Approximately 80% of adult MFS patients will have a dilated aortic root by age 40 years with aortic aneurysm and dissection the leading causes of morbidity and mortality. Improvement in diagnostics and medical and surgical interventions have increased life expectancy. However, the natural history and the influence of medical or surgical interventions in the UK population are not fully described. Further, the incidence of aortovascular surgery in this patient group is unknown as MFS is not routinely documented in the National Institute of Cardiovascular Outcome Research (NICOR) national cardiac surgery dataset and therefore, there is currently no mechanism for exploring the aortovascular outcomes for this patient group.\n\nThe investigators aim to undertake a 10-year secondary analysis of linked national data (National Institute of Cardiovascular Outcome Research (NICOR), Office of National Statistics (ONS), Hospital Episode Statistics (HES)) to identify the UK incidence and outcome of aorto-vascular surgery in patients with Marfan syndrome (MFS). This includes associated hospital length of stay, mortality and morbidity rates.\n\nUnderstanding mortality alongside morbidity will allow the investigators to study further the burdens that the aortovascular manifestations may place on MFS population as well as to continuously evaluate the efficacy of either the health care system or an implemented intervention in place. Further, these metrics will be useful for the stakeholders to effectively prioritise which complications to tackle and to allocate resources toward as well as proactively manage the potential onset of a health event",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* \\>/= 18 years old at the time of surgery\n* Identified MFS in the HES database using the ICD diagnosis code Q874 between January 2010- December 2019\n* Had an aorto-vascular surgery in England and Wales, as identified in the NICOR Adult Cardiac Surgery database\n\nExclusion Criteria:\n\n* \\< 18 years old at the time of surgery",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study will include all eligible patients who are identified as MFS using the ICD-10 code Q874 through the National Health Service Digital (NHSD) from January 2010 to December 2019.",
+  "condition": [
+    "Marfan Syndrome",
+    "Marfan Syndrome Cardiovascular Manifestations"
+  ],
+  "overall_status": "COMPLETED"
+}

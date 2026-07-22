@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02817893",
+  "title": "Comparison of Respiratory Variations of the Pulse Oximetry Plethysmographic Raw Signal and Pulse Pressure During Abdominal Surgery (PLETHYSMO)",
+  "brief_summary": "The waveform plethysmographic signal can be used to establish an index for predicting fluid responsiveness (\u2206POP: respiratory variation of the plethysmographic waveform of pulse oximetry). This index was validated in some studies and because of its non-invasiveness it seems very interesting in anesthesia.\n\nHowever, in a previous study the investigators evaluated the correlation between the results provided by this index (\u2206POP) and those of the reference index (\u2206PP: pulse pressure variation), and the obtained results were significantly lower than what had been previously described. In this study, the index was calculated from a recording of a filtered signal. This unavoidable application of a filter on anesthesia monitors could contribute to the discrepancy between the \u2206POP and the \u2206PP.\n\nThe realization of a new study, comparing \u2206PP and \u2206POP obtained from an unfiltered plethysmographic signal, should answer the \u2206POP ability to be used in place of \u2206PP.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Hospital patient in general surgery and digestive department\n* Adult\n* Digestive sus mesocolic surgery with direct abdominal approach justifying a semi-invasive hemodynamic monitoring by arterial catheterization (liver, pancreatic, gastric and duodenal surgery)\n* Surgical approach by laparotomy\n* Patient under general anesthesia with mechanical ventilation\n* Agreeing to participate in the study after receiving information note\n\nExclusion Criteria:\n\n* Known left systolic ventricular and/or diastolic failure\n* Arrhythmias\n* Surgery performed with thoracic approach\n* Surgery by laparoscopy\n* Emergency surgery\n* Hypersensitivity or allergic to any of the product used for usual anesthesia, hypersensitivity to soya or egg lecithin\n* Personal or familial history of malignant hyperthermia\n* Severe kidney impairment (creatinin clearance \\<30ml/min)\n* Patients who participated in the previous month to another study protocol\n* Pregnant women or nursing\n* Under-age",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who will undergo sus mesocolic surgery under general anesthesia and by direct approach, whose anesthesic management requires continuous monitoring of blood pressure (arterial catheter).",
+  "condition": [
+    "Abdominal Surgery"
+  ],
+  "overall_status": "UNKNOWN"
+}

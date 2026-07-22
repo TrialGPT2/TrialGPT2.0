@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02188628",
+  "title": "Refinement and Clinical Evaluation of the H-Man for Arm Rehabilitation After Stroke",
+  "brief_summary": "Locally, stroke remains the 4th cause of death, causing 8.4% of deaths annually in Singapore, and a leading cause of neurological disability worldwide. Nearly 40% of the stroke survivors will require specialized rehabilitation. In recent years, robot-aided therapy has been proposed as a means of complementing traditional therapy to alleviate the burden on therapists and on the healthcare system. For shoulder/elbow rehabilitation, dozens of robots have been proposed in the literature but only half a dozen have been commercialized and typically none are seen in local clinics, due to exceedingly high costs. A novel, compact, inexpensive robotic interface, named 'H-Man', was recently designed and developed at NTU for experiments in motor control neuroscience. The H-man can generate computer-controlled force fields to assist or resist a subject's motion and is potentially an optimal trade-off between clinical efficacy and robotic complexity. A first prototype of the H-Man is available at NTU.The primary aim of this proposed project is to assess to what extent the investigators H-Man is suitable for rehabilitation purposes using a feasibility pilot clinical trial design involving stroke survivors. The investigators believe that H-Man can be used for neuro-rehabilitation of stroke patients with hemiparetic weakness, motor incoordination and motor ataxia of the upper limbs.In close cooperation between clinicians at the TTSH and NTU engineers, a portable version of the H-Man will be developed which will be tested in a 12 subject Pilot study, refined and then used in a 44 subject Randomized Controlled Trial (RCT) study. At the same time, the feasibility of H-Man integration for a pared down home use model will be assessed in 4 subjects.\n\nThe investigators primary hypothesis is that sub-acute/chronic patients will exhibit clinically significant decreases of impairment when training with the H-Man combined with standard arm therapy on robot-measured scales and standardized clinical scales, at the level of elbow/shoulder after 18 sessions of training on the H-Man.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n* First ever clinical stroke (ischaemic or haemorrhagic) confirmed on brain imaging\n* Duration post stroke: 3 months to 24 months\n* Age 21 to 85 years\n* Hemiplegic pattern of arm motor impairment with Shoulder abduction MRC motor power \\>/= 3/5 and elbow flexion MRC motor power \\>/= 3/5\n* Affected upper limb Fugl Myer Motor Assessment (FMMA) scale 20-50\n* And / or associated motor incoordination or motor ataxia\n\nExclusion Criteria:\n\n* Non stroke related causes of arm motor impairment\n* Medical conditions incompatible with research participation: uncontrolled medical illnesses (hypertension or diabetes, heart failure, asthma, depression, end stage renal failure, terminal malignancy), life expectancy \\<6 months, unhealed fractures or severe arm pain (visual analogue scale VAS \\> 5/10, pregnancy\n* Inability to tolerate sitting for 90 minutes.\n* Local factors which preclude robotic interfacing or may be worsened by intensive arm therapy: spasticity of Modified Ashworth Scale grades 3-4, skin wounds, shoulder pain VAS \\>5/10, active fractures or arthritis or fixed flexion contractures of shoulder, elbow, wrist or fingers incompatible with interface with the H-man robot.\n* Severe sensory impairment of affected limb\n* Severe visual impairment, hemispatial neglect or homonymous hemianopia\n* Cognitive impairments or uncontrolled behaviour. (Folstein mini mental state exam MMSE \\<26/28)",
+  "minimum_age": "21 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke"
+  ],
+  "overall_status": "COMPLETED"
+}

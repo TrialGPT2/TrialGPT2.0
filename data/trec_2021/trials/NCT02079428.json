@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02079428",
+  "title": "China National Heart Failure Registry",
+  "brief_summary": "The purpose of CN-HF is to establish the national registration of hospitalized heart failure patients, evaluate and compare the clinical features and prognosis of diastolic and systolic heart failure, and find out the status of treatment and implementation of guidelines on heart failure in China.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients discharged from the department of cardiology;\n* Discharge or death diagnosis involves diseases with I50 as the beginning of the International Classification of Diseases (ICD)-10 code, including congestive heart failure, congestive heart disease, cardiac failure, right side heart failure, right side ventricular failure, acute left side heart failure, chronic left side cardiac dysfunction, cardiac asthma, left side heart failure, left side heart failure with acute pulmonary edema, low cardiac output syndrome, cardiac dysfunction, acute heart failure, chronic heart failure, grade \u2161 cardiac function class, grade \u2162 cardiac function class, grade \u2161-\u2162 cardiac function class, grade \u2163 cardiac function class, heart failure, cardiac-renal failure, circulatory failure, and grade \u2160cardiac function class (I51.903), pregnancy with heart failure (O99.408), pregnancy with cardiac dysfunction (O99.429), postpartum cardiac dysfunction (O99.434), post-operative heart failure with pulmonary edema (I97.104), and heart failure after cardiac surgery (I97.106);\n* Agree to sign an informed consent form.\n\nExclusion Criteria:\n\n* Refuse to sign an informed consent form;\n* Already involved in this study during previous hospitalization.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study planed to consecutively enroll 10 000 heart failure patients fulfilling the inclusion criteria. Each center will register all patients with heart failure involved in the discharge or death diagnosis in consecutive 6 months.",
+  "condition": [
+    "Cardiac Failure",
+    "Congestive Heart Failure"
+  ],
+  "overall_status": "UNKNOWN"
+}

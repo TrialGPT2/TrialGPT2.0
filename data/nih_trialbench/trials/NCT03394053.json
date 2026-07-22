@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT03394053",
+  "title": "The Mechanistic Biology of Primary Immunodeficiency Disorders",
+  "brief_summary": "Background:\n\nPrimary immunodeficiency disorders, or PIDs, are diseases that weaken the immune system. This makes it easier for a person to get sick. Some PIDs are mild and may not be diagnosed until later in life. Other kinds are severe and can be identified shortly after birth. Researchers want to learn more about PIDs by comparing data from relatives and healthy volunteers to people with a PID.\n\nObjective:\n\nTo learn more about PIDs, including their genetic causes.\n\nEligibility:\n\nPeople ages 0-90 with a PID or their healthy biological relatives the same ages\n\nHealthy volunteers ages 18-75\n\nDesign:\n\nParticipants will be screened with a medical history, physical exam, and HIV blood test. They may have a pregnancy test.\n\nParticipants may repeat the screening tests.\n\nBlood taken at screening will be used for genetic tests and research tests. Participants will be told test results that affect their health. Some blood will be stored for future research.\n\nAdult participants with a PID may have a small piece of skin removed. The area will be numbed. A small tool will take a piece of skin about the size of a pencil eraser.\n\nResearchers may collect fluid or tissue samples from PID participants regular medical care. They will use them for research tests.\n\nParticipants with a PID will have 3 follow-up visits over 10 years (for infants, 2 years). Visits will include a physical exam, medical history, and blood draw.\n\nParticipants with a PID and their relatives will be called once a year for 10 years. They will talk about how they are feeling and if they have developed any new symptoms or illnesses.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Subjects must meet one of the following 4 criteria:\n\n     1. Patients (age 0-90 years) with a clinical diagnosis of a form of PID (either known or unknown). PID is defined by laboratory and/or clinical findings on two or more occasions that are consistent with a defect in innate or adaptive immunity. Specific PIDs are defined by the International Union of Immunological Societies guidelines. These subjects must also be willing to undergo genetic testing and to allow their biospecimens to be modified into iPS cells. Women of childbearing potential, or who are pregnant or lactating, may be eligible. The volume of blood collected for research purposes will be reduced, and no skin biopsies will be performed for research purposes in consideration of their safety.\n     2. Infants identified at birth with positive newborn screening for SCID and confirmed to have T-cell lymphocytopenia. These subjects must be willing to undergo genetic testing.\n     3. Biological relatives (age 0-90 years) of a subject who meets criterion 1a or 1b but who do not have a PID themselves. All relatives must be willing to undergo genetic testing. Women of childbearing potential, or who are pregnant or lactating, may be eligible. The volume of blood collected for research purposes will be reduced in consideration of their safety.\n     4. Healthy volunteers (age 18-75 years) who are not related to another study subject, who do not have a PID, whose weight is greater than 110 pounds, do not have a history of any heart, lung, or kidney disease, or bleeding disorders, do not have a history of viral hepatitis (B or C), and have a negative HIV screening test.\n  2. All subjects must be willing to allow their samples to be stored for future research.\n\nEXCLUSION CRITERIA:\n\n1. Subjects with secondary causes of immunodeficiency are excluded from this study. Secondary causes of immunodeficiency include HIV infection and immunodeficiency that is deemed to be secondary to chronic use of immunosuppressive medications or chemotherapeutic agents.\n2. Any condition that, in the opinion of the investigator, contraindicates participation in this study.",
+  "minimum_age": "1 Day",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Potential subjects with confirmed or suspected PID and their biological relatives will be referred to the study from physicians at CNHS or at the NIH. In addition, patients who have a clinical diagnosis of PID may also be referred from physicians at other institutions. Healthy volunteers may be recruited from the NIH Clinical Research Volunteer Program",
+  "condition": [
+    "Primary Immunodeficiency Disorders"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study enrolling patients with primary immunodeficiency disorders (PID), their biological relatives, and healthy volunteers to study the biology and genetics of PID. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference prior systemic therapy for advanced disease, and the study is observational in nature. Patients are enrolled based on diagnosis of PID, biological relation, or healthy volunteer status, regardless of prior treatment history."
+    }
+  ]
+}

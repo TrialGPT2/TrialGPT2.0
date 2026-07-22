@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01072032",
+  "title": "Cortical and Biomechanical Dynamics of Ankle Robotics Training in Stroke",
+  "brief_summary": "Reduced mobility is often a long-term problem facing those who have chronic leg weakness resulting from stroke. Recent innovations in stroke therapy have applied motor learning principles to improve motor skills through regular practice of activities using the weaker limb. Because the ankle provides critical torques for normal walking and mobility function, impairments at the affected ankle pose a major limitation to achieving optimal mobility recovery. To address this we have developed a novel ankle robot (Anklebot) to enhance physical therapy for improving walking and mobility after stroke. This computer controlled device provides assistance when users cannot complete a movement, but will not assist if the user is active.\n\nMotor learning requires active involvement in task-related practice to mediate brain plasticity. While voluntary movement is important to remodel motor control circuits, the brain mechanisms of reward and motivation also can play an important role. Core brain networks involved in reward and motivation increase a person's involvement with their surroundings, to focus attention and to prompt one to approach reward and avoid punishment. This increased involvement and the elevated emotions associated with it have been shown to enhance performance, memory and learning.\n\nThe purpose of this study is to investigate responses of brain and motor behavior of stroke patients who use the Anklebot during a 3-week / 3-session/week motor learning based training. These responses are compared to a 3-week delayed entry period in which the participants will perform an at-home walking program of equal time. After the 3-week delayed entry walking program, subjects are divided into low and high reward-feedback groups. The low reward-feedback group receives the Anklebot training with only immediate feedback on target successes, without cumulative scores and with minimal social interaction with the researchers. The high-reward group receives cumulative scores and ongoing social support, are eligible for prizes during each session and at the study's completion. All subjects play the games as noninvasive electroencephalography and electromyography record brain and muscle activity. In addition to analyzing brain information before and after the Anklebot training, ankle motor control and walking functions are also assessed immediately before and after the first and last robotic training sessions.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Ischemic or hemorrhagic stroke greater than 3 months prior\n* Residual hemiparetic gait with observable asymmetry in the gait pattern.\n* Women or men aged 21 to 85 years\n* Completed all conventional physical therapy.\n* Adequate language and neurocognitive function to participate in training, testing, and to give informed consent.\n* Minimal ankle flexion in either direction (dorsi- or plantar-)\n\nExclusion Criteria:\n\n* MMSE score \\< 23 (9th grade education or more) or MMSE score \\< 17 (8th grade education or less)\n* CES-D score \\> 16\n* Clinical history of orthopedic, chronic pain or severe neuromuscular disorders restricting participation in a short term ankle movement training paradigm.\n* Severe or global receptive aphasia which confounds reliable testing and training.\n* Women of child-bearing potential, if there is any self-reported chance that they may be pregnant.",
+  "minimum_age": "21 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cerebral Stroke"
+  ],
+  "overall_status": "COMPLETED"
+}

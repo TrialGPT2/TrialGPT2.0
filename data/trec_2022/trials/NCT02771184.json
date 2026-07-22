@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02771184",
+  "title": "Computerized Lung Sound Analysis",
+  "brief_summary": "This clinical trial is conducted within the research project 'Computerized Lung Sound Analysis'. The research goal is the development of a system enabling the automatic classification of lung sounds, which will result in a decision support system for physicians.\n\nThe objective of this trial is to create a small lung sound corpus, enabling the development of a prototype of the described system. Therefore, investigators record lung sounds with several lung sound transducers distributed on the posterior chest of human test subjects.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria:\n\nGeneral:\n\n* Smoker and non-smoker\n* 'Lung-healthy' subjects (control group), subjects with pneumothorax or subjects with pulmonary fibrosis\n\nAdditional for 'lung-healthy' subjects:\n\n* COPD \\< 3 (GOLD Criteria)\n\nExclusion Criteria:\n\nGeneral:\n\n* Body Mass Index \\> 30\n* Preceding thoracic surgery\n* Non-cooperation of the subject\n* Intubated or tracheostomized subjects\n\nAdditional for 'lung-healthy' subjects:\n\n* Disease of the respiratory system\n* Taking medication influencing the respiration",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pneumothorax",
+    "Pulmonary Fibrosis"
+  ],
+  "overall_status": "COMPLETED"
+}

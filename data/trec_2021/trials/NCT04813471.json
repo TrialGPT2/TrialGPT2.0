@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04813471",
+  "title": "Managing Endothelial Dysfunction in Critically Ill COVID-19 Patients at LAUMCRH",
+  "brief_summary": "COVID-19 Infection has been found to cause endothelial dysfunction and most of the adverse events stem to this mechanism. So we seek to target endothelial dysfunction in critically Ill patients with covid by giving them an endothelial protocol ( L-arginine, Folic Acid, Statin, Nicorandil, Vitamin B complex) and monitor clinical outcome in those patients.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Participants must be 18 years of age or older\n* Participants must have a PCR confirming COVID 19 status\n* Participants must be classified as critical as per the FDA evidence of critical illness, which is defined as respiratory failure requiring at least one of the following: Endotracheal intubation and mechanical ventilation, oxygen delivered by high- flow nasal cannula (heated, humidified, oxygen delivered via reinforced nasal cannula at flow rates \\> 20 L/min with fraction of delivered oxygen \u2265 0.5), noninvasive positive pressure ventilation, ECMO, or clinical diagnosis of respiratory failure (i.e., clinical need for one of the preceding therapies, but preceding therapies not able to be administered in setting of resource limitation)\n* Eligible for or already taking Statin\n\nExclusion Criteria:\n\n* Patients who are already on statins or Nicorandil.\n* Patients labeled as having mild, moderate or severe COVID-19 infection as per the FDA definitions.\n* Patients with shock as defined by SBP\\<90 for more than 30 minutes not responding to IV fluids with evidence of end organ damage.\n* Severe hepatic impairment (Child-Pugh class C) or active liver disease are absolute reasons not to be included especially those with unexplained persistent elevations of serum transaminases.\n* Pregnancy or breastfeeding\n* Hypersensitivity to any of the above-mentioned medications\n* On Levodopa.\n* Patients on PDE5 inhibitors, Riociguat\n* Acute pulmonary edema\n* Hypovolemia\n* Leber's disease",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19",
+    "Endothelial Dysfunction"
+  ],
+  "overall_status": "UNKNOWN"
+}

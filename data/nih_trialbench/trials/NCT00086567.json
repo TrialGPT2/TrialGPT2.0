@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT00086567",
+  "title": "Predictors of Relapse of Ovarian, Peritoneal, and Fallopian Tube Cancers",
+  "brief_summary": "This study will develop a blood test that can be used to predict a relapse of ovarian, peritoneal, or fallopian tube cancer. The type of testing is called proteomics, or the study of proteins in living cells. The test will identify certain proteins that might represent a pattern, or \"fingerprint,\" indicating increased risk of disease relapse.\n\nWomen with Stage III or IV epithelial ovarian cancer, primary peritoneal cancer, or fallopian tube cancer that is in remission may be eligible for this study. Candidates are screened with a medical history and physical examination, blood tests, review of pathology report from surgery, and computed tomography (CT) or magnetic resonance imaging (MRI) scans of the abdomen and pelvis (and chest if the cancer spread to the chest).\n\nParticipants have a clinic visit every 3 months for a physical examination (including a pelvic examination), blood draw for routine and research tests, and review of how they have been feeling. Every 6 months they have CT scans of the abdomen, pelvis, and possibly the chest. When a patient has been in remission for 4 years, blood draws are done every 6 months and CT scans are done yearly. Patients whose cancer returns (based on a CA-125 blood test, CT scans, or physical examination) end their participation in the study. Patients with an abnormal CT scan or physical examination may be asked to undergo a tumor biopsy (surgical removal of a piece of tumor tissue) for research purposes.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n2.1.1\\<TAB\\>All patients in first complete response from treatment of FIGO stage III/IV primary peritoneal, fallopian tube, or epithelial ovarian carcinoma as defined by: normal CA-125, normal post-hysterectomy physical exam, no evidence of disease on abdominopelvic CT scan (or other noninvasive reassessment, e.g. MRI). PET scans are not acceptable for confirmation of complete response.\n\n2.1.2\\<TAB\\>Pathology of the primary tumor must be confirmed by the registering center prior to protocol entry.\n\n2.1.3\\<TAB\\>Entry within 9 weeks of completion of final cycle of chemotherapy (within 12 weeks of last administration of chemotherapy).\n\n2.1.4\\<TAB\\>S/P surgical debulking and completion of primary therapy with platinum/taxane -containing chemotherapy of no more than 8 total cycles.\n\n2.1.5\\<TAB\\>Patients who undergo second look laparotomy or laparoscopy and have microscopic residual disease but who elect not to have treatment will be eligible to enroll.\n\n2.1.6\\<TAB\\>Histology slides adequate to confirm the pathology and staging must be submitted to the coordinating center within 3 months of enrollment. (If available, a sample of frozen primary tumor should also be forwarded).\n\n2.1.7\\<TAB\\>Patients must be able and willing to provide informed consent to participate in the trial.\n\n2.1.8\\<TAB\\>Patients must have laboratory evidence of good end organ function by criteria in Table 1 below. The upper limit of normal is based upon each registering center's laboratory normal ranges.\n\nLaboratory based inclusion criteria:\n\nLaboratory Test: AST(SGOT) and ALT(SGPT)\n\nRequired value: less than or equal to 2.5 times the institutional upper limit of normal creatinine\n\nOR\n\nLaboratory Test: Creatinine\n\nRequired value: Less than or equal to 2.0\n\nLaboratory Test: Creatinine clearance\n\nRequired Value: Greater than or equal to 45 mL/min/1.73 m(2) for patients with creatinine levels above institutional normal.\n\nEXCLUSION CRITERIA:\n\n2.2.1\\<TAB\\>Patients with nonepithelial ovarian cancer, mixed epithelial/nonepithelial ovarian cancer (i.e., Mixed Malignant Mullerian Tumors), or tumors of low malignant potential. Patients with stage I or II epithelial ovarian, fallopian tube, or primary peritoneal cancer.\n\n2.2.2\\<TAB\\>Patients may not be receiving chemotherapy (therapeutic or consolidation), maintenance, alternative therapy, or radiation therapy. No anti-cancer therapy of any kind is allowed while the patient is on-study. Replacement hormonal therapy is allowed but must be clearly indicated on the case report forms submitted. Hormonal anti-cancer therapies such as tamoxifen and raloxifene will not be permitted while on study.\n\n2.2.3\\<TAB\\>Patients with a life expectancy of less than 6 months for any reason.\n\n2.2.4 \\<TAB\\>Patients with a history of other invasive malignancies within the past five years prior to enrollment except for curatively treated carcinoma in situ of the cervix, ductal or lobular carcinoma in situ of the breast, concomitant stage I endometrial cancer, or basal or squamous cell skin cancers.\n\n2.2.5 \\<TAB\\>Complementary and alternative agent use is discouraged on this study due to the possibility that the use of these agents may alter the serum protein pattern. The Institutional Principal Investigator will have discretion as to whether complementary or alternative agent usage will prevent eligibility on a case by case basis.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Patients in first remission from treatment of FIGO stage III/IV primary peritoneal, fallopian tube, or epithelial ovarian carcinoma as defined by normal CA125, no evidence of disease on abdominopelvic CT scan, and normal post-hysterectomy physical exam.",
+  "condition": [
+    "Fallopian Tube Cancer",
+    "Peritoneal Neoplasms",
+    "Epithelial Ovarian Cancer"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This study enrolls patients with stage III/IV ovarian, peritoneal, or fallopian tube cancer who have completed initial platinum/taxane-based chemotherapy and are in their first complete remission. No prior systemic therapy for advanced disease other than this initial course is allowed.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Eligible patients must be in first complete response after primary therapy (surgery and platinum/taxane chemotherapy) for stage III/IV disease, with entry required within 9–12 weeks of completing chemotherapy. No prior systemic therapy for advanced disease beyond this initial course is permitted, and patients may not receive any anti-cancer therapy while on study."
+    }
+  ]
+}

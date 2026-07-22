@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT00599209",
+  "title": "Health Information Technology in the Nursing Home",
+  "brief_summary": "The magnitude and intensity of medication use among our nation's 1.6 million nursing home residents matches or exceeds that of hospitalized patients. The residents of nursing homes are among the most frail patients in the population; the challenges of using medications in this setting are great, not only because of the physiologic declines and pharmacologic changes that occur with aging, but also because of the special clinical and social circumstances that often characterize nursing home care. In our previous research, we have determined that medication errors resulting in adverse drug events occur most often at the ordering and monitoring stages of pharmaceutical care. Clinical decision-support systems are clinical consultation systems that combine individual patient information with population statistics and scientific evidence to offer real-time information to health care providers. These systems have been found to improve the quality of medication prescribing in the hospital setting. In this study, we intend to determine the extent to which a computer-based clinical decision-support system (accompanying computerized provider order-entry) can improve the quality of medication ordering and monitoring for residents in the long-term care setting through a randomized trial. We will track the costs associated with this system and the system's impact on the productivity of providers. We will also assess the culture of U.S. nursing homes and the organization of the nursing home setting with respect to readiness to incorporate computerized provider order-entry with computer-based clinical decision support. Our project addresses specific areas that are of particular interest to AHRQ with special relevance to the delivery of high-quality care to a priority population--the frail elderly patient population residing in nursing homes. The project will assess the economic implications of health information technology in the nursing home environment that will be of interest to key stakeholders, including physicians, pharmacists, nurses, payers, policymakers, the nursing home industry, and pharmaceutical vendors to long-term care institutions.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* prescriber at the study facility\n\nExclusion Criteria:\n\n* not a prescriber at the study facility",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Patient Safety",
+    "Prescribing Practices",
+    "Laboratory Monitoring Practices"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT00271531",
+  "title": "Bacterial Pulmonary Infection in PICU",
+  "brief_summary": "The purpose of this study is to develop a scoring system to allow doctors to accurately identify children on a mechanical ventilator who have bacterial pneumonia. Currently this diagnosis is very difficult to make, resulting in the overuse of antibiotics and the promotion of antibiotic-resistant bacteria in the pediatric intensive care unit (ICU). Four ICUs at 3 children's hospitals will participate. Study participants will include 150 children, ages 2 months to 17 years old who require mechanical ventilation, and in whom the bedside health care providers suspect bacterial pneumonia. Bacteria will be studied by sampling lung fluid through the breathing tube less than 12 hours after starting antibiotics, using a procedure known as \"non-bronchoscopic-bronchoalveolar lavage (NB-BAL).\" Participants may be involved in study related procedures for up to 31 days.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Parent or legal guardian has signed the informed consent.\n* Age greater than 48 weeks post-conception and less than 18 years of age.\n* Requiring mechanical ventilation in the intensive care unit (subjects will not be intubated solely for the purpose of this study).\n* Presence of an abnormal chest x-ray (CXR) as determined by the primary care team (Note: if the attending radiologist disagrees with the reading of \"abnormal CXR,\" the subject will be followed for safety and replaced for analysis).\n* Initiation of antibiotics by the assigned health care providers for suspected bacterial pneumonia (must be less than or equal to 12 hours prior to undergoing non-bronchoscopic bronchoalveolar lavage \\[NB-BAL\\]).\n\nExclusion Criteria:\n\n* Presence of severe hypoxia (PaO2/FIO2 \\< 120).\n* Documented or suspected increased intracranial pressure.\n* Hemodynamic instability, defined as one of the following in the 4 hours preceding study entry:\n\n  1. Initiation of any inotropic or vasopressor agents at any dose to improve blood pressure or tissue perfusion.\n  2. Increase in infusion rate of any inotropic or vasopressor agents to improve blood pressure or tissue perfusion.\n* Receipt of intravenous (IV) or oral (PO) antibiotics for suspected bacterial pneumonia for greater than or equal to 12 hours prior to non-bronchoscopic bronchoalveolar lavage (NB-BAL).\n* Treatment for a previous episode of suspected bacterial pneumonia within three days prior to NB-BAL.\n* Coagulopathy:\n\n  1. Documented platelet count \\<50,000 x 10\\^6/mL at the time of enrollment (Exception: The subject may be enrolled if he/she receives a platelet infusion as a part of routine care that is completed within one hour of NB-BAL initiation),\n  2. Extra-corporeal circuit, requiring anticoagulation, or\n  3. Clinically apparent bleeding deemed important by either the PI or attending intensivist.\n* Previous enrollment into this study.\n* Cardiopulmonary instability during routine suctioning within 6 hours of NB-BAL.\n* Oscillatory ventilation.\n* Cystic fibrosis.\n* Single ventricle physiology.\n* Positive pleural fluid culture results prior to Day -1 during the current hospitalization.",
+  "minimum_age": "2 Months",
+  "maximum_age": "17 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Children, ages \\> 48 weeks post-conception and \\< 18 years, requiring mechanical ventilation in pediatric ICU, presence of abnormal chest x-ray, and initiation of antibiotics (less than or equal to 12 hours prior to NB-BAL).",
+  "condition": [
+    "Bacterial Infection"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02207114",
+  "title": "Using Biomarkers to Optimize Antibiotic Strategies in Sepsis",
+  "brief_summary": "The proposed work will provide critical insights into the potential impact of a biomarker-based algorithm on reducing unnecessary antibiotic use in different adult and pediatric/neonatal ICU's. This proposal will also assess the costs (or savings) of a biomarker-based intervention. Overall, the results of this work will be critical in informing future strategies to eliminate unnecessary antibiotic use and curb the continued rise in antimicrobial resistance.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n1. SIRS Criteria\n\n   SIRS is considered to be present when patients have more than one of the following clinical findings:\n   * body temperature \\>38\u00b0C or \\<36\u00b0C\n   * heart rate \\>90 min-1\n   * respiratory rate of \\>20 min-1 or a Paco2 of \\<32 mm Hg\n   * and a white blood cell count of \\>12,000 cells \u00b5L-1 or \\<4,000 \u00b5L-1\n2. new empiric antibiotic therapy is initiated, indicating the suspicion of infection. Accepted criteria for SIRS will be used for the Medical Intensive Care Unit and Surgical Intensive Care Unit populations, with appropriate age-specific vital signs definitions to help make the definitions relevant for the Pediatric Intensive Care Unit population.\n\nExclusion Criteria:\n\n1. a code status of \"do not resuscitate\"\n2. absence of initiation or expansion of antibiotic therapy despite meeting criteria for sepsis\n3. presence of an immunocompromising condition.\n\nAn immunocompromising condition will be defined as one of the following:\n\n* human immunodeficiency virus (HIV) infection with a t-helper cell (CD4) count \\<200 cell/mm3; 2) immunosuppressive therapy after organ transplantation\n* neutropenia (\\<500 neutrophils/mm3)\n* active chemotherapy within the 3 months preceding eligibility or\n* diagnosis of cystic fibrosis.\n\nThese criteria all represent conditions in which antibiotic use is much less likely to be decreased regardless of the results of a biomarker and are consistent with exclusion criteria used in past studies of the impact of biomarkers.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sepsis"
+  ],
+  "overall_status": "COMPLETED"
+}

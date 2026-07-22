@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT03300830",
+  "title": "Molecular Characterization of Viral-associated Tumors, Tumors Occurring in the Setting of HIV or Other Immune Disorders and Castleman Disease",
+  "brief_summary": "Background:\n\nA person s genome is the collection of all their genes. A gene instructs individual cells to make proteins. Proteins are involved in all of our body s chemical processes. Genome sequencing allows researchers to find variations in genes. Some of these are normal and are not known to cause disease. Some variants are known to cause or affect diseases like cancer. Researchers want to study genetic variants in people with cancer who also have an immunologic disease like HIV.\n\nObjective:\n\nTo study the biology of cancer in order to improve ways to prevent, detect, and treat it.\n\nEligibility:\n\nAdults at least 18 years old with certain cancers and/or immunodeficiencies\n\nDesign:\n\nParticipants will be screened with medical history, physical exam, and lab tests.\n\nParticipants will give samples of one or more tissue type.\n\nThey may give blood or urine samples.\n\nResearchers may get samples of tissue when participants have surgery or when the participants are on other protocols in the NCI.\n\nParticipants may have a procedure to have tissue samples removed.\n\nResearchers may collect data from participant medical records.\n\nResearchers will compare the genes in a participant s cancer tissue to their normal tissue. They may use the tissue cells to grow new cells in a lab.\n\nParticipants may be contacted about the results.\n\nThe samples will be stored for future research. No personal data will be kept with them.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPatients with one or more of the following:\n\n* HIV or other acquired immunodeficiency and cancer\n* Viral-associated cancer or cancer hypothesized to be caused by a virus\n* HIV-negative patients with cancer that commonly occurs in people with HIV\n\n  --KSHV-associated malignancy or related diseases, such as Multicentric Castleman Disease\n* A malignancy hypothesized to be caused by an endogenous retrovirus\n* Idiopathic Castleman disease\n\nCancer diagnoses will be confirmed by the NCI Laboratory of Pathology. A biopsy will be collected if sufficient archival tissue is not available.\n\n* Age \\>=18 years.\n* ECOG performance status \\<=2 (Karnofsky \\>=60%) if biopsy to be performed is solely for the purposes of this protocol. Any ECOG performance status will be allowed if biopsy required for patient care or another NIH protocol that allows lower performance status or if enrollment on this protocol is only for the purposes of studying tissue that has already been collected.\n* Patients must have signed or be willing to sign an IRB-approved informed consent document that permits the use of the tumor and other samples for genomic-based molecular characterization projects. Telephone consent for use of archival tissue or tissue collected on another protocol or standard patient care will be permitted.\n* Co-enrollment on other HAMB, NCI, or NIH protocols is allowed\n\nEXCLUSION CRITERIA:\n\n* Inability to provide informed consent.\n* Pregnancy: Pregnant women will not be allowed to participate in this study because there is not a potential benefit.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population will be patients referred by HIV providers and those who provide primary care to the African immigrant community.",
+  "condition": [
+    "Human Immunodeficiency Virus",
+    "Castleman's Disease",
+    "Kaposi's Sarcoma",
+    "Viral-Associated Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study enrolling adults with various cancers associated with viral infection, immunodeficiency, or Castleman disease, regardless of prior lines of therapy. There are no restrictions on prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes adults with specified cancers and/or immunodeficiencies, with no mention of required or excluded prior systemic therapy for advanced disease. Patients may be newly diagnosed or previously treated, and those with only adjuvant/neoadjuvant therapy are not excluded."
+    }
+  ]
+}

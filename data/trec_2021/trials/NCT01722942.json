@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01722942",
+  "title": "Amiodarone Against ICD Therapy in Chagas Cardiomyopathy for Primary Prevention of Death",
+  "brief_summary": "The primary objective is to compare the efficacy of the treatment using implantable cardioverter defibrillator (ICD) implantation to that of the treatment using amiodarone in the primary prevention of all-cause mortality in high-risk patients with Chagas cardiomyopathy and non-sustained ventricular tachycardia (NSVT).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Written informed consent prior to randomization and any study procedure;\n* Both genders, age \\> 18 years and \\< 75 years;\n* Recent (previous 6 months) documented positive serologic test for Chagas disease in at least two different tests (indirect hemagglutination, indirect immunofluorescence, or ELISA);\n* Presence of at least 10 points in Rassi risk score for death prediction;\n* Presence of at least 1 episode of NSVT on Holter monitoring, defined as \\> 3 successive beats and duration \\< 30 seconds, with HR \\> 120 bpm is mandatory.\n\nExclusion Criteria:\n\n* Participation in another study currently or \\< 1 year ago, except for totally unrelated observational studies;\n* Other concomitant cardiovascular disease, including uncontrolled diabetes mellitus (systemic hypertension without target-organ impairment is allowed);\n* Renal dysfunction (serum creatinine \\> 1.5 mg/dL or glomerular filtration rate (GFR) \\< 60 mL/min/1.73m2) or liver dysfunction with diagnosis of cirrhosis or portal hypertension or elevated serum enzymes (AST or ALT) \\> 3 x the upper normal limit;\n* Moderate or severe chronic obstructive pulmonary disease;\n* Peripheral polyneuropathy;\n* Hypo or hyper-thyroidism;\n* Current alcoholism or quit for \\<2 years;\n* Mental disorder or illicit drug addiction;\n* Life expectancy \\< 1 year, because of the disease itself or of comorbidities (including NYHA class IV CHF);\n* Pregnancy or breastfeeding;\n* Childbearing potential during the study (non-menopausal patients who have not undergone a safe and permanent birth control method);\n* Other contraindications for the use of amiodarone: previous intolerance to the drug; HR \\< 55bpm; sinus node disease; type II Mobitz; fixed 2:1 AV block; advanced degree atrioventricular block (AV) block; Complete AV block; QTc \\> 500mseg;\n* Formal indication for the use of amiodarone or defibrillator (NSVT and very disturbing palpitations, presyncope or syncope; SVT; recovery from cardiac arrest);\n* Use of amiodarone in the past 6 months, except if started for \\< 2 weeks and if loading dose had been \\<10g and maintenance dose \u2264100mg/day;\n* Current use of betablocker considered clinically indispensable, with bradycardia \\< 55/min or AV block \u2265 1st degree, without pacemaker implantation;\n* Current use of other medications with contraindication to the concomitant use of amiodarone;\n* Persistent or permanent atrial fibrillation;\n* Previous withdrawal from this study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chagas Cardiomyopathy",
+    "Non-sustained Ventricular Tachycardia",
+    "At Least 10 Points in Rassi Risk Score for Death"
+  ],
+  "overall_status": "UNKNOWN"
+}

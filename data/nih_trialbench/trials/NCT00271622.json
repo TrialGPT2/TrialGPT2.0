@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT00271622",
+  "title": "The Neurodevelopmental and Behavioral Phenotyping Screening Protocol",
+  "brief_summary": "The purpose of this protocol is to allow for the careful evaluation of healthy volunteers and individuals with risk for psychiatric disorders or neurodevelopmental disorders, such as autism spectrum disorder for specific protocols at NIH....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Subjects must be at least 6 weeks of age.\n* Subjects or their parents must be competent to comprehend the purpose of the screening process and to provide written informed consent. Parents/guardians will sign the consent form, and both minors and adults (depending on results of capacity assessment) will be asked to assent only if it is determined that they understand their role in the study.\n* Subjects must be willing to undergo an evaluation which may include a psychiatric interview; and medical, neurological, and laboratory examinations (as appropriate, such as renal and liver function tests, serum electrolytes, urinalysis, blood levels of psychotropic drugs, and urine drug screen for the presence of psychoactive drugs and drugs of abuse, as determined on a subject-to-subject basis).\n\nEXCLUSION CRITERIA:\n\n-Lack of appropriate consent: For minor patients, consent must be obtained from all legal guardians/caretakers, including both parents in separated or divorced families where there is shared legal custody of the child. In such cases, both parents must consent to the child s participation in this protocol.",
+  "minimum_age": "6 Weeks",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The population consists of healthy volunteers and individuals with risk for psychiatric disorders or neurodevelopmental disorders, such as autism spectrum disorders.",
+  "condition": [
+    "Neurologic Disorders",
+    "Autism",
+    "Neurodegenerative Disease",
+    "Neurobehavioral Manifestation"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a neurodevelopmental and behavioral phenotyping screening protocol that does not involve cancer or systemic therapy for advanced disease. There is no line-of-therapy intent applicable to this study.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This protocol is not an oncology trial and does not address systemic therapy or lines of therapy for advanced disease. No information is provided regarding prior cancer treatments."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT01087333",
+  "title": "Collection of Human Samples to Study Hairy Cell and Other Leukemias, and to Develop Recombinant Immunotoxins for Cancer Treatment",
+  "brief_summary": "Background:\n\n\\- Researchers who are studying hairy cell leukemia, and how the disease compares with other disorders, are interested in obtaining additional samples from leukemia patients and healthy volunteers. The investigators are particularly interested in samples from individuals who have diseases that can be treated with a new type of drug called immunotoxin, in which an antibody carrying a toxin binds to a cancer cell and allows the toxin to kill the cell.\n\nObjectives:\n\n\\- To collect a variety of clinical samples, including blood, urine, lymph samples, and other tissues, in order to study the samples and develop new treatments for leukemia.\n\nEligibility:\n\n\\- Individuals 18 years of age and older who have been diagnosed with leukemia or other kinds of blood and lymphatic system cancers, or who are healthy volunteers.\n\nDesign:\n\n* Individuals who have leukemia will be asked to provide blood, bone marrow, urine, and tumor tissue samples as requested by the researchers. Healthy volunteers will provide only blood and urine samples.\n* No treatment will be given as part of this protocol.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAll participants\n\n* 18 years of age and older\n* Desire of the individual to submit data and samples for research\n* Ability to understand and the willingness to sign a written informed consent document.\n\nIndividuals with cancer\n\n-Participants may have a diagnosis of hematologic malignancy or solid tumor. These participants would not be excluded if they were in long-term complete remission.\n\nNormal donors (Individuals without cancer)\n\n-Individuals must not have a current or prior diagnosis of a hematologic malignancy or solid tumor.\n\nEXCLUSION CRITERIA:\n\nAll participants\n\n-Known pregnancy at enrollment. NOTE: A pregnancy test will be required in individuals on study prior to any procedure done for research purposes that is greater than minimal risk.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Primary clinical population; normal donors",
+  "condition": [
+    "Hairy Cell Leukemia (HCL)",
+    "Chronic Lymphocytic Leukemia (CLL)",
+    "Non-Hodgkins Lymphoma (NHL)",
+    "Cutaneous T Cell Lymphoma (CTCL)",
+    "Adult T Cell Lymphoma (ATL)"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic biospecimen collection protocol enrolling patients with any history of hematologic malignancy or solid tumor, regardless of prior therapy, as well as healthy volunteers. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes any individual with a diagnosis of hematologic malignancy or solid tumor, including those in long-term remission, and healthy volunteers. There are no requirements or restrictions regarding prior systemic therapy for advanced disease; patients with no prior therapy, adjuvant-only therapy, or any number of prior lines are eligible."
+    }
+  ]
+}

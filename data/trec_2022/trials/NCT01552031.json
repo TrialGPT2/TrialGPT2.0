@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01552031",
+  "title": "Monitoring Chronic Obstructive Pulmonary Disease Patients at Home by a Forced Oscillation Technique Device",
+  "brief_summary": "Chronic obstructive pulmonary disease (COPD) is a pathological condition whose progression is characterized by stable periods broken up by intermittent acute exacerbations of the symptoms, during which a severe inflammatory process occurs often requiring hospitalization. During exacerbations the risk of death is very high making the social and economical impact of such events important.\n\nThe need of rationalize the utilization of health care resources together with the optimization of patient's care has prompted the development of models of assistance based on home monitoring. At the present time most of the suggested models were based on the utilization of diaries for symptoms perceived by the patients. Even if positive results are reported in terms of reduction of in hospitalization many COPD patients tend to underestimate the severity of their condition and their compliance in recording their symptoms rapidly decreases with time.\n\nAttempts of using more objective measurements such as home spirometers have been done but poor results were reported mainly due to the difficulties in performing a spirometric test without medical supervision.\n\nA more suitable approach to get objective information on the function of the respiratory system is the Forced Oscillation Technique (FOT). Such methodology is based on the analysis of the response of the system to small pressure stimuli over-imposed to the normal breathing of the patients. The measurements require minimal cooperation and can be performed without medical supervision.\n\nThe purpose of this study is to measure daily variability of FOT data measured at home of a group of COPD patients in order to identify possible correlations between symptoms change, breathing pattern, lung mechanical impedance and occurrence of exacerbation.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* COPD at stage 3 and 4 of GOLD classification(spirometric values after bronchodilator: FEV1/VC \\< 95th percentile of predicted and FEV1 \\< 50% of predicted)\n* patients who reported more than two exacerbations in the past year OR\n* patients who required more than two hospital admission in the last year OR\n* patients with ER admission in the last year due to acute respiratory failure\n\nbetter if:\n\n* depressive phenotype\n* worsening of dyspnea during walk (measured by MRC-Medical Research Council score)\n* malnutrition or obesity (BMI \\< 19 or \\> 25)\n* patient lives alone\n\nExclusion Criteria:\n\n* Other respiratory diseases\n* Alpha-1antitrypsin deficiency\n* Significant inflammatory diseases other than COPD\n* Organ or systemic diseases that may impair the ventilatory function (any restrictive pulmonary disease, cystic fibrosis and so on)\n* Prior lung surgery\n* Concomitant enrollment in other trials\n* Any major non-COPD disease or condition, such as uncontrolled malignancy, end-stage heart disease, liver or renal insufficiency (that requires current evaluation for liver or renal transplantation or dialysis), amyotrophic lateral sclerosis, or severe stroke, or other as deemed appropriate by investigator as determined by review of medical history and / or patient reported medical history",
+  "minimum_age": "40 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "80 COPD patients, with the characteristics of frequent exacerbators (\\> 2 exacerbations in the past year), will be enrolled in the study.",
+  "condition": [
+    "COPD"
+  ],
+  "overall_status": "UNKNOWN"
+}

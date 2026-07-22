@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT05600920",
+  "title": "A Single-arm, Dose-escalation Trial of Long-acting Recombinant Human IL-7 (NT-I7, Efineptakin Alfa) for Idiopathic CD4 Lymphopenia",
+  "brief_summary": "Background:\n\nIdiopathic CD4 lymphopenia (ICL) is a syndrome characterized by low levels of certain immune cells called CD4 T cells. The low CD4 T cells renders people with ICL prone to many types of severe infections, autoimmune diseases, and cancers. Although these infections and diseases can be treated whenever occur, there is currently no treatment that targeting the underlying deficiency of CD4 T cells can provide a definitive treatment for people with ICL.\n\nObjective:\n\nTo test a new drug (NT-17) in people with ICL which can increase the number of CD4 T cells\n\nEligibility:\n\nPeople aged 18 to 75 years with ICL who are also enrolled in NIH protocol 09-I-0102.\n\nDesign:\n\nParticipants will be screened. They will have a physical exam and blood tests. Some participants with high suspicion of central nervous system infection or history of such infections may also undergo a lumbar puncture. A thin needle will be inserted into their lower back to draw out a sample of the fluid around their spinal cord.\n\nParticipants will receive 3 doses of NT-17, each about 12 weeks apart. NT-17 is injected into the muscle of the upper arm, thigh, or buttock. They will visit the clinic 5 days before each dose and again 2 and 4 weeks after each dose. Blood will be drawn at all visits.\n\nParticipants will undergo leukapheresis 3 times. Blood will be drawn from a needle in one arm. The blood will pass through a machine that separates out the white blood cells. The remaining blood will be given back through a second needle in the other arm.\n\nSome visits will include a rectal swab.\n\nSome participants may have additional tests, including a skin exam, skin biopsies, and medical imaging.\n\nParticipants will have 3 follow-up visits every 3 months after they finish treatment.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIndividuals must meet all of the following criteria to be eligible for study participation:\n\n1. Aged 18 to 75 years.\n2. Able to provide informed consent.\n3. Co-enrolled in NIH protocol 09-I-0102, Etiology, Pathogenesis, and Natural History of Idiopathic CD4+ Lymphocytopenia (EPIC) study (NCT0086726).\n4. Documented ICL, defined as CD4 T-cell count \\<300 cells/microliter in at least 2 different measurements at least 6 weeks apart, at any point in the past.\n5. Participants who can become pregnant or who can impregnate their partner must agree to remain abstinent or to use 2 highly effective methods of contraception, at least 1 of which must be a barrier method, when engaging in sexual activities that can result in pregnancy, beginning at the first pre-injection visit until the 30 days after the last injection. Acceptable methods of contraception include the following:\n\n   1. Male or female condom.\n   2. Diaphragm or cervical cap with a spermicide.\n   3. Hormonal contraception.\n   4. Intrauterine device.\n\nNote: Contraception requirements do not apply to participants who are post-menopause (age \\>=45 years plus no menses for 12 consecutive months without an alternative medical cause).\n\nEXCLUSION CRITERIA:\n\nIndividuals meeting any of the following criteria will be excluded from study participation:\n\n1. Current moderate or severe acute illness (eg, febrile illness, seizure, myocardial infarction, cerebrovascular accident, pulmonary embolism) that in the opinion of the study team would make the individual unsuitable for the study.\n2. Clinical or microbiologic evidence of active progressive cryptococcal central nervous system (CNS) disease or nontuberculous mycobacterial (NTM) infections within the last year. History of stable cryptococcal CNS disease or NTM diseases since more than 1 year can be enrolled but will need to have undetectable CSF cryptococcal antigen and initiate/maintain antifungal or antimycobacterial treatment, respectively.\n3. Pregnant or breastfeeding.\n4. HIV infection, chronic hepatitis B or C infection, and any other recognized congenital or acquired immunodeficiency (eg, SCID IL-2/JAK3/ADA, MAGT1, MHC1 deficiency, CVID, DOCK8).\n5. Serum creatinine \\>1.5 X ULN, platelets \\<50,000/microliter, hemoglobin \\<9 g/dL, AST/ALT\\>2.5 X ULN, total bilirubin \\>1.5 X ULN (except if due to Gilbert's syndrome), or immunoglobulin (Ig) G level \\<450 mg/L.\n6. Current (within 3 months of screening) use of systemic glucocorticosteroids or immunomodulants other than corticosteroid nasal spray or inhaler and topical steroids.\n7. Any established diagnosis of autoimmune disease requiring systemic treatment except for vitiligo or endocrine disease (including diabetes, thyroid disease, and adrenal disease) controlled by replacement therapy.\n8. Malignancy requiring systemic chemotherapy or immunotherapy within 2 months of screening.\n9. Receipt of any other investigational agents within 3 months of screening.\n10. Any condition that, in the opinion of the study team contraindicates participation in this study.\n\nParticipants will be selected in an equitable manner from the available pool of potentially eligible individuals, without regard to factors such as sex, gender, race, ethnicity, or socioeconomic status, except for age.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Idiopathic CD4 Lymphopenia"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a single-arm, dose-escalation trial of NT-I7 (Efineptakin Alfa) in patients with idiopathic CD4 lymphopenia (ICL). There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, as the study population is not defined by cancer treatment history.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference prior systemic therapy for advanced disease, as the trial is for idiopathic CD4 lymphopenia and not a cancer-specific population. There are no restrictions or requirements regarding prior lines of therapy for advanced/metastatic disease."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04213183",
+  "title": "Screening and Identifying Hepatobiliary Diseases Via Deep Learning Using Ocular Images",
+  "brief_summary": "Artificial Intelligence may provide insight into exploring the potential covert association behind and reveal some early ocular architecture changes in individuals with hepatobiliary disorders. We conducted a pioneer work to explore the association between the eye and liver via deep learning, to develop and evaluate different deep learning models to predict the hepatobiliary disease by using ocular images.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* The quality of fundus and slit-lamp images should clinical acceptable.\n* More than 90% of the fundus image area including four main regions (optic disk, macular, upper and lower retinal vessel archs) are easy to read and discriminate.\n* More than 90% of the slit-lamp image area including three main regions (sclera, pupil, and lens) are easy to read and discriminate.\n\nExclusion Criteria:\n\n* Images with light leakage (\\>10% of the area), spots from lens flares or stains, and overexposure were excluded from further analysis.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Slit-lamp and retinal fundus images collected from Department of Infectious Diseases, Third Affiliated Hospital of Sun Yat-sen University, Department of Infectious Diseases, Third Affiliated Hospital of Sun Yat-sen University, Affiliated Huadu Hospital of Southern Medical University, Nantian Medical Centre of Aikang Health Care, and Huanshidong Medical Centre of Aikang Health Care.",
+  "condition": [
+    "Ophthalmology",
+    "Artificial Intelligence",
+    "Hepatobiliary Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

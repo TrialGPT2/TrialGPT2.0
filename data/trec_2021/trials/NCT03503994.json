@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03503994",
+  "title": "Inhaled Corticosteroids for Treatment of Bronchopulmonary Dysplasia",
+  "brief_summary": "While many short-term morbidities associated with extreme prematurity have declined over the last two decades, the incidence of bronchopulmonary dysplasia (BPD) has increased to a rate of approximately 45% in neonates \\<28 weeks gestational age (GA) and birth weight (BW) \\<1,500 g. Neonates with BPD are at increased risk for adverse short-and long-term neurodevelopmental and respiratory outcomes that often persist into adulthood.\n\nThere is a growing body of pathological and biochemical evidence that implicates inflammation in its pathogenesis. This is further supported by randomized controlled trials (RCTs) that demonstrate the efficacy of systemic corticosteroids in facilitating extubation and reducing BPD. However, several short- and long-term adverse effects associated with the use of systemic corticosteroids have been described, the most concerning of which is their effect on neurodevelopment, specifically an increased rate of cerebral palsy (CP).\n\nInhaled corticosteroids (ICS) are an attractive alternative to systemic steroids because of these concerns. Earlier systematic reviews had not found any benefit in using ICS for the prevention or treatment of BPD. However, a recent systematic review showed a significant reduction in death or BPD at 36 weeks' corrected GA (CGA) (risk ratio=0.86, 95% confidence interval 0.75, 0.99), BPD (RR=0.77, 95% CI 0.65, 0.91), and use of systemic steroids (RR=0.87, 95% CI 0.76, 0.98) in infants treated with ICS.\n\nDespite growing evidence of the effectiveness of ICS for BPD, uncertainty remains over treatment timing, effective dose, and long-term effects. There is also variation in the delivery systems used for delivery of ICS. These concerns continue to be echoed in a recent review by Nelin et al. Given that the long-term neurodevelopmental impact of ICS were unknown at the time of this study and many infants are able to wean from ventilation without steroids, the investigators conducted an escalating-dose ranging study of late ICS (i.e. administered after the first week of life) delivered by a metered dose inhaler (MDI) utilizing a specially designed valved delivery system to determine the minimum effective dose necessary to achieve extubation or reduction in oxygen requirements and the long-term neurodevelopmental impact of increasing doses of ICS.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Birth weight \\< 1,250 grams\n* Gestational age \\< 32 weeks\n* Need for assisted, invasive mechanical ventilation with at least the following settings:\n\nventilation rate \\> 15 breaths per min, fractional oxygen concentration of inspired gas (FiO2) \\> 30% but \\< 60%)\n\n* Postnatal age 10-21 days\n* Stable ventilatory requirements over the 48-72 hours prior to enrollment\n\nExclusion Criteria:\n\n* Actual or suspected sepsis\n* Congenital cardiorespiratory malformation\n* Patent ductus arteriosus\n* Presence of necrotizing enterocolitis\n* Presence of gastrointestinal hemorrhage or perforation\n* Treatment with systemic dexamethasone",
+  "minimum_age": "1 Week",
+  "maximum_age": "4 Weeks",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Bronchopulmonary Dysplasia"
+  ],
+  "overall_status": "COMPLETED"
+}

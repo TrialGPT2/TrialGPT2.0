@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT06630650",
+  "title": "A Prospective Natural History and Outcome Measure Validation Study of Congenital Myasthenic Syndromes",
+  "brief_summary": "Background:\n\nCongenital myasthenic syndromes (CMSs) are a group of inherited disorders that affect how the nerves communicate with muscles. These can cause many problems that affect how people can move and use their bodies.\n\nObjective:\n\nThis is a natural history study to learn more about how CMSs affect the body and cause changes over time.\n\nEligibility:\n\nPeople aged 6 months or older with a CMS. The study will focus on DOK7- and COLQ-related CMSs, as well as other forms.\n\nDesign:\n\nParticipants will have up to 7 visits in 5 years. At each visit, participants will undergo many tests, including:\n\nPhysical exam with blood and urine tests.\n\nTests of their heart and lung function.\n\nExams of the eyes, lungs, muscles, and nerves. These will be done with different specialists.\n\nExams of the arms and hands and of body use and movements. These will also be done with specialists.\n\nPhotos and videos may be taken.\n\nMuscle ultrasound. Participants will lie still as a wand is rubbed over their skin.\n\nMagnetic resonance imaging (MRI) scans. Participants will lie still on a bed that slides partway into a large tube. A parent or other person may remain in the room, too. The scan will take 60 minutes.\n\nElectromyography (EMG). Participants will lie still or may be asked to move around. A machine will measure the electrical activity in their muscles.\n\nAn activity monitor may be placed on the participant s wrist, ankle, or hip for up to 2 weeks. The monitor is about the size of a wristwatch.\n\nA sample of skin may be removed....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Male or female, aged \\>= 6 months of age\n* Clinically stable as evidenced by medical record review and remote screening questionnaire\n* Genetically confirmed congenital myasthenic syndrome (pathogenic or likely pathogenic variants identified by CLIA testing in an established CMS-related gene including but not limited to DOK7, COLQ, CHRNE, RAPSN, CHAT, GFPT1, DPAGT1 OR pathogenic/likely pathogenic variant in combination with a variant of uncertain significance (VUS) AND additional clinical supporting evidence of CMS).\n* Agreement to adhere to Lifestyle Considerations throughout study duration\n* Ability of subject to understand and the willingness to provide informed consent (\\>=18 years of age) and assent (\\>=7 years of age).\n\nEXCLUSION CRITERIA:\n\n* Received gene transfer therapy\n* Pregnant women (prior to enrollment)\n* Ongoing medical condition or medication use that is deemed by the Principal Investigator to interfere with the conduct or assessments of the study or safety of the subject.",
+  "minimum_age": "6 Months",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with congenital myasthenic syndromes with a focus on DOK7 and COLQ subtypes.",
+  "condition": [
+    "Myasthenic Syndromes, Congenital"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study of congenital myasthenic syndromes and does not specify any requirements regarding prior lines of systemic therapy for advanced disease. All eligible patients with CMS, regardless of prior treatment history, may enroll.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they specify any requirements or restrictions based on previous treatments. This is a natural history study enrolling all patients with genetically confirmed CMS."
+    }
+  ]
+}

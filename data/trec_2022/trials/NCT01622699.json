@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01622699",
+  "title": "Implementation of a Transcutaneous Bilirubinometer",
+  "brief_summary": "Neonatal jaundice, caused by hyperbilirubinemia, is frequently seen in healthy newborns. Assessment of the degree of jaundice is usually done visually,and if necessary serum bilirubin is investigated in a blood sample. The visual assessment is subjective and can alternatively be replaced by transcutaneous measurement.The transcutaneous bilirubinometer is a validated measurement-tool, which provides us with an estimated serum bilirubin-concentration. Little is known about the effect of the actual use of a bilirubinometer on the quality of care. Further evidence is needed to evaluate whether transcutaneous bilirubin measurements improve clinical outcome (use of blood tests, phototherapy and exchange transfusion), shorten length of stay and reduce costs. Therefore we aim to perform a Randomized controlled trial to evaluate the cost-effectiveness of implementing the use of a transcutaneous bilirubinometer in jaundiced neonates, a gestational age of 32 weeks. The assessment of jaundice by use of a transcutaneous bilirubinometer is compared to visual assessment of jaundice",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* All newborns at the pediatric- and maternity-ward with visible jaundice.\n* Gestational age of 32 weeks or more.\n* Older than 24 hours.\n* Younger than 8 days.\n\nExclusion Criteria:\n\n* Neonatal jaundice within 24 hours or after 8 days\n* Hemolysis present based on maternal history (for example irregular erythrocyte antibodies)\n* Bilirubin encephalopathy\n* Newborns during/after phototherapy\n* Large congenital anomaly at forehead/sternum\n* Serum bilirubin-value is already known before admission to the pediatric ward;those newborns are to be admitted because the serum bilirubin-level has reached the phototherapy or exchange transfusion limit.",
+  "minimum_age": "24 Hours",
+  "maximum_age": "8 Days",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Neonatal Jaundice",
+    "Hyperbilirubinemia"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04094818",
+  "title": "TriVerity in the Diagnosis and Prognosis of Emergency Department Patients With Suspected Infections and Suspected Sepsis",
+  "brief_summary": "This study will analyze gene expression and other laboratory data from biological samples collected from participants with suspected respiratory, urinary, intra-abdominal, and/or skin \\& soft tissue infections; or suspected sepsis of any cause.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age \\>18 year\n2. Suspected acute infection (respiratory, urinary, abdominal, skin \\& soft-tissue), and at least one of the symptoms OR, Suspected sepsis of any cause as defined by a blood culture order by the treating physician, and at least two of the symptoms:\n\n   * Heart rate: \\>90 beats/ minute\n   * Temperature: \\>38 C or \\<36C\n   * Respiratory Rate: \\>20 breaths / minutes or PaO2 of \\<60 mmHg or SpO2 \\<90%\n   * Systolic blood pressure: \\<100 mmHg\n   * Altered mental status: Per clinical exam\n3. Able to provide informed consent, or consent by legally authorized representative.\n\nExclusion Criteria:\n\nParticipants will be ineligible for this study if they meet any of the following criteria:\n\n1. Patient-reported treatment with systemic antibiotics, systemic antiviral agents or systemic antifungal agents within the past 7 days prior to the emergency department study visit. Participants will not be excluded for use of:\n\n   1. Antiviral treatment for HIV infection and hepatitis B and hepatitis C\n   2. Topical antibiotics, topical antiviral or topical antifungal agents\n   3. Anti-herpes prophylaxis aiding suppression of a recuring herpes infection\n   4. Peri-operative (prophylactic) antibiotics\n   5. A single dose of antimicrobials during the present ED visit (\\<10h before blood draw); note single dose can be considered mono or combination therapy, wherein combination is administered as part of local Standard of Care and only one dose of each medication is administered within the allowable 10-hour window\n2. Patients receiving palliative or hospice care, or those receiving limited interventional care.\n3. Prisoners, mentally disabled, or unable to give consent. Should the patient not be able to provide informed consent the legally authorized representative can provide the consent on behalf of the patient.\n4. Patients receiving experimental therapy or already enrolled in an interventional clinical trial in which a subject receives some type of intervention, which can include but is not limited to investigational drugs, medical devices, or vaccines.\n\n   a. Subjects that are enrolled in non-interventional or observational clinical trials will be allowed to participate in this clinical trial.\n5. Patients previously enrolled in the present clinical trial.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients presenting to the emergency departments of enrolling sites with:\n\n1. Suspected infection and one or more abnormal vital signs, OR\n2. Patients with suspected sepsis of any cause as defined by a blood culture order by the treating physician and two or more abnormal vital signs",
+  "condition": [
+    "Respiratory Tract Infections",
+    "Urinary Tract Infections",
+    "Intra-Abdominal Infections",
+    "Skin and Soft Tissue Infection",
+    "Suspected Meningitis/Encephalitis or Any Other Infection",
+    "Sepsis"
+  ],
+  "overall_status": "COMPLETED"
+}

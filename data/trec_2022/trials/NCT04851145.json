@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04851145",
+  "title": "Mass Spectrometry-based Proteomics in Microvascular Inflammation Diagnosis in Kidney Transplantation.",
+  "brief_summary": "Microvascular inflammation, the hallmark histological criteria of antibody-mediated rejection in kidney transplantation, remains an issue in routine practice, due to a lack of reproducibility in its recognition by pathologists and an incomplete comprehension of its pathophysiology, leading to a poor treatment efficacy. The main objective of this study is to assess the performances of tissue proteic signatures designed for the diagnosis of microvascular inflammation in kidney transplantation, from formalin-fixed and paraffin-embedded (FFPE) allograft biopsies analyzed by mass spectrometry-based proteomics.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Kidney transplant recipients\n* Diagnosis based on the 2019 Banff classification (polyomavirus nephropathy, T cell-mediated rejection, borderline changes)\n* Renal allograft biopsy allowing inclusion with at least 7 permeable glomeruli\n* The microvascular inflammation group with anti-HLA DSA is defined as follows:\n\n  * At least moderate microvascular inflammation: g + ptc \\> 2\n  * At least one anti-HLA DSA in the serum at the time of biopsy, with a Mean Fluorescence Intensity (MFI) \\> 3000 for the immunodominant DSA or the sum of the DSA\n* The microvascular inflammation group without anti-HLA DSA is defined as follows:\n\n  * At least moderate microvascular inflammation: g + ptc \\> 2\n  * No historical anti-HLA DSA or at the time of biopsy, MFI \\< 500\n* The stable graft recipients group is defined as follows:\n\n  * Glomerual Filtration Rate \\> 40ml/min, without clinical proteinuria\n  * No detectable DSA\n  * Protocol biopsy at 1 year posttransplantation without specific lesion or nonspecific severe lesion\n* The chronic nonspecific graft changes group is defined as follows:\n\n  * Moderate to severe interstitial fibrosis and tubular atrophy, in the absence of specific lesions: active rejection (antibody-mediated or T cell-mediated), borderline lesions, recurrent or de novo nephropathy, polyomavirus associated nephropathy.\n  * No C4d deposits on peritubular capillaries\n  * No detectable anti-HLA DSA at the time of biopsy.\n* The ischemic acute tubular injuries group is defined as :\n\n  * Histological lesions of tubular injuries in the absence of significant microvascular inflammation or C4d deposits\n  * No detectable anti-HLA DSA at the time of biopsy\n\nExclusion Criteria:\n\n* Minor patients\n* Mixed rejection (antibody-mediated and T cell-mediated)\n* Recurrent or de novo nephropathy\n* Specific treatment of rejection (T cell-mediated or antibody-mediated) in the last 6 months, excluding induction and\n* Baseline immunosuppressive treatment.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Kidney Transplantation",
+    "Graft Rejection",
+    "Humoral Immunity",
+    "Proteomics"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01284933",
+  "title": "Carotid Plaque Imaging in Acute Stroke",
+  "brief_summary": "The purpose of this study is to determine the frequency, characteristics, and consequences of vulnerable carotid artery plaques ipsilateral to an acute ischemic stroke or TIA in the territory of the internal carotid artery.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\> 49 years old\n* Acute ischemic stroke or transient ischemic attack (TIA)\n* Neurological symptoms compatible with a stroke or TIA in the anterior circulation (territory of the internal carotid artery)\n* Onset of symptoms within the last 7 days\n* 1 or more acute ischemic lesion(s) visible on MR diffusion-weighted imaging (DWI) in the territory of a single internal carotid artery\n* Presence of carotid artery plaques in the ipsilateral or contralateral carotid artery as defined by ultrasound (criteria: plaque thickness at least 2mm; located within 1cm proximal or distal to the carotid bifurcation)\n* Written informed consent\n\nExclusion Criteria:\n\n* Primary referral to an outside hospital (to avoid recruitment bias)\n* DWI positive lesions outside the territory of a single internal carotid artery\n* Carotid artery stenosis \\> 69% (North American Symptomatic Carotid Endarterectomy Trial (NASCET) criteria) ipsilateral to the stroke or TIA as defined by ultrasound (systolic peak flow velocity \u2265 300 cm/s)\n* Standard contra-indications for MRI\n* Documented allergy to MRI contrast media\n* History of radiation to the neck area\n* Renal clearance \\< 30 ml/minute\n* Creatinine levels \\> 2 times the upper limit of the standard range of the respective laboratory within the last 30 days prior to MRI\n* Surgical procedure within 24 hours preceding the MRI",
+  "minimum_age": "50 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients admitted to a specialized stroke service because of an acute stroke or TIA",
+  "condition": [
+    "Stroke",
+    "Ischemic Attack, Transient"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00000572",
+  "title": "Extracorporeal Carbon Dioxide Removal for Acute Respiratory Distress Syndrome",
+  "brief_summary": "To compare conventional therapy using low frequency positive pressure ventilation with extracorporeal CO2 removal for the treatment of adult respiratory distress syndrome (ARDS).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Men and women with acute respiratory distress syndrome.\n\nInclusion Criteria: ECMO ENTRY CRITERIA (PaO2 \\< 50 mm Hg -REPEATED THREE TIMES):\n\nRapid entry: 2 hours at fraFIO2=1.00 and PEEP\\>5 cm H2O with PaCO2=30-45 mmHg\n\nSlow entry: 12 hours at fraction of inspired oxygen (FIO2)\\>0.60 and positive end-expiratory pressure (PEEP)\\>5 cm H2O with PaCO2=30-45 mmHg and right to Left shunt fraction \\>0.30\n\nExclusion Criteria:\n\n1. Contraindication to anti-coagulation (for example, gastrointestinal bleeding, recent cerebrovascular accident, or chronic bleeding disorder).\n2. Pw \\> 25 mm Hg (superseded by our screening criterion that Pw \\~ 15 mm Hg).\n3. Mechanical ventilation \\>21. days.\n4. Severe chronic systemic disease or another clinical condition that, in itself,greatly limits survival; for example,\n\n   1. Irreversible central nervous system disease\n   2. Severe chronic pulmonary disease (forced expiratory volume in 1 second (FEV1)\\<1 L, FEV1/FVC(forced vital capacity) \\<0.3 of predicted, chronic PaCO2 \\>45 mm Hg, chest x-ray evidence of overinflation or interstitial infiltration, or previous hospitalization for chronic respiratory insufficiency)\n   3. Total-body surface burns\\> 40%\n   4. Rapidly fatal malignancy\n   5. Chronic left ventricular failure\n   6. Chronic renal failure (we required serum creatlnlne \\~ 2 mg/dl or chronic dialysis therapy)\n   7. Chronic liver failure (we required total serum bilirubin;?; 2 mg/dl)\n   8. Immunosuppressed patients and patients with a positive human immu.. nodeficiency virus test",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Respiratory Distress Syndrome",
+    "Lung Diseases"
+  ],
+  "overall_status": "COMPLETED"
+}

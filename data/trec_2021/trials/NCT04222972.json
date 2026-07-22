@@ -1,0 +1,39 @@
+{
+  "nctid": "NCT04222972",
+  "title": "A Study of Pralsetinib Versus Standard of Care for First-Line Treatment of Advanced Non-Small Cell Lung Cancer (NSCLC)",
+  "brief_summary": "This is an international, randomized, open-label, Phase 3 study designed to evaluate whether the potent and selective RET inhibitor, pralsetinib, improves outcomes when compared to a platinum chemotherapy-based regimen chosen by the Investigator from a list of standard of care treatments, as measured primarily by progression free survival (PFS), for participants with RET fusion-positive metastatic NSCLC who have not previously received systemic anticancer therapy for metastatic disease.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion criteria:\n\n* Participant has pathologically confirmed, definitively diagnosed, locally advanced (not able to be treated with surgery or radiotherapy) or metastatic NSCLC and has not been treated with systemic anticancer therapy for metastatic disease.\n* Participant must have a documented RET-fusion\n* Participant has measurable disease based on RECIST 1.1 as determined by the local site Investigator/radiology assessment.\n* Participant has an ECOG Performance Status of 0 or 1.\n* Participant should not have received any prior anticancer therapy for metastatic disease.\n\n  * Participants can have received previous anticancer therapy (except a selective RET inhibitor) in the neoadjuvant or adjuvant setting but must have experienced an interval of at least \u2265 6 months from completion of therapy to recurrence.\n  * Participants that received previous immune checkpoint inhibitors in the adjuvant or consolidation following chemoradiation are not allowed to receive pembrolizumab if randomized in Arm B\n* Participant is an appropriate candidate for and agrees to receive 1 of the Investigator choice platinum-based chemotherapy regimens if randomized to Arm B.\n* For women of childbearing potential: participants who agree to remain abstinent (refrain from heterosexual intercourse) or use contraception.\n* For men: participants who agree to remain abstinent (refrain from heterosexual intercourse) or use a condom and agree to refrain from donating sperm.\n\nExclusion criteria:\n\n* Participant's tumor has any additional known primary driver alterations other than RET, such as targetable mutations of EGFR, ALK, ROS1, MET, and BRAF. Investigators should discuss enrollment with Sponsor designee regarding co-mutations.\n* Participant previously received treatment with a selective RET inhibitor.\n* Participant received radiotherapy or radiosurgery to any site within 14 days before randomization or more than 30 Gy of radiotherapy to the lung in the 6 months before randomization.\n* Participant with a history of pneumonitis within the last 12 months.\n* Participant has CNS metastases or a primary CNS tumor that is associated with progressive neurological symptoms or requires increasing doses of corticosteroids to control the CNS disease. If a participant requires corticosteroids for management of CNS disease, the dose must have been stable for the 2 weeks before Cycle 1 Day 1.\n* Participant has had a history of another primary malignancy that has been diagnosed or required therapy within the past 3 years prior to randomization.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "RET-fusion Non Small Cell Lung Cancer",
+    "Lung Neoplasm",
+    "Carcinoma, Non-Small-Cell Lung",
+    "Respiratory Tract Neoplasms",
+    "Thoracic Neoplasms",
+    "Neoplasms by Site",
+    "Neoplasms",
+    "Lung Diseases",
+    "Respiratory Tract Disease",
+    "Carcinoma, Bronchogenic",
+    "Bronchial Diseases",
+    "Head and Neck Neoplasms",
+    "Adenocarcinoma",
+    "Carcinoma",
+    "Neoplasms by Histologic Type",
+    "Neoplasms, Germ Cell and Embryonal",
+    "Neoplasms, Nerve Tissue"
+  ],
+  "overall_status": "COMPLETED"
+}

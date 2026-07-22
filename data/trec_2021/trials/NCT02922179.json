@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02922179",
+  "title": "Descriptive Analysis of Long- and Intermediate-Acting Insulin in Adult Diabetics",
+  "brief_summary": "Over the past 40 years, new types of insulins have been marketed to mirror the effect of endogenous insulin. With the existing long-acting insulin product patents expiring and the FDA approval of new biosimilar and innovator insulins, adults with diabetes and their physicians will have additional therapeutic options. This observational study will describe the patient characteristics of new and existing users of long-acting or intermediate acting insulins with and without oral anti-diabetic agents (OAD) as well as acute hypoglycemic episodes, acute cardiac events, and A1C measures. The Biologic and Biosimilars Collective Intelligence Consortium (BBCIC) will use the findings from this descriptive analysis to design a comparative study evaluating the real-world effectiveness and safety of biosimilar and innovator insulins.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Individuals with baseline period of 183 days with continuous medical and pharmacy coverage preceding the first prescription fill\n* new and current users of the following exposures\n\n  * Long-acting insulin (insulin detemir, glargine) alone or with metformin (LAI)\n  * Long-acting insulin (insulin detemir, glargine) plus rapid/short acting insulin (with or without metformin) (LAI+R)\n  * Long-acting insulin (insulin detemir, glargine) plus second-generation sulfonylurea agent (Glimepiride, Glipizide, Glipizide/Metformin, Glyburide, Glyburide/Metformin) (with or without metformin) (LAI+sulfa)\n  * NPH insulin (Humulin, Novolin) alone or with metformin (NPH)\n  * NPH insulin (Humulin, Novolin) plus rapid/short acting insulin (with or without metformin) (NHP+R)\n  * NPH insulin (Humulin, Novolin) plus second-generation sulfonylurea agent (Glimepiride, Glipizide, Glipizide/Metformin, Glyburide, Glyburide/Metformin (with or without metformin) (NPH + sulfa)\n\nExclusion Criteria:\n\n* Adult patients with diabetes with health insurance evidence of insulin pumps and/ or insulin pump supplies, gestational diabetes, liver disorders, dialysis, end-stage renal disease (ESRD), amputations, hemoglobinopathy, hemolytic anemia, or sickle cell anemia or transfusion\n* Emergency Department (ED) visit for hypoglycemia; hospitalization or ED visit for cardiovascular event (stroke, acute myocardial infarction, unstable angina or diagnosis consistent with unstable angina -- i.e., occlusion without infarction or coronary insufficiency).\n* Adult patients with diabetes on any other insulins except cohort insulins (i.e., rapid/short unless in combinations above).\\*\n* Adult patients with diabetes on first-generation sulfonylureas, Dipeptidyl peptidase-4 (DPP4), Glucagon-like Peptide (GLP), Sodium-glucose cotransporter-2 (SGLT-2) or Thiazolidinediones (TZD) agents, alone or in combination with cohort defining drugs\\*:\n\n  * First generation sulfonylurea agents (chlorpropamide, tolazamide )\n  * TZDs (pioglitazone, pioglitazone/metformin, rosiglitazone, rosiglitazone/metformin\n  * DPP4s (sitagliptin, saxagliptin, linagliptin, alogliptin)\n  * GLP1 (exenatide, liraglutide, dulaglutide)\n  * SGLT-2 (empagliflozin, canagliflozin, dapagliflozin)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Study subjects are selected according to inclusion criteria from a source population within the Sentinel Common Data Mode v5.0.1 (SCDM). The SCDM includes over 100 million individuals with 358 million person-years of observation time who are covered by Aetna, Anthem, Group Health Cooperative, Harvard Pilgrim Health Care, and HealthPartners. The time period assessed will be 1/1/2011 - 9/30/2015.",
+  "condition": [
+    "Diabetes"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01566903",
+  "title": "Neurovascular Non Contrast-Enhanced MR Angiography at 3T",
+  "brief_summary": "MR angiography (MRA) has become essential in the treatment of neurovascular diseases, including ischemic stroke - the first cause of disability in occidental countries, vascular malformations such as aneurysms, arteriovenous fistulas and malformations, whose treatments are improving year after year.\n\nMRA is an alternative to digital substracted angiography (DSA), circumventing th use of endovascular catheterism, irradiation and injection of iodinated contrast agent. Contrast-Enhanced MRA (CE-MRA) with gadolinium injection is currently the reference standard for vascular MR exploration but still presents many limitations inherent to the injection of contrast medium. Hence, the synchronization of the acquisition with bolus contrast injection limits the improvement of spatial and temporal resolutions and requires an accurate synchronization of the acquisition with the arrival of the bolus.\n\nMoreover, the acquisition can be repeated as required as it does not require any contrast injection.\n\nBesides, the increase in nephrogenic systematic fibrosis clinical cases, which would be secondary to gadolinium chelates injection, in patients with chronic renal insufficiency has restricted the use of CE-MRA. More than 500 cases were described to date in the world.\n\nIts occurrence is currently estimated around 4 % for patients in terminal chronic renal insufficiency and its mortality around 30 %.\n\nAccording to the recommendations of AFSSAPS from August, 2007, two gadolinium contrast agent (Gadodiamide-OMNISCAN \\*, General Electric HealthCare and Gadopentetate Dimeglumine-MAGNEVIST \\*, Bayer HealthCare) are contraindicated if the glomerular filtration rate is lower than 30 ml/mn.\n\nNon-contrast enhanced MR angiography (NCE MRA) techniques have been proposed to provide complete and non-invasive investigation of the vasculature, thus offering patients with chronic renal insufficiency, as well as pregnant or nursing women a surrogate with no side effects.\n\nMoreover, the use of high field (3T) MR imaging offers improved signal to noise ratio. Combined with the use of phased array coils and parallel imaging, new NCE MRA sequences can achieve juxta-millimeter isotropic spatial resolution and temporal resolution of about 50 ms close to those of cerebral DSA.\n\nThese sequences allow a joint hemodynamical and morphological assessment of lesions, both at the cervical and cerebral levels, whether at diagnosis or during patient follow-up",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Men and women over 18 years\n* Any adult patient known or clinically suspect to present a neurovascular disease (arterial stenosis ou arteriovenous malformations), the assessment of which requires an MRA or patient having an arteriovenous malformation for which treatment by embolization or radiosurgery is indicated multidisciplinary meeting and followed in the ordinary course of this treatment\n* Patient able of accepting protocol information\n* Patient who received information about the protocol and had not expressed its opposition to participate\n\nExclusion Criteria:\n\n* A contraindication to MRI, in particular pacemakers or implantable defibrillators, cochlear implants, neurosurgical clips, intra-orbital or brain metallic foreign bodies, endo prothesis since less than 4 weeks or osteosynthesis material since less than 6 weeks\n* Contraindication to the injection of contrast agent: pregnancy, lactation, history of allergic reaction to contrast agent injection\n* Hemodynamically unstability, acute respiratory failure, a precarious condition or a need for continuous monitoring incompatible with the constraints of MR imaging\n* Patient with severe kidney with Glomerular Filtration rate \\< 30 ml/min\n* Persons subject to major legal protection (safeguarding justice, guardianship, trusteeship), persons deprived of liberty",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with neurovascular diseases",
+  "condition": [
+    "Neurovascular Diseases"
+  ],
+  "overall_status": "COMPLETED"
+}

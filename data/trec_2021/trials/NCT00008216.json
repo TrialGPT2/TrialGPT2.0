@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT00008216",
+  "title": "Blood Stem Cell Transplant in Treating Patients With Hematologic Cancer",
+  "brief_summary": "RATIONALE: Giving chemotherapy drugs and total-body irradiation before a donor peripheral blood stem cell transplant helps stop the growth of cancer cells. It also helps stop the patient's immune system from rejecting the donor's stem cells. When the healthy stem cells from a donor are infused into the patient they may help the patient's bone marrow make stem cells, red blood cells, white blood cells, and platelets.\n\nPURPOSE: This phase II trial is studying the effectiveness of donor peripheral blood stem cell transplant in treating patients with hematologic cancer.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of one of the following:\n\n  * Chronic myelogenous leukemia\n\n    * Philadelphia chromosome-positive OR\n    * Molecular evidence of bcr/abl gene rearrangement\n  * Acute myeloid leukemia, acute lymphocytic leukemia, lymphoma, histiocytoses, myelodysplasia, juvenile chronic myelomonocytic leukemia, aplastic anemia, paroxysmal nocturnal hemoglobinuria, or Fanconi's anemia\n\n    * Confirmed by cytochemistry, immunophenotyping, and/or chromosomal abnormalities\n  * Multiple myeloma\n  * Hereditary immunodeficiency disorders\n\n    * Confirmed by immunologic determination\n  * Sickle cell anemia or beta-thalassemia\n\n    * Confirmed by hemoglobin electrophoresis\n  * Storage disorders (e.g., Gaucher's disease, Hurler's disease, or metachromatic leukodystrophy)\n\n    * Confirmed by metabolic testing\n  * Other non-malignant conditions\n* Eligible for allogeneic peripheral blood stem cell or bone marrow transplantation\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 65 and under\n\nPerformance status:\n\n* Not specified\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* Not specified\n\nHepatic:\n\n* Not specified\n\nRenal:\n\n* Not specified\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* Not specified\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* Not specified",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients undergoing allogeneic blood or marrow stem cell transplantation (alloSCT).",
+  "condition": [
+    "Adult Langerhans Cell Histiocytosis",
+    "Childhood Langerhans Cell Histiocytosis",
+    "Leukemia",
+    "Lymphoma",
+    "Multiple Myeloma and Plasma Cell Neoplasm",
+    "Myelodysplastic Syndromes",
+    "Myelodysplastic/Myeloproliferative Neoplasms"
+  ],
+  "overall_status": "TERMINATED"
+}

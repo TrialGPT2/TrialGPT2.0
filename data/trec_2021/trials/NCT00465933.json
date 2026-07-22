@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00465933",
+  "title": "Treatment of Acute Promyelocytic Leukemia With All-Trans Retinoic Acid (ATRA) and Idarubicin (AIDA)",
+  "brief_summary": "The purpose of this study is to evaluate the efficacy of all-trans retinoic acid (ATRA) and idarubicin (AIDA) with a dose reduction in patients older than 70 years of age in the remission induction of acute promyelocytic leukemia (APL).\n\nWith regard to the induction, the excellent results obtained by the combination of ATRA and idarubicin (AIDA), especially in terms of antileukemic efficacy (1% of resistance), do not support the introduction of substantial changes in this combination. However, given that most of the induction failures were caused by complications, especially of a hemorrhagic nature, and that these had a major impact in the hyperleukocytic forms and in patients older than 70 years of age, the induction was modified as follows:\n\n1. Reduction of idarubicin dose in patients older than 70 years of age (three days instead of four);\n2. Early administration of corticosteroid therapy in all patients as ATRA syndrome prophylaxis. A preliminary analysis of the Italian Group for Adult Hematologic Diseases (Gruppo Italiano Malattie Ematologiche dell'Adulto, GIMEMA) has shown that low dose prednisone use in a prophylactic manner appears to reduce the incidence and severity of the ATRA syndrome, which could also have a favorable impact on the hemorrhagic mortality (non-published data); and\n3. Treatment of the hyperfibrinolysis with an antifibrinolytic agent (tranexamic acid). It has been recently reported that APL cells present abnormally high levels of annexins (especially annexin II), and that these levels may provide the fundamental mechanism for the hemorrhagic complications in APL by increasing the production of t-PA dependent plasmin. These findings provide new reasons for the introduction of tranexamic acid in the hemorrhagic prophylaxis of APL.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\<= 75 years\n* ECOG = 3.\n* Morphological diagnosis of M3 or M3v. Those cases without typical morphology but with PML-RARa rearrangement may also be included.\n* Genetic diagnosis: t(15;17), PML-RARa rearrangement, monoclonal anti-PML positive. Obviously, the result of these tests may become available after having initiated the treatment based on a tentative morphological diagnosis. The presence of secondary cytogenetic changes associated with t(15;17) is not a reason for exclusion nor do they require a different therapeutic approach.\n\nExclusion Criteria:\n\n* Age \\> 75 years (the treatment with this protocol can be considered on an individual basis but these patients will be analysed separately)\n* Absence of PML-RARa rearrangement.\n* Prior antileukemic chemotherapy.\n* Presence of an associated neoplasm.\n* Presence of a severe psychiatric disease.\n* HIV seropositivity.\n* Contraindication for intensive chemotherapy, especially to anthracyclines.\n* Serum creatinine = 2.5 mg/dL.\n* Bilirubin, alkaline phosphatase, or SGOT \\> 3 times the upper normal limit\n* Positive pregnancy test.",
+  "minimum_age": "",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Promyelocytic Leukemia"
+  ],
+  "overall_status": "COMPLETED"
+}

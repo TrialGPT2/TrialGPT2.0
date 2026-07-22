@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01138644",
+  "title": "Atrial Fibrillation/Flutter Outcome Risk Determination",
+  "brief_summary": "It is our hypotheses that 1) readily available Emergency Department data can be utilized in an Atrial Fibrillation clinical prediction rule to identify those patients at low or high risk for adverse outcomes; 2) Assigned risk can be utilized to drive physician decision-making by identifying patients who do not require hospital admission (low risk) and patients needing hospitalization (high risk); and 3) a facile version of the AFPR will be easily incorporated into standard Emergency Department patient management systems and assist physicians with risk stratification of patients presenting with Atrial Fibrillation.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* ED patients 18 years and older\n* Provide informed consent\n* Have a documented diagnosis of AF or atrial flutter on electrocardiogram or rhythm strip from an ED, prehospital provider or outside medical facility on day of enrollment.\n* Present with signs (tachycardia, dyspnea) or symptoms (palpitations, chest pain, shortness of breath, weakness, lightheadedness, pre-syncope, or syncope) consistent with primary symptomatic AF\n* Patients whose primary complaint is not directly related to their AF diagnosis (e.g. evaluation for febrile illness, gastrointestinal complaint, injury) BUT have a secondary complaint consistent with symptomatic AF that requires ED evaluation (e.g. new AF diagnosis, AF associated with inadequate rate control (defined as resting heart rate greater than 100bon), AF associated with heart failure symptoms, AF in the setting of CVA or TIA, AF associated with other thromboembolic complications).\n\nExclusion Criteria:\n\n* Patients who are under the age of 18\n* Previously enrolled patients\n* ED patients who present with complaints unrelated to their AF (e.g. sprained ankle,pharyngitis) and have adequately rate (\\<100 bpm at rest) or rhythm controlled-AF.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants for this study will be those with AF who present to the ED for their care. This study population will come from all walks of life and will not exclude any one group, sex, ethnicity, etc.",
+  "condition": [
+    "Atrial Fibrillation",
+    "Atrial Flutter"
+  ],
+  "overall_status": "COMPLETED"
+}

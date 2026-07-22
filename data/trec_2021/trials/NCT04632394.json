@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04632394",
+  "title": "Multimodality Assessment of Ventricular Scar Arrhythmogenicity.",
+  "brief_summary": "We aim to improve our understanding of a life-threatening heart rhythm disorder known as ventricular tachycardia (VT). This is a disorder which originates from the lower chamber of the heart and frequently is associated with heart disease. We will use an MRI scan to generate a computer based model of the heart which can predict areas of the heart which are important in generating this rhythm disorder. We intend to assess how accurate this computer model is compared to traditional invasive assessment of the heart muscle. We also aim to assess the electrical characteristics of those areas which were predicted by the computer model in order to see why they were thought to be so important.\n\nAll patients seen at St George's Hospital with VT will be eligible. As is routine for these patients, they will have an MRI scan of the heart. We will then use this scan to create a virtual reconstruction of the heart from which predictions of the critical areas of the heart which are generating the rhythm problem will be made. Then we will perform a VT ablation (studying the electrical properties and if necessary making a burn to treat the rhythm problem) - as per standard of care, however during the ablation we will spend extra time collecting information comparing the accuracy of the computer-generated model to the traditional invasive signals which guide ablation. We will study the electrical properties of those predicted areas to see what is special about them. The study will last up to three years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nAdult inpatients admitted to St George's Hospital London with sustained ventricular tachycardia or outpatients identified from the arrhythmia clinic with significant monomorphic ventricular tachycardia noted on cardiac monitoring who:\n\n* Have sustained, monomorphic scar-dependent ventricular tachycardia\n* Are symptomatic\n* Failed, unable or unwilling to tolerate anti-arrhythmic medications\n* Able to have a cardiac MRI\n* Have a life expectancy \\> 1 year\n* At least 40 days following a myocardial infarction\n\nExclusion Criteria:\n\n* Patients under the age of 18\n* Patients who are unable to give informed consent\n* Pregnant patients\n* Unable to have cardiac MRI\n* Prohibitive procedural risk\n* Unable to tolerate the ablation procedure due to haemodynamic instability",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study setting is a large tertiary centre hospital in London, St George's University Hospital which serves a population of around 1.3 million. It also receives referrals from district general hospitals in the surrounding area. Referrals are made to a specialist arrhythmia clinic from which suitable patients can be identified. The majority of recruited patients are expected to be outpatients who are symptomatic from VT despite optimal medical therapy. This will allow sufficient time to perform the cardiac MRI and to generate the computational model. In some scenarios, emergency admissions with symptomatic VT may be included if they are suitable for inpatient VT ablation and there is sufficient time for the MRI and computation analysis to take place prior to the VT ablation.",
+  "condition": [
+    "Ventricular Tachycardia"
+  ],
+  "overall_status": "COMPLETED"
+}

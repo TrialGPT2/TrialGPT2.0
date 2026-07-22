@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04560842",
+  "title": "The Efficacy of High-flow Nasal Cannula Oxygen Therapy in Sepsis Patients",
+  "brief_summary": "Sepsis is a heterogeneous syndrome that is caused by the host imbalance immune response. At 1991, the American College of Chest Physicians/Society of Critical Care Medicine Consensus Conference developed a definition of sepsis. After more than 20 years, it was gradually developed in 2016 to the third edition of the guidelines for sepsis(Sepsis-3). Sepsis is defined as life-threatening organ dysfunction caused by a dysregulated host response to infection. According to the National Health Insurance claims database of Taiwan, The incidence rate was 772.1/100,000 persons in 2012. From 2002 to 2012, the incidence of sepsis increased by 18.7%. The mortality of severe sepsis was 17.9%. However, has increased to 33% when developed to septic shock. Even in foreign studies, the intensive care unit mortality rate can reach 40%. Although sepsis was defined in 1991, after these years, the treatment of sepsis is still a goal that must be worked hard.\n\nAccording to Sepsis-3, must first use the qSOFA (quick Sepsis Related Organ Failure Assessment) to assess whether the patient's blood pressure, respiratory rate, and state of consciousness meet more than two criteria, which is sepsis. If the SOFA score (Sequential Organ Failure Assessment) is further evaluated, with at least two of the following symptoms, including poor oxygenation in the lungs, hypotension or use of a vasopressor, thrombocytopenia, conscious change (Glasgow Coma Scale), bilirubin increase and creatinine rise or oligouria. If the patient must use a vasopressor to maintain a mean arterial pressure (MAP) of 65 mmHg and serum lactate more than 18 mg/dL, it is Septic shock. In clinical assessment, qSOFA (rapid sepsis-associated organ failure assessment) can also be used to assess blood pressure, respiratory rate, and state of consciousness to confirmed sepsis. According to the above assessment conditions, patients with sepsis are highly prone to respiratory failure during the disease process. In recent trials, about 40% to 85% of patients with sepsis must be need endotracheal intubation, showing the high intubation rate. Patients after intubation may cause lung injury due to improper ventilator settings (Ventilator-induced lung injury, VILI). And 10% to 25% will be combined with pneumonia caused by the ventilator (ventilator-associated pneumonia, VAP). Mortality can reach 20% to 33%. So if we can reduce septic patient's intubation rate then we can reduce the complication caused by the ventilator.\n\nA high flow nasal cannula (HFNC) is a relatively new device for respiratory support. Patients received high-flow conditioned oxygen therapy through a nasal prong. A number of physiological effects have been described with HFNC: pharyngeal dead space washout, a positive expiratory pressure to reduce work of breathing, improve breathing synchronization. These benefits can reduce the intubation rate.\n\nThe benefit of the HFNC in septic patients is not very clear. By this prospective study to investigate the septic patients who have been admitted to the intensive care unit. The study method is to ask the patient whether they agree to participate in the trial after the patient is transferred to the intensive care unit. The patient will randomly assign the subjects to the general oxygen therapy and the HFNC group after signing the subject consent form. This study aimed to determine whether high-flow oxygen therapy immediately would reduce the need for intubation compared with standard oxygen therapy in sepsis patients.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age older than 20 years.\n* Pneumonia definitions.\n* Diagnosis on admission was sepsis due to pneumonia or septic shock (Sepsis-3).\n\nExclusion Criteria:\n\n* Patients with human immunodeficiency virus (HIV)\n* Pregnant women.\n* There are contraindications to the inability to use HFNC.\n* The patient who refuses to insert an endotracheal tube.\n* The patient who has tracheostomy.\n* The patient who use norepinaphrine\uff08Levophed\uff09\u22670.75 mcg/kg/min\u3002\n* The patient who meet the definition of endotracheal tube insertion.\n* The patient who meet the definition of noninvasive ventilation, NIV.\n* The patient who has risk factors prone to sepsis\uff08Kidney infection and UTI, abdominal, skin and soft tissue, fever of unknown origin, surgical wound, IV/central/dialysis catheter, meningitis\uff09\u3002",
+  "minimum_age": "20 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "High Flow Nasal Cannula",
+    "Sepsis Syndrome"
+  ],
+  "overall_status": "UNKNOWN"
+}

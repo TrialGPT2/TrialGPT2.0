@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT03712618",
+  "title": "The SOLID Platelet Study",
+  "brief_summary": "Background:\n\nPlatelets are cell fragments in the blood that help it clot. Some people get very low platelet counts during a disease or treatment. Low platelet counts can cause severe bleeding. Some people are not helped by platelet transfusions at the standard transfusion rate. This is called platelet transfusion refractoriness (PTR). Researchers want to learn more about transfusing platelets so they can make transfusions more effective.\n\nObjectives:\n\nTo study the effects of transfusing platelets more slowly than the standard rate. To obtain data to improve the effectiveness of platelet transfusions in people with PTR and decrease the risk of bleeding in some people.\n\nEligibility:\n\nAdults ages 18-100 who have very low platelet counts requiring platelet transfusion, and have evidence of PTR\n\nDesign:\n\nParticipants will be screened with a review their recent NIH medical records. They will have blood drawn.\n\nParticipants will have up to three 12-hour treatment blocks. They can have only one block per day. During each block, they will have 2 platelet transfusions in those 12 hours.\n\nOne transfusion will take place over 1 hour (SHORT infusion). The other will take place over 4 hours (LONG infusion).\n\nParticipants will be randomly put in 1 of 2 treatment groups. This will dictate whether they get the SHORT or LONG infusion first.\n\nParticipants will have blood drawn:\n\n* When they enroll\n* Right before each transfusion\n* 2, 4, and 6 hours after each transfusion\n\nEach blood draw will consist of a complete blood count. Smaller tubes that require only small amounts of blood will be used to minimize the amount of blood drawn.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Ability to comprehend the investigational nature of the study and provide informed consent\n* Thrombocytopenia\n\n  * Causes of thrombocytopenia may be due to:\n\n    1. Congenital causes\n    2. Bone marrow\n    3. Hematologic malignancies\n    4. Treatment related\n  * Thrombocytopenia is generally defined as one of the following:\n\n    1. Platelet count \\<10K/uL without bleeding\n    2. Platelet count \\<20K/uL for \"complicated prophylaxis\" in patients determined to be at increased risk of bleeding or other complications\n    3. Platelet count \\<50K/uL with evidence of active bleeding, such as intracranial hemorrhage, GI bleeding, pulmonary hemorrhage, uncontrolled epistaxis, hematuria.\n\n       The treating provider may change the platelet transfusion threshold based on the clinical circumstance, patient population, and/or concurrent primary protocol considerations - similar to the PLADO study.\n* Diagnosed with PTR, characterized by the following:\n\n  * Lack of adequate post-transfusion platelet count increment, defined by, Corrected Count Increment (CCI) \\<5000/ul at 10-60 min after each of at least 2 consecutive platelet transfusions\n  * Presence of anti-HLA class 1 type A and/or type B antibody, in the setting of PTR, as defined above, constitutes the HLA alloimmune-mediated subtype of PTR. Presence of one or more HPA antibodies in the setting of PTR, as defined above, constitutes the HPA alloimmune-mediated subtype of PTR. Failure to detect HLA or HPA antibodies will be categorized as non-alloimmune-mediated PTR. .\n\nEXCLUSION CRITERIA:\n\n* Less than 18-years-old\n* Lack of ability to obtain informed consent\n* Pregnant female\n* Presence of ITP/autoimmune thrombocytopenia\n* Immune platelet refractoriness responsive to treatment with IVIg or eculizumab, or other immunosuppressive therapy within the 3 preceding months. This is based on the wide variation in the duration therapeutic antibodies, with the upper limit frequently cited as 3 months.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Platelet Transfusion Refractoriness (PTR)",
+    "Thrombocytopenia"
+  ],
+  "overall_status": "TERMINATED",
+  "line_of_therapy_overall_summary": "This trial enrolls adults with thrombocytopenia and platelet transfusion refractoriness (PTR), regardless of underlying disease or prior lines of systemic therapy. There are no requirements or restrictions based on prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on thrombocytopenia and PTR, not on prior systemic therapy for advanced disease. The protocol does not specify any requirements or limits regarding prior lines of therapy for advanced or metastatic disease, nor does it mention adjuvant-only patients."
+    }
+  ]
+}

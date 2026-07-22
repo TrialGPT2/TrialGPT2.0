@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT04025554",
+  "title": "Anakinra for the Treatment of Chronically Inflamed White Matter Lesions in Multiple Sclerosis",
+  "brief_summary": "Background:\n\nMultiple sclerosis (MS) is a disease of the central nervous system (CNS). People who have MS may have lesions that form on parts of the CNS, such as the brain. Some of these lesions may be inflamed for a long time. This causes MS to progress. There is no treatment for these lesions. Researchers believe that a drug that decreases inflammation can help.\n\nObjective:\n\nTo see if a drug called anakinra can help clear inflammation in MS brain lesions.\n\nEligibility:\n\nPeople 18 and older with MS and at least one white matter lesion.\n\nDesign:\n\nParticipants will be screened with one or more Neuroimmunology Clinic protocols.\n\nParticipants will have a medical history and physical exam. They will have blood and urine tests. They will have a lumbar puncture. For this, a needle is inserted between the bones in the back, and cerebrospinal fluid is removed. They will also have an MRI of the brain. The MRI scanner is a cylinder surrounded by a strong magnetic field. Participants will lie on a table that slides in and out of the scanner.\n\nParticipants will repeat the above procedures throughout the study.\n\nParticipants will get their first dose of anakinra at the clinic. They will administer the rest of the doses themselves, by injection under the skin.\n\nParticipants will track their daily dosage electronically or in a written drug diary.\n\nParticipants will have 4 visits while taking the drug. At each visit, sharps boxes and empty vials will be collected.\n\nParticipants will have 2 follow-up visits after completing treatment.\n\nThe study will last 28 weeks.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Age greater than or equal to 18\n* Ability to give informed consent\n* If fertile, agreement to use an effective method of birth control during the study and for up to 3 months after the last dose of the study drug\n* Agreement not to participate in any other interventional study while participating in this protocol\n* Diagnosis of MS, either stable or clinically progressive\n* Prior 7-tesla MRI scan, with high image quality in the judgment of the study neuroradiologist, demonstrating at least one white matter lesion with a paramagnetic rim (41)\n\nEXCLUSION CRITERIA:\n\n* Pregnancy or current breastfeeding\n* Use of another investigational agent within 1 month of screening\n* Active infection and or neutropenia (ANC \\< 1000 cells/microliter)\n* History of lymphoma\n* Known hypersensitivity to administration of anakinra\n* Previous treatment with anakinra and/or TNF-receptor inhibitor\n* History of asthma\n* QuantiFERON-TB gold positive\n* Prior treatment with anti-CD20 agent (ocrelizumab, rituximab)\n* Prior treatment with anti-CD52 agent (alemtuzumab)\n* History or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the trial or interfere with participation for the full duration of the trial; or not in the best interest of the subject to participate, in the opinion of the treating investigator\n* Renal dysfunction, as defined by Clinical Center guidelines for administration of gadolinium\n* Liver dysfunction, as indicated by baseline aspartate aminotransferase (AST) or alanine aminotransferase (ALT) greater than 1.5 times the upper limit of normal\n* Clinical relapse in the 12 months prior to dosing\n* New lesion formation (by comparison of screening MRI to a previous MRI of sufficient quality) in the 3 months prior to dosing\n* One or more gadolinium-enhancing lesions on the screening scan\n* Change in disease-modifying therapy in the 6 months prior to dosing\n* Medical contraindication for 7-tesla MRI (including, but not limited to, any non-organic implant or other device such as a cardiac pacemaker or infusion pump or other metallic implants, objects, or body piercings, that are not MRI-compatible or cannot be removed)\n* Psychological contraindication for 7-tesla MRI (e.g., claustrophobia)\n* Contraindication to gadolinium administration.\n* Active neoplastic disease or any medical condition, other than MS, that requires concurrent immunosuppression or immunomodulation",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Multiple Sclerosis"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls adults with multiple sclerosis and at least one chronically inflamed white matter lesion, regardless of prior lines of systemic therapy for advanced disease. There are no requirements or restrictions regarding prior systemic therapies for advanced or progressive MS.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility criteria do not specify any minimum or maximum number of prior systemic therapies for advanced or progressive MS. Patients may be treatment-naïve or previously treated, as long as they meet other clinical and imaging criteria."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04802018",
+  "title": "Clinical Decision Support System Based on Non-invasive Tele-monitoring of COVID-19 Patients",
+  "brief_summary": "The aim of the study is to provide clinical decision support to healthcare professionals using a wearable for non-invasive multimodal monitoring, allowing early detection of disease progression to severe forms, as well as the detection of significant clinical events.\n\nFor the development of the study, 500 individuals with COVID-19 in home confinement will be randomly assigned to form part of the control group, which will be followed conventionally by Primary Care Professionals, or to the experimental group, which will also be provided with the wearable device for non-invasive multimodal monitoring linked to an App for transfering data. Furthermore, the patient will be able to interact with the application on three times daily by indicating the symptoms contemplated and answering the decision clinical questions. In this way, alarms can be generated in the presence of symptoms or significant alterations in the parameters monitored by the device, which the health professionals of the Primary Care teams included in the study will evaluate at the appropriate time, taking the best decision in each case.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of SARS-CoV-2 disease, detected by PCR or antigen test, performed 72 h prior to patient inclusion in the study.\n* Acceptance to sign the informed consent document.\n* Possession of a Smartphone or Tablet with Internet connection.\n* Possession of mental faculties to participate in the study.\n\nExclusion Criteria:\n\n* Age below the age of health majority (16 years).\n* Lack of digital skills to use the Home App.\n* Cognitive impairment that prevents the patient from participating in the study.\n* Disabling pathology of the upper limb.",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID-19"
+  ],
+  "overall_status": "COMPLETED"
+}

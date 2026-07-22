@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02983760",
+  "title": "Comparison of 3 Diagnostic Strategies of PE: Planar V/Q Scan, CTPA, and V/Q SPECT.",
+  "brief_summary": "Pulmonary embolism (PE) remains a diagnostic challenge. False negative testing exposes patient to the risk of potentially fatal recurrence. False positive testing exposes patients to potentially fatal unduly side effects of anticoagulants.\n\nCurrent diagnostic strategies rely on the sequential use of pretest clinical probability, Ddimer test, and chest imaging. Two chest imaging modalities have been validated for PE diagnostic exclusion: Computed Tomography Pulmonary Angiography (CTPA) and planar V/Q scan. Main limitations of planar V/Q are the high proportion of non-conclusive results, therefore requiring additional testing and more complex diagnostic algorithms. Main limitations of CTPA are its higher radiation dose and contraindications (renal failure).\n\nIn a randomized trial that compared strategies based on CTPA and on planar V/Q scan, a 30% increase in the rate of PE diagnoses was found in the arm using CTPA, raising the hypothesis of over-diagnosing and over-treating PE when using CTPA.\n\nV/Q Single Photon Emission CT (SPECT) is a new method of scintigraphic acquisition that has been reported to improve the diagnostic performances of the test, which could reduce the number of non-conclusive tests and allow simplified diagnostic algorithms.\n\nThe investigators hypothesize that a strategy based on V/Q SPECT could be an alternative to the two usual approaches responding rightly to the two mains issues and combining the advantages of CTPA (simplified diagnostic approach) and planar V/Q (no overdiagnosis, lower radiation exposure, no contraindication).\n\nAlthough a recent survey showed that up to 70% of nuclear medicine centers perform SPECT rather than planar imaging for diagnosing PE, a diagnostic management outcome study, in which diagnostic decision would be made on the basis of a standardized algorithm based on the V/Q SPECT is lacking. Such a study needs to be conducted to ensure that the safety of diagnostic exclusion using a V/Q SPECT based strategy is non-inferior to that of previously validated strategies, and to verify that the use of V/Q SPECT does not lead to over-diagnosis.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Outpatients with a clinically suspected PE (defined as an acute onset of new or worsening shortness of breath, chest pain, hemoptysis, presyncope, or syncope) without another obvious apparent cause.\n* High pretest clinical probability of PE or a non-high pretest clinical probability but a positive D-Dimer test.\n\nExclusion Criteria:\n\n* Age less than 18 years\n* Patients with already confirmed PE\n* Patients with a clinically suspected high-risk pulmonary embolism (hypotension or shock)\n* Use of therapeutic doses of anticoagulants for more than 48 hours\n* Other indication for long-term use of anticoagulants\n* Contraindication to contrast media (including renal insufficiency with a creatinine clearance lower than 30 ml/min)\n* Life expectancy less than 3 months\n* Unable/unwilling to give informed consent\n* Unlikely to comply with study follow-up\n* Ongoing pregnancy or breastfeeding",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pulmonary Embolism"
+  ],
+  "overall_status": "TERMINATED"
+}

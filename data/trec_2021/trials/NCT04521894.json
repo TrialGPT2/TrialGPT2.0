@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04521894",
+  "title": "The Application Value of 18F-prostate-specific Membrane Antigen PET/CT in Prostate Cancer",
+  "brief_summary": "Prostate cancer (PCa) is the most common type of malignant tumor and the third leading cause of cancer-associated mortality among men worldwide. The biological behaviors of PCa at different degrees of malignancy also largely differ, directly impacting disease outcomes and responses to treatment. Therefore, accurate risk stratification of PCa before treatment and the development of an individualized treatment regimen, play a vital role to improve the clinical outcome of patients. However, overdiagnosis and unnecessary biopsies, which are invasive examinations associated with higher costs and adverse effects. When the PSA is less than 20ng/mL, less than 1% of PCa patients have a positive bone scan, and routine bone scans are not recommended for asymptomatic or low-risk PCa patients. Interestingly, due to the variations among evaluators that often occur when defining the T stage, biopsies operate inaccuracy, also low-PSA level can also occur metastasis, there is a need for an objective and accurate imaging biomarker for the diagnosis of different grade PCa.\n\nProstate-specific membrane antigen (PSMA) is a type II transmembrane protein, which has higher expression in cancerous prostate cells than in normal prostate cells. Meanwhile, its expression level is positively correlated with the degree of malignancy, the tendency of metastasis, and the risk of early recurrence. In recent years, 18F-PSMA positron emission tomography/computerized tomography (PSMA PET/CT) has earned widespread attention as a novel imaging modality based on molecular-level analysis, rather than morphological or physiological analysis, to assist in PCa diagnosis and tumor burden evaluation.\n\nCurrently, Maximum Standardized Uptake Value (SUVmax) is the most commonly used semi-quantitative parameter in PET/CT, which is used to assess tumor burden of PCa, and thus can be used as an imaging biomarker to assess the degree of malignancy of prostate cancers. However, prior studies mainly focused on the correlation between patients' biochemical recurrence lesions and the PSA levels and Gleason score. There is a lack of research to explore the correlation among primary PCa burden, PSA levels, and the degree of prostate cancer malignancy. The aim of this project is to use 18F-PSMA PET/CT SUVmax to analyze the correlation among primary PCa imaging, and clinical indicators, and to evaluate the predictive value for PCa risk stratification, metastasis risk, and biochemical recurrence.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* 1 age between 40 and 100 years old\n* 2 PSA \\>0.4 ng/mL for primary PCa with biopsy proven or RP diagnosis of prostate cancer\n* 3 PSA \\>0.2 ng/mL after RP, PSA \u22652 ng/mL above the nadir after EBRT) or persisting PSA after radical treatment with rising PSA values\n* 4 complete clinical, pathological, imaging and biochemical information\n\nExclusion Criteria:\n\n* 1 lack of histological examinationproven diagnosis of PCa\n* 2 18F-PSMA PET/CT being performed after pharmacotherapy since PSMA-targeted imaging can be disturbed by previous therapie",
+  "minimum_age": "40 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "Prostate cancer, benign prostatic hyperplasia, and healthy volunteers who are pathologically confirmed in the First Affiliated Hospital of Xi'an Jiaotong University due to elevated PSA levels or clinical symptoms will include in this study, with complete clinical and pathological data, and complete PET/CT scan before receiving treatment.",
+  "condition": [
+    "Prostatic Neoplasms"
+  ],
+  "overall_status": "UNKNOWN"
+}

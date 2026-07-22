@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01288534",
+  "title": "Hypofractionated Stereotactic Body Radiation Therapy (SBRT)",
+  "brief_summary": "The purpose of this study is to evaluate the safety and tolerability of using radiation therapy with 5 fractions of radiation to treat prostate cancer with guidance of radiation using the Calypso 4D Treatment System (Calypso).A number of recent studies have used 5 radiation fraction to treat prostate cancer over 2-3 weeks as compared to the typical treatment which would involve 40-42 smaller radiation fractions over 8-9 weeks. This type of radiation using a smaller number of treatments has been called hypofractionated radiation therapy.\n\nThe Calypso is a new technique which uses beacons implanted into the prostate which using radio signals are able to localize and track the position of the prostate continuously during radiation therapy. The Calypso system has been approved by the United States Food and Drug Administration (FDA) for guidance of radiation therapy during the treatment of prostate cancer and is being utilized all across the United States. However, it has not been tested for hypofractionated radiation therapy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* Histologically confirmed diagnosis of adenocarcinoma of the prostate within 180 days of enrollment\n* Signed informed consent\n* Gleason score \u2264 7\n* If Gleason 7 (3+4=7 or 4+3=7) then \\<50% of biopsy cores must be positive for any pathologic grade of prostate cancer\n* If Gleason score \\<7 then there is no limit on the percentage of biopsy cores involved by prostate cancer\n* PSA (within 90 days prior to enrollment)\n* \u2264 15 ng/ml prior to start of therapy if Gleason \u2264 6 and\n* \u2264 10 ng/ml prior to start of therapy if Gleason 7\n* No plan to use hormone therapy prior to evidence of biochemical failure(ie: No neoadjuvant or adjuvant ADT)\n* Tumor stage: T1a, T1b, T1c, T2a, T2b\n* ECOG Performance Status 0-1\n\nExclusion Criteria:\n\n* A history of other malignancy diagnosed within the previous 60 months except for non-melanoma skin cancer.\n* Any patients who have received other investigational therapy within the last 60 days\n* Individuals that have previously been implanted with permanent Beacon transponders\n* Patients that have any prosthetic implants in the pelvic region that contain metal or conductive materials (e.g., an artificial hip)\n* Patients with implanted pacemaker or defibrillators\n* Patients who are felt to have body habitus not conducive to tracking with Calypso beacons\n* Positive lymph nodes or metastatic disease from prostate cancer\n* Tumor stage: T2c, T3, or T4\n* Previous pelvic radiation therapy\n* Previous surgery or chemotherapy for prostate cancer\n* Previous transuretheral resection of the prostate (TURP) or cryotherapy to the prostate\n* Prior hormone therapy or plans for concurrent or post treatment adjuvant hormonal therapy or chemotherapy\n* Hormone therapy to include LHRH agonist or oral anti-androgen\n* Finasteride and Dutasteride use not excluded\n* Concomitant antineoplastic therapy (including surgery, cryotherapy, conventionally fractionated radiation therapy, and chemotherapy) while on this protocol\n* History of Crohn's Disease or Ulcerative Colitis",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Prostate Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

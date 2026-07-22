@@ -1,0 +1,43 @@
+{
+  "nctid": "NCT00923026",
+  "title": "Follow Up Protocol for Subjects Previously Enrolled on NCI Surgery Branch Studies",
+  "brief_summary": "Background:\n\nThe NCI Surgery Branch has developed experimental therapies that involve taking white blood cells from participants' tumor or from their blood, growing them in the laboratory in large numbers, and then giving the cells back to the patient.\n\nObjective:\n\nThis study will allow participants to be followed for up to 15 years following treatment on an NCI Surgery Branch Gene Therapy Trial as required by the FDA.\n\nEligibility:\n\nParticipants must have been enrolled on an NCI Surgery Branch Gene Therapy Protocol\n\nDesign\n\nParticipants will be followed with a physical examination and blood tests for up to 15 years as required by the FDA\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Age greater than or equal to 18 years.\n* Participants who have received treatment on an NCI-SB protocol, including gene therapy protocols. (Note: Participants may be enrolled on this protocol and, at the same time, participate in an active treatment study).\n* For Cohort A:Ability of participant or Legally Authorized Representative (LAR) to understand and the willingness to sign a written informed consent document. For Cohort B: Participant is able to provide informed consent.\n\nEXCLUSION CRITERIA:\n\n-For Cohort B: Individuals of child-bearing potential (IOCBP) who are pregnant or plan to become pregnant because of the potentially dangerous effects of the investigational treatments administered on NCI-SB treatment protocols.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All subjects will have previously been enrolled on an NCI Surgery Branch treatment protocol. Patients who received gene therapy will be followed as required by the FDA.",
+  "condition": [
+    "Melanoma",
+    "Adenocarcinoma",
+    "Carcinoma NOS",
+    "Neuroendocrine Tumors"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This is a long-term follow-up protocol for patients previously treated on any NCI Surgery Branch gene therapy trial. There are no specific requirements or restrictions regarding prior lines of systemic therapy for advanced disease, as eligibility is based solely on prior participation in a qualifying protocol.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Cohort A",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility requires only that participants have received treatment on an NCI-SB protocol, with no mention of specific lines of therapy for advanced disease. The protocol does not specify or restrict prior systemic therapy history."
+    },
+    {
+      "cohort_label": "Cohort B",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on prior treatment on an NCI-SB protocol, with no reference to the number or type of prior systemic therapies for advanced disease. The protocol does not clarify whether adjuvant-only patients are included."
+    }
+  ]
+}

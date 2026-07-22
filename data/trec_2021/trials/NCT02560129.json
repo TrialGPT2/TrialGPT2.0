@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT02560129",
+  "title": "MICU Recovery Clinic",
+  "brief_summary": "Summary: Emerging data demonstrate long-term morbidity and mortality in those who survive critical illness. However, there is no data regarding long-term follow-up for ICU survivors. The investigators have begun the implementation of an ICU recovery clinic.\n\nRationale:\n\nICU survivors are at high risk for functional, cognitive and psychiatric impairments. However, methods to mitigate these impairments and improve recovery are lacking. Special follow-up clinics for survivors of critical illness have been proposed and implemented to some degree, but are uncommon.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria: Wake Forest MICU Admission\n\n* sepsis OR\n* respiratory failure requiring \\>24 hrs of invasive mechanical ventilation\n* previously functional\n\nExclusion Criteria:\n\n\\- Active Malignancy",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Wake Forest MICU Survivors",
+  "condition": [
+    "Critical Illness",
+    "Sepsis",
+    "Respiratory Failure",
+    "ARDS"
+  ],
+  "overall_status": "COMPLETED"
+}

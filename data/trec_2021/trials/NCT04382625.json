@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04382625",
+  "title": "Hydroxychloroquine in SARS-CoV-2 (COVID-19) Pneumonia Trial",
+  "brief_summary": "Novel coronavirus SARS(Severe Acute Respiratory Syndrome)-CoV-2 was first identified during the outbreak in Wuhan, China in December 2019 with the now resulting pandemic. Aggressive supportive care is the mainstay of treatment currently and rescue with lung protective mechanical ventilation is essential for survival in patients with severe acute respiratory distress syndrome. Despite supportive care, mortality is significant in hospitalized patients in the U.S., especially among patients \\> 65 years of age. Pharmacologic treatments to decrease disease severity are urgently needed. Hydroxychloroquine is currently widely used for treatment of autoimmune disease including systemic lupus erythematosus and rheumatoid arthritis, and it has been used to prevent and treat malaria. In vitro and in vivo antiviral activity towards SARS-CoV-2 has been reported. Since hydroxychloroquine has been used for decades its properties as a drug are well known. The investigators propose a pragmatic trial of hydroxychloroquine in moderately ill hospitalized adults with SARS-CoV-2 pneumonia with the hypothesis that hydroxychloroquine reduces severity of acute lung injury caused by SARS-CoV-2 infection.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age \\> 18 years of age\n2. SARS-CoV-2 positive per FDA approved RT-PCR (reverse transcription-polymerase chain reaction)\n3. Acute hypoxia (O2 sat \\< 90 % or paO2 \\< 60 on room air), or above baseline chronic O2 requirement\n4. Inpatient admission\n\nExclusion Criteria:\n\n1. Requires supplemental O2 \\>10 litres per minute or mechanical ventilation on admission\n2. Pregnancy\n3. AST/ALT \\> 5 times the upper limit normal\n4. Baseline prolonged QT\n5. Child-Pugh Score B or greater\n6. ESRD(end-stage renal disease) requiring dialysis\n7. Known allergy to medication component,\n8. History of severe G6PD (glucose-6-phosphate dehydrogenase)\n9. Myasthenia gravis\n10. Porphyria\n11. Ongoing treatment for epilepsy\n12. Life expectancy \\< 6 months,\n13. Patient lacks capacity to provide consent and does not have a surrogate decision maker.\n14. Retinal Disease",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "SARS-CoV-2 Pneumonia",
+    "COVID-19"
+  ],
+  "overall_status": "WITHDRAWN"
+}

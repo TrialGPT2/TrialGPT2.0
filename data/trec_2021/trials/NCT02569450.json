@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02569450",
+  "title": "Evaluation of Control Chart Impact on Surgical Outcomes",
+  "brief_summary": "This two arms parallel cluster-randomized trial will evaluate the impact of monitoring surgical outcomes using Shewhart control chart (intervention) on the occurence of major adverse events, among a large sample of French surgical departments. Trends in surgical outcomes before and after the intervention will be compared between arms.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n\\- All adults needing a digestive surgery who are hospitalized in one of the 40 departments\n\nExclusion Criteria:\n\n* Age \\< 18 years old\n* Hospitalization \\<24 hours\n* Absence of surgical procedure\n* Ambulatory care\n* Palliative care\n* Organ transplantation",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients operated in participating French public and private hospitals (cluster)",
+  "condition": [
+    "Digestive Surgery"
+  ],
+  "overall_status": "COMPLETED"
+}

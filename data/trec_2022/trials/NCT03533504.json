@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03533504",
+  "title": "Web Accessible Population Pharmacokinetics Service - Hemophilia: Sources of Variability",
+  "brief_summary": "Using anonymized patient data collected as part of the WAPPS-Hemo project to explore the sources of variability in individual pharmacokinetics (PK); use the sources of variability to improve the performance of the WAPPS-Hemo models through the addition of the predictors of PK variability as covariates.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* individuals with hemophilia A or B\n* infusion/PK data is available on the WAPPS-Hemo database\n* given informed consent to data input on the WAPPS-Hemo database\n\nExclusion Criteria:\n\n\\- individuals currently undergoing immune tolerance induction",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participates are individuals with hemophilia A or B, any severity, who have agreed to input of their data in the WAPPS-Hemo database, and who have sufficient infusion/PK data.",
+  "condition": [
+    "Hemophilia A",
+    "Hemophilia B"
+  ],
+  "overall_status": "UNKNOWN"
+}

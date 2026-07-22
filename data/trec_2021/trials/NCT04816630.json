@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04816630",
+  "title": "Feasibility Study of Hematology Parameters in COVID-19 Disease",
+  "brief_summary": "The purpose of this study is to evaluate the potential for MDW and other CPD parameters (measured with CBC-DIFF) to identify COVID-19 diseased adult individuals presenting to the hospital with symptoms suggestive of COVID-19 or respiratory infection and whose standard of care includes CBC-DIFF and microbial testing.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patients \\[18-89 years of age\\]\n* Present to the Emergency Department\n* With symptoms suggestive of COVID-19 or respiratory infection\n* Whose assessment includes CBC-Diff and RT-PCR testing\n\nExclusion Criteria:\n\n* Pregnancy\n* Prisoners\n* \\<18 years of age\n* \\>89 years of age\n* Previously evaluated in this study\n* No RT-PCR testing\n* Sample age \\>2 hours from time of draw\n* Instrument flags, including vote outs and review flags for the MDW parameter\n* Samples stored in refrigerated temperatures",
+  "minimum_age": "18 Years",
+  "maximum_age": "89 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult (18 to 89 years) of all race and ethnicities presenting to the emergency department with symptoms suggestive of COVID-19 or respiratory infection and whose assessment includes a CBC-DIFF and microbial testing to include RT-PCR for SARS-CoV-2",
+  "condition": [
+    "Covid19",
+    "Sepsis",
+    "Adults",
+    "Emergency Department"
+  ],
+  "overall_status": "COMPLETED"
+}

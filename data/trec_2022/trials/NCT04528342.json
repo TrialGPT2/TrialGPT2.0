@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT04528342",
+  "title": "Personalized Digital Health and Artificial Intelligence in Childhood Asthma",
+  "brief_summary": "Asthma is a chronic inflammatory disease of the airways that causes recurrent episodes of wheezing, breathing difficulties and coughing. The prevalence of asthma is 8% in school-aged children and 30% in preschoolers, making asthma the first chronic disease in children. Symptoms are due to diffuse but variable airway obstruction, reversible spontaneously or after inhalation of beta2 agonists (\u03b2-2a) such as salbutamol. Exacerbations of asthma are frequent and difficult to assess by parents and the patient himself. It is estimated that approximately 2.5% of children with asthma are hospitalized annually. The global burden caused by asthma can thus be reduced by improving early detection of bronchial obstruction, prescribing immediate treatment with the appropriate background therapy, and reliably and objectively assess response to treatment.\n\nThe natural history of asthma symptoms in children shows a great intra and inter-individual variability. The difficulty of assessing the severity of an attack by the parents or the child himself, when he is old enough to control his chronic disease, is a key element in the management of asthma and allows the treatment to be adapted quickly, sometimes avoiding hospitalization. Healthcare professionals can assess the severity of the episode using the Pediatric Respiratory Assesment Measure (PRAM) score, which has the advantage of being adaptable at any age. The Global Alliance against Chronic Respiratory Diseases (GARD) integrates in its diagnostic strategy for chronic respiratory diseases, the lung function test, which allows the quantification of respiratory function in the context of diagnosis and long-term follow-up. Although spirometry are non-invasive tests, they still require a high level of patient cooperation, which remains problematic before the age of 7 years.\n\nThe digital stethsocope integrates a capacity for recording auscultations and data transmission to high-performance software. This has made it possible to extend auscultation beyond what was audible to the human ear alone (over 20-20,000 Hertz).Auscultatory sounds analysis, particularly those most often associated with obstructive syndrome could be simple, reproducible and a reliable method of assessing the severity and response to treatment in children's asthma. Major advances in signal processing and unsupervised learning in artificial intelligence research provide the potential for high-performance analysis of physiological measures.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with clinical diagnosis of acute asthma exacerbations\n* age \\> 2 years and \\< 16 years\n* information and written consent of a legal representative\n\nExclusion Criteria:\n\n* Chronic lung diseases other than asthma (cystic fibrosis, bronchopulmonary Dysplasia),\n* Congenital heart disease\n* Refusal of consent.",
+  "minimum_age": "2 Years",
+  "maximum_age": "16 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "290 patients presenting with an acute asthma exacerbation within 70 severe asthma (clinical PRAM score \\> 7) within the PED. For the hospitalized patients, we estimate 70 patients needed during two years.\n\nAt least 150 patients up to 7 years of age, within DS measurements and spirometer measures evaluation 6 to 8 weeks after acute episode by the pulmonlogist.",
+  "condition": [
+    "Asthma in Children"
+  ],
+  "overall_status": "UNKNOWN"
+}

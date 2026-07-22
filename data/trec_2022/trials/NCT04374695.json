@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04374695",
+  "title": "Renin-Angiotensin-Aldosterone System Inhibitors, Hypertension, and COVID-19",
+  "brief_summary": "Background. Angiotensing converting enzyme type 2 (ACE2), a key enzyme of the renin-angiotensin-aldosterone system (RAAS), is the receptor of SARS-CoV-2 for cell entry into lungs. Because ACE2 may be modulated by RAAS inhibitors, such as angiotensin converting enzyme inhibitors (ACEi) and angiotensin II receptor blockers (ARBs), there is concern that patients treated with ACEi and ARBs may be at higher risk for COVID-19 infection and severity.\n\nAim. To analyze the associations between COVID-19 and hypertension, and treatments with ACEi and ARBs.\n\nMethods. In this retrospective observational study, consecutive patients hospitalized for suspected COVID-19 pneumonia will be divided into 2 groups, whether or not COVID-19 is confirmed. The two groups will be compared for baseline characteristics, mainly prior treatment with ACEi and ARBs, and clinical outcome at 1-month follow-up.\n\nThe main hypothesis is that ACEi and ARBs, which interact differently with ACE2, may have different relationships with COVID-19 infection or severity.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age equal or more than 18;\n* Symptoms suggestive of Covid-19 pneumonia. At least : fever \\> 38\u00b0C or influenza-like illness (asthenia, myalgia, chills, muscular aches, \u2026) AND cough or dyspnea;\n* Hospitalization required on clinical criteria including: oxygen saturation \\<96% without oxygen support, respiratory frequency \\> 25 per minute, hemodynamic instability, medical history or comorbidities known at high risk for Covid-19 (chronic heart disease, congestive heart failure, chronic bronchopulmonary disease, diabetes mellitus, age\\>70, history of cancer, immunosuppression, \u2026);\n* Covid-19 confirmation test performed (RT-PCR).\n\nExclusion Criteria:\n\n* Age \\< 18\n* Refusal to participate in the study\n* detainee or prisoner\n* Protected adult uncapable to consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Consecutive patients presenting to the Centre hospitalier de Versailles emergency department from 2020 March 10th to April, 15th with clinical symptoms suggestive of COVID-19, who fulfilled the inclusion criteria.",
+  "condition": [
+    "COVID-19"
+  ],
+  "overall_status": "UNKNOWN"
+}

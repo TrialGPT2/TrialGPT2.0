@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04470583",
+  "title": "Evaluating Clinical Parameters of COVID-19 in Pregnancy",
+  "brief_summary": "Coronavirus infection, also known as COVID-19, has become a global pandemic with over 3 million cases and 250,000 deaths worldwide. Coronaviruses (CoV) belong to a family of viruses that predominately infect mammals and birds, affecting their lungs, intestinal tract, liver and nervous systems. Prior to the discovery of the current novel coronavirus strain (SARS-CoV-2), there were six different strains that are known to infect humans, which includes the virus that caused the severe acute respiratory syndrome (SARS) pandemic in 2002. In humans, the majority of severe illness from SARs and COVID-19 is due to inflammation of the lungs and pneumonia. Pregnancy poses a significantly increased risk of viral pneumonia and during SARS more pregnant women required intensive care and breathing support, and the proportion of deaths was higher when compared to non-pregnant adults. Furthermore, kidney failure and development of abnormal blood clotting disorders, which occurs during severe infection, is more common in pregnancy and the associated changes in blood vessels extend to the placentas of infected pregnant women, thus potentially affecting the fetus. This makes pregnant women affected by the virus at high risk of developing severe complications. Fortunately, there have been a number of biomarkers identified that are associated with illness severity. These include, specialised white blood cells, blood clotting cells and constituents, as well as other measures of heart and kidney function. We propose that these biomarkers are important correlates of clinical disease severity and prognosis in pregnant and postnatal women. This knowledge has the potential to help clinicians during this pandemic to better manage and care for their patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* COVID-19 infection\n* 18-50 years for Groups A and B and 18-60 years for Groups C and D\n* Female for groups A and B. Both male and female for groups C and D.\n\nExclusion Criteria:\n\n* Participants who have previously been part of a SARS-CoV-2 vaccine trial.\n* Current hospital admission due to another respiratory disease, such as influenza.\n* Obvious clinical deterioration due to another medical problem such as cardiovascular disease, diabetes or malignancy.\n* Evidence of HIV infection and/or participants on anti-retroviral drug therapy.\n* Participants on chemotherapy, biologics, immune-modulators or immunosuppressive drugs (not including intramuscular steroids for fetal lung maturity).",
+  "minimum_age": "18 Years",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Due to the novel nature of this project, patients will not be stratified for specific demographic differences such as age, ethnicity or BMI. As there is very little data on SARS or COVID-19 infection in pregnant and postnatal women within 6 weeks of birth, power calculations used data from non-pregnant cases. In our institution so far, we have had 17 pregnant or postnatal women with COVID-19, and approximately 5 non-pregnant women of childbearing age out of a total of 273 cases (as of 1nd May 2020). Therefore, for some of non-pregnant data collection, we will be using data obtained from both male and female participants with a wider age range than our pregnant and postnatal group. Once all the data has been collected, we may stratify them based on age, gender, BMI, and ethnicity.",
+  "condition": [
+    "COVID-19",
+    "2019 Novel Coronavirus Infection",
+    "COVID-19 Infection"
+  ],
+  "overall_status": "UNKNOWN"
+}

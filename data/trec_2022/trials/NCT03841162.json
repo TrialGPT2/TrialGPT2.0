@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03841162",
+  "title": "Fast Assay for Pathogen Identification and Characterization",
+  "brief_summary": "Sepsis is a life-threatening disease caused by a dysregulated host response to infection. This can lead to organ-dysfunction and septic shock, which is a subset of sepsis where underlying abnormalities increase mortality remarkably. Blood cultures are the gold standard for identifying pathogens in the bloodstream (bacteremia). It is based on cultivation techniques which, theoretically, can detect a single pathogenic cell from a patient sample. However, blood cultures have serious limitations, such as long time to result (3-7 days). This leads to the fact that only a small fraction of the patients obtain a correct diagnosis and in further consequence get the optimal antimicrobial treatment. Patients with sepsis should get antimicrobial treatment within the hour. Thus, physicians start treatment empirically, with broad-spectrum antibiotics. This puts a selective pressure on pathogens and has led to an increased amount of antibiotic resistance. Faster diagnostics are necessary to ensure an immediate and targeted treatment. In the EU-funded FAPIC project, two diagnostic systems that can be used with direct sample material from patients will be developed, avoiding the time-consuming cultivation of pathogens.\n\nIn this study, the evaluation of the rapid diagnostics will be performed in patients with sepsis, suspected of bacteremia. To this aim, the performance of the diagnostic systems will be evaluated using blood samples that are collected in parallel with blood cultures. In addition, clinical data of the patients will be collected. In routine care, two blood culture sets (2x2 bottles) per patient are collected. One extra blood samples (EDTA, 9 ml) will be sampled with each blood culture set, totaling 2 samples per patient. In this study, patients presenting at the Emergency Department (ED), and the department of infectious diseases/nephrology will be included. The results will be used to estimate the performance, sensitivity, and specificity of the diagnostic systems compared to blood culture. Furthermore, in order to determine the severity of sepsis and to describe the patient population, clinically relevant parameters and laboratory parameters (ferritin, HLA-DR, serum lactate, SOFA score) will be assessed to determine its association with severity of disease and patient mortality. Evaluation will be done exclusively in the lab, and will not be used directly for the diagnosis or management of patients. Standard care will still be provided.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients for whom blood cultures are drawn\n* Age \u2265 18\n\nExclusion Criteria:\n\n* Age \\< 18\n* Patients who are not hospitalized and sent home after ED admission\n* Patients from the haematology department\n* Duplicate blood cultures from the same bacteraemia episode (blood cultures drawn \\<7 days after first blood culture)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with suspected sepsis, for whom blood cultures are drawn.",
+  "condition": [
+    "Bacteremia",
+    "Sepsis",
+    "Septic Shock"
+  ],
+  "overall_status": "COMPLETED"
+}

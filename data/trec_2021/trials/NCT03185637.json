@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03185637",
+  "title": "Children's Surgery in Sub-Saharan Africa",
+  "brief_summary": "Background: Five billion people worldwide do not have access to safe, affordable surgical care. A significant proportion live in sub-Saharan Africa (SSA), where up to 50% of the population are children. There is limited literature on neonatal and paediatric surgery in SSA and children's surgery does not appear on any of the National Health Strategic Plans for the 47 independent countries across SSA.\n\nObjectives: To form a collaboration of surgeons and allied health professionals involved in children's surgery across SSA and collectively undertake the largest prospective cohort study of paediatric surgery in this region.\n\nMaterials and Methods: Data will be collected via REDCap website on all patients with gastroschisis, anorectal malformation, appendicitis, inguinal hernia and intussusception, during a 1-month period of collaborators choice between October 2016 to April 2017, with a 30-day follow up until the end of May 2017. Estimated study population: 1450 patients from 50 institutions. Full ethical approval has been granted by the host centre; local ethical approval will be required at collaborating centres for participation. All collaborators will be co-authors.\n\nPrimary outcome will be in-hospital all-cause mortality. Secondary outcomes will include post-intervention complications. Data will be collected on institutional facilities, patient demographics, duration from condition onset to presentation, peri-operative resuscitation, intervention and outcome.\n\nDifferences in outcomes between SSA and benchmark data from high-income countries will be calculated using chi-squared analysis. Multi-level multivariate logistic regression analysis will be used to identify interventions and peri-operative factors associated with improved outcomes; p\\<0.05 will be deemed significant.\n\nOutcome: Results will be used to advocate for enhanced children's surgical services in SSA. We shall identify context-appropriate interventions associated with improved outcome. The collaboration will help to enhance research capacity in the region.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nAll patients under 16-years of age presenting primarily with one of the five study conditions during the data collection period. This includes those managed conservatively without surgery or intervention and those offered palliative care, except patients with an inguinal hernia who must receive surgery to be included.\n\nExclusion Criteria:\n\nPatients re-presenting with one of the five study conditions with a complication from a previous intervention or requiring further surgical intervention.",
+  "minimum_age": "",
+  "maximum_age": "16 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Collaborating centres were recruited using convenience sampling with snowballing. Centres include both tertiary paediatric surgery centres and district hospitals.",
+  "condition": [
+    "Gastroschisis",
+    "Anorectal Malformation",
+    "Appendicitis",
+    "Intussusception",
+    "Inguinal Hernia"
+  ],
+  "overall_status": "COMPLETED"
+}

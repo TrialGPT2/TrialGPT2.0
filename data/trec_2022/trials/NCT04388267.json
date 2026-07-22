@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04388267",
+  "title": "Fluid REsponsiveness and Arterial ELASTANCE in Patients With Septic Shock or After Aortic Surgery",
+  "brief_summary": "The MostCare system, thanks to the Pressure Recording Analytical Method (PRAM; Vygon, Padua, Italy), provides new hemodynamic parameters of the cardiovascular system. The PRAM method is a noncalibrated pulse contour method which requires only an arterial line (radial or femoral). This method has been validated in various clinical conditions. Among the collected parameters, some are well known and used daily care in Intensive Care Unit (ICU), i.e. cardiac output (CO), arterial pressure, heart rate, stroke volume (SV). Others such as arterial elastance (Ea) or dicrotic pressure are more recent and merit further investigation to determine their interest in clinical practice. To date, it is rarely used to adapt therapies, mostly because of a lack of knowledge regarding the evolution of these parameters.\n\nThe aim of this study is to analyze the relationship between the evolution of Arterial Elastance and fluid responsiveness after a 250 mL fluid challenge of crystalloids in 5 minutes in patients with either septic shock or in the postoperative course of a major vascular surgery.\n\nPatients will be considered fluid responders if an increase \\>10% of the stroke volume is observed .",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age at least 18 years\n* Septic shock (according to Sepsis-3 definition) or patients who underwent elective or emergent abdominal aortic surgery\n* Invasive blood pressure (radial or femoral) and Mostcare monitoring\n* Stroke volume between 20 and 50 mL/beat on the Mostcare system\n* Indication for a fluid challenge: hypotension (Mean arterial pressure under 65mmHg) or oliguria (urine flow rate \\< 0,5mL/kg/h for more than 12h), mottling, hyperlactatemia \\> 2 mmol/l\n\nExclusion Criteria:\n\n* Age \\<18 years\n* Cardiac arrhythmia\n* Arterial wave form distortion\n* Inappropriate identification of the dicrotic notch for any reason\n* Refuse to consent to the study",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population is a mix of septic shock and patients who underwent elective or emergent major vascular surgery surgery (aortic mostly) requiring a fluid challenge because of hypotension and/or oliguria and/or mottling and/or hyperlactatemia\\>2mmol/L. All patients will be hospitalized in the surgical intensive care unit (ICU) of the University Hospital of Nancy Brabois, France.",
+  "condition": [
+    "Shock, Septic",
+    "Hyperlactatemia",
+    "Oliguria",
+    "Aortic Aneurysm, Abdominal",
+    "Aortic Aneurysm, Ruptured",
+    "Aortic Stenosis"
+  ],
+  "overall_status": "UNKNOWN"
+}

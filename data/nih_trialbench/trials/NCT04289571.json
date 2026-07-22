@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT04289571",
+  "title": "Virtual Reality Mobility Assessment of Functional Vision in Retinal Disease",
+  "brief_summary": "Background:\n\nThe retina is a thin layer of tissue at the back of the eye. Retinal disease usually reduces a person s mobility because it affects how he or she moves through familiar and unfamiliar environments. Researchers want to see if a virtual reality (VR) tool can provide an easier and more accurate way to assess mobility.\n\nObjective:\n\nTo learn if researchers can track changes in mobility in people with retinal disease using a new VR tool.\n\nEligibility:\n\nPeople aged 5 and older with retinal disease that affects their vision, and healthy volunteers.\n\nDesign:\n\nParticipants will have 2-3 clinic visits.\n\nParticipants will wear goggles or sit in front of a screen while sitting. Using a game controller, they will navigate through 4 obstacle courses presented in VR.\n\nParticipants will have a medical history exam. They will answer questions about their family history. They will fill out questionnaires about the vision and mobility issues they have in their daily lives.\n\nParticipants will have a complete eye exam. They will read letters from a chart. Their eye pressure will be measured. Their pupils may be dilated with eye drops. Pictures of their eye will be taken. Lights will be shined in their eyes.\n\nParticipants will take a visual field test. For this, they will look into a dome and press a button when they see a light.\n\nParticipants will have an electroretinogram. For this, they will sit in the dark with their eyes patched. Then their eyes will be numbed with eye drops and they will wear contact lenses while watching flashing lights.\n\nParticipants will have optical coherence tomography. This is a noninvasive procedure. It produces cross-sectional pictures of the retina....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible, the following inclusion criteria must be met.\n\n1. For the NEI site: Participant must be five years of age or older.\n2. For the USyd site: Participant must be thirteen (13) years of age or older.\n3. Participant (or legal guardian) must understand and be willing to sign the protocol s informed consent document.\n4. Participant must be able to cooperate with the testing required for this study.\n5. Participant must be able to read and speak English.\n\n   a. If participant is a minor, their parent or legal guardian must be able to read and speak English.\n6. For healthy volunteers only:\n\n   1. Participant must not have retinal disease in either eye.\n\nEXCLUSION CRITERIA:\n\nA participant is not eligible if any of the following exclusion criteria are present.\n\n1. Participant is in another investigational study and actively receiving study therapy.\n2. Participant is unable to comply with study procedures.\n\nSTUDY EYE ELIGIBILITY CRITERIA:\n\nThe participant must have at least one eye meeting all inclusion criteria.\n\nSTUDY EYE INCLUSION CRITERIA:\n\n1. Healthy Volunteers Only\n\n   a. Study eye must have visual acuity of 20/20 or better, with or without correction (e.g., glasses or contact lens).\n2. Participants with Retinal Disease Only\n\n   1. Study eye must have retinal disease, defined as retinal dysfunction and/or degeneration as previously established by standard clinical methods including perimetry, ERG and imaging.",
+  "minimum_age": "5 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cone-Rod Degeneration",
+    "Rod-Cone Degeneration"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional study assessing mobility in patients with retinal disease and healthy volunteers using a virtual reality tool. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, and the study is not interventional. Both treatment-naïve and previously treated patients with retinal disease, as well as healthy volunteers, are eligible."
+    }
+  ]
+}

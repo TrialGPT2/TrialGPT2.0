@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01252771",
+  "title": "Phosphate Kinetic Modeling 2",
+  "brief_summary": "The study aims to investigate the concept of computer based Phosphate Kinetic Modeling (PKM) in the hemodialysis patient population. This computerized algorithm model was developed as a tool to aid physicians in controlling a hemodialysis patient's phosphate level. Once a subject consents to participate in the study, the subject's dietary phosphate intake will be estimated by the modeling program and the appropriate dose of the phosphate binder calcium acetate (PhosLo) will be recommended accordingly. If necessary, the Ca++ concentration of the dialysate will be changed to remove any excess calcium absorbed as the result of an increase in the PhosLo prescription to control phosphorus.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Subject is capable of giving informed consent.\n2. Age \\> 18 years\n3. Thrice weekly hemodialysis with a dialysate Ca++ concentration (CdiCa) of 2.0, 2.25 or 2.5 mEq/L\n4. Stable CdiCa of either 2.0, 2.25 or 2.5 mEq/L for \u2265 4 weeks\n5. Dialysis vintage \u2265 3 months\n6. Three-month average P \\> 5.5 mg/dL AND 2 of 3 monthly average P \\>=5.8 mg/dL\n7. Patients currently prescribed calcium acetate (PhosLo) mono-therapy , sevelamer monotherapy, or a combination therapy of PhosLo plus sevelamer for phosphate binding with willingness of physician to switch to PhosLo monotherapy\n8. Fresenius Optiflux F 160, 180 or 200 dialyzer\n\nExclusion Criteria:\n\n1. Any laboratory abnormality, medical condition or psychiatric disorder which in the opinion of the investigator would put the subject's disease management at risk or may result in the subject being unable to comply with study requirements\n2. Known pregnancy\n3. Parathyroidectomy\n4. iPTH \\< 50 pg/mL\n5. Hospitalization in past 30 days\n6. Dialysate potassium prescription other than 2 or 3 mmol/L\n7. Serum Ca++ \\< 7.5 mg/dL\n8. Current vitamin D therapy using calcitriol",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hyperphosphatemia",
+    "ESRD"
+  ],
+  "overall_status": "COMPLETED"
+}

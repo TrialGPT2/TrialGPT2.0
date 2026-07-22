@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04125446",
+  "title": "Genomic and Epigenomic Alterations After Cancer Treatment in Pregnancy",
+  "brief_summary": "The investigators want to obtain a fundamental understanding if and which chemotherapeutic agents used for treating cancer during pregnancy are associated with placental and/or offspring (epi)genetic changes, potentially causing FGR and childhood/adult diseases later in life.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Cancer in pregnancy - CT-treated arm\n\n  * Histological proven cancer during pregnancy (any type and stage)\n  * (Former) participation in part I.IA of the CIP-study S25470 (and I.IB for the placental sub study)\n  * Treatment during pregnancy with one or a combination of the following chemotherapeutic agents:\n* Cyclophosphamide\n* Anthracyclines\n* Taxanes\n* Platinum derivates\n\n  * Gestational age (GA) at birth \u226524 weeks Cancer in pregnancy - CT-untreated arm\n  * No treatment during pregnancy or surgery only (subgroup 1)\n  * Radiotherapy and/or systemic treatment (other than CT) during pregnancy (subgroup 2)\n  * GA at birth \u226524 weeks Healthy pregnant controls\n  * matched for maternal age, gestation at birth and infant gender with CT-treated arm\n  * GA at birth \u226524 weeks (only for placental study)\n\nExclusion Criteria:\n\n* GA at birth \\<24 weeks (miscarriage or termination of pregnancy) (placental study)\n* Mentally disabled women or patients who have a significantly altered mental status that would prohibit the understanding and giving of informed consent\n* Any comorbidity that is associated with an enhanced risk of placental pathology or FGR such as hypertensive disorders, preeclampsia, (gestational) diabetes, SLE, Crohn's disease, renal or cardiac pathology (healthy pregnant controls)",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The current study will focus on patients that received at least one of the following treatments: carboplatin, cisplatin, cyclophosphamide, paclitaxel and/or anthracyclines, the latter being the most given type of CT during pregnancy (cfr. also Table 1). Women who were not treated with CT during pregnancy, including those who were solely surgically treated or did not receive any treatment during pregnancy, will be included in the CT-unexposed control arm.In the CT-unexposed arm, we will also include women that had systemic treatment other than chemotherapy (e.g. targeted therapies) and/or radiotherapy. A group of healthy pregnant women without cancer, delivering in our participating centres, will form the second control group.",
+  "condition": [
+    "Cancer",
+    "Pregnancy"
+  ],
+  "overall_status": "UNKNOWN"
+}

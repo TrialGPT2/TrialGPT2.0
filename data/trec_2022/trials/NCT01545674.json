@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01545674",
+  "title": "Prenatal Non-invasive Aneuploidy Test Utilizing SNPs Trial",
+  "brief_summary": "This prospective blinded study will assess the diagnostic capability of an informatics enhanced SNP based technology (Parental Support) to identify pregnant women who are carrying a fetus with an aneuploidy from fee floating DNA in the maternal blood.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Singleton pregnancy\n2. Gestational age between 8 weeks 0 days and 23 weeks, 6 days by best obstetrical estimate\n3. Mother has a high or moderate risk for trisomy\n4. Mother is planning to have or has had an amniocentesis or chorionic villus sampling (CVS) procedure\n\nExclusion Criteria:\n\n1. Unavailability of the father to provide a genetic sample (e.g. sperm donor, non-paternity)\n2. Egg donor used\n3. Mother or father have known chromosomal abnormalities (including known balanced translocations)\n4. Participation in the study in a previous pregnancy\n5. Pregnancy is a result of IVF with pre-implantation genetic diagnosis",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Pregnant Women",
+  "condition": [
+    "Trisomy 13",
+    "Trisomy 18",
+    "Trisomy 21",
+    "Aneuploidy"
+  ],
+  "overall_status": "TERMINATED"
+}

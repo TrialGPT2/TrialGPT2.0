@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT00051597",
+  "title": "A Safety/Efficacy Study of SGN-30 (Antibody) in Patients With Refractory or Recurrent CD30+ Hematologic Malignancies",
+  "brief_summary": "The purpose of this study is to evaluate a multi-dose regimen of SGN-30, a novel chimeric monoclonal antibody (mAb), in patients with refractory or recurrent CD30+ hematologic malignancies.\n\nThis is a single-arm, open-label phase I/II study designed to define the toxicity profile, pharmacokinetic (PK) profile, and anti-tumor activity of a multi-dose regimen of SGN-30 in patients with refractory or recurrent CD30+ hematologic malignancies. The phase I study will be a modified dose escalation of SGN-30. Based on preclinical pharmacology and toxicokinetics (TK) and the first use in human single-dose phase I study, SGN-30 will be administered on a weekly schedule. An initial dose of 2 mg/kg will escalate until the maximum tolerated dose (MTD) has been reached or until a weekly dose of 12 mg/kg is achieved.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "INCLUSION CRITERIA:\n\nHistologically confirmed CD30+ hematologic malignancy. Immunohistochemistry or flow cytometry may be performed on either original diagnostic biopsy material or biopsy of relapsed disease.\n\nPatients must have at least one of the following:\n\n* Patients with HD must have failed systemic chemotherapy either as initial therapy for advanced stage disease or as salvage therapy after initial radiotherapy (XRT) for early stage disease and be ineligible for, or refuse treatment by stem cell transplantation\n* Patients with other CD30+ malignancies must be beyond 1st remission or refractory to front line chemotherapy\n* Patients with refractory or chemo-resistant multiple myeloma (MM), as defined by a failure to respond (\\<50% reduction in M-protein level), or disease progression less than 2 months after receiving at least two conventional chemotherapy regimens\n* Patients with MM in the Plateau Phase of their disease may be included in the study. Plateau phase will be defined as persistent (more than 6 weeks) M-protein in the serum or urine despite a significant initial reduction (\\>50%) in response to previous therapy. These patients should have received at least two of the conventional chemotherapy regimens listed above prior to enrollment in this study.\n* Patients with relapsed MM as defined by disease progression more than 2 months after initial therapy and subsequent failure to respond (\\<50% reduction or progression in M-protein levels) to ONE of the above listed regimens or other salvage regimens (high dose cyclophosphamide, topotecan).\n\nPatients must have at least one of the following:\n\n* Bidimensional or unidimensional measurable disease on physical examination or radiologic evaluation\n* Circulating tumor cells in peripheral blood\n* Evidence of bone marrow disease to any degree in patients with HD\n* \\>10% tumor cells in bone marrow in patients with other CD30+ malignancies\n* Minimum of 4 weeks from last therapy (including radiotherapy or chemotherapy); a minimum of 6 weeks from last treatment with nitrogen mustard agents, melphalan or BCNU\n* ECOG performance status \u2264 2 (Appendix B) with a life expectancy \\> 3 months\n\nEXCLUSION CRITERIA:\n\n* A diagnosis of Cutaneous T-Cell Lymphoma (CTCL) or non-secretory MM\n* Symptomatic cardiac disease including ventricular dysfunction, coronary artery disease or arrhythmias\n* More than one primary malignancy with the exception of non-melanoma skin cancer or cervical carcinoma in situ (CIN) on a biopsy or squamous intraepithelial lesion (SIL) on PAP smear\n* Active viral, bacterial, or systemic fungal infection including known HIV positivity\n* Symptomatic brain metastases requiring treatment\n* Concurrent therapy with other anti-neoplastic agents, corticosteroids, or experimental agents\n* Any serious underlying medical condition which would impair the ability of the patient to receive or tolerate the planned treatment including prior allergic reactions to recombinant human or murine proteins\n* Receipt of any therapeutic mAbs within 6 months unless a recent serum testing reveals no antibody titer and no evidence of anti-chimeric or anti-murine antibody in the peripheral circulation\n* Female patients who are pregnant or breastfeeding\n* Dementia or altered mental status that would prohibit the understanding and rendering of informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hodgkin Disease",
+    "Lymphoma, Large-Cell",
+    "Sarcoma, Kaposi",
+    "Lymphoma, T-Cell, Cutaneous",
+    "Lymphoma, B-Cell"
+  ],
+  "overall_status": "COMPLETED"
+}

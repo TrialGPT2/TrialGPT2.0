@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT02346331",
+  "title": "Epidemiology, Acute Management, and Outcomes of Patients With Sepsis Presenting to a Referral Hospital in Western Kenya",
+  "brief_summary": "Sepsis is a clinical syndrome representing deranged hemodynamics (such as tachycardia) secondary to severe infection. In high-income countries (HICs), early resuscitation of septic patients with protocol-driven therapy, including quantitative fluid administration guided by invasive monitoring, has resulted in improved outcomes for septic patients. Prevalence and mortality of sepsis are thought to be higher in sub-Saharan Africa (SSA) than in high-income countries; however, most hospitals in SSA lack the technology and resources necessary to implement the resuscitation protocols used in HICs and therefore, mortality from sepsis remains high. The World Health Organization (WHO) has recently disseminated an algorithm for resuscitation of septic patients in low resource settings. This algorithm is based on expert consensus only, and its efficacy has never been tested.\n\nThis study will be conducted in the Casualty Department of Moi Teaching and Referral Hospital (MTRH) in Eldoret, Kenya.\n\nThe purpose of this study is to describe the epidemiology of patients presenting with severe sepsis, to examine the microbiology causing severe sepsis, to describe current management and outcomes for severe sepsis, and to test the effect of implementation of the WHO resuscitation algorithm at MTRH.\n\nThe study design is a prospective before and after clinical trial. In an initial observational phase, adult patients presenting to the MTRH Casualty Department with sepsis and severe sepsis (the latter of which will be defined by elevated lactate) will be enrolled into a prospective observational cohort. Demographic data, medical characteristics, and microbiological studies will be obtained, then the management and outcomes of these patients will be observed. In a second phase, patients with sepsis will continue to be enrolled into a prospective observational cohort, while patients with severe sepsis will be enrolled into an intervention group. Patients in the intervention group will be managed according to the WHO resuscitation algorithm. Specifically, the WHO algorithm involves fluid boluses guided by vital signs and physical exam findings, rapid and early administration of empiric antibiotics, and frequent patient monitoring. The outcomes of interest are achievement of lactate clearance, which is a correlate of tissue perfusion, as well as 24-hour, in-hospital, and 30-day mortality.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Presenting to MTRH Casualty Department for acute medical care\n* Suspected infection, in the judgment of the managing clinician\n* At least 2 of the following: axillary temperature \\>37.5\u00b0C or \\<35.5\u00b0C or core temperature \\>38.0\u00b0C or \\<36.0\u00b0C; heart rate \\>90 beats per minute; respiratory rate \\>20 breaths per minute; or systolic blood pressure \\<100 mmHg\n\nExclusion Criteria:\n\n* Lack of basic language skills in either English or Kiswahili\n* Pregnancy\n* Congestive heart failure or valvular heart disease (as a known prior diagnosis or in the judgment of the managing clinician)\n* Need for immediate surgery (within 6 hours) in the judgment of the managing clinician\n* Inability to consent to study participation and lack of accompaniment by a family member or other surrogate who can provide consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sepsis",
+    "Severe Sepsis",
+    "Septic Shock"
+  ],
+  "overall_status": "COMPLETED"
+}

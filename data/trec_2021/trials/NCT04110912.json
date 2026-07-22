@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04110912",
+  "title": "Improving Outcomes After Time Sensitive Prehospital Interventions: Rescu Epistry",
+  "brief_summary": "Rescu Epistry includes data points pertaining to prehospital and in-hospital clinical treatments and responses to therapy, survival to discharge and functional outcome data for all cases.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nCardiac Arrest Eligibility\n\n1. Individuals of all ages who experience cardiac arrest outside the hospital, with evaluation by organized EMS personnel and:\n\n   * Attempts at external defibrillation (by lay responders or emergency personnel), or chest compressions by organized EMS personnel (treated cohort)\n   * Were pulseless but did not receive attempts to defibrillate or CPR by EMS personnel (untreated cohort - obviously dead by legislative definition)\n\n   Traumatic Injury Eligibility\n2. Individuals of all ages who experience a traumatic injury outside the hospital, with evaluation by organized EMS personnel and:\n\n   * Systolic blood pressure \u2264 90 mmHg or\n   * Glasgow Coma Scale score \u226412 or\n   * Respiratory rate \\<10 or \\>29 breaths per minute or\n   * Field intubation/advanced airway procedure\n\n   Stroke Eligibility\n3. individuals of all ages who experience stroke outside the hospital, with evaluation by organized EMS personnel and new onset of signs and symptoms suggestive of an acute stroke\n\n   * Unilateral arm/leg weakness or drift or\n   * Slurred speech or inappropriate words or mute or\n   * Unilateral facial droop\n\nSepsis Eligibility\n\n1. Potentially Septic: Individuals of all ages who present with\n\n   * Presence of Fever: Temperature \\>38\u00b0C (tympanic membrane)\n   * Paramedic suspects possible infection: i.e. suspected pneumonia, urinary tract infection, abdominal pain or distension, meningitis, cellulitis, septic arthritis, infected wound (minimal data set )\n2. Severe Sepsis: Individuals of all ages who also present with:\n\n   * Presence of Fever: Temperature \\>38\u00b0C (tympanic membrane)\n   * Paramedic suspects possible infection: e.g. suspected pneumonia, urinary tract infection, abdominal pain or distension, meningitis, cellulitis, septic arthritis, infected wound; Presence of any one of: (1) respiratory rate \\> 22/min or intubated for respiratory support; (2) acute confusion or reduced level of consciousness; (3) presence of hypotension: SBP\\<=100mmHg (comprehensive data set)\n\nExclusion Criteria: None,",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All persons within the catchment area of any EMS agency participating, including infants, children and adult patients requiring activation of the emergency 9-1-1 system that meet the defined criteria for cardiac arrest, traumatic injury, stroke or sepsis.",
+  "condition": [
+    "Cardiac Arrest",
+    "Sepsis",
+    "Trauma",
+    "Stroke"
+  ],
+  "overall_status": "WITHDRAWN"
+}

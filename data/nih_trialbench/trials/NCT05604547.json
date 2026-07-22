@@ -1,0 +1,40 @@
+{
+  "nctid": "NCT05604547",
+  "title": "Exploring Near Infrared Spectroscopy (NIRS) Technologies for Assessment of Muscle Physiology, Tissue Oxygenation, and Blood Flow in Patients With Sickle Cell Disease (SCD)",
+  "brief_summary": "Sickle cell disease (SCD) is an inherited disorder of the blood. SCD can injure the smallest blood vessels, which can cause pain and damage organs all over the body. Some treatments are available, but researchers need better ways to monitor the effects of these treatments. An imaging technique called near infrared spectroscopy (NIRS) may be helpful.\n\nObjective:\n\nTo test NIRS as a tool for measuring oxygen levels, blood flow, and the makeup of skin and muscle in patients with SCD.\n\nEligibility:\n\nPeople aged 18 years and older with SCD. Healthy volunteers are also needed as a comparison for the changes in SCD patients.\n\nDesign:\n\nParticipants will be screened. They will have a physical exam, and 1 teaspoon of blood will be drawn.\n\nParticipants will have NIRS testing on their second visit. Probes will be placed on their skin. A blood pressure cuff will be placed on their arm. The cuff will be filled with air for up to 5 minutes and then released. Participants may be asked to breathe at a certain rate or hold their breath during these measurements.\n\nAt this visit, participants will also have an ultrasound exam to get images of their heart. They will be monitored while they walk for 6 minutes. They will have 1 tablespoon of blood drawn. Their height, weight, and vital signs will be measured.\n\nParticipants may be asked to return for up to 4 additional visits for NIRS testing within 120 days, but this is optional. The visits must be at least 3 days apart. Each visit will last up to an hour....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nSickle Cell Disease\n\n* Individuals with confirmed sickle cell disease (HbSS and S beta 0 genotypes)\n* 18 years of age and older\n* Willingness and capacity to provide informed consent\n* Individuals must be on stable does of Hydroxyurea for 90 days prior to baseline visit\n\nEthnically matched controls\n\n* Individuals with HbAA genotype\n* 18 years of age and older\n* Willingness and capacity to provide informed consent\n\nEXCLUSION CRITERIA:\n\nSickle Cell Disease\n\n* Pain crisis requiring parenteral treatment within 4 weeks of screening/enrollment\n* Blood transfusion within 60 days or exchange transfusion within 90 days of screening/enrollment\n* Use of Oxbryta (voxelotor), Adakveo (crizanlizumab), and/or Endari (L-glutamine) within the 12 weeks prior to signing consent\n* Women who are currently pregnant\n* Presence of an arterial-venous shunt, recent axillary node dissection, or any deformity or surgical history that interferes with proper access for brachial cuff occlusion procedure of the extremities\n* Mobility difficulties causing the inability to complete 6-minute walk test\n\nEthnically matched controls\n\n* Women who are currently pregnant\n* Presence of an arterial-venous shunt, recent axillary node dissection, or any deformity or surgical history that interferes with proper access for brachial cuff occlusion procedure of the extremities\n* Mobility difficulties causing the inability to complete 6-minute walk test\n* Blood transfusion within 60 days or exchange transfusion within 90 days of screening/enrollment",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "We aim to enroll 20 individuals in each of the following participant groups: SCD (20 HbSS/S-beta0) and 20 healthy controls (genotype HbAA) To obtain this level of enrollment we request a screening ceiling of 60 individuals (30 people per each group) for an enrolment target of 20 SCD and 20 healthy controls who complete participation. Twenty individuals per group should help identify specific hypotheses for testing and estimates of variability and effect size. Correlations between NIRS measurements and clinical/biomarker measurements will need to be relatively strong to meet statistical significance criteria at a 5 percent alpha level for a two-sided test. Assuming data have a bivariate normal distribution, a true correlation of 0.5 and 0.6 are associated with power of 64 percent and 84 percent, respectively. If a Spearman correlation test is used instead of a Pearson correlation (if distribution appear non-normal) then power falls to 58 percent and 76 percent, respectively.",
+  "condition": [
+    "SCD"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study of muscle physiology and tissue oxygenation in adults with sickle cell disease and healthy controls. There is no requirement or restriction regarding prior lines of systemic therapy for advanced disease, as the study is not interventional and does not focus on cancer or advanced disease treatment.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Sickle Cell Disease",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on diagnosis of sickle cell disease and stable use of hydroxyurea, with no mention of prior lines of systemic therapy for advanced disease. The study is not focused on cancer or advanced/metastatic disease treatment."
+    },
+    {
+      "cohort_label": "Ethnically matched controls",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Healthy volunteers with HbAA genotype are included as controls, with no reference to prior systemic therapy or cancer history. Line-of-therapy intent is not applicable."
+    }
+  ]
+}

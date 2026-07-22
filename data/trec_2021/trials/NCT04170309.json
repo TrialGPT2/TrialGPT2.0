@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04170309",
+  "title": "Collection of Data of Ceftobiprole Treated Patients: Comparison of Patients With and Without Certain Diseases",
+  "brief_summary": "In this observational study, data from patients treated with the antibiotic ceftobiprole in the past will be collected. The sponsor of the study is Correvio International S\u00e1rl, based in Switzerland. Correvio has committed to the health authorities to obtain further information on possible side effects especially in patients suffering from impaired liver or renal function or immune system deficiency and compare these effects to the ones observed in patients without these health problems. Patient data are collected from historic patient charts, patients will not be treated for the purpose of this data collection. All efforts are being made to capture the data of all patients who meet the inclusion criteria and have received at least one dose of ceftobiprole since this drug was first prescribed at the site.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "The study will enroll participants in whom treatment with ceftobiprole has been completed (including both on-label and off-label use) plus at least one of the following criteria (more than one criterion may apply):\n\n* Participants with severe renal impairment / ESRD (end-stage renal disease, defined as calculated CLCr ( creatinine clearance) \\< 30 mL/minute or oliguria \\< 20 mL/hour unresponsive to fluid challenge or any form of dialysis)\n* Impaired baseline hepatic function (patients with liver failure/cirrhosis Child Pugh Grade A, B, C or existing non-cirrhotic liver disease associated with total bilirubin \\> 2 mg/dL or alanine aminotransferase \\[ALT\\], or aspartate aminotransferase \\[AST\\] \u2265 3 times upper limit of the normal range \\[ULN\\])\n* Participants with immunosuppression, i.e.,\n\n  * HIV-positive with CD4 (cluster of differentiation 4) counts of \u2264 0.2 \u00d7 10E9/L (\u2264 200 cells/mm3)\n  * Immunocompromised as determined by the investigator (any type or aetiology)\n  * Baseline neutropenia or baseline myelosuppression, defined as presence of myelosuppression or neutropenia (absolute neutrophil count \\[ANC\\] \u2264 0.5 \u00d7 10E9/L \\[\\< 500 polymorphonuclear neutrophils (PMNs)/mm3\\]), severe anaemia (haemoglobin \\< 6.5 g/dL), or severe thrombocytopenia (\\< 49.9 \u00d7 10E9/mm3) In addition, the study will enroll a control group of patients in whom treatment has been completed without any of the criteria listed above.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants from hospitals.",
+  "condition": [
+    "Renal Insufficiency",
+    "Hepatic Insufficiency",
+    "Immunosuppression"
+  ],
+  "overall_status": "COMPLETED"
+}

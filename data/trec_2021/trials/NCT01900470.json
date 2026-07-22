@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT01900470",
+  "title": "Effectiveness of Patient-centered Community Health Worker Support to Help Patients Control Chronic Disease",
+  "brief_summary": "The purpose of this proposal is to compare the effectiveness of community health worker (CHW) support vs. usual primary care for helping chronically-ill, low-SES patients to improve control of chronic conditions. Upon enrollment each patient will select one of their multiple chronic conditions as a focus for the trial and work with his/her PCP to set a chronic disease management goal. Patients are then randomized to receive usual primary care vs. CHW support for moving towards that goal.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient of target practices for at least 1 yr defined as having one office visit within preceding 12 month\n* Home ZIP code including ANY of the following: 1. 19104 2. 19131 3. 19139 4. 19143 5. 19146\n* 2 or more of the following conditions: 1. Obesity (BMI greater than 30), 2. HTN (ICD9 relating to HTN in EMR), 3. DM (ICD9 relating to DM in EMR), 4. Asthma/COPD and tobacco dependence (ICD9 for asthma or COPD in EMR AND documentation of tobacco use)\n* Uninsured, insured by Medicaid or dually eligible for Medicaid/Managed Medicare\n* Patients who have scheduled appointments in the future.\n\nExclusion Criteria:\n\n* Will not provide informed consent for this study.\n* Does not have the capacity to provide informed consent for this study.\n* Previously enrolled in this study",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Obesity",
+    "Diabetes",
+    "Hypertension",
+    "Asthma/COPD With Tobacco Dependence"
+  ],
+  "overall_status": "COMPLETED"
+}

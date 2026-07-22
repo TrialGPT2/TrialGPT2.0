@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT06313398",
+  "title": "Determination of Red Cell Survival in Sickle Cell Disease and Other Hemoglobinopathies Using Biotin Labeling",
+  "brief_summary": "Background:\n\nSickle cell disease (SCD) is an inherited disorder of the blood. SCD causes red blood cells (RBCs) to die early. This can lead to a shortage of healthy cells. SCD and other blood disorders can be managed with drugs or cured with a bone marrow transplant. Researchers want to know how long RBCs survive in people with SCD and other blood disorders before and after treatment compared to those who had a bone marrow transplant.\n\nObjective:\n\nTo learn how long RBCs survive in the body in people with SCD and other blood disorders compared to those whose disease was cured with a bone marrow transplant.\n\nEligibility:\n\nPeople aged 18 years or older with SCD or another inherited blood disorder. People whose SCD or blood disorder was cured with a bone marrow transplant are also needed.\n\nDesign:\n\nParticipants will be screened. They will have a physical exam with blood and urine tests.\n\nParticipants will have about 7 tablespoons of blood drawn. In the lab, this blood will be mixed with a vitamin called biotin. Biotin sticks to the outside of RBCs. This process is called \"biotin labeling of RBCs.\" The next day, the participant s own biotin-labeled RBCs will be returned to their bloodstream.\n\nParticipants will return regularly to have smaller blood samples (about 2 teaspoons) drawn. These samples will be tested to detect the percentage of cells that have biotin labels. These visits may be every 2 weeks, 4 weeks, or some other interval. Participants will continue this schedule for up to 20 weeks or until biotin can no longer be detected....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Provision of signed and dated informed consent form\n2. Stated willingness to comply with all study procedures and availability for the duration of the study\n3. Male or female, aged 18 years or greater with confirmed diagnosis of SCD (all genotypes), thalassemia (beta and/or alpha), or other inherited hemoglobinopathy not otherwise specified.\n4. Be at steady state for their underlying disease (e.g. SCD or thalassemia) or post-bone marrow transplantation status, as evidenced by medical history.\n5. Ability to have blood samples drawn.\n6. For female participants of child-bearing potential, agree to use birth control during study participation. Female subjects of child-bearing potential must agree to use a medically acceptable method of birth control such as an oral contraceptive, intrauterine device, barrier and spermicide, or contraceptive implant/injection from start of screening through 4 months after infusion.\n7. Agreement to adhere to Lifestyle Considerations throughout study duration\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Consumption of biotin supplements or raw eggs within the last 30 days.\n2. Blood loss within the previous 8 weeks (\\>540 mL).\n3. Red cell transfusion for their underlying SCD and/or thalassemia within the last 3 months.\n\n   a. Participants may be eligible after three months following their last transfusion.\n4. Patients on hemodialysis, due to possibility of early removal of biotinylated RBCs.\n5. Pregnancy, lactation or absence of adequate contraception for fertile female subjects.\n6. Pediatric subjects will not participate in this study.\n7. Known allergic reactions to biotin, due to risk of possible life-threatening allergic reaction.\n8. Current diagnosis of malignancy (liquid and/or solid).",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Sickle Cell Disease",
+    "Thalassemia",
+    "Hemoglobinopathy"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling adults with sickle cell disease, thalassemia, or other inherited hemoglobinopathies, including those post-bone marrow transplant. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference prior systemic therapy for advanced disease, nor do they specify any requirements or exclusions based on prior lines of therapy. Both treatment-naïve and previously treated patients appear eligible, but the protocol does not use oncology line-of-therapy terminology."
+    }
+  ]
+}

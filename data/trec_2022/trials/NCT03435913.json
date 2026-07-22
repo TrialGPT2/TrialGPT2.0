@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT03435913",
+  "title": "Transpulmonary Driving Pressure and Intra-abdominal Pressure Relationship During Laparoscopic Surgery",
+  "brief_summary": "Objective: The aim of this project is to evaluate how intra-abdominal pressure paired coupled with different ventilatory positive end-expiratory pressure levels affects the transpulmonary driving pressure during pneumoperiteneum insufflation for laparoscopic surgery.\n\nMethodology: Patients undergoing laparoscopic surgery will be included. The study will investigate the relationship between intra-abdominal pressure (IAP) and transpulmonary driving pressure (TpDp) and the effect of titration of PEEP on their relationship.\n\nAt three different levels of intra-abdominal pressure, the respiratory driving pressure (RDp) and TpDp in each subject will be measured in each subject. The same subject will undergo two different ventilation strategies. Demographic data (height, weight, body mass index and sex), ASA physical status (surgical risk classification of the American Society of Anesthesiology), number of previous abdominal surgeries, number of previous pregnancies, and respiratory comorbidities will be collected. Respiratory pressures and mechanics will be recorded at each level of intra-abdominal pressure (IAP) during each ventilatory strategy. The variables recorded will include: airway pressures (Plateau pressure Pplat, Peak pressure, Ppeak), the final esophageal pressure of inspiration and expiration and pulmonary stress index. Mixed linear regression will be used to evaluate the relationship between different PEEP levels, IAP and TpDp by adjusting for known confounders and adding individuals as a random factor. Likewise, an analysis using a mixed linear regression model with the pulmonary stress index as a function of the intra-abdominal pressure, the ventilation regime, and a specific random intercept term for each subject will be performed.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* American Society of Anesthesiology (ASA) risk scale I to III\n* Age \\> 18 years\n* Previously signed informed consent\n* Undergoing laparoscopic surgery\n\nExclusion Criteria:\n\n* ASA \u2265 IV\n* Pregnancy\n* Advanced liver, kidney or cardiopulmonary disease",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Anesthesia, General/Methods",
+    "Laparoscopy",
+    "Respiration, Artificial",
+    "Positive-Pressure Respiration",
+    "End-Expiratory Pressure, Positive",
+    "Ventilator-Induced Lung Injury"
+  ],
+  "overall_status": "COMPLETED"
+}

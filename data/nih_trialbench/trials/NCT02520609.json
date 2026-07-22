@@ -1,0 +1,49 @@
+{
+  "nctid": "NCT02520609",
+  "title": "Dynamic Post-Prandial Metabolism in Patients With Non-Alcoholic Fatty Liver Disease",
+  "brief_summary": "Background:\n\nMetabolism refers to the many chemical pathways by which various compounds, including food, are processed and used in the body. People with non-alcoholic fatty liver disease (NAFLD) have too much fat in their liver cells, but what causes it is unclear. One explanation is that people with NAFLD process food and metabolize it differently than people without NAFLD. Researchers want to compare how food is metabolized in people with and without NAFLD.\n\nObjective:\n\nTo better understand how food intake influences the development and progression of NAFLD.\n\nEligibility:\n\nPeople ages 18 and older with NAFLD or with a non-NAFLD metabolic syndrome\n\nHealthy volunteers ages 18 and older\n\nDesign:\n\nParticipants will be screened with medical history, surveys, physical exam, and blood tests. This will have ultrasound of the abdomen. This uses sound waves to image internal organs.\n\nParticipants will stay at the Clinical Center for 2 nights.\n\nThey will fast he first night.\n\nOn the second day they will:\n\nHave their metabolism monitored in a metabolism research room for 24 hours\n\nHave a catheter inserted into an arm vein for several blood tests\n\nDrink an Ensure Plus for breakfast\n\nHave solid meals for lunch and dinner\n\nHave several urine tests.\n\nThe final morning, they will:\n\nHave more blood tests.\n\nHave a DXA test to measure the fat in the body. They will lie on their backs for 15-25 minutes while an x-ray machine is positioned over areas of the body.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nFor the entire cohort:\n\n* Male or female aged \\> 18 years\n* Ability to provide informed consent\n\nFor group 1 subjects (NAFLD)\n\n* Biopsy-proven NAFLD within 2 years prior to screening, OR\n* The presence of at least two of the following criteria:\n* Suggestion of liver fat by an imaging study (ultrasound, CT scan, MRI or MR spectroscopy) performed in the 6 months prior to screening\n* Elevated aminotransferase levels (ALT \\> 31 U/L for men or \\> 19 U/L for women, or AST \\> 30 U/L) on at least two occasions in the 6 months preceding enrollment.\n* Presence of the metabolic syndrome, defined according to the modified AHA/NCEP criteria as the presence of at least three of:\n\n  i. Abdominal obesity, defined as waist circumference \\> 102 cm for men or \\> 88 cm for women\n\nii. Elevated triglycerides (\\> 150 mg/dL) or the use of medication to lower triglycerides\n\niii. Reduced HDL cholesterol (\\< 40 mg/DL for men or \\< 50 mg/dL for women)\n\niv. Elevated blood pressure (\\> 135/80 mmHg) or use of medication for hypertension\n\nv. Elevated fasting glucose levels (\\> 100 mg/dL) or use of anti-diabetic medication\n\nFor the purpose of inclusion, the presence of overt diabetes mellitus type 2 will be considered equivalent to the presence of the metabolic syndrome, even if the other criteria are absent.\n\nFor group 2 subjects (non-NAFLD metabolic syndrome):\n\n* Evidence of metabolic syndrome\n* Normal transaminases (ALT less than or equal to 31 U/L for men or less than or equal to 19 U/L for women, or AST less than or equal to 30 U/L) at screening\n* Absence of liver fat by imaging or liver biopsy within 6 months of screening\n\nFor group 3 subjects (healthy volunteers):\n\n* No history of known liver disease\n* Not on any regular systemic medications (with the exception of oral contraceptives)\n* BMI \\<= 25 kg/m2\n* Non diabetic\n* Normal transaminases and fasting glucose (\\<95 mg/dL)\n\nEXCLUSION CRITERIA:\n\n1. Concomitant liver disease such as autoimmune hepatitis, primary biliary cirrhosis, primary sclerosing cholangitis, Wilson s disease, alpha-1 antitrypsin deficiency\n2. Chronic infection with hepatitis C virus (HCV) or hepatitis B virus (HBV). Patients who were treated successfully for HCV and achieved sustained virological response can be eligible for enrollment \\> 18 months after treatment cessation. Patients receiving antiviral therapy are ineligible.\n3. Estimated average alcohol consumption \\> 30 g/d for men or \\> 20 g/d for women in the 6 months prior to enrollment, or binge-drinking behavior .\n4. Gain or loss of \\> 10% body weight within the 6 months prior to enrollment.\n5. Decompensated liver cirrhosis, defined as a past or present occurrence of a decompensation event (variceal bleeding, ascites, spontaneous bacterial peritonitis, encephalopathy or hepatocellular carcinoma or by albumin \\< 3 g/dl, PT \\> 3 seconds above the upper limit of the norm, platelet count \\< 70,000 or total bilirubin \\> 2 mg/dL (in the absence of Gilbert s syndrome).\n6. Pregnancy or lactation\n7. Treatment with medications known to cause fatty liver disease such as atypical neuroleptics, tetracycline, methotrexate or tamoxifen\n8. Disorders interfering with substrate absorption such as gastric bypass surgery, malabsorption disorders, use of orlistat or bile acid sequestrants, or extensive small bowel resection.\n9. Diabetic patients requiring insulin treatment\n10. Lactose intolerance or allergy to Ensure or one or more of its components\n11. Hyper/hypothyroidism\n12. Inability to remain sedentary for 4 hours, or to remain for 26-30 hours in the metabolic chamber\n13. Inability to obtain vascular access for the required blood samples",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Community Sample",
+  "condition": [
+    "Liver Disease",
+    "Fatty Liver"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a metabolic observational study in patients with NAFLD, non-NAFLD metabolic syndrome, and healthy volunteers. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Group 1 (NAFLD)",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "There are no requirements or exclusions based on prior systemic therapy for advanced/metastatic disease; patients are included based on NAFLD diagnosis and metabolic criteria. No mention of prior cancer therapy or advanced disease is present."
+    },
+    {
+      "cohort_label": "Group 2 (non-NAFLD metabolic syndrome)",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility is based on metabolic syndrome without NAFLD, with no reference to prior systemic therapy for advanced disease. No cancer or advanced disease therapy is required or excluded."
+    },
+    {
+      "cohort_label": "Group 3 (healthy volunteers)",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Healthy volunteers with no history of liver disease or regular systemic medications are included. There are no requirements or exclusions regarding prior systemic therapy for advanced disease."
+    }
+  ]
+}

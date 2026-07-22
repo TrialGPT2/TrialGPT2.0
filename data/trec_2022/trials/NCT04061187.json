@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04061187",
+  "title": "Livestreaming From Smartphones as a Supplement to Emergency Calls",
+  "brief_summary": "The aim of the study is to analyse if live video as a supplement to emergency calls can improve medical dispatchers' situation awareness and enhance the assistance they provide including provision of pre-hospital resources. Focus will also be on evaluating the unconscious patient and improve CPR quality.\n\nThe general experience from the medical dispatcher and the person calling the emergency number regarding the feasibility of adding live video will also be analysed.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n\\- Inclusion criteria (stream live video footage) These are assessed by the medical dispatcher before stream of live video footage.\n\n* Emergency call about an unconscious patient. (The patient is defined as unconscious, if the patient is unresponsive to verbal or pain stimulus according to the Danish Index. (Inclusion criterion in relation to the Danish Index is \"unconscious patient with normal breathing. A.01.03\", as well as all sub-criteria that meet the above criteria e.g. \"A.06.01, Unresolved problem;\" Does not respond to call or pain stimulus, but no breathing problems \").\n* Emergency call about suspected cardiac arrest where CPR is provided\n* Emergency call about a patient with trauma/illness where the medical dispatcher thinks it will be a benefit with live video footage\n* Video-capable smartphone present\n* Caller by the patient's side\n* Caller expected age\u2265 18 years\n* More than two bystanders present\n\nExclusion Criteria:\n\n* If caller, patient or other bystanders do not want livestreaming to be added to the emergency call.\n* No video-capable smartphone present\n* Caller not by the patient's side\n* Caller a child\n* Less than two bystanders present",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Emergency medical dispatchers in Copenhagen who added live video footage to the emergency call",
+  "condition": [
+    "Out-Of-Hospital Cardiac Arrest",
+    "Emergencies",
+    "Unconscious"
+  ],
+  "overall_status": "COMPLETED"
+}

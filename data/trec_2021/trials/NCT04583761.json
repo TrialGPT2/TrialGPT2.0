@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04583761",
+  "title": "Tobacco and Nicotine Consumption and the Risk of Acquisition of Coronavirus Disease 2019 (COVID-19)",
+  "brief_summary": "The purpose of this case-control study is to assess the association of the current and former consumption of tobacco and nicotine in the risk of acquisition of severe acute respiratory syndrome 2 (SARS-CoV-2). the investigators will send a structured interview by mail regarding use of tobacco and nicotine to 2500 healthcare workers (1250 cases with a positive Real Time Polymorphism Chain Reaction (RT-PCR) and 1250 controls with a negative PCR) who were tested in Paris for in March and April, 2020. OR will be estimated by conditional logistic regression modelling with matching for sex and age.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Healthcare workers with mild symptoms of COVID-19 tested with RT-PCR in nasopharyngeal swabs:\n\n  * Cases : positive RT-PCR\n  * Controls : negative RT-PCR\n* Informed consent obtained by e-mail.\n\nExclusion Criteria:\n\n* no available e-mail address\n* age \\< 18\n* no answer to the structured questionnaire",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthcare workers tested for SARS-CoV-2 in Hotel Dieu Hospital in Paris in March, 2020",
+  "condition": [
+    "COVID-19"
+  ],
+  "overall_status": "COMPLETED"
+}

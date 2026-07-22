@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT03958643",
+  "title": "Best Noninvasive Predictor of Renal Function in Assessing Adult Sickle Nephropathy",
+  "brief_summary": "Background:\n\nSickle cell disease is a common inherited blood disorder. Kidney disease is a major cause of problems in people with sickle cell disease. In order to identify kidney problems early and stop the progression of kidney disease, doctors need the most accurate tests to check kidney function. Researchers hope to understand more about how to test for kidney disease in people with sickle cell disease.\n\nObjective:\n\nTo determine which of two different lab tests is the best to measure kidney function in adults with sickle cell disease.\n\nEligibility:\n\nPeople 18 years and older who have sickle cell disease\n\nDesign:\n\nParticipants will be screened with a medical history and blood tests.\n\nParticipants will have up to 3 visits.\n\nParticipants will collect their urine in a special container over 24 hours.\n\nAt the first visit, participants will have blood tests. They will bring their container of urine to the visit. They will have an iothalamate test. For the test, they will get a catheter: a small tube will be inserted into a vein. A special contract agent will be injected into the vein. Blood will be collected over the next 4 hours to test kidney function.\n\nParticipants will return the next day for a second visit. They will have blood tests. They will have an MRI. For the MRI, they will like on a table that slides into a machine that takes pictures of the kidneys. They may have the MRI in a third visit.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nKnown diagnosis of Sickle Cell Anemia (Hb SS or HbS-beta0-thal) \\>=18 years of age\n\nWillingness and capacity to provide written informed consent\n\nEXCLUSION CRITERIA:\n\nPregnancy\n\nUncontrolled/poorly controlled hypertension\n\nDiabetes\n\nDialysis\n\nGFR \\<30 ml/min/1.73m2\n\nHIV positive\n\nHepatitisC\n\nHepatitis B\n\nPrior transplantation\n\nUncontrolled infection or acute illness\n\nChronic inflammatory disease (e.g. lupus, multiple sclerosis, rheumatoid arthritis)\n\nAllergy to iodine or iodinated contrast solutions\n\nHydroxyurea initiation or dose adjustment \\<2mo prior\n\nInitiation of chronic transfusion therapy \\<2mo prior\n\nAntihypertensive medication initiation or dose adjustment \\<1mo prior\n\nPain crisis in preceding 4weeks",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study will be open to all eligible subjects based on inclusion and exclusion criteria and who provide informed consent. No patient will be excluded from participation based on gender, race, or ethnicity. Patients may self-refer, be recruited through the NIH office of recruitment, and may include patients participating on NIH Clinical Center Protocols, and NIH employees.",
+  "condition": [
+    "Sickle Cell Disease"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-interventional study in adults with sickle cell disease to assess methods for measuring kidney function. There is no cancer diagnosis or systemic therapy for advanced disease involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference cancer, advanced disease, or systemic therapy. This study is not oncology-related and does not specify any line-of-therapy intent."
+    }
+  ]
+}

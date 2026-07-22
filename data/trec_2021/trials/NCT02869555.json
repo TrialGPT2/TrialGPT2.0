@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02869555",
+  "title": "Institut Paoli Calmettes Multiple Myeloma Database",
+  "brief_summary": "Database of Institut Paoli-Calmettes patients diagnosed with multiple myeloma",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Multiple myeloma diagnosis\n\nExclusion Criteria:\n\n* Diagnosis before 1st january 2008",
+  "minimum_age": "18 Years",
+  "maximum_age": "95 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with a diagnosis of multiple myeloma",
+  "condition": [
+    "Multiple Myeloma"
+  ],
+  "overall_status": "RECRUITING"
+}

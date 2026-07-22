@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03676257",
+  "title": "Survival Endpoints in Women Treated for Metastatic Breast Cancer: Contribution of Real-life Databases",
+  "brief_summary": "Overall survival (OS) is considered the most reliable cancer endpoint and used by the Health Rregulatory authorities (HRA). OS presents multiple advantages in cancer randomized controlled trials (RCT): it is universally accepted as a measure of clinical benefit for the patient; it is objectively defined, both in terms of events and date of incidence; it is easily and precisely measured and thus reproducible; it can be exhaustively collected. As such, OS has been validated by HRAs. On the other hand, OS presents some limitations. Observing a benefit on OS may require a large number of patients and/or considerable time for patient follow-up. Costs for trials may be increased, and there might be delays in the introduction of possible beneficial treatments for patients. The development of alternative endpoints that could capture treatment benefit appropriately and be measurable earlier, is central for the evolution of clinical research in oncology.\n\nReal world data (RWD) are defined as other sources than clinical trials such as: electronic medical records, registries, insurance claims, pharmacy records, death certificates and other patient-generated data.\n\nThis research is aimed at (i) describing the existing endpoints of survival in real-life setting, (ii) comparing the correlation at individual level with data to clinical trials for related to anti-HER2 targeted therapies and endocrine therapies in MBC. We will investigate the individual correlation between candidate surrogate endpoints and overall survival in a population-based record-computerized database centralizing data on about 20,000 patients from 2008 to 2017 in France.\n\nThis work should lead to the estimation of various time-to event endpoints (e.g. OS, PFS, etc), in the real-life setting, for mBC patients. In addition, we will estimate their individual correlation with OS, which should help us highlight potential surrogate endpoints in this setting. We will focuss on three distinct population, accounting for a large population of mBS patients: : patients treated with anti-HER2 targeted agents, patients treated with endocrine therapies and elderly population.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "ELIGIBILITY\n\n* female patients older than 18 years\n* diagnosis of metastatic breast cancer (de novo disease or first metastatic recurrence) between January 1, 2008, and December 31, 2017\n* received a fist-line systemic treatment such as chemotherapy, endocrine therapy or targeted therapy, whatever the sequence (monotherapy or combination of therapies using distinct mechanisms of actions, i.e., polytherapy).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Data source : We extracted data from the ESME mBC database (NCT03275311) which gathers deidentified data from consecutive patients managed in 18 French Comprehensive Cancer Centers. Adult women diagnosed with mBC between 2008 and 2017 were included. The Epidemio-Strategy and Medical Economic (ESME) Research Program is a French academic initiative supporting the centralization of structured and non- structured data documented in the electronic health records (EHR) (clinical notes, pathology reports and radiology reports) of patients treated for malignant conditions in a unique secured web-based data platform available for researchers. The ESME mBC data platform is an EHR-derived database that gathers exhaustive data on consecutive patients who initiated a L1 treatment for mBC between 01 January 2008 and 31 December 2017 in one of 18 French Comprehensive Cancer Centers.",
+  "condition": [
+    "Metastatic Breast Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

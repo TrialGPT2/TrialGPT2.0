@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00081523",
+  "title": "Natural History of Sickle Cell Disease",
+  "brief_summary": "This study is not a treatment protocol and no experimental treatments are involved. Study participants may be seen as needed for clinical, translational and basic research studies, or as medically indicated. Subjects will receive their general medical care outside the NIH and will be seen at our clinic or at CNHS with varying frequency. Subjects may be seen for multiple visits. Subjects may be asked to return for additional testing as needed. Clinical care for patients with sickle cell disease will be provided as appropriate through the Sickle Cell Clinic and the inpatient clinical center....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Individuals with known or suspected sickle cell disease\n* 2 years of age and older\n* Willing to provide informed consent or appropriate informed consent from parent or legal guardian\n* Patients seen at sickle outpatient clinics at any one of the participating centers (CNHS or NIH).\n\nEXCLUSION CRITERIA:\n\n* Patient and/or guardian unable and unwilling to give informed consent or assent.\n* Patients less than 2 years of age.\n\nIndividuals with known or suspected sickle cell disease will meet the inclusion criteria to enroll in this protocol and can undergo study activities. However, if the individual is found not to have sickle cell disease after enrollment, they will be removed from the protocol, and their research samples will be discarded but they will be counted toward the study accrual. The study team will notify the individual about their removal from the study and explain the reason for it. Any necessary regulatory reporting will also be completed.",
+  "minimum_age": "2 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study will be open to all eligible subjects based on inclusion and exclusion criteria and who provide informed consent. Patients may self-refer, be recruited through the NIH office of recruitment, and may include patients participating on other NIH IRB approved protocols. The study will also be open to all eligible pediatric patients receiving medical care for SCD at Children s National.",
+  "condition": [
+    "Pain Crisis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational study enrolling individuals with known or suspected sickle cell disease, regardless of prior treatment history. There are no requirements or restrictions regarding prior lines of systemic therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study does not specify any requirements or exclusions based on prior lines of systemic therapy for advanced disease. All individuals with known or suspected sickle cell disease are eligible, regardless of treatment history."
+    }
+  ]
+}

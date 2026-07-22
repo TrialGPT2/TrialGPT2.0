@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00188032",
+  "title": "Strategies for Suspected Pulmonary Embolism in Emergency Departments",
+  "brief_summary": "Aims: 1) To evaluate the effectiveness of two interventions aimed at improving the management of patients with suspected pulmonary embolism: Written guidelines and Computer-Assisted Decision Support (CADS). 2) To evaluate the impact of electronic reminders on the appropriateness of the treatment of patients with suspected PE\n\nDesign: Pragmatic, unblinded, cluster randomised controlled study.\n\nSetting: 20 French Emergency Departments\n\nPatients: Out patients suspected of having pulmonary embolism\n\nMethods: Emergency physicians will prospectively complete a standardized electronic form on Personal Data Assistant (PDA), including patients' characteristics, the clinical probability if assessed, the diagnostic tests performed, the treatments initiated and the final diagnostic and therapeutic decisions. Patients will be interviewed at the end of a 3-month follow-up period using a standardized questionnaire.\n\nThe reference rate of appropriateness of the diagnostic management before intervention will be assessed in each centre. At the end of this preliminary period, the centres will be randomized in two fold two groups according to a factorial design with stratification on their reference level of appropriateness. Half of the centres will have written guidelines and half a Computer-Assisted Decision Support for the diagnosis of PE on the PDA. In each of these two main groups, half of the centres will have electronic reminders on their PDA concerning the treatment of PE.\n\nJudgment criteria\n\nMain : Rate of strategies considered as validated according to the results of the systematic review and meta-analysis.3\n\nSecondary judgment criteria (diagnosis):\n\n* Rate of strategies considered as validated or acceptable according to the opinion of international advisors.\n* Rate of thromboembolic-events during a 3-month follow-up period in patients for whom pulmonary embolism will be ruled out\n* Costs of the diagnostic management\n\nSecondary judgment criteria (treatment):\n\n* Delay between Emergency Department admission and the first dose of antithrombotic treatment in patients with high clinical probability of PE according to the Revised Geneva Score\n* Rate of inappropriate treatment according to international recommendations for patients with confirmed PE.\n\nNumber of patients: By estimating that the rate of appropriateness would be 55% in the \"written guidelines\" group, 1331 patients are necessary to highlight an absolute superiority of 15% in the \"CADS\" group (rate of conformity of 70%).\n\nThe number of patients will be adjusted at the end of the preliminary period according to the level of appropriateness before interventions considering that it will improve less than 5% in the \"written guidelines\" group.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* patient with suspected pulmonary embolism\n* prescription of a specific paraclinical diagnostic investigation or start of a specific treatment for pulmonary embolism\n\nExclusion Criteria:\n\n* confirmation or exclusion of pulmonary embolism before admission in emergency department\n* confirmation of deep venous thrombosis before admission in emergency department\n* suspicion of pulmonary embolism during hospitalization (in-patient)\n* suspicion of pulmonary embolism without investigation realization\n* patient already included in the study\n* patient refusing the utilization of his data for the study",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Quality of Health Care",
+    "Pulmonary Embolism"
+  ],
+  "overall_status": "COMPLETED"
+}

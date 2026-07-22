@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00103285",
+  "title": "Combination Chemotherapy in Treating Young Patients With Newly Diagnosed Acute Lymphoblastic Leukemia",
+  "brief_summary": "This randomized phase III trial is studying different combination chemotherapy regimens and comparing how well they work in treating patients with newly diagnosed acute lymphoblastic leukemia. Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more cancer cells.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients must be enrolled on AALL03B1 prior to enrollment on AALL0331\n* Initial white blood cells (WBC) \\< 50,000/ul\n* Newly diagnosed B-precursor acute lymphoblastic leukemia\n\n  * Standard-risk (SR) disease meeting 1 of the following criteria:\n  * SR-average by age and WBC\n  * No unfavorable features\n  * Rapid early responder (RER) by day 15\n  * CNS 1 or 2\n  * Minimal residual disease (MRD) negative on day 29\n  * Trisomies of 4, 10, and 17 or TEL-AML1 translocation and RER and CNS2 allowed\n  * SR-low by age and WBC\n  * No unfavorable features\n  * RER by day 15\n  * MRD negative on day 29\n  * CNS1\n  * Favorable cytogenetics-trisomies of 4, 10, and 17 or TEL-AML translocation\n  * SR-high\n  * Unfavorable features meeting \u2265 1 of the following criteria:\n\n    * MLL rearrangements and RER\n    * Steroid pretreatment\n    * CNS3\n    * Slow early responder by morphology or MRD\n* Patients with Down syndrome are allowed\n* Patients with overt testicular disease are not eligible for this study, but may be eligible for AALL0232\n* Patients shall have had no prior cytotoxic chemotherapy with the exception of steroids and intrathecal cytarabine; intrathecal chemotherapy with cytarabine is allowed prior to registration for patient convenience; this is usually done at the time of the diagnostic bone marrow or venous line placement to avoid a second lumbar puncture; (Note: the central nervous system \\[CNS\\] status must be determined based on a sample obtained prior to administration of any systemic or intrathecal chemotherapy, except for steroid pretreatment\n* Patients receiving prior steroid therapy may be eligible for AALL0331 study\n* Patients with a contraindication to additional asparaginase therapy, following Induction, are not eligible for the Standard Risk-Low study, and should be removed from protocol therapy at the end of Induction\n* Patients who are assigned to the standard risk-average group following Induction and who meet the HRQOL\n* Age at diagnosis \\>= 2 years (note that this is a more restrictive age range than for the therapeutic component of the study)\n* At least one parent with reading comprehension of English or Spanish languages for which validated surveys exist\n* Diagnosis at one of the institutions participating in this limited institution correlative study\n* A parent or legal guardian must sign a written informed consent/parental permission for all patients\n* All institutional, Food and Drug Administration (FDA), and National Cancer Institute (NCI) requirements for human studies must be met",
+  "minimum_age": "1 Year",
+  "maximum_age": "9 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Lymphoblastic Leukemia",
+    "Childhood B Acute Lymphoblastic Leukemia"
+  ],
+  "overall_status": "COMPLETED"
+}

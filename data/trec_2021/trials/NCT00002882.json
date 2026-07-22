@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00002882",
+  "title": "Interferon Alfa With or Without Combination Chemotherapy Plus Interleukin-2 in Treating Patients With Melanoma",
+  "brief_summary": "RATIONALE: Interferon alfa may interfere with the growth of cancer cells. Interleukin-2 may stimulate a person's white blood cells to kill melanoma cells. It is not yet known whether interferon alfa plus combination chemotherapy and interleukin-2 is more effective than interferon alfa alone in treating patients with melanoma.\n\nPURPOSE: Randomized phase III trial to compare the effectiveness of interferon alfa with or without combination chemotherapy plus interleukin-2 in treating patients with melanoma.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically diagnosed malignant melanoma with regional lymph node metastases\n* Undergone complete lymph node dissection and free of any residual tumor\n* No greater than 90 days from diagnosis of regional lymph nodes metastases\n* No distant or resected in-transit metastases\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 10 to 66\n* 66 to 70 if in excellent physical condition\n\nPerformance status:\n\n* 0-2\n\nLife expectancy:\n\n* At least 12 months\n\nHematopoietic:\n\n* Hemoglobin greater than 10 g/dL\n* WBC greater than 3,000/mm\\^3\n* Platelet count greater than 100,000/mm\\^3\n\nHepatic:\n\n* Bilirubin no greater than 1.2 mg/dL\n\nRenal:\n\n* Creatinine no greater than 1.5 mg/dL\n\nOther:\n\n* No serious intercurrent illness that would compromise tolerance of therapy and long term survival\n* Must be able to participate in follow up for minimum of 5 years\n* No second malignancy except:\n\n  * In situ cervical cancer\n  * Basal or squamous skin cancer\n* Must be able to physically and emotionally tolerate biochemotherapy\n* No history of pulmonary or cardiac dysfunction, e.g., cardiac rhythm disturbance, congestive heart failure, coronary bypass, or impaired cardiac ejection fraction\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No prior immunotherapy with interferon or IL-2\n* No concurrent immunomodulators\n\nChemotherapy:\n\n* No prior chemotherapy\n\nEndocrine therapy:\n\n* No concurrent steroids\n\nRadiotherapy:\n\n* Prior adjuvant local radiotherapy allowed for head and neck\n\nSurgery:\n\n* No greater than 8 weeks after definitive surgery for lymph node metastases\n\nOther:\n\n* No concurrent nonsteroid anti-inflammatory drugs, or other prostaglandin synthetase inhibitors",
+  "minimum_age": "10 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Melanoma",
+    "Skin Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

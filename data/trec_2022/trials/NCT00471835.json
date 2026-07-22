@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00471835",
+  "title": "Stereotactic Body Radiation Therapy in Treating Patients With Stage I or Stage II Non-Small Cell Lung Cancer",
+  "brief_summary": "RATIONALE: Stereotactic body radiation therapy may be able to send x-rays directly to the tumor and cause less damage to normal tissue.\n\nPURPOSE: This phase I/II trial is studying the side effects and best dose of stereotactic body radiation therapy and to see how well it works in treating patients with stage I or stage II non-small cell lung cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed stage I or II non-small cell lung cancer meeting the following criteria:\n\n  * No bronchoalveolar cell carcinoma\n  * Maximum T2 or T3 tumor size \u2264 5 cm\n\n    * T3 primary tumor must be limited to chest wall\n  * Primary tumor of any T stage must be within or touching the zone of the trachea or proximal bronchial tree, defined as a volume of 2 cm in all directions around the trachea and proximal bronchial tree (carina, right and left main bronchi, right and left upper lobe bronchi, intermedius bronchi, right middle lobe bronchus, right and left lower lobe bronchi)\n\n    * For lesions inferior to the proximal bronchial tree, the primary tumor must be within 2 cm of the esophagus\n  * Patients with N1 (hilar) lymph nodes positive for malignancy based on size, fludeoxyglucose F 18 (FDG)-PET scan uptake, or biopsy are eligible if the N1 lymph nodes are located such that they are contiguously within the same stereotactic radiation treatment field as the primary tumor\n  * Mediastinal lymph nodes must be \u2264 1 cm and no abnormal uptake on FDG-PET scan in those areas\n\n    * Patients with \\> 1 cm lymph nodes or abnormal FDG-PET scan (including suspicious but non-diagnostic uptake) are eligible if directed tissue biopsy of all abnormally identified areas are negative for cancer\n* No evidence of distant metastases\n\n  * Suspected M1 disease based on pre-treatment PET imaging must be biopsied\n\n    * If the biopsy is positive, the patient is ineligible\n    * If the biopsy is negative and representative of the lesion in question, the patient is eligible\n    * If the biopsy is non-diagnostic, consideration should be given to repeat biopsy\n\n      * If the repeat biopsy remains non-diagnostic or a biopsy is not feasible, then the patient is ineligible\n* Technically resectable disease\n\n  * Surgery refused or patient deemed medically inoperable due to co-morbid conditions\n\nPATIENT CHARACTERISTICS:\n\n* Zubrod performance status 0-2\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No synchronous primary or invasive malignancy within the past 2 years other than non-melanomatous skin cancer\n* No active systemic, pulmonary, or pericardial infection\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior chest radiotherapy (lung or mediastinum)\n* No other concurrent anticancer therapy, including other radiotherapy, radiofrequency ablation (or other antineoplastic interventional radiology techniques), chemotherapy, biological therapy, vaccine therapy, or surgery",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lung Cancer"
+  ],
+  "overall_status": "WITHDRAWN"
+}

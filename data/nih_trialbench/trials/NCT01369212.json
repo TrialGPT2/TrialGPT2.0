@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT01369212",
+  "title": "Combination Therapy of Pegylated Interferon Alfa-2a and Tenofovir Versus Tenofovir Monotherapy in Chronic Hepatitis B",
+  "brief_summary": "This clinical trial compares the efficacy of peginterferon plus tenofovir for 24 weeks followed by monotherapy with tenofovir for a further 3.5 years to the efficacy of tenofovir alone given for 4 years in patients with chronic hepatitis B. The primary measure of outcome will be HBsAg loss in serum at 48 weeks after stopping all antiviral therapy (sustained off-treatment response).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion criteria:\n\n* Participant is enrolled in the HBRN Cohort Study (NCT01263587) or completed the necessary components of the cohort baseline evaluation by the end of the baseline visit for this study\n* 18 years or older\n* Chronic hepatitis B infection as evidenced by at least one of the following:\n\n  1. HBsAg positive result within 8 weeks prior to randomization and another time at least 24 weeks prior to randomization with no HBsAg negative result in between.\n  2. HBsAg positive within 8 weeks prior to randomization and HBV DNA ≥1000 IU/mL on 2 occasions at least 24 weeks apart (can include result from screening visit within 8 weeks of randomization)\n* Hepatitis B e antigen positive or negative\n* Serum HBV DNA ≥1000 IU/mL on 2 occasions at least 4 weeks apart within the 32 weeks prior to randomization (can include result from screening visit within 8 weeks of randomization)\n* At least 2 elevated serum alanine aminotransferase (ALT) levels (\\> 30 U/L for males, \\>20 U/L for females) 4 weeks apart, and no more than 32 weeks apart, with the second being within 8 weeks of randomization\n* Compensated liver disease\n* No evidence of hepatocellular carcinoma (HCC)\n* Liver biopsy done that shows findings consistent with chronic hepatitis B with histology activity index (HAI) ≥3 (necroinflammatory component only) or Ishak fibrosis score ≥1 or both, as assessed by the local study pathologist on review of a liver biopsy done within 144 weeks of randomization\n* Females of child bearing potential must agree to use an adequate method of contraception throughout the study and must have a negative pregnancy test immediately prior to the start of treatment\n\nExclusion criteria:\n\n* Serum ALT ≥450 U/L for males and ≥300 U/L for females\n* Treatment with interferon or nucleos(t)ide analogues for hepatitis B within 48 weeks of randomization\n* More than 48 weeks of therapy with nucleos(t)ide analogues for hepatitis B at any time in the past\n* History of hepatic decompensation including but not limited to ascites, variceal bleeding, or hepatic encephalopathy\n* Known allergy or intolerance to any of the study medications\n* Females who are pregnant or breastfeeding\n* Previous organ transplantation including engrafted bone marrow transplant\n* Any other concomitant liver disease, including hemochromatosis, hepatitis C or D; Participants with severe steatohepatitis will be excluded (participants with non-alcoholic fatty liver disease \\[NAFLD\\] with steatosis only and/or mild to moderate steatohepatitis are acceptable)\n* Positive anti-HIV\n* Renal insufficiency with calculated (by Modification of Diet in Renal Disease (MDRD) method) creatinine clearance \\<60 mL/min within 8 weeks prior to randomization\n* Platelet count \\<90,000 /mm3, hemoglobin \\<13 g/dL (males) or \\<12 g/dL (females), absolute neutrophil count \\<1500 /mm\\^3 (\\<1000/mm\\^3 for African-Americans) within 8 weeks prior to randomization\n* History of active alcohol or drug abuse within 48 weeks of screening.\n* Pre-existing psychiatric condition(s), including but not limited to: Current moderate or severe depression as determined by the study physician, history of depression requiring hospitalization within past 10 years, history of suicidal or homicidal attempt within the past 10 years, or history of severe psychiatric disorders including but not limited to schizophrenia, psychosis, bipolar disorder\n* History of immune-mediated disease, or cerebrovascular, chronic pulmonary or cardiac disease associated with functional limitation, retinopathy, uncontrolled thyroid disease, poorly controlled diabetes or uncontrolled seizure disorder\n* Any medical condition that would be predicted to be exacerbated by therapy or that would limit study participation\n* Any medical condition requiring or likely to require chronic systemic administration of corticosteroids or other immunosuppressive medications during the course of this study\n* Evidence of active or suspected malignancy, or a history of malignancy within the last 144 weeks (except adequately treated carcinoma in situ or basal cell carcinoma of the skin)\n* Need for ongoing use of any antivirals with activity against HBV during the course of the study\n* Any other condition that in the opinion of the investigator would make the participant unsuitable for enrollment or could interfere with the participant participating in and completing the study.\n* Participation in any other clinical trial involving investigational drugs within 30 days of randomization or intention to participate in another clinical trial during this study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hepatitis B"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with chronic hepatitis B who are either treatment-naïve or have had limited prior therapy, specifically excluding those with recent or prolonged prior antiviral treatment. The intent is to study first-line therapy for chronic hepatitis B in a largely untreated population.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Patients must not have received interferon or nucleos(t)ide analogues for hepatitis B within 48 weeks of randomization and must not have had more than 48 weeks of prior nucleos(t)ide analogue therapy at any time. This effectively restricts enrollment to treatment-naïve or minimally treated patients, consistent with first-line (1L) therapy for chronic hepatitis B."
+    }
+  ]
+}

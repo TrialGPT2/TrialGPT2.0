@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04194073",
+  "title": "NightOwl SpO2 Calibration Study",
+  "brief_summary": "Calibration of a software module that computes Oxygen saturation(SpO2) based on photoplethysmography (PPG) traces acquired by the NightOwl reflectance-based PPG sensor which is placed on the finger.\n\nThe study is designed in accordance with Medical electrical equipment - Part 2-61: Particular requirements for basic safety and essential performance of pulse oximeter equipment (ISO 80601- 2-61:2011)",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Healthy subjects with American Society of Anaesthesiologists health score (ASA) of 1 or 2, upon signing of informed consent.\n* 15% of the study population or 2 subjects (whichever is larger) with dark pigmented skin should be included in the study\n\nExclusion Criteria:\n\n* smokers or individuals exposed to high levels of carbon monoxide that result in elevated carboxyhemoglobin levels.\n* individuals subject to conditions that result in elevated levels of methaemoglobin.\n\nindividuals with arterial cannulation or hypoxia at FiO2 = 0,21",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pulse Oximeter Calibration"
+  ],
+  "overall_status": "UNKNOWN"
+}

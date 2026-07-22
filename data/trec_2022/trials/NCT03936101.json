@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03936101",
+  "title": "Prenatal Genetic Diagnosis by Genomic Sequencing",
+  "brief_summary": "This study is evaluating the impact of prenatal sequencing on the management of fetuses with ultrasound abnormalities. The hypothesis is that a significant subset of fetal abnormalities have a genetic cause that can be identified by sequencing and that prenatal knowledge of this information will improve prenatal care, reduce unnecessary diagnostic testing, reduce the cost of care, and improve the quality of life for both the child and the family.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nPrenatal sequencing group\n\n1. Fetus identified by ultrasound and/or MRI with at least one of the following:\n\n   1. One or more major structural anomalies (Appendix A)\n   2. A nuchal translucency measurement of \u2265 3.5 mm\n   3. A fetus less than 24 weeks 0 days gestation with normal anatomy and sonographically estimated fetal weight \\<5th %ile without maternal hypertension, type I diabetes, or other maternal disorders known to alter fetal growth.\n2. Negative prenatal CMA (or those with CMA findings not related to the ultrasound finding)\n3. Singleton or twin gestation\n4. Gestational age less than 36 weeks, 0 days to allow for availability of sequencing results before delivery\n\nUnsequenced Group\n\n1. Fetus identified by ultrasound and/or MRI with at least one of the following:\n\n   1. One or more major structural anomalies (Appendix A)\n   2. A nuchal translucency measurement of \u2265 3.5 mm\n   3. A fetus less than 24 weeks 0 days gestation with normal anatomy and sonographically estimated fetal weight \\<5th %ile without maternal hypertension, type I diabetes, or other maternal disorders known to alter fetal growth\n2. Negative prenatal or postnatal CMA (or those with CMA findings not related to the ultrasound finding)\n3. Declined prenatal sequencing\n4. Singleton gestation\n\nExclusion Criteria:\n\nPrenatal Sequencing Group\n\n1. Prenatal sequencing or planned prenatal sequencing performed outside of the study, including gene panels\n2. Maternal or paternal age less than 18 years old\n3. Proven infectious or teratogenic cause of fetal anomaly\n4. Planned termination of the pregnancy\n5. Unavailable blood or saliva samples from both biologic parents prior to sequencing\n6. Parental unwillingness to participate in 1 year postnatal follow-up\n7. Language barrier (non-English or Spanish speaking)\n8. Previous consent to the unsequenced prenatal group or enrollment in a previous pregnancy\n\nUnsequenced Group\n\n1. Maternal or paternal age less than 18 years old\n2. Proven infectious or teratogenic cause of fetal anomaly\n3. Positive prenatal NIPT screening for trisomy 21,18 or 13. Positive 22q11.2 prenatal NIPT testing with consistent ultrasound findings is also an exclusion.\n4. Planned termination of the pregnancy\n5. Parental unwillingness to participate in 1 year postnatal follow-up\n6. Language barrier (non-English or Spanish speaking)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "A total of 1,100 pregnancies with fetal structural anomalies and meeting eligibility criteria will be enrolled into the study. Of these, 750 will undergo prenatal genomic sequencing (prenatal sequencing group) and the remaining 350 pregnancies will not have any prenatal genomic sequencing (unsequenced prenatal group).\n\nEnrollment of pregnancies with an isolated nuchal translucency measurements \u2265 3.5 mm will be restricted to 5% within each group (sequenced and unsequenced) and isolated estimated fetal weight \\<5th %ile also will be restricted to 5% for each group (sequenced and unsequenced).",
+  "condition": [
+    "Fetal Structural Anomalies"
+  ],
+  "overall_status": "COMPLETED"
+}

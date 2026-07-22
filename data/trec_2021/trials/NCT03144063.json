@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03144063",
+  "title": "Improving the Assessment of SLE Disease Activity",
+  "brief_summary": "Physicians' assessment of disease activity in SLE is fundamental but challenging. The Systemic Lupus Erythematosus Disease Activity Index (SLEDAI-2K) is one of the most commonly used disease activity indices. Clinical trials experience suggested that the disease activity instruments did not function well on their own, and composite measures were developed to address this issue. This approach has been adopted after learning from clinical trials that the absence of a robust sensitive index is a major flaw when designing a trial. Another issue with clinical trials is the confounding effect of corticosteroids, which to date have been the most effective treatment for the management of lupus. However, unregulated use of corticosteroids in drug trials decrease the investigator's ability to differentiate between the tested drugs and placebo as they appear to enhance response among the placebo arm and thus mask the effect of the tested drug.\n\nIn this study, the aim is to develop and validate a new index, SLEDAI-2K Glucocorticosteroid Index (SLEDAI-2KG). It is very challenging to evaluate improvement in drug trials in the context of the standard of care treatment which includes corticosteroids. This novel index, SLEDAI-2KG, will help to overcome the confounding effect of corticosteroids and to allow for more accurate description of disease improvement and thus facilitate accurate investigations of new therapeutic agents.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nObjective I:\n\n* \u22654 American College of Rheumatology (ACR) criteria or 3 ACR criteria plus a typical histological lesion of SLE on renal or skin biopsy\n* Clinician's diagnosis based on his/her assessment\n* Patients from the Toronto Lupus Clinic with regular follow-up, defined as having follow up visits at 3 and 6 months from the baseline visit (1st study visit).\n\nObjective II:\n\n\u2022 Participant in the BLISS-52 and BLISS-76 trials\n\nObjective III:\n\n* \u22654 American College of Rheumatology (ACR) criteria or 3 ACR criteria plus a typical histological lesion of SLE on renal or skin biopsy\n* Increase in SLEDAI-2K \u22654\n* Clinician's diagnosis based on his/her assessment\n\nExclusion Criteria:\n\nObjective I and III:\n\n* Patients with missing follow up visits at 3 and 6 months from the baseline visit (1st study visit).\n* Patients with missing data in the charts for all visits.\n\nObjective II:\n\n\u2022 Participants who did not complete the trial and therefore have missing data points for primary endpoint measures",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Objective I Initial Development and Validation of SLEDAI-2KG This is a retrospective validation study of SLEDAI-2KG using the University of Toronto Lupus Clinic (TLC) database. Clinical and laboratory data is collected according to a standard protocol at regular intervals (2 to 6 months between visits) and stored on a computer database.\n\nObjective II Further retrospective validation of SLEDAI-2KG using BLISS trial data.\n\nAll patients in GSK BLISS-52 (N=865) and BLISS-76 (N=819) were assessed at regular intervals and data including clinical and laboratory features of SLE, medications and in particular corticosteroids was collected and will be used in the validation of SLEDAI-2KG.\n\nObjective III Assessment of concurrent construct validity of SLEDAI-2KG prospectively in the TLC Cohort Patients from the TLC with active disease with a flare (increase in SLEDAI-2K by at least 4) that requires an increase in the dose of prednisone to \u226515 mg/day or initiation of prednisone at \u226515 mg/day.",
+  "condition": [
+    "Lupus Erythematosus, Systemic",
+    "SLE"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT02053623",
+  "title": "Evaluation of a Non-Invasive Electrocardiogram-Assisted Blood Pressure Monitor",
+  "brief_summary": "Approximately one billion people suffer from hypertension worldwide. At least 10% of this population, that is, 100 million people, also suffers from associated chronic conditions namely, atrial fibrillation (AF), obesity, arterial stiffness (AS), and heart failure (HF). Personal interaction with medical practitioners (doctors) and review of published clinical research confirms that current non-invasive automatic blood pressure (BP) monitors that rely on BP pulse analysis alone cannot provide accurate measurement due to the unpredictable/weak nature of BP pulses in the above-mentioned chronic conditions. Lack of accuracy in BP estimation can lead to wrong diagnoses and hence to complications such as stokes and heart attacks.\n\nThe Sponsor is developing a novel non-invasive BP monitor that is similar to existing automatic monitors yet is capable of acquiring and analyzing electrocardiogram (ECG) data in conjunction with BP pulse data to provide better and more accurate measurements in the above chronic conditions.\n\nThe objective of this clinical trial is to evaluate the performance of this ECG-assisted BP monitor against invasive BP measurements in a small group of patients who suffer from the above conditions.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion:\n\n1. Patients undergoing an angiography in the catheterization lab who also suffer from at least one of the following chronic conditions:\n\n   * Established diagnosis of AF.\n   * Obesity characterized by a BMI \\> 40 (extremely high, Class III).\n   * Established diagnosis of AS.\n   * Established diagnosis of HF.\n2. Age \u2265 18 years.\n\nExclusion:\n\n1. Patients unwilling or unable to comply with study requirements.\n2. Failure to sign the informed consent form.\n3. Age \\< 18 years.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "We will recruit a minimum of 20 qualified adult patients who come to the catheterization lab at the University of Ottawa Heart Institute for an angiography. The patients will have at least one of the following chronic conditions: atrial fibrillation, obesity, atherosclerosis, and heart failure.",
+  "condition": [
+    "Hypertension",
+    "Atrial Fibrillation",
+    "Obesity",
+    "Heart Failure",
+    "Atherosclerosis"
+  ],
+  "overall_status": "TERMINATED"
+}

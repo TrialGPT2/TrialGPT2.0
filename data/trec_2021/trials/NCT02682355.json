@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT02682355",
+  "title": "Optimizing Clinical Use of Polymyxin B",
+  "brief_summary": "Polymyxin B is already being used extensively in the USA and other parts of the world; its use is likely to rapidly increase due to the greater burden of infections caused by MDR Gram-negative bacteria and the growing awareness of the limitations inherent in the clinical pharmacology of CMS/colistin. Cross resistance exists between the two polymyxins and thus both must be dosed optimally; but the recently generated scientifically-based dosage regimens for CMS/colistin cannot be extrapolated to polymyxin B. It is essential that an adequately powered study is conducted to define the clinical PK/PD/TD relationships of polymyxin B and identify, using next-generation proteomics, biomarkers for early detection of kidney injury. This will allow the development of scientifically-based dosage regimens for various categories of patients and an adaptive feedback control clinical tool for optimized dosing of polymyxin B in future individual patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Patient of 18 years of age or older\n2. Expectation of hospitalization and receipt of polymyxin B of \u2265 48 hours\n3. Receipt of intravenous polymyxin B for treatment of bacteremia and/or urinary tract infection and/or respiratory tract infection (including tracheobronchitis) or sepsis\n4. Provision of written informed consent by the patient or by the patient's health care proxy if the patient cannot give consent\n5. Adequate venous access to enable collection of blood for determination of concentrations of polymyxin B and co-administered antibiotics\n\nExclusion Criteria:\n\n1. Age \\<18 years\n2. Currently incarcerated\n3. Concomitant use of polymyxin B delivered directly into the respiratory tract\n4. Cystic fibrosis\n5. Known allergy to CMS/colistin or polymyxin B\n6. Anticipated death within 48 h of commencing polymyxin B therapy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The human subjects involved in this study will be receiving intravenous polymyxin B as part of their routine clinical care because of infection due to bacteria resistant to all other first-line antibiotics.",
+  "condition": [
+    "Pneumonia",
+    "Blood Stream Infection",
+    "Urinary Tract Infections",
+    "Respiratory Tract Infection (Including Tracheobronchitis)",
+    "Sepsis"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT01087281",
+  "title": "Top-Down Attentional Control of Visual-Processing",
+  "brief_summary": "Background:\n\n\\- Previous studies have shown that people with certain types of brain damage may have particular problems paying attention and processing things that they see. Researchers are interested in comparing how people with brain damage and without brain damage process visual images.\n\nObjectives:\n\n\\- To better understand the areas of the brain involved in paying attention to things that are seen.\n\nEligibility:\n\n\\- Individuals at least 18 years of age who either have had damage to one or both sides of specific parts of the brain (e.g., stroke, injury, certain neurosurgery procedures) or are healthy volunteers.\n\nDesign:\n\n* The study involves 4 to 10 visits to the NIH Clinical Center over 1 to 2 years. Each visit will last approximately 2 hours.\n* Participants will be screened with a medical history and physical examination, and may have the cognitive testing described below during the same visit.\n* On the first visit and for at least one visit thereafter, participants will have cognitive testing to evaluate thinking and memory. These tests will be either written tests or computer-based tests.\n* Some participants will qualify for functional magnetic resonance imaging (fMRI) as part of the study. This part will involve a decision-making task that will be performed on a computer during the fMRI scan. Additional scans may be required as directed by the study doctors.\n* Some randomly selected participants will be asked to have magnetoencephalography (MEG), a procedure to record very small magnetic field changes produced by brain activity.\n* During the behavioral training, or fMRI or MEG scanning, participants may be monitored with equipment to track eye movements.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAll Subjects\n\n1. All subjects will be 18 years of age or older and have at least a high school education.\n2. Capacity to provide their own informed consent, understand and cooperate with study procedures.\n3. Able to read and write in English to guarantee understanding of all written and spoken instructions, which are in English.\n\nPatients:\n\n1. Unilateral or bilateral focal lesions of prefrontal, parietal, occipital or temporal cortex, or amygdala.\n2. At least three months post-stroke, lobectomy and or neurosurgical resection.\n\nHealthy volunteers:\n\n1\\. Neurologically normal and in good general health.\n\nEXCLUSION CRITERIA\n\nPatients:\n\n1. Any neurological or psychiatric disorder not related to the focal lesion (e.g., epilepsy, schizophrenia, etc.). Epilepsy patients who have undergone surgery and as a result are seizure free may be recruited.\n2. Previous head injury.\n3. Present or past (within past 6 months) drug or alcohol abuse or addiction as determined by a qualified study neurologist/psychiatrist.\n4. Radiation treatment to the brain during a three-month period prior to the experiment.\n\nHealthy volunteers:\n\n1. Any neurological or psychiatric disorder (e.g., epilepsy, schizophrenia, etc.)\n2. Previous head injury.\n3. Present or past (within past 6 months) drug or alcohol abuse or addiction based on DSM-5 criteria as determined during History and Physical exam.\n\nADDITIONAL EXCLUSION CRITERIA FOR MRI SCAN:\n\nPatients and Healthy volunteers:\n\n1. Women who are pregnant and women of child-bearing potential who refuse to undergo a urine pregnancy test will be excluded from fMRI experiments.\n2. Subjects who have contraindications to MRI scanning will be excluded from fMRI experiments but included in cognitive experiments. These contraindications include:\n\n   1. central nervous system aneurysm clips;\n   2. implanted neural stimulator;\n   3. implanted cardiac pacemaker or defibrillator;\n   4. cochlear implant;\n   5. ocular foreign body (e.g., metal shavings);\n   6. insulin pump;\n   7. metal shrapnel or bullet;\n   8. any implanted device that is incompatible with MRI.\n3. Conditions that preclude scanning, e.g., morbid obesity, claustrophobia.\n\nADDITIONAL EXCLUSION CRITERIA FOR TASKS INVOLVING COLOR DISCRIMINATION:\n\nPatients and Healthy volunteers:\n\nSubjects who are determined during screening or history and physical exam to be color-blind will be excluded from participating in certain tasks that involve color discrimination.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy volunteers 18 years of age or older who are neurologically normal and in good general health. Patients 18 years of age or older with unilateral or bilateral focal lesions of prefrontal, parietal, occipital or temporal cortex, or amygdala.",
+  "condition": [
+    "Focal Brain Lesion",
+    "Focal Lesions",
+    "fMRI"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology, non-interventional study investigating attentional control in patients with focal brain lesions and healthy volunteers. There is no systemic therapy for advanced disease involved, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced disease. Eligibility is based on neurological status (focal brain lesions or healthy volunteers), not prior lines of therapy."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT03557840",
+  "title": "Plasma Protein Binding and PK/PD of Total and Unbound Temocillin Non-ICU Patients",
+  "brief_summary": "Multidrug resistance towards Gram-negative pathogens makes essential the re-examination of older compounds. Temocillin is a penicillin originally marketed in the 1980s but then largely abandoned. It, however, shows a marked \u00df-lactamase stability (including most classical and extended-spectrum TEM, SHV, CTX-M enzymes and AmpC \u00df-lactamase). Temocillin is approved for the treatment of bacterial infections of the chest, the lungs, the kidney, the bladder, as well as bacterial infections of the bloodstream and wound infections.\n\nTemocillin efficacy depends primarily from the time interval during which the unbound plasma concentration remains above the minimal inhibitory concentration (MIC) of the antibiotic against the target organism(s). Unfortunately, no comprehensive pharmacokinetic data are available in non-critically-ill patients.\n\nThe primary objective of the study is characterize the pharmacokinetics of total and unbound temocillin in non-ICU patients, and, on this basis, to propose optimized dosage regimens in this population. The secondary objectives are (i) to look for possible correlations between the plasma protein profile and the unbound temocillin concentrations; (ii) to investigate the impact of the level and nature of circulating plasma proteins on the unbound temocillin concentration.\n\nThe study will be non-randomized, uncontrolled, prospective, open label, interventional, and monocentric. It will include a population pharmacokinetic-pharmacodynamic analysis of the data obtained. The study will enroll patients \u2265 18 years in need of a treatment with temocillin for (i) complicated urinary tract infection and pyelonephritis (associated or not with bacteremia), or (ii) lower respiratory tract infection, or (iii) abdominal infection, and requiring \u2265 4 days of hospitalization. Blood samples will be obtained at day 0 (control) and after 2 and 4 days of drug treatment (full pharmacokinetic evaluation over 8 to 12 h post-administration). Total and unbound temocillin concentrations in plasma will be quantified by a validated analytical method.\n\nA population pharmacokinetic/pharmacodynamics model of plasma total and unbound concentrations of temocillin will be obtained by Bayesian algorithms using Pmetrics software, driven by the predicted plasma total and unbound concentration. The model will be used to assess the probability of target attainment of temocillin.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n* \u2265 18 years old\n* prescribed temocillin for a complicated urinary tract infection and pyelonephritis associated or not with bacteraemia; or a l ower respiratory tract infection; or an abdominal infection\n* requiring \u2265 4 days hospitalization\n* having signed and informed consent (or signed by the legal representative)\n\nExclusion Criteria:\n\n* Patients \\< 18 years old\n* Patients allergic to \u03b2-lactams\n* Patients Ig-E mediated allergy to penicillin\n* Patients with acute or chronic renal failure (GFR \\< 30ml/min)\n* Patients having participated in another study \\< 30 days before inclusion in the present study",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pharmacokinetics",
+    "Antibacterial Agents",
+    "Infections, Bacterial",
+    "Infection",
+    "Drug Monitoring",
+    "Temocillin"
+  ],
+  "overall_status": "UNKNOWN"
+}

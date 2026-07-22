@@ -1,0 +1,42 @@
+{
+  "nctid": "NCT02692885",
+  "title": "Molecular, Cellular, and Genetic Characterization of Human Adipose Tissue and Its Role in Metabolism",
+  "brief_summary": "Background:\n\nThe body uses energy from calories for basic functions like breathing and digesting food. Over time, when a person eats more calories than they burn, they may become overweight or obese. Obesity is a major health concern. Researchers want to look at fat and muscle tissue to learn more about metabolism. That is how the body uses food and other nutrients for normal function and energy. This research may help to develop new treatments for obesity and related diseases.\n\nObjective:\n\nTo learn more about the role of fat and muscle in metabolism, particularly how fat and muscle store and use energy.\n\nEligibility:\n\nAdults 18 years and older who have a planned surgery at NIH in which tissue can be collected by the surgeon.\n\nDesign:\n\nParticipants will be screened by their regular NIH doctor. Then researchers will contact them about this study.\n\nParticipants will not have to make extra visits to NIH for this study.\n\nResearchers will collect samples during the participant s surgery. These will be fat tissue and skeletal muscle tissue. Muscle tissue will only be taken from tissue that is going to be discarded. Collecting the tissue will not add any time or any extra incisions than what is required for the surgery.\n\nAfter surgery, blood will be drawn. Some participants will have this done in the pre-op or post-op room. Others will have this done during their hospital stay.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION/EXCLUSION CRITERIA FOR SUBJECTS UNDERGOING SURGERY (COHORT 1)\n\nINCLUSION CRITERIA:\n\n* Male or female\n* Any ethnicity\n* 18 years or older\n* Subject undergoing planned, clinically-indicated surgical procedure at the NIH Clinical Center in which tissue will be accessible and available for collection by the Operating Surgeon.\n\nEXCLUSION CRITERIA:\n\n* Inability to provide consent.\n* Pregnancy\n\nINCLUSION/EXCLUSION CRITERIA FOR ALL OTHER SUBJECTS (HEALTHY VOLUNTEERS AND NON-SURGICAL PATIENTS (COHORT 2):\n\nINCLUSION CRITERIA:\n\n* Male or female\n* Any ethnicity\n* 18-80 year\n* For supraclavicular or dorsocervical adipose biopsy: 18F-FDG PET/CT Scan images available in the CRC PACS system (performed as part of separate protocol)\n\nEXCLUSION CRITERIA:\n\n* History of keloids.\n* Currently taking blood thinning or anti-inflammatory medications including anti-platelet or antithrombotic medications.\n* Pregnancy\n* History of pacemaker, metallic heart valves, aneurysm clip, pedicle screws, metallic foreign body in eye, or other metallic implant only if using fusion technology for the biopsy procedure.\n* Psychological conditions including (but not limited to) clinical depression, bipolar disorders, or forms of mental incapacity that would be incompatible with safe and successful participation in this study.\n* Addiction to alcohol or substances of abuse within the last 5 years; current use of drugs or alcohol (CAGE greater than or equal to 2).\n* Inability to provide consent.\n\nAll subjects will be fully informed of the aims, nature, and risks of the study prior to giving written informed consent.",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Two cohorts will be studied in this protocol, patients undergoing clinically-indicated surgery (Cohort 1) and healthy volunteers (Cohort 2).",
+  "condition": [
+    "Brown Adipose Tissue (BAT) Physiology",
+    "Phenotyping",
+    "Brown Adipocytes"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study enrolling adults undergoing surgery or healthy volunteers for tissue collection. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Cohort 1",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on undergoing a planned, clinically-indicated surgical procedure at NIH; there is no mention of prior systemic therapy for advanced disease. The protocol does not specify any requirements or exclusions related to prior lines of therapy."
+    },
+    {
+      "cohort_label": "Cohort 2",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on age, health status, and imaging availability for biopsy; there is no mention of prior systemic therapy for advanced disease. The protocol does not specify any requirements or exclusions related to prior lines of therapy."
+    }
+  ]
+}

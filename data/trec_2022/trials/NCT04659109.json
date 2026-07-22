@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04659109",
+  "title": "Glenzocimab in SARS-Cov-2 Acute Respiratory DistrEss syNdrome Related to COVID-19",
+  "brief_summary": "A randomized, double blind, multicenter, placebo-controlled, parallel group, fixed dose, phase II study to evaluate the efficacy and safety of glenzocimab in ARDS.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Male or female hospitalized patients \u2265 18 years (i.e., at least 18 years old at the time of randomization), having given their written consent.\n2. Having a positive RT-PCR test for COVID-19\n3. Presenting with symptoms of COVID-19, including:\n\n   * Cough OR\n   * Shortness of breath or difficulty breathing OR at least 2 of the following\n   * Fever, defined as any body temperature 38\u00b0C\n   * Chills\n   * Repeated shaking with chills\n   * Muscle pain\n   * Headache\n   * Sore throat\n   * New loss of taste or smell\n4. Presenting with signs of moderate but progressive pulmonary disease with:\n\n   * respiratory symptoms (cough, dyspnea, etc.),\n   * uni- or bilateral ground-glass opacities, or pulmonary infiltrates on chest radiograph and/or CT scan,\n   * clinical and biological evidence of progression over the past 48hrs.\n5. Effective birth control that should have been in place for at least 2 months in non-menopausal women and 4 months for men after IMP administration. Birth control methods considered to be highly effective include:\n\n   * combined (estrogen-progestogen) hormonal contraception associated with the inhibition of ovulation: oral, intravaginal, transdermal,\n   * progesterone-only hormonal contraception associated with the inhibition of ovulation: oral, injectable, implantable,\n   * intrauterine device,\n   * intrauterine hormone-releasing system,\n   * bilateral tubal occlusion,\n   * vasectomized partner.\n6. Women of child-bearing potential must have negative results of a urinary or plasma pregnancy test (serum HCG).\n\nExclusion Criteria:\n\n1. Patients requiring immediate admission to the ICU,\n2. Patients requiring invasive mechanical ventilation,\n3. ARDS of another origin,\n4. Concomitant pulmonary infection (pneumoniae) with another agent, notably bacterial or fungal,\n5. Patients under immunosuppressive agents,\n6. Childbirth within \\<10 days,\n7. Pregnancy or breastfeeding,\n8. Prior cardiopulmonary resuscitation \\<10 days,\n9. Allergy or hypersensitivity to drugs of the same class\n10. Participation in another interventional clinical trial within 30 days prior to the inclusion.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "SARS-CoV Infection",
+    "Acute Respiratory Distress Syndrome",
+    "COVID-19",
+    "ARDS"
+  ],
+  "overall_status": "COMPLETED"
+}

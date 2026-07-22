@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01434992",
+  "title": "Detection of Helicobacter Pylori Infection by High Resolution Endoscopy",
+  "brief_summary": "Although endoscopic findings of H. pylori have been reported in the literature, there is still some debate over whether H. pylori-related gastritis can be diagnosed via endoscopic features alone. Most studies concluded that it is not possible to diagnose H. pylori-related gastritis on the basis of endoscopic findings. However, the resolution power of endoscopy has greatly improved in recent years and the exact examination of gastric mucosa was possible.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients who underwent upper endoscopy\n\nExclusion Criteria:\n\n* Age \\< 20 or \\> 70\n* Severe systemic disease or advanced chronic liver disease\n* Medication history of NSAID, PPI, H2 blockers or antibiotics\n* History of H. pylori eradication therapy\n* History of gastric surgery\n* Recent history of upper GI bleeding\n* Gastric or duodenal ulcer (including old scar change) during endoscopy\n* Anemia (Hemoglobin level \\< 10mg/dL)\n* Pangastritis",
+  "minimum_age": "20 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who underwent upper endoscopy in the Kyung Hee University Hospital",
+  "condition": [
+    "Helicobacter-associated Gastritis"
+  ],
+  "overall_status": "COMPLETED"
+}

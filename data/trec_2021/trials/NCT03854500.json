@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03854500",
+  "title": "The Norwegian Tenecteplase Stroke Trial 2",
+  "brief_summary": "Background: Alteplase is the only approved acute drug treatment in ischemic stroke and aims at dissolving arterial clots causing cerebral ischemia. The overall benefit of alteplase is substantial. However, there is considerable room for improvement as 2/3 of patients with large clots may not achieve reopening of the vessel and up to 40% of the patients remain severely disabled or die.\n\nTenecteplase, a modified tissue plasminogen activator, has been shown to be a more efficient and safer thrombolytic drug than alteplase in pre-clinical studies. Tenecteplase has replaced alteplase as thrombolytic treatment in myocardial infarction and may also be the drug of choice in ischemic stroke.\n\nTenecteplase and alteplase had a similar safety profile in the NOR-TEST trial and there were no differences in efficacy between the two treatment groups. However, a majority of patients had mild stroke which may be associated with a natural favorable prognosis.\n\nIn spite of these neutral results, tenecteplase has the potential to replace alteplase as the drug of choice, based on a better pharmacological profile and a simpler practical administration. There is, however, need for a higher number of patients to prove the efficacy and safety of tenecteplase.\n\nHypothesis: Tenecteplase 0.4 mg/kg is non-inferior compared with alteplase 0.9 mg/kg.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "General inclusion criteria\n\n* 18 years or older\n* Ischaemic stroke with clinical symptoms corresponding to National Institutes of Health Stroke Scale Score (NIHSS) of \\>5. All stroke sub-types and vascular distributions are eligible. A visible arterial occlusion is not required for inclusion.\n* Treatment \\<4\u00bd hours after stroke onset or after awakening with symptoms.\n* Informed consent by patient or by patient's family\n\nSpecific sub-set inclusion criteria\n\n* Wake-Up Stroke: FLAIR-DWI mismatch on MRI as judged by the (neuro-) radiologist or neurologist.\n* Thrombectomy: Occlusion of intracerebral artery technically accessible for endovascular embolectomy as defined by local treatment protocols.\n\nExclusion criteria\n\n* Prestroke modified rankin scale of \u22653\n* Large areas of hypodense ischaemic changes on baseline CT;\n* Patients with systolic blood pressure \\>185 mm Hg or diastolic blood pressure \\>110 mm Hg in spite of acute antihypertensive treatment;\n* Pregnant women (are treated with alteplase);\n* Women with possible pregnancy (are treated with alteplase)\n* Beast feeding women, if a 24 hours stop of feeding is not feasible.\n* Clinical presentation suggesting subarachnoid haemorrhage even if baseline CT is normal;\n* Known bleeding diathesis; use of oral anticoagulants with no antidot, INR \u22651,4; heparin \\<48 hours and increased APTT; low molecular weight heparin(oid) \\<24 hours; another investigational drug \\<14 days;\n* Patients with arterial puncture at a noncompressible site or lumbar puncture \\<7 days; major surgery or serious trauma \\<14 days; gastrointestinal or urinary tract hemorrhage \\<14 days; clinical stroke \\<2 months; history of intracranial haemorrhage; CNS neurosurgery \\<2 months; serious head trauma \\<2 months; pericarditis; sepsis; any serious medical illness likely to interact with treatment; confounding pre-existent neurological or psychiatric disease; unlikely to complete follow-up;\n* Any condition that, in the opinion of the investigator, puts a patient at risk if treated with thrombolysis.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke, Acute",
+    "Cerebrovascular Disorders",
+    "Ischemic Stroke"
+  ],
+  "overall_status": "TERMINATED"
+}

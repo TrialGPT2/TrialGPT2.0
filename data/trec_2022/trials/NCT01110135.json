@@ -1,0 +1,51 @@
+{
+  "nctid": "NCT01110135",
+  "title": "Bendamustine Hydrochloride, Etoposide, Dexamethasone, and Filgrastim For Peripheral Blood Stem Cell Mobilization in Treating Patients With Refractory or Recurrent Lymphoma or Multiple Myeloma",
+  "brief_summary": "This phase II trial is studying how well giving bendamustine hydrochloride, etoposide, dexamethasone, and filgrastim together for peripheral stem cell mobilization works in treating patients with refractory or recurrent lymphoma or multiple myeloma. Giving chemotherapy, such as bendamustine hydrochloride, etoposide, and dexamethasone, before a peripheral stem cell transplant stops the growth of cancer cells by stopping them from dividing or killing them. Giving colony-stimulating factors, such as filgrastim, and certain chemotherapy drugs helps stem cells move from the bone marrow to the blood so they can be collected and stored",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients must have relapsed or primary refractory lymphoid malignancy (including B-cell, T-cell, or Hodgkin lymphoma), or multiple myeloma; other transplant eligible diagnoses (e.g. germ cell tumor) can be included with principal investigator (PI) approval\n* World Health Organization (WHO) classification of patients' malignancies must be provided\n* Patients with lymphoid malignancies must have a computed tomography (CT) of chest, abdomen, and pelvis within six weeks of enrollment; patients with evidence of lymphadenopathy in the neck must have a CT of neck\n* Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Absolute neutrophil count (ANC) \\>= 1,500/mm\\^3\n* Platelets \\>= 100,000/mm\\^3 (without transfusion or growth factor support)\n* Creatinine clearance (CrCl) greater than 50/ml per minute (all tests must be performed within 28 days prior to registration)\n* Total bilirubin \\< 1.5 times upper limit of normal\n* Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) \\< 2.5 times upper limit of normal\n* All patients must be informed of the investigational nature of this study and have given written consent in accordance with institutional and federal guidelines\n* Adequate venous access plan in place for apheresis procedure\n* Three or fewer prior myelotoxic treatment regimens (specific regimens include ifosfamide, carboplatin and etoposide \\[ICE\\]; cisplatin, cytarabine, and dexamethasone \\[DHAP\\]; methotrexate \\[MTX\\]/high-dose cytarabine \\[HiDAC\\]; cyclophosphamide, vincristine, doxorubicin, and dexamethasone \\[hyperCVAD\\]; bortezomib, thalidomide, dexamethasone and 4-day continuous infusions of cisplatin, doxorubicin, cyclophosphamide, and etoposide \\[VTD-PACE\\])\n\nExclusion Criteria:\n\n* Patients known positive for human immunodeficiency virus (HIV), or infectious hepatitis type B or C\n* Pregnant or nursing women; men or women of reproductive potential may not participate unless they have agreed to use an effective contraceptive method\n* Greater than six prior cycles of lenalidomide therapy\n* Patients who have previously demonstrated resistance to bendamustine therapy (i.e. no response or progression w/in 6 months)\n* Fludarabine or other nucleoside analog (except gemcitabine or cytarabine) therapy within 24 months of registration; patients with limited exposure to fludarabine/other nucleoside analog therapy within 24 months may be considered eligible with review and approval by the PI or Co-PI prior to study entry\n* Symptomatic cardiopulmonary disease\n* Prior autologous or allogeneic transplantation\n* Prior radioimmunotherapy within 12 weeks of registration\n* Prior failed (\\< 5 x 10\\^6 CD34/kg) PBSC collection due to inability to mobilize stem cells\n* Prior pelvic or spinal irradiation\n* Previous systemic chemotherapy/immunotherapy within 3 weeks before study entry\n* Concurrent use of other anti-cancer agents or experimental treatments\n* Known allergy or intolerance to bendamustine, mannitol, GCSF or dexamethasone\n* More than 3 cycles of myelotoxic salvage chemotherapy within the past 4 months (specific regimens include ICE, DHAP, MTX/HiDAC, hyperCVAD, VTD-PACE)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Adult Nasal Type Extranodal NK/T-cell Lymphoma",
+    "Anaplastic Large Cell Lymphoma",
+    "Angioimmunoblastic T-cell Lymphoma",
+    "Cutaneous B-cell Non-Hodgkin Lymphoma",
+    "Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue",
+    "Intraocular Lymphoma",
+    "Nodal Marginal Zone B-cell Lymphoma",
+    "Peripheral T-cell Lymphoma",
+    "Recurrent Adult Burkitt Lymphoma",
+    "Recurrent Adult Diffuse Large Cell Lymphoma",
+    "Recurrent Adult Diffuse Mixed Cell Lymphoma",
+    "Recurrent Adult Diffuse Small Cleaved Cell Lymphoma",
+    "Recurrent Adult Grade III Lymphomatoid Granulomatosis",
+    "Recurrent Adult Hodgkin Lymphoma",
+    "Recurrent Adult Immunoblastic Large Cell Lymphoma",
+    "Recurrent Adult Lymphoblastic Lymphoma",
+    "Recurrent Adult T-cell Leukemia/Lymphoma",
+    "Recurrent Cutaneous T-cell Non-Hodgkin Lymphoma",
+    "Recurrent Grade 1 Follicular Lymphoma",
+    "Recurrent Grade 2 Follicular Lymphoma",
+    "Recurrent Grade 3 Follicular Lymphoma",
+    "Recurrent Mantle Cell Lymphoma",
+    "Recurrent Marginal Zone Lymphoma",
+    "Recurrent Mycosis Fungoides/Sezary Syndrome",
+    "Recurrent Small Lymphocytic Lymphoma",
+    "Refractory Multiple Myeloma",
+    "Small Intestine Lymphoma",
+    "Splenic Marginal Zone Lymphoma",
+    "Waldenstr\u00f6m Macroglobulinemia"
+  ],
+  "overall_status": "COMPLETED"
+}

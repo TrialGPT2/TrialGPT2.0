@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04401410",
+  "title": "Anti-SARS Cov-2 T Cell Infusions for COVID 19",
+  "brief_summary": "This is a dose-finding safety trial followed by a randomized pilot trial comparing administration of SARS-CoV2-specific T cells (SARS-CoVSTs) to standard of care treatment in hospitalized patients with COVID19 who are at high risk of requiring mechanical ventilation.\n\nThe SARS-CoVSTs lines have been made at Baylor College of Medicine from healthy donors who have made a full recovery from COVID19. These cell lines were frozen for later use and will be thawed and used to treat patients who meet the eligibility criteria.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria\n\n1. SARS-CoV-2 infection confirmed by polymerase chain reaction assay (PCR) from a nasopharyngeal swab or other accepted specimen type. (If testing was performed \u2265 5 days before enrollment, this must be repeated and accept only if positive again). Date of COVID test must be \u2264 5 days prior to infusion.\n2. Currently hospitalized adult patient (\u2265 18 years of age) requiring medical care for COVID19\n3. Peripheral oxygen saturation (SpO2) \u2265 92% on room air\n4. Hgb \u2265 7.0 gm/dl\n5. Negative pregnancy test (if applicable)\n6. Patient or parent/guardian capable of providing informed consent (may be obtained electronically)\n7. Evidence of pulmonary infiltrates on chest imaging. Any chest imaging findings which would be consistent with COVID19 would qualify (Eg: ground glass opacities, multifocal infiltrates etc.)\n8. High risk of requiring mechanical ventilation as defined by at least two of the following:\n\n   1. Age \u2265 60 years of age\n   2. Age \u2265 75 years of age (counts as meeting two criteria)\n   3. Hypertension (HTN)\n   4. Chronic cardiovascular disease other than HTN (eg: Coronary artery disease, congestive heart failure or cardiomyopathies).\n   5. Diabetes Mellitus\n   6. Obesity (BMI \u2265 30)\n   7. Obesity (BMI \u2265 40, counts as meeting two criteria)\n   8. Active cancer diagnosis or ongoing (within 3 months) cytotoxic chemo/ radio-therapy for a cancer\n   9. Post-hematopoeitic stem cell or solid organ transplantation status\n   10. Immunodeficiency states including HIV infection on antiretroviral therapy (except those listed as exclusion criteria #1, #7 and #10) as determined by the treating physician (eg: receiving immunosuppressive therapy like rituximab or congenital immunodeficiency syndromes, prior treatment with chemotherapy greater than 3 months ago but per investigators discretion could have lingering effects on the immune system, eg: chemotherapy regimens for lymphomas, ALL or AML etc.)\n   11. Chronic obstructive pulmonary disease (COPD)\n   12. Current everyday smoker\n   13. Chronic kidney disease (eGFR \\< 30 mL/min/1.73 m2 )\n   14. Bronchial asthma (on active treatment prior to admission, eg. Use of rescue inhalers or inhaled corticosteroids or other treatments to prevent/treat attacks).\n\nExclusion Criteria\n\n1. Received Anti-thymocyte globulin (ATG), Campath or other T cell immunosuppressive monoclonal antibodies in the 28 days prior to screening for enrollment\n2. Requiring mechanical ventilation at time of T cell infusion\n3. Alanine aminotransferase or aspartate aminotransferase greater than 5 x upper limit of normal\n4. If previously undergone an allogeneic hematopoietic stem cell transplant and have evidence of active acute GVHD greater than or equal to grade 2\n5. Uncontrolled relapse of malignancy\n6. Requiring vasopressors\n7. Known history of autoimmune disease except prior thyroiditis\n8. Is not suitable at the discretion of the treating physician\n9. Patients on greater than 6mg/day of dexamethasone (IV) or equivalent\n10. Greater than grade 1 CRS per American Society for Transplantation and Cellular Therapy (ASTCT) criteria\n11. Patients should not be enrolled on any other interventional clinical trials for COVID19. Patients may receive routine care for COVID19 per institutional standards (including antivirals such as remdesivir or other FDA-EUA approved products and thromboprophylaxis).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "SARS-CoV 2",
+    "Viral Infection",
+    "COVID 19"
+  ],
+  "overall_status": "TERMINATED"
+}

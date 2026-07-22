@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT04235764",
+  "title": "En-bloc Transurethral Resection of Bladder Tumor (En-bloc TURBT) Specimens Using a Redesigned Surgical Resectoscope Device",
+  "brief_summary": "Background:\n\nBladder cancer is the sixth most common cancer in the United States. The way that doctors remove tumors in bladder surgeries may leave some cancer . Also, many people have their tumors return or progress after surgery. Researchers want to test a modified device. It might tell doctors more about bladder tumors.\n\nObjective:\n\nTo see if using a modified standard device with bladder surgery can provide better information about tumors in bladder specimens.\n\nEligibility:\n\nPeople ages 18 and older who need to have their bladder removed at the NIH.\n\nDesign:\n\nParticipants will be screened with:\n\nMedical and prior surgical history\n\nReview of existing MRI, x-ray, or CT scans\n\nReview of existing specimens and reports\n\nPregnancy test for women of childbearing age\n\nCT or MRI: Participants will lie in a machine. The machine will take pictures of their body.\n\nParticipants will have bladder surgery. This will occur in the same way as if they did not take part in this study. A member of the research team will cut the removed bladder using the modified device. This will most likely be done on a separate back table in the operating room. The bladder and samples after cutting will be sent out for review. The will occur just as it would if the participants were not in this study. The only difference is the way that the specimen is prepared for review.\n\nParticipants follow-up care will occur per standard of care. Or it will occur as part of any other study in which they might also be enrolled.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Patients requiring surgical removal of the bladder at the NIH Clinical Center.\n\nNOTE: Reasons for need for surgical removal of bladder include cancer or benign condition for which a surgeon determined surgical removal of the bladder is recommended. Patient's with invasive bladder cancer requiring cystectomy are eligible for enrollment. Bladder cancer remains the most common reason for cystectomy. Patients with clinical advanced disease and having other treatments/or participating in other trials remain eligible for enrollment in this study.\n\n* Men and women\n* Age greater than or less than 18 years\n* Deemed clinically appropriate for the planned surgical procedure.\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n* Subjects will be asked to co-enroll in 15-C-0087, \"Care of the Urothelial Cancer Patient and Prospective Collection of Biospecimens from Healthy Volunteers and Urothelial Cancer Patients.\" NOTE: Most participants are expected to already be enrolled in 15-C-0087 prior to entry in this study.\n\nEXCLUSION CRITERIA:\n\n\\- Cystectomy during pregnancy would subject the fetus to significant risk of miscarriage or premature labor. For this reason, pregnant women are ineligible for this study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Bladder Cancer Patients",
+  "condition": [
+    "Bladder Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a surgical specimen collection study enrolling patients undergoing cystectomy for bladder cancer or benign conditions, regardless of prior systemic therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes all patients requiring surgical removal of the bladder, including those with invasive bladder cancer, regardless of prior treatments. There is no mention of required or excluded prior systemic therapy for advanced disease, so both treatment-naïve and previously treated patients are eligible. Patients who have only received adjuvant or no systemic therapy are also allowed."
+    }
+  ]
+}

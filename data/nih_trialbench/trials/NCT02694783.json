@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT02694783",
+  "title": "Adoptive Cellular Immunotherapy for Progressive Multifocal Leukoencephalopathy With Ex Vivo Generated Polyomavirus-Specific T-Cells",
+  "brief_summary": "Background:\n\nProgressive Multifocal Leukoencephalopathy (PML) is a brain infection in people with a weakened immune system. Researchers think polyoma virus specific T cells (PyVST) therapy can treat PML. The PyVST cells are made from blood cells of a healthy relative. They are grown in a lab to expand the virus-killing cells, then given to the person with PML.\n\nObjective:\n\nTo test whether PyVST safely treats PML.\n\nEligibility:\n\n* Adults ages 18 and older with PML\n* Healthy adults ages 18 and older who have:\n\n  * Been screened under protocol 97-H-0041\n  * A sibling, parent, or child with PML and matching cells\n\nDesign:\n\n* Participants will be screened with:\n\n  * Medical history\n  * Physical exam\n  * Blood and urine tests\n* PML participants will also be screened with:\n\n  * Cerebrospinal fluid removed by needle in the back.\n  * MRI: A dye is injected in a vein. They lie on a table that slides into a cylinder.\n  * Questionnaires\n\nHealthy participants will have apheresis: Blood flows through a needle in one arm into machine that separates blood cells needed for donation. The rest of the blood is returned by needle to the other arm. Some participants may have a central line placed in a vein instead. They can have apheresis up to 3 times, at least 28 days apart.\n\nParticipants with PML will receive the PyVST cells by needle in the arm. They will stay in the hospital 1 week. They can do this up to 3 times, at least 28 days apart. After each infusion, they will have weekly visits for 1 month. Then they will have 4 visits over 1 year. Visits include repeats of screening tests.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA - PATIENT:\n* Clinically definite PML, defined as clinical signs and MRI compatible with active PML and the presence of JCV by PCR in CSF\n* Modified Rankin Scale 1-4, inclusive\n* Age 18 or older\n* Patient medically stable and able to tolerate travel to NIH\n* Available PyVST\n* Subjects of childbearing or child-fathering potential must be willing to use a medically acceptable form of birth control, which includes abstinence, while they are being treated on this study\n* Willing and able to participate in all aspects of trial design and follow-up\n* Able to provide informed consent at the time of study enrollment (not required for reinfusions).\n\nEXCLUSION CRITERIA - PATIENT:\n\n* Patients with human immunodeficiency virus (HIV infection)\n* Patients who have been treated with natalizumab\n* Patients with readily reversible immunosuppressive state\n* Patients receiving immunosuppressive or immunomodulatory therapies within 28 days of screening for enrollment that could interfere with PyVST function\n* Patients with other uncontrolled infections. For bacterial infections, patients must be receiving definitive therapy and have no signs of progressing infection for 72 hours prior to enrollment. For fungal infections, patients must be receiving definitive systemic anti-fungal therapy and have no signs of progressing infection for 1 week prior to enrollment.\n* Patients who have received donor lymphocyte infusion (DLI) within 28 days\n* Uncontrolled relapse of malignancy\n* Patients with any other associated CNS disease that might confound outcomes\n* Patients with contraindication to MRI (including cardiac pacemakers and some infusion pumps, other metallic implants, metallic foreign objects)\n* MRI findings consistent with immune system reconstitution inflammatory syndrome (IRIS) and determined to be mounting an adequate immune response to the infection\n* Patients with medical contraindication to LP\n* For subjects who have previously received PyVST infusions, any treatment-limiting toxicity (defined in Section 8.3) to previous infusions\n* Subjects with a positive pregnancy test or who are nursing.\n\nINCLUSION CRITERIA - DONOR:\n\n* Ability to provide informed consent at the time of enrollment\n* First degree relative of patient (sibling, parent/child)\n* Age 18 or older\n\nEXCLUSION CRITERIA - DONOR:\n\n* Sickling hemoglobinopathies including HbSS and HbSC by history and peripheral blood smear; donors with HbAS are acceptable\n* HbsAg, anti-HBc, anti-HCV, anti-HIV, anti-HTLV, and RPR\n* Cardiovascular instability, severe anemia, inadequate venous access, severe coagulation disorder or any other medical condition that the Principal Investigator or Apheresis Unit staff considers a contraindication to the apheresis procedure or research blood draw.\n* Positive pregnancy test",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Progressive Multifocal Leukoencephalopathy"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with progressive multifocal leukoencephalopathy (PML) regardless of prior systemic therapy history. There are no requirements or restrictions regarding prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility criteria do not mention any requirements or restrictions on prior systemic therapy for advanced disease. Patients with PML are eligible regardless of prior treatment history, including those who are treatment-naïve or have only received adjuvant therapy."
+    }
+  ]
+}

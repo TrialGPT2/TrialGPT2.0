@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01192620",
+  "title": "Pediatric Appendicitis Pathway Study",
+  "brief_summary": "The purpose of this study is to test a standardized approach for children being evaluated for appendicitis in the emergency department. This means that all doctors would use the same approach to diagnose appendicitis in children in the emergency department. This pathway uses two scoring systems to identify patients who are at high and low risks of appendicitis. These scoring systems are based on the patient's symptoms, signs the doctor finds when examining the patient, and their blood tests. The goal of this part of the study is to determine if the investigators' pathway accurately identifies patients who have appendicitis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Chief complaint of acute appendicitis\n\nExclusion Criteria:\n\n* Patients with symptoms greater than 7 days",
+  "minimum_age": "3 Years",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "A consecutive sample of all patients ages 3 through 18 presenting to the Oregon Health and Science University (OHSU) emergency department (ED) for suspicion of appendicitis during the hours in which study staff are available will be prospectively enrolled.",
+  "condition": [
+    "Appendicitis"
+  ],
+  "overall_status": "COMPLETED"
+}

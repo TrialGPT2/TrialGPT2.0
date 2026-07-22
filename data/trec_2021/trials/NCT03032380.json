@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03032380",
+  "title": "Clinical Study of Cefiderocol (S-649266) for the Treatment of Nosocomial Pneumonia Caused by Gram-negative Pathogens",
+  "brief_summary": "The primary objective of this study is to compare all-cause mortality at Day 14 in participants receiving cefiderocol with participants receiving the comparator, meropenem, in adults with hospital-acquired bacterial pneumonia (HABP), ventilator-associated bacterial pneumonia (VABP), or healthcare-associated bacterial pneumonia (HCABP) caused by Gram-negative pathogens.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Subjects 18 years or older at the time of signing informed consent\n* Subjects who have provided written informed consent or their informed consent has been provided by a legally authorized representative\n* Subjects who meet the clinical diagnosis criteria for hospital-acquired bacterial pneumonia (HABP), ventilator-associated bacterial pneumonia (VABP), or healthcare-associated bacterial pneumonia (HCABP)\n* All subjects must fulfill at least 1 of the following clinical criteria at screening:\n\n  1. New onset or worsening of pulmonary symptoms or signs, such as cough, dyspnea, tachypnea (eg, respiratory rate \\> 25 breaths/minute), expectorated sputum production, or requirement for mechanical ventilation\n  2. Hypoxemia (eg, a partial pressure of oxygen \\[PaO2\\] \\< 60 mm Hg while the subject is breathing room air, as determined by arterial blood gas \\[ABG\\], or worsening of the ratio of the PaO2 to the fraction of inspired oxygen \\[PaO2/FiO2\\])\n  3. Need for acute changes in the ventilator support system to enhance oxygenation, as determined by worsening oxygenation (ABG or PaO2/FiO2) or needed changes in the amount of positive end-expiratory pressure\n  4. New onset of or increase in (quantity or characteristics) suctioned respiratory secretions, demonstrating evidence of inflammation and absence of contamination\n* All subjects must have at least 1 of the following signs:\n\n  1. Documented fever (ie, core body temperature \\[tympanic, rectal, esophageal\\] \u2265 38\u00b0C \\[100.4\u00b0F\\], oral temperature \u2265 37.5\u00b0C, or axillary temperature \u2265 37\u00b0C)\n  2. Hypothermia (ie, core body temperature \\[tympanic, rectal, esophageal\\] \u2264 35\u00b0C \\[95.0\u00b0F\\], oral temperature \u2264 35.5\u00b0C and axillary temperature \u2264 36\u00b0C)\n  3. Leukocytosis with a total peripheral white blood cell (WBC) count \u2265 10,000 cells/mm\u00b3\n  4. Leukopenia with total peripheral WBC count \u2264 4500 cells/mm\u00b3\n  5. Greater than 15% immature neutrophils (bands) noted on peripheral blood smear\n* All subjects must have a chest radiograph during screening showing the presence of new or progressive infiltrate(s) suggestive of bacterial pneumonia. A computed tomography (CT) scan in the same time window showing the same findings could also be acceptable\n* All subjects must have a suspected Gram-negative infection involving the lower respiratory tract\n\nExclusion Criteria:\n\n* Subjects who have known or suspected community-acquired bacterial pneumonia (CABP), atypical pneumonia, viral pneumonia, or chemical pneumonia (including aspiration of gastric contents, inhalation injury)\n* Other exclusions based on the prescribing information of meropenem or linezolid, prior antibiotic usage, age, and pregnancy.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Healthcare-associated Pneumonia (HCAP)",
+    "Hospital Acquired Pneumonia (HAP)",
+    "Ventilator Associated Pneumonia (VAP)"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT05588128",
+  "title": "Prospective Monitoring of Subjects With Biochemically Recurrent Prostate Cancer Using 18FDCFPyL",
+  "brief_summary": "Background:\n\nProstate cancer is the second leading cause of cancer-related death in American men. The disease recurs in up to 50,000 men each year after their early-stage disease was treated; however, at this stage, imaging scans are often unable to find the disease in the body. In this natural history study, researchers want to find out if a new radiotracer (18F-DCFPyL) injected before positron emission tomography (PET) imaging can help identify sites in the body with cancer.\n\nObjective:\n\nTo learn more about how 18F-DCFPyL PET/CT scans detect change over time in men with recurrent prostate cancer.\n\nEligibility:\n\nMen aged 18 and older with prostate cancer that returned after treatment.\n\nDesign:\n\nParticipants will be screened with blood tests. They will also have a bone scan and a computed tomography (CT) scans of the chest, abdomen, and pelvis.\n\nParticipants will have an initial study visit. They will have a physical exam and blood tests. They will have a PET/CT scan with 18F-DCFPyL. The radiotracer will be injected into a vein; this will take about 20 seconds. The PET/CT scan will be done 1 to 2 hours later. Participants will lie still on a scanner table while a machine captures images of their body. The scan will take 45 minutes.\n\nParticipants will return for blood tests every 3 months.\n\nParticipants will return for additional scans with 18F-DCFPyL on this schedule:\n\nOnce a year if their previous scan was negative for prostate cancer.\n\nEvery 6 months if their previous scan was positive for prostate cancer.\n\nParticipants may be in the study up to 5 years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* History of primary treatment for prostate cancer (either surgery or radiation)\n* Serum PSA \\>= 0.50\n* Serum testosterone \\>100\n* Age \\>=18 years\n* Men must agree to use highly effective contraception (surgical sterilization) for 7 days after every study agent administration. Note: abstinence, defined as no heterosexual sexual intercourse when this is in line with the preferred and usual lifestyle of the subject is also acceptable\n* The ability of a participant to understand and the willingness to sign a written informed consent document\n\nEXCLUSION CRITERIA:\n\n-Evidence of soft tissue disease on CT scan (or magnetic resonance imaging \\[MRI\\] as clinically indicated).\n\nNOTE: Lymph nodes \\<= 1.5 cm in the shortest dimension are allowed.\n\n* Evidence of bone lesions on Tc99 bone scan\n* Prostatectomy within 1 year before the study intervention\n* Androgen deprivation therapy (ADT) within the 6 months before the study intervention\n* Systemic therapy for prostate cancer within the 6 months before the study intervention",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "Primary clinical",
+  "condition": [
+    "Prostate Cancer",
+    "Biochemically Recurrent"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a prospective observational study enrolling men with biochemically recurrent prostate cancer after primary treatment (surgery or radiation), with no evidence of metastatic disease on conventional imaging. Patients must not have received systemic therapy for prostate cancer within 6 months prior to enrollment, and may include those who have never received systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligible patients have recurrent prostate cancer after primary local therapy (surgery or radiation) but must not have received systemic therapy for prostate cancer within the past 6 months. There is no requirement for prior systemic therapy for advanced disease, and adjuvant-only patients are allowed. This cohort represents first-line (1L) advanced disease setting."
+    }
+  ]
+}

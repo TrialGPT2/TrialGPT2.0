@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT04664075",
+  "title": "Predicting Severity and Disease Progression in Influenza-like Illness (Including COVID-19)",
+  "brief_summary": "Respiratory infections such as colds, flu and pneumonia affect millions of people around the world every year. Most cases are mild, but some people become very unwell. Influenza ('flu') is one of the most common causes of lung infection. Seasonal flu affects between 10% and 46% of the population each year and causes around 12 deaths in every 100,000 people infected. In addition, both influenza and coronaviruses have caused pandemics in recent years, leading to severe disease in many people. Although flu vaccines are available, these need to change every year to overcome rapid changes in the virus and are not completely protective.\n\nThis study aims to find and develop predictive tests to better understand how and when flu-like illness progresses to more severe disease. This may help to decide which people need to be admitted to hospital, and how their treatment needs to be increased or decreased during infection.\n\nThe aim is to recruit 100 patients admitted to hospital due to a respiratory infection. It is voluntary to take part and participants can choose to withdraw at any time. The study will involve some blood and nose samples. This will be done on Day 0, Day 2 and Discharge from hospital, and an out-patient follow-up visit on Day 28. The data will be used to develop novel diagnostic tools to assist in rational treatment decisions that will benefit both individual patients and resource allocation. It will also establish research preparedness for upcoming pandemics.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Healthy persons aged \u2265 18, and able to give informed consent\n* Patient is admitted to hospital\n* Primary reason for hospital admission is clinical suspicion of a new episode of ARI\n* Onset of the following symptoms within the last 7 days: i. Sudden onset of self-reported fever OR temperature of \u2265 38\u00b0C at presentation AND ii. At least one respiratory symptom (cough, sore throat, runny or congested nose, dyspnoea) AND iii. At least one systemic symptom (headache, muscle ache, sweats or chills or tiredness).\n\nExclusion Criteria:\n\n* Patient lacks capacity to provide informed consent\n* Patient has been transferred from another hospital\n* Patient has been previously enrolled in the study",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "In-patients admitted to hospital with a confirmed or suspected respiratory infection.",
+  "condition": [
+    "Influenza",
+    "SARS (Severe Acute Respiratory Syndrome)",
+    "Respiratory Viral Infection",
+    "Respiratory Tract Infections",
+    "Infection, Bacterial",
+    "Infection Viral",
+    "Covid19",
+    "RNA Virus Infections"
+  ],
+  "overall_status": "TERMINATED"
+}

@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT00006436",
+  "title": "EPOCH and Rituximab to Treat Non-Hodgkin's Lymphoma in Patients With HIV Infection",
+  "brief_summary": "Background:\n\n* Human immunodeficiency virus (HIV)-infected patients have a weakened immune system, and chemotherapy, which is used to treat lymphoma, probably causes further damage to the immune system.\n* Limiting the amount of immune damage due to chemotherapy might decrease the number of infections and the risk of developing cancer in the future in HIV-infected patients with non-Hodgkin's lymphoma.\n\nObjectives:\n\n* To determine whether reducing the total amount of chemotherapy using a specific combination of drugs called EPOCH-R (etoposide, doxorubicin, vincristine, cyclophosphamide and rituximab) will rid the body of lymphoma quickly while decreasing the risk of infections and future cancers.\n* To determine whether the lymphoma will remain undetectable for at least one year if treatment is stopped one cycle after the patient enters remission.\n\nEligibility:\n\n-Patients with non-Hodgkin's lymphoma and HIV infection 4 years of age and older who have not been treated previously with rituximab or cytotoxic chemotherapy.\n\nDesign:\n\n* Patients receive EPOCH-R in 3-week treatment cycles for at least three and no more than six cycles.\n* The lymphoma is evaluated using computed tomography (CT) and positron emission tomography (PET) scans at the end of treatment cycles 2 and 3. A bone marrow biopsy is repeated after cycle 2 if a biopsy was initially positive on screening for participation in the study.\n* Anti-HIV therapy is stopped before chemotherapy begins and is restarted when EPOCH-R treatment ends.\n* Patients are monitored for treatment response with blood tests and imaging scans at baseline, when treatment ends, 2 months after treatment ends and then every 3 to 6 months for a total of 24 months following chemotherapy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAggressive B-lymphocyte antigen CD20 (CD20) positive Diffuse Large B-cell lymphoma confirmed by Laboratory of Pathology, National Cancer Institute (NCI). Note: Participants with aggressive B-cell lymphoma of the plasmablastic lymphoma sub-type who do not have surface CD20 expression, are also eligible.\n\nHuman immunodeficiency virus (HIV) + serology.\n\nAll stages (I-IV) of disease.\n\nEastern Cooperative Oncology Group (ECOG) Performance status 0-4\n\nNon-Hodgkin's Lymphoma (NHL) previously untreated with cytotoxic chemotherapy; however, participants may be entered if they have had prior cyclophosphamide for an urgent problem at diagnosis (e.g., epidural cord compression, superior vena cava syndrome) and/or a single dose of intrathecal methotrexate (MTX) at the time of the pre-treatment diagnostic lumbar puncture\n\nAge greater than or equal to 18 years\n\nLaboratory tests (unless impairment due to respective organ involvement by tumor):\n\n* Creatinine less than or equal to 1.5 mg/dl or creatinine clearance greater than or equal to 50 ml/min\n* Bilirubin less than 2.0 mg/dl, or total bilirubin less than or equal to 4.5 mg/dl with direct fraction less than or equal to 0.3 mg/dl in participants for whom these abnormalities are felt to be due to protease inhibitor therapy\n* Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) less than or equal to 3x upper limit of normal (ULN) (AST and ALT less than or equal to 6x ULN for participants on hyperalimentation for whom these abnormalities are felt to be due to the hyperalimentation)\n* Absolute neutrophil count (ANC) greater than or equal to 1000/mm(3)\n* Platelet greater than or equal to 75,000/mm(3) (unless impairment due to Immune thrombocytopenic purpura (ITP)\n\nAbility of participant to provide informed consent.\n\nEXCLUSION CRITERIA:\n\nPrevious rituximab\n\nPregnancy or nursing.\n\n\\- Doxorubicin, etoposide, vincristine and cyclophosphamide are teratogenic and may be excreted in milk.\n\nCurrent clinical heart failure or symptomatic ischemic heart disease.\n\nSerious underlying medical condition or infection other than HIV that would contraindicate subcutaneous (SC)-rituximab, etoposide phosphate, prednisone, vincristine sulfate, cyclophosphamide, and doxorubicin hydrochloride (hydroxydaunorubicin (EPOCH-R).\n\n* Examples include, but are not limited to:\n* Severe Acquired immunodeficiency syndrome (AIDS)-related wasting\n* Sever intractable diarrhea\n* Active inadequately treated opportunistic infection of the central nervous system (CNS)\n* Primary CNS lymphoma\n\nPrimary CNS lymphoma",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lymphoma, AIDS-related",
+    "Lymphoma, Large B-Cell, Diffuse"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls HIV-positive patients with non-Hodgkin's lymphoma who have not received prior cytotoxic chemotherapy or rituximab for their lymphoma, except for limited urgent/emergent single-agent therapy. The intent is to treat patients in the first-line setting for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility requires patients to be previously untreated with cytotoxic chemotherapy or rituximab for non-Hodgkin's lymphoma, except for prior cyclophosphamide for urgent problems or a single dose of intrathecal methotrexate at diagnosis. This indicates enrollment is restricted to first-line therapy for advanced disease."
+    }
+  ]
+}

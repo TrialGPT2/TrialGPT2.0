@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT00531141",
+  "title": "The Optical Coherence Tomography in Age-Related Macular Degeneration Study: The OCT in AMD Study",
+  "brief_summary": "The Optical Coherence Tomography (OCT) is a non-contact, non invasive method to examine the retina by providing cross-sectional scans through the retina. Measurements of the retinal thickness based on automatically set border lines created by threshold algorithm provide information concerning the amount of intraretinal fluid and activity of the lesion. In this study the reproducibility of retinal thickness measurements in patients suffering from age-related macular degeneration performed by two independent examiners of two examinations of the same day but performed in a time interval of at least two hours should be evaluated. Using the macular thickness program of stratus OCT, 6 radial lines through the center of the foveal avascular zone are performed, Differences between the first and second measurement will be investigated by a 95% confidence interval, a Bland-Altman plot (with corresponding regression analysis) and a random effect model with time, examiner and diagnosis as fixed factors. Although threshold algorithm failures and fixation problems are common in age-related macular degeneration evidence of reproducibility and repeatability of maximum retinal thickness is expected.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age over 50 years\n* Age related macular degeneration\n\nExclusion Criteria:\n\n* Macular pathologies other than age related macular degeneration (diabetic maculopathy, macular pucker, macular hole,\n* Visualization of the macula not possible (dens cataract, vitreous haemorrhage)\n* Not consented patients",
+  "minimum_age": "50 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "primary care clinic",
+  "condition": [
+    "Macular Degeneration"
+  ],
+  "overall_status": "COMPLETED"
+}

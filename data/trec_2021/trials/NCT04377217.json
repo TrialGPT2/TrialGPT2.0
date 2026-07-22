@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04377217",
+  "title": "Computerized Facial Recognition for Automated Diagnosis of the Facio-Scapulo-Humeral Muscular Dystrophy (FSMHD)",
+  "brief_summary": "The clinical diagnosis of Facio-Scapulo-Humeral Muscular Dystrophy (FSHMD) requires the movement of patients to a medical centre and a lengthy examination involving medical personnel, and may be underestimated in the most moderate cases. Thus, it requires costly and burdensome logistics both for patients living in remote areas and having to undertake long and expensive travel, and for clinical staff. This is an obstacle to large-scale diagnosis. The investigators plan to alleviate these limitations through the use of digital facial analysis technology that would enable large-scale diagnosis of patients through telemedicine.\n\nMotivated by the reasons described above and by preliminary results, the goal of this project is to develop methods to automatically detect and monitor the progression of this disease using computer vision algorithms. In order to do this, the investigators will first build up a bank of images and videos of patients with moderate to severe FSHMD, patients with other muscular dystrophies causing facial muscle asymmetry, as well as control subjects without facial involvement. Each of these subjects will be characterized clinically and genetically.\n\nThe investigators will then develop computer tools using video and audio sensors capable of detecting facial muscle damage in patients with FSHMD and differentiating them from control subjects on the one hand and patients with other muscular dystrophies on the other hand. The investigators wish to use the most recent advances in terms of \"deep-learning\" and improve their architecture in order to achieve our objectives.\n\nIn addition to this holistic approach, the investigators will study facial recognition approaches capable of accurately identifying different facial areas on images, as well as the relevance of different statistical properties of facial dynamics (duration and intensity). These algorithms will also be useful for monitoring the evolution of facial damage in order to develop a specific measurement tool that could be used in patient follow-up and in clinical trials on early stages of the disease.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "\\- Patient belonging to one of these four groups:\n\n* Group 1 FSMHD confirmed or to be confirmed with moderate facial involvement\n* Group 2 FSMHD confirmed or to be confirmed with severe facial involvement.\n* Group 3 Other disease NM confirmed or to be confirmed.\n* Group 4 control subjects.\n\nExclusion Criteria:\n\n* Patient presenting all pathologies judged by the investigator to interfere with the smooth running of the study (facial trauma, ...).\n* Pregnant or breastfeeding women of childbearing age.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Facio-Scapulo-Humeral Dystrophy"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT06325709",
+  "title": "Base Editing for Mutation Repair in Hematopoietic Stem & Progenitor Cells for X-Linked Chronic Granulomatous Disease",
+  "brief_summary": "Background:\n\nChronic granulomatous disease (CGD) is a rare immune disorder caused by a mutation in the CYBB gene. People with CGD have white blood cells that do not work properly and are at greater risk of getting infections. Gene therapy using lentivector has helped people with CGD. Researchers want to know if the base-edited stem cells can improve the white cells' functioning and result in fewer CGD-related infections.\n\nObjective:\n\nTo learn if base-edited stem cells will correct the white blood cells in people with CGD.\n\nEligibility:\n\nMales aged 18 years and older with X-linked CGD.\n\nDesign:\n\nThis is a non-randomized study. Participants with the specific mutation under study will be screened during the initial phase.\n\nDuring the development phase, participants will undergo apheresis to collect stem cells for base-editing correction of the mutation.\n\nDuring the treatment phase, participants will receive the base-edited cells after chemotherapy with busulfan. Participants will remain in the hospital until their immunity recovers. Participants will be maintained on sirolimus to prevent an immune response to the new protein expressed by the base-edited cells.\n\nFollow-up visits will continue for 15 years.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  -\\>= 18 years of age.\n* Confirmed CYBB c.676 C\\>T mutation.\n* Male patients.\n* Clinically stable and eligible to undergo apheresis and conditioning chemotherapy.\n\n  -\\>=5 x 10\\^6 cryopreserved cells/kg body weight available for study product manufacturing.\n* History of at least one prior serious infection or inflammatory complication requiring hospitalization despite conventional therapy.\n* In the experience of a qualified clinical investigator, the patient has a poor prognosis.\n* Able and willing to use a highly effective method of contraception, AND partner has communicated her willingness through subject to do same, if engaging in potentially reproductive sex from the signing of the informed consent and for 6 months after IMP infusion. Acceptable methods of contraception include the following:\n\n  * Hormonal contraception in continuously effective use by female partner.\n  * Male or female condom with spermicide as indicated.\n  * Diaphragm or cervical cap in consistent and effective pattern of use with a spermicide by female partner.\n  * Intrauterine device in-situ throughout above period by female partner.\n\nEXCLUSION CRITERIA:\n\nIndividuals meeting any of the following criteria will be excluded from study participation:\n\n* Untreated, acute infection.\n* Elevated anti-gp91 specific autoantibodies \\>2 x ULN\n* Elevated anti-gp91 specific T cells (\\>10 fold)\n* Anti-platelet antibody screening with \\>1 anti-platelet antibody positive in the presence of an ongoing brain infection; OR \\>1 anti-platelet antibody positive and considered unsafe for study participation after consultation with hematology specialist.\n* Known hypersensitivity to busulfan or any component of the product.\n* Contraindications for administration of busulfan.\n* Any current or pre-existing hematologic malignancy.\n* Chronic infections that are considered unsafe for participation in the study by Infectious Disease Consultant.\n* Cardiac abnormalities and neurological abnormalities that are deemed unsafe to participate in the study.\n* Childhood malignancy (occurring before 18 years of age) in the patient or a first degree relative, or previously diagnosed known genotype of the participant conferring a predisposition to cancer (no DNA or other testing for cancer predisposition genes will be performed as part of the screen for this protocol).\n* Hematological parameters unsafe for apheresis or above Grade 2 Common Terminology Criteria for Adverse Events (CTCAE) criteria until improved.\n* Hepatic dysfunction- alanine aminotransferase (ALT \\>3.0 - 5.0 x upper limit of normal \\[ULN\\]), aspartate aminotransferase (AST \\>3.0 - 5.0 x ULN), bilirubin (\\>1.5 - 3.0 x ULN).\n* Renal dysfunction-serum creatinine \\>1.5 - 3.0 x ULN or creatinine clearance 59-30 mL/min/1.73 m\\^2.\n* Coagulation dysfunction- Prothrombin INR or Partial thromboplastin time \\>2 x ULN (patients on controlled anticoagulation agents will not be excluded for therapeutic levels).\n* Uncontrolled hypertension- Systolic BP 140-159 mm Hg or diastolic BP 90-99 mm Hg.\n* Abnormal blood chemistries- Hyperkalemia (K \\>5.5 - 6.0 mmol/L), Hypokalemia (\\<LLN - 3.0 mmol/L and requiring intervention); OR Hypercalcemia (corrected serum calcium \\>11.5 - 12.5 mg/dL), Hypocalcemia (corrected serum calcium \\<8.0 -7.0 mg/dL)\n\nThese values exclude false abnormalities secondary to hemolysis.\n\n* Cytogenetic abnormalities evidenced on bone marrow aspirate.\n* Pulmonary dysfunction FEV1\\<25% predicted.\n* Previous treatment with gene therapy or gene editing products.\n* Previous receipt of non-HLA matched donor granulocyte transfusions.\n* Any other condition that, in the opinion of the investigator, may unduly compromise the safety or compliance of the patient, or would make successful study completion highly unlikely.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Chronic Granulomatous Disease (CGD)",
+    "X-Linked Chronic Granulomatous Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls adult males with X-linked chronic granulomatous disease (CGD) who have a poor prognosis and have experienced at least one serious infection or inflammatory complication despite conventional therapy. There are no explicit requirements for prior lines of systemic therapy for advanced disease, and prior gene therapy or gene editing is excluded.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility requires a history of at least one serious infection or inflammatory complication despite conventional therapy, but there is no mention of required prior systemic therapy for advanced disease. Patients previously treated with gene therapy or gene editing products are excluded. The protocol does not specify a minimum or maximum number of prior systemic lines for advanced disease."
+    }
+  ]
+}

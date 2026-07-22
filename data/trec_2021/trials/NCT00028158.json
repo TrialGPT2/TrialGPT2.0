@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT00028158",
+  "title": "Safety and Effectiveness Study of G207, a Tumor-Killing Virus, in Patients With Recurrent Brain Cancer",
+  "brief_summary": "This clinical trial will study the safety and effectiveness of an engineered herpes virus, G207, administered directly into the brain of patients with recurrent brain cancer. G207 has been modified from the herpes virus that causes cold sores (called herpes simplex virus type 1 or HSV-1). G207 has been designed so that it should kill tumor cells, but not harm normal brain cells. G207 has been shown to be safe in animal testing completed to date and in previous studies in patients with brain tumors.\n\nThis is a phase Ib/II study. In the phase Ib portion of the study, patients will receive G207 at a dose that is higher than tested in previous human studies. Patients will initially receive 15% of the assigned dose injected directly into the brain tumor. Approximately two days later, as much of the tumor as possible will be surgically removed, and more G207 will be injected into the brain tumor bed. Patients will be monitored, and medical tests will be done at specific study timepoints.\n\nThe phase II portion will begin only if there are no safety concerns in the phase Ib portion. The goals of the phase II portion of the study are to determine the safety of G207 and to study patient survival at six months after G207 dosing. In the phase II portion of the study, patients will receive a single dose of G207 at the highest dose determined to be safe in the phase Ib portion of the study. The tumor will be removed, and G207 will be injected into any remaining tumor tissue in the brain tumor bed. Patients will be closely monitored, medical tests will be performed at specific study visits, and survival will be evaluated.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Main Inclusion Criteria:\n\n* Age 19 years and older\n* Phase Ib: Histologically confirmed recurrent glioblastoma multiforme or gliosarcoma (recurrent anaplastic astrocytoma also included in phase Ib) that is progressive despite previous radio- or chemotherapy\n* Phase II: Histologically confirmed recurrent glioblastoma multiforme or gliosarcoma that is progressive despite previous radio- or chemotherapy\n* Enhancing brain tumor measures at least 1.0 cm in diameter and evaluable by MRI within 14 days of G207 administration (and proposed area of study drug inoculation appears to be resectable en bloc--for phase Ib only)\n* Steroid regimen stable for at least 1 week prior to G207 inoculation\n* Karnofsky Performance Status 70% or greater\n* Failed external beam radiotherapy of at least 5000 cGy 4 weeks or longer prior to G207 administration\n* Candidate for brain tumor resection\n* Females: negative urine pregnancy test within 24 hours prior to G207 administration\n* Willing to use effective barrier birth control\n* Able to give informed consent\n\nMain Exclusion Criteria:\n\n* Multiple (more than one) intracranial malignant glioma lesions\n* Documented extracranial metastases\n* Laboratory test values (CBC, platelets, clinical chemistry, liver and renal function tests) outside protocol specified limits\n* Chemotherapy, cytotoxic or immunotherapy within 6 weeks of G207 administration\n* Any contraindication for undergoing MRI such as pacemakers, infusion pumps, aneurysm clips, metal prosthesis, former welders etc.\n* Surgical resection within 4 weeks of G207 administration\n* Pregnant or nursing females\n* History of any of the following: HIV seropositive (historical or known); other investigational agents or vaccinations within 30 days; encephalitis, multiple sclerosis or other CNS infection; prior gene transfer therapy or prior therapy with a cytolytic virus of any type\n* Any of the following concurrent conditions: evidence of active herpes infection; requires antiviral therapy for HSV at baseline; previous history or current diagnosis of other cancer except curative cervical cancer in situ or basal or squamous cell carcinoma of the skin; active uncontrolled infection, granulocytopenia, any unstable or severe medical condition that precludes surgery; alcohol or other substance abuse",
+  "minimum_age": "19 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Glioma",
+    "Astrocytoma",
+    "Glioblastoma"
+  ],
+  "overall_status": "COMPLETED"
+}

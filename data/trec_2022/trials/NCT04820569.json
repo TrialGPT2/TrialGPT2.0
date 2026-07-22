@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04820569",
+  "title": "Long-term Heart-specific Mortality in the Presence of Competing Risks Among Patients With Non-metastatic Gastric Adenocarcinoma Undergoing Resection and Chemotherapy",
+  "brief_summary": "In this population-based cohort study, data on patients diagnosed with nmGaC in 2004 through 2016, managed with resection and chemotherapy, followed up until the end of 2016, and surviving \u22651 month were retrieved from the US Surveillance, Epidemiology, and End Results-18 Program. Cumulative mortality functions were calculated. Prognostic factors for heart-specific mortality were evaluated using both multivariable-adjusted Fine-Gray subdistribution and cause-specific hazard functions.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Cases of non-metastatic gastric adenocarcinoma (nmGaC) were defined as patients with microscopically-confirmed first primary invasive adenocarcinoma of the stomach (International Classification of Diseases for Oncology, Third Edition (ICD-O-3) code: C16) without distant metastasis. Only those who underwent resection in January 2004 through December 2016 were included. Cancers of other histology types including squamous cell carcinoma, gastrointestinal stromal tumor or sarcoma, neuroendocrine tumor or carcinoid, lymphoma, and germ-cell tumor were ineligible, as were patients with non-gastric cancers involving the stomach, with benign or in situ tumors, or with other malignancies before gastric cancer. We further excluded patients with diagnosis based on death certificate only or autopsy, with missing follow-up period, survival status, or cause of death, or with unknown metastasis status. Cancers with distant metastasis were excluded since resection is not routinely recommended for them. Data before 2004 were not included, as the TNM stage information was unavailable. To minimize the effect of perioperative events on survival, we excluded patients surviving \\<1 month. No restrictions were applied to age, and patients \u226580 years only comprised 5% of those receiving both resection and chemotherapy.",
+  "minimum_age": "20 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Cases of non-metastatic gastric adenocarcinoma (nmGaC) were defined as patients with microscopically-confirmed first primary invasive adenocarcinoma of the stomach (International Classification of Diseases for Oncology, Third Edition (ICD-O-3) code: C16) without distant metastasis. Only those who underwent resection in January 2004 through December 2016 were included.",
+  "condition": [
+    "Long-term Heart-specific Mortality in the Presence of Competing Risks Among Patients With Gastric Adenocarcinoma Undergoing Resection and Chemotherapy"
+  ],
+  "overall_status": "COMPLETED"
+}

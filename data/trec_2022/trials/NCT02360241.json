@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02360241",
+  "title": "Light Needle Positioning Robot Under MRI Guidance",
+  "brief_summary": "This study aim is to evaluate the needle positioning precision, compared to the real path planned by the physician on healthy voluntaries, by positioning a fictional needle, without inserting it.\n\nAdditionally, this study will evaluate:\n\n* the robot precision,\n* the robot detection robustness,\n* the software and device ergonomics,\n* the device security.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* person over 18 years old,\n* person with height is under 1m90,\n* person with abdomen height is under 28 cm,\n* person with abdomen width is between 26 cm to 50 cm,\n* person able to hold his breath during 30 seconds,\n* person affiliated to social security or similarly regime,\n* signed consent for participation in the study.\n\nExclusion Criteria:\n\n* person with a contraindication for abdomen MRI,\n* claustrophobic person,\n* protected person referred to in Articles L1121-5 to L1121-8 of the Code of Public Health",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Magnetic Resonance Imaging",
+    "Robotic Surgical Procedures"
+  ],
+  "overall_status": "COMPLETED"
+}

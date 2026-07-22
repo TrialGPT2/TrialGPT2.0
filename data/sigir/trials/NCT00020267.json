@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT00020267",
+  "title": "Vaccine Therapy in Treating Patients With Metastatic Cancer",
+  "brief_summary": "RATIONALE: Vaccines made from a peptide may make the body build an immune response and kill tumor cells.\n\nPURPOSE: Randomized phase I trial to study the effectiveness of vaccine therapy in treating patients who have metastatic cancer that has not responded to previous therapy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "PROTOCOL ENTRY CRITERIA:\n\n--Disease Characteristics-- Histologically documented metastatic cancer of one of the following types: Cutaneous melanoma Ocular melanoma Colorectal carcinoma Non-small cell lung cancer Breast carcinoma Sarcoma HLA-Cw\\*0702 positive MAGE-12 expression by RT-PCR amplified tissue analysis Failed prior standard therapy Measurable or evaluable disease No renal carcinoma Hormone receptor status: Not specified --Prior/Concurrent Therapy-- Biologic therapy: At least 3 weeks since prior biologic therapy for cancer No other concurrent biologic therapy for cancer Chemotherapy: At least 3 weeks since prior chemotherapy for cancer and recovered No concurrent chemotherapy for cancer Endocrine therapy: At least 3 weeks since prior hormonal therapy for cancer No concurrent hormonal therapy for cancer No concurrent steroids Radiotherapy: At least 3 weeks since prior radiotherapy for cancer and recovered No concurrent radiotherapy for cancer Surgery: Prior surgery for cancer allowed --Patient Characteristics-- Age: 16 and over Sex: Male or female Menopausal status: Not specified Performance status: ECOG 0-2 Life expectancy: Greater than 3 months Hematopoietic: WBC at least 3,000/mm3 Platelet count at least 90,000/mm3 Hepatic: Bilirubin no greater than 1.6 mg/dL AST/ALT less than 3 times normal Renal: Creatinine no greater than 2.0 mg/dL Cardiovascular: No cardiac ischemia, myocardial infarction, or cardiac arrhythmias (if receiving interleukin-2 (IL-2) therapy) Pulmonary: No obstructive or restrictive pulmonary disease (if receiving IL-2 therapy) Other: Not pregnant Negative pregnancy test Fertile patients must use effective contraception No active systemic infections No autoimmune disease, known immunodeficiency disease, or active primary or secondary immunodeficiency Hepatitis B surface antigen negative HIV negative No other active major medical illnesses (if receiving IL-2 therapy)",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lung Cancer",
+    "Adult Soft Tissue Sarcoma",
+    "Colorectal Cancer",
+    "Bone Cancer",
+    "Ovarian Sarcoma",
+    "Melanoma",
+    "Colon Cancer",
+    "Rectal Cancer",
+    "Breast Cancer",
+    "Eye Cancer",
+    "Uterine Sarcoma"
+  ],
+  "overall_status": "COMPLETED"
+}

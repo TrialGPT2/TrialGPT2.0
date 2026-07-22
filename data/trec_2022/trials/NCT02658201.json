@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02658201",
+  "title": "Ultrafast MRI Imaging to Exclude Constipation",
+  "brief_summary": "In haematological malignancy and in immunocompromised patients, constipation is a common symptom caused by a number of factors during treatment. In current clinical practice, an abdominal radiograph is the first imaging investigation for constipation and non specific abdominal pain to support or exclude the clinical suspicion. Children are more sensitive to radiation induced adverse effects especially in the thyroid gland and bone marrow. Immunocompromised patients are at risk of developing a second malignant neoplasm. MRI is an alternative imaging modality without ionizing radiation. Imaging the peritoneal cavity on abdominal MRI has always been challenging primarily because of bowel motion and a long acquisition time for standard T1 and T2 weighted sequences. Recent development of an ultrafast 2 dimensional FIESTA sequence developed by GE (General Electric) Healthcare based on the balanced steady state free precession (b-SSFP) pulse sequence has several advantages: motion insensitivity ( does not interfere with peristalsis), sharp edge definition and higher contrast when compared with the standard SSFSE pulse sequence. FIESTA is well suited for abdominal imaging as it produces motion- free images, allowing clear delineation of intra-peritoneal and retroperitoneal anatomy and is capable of depicting the vascular anatomy and lymph-adenopathy.There is a wide spectrum of diseases which could cause abdominal pain in our study group with constipation being the most common cause but MRI could potentially detect more serious bowel-related chemotherapy induced complications such as typhlitis, pneumatosis coli, veno-occlusive disease, pancreatitis and intra abdominal abscess, which would not be apparent on abdominal radiograph.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with haematological malignancy or immunocompromise under the care of the haematology team and undergoing plain abdominal radiograph for abdominal pain as part of routine clinical care.\n* Patients who can stay still in MRI\n* Patient age between 6 and 18 years.\n\nExclusion Criteria:\n\n* Patients who require sedation or general anesthesia.\n* Those with signs of acute abdomen.\n* Claustrophobic patient.\n* Patient/parents who are unable to wait for MRI.",
+  "minimum_age": "6 Years",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Constipation"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT05675930",
+  "title": "A Study of Photobiomodulation (PBM) Therapy in People With Oral Graft-Versus-Host Disease (GVHD) After Stem Cell Transplant",
+  "brief_summary": "The purpose of this study is to find out whether photobiomodulation/PBM therapy using the Thor LX2.3 therapy system is a safe and effective treatment for oral Graft-Versus-Host Disease/GVHD.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Allo-HCT recipients\n* Age ≥ 4 years-old\n* Oral cGvHD with NIH-modified OMRS score ≥ 3 who have failed ≥ 1 line of therapy, including topical corticosteroids..\n* No change in systemic immunosuppressive therapy (type or intensity level) within 2 weeks prior to enrollment.\n* If a patient is currently using another oral topical treatment for mouth lesions/symptoms, patient must be stable on this treatment for ≥2 weeks prior to study enrollment. Patient may continue same topical dose/frequency during the study period.\n\nExclusion Criteria:\n\n* Presence of an active uncontrolled infection. Subjects with a controlled infection receiving definitive therapy for 48 hours prior to enrollment are eligible.\n* Personal history of mucosal head and neck cancer in the past 5 years.\n* Pregnant or breastfeeding.\n* The subject or guardian is unable to give informed consent or unable to comply with the treatment protocol including appropriate supportive care, follow-up, and research tests.\n* Any serious medical or psychiatric illness that could, in the Investigator's opinion, potentially interfere with the completion of treatment according to this protocol.",
+  "minimum_age": "4 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Graft-Versus-Host Disease",
+    "GVHD",
+    "Undefined"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with oral chronic GVHD after allogeneic stem cell transplant who have failed at least one prior line of therapy for their GVHD, including topical corticosteroids. Only patients with at least one prior systemic or topical treatment for oral GVHD are eligible.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Eligibility requires patients to have failed at least one line of therapy for oral cGVHD, including topical corticosteroids. Patients must have received prior therapy specifically for oral GVHD, so treatment-naïve or adjuvant-only patients are not eligible."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT04717349",
+  "title": "Data Collection Study of Pediatric and Adolescent Gynecology Conditions",
+  "brief_summary": "Background:\n\nGynecologic conditions are those that are related to the reproductive system. They can be reproductive gland disorders or reproductive system tumors. They can also be inborn anomalies of the reproductive tract. Researchers want to gather data over time from a large group of young people with these conditions.\n\nObjective:\n\nTo create a database about child and teenage gynecologic conditions.\n\nEligibility:\n\nParticipants of any age with known or suspected pediatric and adolescent gynecologic conditions, and their adult family members\n\nDesign:\n\nParticipants will be screened with a review of their medical records.\n\nParticipants may have a medical history and physical exam.\n\nParticipants will have blood drawn using a needle. The blood will be used for genetic tests.\n\nParticipants will have saliva collected. They will spit into a small plastic container. Or their spit will be absorbed from their mouth using a small sponge. The saliva will be used for genetic tests.\n\nParticipants may have samples collected from their vagina. A small cotton swab will be used to gather the samples. This procedure is optional.\n\nIf participants have a surgery related to their condition, a small tissue sample will be taken. It will be stored for future research.\n\nParticipants may complete optional surveys. These surveys ask about their physical and emotional health. They can choose not to answer any of the questions.\n\nResearchers will collect medical data from participants standard tests. Such tests may include blood and urine tests, X-rays, nuclear medicine scans, and other tests. Data will also be collected from standard treatments they may receive.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA FOR PAG PATIENTS:\n\n  1. Provision of signed and dated informed consent form.\n  2. Stated willingness to comply with all study procedures and availability for the duration of the study.\n  3. Participants with known or suspected pediatric and adolescent gynecologic conditions of any age are eligible for this protocol.\n\nINCLUSION CRITERIA FOR PAG PATIENTS OF FAMILY MEMBERS:\n\n1. Provision of signed and dated informed consent form.\n2. Stated willingness to comply with all study procedures and availability for the duration of the study.\n3. In order to be eligible to participate in this study, an individual must meet all of the following criteria: Relatives ages 18 years and older may be enrolled if clinically indicated for the diagnosis of a proband.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Any medical, physical, psychiatric, or social conditions, which, in the opinion of the investigators, would make participation in this protocol not in the best interest of the patient, will exclude participation. Patients who are critically ill, unstable, or with severe organ failure that may affect/limit the evaluation and place unsustainable demands on Clinical Center or NICHD resources will be excluded.\n2. Pregnant family members",
+  "minimum_age": "1 Day",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Pediatric and adolescent patients with gynecologic conditions and their family members that would provide clinical information related to the diagnosis of a proband.",
+  "condition": [
+    "Disorders of Sex Development (DSD)",
+    "Pediatric and Adolescent Cancers of the Genital Tract",
+    "Reproductive Endocrine Conditions in Puberty",
+    "Structural Gynecologic Conditions Including Vulvar and Vaginal Conditions"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional observational study enrolling patients with pediatric and adolescent gynecologic conditions regardless of prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, and all patients with known or suspected pediatric and adolescent gynecologic conditions are eligible. There are no restrictions or specifications regarding lines of therapy, so line-of-therapy intent cannot be determined."
+    }
+  ]
+}

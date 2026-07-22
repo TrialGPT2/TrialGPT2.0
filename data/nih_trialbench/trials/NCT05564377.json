@@ -1,0 +1,49 @@
+{
+  "nctid": "NCT05564377",
+  "title": "Targeted Therapy Directed by Genetic Testing in Treating Patients With Locally Advanced or Advanced Solid Tumors, The ComboMATCH Screening Trial",
+  "brief_summary": "This ComboMATCH patient screening trial is the gateway to a coordinated set of clinical trials to study cancer treatment directed by genetic testing. Patients with solid tumors that have spread to nearby tissue or lymph nodes (locally advanced) or have spread to other places in the body (advanced) and have progressed on at least one line of standard systemic therapy or have no standard treatment that has been shown to prolong overall survival may be candidates for these trials. Genetic tests look at the unique genetic material (genes) of patients' tumor cells. Patients with some genetic changes or abnormalities (mutations) may benefit from treatment that targets that particular genetic mutation. ComboMATCH is designed to match patients to a treatment that may work to control their tumor and may help doctors plan better treatment for patients with locally advanced or advanced solid tumors.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "SCREENING",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient must have measurable disease\n* Patient must have an Eastern Cooperative Oncology Group (ECOG) performance status between 0-2 OR patient must have Lansky performance status of \\>= 50% or Karnofsky performance status of \\>= 50%\n* Patient must be deemed potentially eligible for a ComboMATCH Treatment Trial as assessed by the enrolling provider\n* All patients must have sequencing results available from a National Cancer Institute (NCI) credentialed Designated Laboratory (DL)\n* Patients must have locally advanced or advanced histologically documented solid tumors requiring therapy and meet one of the following criteria:\n\n  * Patients must have progressed on at least one line of standard systemic therapy OR\n  * Patients whose disease has no standard treatment that has been shown to prolong overall survival\n* Patient must meet one of the following requirements:\n\n  * Patients 18 years and older who have tumor amenable to minimal risk image-guided or direct vision biopsy and must be willing and able to undergo a tumor biopsy to obtain samples for research if the patient is to enroll in a ComboMATCH treatment trial OR\n  * Patients 18 years and older who do not have disease that is biopsiable at minimal risk to the patient must confirm availability of an archival tumor tissue specimen for submission for research if the patient enrolls to a ComboMATCH Treatment Trial. This tumor tissue must meet the following criteria:\n\n    * Tissue must have been collected within 12 months prior to registration to the EAY191 Registration Trial\n    * Patient must not have had a Response Evaluation Criteria in Solid Tumors (RECIST) response (complete response \\[CR\\] or partial response \\[PR\\]) to any intervening therapy after collection of the tissue\n    * Formalin-fixed paraffin-embedded tumor tissue block(s) or slides must be available OR\n  * Patients under 18 years old must confirm availability of an archival tumor tissue specimen for submission for research if patient enrolls to a ComboMATCH Treatment Trial. This tumor tissue must meet the following criteria:\n\n    * Formalin-fixed paraffin-embedded tumor tissue block(s) or slides must be available\n  * NOTE: See specific ComboMATCH Treatment Trial protocol for tissue collection and management instructions. Performance of the mandatory research biopsy or submission of pre-trial formalin-fixed paraffin-embedded (FFPE) and collection and submission of the blood specimens for the integrated studies will be performed under the consent authority of the specific treatment trial protocol to which the patient is registered. No procedures to collect specimens for research only are to be performed for patients registered to the EAY191 Registration Trial only\n* NOTE: Each ComboMATCH Treatment Trial contains specific eligibility criteria. If patient is found to not be eligible for the assigned ComboMATCH Treatment Trial, indication of ineligibility will trigger re-evaluation and potential assignment to another Treatment Trial",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Advanced Malignant Solid Neoplasm",
+    "Anatomic Stage III Breast Cancer AJCC v8",
+    "Anatomic Stage IV Breast Cancer AJCC v8",
+    "Locally Advanced Malignant Solid Neoplasm",
+    "Malignant Female Reproductive System Neoplasm",
+    "Metastatic HER2-Negative Breast Carcinoma",
+    "Metastatic Malignant Solid Neoplasm",
+    "Recurrent Endometrial Carcinoma",
+    "Recurrent Fallopian Tube Carcinoma",
+    "Recurrent Malignant Female Reproductive System Neoplasm",
+    "Recurrent Malignant Solid Neoplasm",
+    "Recurrent Ovarian Carcinoma",
+    "Recurrent Primary Peritoneal Carcinoma",
+    "Unresectable HER2-Negative Breast Carcinoma",
+    "Unresectable Malignant Solid Neoplasm"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a screening trial for patients with locally advanced or advanced solid tumors who have either progressed on at least one line of standard systemic therapy for advanced disease or have no standard treatment options that prolong overall survival. Patients who have only received adjuvant/neoadjuvant therapy are eligible if there is no standard therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility requires patients to have locally advanced or advanced solid tumors and to have either progressed on at least one line of standard systemic therapy or have no standard treatment that prolongs survival. Patients who have not received prior systemic therapy for advanced disease (i.e., adjuvant-only patients) are eligible if there is no standard therapy for their advanced disease."
+    }
+  ]
+}

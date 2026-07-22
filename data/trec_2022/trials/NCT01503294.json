@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01503294",
+  "title": "Comparison of Temporal to Pulmonary Artery Temperature Measurement in Patients With Fever",
+  "brief_summary": "Assessment and evaluation of body temperature is an important sign of health and disease. Inferior thermometry increases the risk of morbidity and mortality, and increases health care cost by delaying the diagnosis and treatment of fever-related disease. The gold standard for measuring core body temperature is the pulmonary artery thermistor (PAT). The measurement of the PAT requires the insertion of the invasive pulmonary artery catheter, a high risk procedure.\n\nAn innovative thermometry technology, the temporal artery thermometer (TAT), has been introduced into the clinical arena as a potential non-invasive proxy for the PAT. The TAT reduces the risk and cost of pulmonary artery catheter insertion by non-invasively measuring core blood temperature by measuring temperature over the skin of the temporal artery.\n\nResearch to demonstrate the precision and accuracy of the TAT in normothermic patients has been published, but little to no data is available in those with temperatures greater than 100.4oF. The purpose of this study is to measure the precision and accuracy of 2standard of care temperature methods: the thermistor from the PAT, considered the gold standard, and the TAT as measured in those patients with a PAT temperature greater than 100.4oF.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Pulmonary artery catheter in place for a clinical indication,\n2. fever \\> 100.4oF\n\nExclusion Criteria:\n\n1. significant carotid or cerebrovascular disease,\n2. PA catheter is not in proper position as confirmed by chest x-ray",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "ICU patients",
+  "condition": [
+    "Fever"
+  ],
+  "overall_status": "COMPLETED"
+}

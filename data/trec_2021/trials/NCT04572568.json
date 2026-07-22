@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04572568",
+  "title": "Registry of Multimodality Treatment for Brain Arteriovenous Malformation in Mainland China",
+  "brief_summary": "This study is a multi-center, prospective, registry study. This research was supported by the National Key Research and Development Program. They were divided into experimental group and control group according to whether the treatment plan was formulated by a multidisciplinary team. Patients of experimental group is strictly in accordance with standardized multi-disciplinary treatment protocols and meet the following criteria: 1. A multi-disciplinary conference discussion; 2. Detailed preoperative evaluation based on CT, MRI, fMRI and DSA. 3. Treatment modalities meet the following treatment criteria\uff08craniotomy, embolization and stereotactic radiosurgery\uff09. The control group was patients who had not been treated according to a multi-disciplinary treatment protocol.\n\nPatient baseline data, AVM angioarchitectural features, imaging DICOM data, surgical information, and follow-up information were registered. All patients were evaluated for neurofunction at baseline, 3 months, 12 months, and 3 years after treatment. Main observation endpoints: 1. Modified Rankin Scale; 2. Obliteration rate; 3. Subsequent hemorrhage; 4. Complication rate (such as morbidity rate, new-onset neurological dysfunction, and radiation-related complications). Secondary observation endpoint: improvement of clinical symptoms (epilepsy, headache, neurological dysfunction) at 3 months, 12 months, and 3 years after treatment.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. The diagnosis of AVM was confirmed with digital subtraction angiography (DSA) and/or magnetic resonance imaging(MRI).\n2. Patients with complete clinical and imaging data.\n3. Patient or patient's legal representative agreed to collection of information for this study and signed informed consent.\n\nExclusion Criteria:\n\n1. Received other treatment (surgery, embolization or SRS)before inclusion;\n2. Expected survival time is less than 6 months;\n3. Spinal AVMs;\n4. Patients missing critical baseline and imaging data.",
+  "minimum_age": "1 Year",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with the diagnosis of AVM was confirmed with digital subtraction angiography (DSA) and/or magnetic resonance imaging(MRI).",
+  "condition": [
+    "Brain Arteriovenous Malformation"
+  ],
+  "overall_status": "RECRUITING"
+}

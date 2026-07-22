@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT00771589",
+  "title": "Active Knee Prosthesis Study for Improvement of Locomotion for Above Knee Amputees",
+  "brief_summary": "The purpose of this study is to develop a robust, low-power, stable, and light weight, active knee prosthetic device that can dramatically increase gait symmetry and walking economy of a transfemoral amputee during walking.\n\nState of the art prosthetic knees can be classified into three main classes: a) mechanically passive, b) variable-damping, and c) powered. Although the devices within each of these classes offer some advantages for above-knee amputees, their overall performance still presents some deficiencies. Artificial knees in the first two groups are predominantly damping devices, incapable of providing positive power output. Moreover, current powered prostheses are heavy and inefficient in their energy consumption, and/or they have a limited range of motion. To overcome such inadequacies, we have designed a novel prosthetic knee device with a biomimetic approach.\n\nThe design of the active knee prosthesis is inspired by the antagonistic muscle anatomy of the human knee joint. This device mimics the synergistic muscle activity at the knee using a double series-elastic actuator (SEA) system that resembles the major mono-articular muscle groups that help flex and extend the knee joint. The agonist-antagonist SEA knee architecture will allow for precise force control of the knee joint, mimicking the spring-like behavior of the human knee, as well as providing adequate energy for forward progression of the body. The SEA has been previously developed and tested on legged robots. Also, the SEA has been successfully applied to the development of an actuated ankle-foot orthoses (AAFO) at MIT AI Lab.\n\nThe mechanical architecture of the active knee prosthesis allows for independent engagement of flexion and extension tendon-like, series springs for the control of joint position and impedance, as well as net joint torque. Furthermore, this architecture permits a joint rotation with near zero friction, allowing the controller to take advantage of the passive dynamics of the system, thus, augmenting the overall energetic efficiency of the system.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* They will be experienced at prosthesis ambulation\n* Capacity of ambulation at least at a K3 level (i.e. having the ability or potential for ambulation with variable cadence).\n\nExclusion Criteria:\n\n* Amputee participants will be generally healthy and will have no other musculoskeletal problems or any known cardiovascular, pulmonary or neurological disorders.",
+  "minimum_age": "18 Years",
+  "maximum_age": "50 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Amputation"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT05403151",
+  "title": "Controls and Healthy Vasculature Initiative",
+  "brief_summary": "Background:\n\nDiseases involving blood, blood vessels, and immune systems are leading causes of death in the United States. Researchers studying these diseases need to compare blood samples from both healthy and sick individuals. Blood samples from healthy people are also used to establish what is normal when developing new tests for diseases and to make sure new testing equipment is working properly.\n\nObjective:\n\nThis natural history study will collect blood samples from healthy people. The blood will be used for various kinds of research.\n\nEligibility:\n\nHealthy adults aged 18 years or older. Pregnant or nursing women will be excluded.\n\nDesign:\n\nParticipants will have a telehealth visit or telephone call to review their medical history.\n\nThey will come to the NIH Clinical Center. They will have a needle inserted into a vein in their arm or hand. About 10 tablespoons of blood will be drawn through the needle.\n\nResearchers may perform a complete blood count, a type of blood test that can help evaluate the participant s overall health. They may do a blood type test.\n\nThe blood samples will also be used for genetic studies.\n\nSome blood samples may be stored for use in future research.\n\nParticipants may choose to return for repeat visits for up to 10 years. Review of their medical history may also be repeated at later visits. They will receive $50 per blood collection visit.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Stated willingness to comply with all study procedures\n* Aged 18 years and older\n* Ability of subject to understand and the willingness to sign a written informed consent document\n* Self-reported in good general health\n\nEXCLUSION CRITERIA:\n\nAn individual who, by self-report, meets the following criteria will be excluded from participation in this study:\n\n-Current pregnancy or lactation",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy Volunteers",
+  "condition": [
+    "Vascular And Immunologic Diseases",
+    "Healthy Volunteers"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study enrolling only healthy adults with no mention of cancer or systemic therapy. There is no line-of-therapy intent relevant to advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria require participants to be healthy adults with no mention of cancer or prior systemic therapy. There is no reference to lines of therapy for advanced disease, making this not applicable."
+    }
+  ]
+}

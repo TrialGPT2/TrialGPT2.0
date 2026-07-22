@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04377685",
+  "title": "Prediction of Clinical Course in COVID19 Patients",
+  "brief_summary": "In the context of the COVID19 pandemic and containment, chest CT is currently frequently performed on admission, looking for suggestive signs and basic abnormalities of COVID19 compatible viral pneumonitis pending confirmation of identification of viral RNA by reverse-transcription polymerase chain reaction(PCR), with a reported sensitivity of 56-88% in the first few days, slightly higher than PCR (60%) (1). Nevertheless, currently established radiological abnormalities are not specific for COVID19 and the specificity of the chest CT is \\~25% when PCR is used as a reference (1). Deconfinement and its consequences will complicate the triage of COVID patients and the role of the scanner, with the expected impact of a decrease in the prevalence of infection in the emergency department and an increase in the number of \"all-round\" patients, including patients with non-COVID viral infiltrates or pneumopathies.\n\nIn addition, there are currently no imaging criteria to complement the clinical and biological data that can predict the progression of lung disease from the initial data.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* age \u2265 18 years\n* clinical suspicion of COVID-19 confirmed by RT-PCR\n* CT scan at ER admission\n* RT-PCR sampling\n\nExclusion Criteria:\n\n* CT scan failure or loss of CT data\n* RT-PCR initial results unavailable",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "patient admitted to the emergency room of COVID-19 confirmed by RT-PCR",
+  "condition": [
+    "COVID 19"
+  ],
+  "overall_status": "COMPLETED"
+}

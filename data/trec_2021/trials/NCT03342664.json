@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT03342664",
+  "title": "MIND: Artemis in the Removal of Intracerebral Hemorrhage",
+  "brief_summary": "The primary objective of this multicenter randomized controlled study is to compare the safety and efficacy of minimally invasive hematoma evacuation with the Artemis Neuro Evacuation Device to best medical management for the treatment of intracerebral hemorrhage (ICH).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Patient age \u2265 18 and \u2264 80\n2. Supratentorial ICH of volume \u2265 20 and \u2264 80 cc (measured using A x B X C/2 method)\n3. Hemostasis as confirmed by no arterial spot sign (may perform additional scan(s) every 6 hours to demonstrate hemostasis)\n4. NIHSS \u2265 6\n5. GCS \u2265 5 and \u2264 15\n6. Historical mRS 0 or 1\n7. Symptom onset \\< 24 hours prior to initial CT/MR\n8. MIS must be initiated within 72 hours of ictus/bleed\n9. SBP must be \\< 180 mmHg and controlled at this level for at least 6 hours\n\nExclusion Criteria:\n\n1. Imaging\n\n   1. \"Arterial Spot Sign\" identified on final CTA indicating expanding hemorrhage\n   2. Hemorrhagic lesion such as a vascular malformation (cavernous malformation, AVM etc.), aneurysm, and/or neoplasm\n   3. Hemorrhagic conversion of an underlying ischemic stroke\n   4. Infratentorial hemorrhage\n   5. Primary thalamic ICH (where the center of the hemorrhage emulates from the thalamus)\n   6. Associated intra-ventricular hemorrhage requiring treatment for IVH-related mass effect or shift due to trapped ventricle (EVD for ICP management is allowed)\n   7. Midbrain extension/involvement\n   8. Absolute contraindication to CTA, conventional angiography and MRA\n2. Coagulation Issues\n\n   1. Absolute requirement for long-term anti-coagulation (e.g., mechanical valve replacement (bio-prostatic valve is permitted), high risk atrial fibrillation)\n   2. Known hereditary or acquired hemorrhagic diathesis, coagulation factor deficiency\n   3. Platelet count \\< 100 x 10\\^3 cells/mm3 or known platelet dysfunction\n   4. INR \\> 1.4, elevated prothrombin time or activated partial thromboplastin time (aPTT), which cannot be corrected or otherwise accounted for (i.e., lupus anti-coagulant)\n   5. Use of direct factor Xa inhibitors (e.g. apixaban, rivaroxaban, fondaparinux) within last 48 hours\n3. Patient Factors\n\n   1. Traumatic ICH\n   2. High risk atrial fibrillation (e.g., mitral stenosis with atrial fibrillation) and/or symptomatic carotid stenosis\n   3. Requirement for emergent surgical decompression or uncontrolled ICP after EVD\n   4. Unable to obtain consent per Institution Review Board/Ethics Committee policy\n   5. Pregnancy or positive pregnancy test (either serum or urine). Women of child-bearing potential must have a negative pregnancy test prior to enrollment\n   6. Severe active infection requiring treatment (e.g. sepsis or purulent wound) at the time of enrollment\n   7. Renal failure indicated by creatinine \\> 2 mg/dL or undergoing dialysis\n   8. Any comorbid disease or condition expected to compromise survival or ability to complete follow-up assessments through 365 days\n   9. Based on investigator's judgement, patient is unwilling or unable to comply with protocol follow up appointment schedule\n   10. Active drug or alcohol use or dependence that, in the opinion of the site investigator would interfere with adherence to study requirements\n   11. Currently participating in another interventional (drug, device, etc) clinical trial. Patients in observational, natural history, and/or epidemiological studies not involving intervention are eligible.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cerebral Hemorrhage",
+    "Brain Hemorrhage",
+    "Cerebral Parenchymal Hemorrhage",
+    "Intracerebral Hemorrhage"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT03449979",
+  "title": "Single Session of tACS in a Depressive Episode",
+  "brief_summary": "Purpose: Investigating the effects of non-invasive transcranial alternating current stimulation (tACS) on healthy participants and participants with mood disorders.\n\nParticipants: 40 males and females, ages 18-65, with depressed mood; 40 healthy males and females, ages 18-65, free of neurological or psychiatric conditions.\n\nProcedures: This is a single visit study with two stimulation conditions (tACS and sham tACS). The session will begin with clinical assessments (including confirmation of diagnosis), followed by an interactive EEG task, then a 7 minute resting state EEG (2 minutes eyes closed, 5 minutes eyes open), followed by the stimulation session (40 minutes of tACS or sham tACS), followed by an additional 5 minute resting state EEG. The stimulation will involved 40 minutes of transcranial alternating current stimulation, 2 mA in amplitude and at individualized alpha frequency (determined by the 2 minutes eyes closed EEG recording; between 8 and 12Hz).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria for individuals with depressed mood:\n\n* Ages 18-65 years\n* Hamilton Depression Rating Scale score \\>8\n* Capacity to understand all relevant risks and potential benefits of the study (informed consent)\n* Low suicide risk which will be determined through the use of both the Structured Clinical Interview for the DSM-5 and by scoring less than 3 (0,1, or 2) in the Hamilton rating depression scale.\n* Negative pregnancy test for female participants\n\nExclusion Criteria for individuals with depressed mood:\n\n* DSM-5 diagnosis of alcohol of substance abuse (other than nicotine) within the 12 months\n* DSM-5 diagnosis of alcohol or substance dependence (other than nicotine) within the last 12 months\n* DSM-5 diagnosis of personality disorder\n* Eating disorder (current or within the past 3 months)\n* Anything that, in the opinion of the investigator, would place the participant at increased risk or preclude the participant's full compliance with or completion of the study\n* Neurological disorders, including but not limited to history of seizures (except childhood febrile seizures and electro-convulsive therapy (ECT) induced seizures), dementia, history of stroke, Parkinson's disease, multiple sclerosis, cerebral aneurysm.\n* Medical or neurological illness (unstable cardiac disease, AIDS, malignancy, liver or renal impairment) or treatment for a medical disorder that could interfere with study participation\n* History of traumatic brain injury, reoccurring seizures or later cognitive rehabilitation or causing cognitive sequelae\n* History of childhood trauma (determined by the Childhood Trauma Questionnaire)\n* Prior brain surgery\n* Any brain devices/implants, including cochlear implants and aneurysm clips\n* Co-morbid neurological condition (i.e. seizure disorder, brain tumor)\n* Use of illicit drugs, confirmed by a drug test\n* Non English speakers\n* Pregnant or nursing females\n* Current use of benzodiazepines or anti-epileptic drugs\n\nInclusion Criteria for healthy controls:\n\n* Ages 18-65 years\n* Hamilton Depression Rating Scale score \u22648\n* Capacity to understand all relevant risks and potential benefits of the study (informed consent)\n* Negative pregnancy test for female participants\n\nExclusion Criteria for healthy controls:\n\n* History of major neurological or psychiatric illness, including epilepsy\n* Medication use associated with neurological or psychiatric illnesses\n* Currently undergoing counseling or psychotherapy treatment for depression, anxiety, eating disorders, PTSD or other behavioral conditions\n* DSM-5 diagnosis of personality disorder\n* First degree relative (parent, sibling, child) with major neurological or psychiatric illness\n* Prior brain surgery\n* Major head injury\n* Any brain devices/implants (including cochlear implants and aneurysm clips)\n* History of childhood trauma (determined by the Childhood Trauma Questionnaire)\n* Use of illicit drugs, confirmed by a drug test\n* Braids or other hair styling that prevents direct access to the scalp (if removal not possible)\n* Skin allergies or very sensitive skin\n* Non English speakers\n* Pregnant or nursing females",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Depression",
+    "Major Depressive Disorder",
+    "Premenstrual Dysphoric Disorder",
+    "Depressive Episode"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,40 @@
+{
+  "nctid": "NCT06578195",
+  "title": "ASSESS ALL ALS Study",
+  "brief_summary": "The ALL ALS Clinical Research Consortium is establishing research to collect a wide range of samples, clinical information and measurements from Amyotrophic Lateral Sclerosis (ALS) symptomatic, ALS gene carriers and control cohorts. This consortium is being funded by the National Institutes of Health/National Institute of Neurological Disorders and Stroke (NIH/NINDS) and managed by two clinical coordinating centers (CCC) at Barrow Neurological Institute and Massachusetts General Hospital. The clinical sites are distributed across the country, and led by a group of collaborative principal investigators. Once data and samples are collected and harmonized, it will be made available to research community for future research into ALS and related neurological diseases.\n\nASSESS protocol is specific for symptomatic ALS and control participants. This protocol includes both on-site and off-site(remote) participants. The participants will be followed for 24 months (2 years), and will include collection of medical history, clinical outcomes, and blood samples once in 4 months. Additionally, the participants will complete patient reported outcomes and speech recordings once a month. Participants who are coming into clinic may also provide optional Cerebrospinal Fluid (CSF) samples.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria for ALS participants:\n\n1. Age 18 years or older\n2. Capable of providing informed consent\n3. Willing to follow study procedures\n4. Diagnosis of ALS by a physician\n5. Access to a smartphone, computer or tablet, and internet (need not be in the home - access to a public library or other available computer with internet connection is sufficient)\n\nInclusion Criteria for control participants:\n\n1. Age 18 years or older\n2. Capable of providing informed consent\n3. Willing to follow study procedures\n4. No diagnosis of ALS , Progressive Muscular Atrophy (PMA) or Primary Lateral Sclerosis (PLS)\n5. No history of familial ALS/Frontotemporal Dementia (FTD) in a close family member\\*\\* unless the participant has previously tested negative for the known causative ALS genes. Participants with a family history of singleton ALS are permitted to enroll.\n\n   * \\*\\* Defined by the presence of a known ALS causative gene such as C9orf72 in a family member or a family history suggestive of an inherited ALS/FTD syndrome defined by two family members with a history of ALS and/or FTD.\n6. Access to a smartphone, computer or tablet, and internet (need not be in the home - access to a public library or other available computer with internet connection is sufficient)\n\nExclusion Criteria for all participants:\n\n1. Significant cognitive impairment, clinical dementia, or unstable psychiatric illness, including psychosis, active suicidal ideation, suicide attempt, or untreated major depression \\<= 90 days of screening, that would interfere with the study procedure, according to Investigator's judgement.\n2. Clinically significant unstable medical condition (other than ALS) (e.g., cardiovascular instability, systemic infection, untreated thyroid dysfunction, malignant and potentially progressive cancer) that would render the participant unlikely to be able to complete 12 months of follow-up, according to Investigator's judgment.\n\nExclusion Criteria for participants undergoing optional Lumbar Puncture\n\n1. Medically unable to undergo lumbar puncture (LP) as determined by the site investigator (i.e., bleeding disorder, a skin infection at or near the LP site, known or suspected intracranial or intraspinal tumor or other cause of increased intracranial pressure).\n2. Allergy to Lidocaine or other local anesthetic agents.\n3. Use of anticoagulant medication or antiplatelet medications (aside from aspirin 81 mg) that cannot be safely withheld prior to lumbar puncture.\n4. Blood dyscrasia, abnormal bleeding diathesis, or the use of dialysis for renal failure.\n5. Current pregnancy based on participant self-report\n6. Clinical judgement of the site investigator that the participant would be unable to undergo multiple lumbar punctures.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "An initial cohort of approximately 2000 to 3000 participants will be recruited for this study. This includes at least 1600 symptomatic ALS participants (Cohort 1) and at least 450 control participants (Cohort 2). Though the exact percentages of in-clinic and remote participants are unknown at this time, it is anticipated that approximately 600 of the symptomatic ALS participants and 450 of the control participants will be recruited from the site clinic or local ALS community and will be coming to the sites for study visits. These numbers may differ substantially from the final enrollment numbers based on preference of participants enrolling in the study.",
+  "condition": [
+    "Amyotrophic Lateral Sclerosis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling symptomatic ALS patients and non-ALS controls to collect clinical data and biospecimens. There is no systemic therapy or line-of-therapy requirement for enrollment.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "ALS participants",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria require a diagnosis of ALS but do not mention any prior systemic therapy or line-of-therapy restrictions. There is no reference to treatment history for advanced disease."
+    },
+    {
+      "cohort_label": "Control participants",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Control participants must not have ALS, PMA, or PLS, and there is no mention of systemic therapy or line-of-therapy requirements. Treatment history is not relevant for this cohort."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT06998134",
+  "title": "Toward Ubiquitous Lower Limb Exoskeleton Use in Children and Young Adults",
+  "brief_summary": "People with cerebral palsy (CP), muscular dystrophy (MD), spina bifida, or spinal cord injury often have muscle weakness, and problems moving their arms and legs. The NIH designed a new brace device, called an exoskeleton, that is worn on the legs and helps people walk. This study is investigating new ways the exoskeleton can be used in multiple settings while performing different walking or movement tasks, which we call ubiquitous use. For example, we will ask you to walk on a treadmill at different speeds, walk up and down a ramp, or walk through an obstacle course. Optionally, the exoskeletons may also use functional electrical stimulation (FES), a system that sends electrical pulses to the muscle to help it move the limb.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Provision of signed and dated separate informed consent and assent forms for screening purposes. Upon inclusion in the protocol, provision of signed and dated informed consent and assent forms to begin participation in the study will be necessary.\n* Stated willingness to comply with all study procedures and availability for the duration of the study, or alternatively, ability to do so based on parent report and physician observation during history and physical examination.\n* Age 5 to 25 years old. Importantly, we included young adults (18-25 years old) because longterm outcomes for adults with cerebral palsy include loss of ambulatory ability. While studies of conventional gait training in this population have been conducted, use of exoskeletons in this population is very limited. Given the potential benefit of exoskeletons to reduce knee extension deficiency, it is important to determine whether novel controllers we develop are also tolerated and effective in this age group.\n* Either has a gait pathology arising from a diagnosis of CP, MD, SB, or iSCI or has no gait pathology.\n* Knee joint range of motion of at least 25 degrees in the sagittal plane (knee extension/flexion) assessed with the hip extended in a supine position. Hamstring contracture as assessed by the straight leg raising test does not limit ability to participate in the study.\n* Ankle joint range of motion of at least 15 degrees in the sagittal plane (dorsi-plantarflexion) with the foot in neutral alignment.\n* Able to walk at least 10 feet without stopping with or without a walking aid.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Any neurological, musculoskeletal, or cardiorespiratory injury, health condition, or diagnosis other than CP, MD, SB, or iSCI that would affect the ability to walk as directed with the robotic exoskeleton.\n* A history of uncontrolled seizures in the past year.\n* Pregnancy based on self-reporting. We excluded pregnancy due to confounding factors of pregnancy on gait.\n* Adult unable to consent for themselves at screening visit.",
+  "minimum_age": "5 Years",
+  "maximum_age": "25 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patient age 5-25 cerebral palsy (CP), muscular dystrophy (MD), spina bifida, or spinal cord injury often have muscle weakness, and problems moving their arms and legs",
+  "condition": [
+    "Muscle Weakness",
+    "Problems Moving Their Arms and Legs"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a device study evaluating the use of a lower limb exoskeleton in children and young adults with or without gait pathology. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced or metastatic disease, nor do they specify any requirements or exclusions based on prior lines of therapy. This study is focused on device use and gait pathology, not cancer treatment."
+    }
+  ]
+}

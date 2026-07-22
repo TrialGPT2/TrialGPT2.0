@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT06995885",
+  "title": "Development of an Interview-Informed Timeline Follow-Back (TLFB) for Opioid Use in the Era of Fentanyl",
+  "brief_summary": "Background:\n\nA Timeline Follow-Back (TLFB) is a tool that helps researchers track how much of a substance a person uses. Different versions of the tool are used to track the use of alcohol, cigarettes, and cannabis. But there is no TLFB to track a person s use of nonmedical opioids. (These are opioids not obtained from a medical source; they may also be called \"street\" opioids.) Researchers are creating an Opioid TLFB (OpiTLFB) that asks better questions and records more useful answers to identify what kinds of nonmedical opioids people are using.\n\nObjective:\n\nTo test a new research tool to track a person's use of nonmedical opioids.\n\nEligibility:\n\nPeople aged 18 years or older who used a nonmedical opioid within the past 30 days.\n\nDesign:\n\nParticipants will have 1 study visit at a clinic in Baltimore, Maryland. The visit will take 1 to 4 hours.\n\nParticipants will sit at a computer with a researcher and fill out a calendar. They will record their use of opioids each day for the past 30 days. They will be asked what the drugs were called and what they looked like. This task might take 30 minutes.\n\nParticipants will be interviewed. The researcher will ask about their experiences getting opioids from friends, dealers, or other sources; how the experience of getting opioids has changed over time; and about any changes they have noticed across different areas of Baltimore. Researchers will ask how the OpiTLFB could be easier to fill out and how it could provide more useful information. This task might take 30 minutes.\n\nParticipants will provide a urine sample.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible to participate in this study, an individual must meet the following criteria:\n\n1. Age 18 years or older\n2. Past 30-day use of an opioid obtained in a nonmedical context (i.e., not from a pharmacy or in a healthcare setting)\n3. Able to understand and communicate in written and spoken English.\n\n   Justification: Initial development of the OpiTLFB requires strong, unmediated communication between the study team and the participants. Further development and modification for non-English-speaking interviewees is best undertaken as a separate project when the OpiTLFB is ready for use.\n4. Ability of subject to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n1\\. Any medical, psychiatric, or social conditions that the investigators believe would make participation in this protocol not in the best interest of the participant.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "We may enroll participants in this protocol from the pool that screens for other protocols at the NIDA IRP. We may also advertise for this protocol directly. If we decide to launch an ad campaign for this specific protocol, we will primarily recruit in the Baltimore metro area. We may also recontact previous participants from NIDA IRP studies who have expressed interest in participating in future NIDA studies and agreed to such recontact. Additionally, study team members attend events hosted by the Office of the Clinical Director to engage with local community partners. This includes clinics, treatment facilities, medical facilities, advocacy groups, and local businesses. We conduct outreach at community events/locations such as health expos, festivals, and other local venues. During these events, we display and offer approved recruitment materials.",
+  "condition": [
+    "Substance Use Disorders (SUDs)"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This is not an oncology clinical trial and does not involve systemic therapy for advanced cancer. There is no line-of-therapy intent applicable to this study.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls adults who have used nonmedical opioids in the past 30 days; there is no mention of cancer, systemic therapy, or lines of therapy for advanced disease. Line-of-therapy intent is not applicable."
+    }
+  ]
+}

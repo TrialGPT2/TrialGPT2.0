@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04688788",
+  "title": "Non-inferiority Study of Ocrelizumab and Rituximab in Active Multiple Sclerosis",
+  "brief_summary": "The DanNORMS study is a phase 3, non-inferiority clinical trial examining whether treatment of active multiple sclerosis with rituximab is non-inferior to ocrelizumab regarding efficacy and safety.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* MS diagnosis and definition of disease course according to the 2017 McDonald criteria\n* Expanded disability status scale (EDSS) \u22646.5\n* Fulfilling criteria for active MS:\n\n  * Treatment na\u00efve relapsing remitting multiple sclerosis (RRMS) patients (never treated, or no DMT the previous 2 years):\n\n    1. \u25aa\u22652 relapse previous 12 months OR\n    2. 1 relapse previous 12 months with severe residual symptoms and EDSS \u2265 3.0 OR\n    3. 1 relapse previous 12 months AND \u22659 T2 lesions on brain and/or spinal cord MRI AND\n\n       * 1 contrast-enhancing lesion or \u22651 new or enlarging T2 lesion on brain and/or spinal cord MRI previous 12 month\n  * Previously treated RRMS patients:\n\n    1. \u22651 relapse previous 12 months OR\n    2. \u22651 contrast-enhancing lesion or \u22652 new/enlarging T2 lesions on brain and/or spinal cord MRI previous 12 months\n  * Progressive MS patients:\n\n    1. \u22651 relapse previous 12 months OR\n    2. \u22651 contrast-enhancing lesion previous 12 months or \u22651 new/enlarging T2 lesions on brain and/or spinal cord MRI previous 12 months or \u22652 new or enlarging T2 lesion on brain and/or spinal cord MRI previous 24 months OR\n    3. Increased levels of neurofilament light chain (NFL) in serum or cerebrospinal fluid (CSF) in sample collected previous 12 months. Progressive MS patients not fulfilling the clinical/MRI criteria for active disease, may qualify for inclusion in the study if:\n\n       (A) CSF NFL level (measured with NF-Light\u00ae ELISA assay from Uman Diagnostics or Simoa):\n       * 18 to 40 years \\>560 ng/l\n       * 41 to 60 years \\>890 ng/l\n       * 61 to 65 years \\>1850 ng/l\n\n       or\n\n       (B) Serum NFL level (measured with Simoa\u2122 NF-light\u00ae Advantage Kit)\n\n       o Increased sNFL based on individual age-determined cut-off: \\>4.19 \u00d7 1.029\\^age ng/L\n\n       OR\n\n       o Increased sNFL based age-partitioned cut-offs:\n       * 18 to 20 years \\>7.4 ng/L\n       * 21 to 30 years \\>9.9 ng/L\n       * 31 to 40 years \\>13.1 ng/L\n       * 41 to 50 years \\>17.5 ng/L\n       * 51 to 60 years \\>23.3 ng/L\n       * 61 to 65 years \\>30.9 ng/L\n* Signed written informed consent\n\nExclusion Criteria:\n\n* Pregnancy or breast feeding\n* Lack of effective contraception for women of child-bearing potential (effective contraception include oral contraception, intrauterine devices and other forms of contraception with failure rate \\<1%)\n* Receipt of a live or live-attenuated vaccine within 6 weeks prior to randomization\n* Known active malignant disease\n* Severe heart failure (New York Heart Association Class IV) or severe, uncontrolled cardiac disease\n* Positive test for HIV, hepatitis B or C, or symptoms or signs of active tuberculosis in a patient with a positive Quantiferon test.\n* Negative test for varicella zoster\n* Lymphopenia grade 2 (0.5 to 0.8 \u00d7 10\\^9/L) or higher grades of lymphopenia. In case of switching from fingolimod, siponimod or ozanimod lymphopenia is accepted at screening visit. Patients switching from dimethylfumarate who have persistent lymphopenia 5 to 6 weeks after stopping dimethylfumarate can be included if lymphopenia is grade 2 or lower, and treating phycisian judge CD20-depleting therapy safe.\n* Neutropenia grade 2 (1.0 to 1.5 \u00d7 10\\^9/L) or higher grades\n* Thrombocytopenia grade 2 (50 to 75 \u00d7 10\\^9/L) or higher grades\n* Previous treatment with alemtuzumab or hematopoietic stem-cell transplantation\n* Previous treatment with cladribine, CD20-depleting antibodies, daclizumab or other immune suppressive treatment which is judged to still exert immune suppressive effect by treating physician\n* Methylprednisolone treatment within 1 month of baseline visit\n* Findings on the screening MRI judged to preclude participation by the treating physician\n* Other diseases judged to be relevant by the treating physician\n* Contraindication to MRI\n* Known allergy or hypersensitivity to rituximab or ocrelizumab",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Relapsing Remitting Multiple Sclerosis",
+    "Secondary Progressive Multiple Sclerosis",
+    "Primary Progressive Multiple Sclerosis"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT01036971",
+  "title": "Screening Protocol for the Evaluation of Potential Research Subjects",
+  "brief_summary": "Background:\n\n\\- The Neuroimaging Research Branch of the National Institute on Drug Abuse (NIDA) is interested in developing a pool of potential research participants who may be eligible for research studies on drug abuse and addiction, pharmacological and psychosocial therapies for substance addiction, and the long-term effects of drugs on the development, function, and structure of the brain and other organ systems. To develop this pool of potential participants, researchers intend to screen adolescents and adults who may be eligible for future research studies.\n\nObjectives:\n\n\\- To identify, recruit, and screen participants for NIDA neuroimaging research protocols.\n\nEligibility:\n\n\\- Individuals 18 years of age and older who are able to provide informed consent.\n\nDesign:\n\n* Eligible participants will undergo two screening interviews: a telephone interview and an in-person interview. The phone interview will determine eligibility for the in-person interview. Adolescents who are eligible for further screening must bring a parent or guardian with them to the in-person interview.\n* The in-person interview may require up to five visits to the NIDA clinical center. The in-person visit will involve any or all of the following procedures: (1) full physical examination and medical history; (2) psychiatric interview; (3) psychological testing; (4) electrocardiogram; (5) samples of blood, urine, and hair; and (6) other minimally invasive procedures as directed by the research staff.\n* During the screening process, participants will be explicitly asked for permission to recontact them after the 1-year duration of the screening protocol. For minors, both the adolescent and the parent/guardian must agree to future contact.\n* No clinical care will be provided under this protocol.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Males and females ages 18 or older.\n\nEXCLUSION CRITERIA:\n\n1. Phone screen: Subjects who are unable to understand or adequately answer questions posed in the phone screen.\n2. Phone screen and in-person screen: Subjects unable to provide informed consent.\n3. Pregnant women",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Screening protocol for all NIDA clinical studies",
+  "condition": [
+    "Addiction"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a screening protocol for the evaluation of potential research subjects for future neuroimaging studies related to drug abuse and addiction. There is no cancer diagnosis or systemic therapy requirement, and line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This protocol is a general screening study for research participation and does not specify any cancer diagnosis or prior systemic therapy requirements. Line-of-therapy intent is not addressed or applicable."
+    }
+  ]
+}

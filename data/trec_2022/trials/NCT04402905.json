@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04402905",
+  "title": "Observational Study in Diagnosed Patients COVID-19, Supported on an Outpatient Basis. (COVID-PSL)",
+  "brief_summary": "COVID-19 is an infection linked to a new coronavirus: SARS-CoV-2, which appeared in Wuhan in China at the end of 2019, and which has since spread around the world, responsible for a new major pandemic, which is upsetting the whole world.\n\nIf severe respiratory disease is the form that constitutes the extreme gravity of the disease (mortality, with more than 170,000 deaths worldwide to date).\n\nHowever, there is a great heterogeneity of clinical forms with asymptomatic or symptomatic pauci forms, moderate forms, up to severe forms.\n\nDifferent symptoms may appear: fever, cough, asthenia, dyspnea, gastrointestinal forms, anosmia and / or ageusia, skin involvement, etc.\n\nGiven the novelty of this infection, several questions remain:\n\n* What are all the symptoms that can be contracted by a COVID-19 patient?\n* Are there clinical forms not described?\n* What is the evolutionary profile, the healing time of this disease in patients treated on an outpatient basis?\n* What are the factors associated with a prolonged form of COVID-19 disease, including on an outpatient basis?",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\>18 years\n* COVID PCR + patient: Patient screened positive by PCR on nasopharyngeal swab\n* or COVID-like patient: Patient not screened, but considered COVID + because contact with a COVID PCR + person, and presenting symptoms suggestive of COVID-19 among:\n* Influenza-like illness (fever, body aches, arthralgia, etc.)\n* Respiratory form: dyspnea, cough, rhinitis\n* Gastrointestinal form: diarrhea, nausea, vomiting\n* Anosmia and / or ageusia\n* or patient COVID PCR-: If patient tested negative by PCR on nasopharyngeal swab, but showing signs suggestive of COVID-19.\n\nExclusion Criteria:\n\n* Patient objecting to the use of their data for research purposes\n* Patient under justice or deprived of liberty.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Enrolment will be done from the active queue of patients included in the COVIDOM / PSL platform.\n\nThis study will be a monocentric data collection. The patient is called, on working days, weekly from D0 to D30, and beyond if the symptoms persist on D30.\n\nData will be collected at D0, D7, D14, D21 and D30. The visit on D30 corresponds to the end of the systematic weekly telephone interviews if the patient has reached complete recovery, defined by the absence of symptoms for 3 days.\n\nIf the symptoms persist on D30: monitoring is continued, on D45 and D60, and beyond if necessary.",
+  "condition": [
+    "Coronavirus Infection"
+  ],
+  "overall_status": "COMPLETED"
+}

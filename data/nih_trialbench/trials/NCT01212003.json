@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT01212003",
+  "title": "Training Protocol on the Natural History of Tuberculosis",
+  "brief_summary": "Background:\n\n\\- Tuberculosis (TB) is an infectious disease that affects numerous people worldwide. Researchers are interested in actively recruiting individuals with TB for research and treatment studies.\n\nObjectives:\n\n\\- To collect blood and other samples to study the natural history of tuberculosis.\n\nEligibility:\n\n\\- Individuals 2 years of age and older who have either active or latent tuberculosis.\n\nDesign:\n\n* Latent TB patients: Participants will have a single study visit with a physical examination and medical history, and will provide blood samples for testing.\n* Active TB patients: Participants will have an initial visit with a physical examination and medical history, and will provide blood samples for testing. Participants will also provide sputum samples if required, and may have an optional skin punch biopsy to collect a sample of skin tissue for study.\n* Treatment for active TB will be provided as part of this protocol.\n* Active TB participants may be asked to return for study visits every 1-2 months while receiving treatment....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nFOR ALL PATIENTS\n\nPatients may be included in this study who:\n\n* Have or are suspected to have TB infection.\n* Are aged 2 years or older.\n* Have a primary care physician, infectious diseases physician, pulmonologist, or TB specialist outside of the NIH who can provide care of his or her TB infection outside the NIH, provide directly observed therapy (DOT) if necessary, and monitor for side effects and toxicity of TB medications.\n* Are willing to consent to storage of specimens for future research.\n* Able to provide informed consent for themselves or, if they lack the capacity to provide informed consent, have an appropriate Legally Authorized Representative (LAR; the study team will comply with NIH Human Research Protection Program \\[HRPP\\] Policy 403).\n\nFOR PATIENTS WITH LATENT TB\n\nIn addition to the above-described inclusion criteria for all patients, patients may be included in the Latent TB part of this protocol who:\n\n-Have documented evidence of a positive purified protein derivative (PPD) skin test or Interferon-gamma Release Assays (IGRA) test meeting American Thoracic Society (ATS)/CDC guidelines for latent TB; conversion can have occurred at any time.\n\nFOR PATIENTS WITH ACTIVE TB\n\nIn addition to the above-described inclusion criteria for all patients, patients may be included in the Active TB part of this protocol who:\n\n* Have active TB of any drug susceptibility pattern and any site of infection as determined by smear, culture, or biopsy.\n* Have appropriately documented clinically suspicious active TB without definitive microbiology confirmation.\n\nEXCLUSION CRITERIA:\n\nPatients will be excluded from this study who:\n\n* Are incarcerated.\n* Have been ordered by a court to take TB medications.\n* Are unwilling or unable to comply with prescribed therapy.\n* Are pregnant.",
+  "minimum_age": "2 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients will be referred by their physicians for study participation. In many cases, participants will be referred by physicians at their local health department tuberculosis clinics (where they often receive DOT for TB treatment). Family members may be recruited through requests made by the index case that family members contact study personnel for participation. A patient can be referred at any time point while he or she is receiving active treatment for tuberculosis. Male and female patients will be accepted without preference. Patients age 2 and older are eligible; however, severe infections may require highly specialized pediatric teams and institutions. Some referrals of pediatric cases will not be able to be handled appropriately at the NIH and may be deemed ineligible for admission, as determined by the Principal Investigator (PI). NIH employees and members of their immediate families may participate in this protocol.",
+  "condition": [
+    "Mycobacterium Infections",
+    "Tuberculosis, Multidrug-Resistant",
+    "Latent Tuberculosis",
+    "Tuberculosis",
+    "Extensively Drug-Resistant Tuberculosis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology, observational and treatment protocol for patients with latent or active tuberculosis, not cancer. There is no concept of systemic line-of-therapy for advanced/metastatic disease applicable to this trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This trial enrolls patients with latent or active tuberculosis and does not pertain to cancer or systemic therapy for advanced/metastatic disease. Line-of-therapy intent is not applicable."
+    }
+  ]
+}

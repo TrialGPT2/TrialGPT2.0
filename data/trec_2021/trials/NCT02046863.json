@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT02046863",
+  "title": "Pilot Study for Automated Deep Brain Stimulation Programming",
+  "brief_summary": "The clinical utility of deep brain stimulation (DBS) for the treatment of movement disorders such as Parkinson's disease has been well established; however, there is a great disparity in outcomes among DBS recipients due to varied postoperative management, particularly concerning the choosing of an optimal set of programming parameters from the thousands of possible combinations. This study will evaluate the use of motion sensor based assessments to develop a functional map and algorithms to automatically determine a set of programming parameters that maximize symptomatic benefits while minimizing side effects and battery consumption.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of idiopathic Parkinson's disease\n* Implanted deep brain stimulation system awaiting initial programming session\n\nExclusion Criteria:\n\n* Subjects with significant psychiatric illness or dementia\n* Significant cognitive impairment",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Parkinson's Disease",
+    "Tremor",
+    "Bradykinesia"
+  ],
+  "overall_status": "COMPLETED"
+}

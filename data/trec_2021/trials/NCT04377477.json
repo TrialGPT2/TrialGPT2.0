@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04377477",
+  "title": "COVID-19 Pneumonitis Low Dose Lung Radiotherapy (COLOR-19)",
+  "brief_summary": "Low-dose radiotherapy treatment delivered to both lungs in patients with immune-related pneumonia following COVID-19 infection is backed up by biological and clinical bases that justify its use as a possible therapeutic option in these patients. This is a preliminary exploratory study (non-pharmacological interventional) to evaluate the feasibility and tolerability of low-dose radiotherapy treatment of SARS-Cov-2 immune-mediated pneumonia, for the subsequent implementation of a phase II study.This is a preliminary, monocentric, single-arm, interventional, non-pharmacological exploratory study. All enrolled patients will be treated with low-dose radiotherapy. Participants will undergo irradiation of the lungs, administered in a single fraction at the average prescription dose of 0.7 Gy (further details in the dedicated section).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion criteria\n\n* Age \u2265 50 years\n* Patients with confirmed diagnosis of SARS-Cov2 infection by RT-PCR on nasopharyngeal swab and / or bronchoalveolar lavage (BAL)\n* Patient with Brescia Covid Respiratory Severity Scale (BCRSS) score 2-3\n* Suggestive picture finding for interstitial pneumonia on chest X-ray and / or chest CT (optional)\n* At least 3 of the following laboratory criteria:\n\n  * PCR\\> 5 times the maximum limit of the normal value\n  * Ferritin\\> 500 ng / ml\n  * lactate dehydrogenase (LDH) \\> 2 times the maximum limit of the normal value\n  * D-dimer\\> 3 times the maximum limit of the normal value\n  * Aspartate aminotransferase (AST)\\> 2 times the maximum limit of the normal value\n  * Total lymphocytes \\<1000 / ml\n* Ability to understand and sign informed consent\n* Ability to acquire and maintain the set-up necessary for the delivery of radiotherapy treatment\n* A negative pregnancy test will be required of patients of childbearing age before starting radiotherapy treatment. Patients with reproductive potential of both sexes will have to agree to use an effective contraceptive method for at least 6 months from the date of treatment.\n\nExclusion Criteria:\n\n* Age \\<50 years\n* Brescia Covid Respiratory Severity Scale (BCRSS) score greater than 3\n* Patients undergoing invasive mechanical ventilation\n* Patients with active autoimmune systemic diseases\n* Patients with active infections that are not responsive to current treatment\n* Patients with a positive pregnancy test\n* Impossibility to maintain the set-up necessary for radiotherapy treatment\n* Other concomitant treatments for COVID-19 do not represent an exclusion criterion, however they must be reported (specifying the starting date and dosage)",
+  "minimum_age": "50 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID-19"
+  ],
+  "overall_status": "COMPLETED"
+}

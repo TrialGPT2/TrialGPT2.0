@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03611855",
+  "title": "Chronic Stroke Rehabilitation With Contralesional Brain-Computer Interface",
+  "brief_summary": "The purpose of this research study is to show that a computer can analyze brain waves and that those brain waves can be used to control an external device. This study will also show whether passive movement of the affected hand as a result of brain-based control can cause rehabilitation from the effects of a stroke. Additionally, this study will show how rehabilitation with a brain-controlled device may affect the function and organization of the brain.\n\nStroke is the most common neurological disorder in the US with 795,000 strokes per year (Lloyd-Jones et al. 2009). Of survivors, 15-30% are permanently disabled and 20% require institutional care (Mackay et al. 2004; Lloyd-Jones et al. 2009). In survivors over age 65, 50% had hemiparesis, 30% were unable to walk without assistance, and 26% received institutional care six months post stroke (Lloyd-Jones et al. 2009). These deficits are significant, as recovery is completed after three months (Duncan et al. 1992; Jorgensen et al. 1995). This large patient population with decreased quality of life fuels the need to develop novel methods for improving functional rehabilitation. We propose that signals from the unaffected hemisphere can be used to develop a novel Brain-Computer interface (BCI) system that can facilitate functional improvement or recovery. This can be accomplished by using signals recorded from the brain as a control signal for a robotic hand orthotic to improve motor function, or by strengthening functional pathways through neural plasticity. Neural activity from the unaffected hemisphere to the affected hemiparetic limb would provide a BCI control in stroke survivors lesions that prevent perilesional mechanisms of motor recovery. The development of BCI systems for functional recovery in the affected limb in stroke survivors will be significant because they will provide a path for improving quality of life for chronic stroke survivors who would otherwise have permanent loss of function. Initially, the study will serve to determine the feasibility of using EEG signals from the non-lesioned hemisphere to control a robotic hand orthotic. The study will then determine if a brain-computer interface system can be used to impact rehabilitation, and how it may impact brain function. The system consists of a research approved EEG headset, the robotic hand orthotic, and a commercial tablet. The orthotic will be made, configured, and maintained by Neurolutions. Each participant will complete as many training sessions as the participant requires, during which a visual cue will be shown to the participant to vividly imagine moving their impaired upper extremity to control the opening and closing of the orthotic. Participants may also be asked to complete brain scans using magnetic resonance imaging (MRI).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Chronic stroke survivors at least 6 months post-stroke with moderate functional impairment of the right or left upper extremity as evidenced by motor function screening assessments\n* If receiving Botox injections in the upper extremity for spasticity management, device use must be initiated within 15 days of a Botox injection\n\nExclusion Criteria:\n\n* Cognitive impairment as indicated by a Short-Blessed Test score of 8 or more\n* Joint contractures in the affected wrist or digits\n* Receptive aphasia or inability to follow written instructions as indicated by a score of 6 or less on the Mississippi Aphasia Screening Test\n* High spasticity as indicated by a Modified Ashworth Scale of elbow flexion of 3 or greater\n* Unilateral visual inattention (i.e. \"neglect\") as determined by unilaterally omitting 3 or more targets on the Mesulam Cancellation Test\n* Patients contraindicated for MRI imaging due to safety concerns will be excluded from Group 1, but will have the option to be assigned to Group 2 should they meet other Inclusion and Exclusion criteria.\n* Inability to produce EEG signals sufficient for device control following EEG screening",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chronic Stroke",
+    "Hemiparesis"
+  ],
+  "overall_status": "TERMINATED"
+}

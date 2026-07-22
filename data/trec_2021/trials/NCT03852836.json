@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT03852836",
+  "title": "Evaluation of MRI Sequences for Ultra-rapid Acquisition of Bile Ducts Images",
+  "brief_summary": "The Institute of Imaged-Guided Surgery (IHU Strasbourg) has two clinical Magnetic Resonance Imaging (MRI) scanners, one with a 3T (3 Teslas) magnetic field used for diagnosis, the other with a magnetic field of 1,5T (1,5 Teslas) used for the interventional (Pre / per / postoperative).\n\nThe reference for the visualization of the biliary and pancreatic ducts is a relatively long sequence that needs a breathing-synchronized acquisition leading to artefacts on the images (blur effect).\n\nIn order to reduce and/or standardize the acquisition time as well as to limit artefacts, accelerated sequences are developed. Such sequence is available in France recently in the form of WIP Siemens (Work In Progress: sequence in test phase at manufacturer to be marketed in the short or medium term on clinical machines). It incorporates a Compressed Sensing (CS) acquisition scheme allowing the acquisition of a 3D (3 dimensions) sequence similar to the usual sequence by drastically reducing the acquisition time, the sequence CS-SPACE. This sequence exists in two forms:\n\n* An ultra-rapid sequence acquired in apnea\n* An accelerated sequence but remaining synchronized with the breath. The study carried out here on a large number of patients, with two different magnetic fields, applied routinely for diagnosis or anticipation of surgery, could be used by the community of radiologists, hepatogastroenterologists and also digestive surgeons Hepatobiliary.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Male or female over 18 years old\n2. Patient for whom MRI is required for the diagnosis or follow-up of a pathology\n3. Patient able to receive and understand information related to the study and give written informed consent\n4. Patient affiliated to the French social security system\n\nExclusion Criteria:\n\n1. Patient with contraindications to MRI:\n\n   * pacemaker or automatic defibrillator, pump\n   * implanted\n   * auditory, anal, painkiller neurostimulator, etc ...\n   * ferromagnetic bodies in soft tissues, body\n   * intraocular foreigners, cerebrovascular clips\n   * claustrophobia\n2. Patient presenting, in the judgment of the investigator, an illness that may prevent participation in the procedures provided by the study\n3. Patient who has been operated urgently\n4. Pregnant or lactating patient\n5. Patient in exclusion period (determined by a previous or a current study)\n6. Patient under the protection of justice\n7. Patient under guardianship or trusteeship\n8. Patient subject to a legal protection measure or out of state to express their consent\n9. Patient in a situation of social fragility\n\nA patient may be excluded at the end of the examination if at least one of the three sequences of bili-MRI could not be obtained (apnea impossible, image reconstruction problem).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Gallstone",
+    "Cholangitis",
+    "Cholangiocarcinoma",
+    "Pancreatitis",
+    "Pancreatic Ductal Adenocarcinoma"
+  ],
+  "overall_status": "TERMINATED"
+}

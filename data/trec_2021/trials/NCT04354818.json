@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04354818",
+  "title": "Coronavirus (COVID-19) Outcomes Registries in Immunocompromised Individuals Australia (CORIA)",
+  "brief_summary": "CORIA is an observational cohort study of immunosuppressed populations who test positive for COVID-19. This includes people living with HIV, cancer, acquired immunodeficiency associated with other immunosuppressive therapy, primary immunodeficiency and recipients of a solid organ transplant. Participants will have routine clinical data collected with optional baseline collection and storage of a blood sample for storage . The study will be conducted in up to 30 sites within Australia.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Presenting (in person or via telemedicine) for evaluation because they:\n\n   * Have clinical symptoms consistent with for COVID-19:\n   * Fever (\u2265 37.8 \u00b0C) on examination OR patient reported fever (\u2265 37.8 \u00b0C) or feverishness (felt febrile but did not take temperature) OR any of, cough, sore throat, shortness of breath, rhinorrhoea, headache, chills, generalise myalgia, malaise, fatigue, confusion, diarrhea, nausea or vomiting\n   * Have been contacted because they have been identified as a contact to a confirmed case\n   * Have been contacted and told they tested positive for COVID-19\n2. Have one of the following conditions affecting immune function:\n\n   * Known or suspected primary immunodeficiency, defined as a predisposition to infection associated with an apparent or presumed deficit of immune function\n   * On immunosuppressive therapy\n   * Treatment with immune checkpoint inhibitors within 36 months of enrolment date\n   * HIV infection\n   * Diagnosis of cancer within 36 months of enrolment date, excluding superficial basal cell and squamous cell carcinomas\n   * Solid organ transplantation\n3. For optional biobanking only, ability to provide informed consent\n\nExclusion Criteria:\n\n* Nil",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants aged 18 years or older with a known condition affecting immune function (Primary Immune Deficiency, on Immunosuppressive Therapy, on Immune checkpoint inhibitors within 36 months of study enrolment, HIV infection, recipient of Solid Organ Transplant or diagnosis of Cancer within 36 months of study enrolment, excluding superficial basal cell and squamous cell carcinomas) presenting with clinical symptoms consistent with COVID-19 or a known contact to a confirmed case or known to be COVID-19 positive.",
+  "condition": [
+    "HIV-1-infection",
+    "Cancer",
+    "Primary Immune Deficiency Disorder",
+    "Immunosuppression Disorders",
+    "COVID-19"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01578577",
+  "title": "Northwestern University and Access Community Health Network Medication Education Study",
+  "brief_summary": "Many patients have difficulty performing routine medication management tasks. Individuals with limited literacy are at high risk for these problems. The overall study objective is to rigorously evaluate two primary care-based medication therapy management strategies that leverage an electronic health record (EHR) to promote patient understanding, medication reconciliation, medication adherence and disease control among hypertensive patients at safety net clinics.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* age is 18 years or older\n* at least 3 medications are prescribed by their physician\n* standardized mean blood pressure measurement \u2265130 mm Hg systolic or \u2265 80 mm Hg diastolic if they are diabetic or mean blood pressure measurement \u2265 135 mm Hg systolic or \u2265 85 mm Hg diastolic if they are not\n* a Mini-Cog Exam score of \u2265 3\n* the patient is the person primarily responsible for administering their medication\n* the patient does not intend to move or change their usual source of medical care during the next year.\n\nExclusion Criteria:\n\n* the patient's usual source of medical care is not a participating ACCESS Community Health Center\n* is non-English language speaking\n* does not meet mean blood pressure criteria\n* has a Mini-Cog Exam score of \\< 3\n* is not the person primarily responsible for administering medication\n* intends to move or change their usual source of medical care during the next year.\n* Is not prescribed at least 3 medications",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hypertension"
+  ],
+  "overall_status": "COMPLETED"
+}

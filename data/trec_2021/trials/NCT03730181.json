@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03730181",
+  "title": "Tuberculosis Clinical Trials Consortium Study 35",
+  "brief_summary": "Hypotheses: Rifapentine (given as water-dispersible monolayer and/or fixed dose combination with isoniazid) dosing in HIV-infected and uninfected children \u2264 12 years of age with latent TB infection (LTBI) or with exposure to Mycobacterium tuberculosis (M. tuberculosis) will require higher mg/kg rifapentine dosing than adults to achieve adult- exposures which are correlated with efficacy in trials of TB prevention. Investigators further hypothesize that rifapentine will be safe and well-tolerated in HIV-infected and uninfected children who require treatment for LTBI.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Aged 0 - 12 years\n2. Documented close (household or other close exposure) for at least an average 4 hours a day over the past 6 months to a bacteriologically confirmed adult (18 years or older) source case with pulmonary TB. The adult TB source case should have confirmed drug sensitive (sputum culture confirmed or XPERT MTB/Rif \\[Cepheid\\] positive TB and without any evidence of drug resistance, i.e., at least XPERT MTB/Rif rifampicin susceptible or an alternative molecular or phenotypic test indicating rifampicin susceptible M. tb) OR:\n3. Evidence of M. tb infection (positive TST \u2265 10 mm in HIV-uninfected and TST \u2265 5 mm in HIV-infected participants or a positive commercial interferon-gamma release assay, as defined by the manufacturer)\n4. Confirmed HIV status:\n\n   HIV status will be confirmed by DNA PCR and Plasma HIV-RNA if the participant is \\<18 months of age.\n\n   In participants \u226518 month of age HIV-ELISA testing will be completed. If any HIV test is positive in a child participant, regardless of age, the test result needs to be confirmed with a second HIV test, using HIV DNA or RNA PCR, from an independent sample.\n5. HIV-infected participants should be on an ART regimen for at least 12 weeks prior to enrolment and should be clinically stable before entering the study, regardless of CD 4 count and HIV viral load. While on study, participants must be on an efavirenz- or raltegravir-based ART regimen which should have been given for at least 14 days prior to enrolment.\n6. Caregiver (parent or legal guardian) gives written informed consent and assent from the child where applicable\n7. Weight \\> 2.5 kg but \\< 40 kg\n\nExclusion Criteria:\n\n1. Active TB disease (evidenced by: symptoms suggestive of TB, or suggestive findings on clinical examination, or suggestive chest radiographic findings, or positive mycobacterial culture/molecular TB tests -if culture/molecular testing was clinically indicated and was completed-, or currently on TB treatment for active disease).\n2. Any documented drug resistant TB (DR TB) in an identified adult source case, defined as rifampicin resistance on Xpert or any other relevant approved molecular test, or phenotypic evidence of rifampicin resistance.\n3. Receipt of a once-daily isoniazid regimen for \\> 30 days which was given for at least 14 consecutive days in the 30 days prior to enrolment.\n4. Hb \\< 10 mg/dl\n5. Weight for age z score below 2 or severe clinical malnutrition\n6. Known allergy or hypersensitivity to isoniazid or rifapentine\n7. Documented hepatic disorder including \\> 5 fold elevated upper limit of normal (ULN) ALT and/or bilirubin\n8. Lansky play score \\< 50\n9. Documentation of Hepatitis A or B infection\n10. Female adolescents who have reached menarche will not be eligible.",
+  "minimum_age": "0 Years",
+  "maximum_age": "12 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Latent Tuberculosis"
+  ],
+  "overall_status": "COMPLETED"
+}

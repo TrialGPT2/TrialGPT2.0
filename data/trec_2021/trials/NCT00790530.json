@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00790530",
+  "title": "Automated Telephone Outreach With Speech Recognition to Improve Diabetes Care: A Randomized Controlled Study",
+  "brief_summary": "The purpose of this study is to evaluate the effectiveness of automated telephone outreach with speech recognition to improve diabetes care.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* Diabetes, defined as either 1) filled a prescription for insulin or an oral hypoglycemic agent; or, 2) had two outpatient or one inpatient or two outpatients encounter claims with an ICD9-CM or CPT code indicating diabetes.\n* Gap in a key diabetes management metric as evidenced by no claim for a dilated eye examination in the prior 15 months and no claim for one or more of the following tests: glycated hemoglobin, LDL-cholesterol, or microalbumin. (Individuals with evidence of having received ACE-inhibitors or angiotensin receptor blockers were considered to have had a microalbumin test.)\n\nExclusion Criteria:\n\n* No primary care clinician in the data base\n* Those who had previously asked the health plan to exclude them from research or quality improvement\n* Women whose claim records contained diagnoses suggesting gestational diabetes",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Diabetes Mellitus"
+  ],
+  "overall_status": "COMPLETED"
+}

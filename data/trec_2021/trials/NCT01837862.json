@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT01837862",
+  "title": "A Phase I Study of Mebendazole for the Treatment of Pediatric Gliomas",
+  "brief_summary": "This is a study to determine the safety and efficacy of the drug, mebendazole, when used in combination with standard chemotherapy drugs for the treatment of pediatric brain tumors. Mebendazole is a drug used to treat infections with intestinal parasites and has a long track record of safety in humans. Recently, it was discovered that mebendazole may be effective in treating cancer as well, in particular brain tumors. Studies using both cell cultures and mouse models demonstrated that mebendazole was effective in decreasing the growth of brain tumor cells.\n\nThis study focuses on the treatment of a category of brain tumors called gliomas. Low-grade gliomas are tumors arising from the glial cells of the central nervous system and are characterized by slower, less aggressive growth than that of high-grade gliomas. Some low-grade gliomas have a more aggressive biology and an increased likelihood of resistance or recurrence.\n\nLow-grade gliomas are often able to be treated by observation alone if they receive a total surgical resection. However, tumors which are only partially resected and continue to grow or cause symptoms, or those which recur following total resection require additional treatment, such as chemotherapy. Due to their more aggressive nature, pilomyxoid astrocytomas, even when totally resected, will often be treated with chemotherapy. The current first-line treatment at our institution for these low-grade gliomas involves a three-drug chemotherapy regimen of vincristine, carboplatin, and temozolomide. However, based on our data from our own historical controls, over 50% of patients with pilomyxoid astrocytomas will continue to have disease progression while on this treatment. We believe that mebendazole in combination with vincristine, carboplatin, and temozolomide may provide an additional therapeutic benefit with increased progression-free and overall survival for low-grade glioma patients, particularly for those with pilomyxoid astrocytomas.\n\nHigh grade gliomas are more aggressive tumors with poor prognoses. The standard therapy is radiation therapy. A variety of adjuvant chemotherapeutic combinations have been used, but with disappointing results. For high-grade gliomas this study will add mebendazole to the established combination of bevacizumab and irinotecan to determine this combinations safety and efficacy",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age \\> 1 year of age and \u2264 21 years of age\n2. Diagnosis\n\n   2.1. Group A - Low-grade Glioma Group:\n\n   Histology: Biopsy-proven:\n   * Pilocytic Astrocytoma\n   * Fibrillary Astrocytoma\n   * Pilomyxoid Astrocytoma\n   * Pleomorphic Xanthoastrocytoma\n   * Other low grade astrocytomas\n\n   Children with optic pathway tumors must have evidence of progressive disease on MRI and/or symptoms of deteriorating vision or, progressive hypothalamic/pituitary dysfunction or, diencephalic syndrome or precocious puberty.\n\n   Patients with relapsed low-grade gliomas who have been previously treated with chemotherapy will be eligible for the study provided they have not previously failed therapy with any of the chemotherapeutic agents used in this study.\n\n   2.2 Group B - High-grade Glioma/Pontine Glioma Group:\n\n   Histology: Biopsy-proven\n   * Anaplastic astrocytoma\n   * Glioblastoma multiforme\n   * Gliosarcoma.\n\n   Patients with primary spinal cord malignant gliomas are eligible.\n\n   For primary brainstem tumors, histologic verification is not required. Patients are eligible when diagnosed with clinical and radiographic (MRI) evidence of tumors which diffusely involve the brainstem. Patients with tumors which intrinsically (greater than 50% intra-axial) involve the pons or pons and medulla or pons and midbrain or entire brainstem are eligible. Tumors may contiguously involve the thalamus or upper cervical cord.\n3. Timing of therapy:\n\n   Patients must be enrolled before treatment begins. Treatment must start within 14 days of study enrollment.\n\n   All clinical and laboratory studies to determine eligibility must be performed within 7 days prior to enrollment unless otherwise indicated in the eligibility section.\n4. Adequate hematologic, renal, liver function as demonstrated by laboratory values.\n5. Negative pregnancy test in women of childbearing potential within 7 days of initiating investigational therapy\n6. Life expectancy \u2265 3 months\n7. Concurrent medications: It is recommended that patients are weaned off or are on a tapering dose of corticosteroids before starting therapy on study.\n8. Patient or legal guardian must give written, informed consent or assent (when applicable)\n9. Recent mothers must agree not to breast feed while receiving medications on study.\n\nExclusion criteria:\n\n1. Age \\< 1 year or \\> 21 years\n2. Patients who have known allergy to mebendazole or benzimidazole class drugs.\n3. Patients who have previously had a severe side effect, such as agranulocytosis and neutropenia, in conjunction with previous mebendazole or benzimidazole class drug for a parasitic infection .\n4. Patients who are taking metronidazole and cannot be safely moved to a different antibiotic greater than 7 days prior to starting mebendazole therapy.\n5. Pregnant female patients are not eligible for this study. Pregnancy tests with a negative result must be obtained in all post-menarchal females.\n6. Lactating females must agree they will not breastfeed a child while on this study.\n7. Males and females of reproductive potential may not participate unless they agree to use an effective contraceptive method and continue to do so for at least 6 months after the completion of therapy.\n8. Patients who are unable to take oral medications because of significant vomiting will be excluded.\n9. Group A - Low-grade Glioma Group ONLY:\n\n   Patients who have failed prior chemotherapy with vincristine, carboplatin, or temozolomide for this tumor are excluded.\n\n   Patients with Neurofibromatosis Type 1\n10. Group B - High-grade Glioma/Pontine Glioma Group ONLY:\n\nPatients who failed prior chemotherapy with bevacizumab or irinotecan for this tumor are excluded.\n\nPatients who progressed on or within 12 weeks after completion of radiotherapy are excluded.\n\nPatients with a history or current condition that would preclude the use of bevacizumab",
+  "minimum_age": "1 Year",
+  "maximum_age": "21 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pilomyxoid Astrocytoma",
+    "Pilocytic Astrocytoma",
+    "Glioma, Astrocytic",
+    "Optic Nerve Glioma",
+    "Pleomorphic Xanthoastrocytoma",
+    "Glioblastoma Multiforme",
+    "Anaplastic Astrocytoma",
+    "Gliosarcoma",
+    "Diffuse Intrinsic Pontine Glioma",
+    "DIPG",
+    "Low-grade Glioma",
+    "Brainstem Glioma"
+  ],
+  "overall_status": "COMPLETED"
+}

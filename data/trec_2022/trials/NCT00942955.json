@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00942955",
+  "title": "Point-Of-Care Chemistry Test (POCT) Effect on the Emergency Department (ED)",
+  "brief_summary": "The hypothesis of this study is that POCT will shorten ED turn-around-time (TAT) such as blood drawing TAT, lab TAT, and decision TAT.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients older than 15 years\n* clinically required to have chemistry lab tests\n* agreement\n\nExclusion Criteria:\n\n* no agreement\n* ESI level 1",
+  "minimum_age": "15 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "This study was performed in five EDs. Three were urban EDs with 30,000 to 45,000 annual visits, and two were suburban EDs with 15,000 to 25,000 annual visits. Each hospital has its own central laboratory which can test the same emergency chemistry tests, including liver panel (alkaline phosphatase, protein, albumin, total bilirubin, direct bilirubin, GOT, and GPT), renal panel (BUN, creatinine, calcium, and phosphorus), pancreas enzymes (amylase, lipase), electrolytes (sodium, potassium, chloride, total CO2), lipid panel (total cholesterol, triglyceride, LDL-cholesterol, HDL-cholesterol), and blood gases (pH, pO2, pCO2, and bicarbonate).",
+  "condition": [
+    "Emergency Department",
+    "Length of Stay",
+    "Turnaround-time"
+  ],
+  "overall_status": "COMPLETED"
+}

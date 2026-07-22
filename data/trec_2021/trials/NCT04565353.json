@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04565353",
+  "title": "Testing Multiple Behavioral Science Strategies to Increase Flu-Shot Rates",
+  "brief_summary": "This research aims to identify which behavioral science strategies are most effective at increasing flu vaccination rates overall and based on patients' individual characteristics. Past behavioral science interventions have shown promise in increasing flu vaccinations. For example, successful interventions have encouraged people to make concrete plans for when they will get a flu vaccination (Milkman et al. 2011), sent automated calls or text messages reminding patients to get a flu vaccination (Cutrona et al. 2018; Regan et al. 2017), or provided financial incentives for getting vaccinated (Nowalk et al. 2010). Although these results are promising, these studies have been conducted in isolation on different populations, which makes it difficult to compare their interventions' effectiveness or to have enough power to reliably detect differing responses to interventions based on individual characteristics.\n\nThis research will simultaneously test 19 different SMS interventions to increase flu vaccinations in a \"mega-study\" and apply machine learning to identify which interventions work best for whom. The interventions are designed by behavioral science experts from the Behavior Change for Good Initiative (BCFG), Penn Medicine Nudge Unit (PMNU), and Geisinger Behavioral Insights Team (BIT). We expect to include at least 80,000 participants.\n\nThe specific aims of this research are to identify (1) which behavioral science strategies effectively increase flu vaccination rates overall, and (2) which strategies are most effective for different subgroups (e.g., based on age, gender, race).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Penn Medicine and Geisinger patients will be included if they:\n\nInclusion Criteria:\n\n* Have a cell phone number recorded in a Penn Medicine or Geisinger database\n* Have a new or routine primary care appointment during the study recruitment period (not a sick visit)\n\nExclusion Criteria:\n\n* Have documentation of allergy or adverse event to influenza vaccination in medical records\n* Have documentation of already receiving their 2020 influenza vaccination prior to randomization in medical records\n* Have opted out of receiving text message appointment reminders\n* Have asked not to be contacted for research purposes\n* Have an appointment with someone other than their primary care physician\n* Have an appointment with someone other than a physician, resident, nurse practitioner, or physician assistant\n\nWe will recruit as many patients as possible starting in September 2020. We will stop enrolling participants with appointments scheduled to occur after December 31, 2020 if we have reached 4,000 participants per condition. If we do not have 4,000 participants per condition by December 31, 2020, we will continue enrolling participants until we have reached 4,000 per condition, or until March 31, 2021 (discontinuing enrollment at whichever milestone arrives sooner - 4,000 people enrolled or 3/31/21).",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Influenza, Human"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01846819",
+  "title": "Factors Associated With End Stage Liver Disease",
+  "brief_summary": "100 ambulatory cirrhotic patients attending a liver transplant clinic will undergo a comprehensive clinical evaluation for severity of liver disease, anemia, depression, and fatigue. Fatigue will be assessed with the FIS and sub-maximal exercise capacity with the 6-minute walk test (6MWT), a standardized exercise test that measures the distance that a patient is capable of walking in 6 minutes (6MWD). Depression will be assessed by using three well-known questionnaires. The SF-36, Beck's Depression Inventory (BDI-II), EQ-5D, and the Psychological General Well-Being Index (PGWBI). Univariate analysis will be performed to select the factors that potentially are associated with the scores as indicated by a P value \\<.20; the selected factors will then be entered in a stepwise regression to create a multivariate model giving the combination of factors that are significantly associated with the measure of fatigue and depression. Hemoglobin (Hb) levels will then be added to the model in order to test its significance while controlling for the other factors.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* male or female, age b/w 18-70 years, inclusive\n* willingly and able to provide written consent\n* Diagnosed with Cirrhosis\n* Able to read and write in English\n\nExclusion Criteria:\n\n* Inability to provide consent\n* Not within age range of 18-70 years, inclusive\n* Not diagnosed with Cirrhosis\n* Unable to read or write in English\n* Unable to walk",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients experiencing cirrhosis of the liver",
+  "condition": [
+    "Cirrhosis",
+    "Hepatic Encephalopathy",
+    "Fatigue",
+    "Depression"
+  ],
+  "overall_status": "TERMINATED"
+}

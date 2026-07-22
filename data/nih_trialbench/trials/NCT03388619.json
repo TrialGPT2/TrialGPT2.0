@@ -1,0 +1,38 @@
+{
+  "nctid": "NCT03388619",
+  "title": "Highly Conformal, Hypofractionated, Focally Dose Escalated Post-Prostatectomy Radiotherapy",
+  "brief_summary": "Background:\n\nSometimes prostate cancer comes back after a person's prostate is removed. In this case, radiation is a common treatment. Radiation kills prostate cancer cells. It can be very effective. It is usually given in short doses almost every day for 6 or 7 weeks. Researchers want to see if a shorter schedule can be as effective. They want to see if that causes the same or fewer side effects. Usually, radiation is used to treat the entire area where the prostate was before surgery. In some patients, an area of tumor can be seen on scans. Researchers are also trying to see if they can give less dose to the area usually treated with radiation if the full dose is given to the tumor seen on scans.\n\nObjective:\n\nTo find the shortest radiation schedule that people can tolerate without strong side effects.\n\nEligibility:\n\nPeople at least 18 years old who have had a prostatectomy and will get radiation.\n\nDesign:\n\nParticipants will be screened with:\n\n* Medical history\n* Physical exam\n* Blood and urine tests\n* Scan that uses a small amount of radiation to make a picture of the body\n* Scan that uses a magnetic field to make an image of the body\n* Participants will provide documents that confirm their diagnosis.\n* Participants may have a scan of the abdomen and pelvis.\n\nBefore they start treatment, participants will have another physical exam and blood tests.\n\nParticipants will get radiation each day Monday through Friday. Treatment may last 2, 3, or 4 weeks.\n\nParticipants may provide a tissue sample from a previous procedure for research.\n\nParticipants will answer questions about their general well-being and function.\n\nAbout 4-5 weeks after they finish radiation treatment, participants will have a follow-up visit. They will be examined and give a blood sample. They will have 6 follow-up visits for the next 2 years.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Patients must have histologically or cytologically confirmed adenocarcinoma of the prostate.\n* Indications for post-prostatectomy radiation exist:\n\n  * Disease progression (detectable prostate-specific antigen (PSA) on two measurements obtained at least one month apart) or\n  * indications for adjuvant radiation exist (if undetectable PSA): pathologic T3, T4, N+ disease or positive margins (within 1 year of prostatectomy).\n* Age greater than or equal to 18 years.\n* Eastern Cooperative Oncology Group (ECOG) performance status less than or equal to 1 (Karnofsky greater than or equal to 60)\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n* Radiation is teratogenic; thus, men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry, for the duration of study participation and up to 120 days after the last radiation. Should a woman become pregnant or suspect she is pregnant while her partner is participating in this study, she should inform her treating physician immediately.\n* Human immunodeficiency virus (HIV) positive patients are included if CD4+ (cytotoxic T cells) T-cell count \\> 200 cells/uL; on stable antiretroviral therapy for \\> 1 year with HIV viral load \\<200 copies/mL, and no history of opportunistic infections in \\> 1 year.\n\nEXCLUSION CRITERIA:\n\n* Patients who are receiving any other investigational agents concurrently.\n* Documented metastases of prostate cancer outside of the pelvis (pelvic lymph nodes are allowed only if within the prostate bed region).\n* History of radiation that would overlap with the intended treatment to the prostate bed.\n* Known contraindications to radiation such as inflammatory bowel disease, active systemic lupus or scleroderma, or radiation hypersensitivity syndrome (Ataxia Telangiectasia or Fanconi's Anemia)\n* Subjects with any coexisting medical or psychiatric condition which, in the opinion of the Investigator likely to interfere with study procedures and/or results.\n* Medically indicated use of known radiosensitizing drugs (such as protease inhibitors)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Cancer Of Prostate",
+    "Prostate Neoplasms",
+    "Prostate Cancer",
+    "Neoplasms of Prostate",
+    "Prostatic Cancer"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with prostate cancer who have undergone prostatectomy and are candidates for post-operative radiotherapy, either for adjuvant or salvage intent. No prior systemic therapy for advanced or metastatic disease is required or specified.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligible patients are those who have had a prostatectomy and are receiving post-operative radiotherapy, either for adjuvant or salvage indications. There is no requirement for prior systemic therapy for advanced disease, and patients may have had no prior systemic therapy beyond surgery. Adjuvant-only patients are explicitly allowed."
+    }
+  ]
+}

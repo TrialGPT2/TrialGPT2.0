@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03084666",
+  "title": "Remote Ischemic Preconditioning Living Donor Renal Transplant Protocol",
+  "brief_summary": "In this study, patients undergoing live donor kidney transplantation will be allocated to the control group or remote ischemic preconditioning group (RIPC). RIPC is the utilization of short periods of ischemia to provide protection of the myocardium or other organ (i.e. kidney) from a subsequent ischemic event. Before allograft implantation, RIPC will be accomplished in the treatment group donor and control group donor by inducing intermittent extremity ischemia through intermittent inflation of an extremity tourniquet three times for five-minute intervals with five minutes of deflation between inflation periods. The monitored clinical end points will include total urine output following kidney reperfusion over five days, plasma creatinine declination over five days, initiation of dialysis, and development of graft injury. Magnitude of graft injury is the primary endpoint and will be measured using biochemical markers, such as, plasma and urinary concentration of neutrophil gelatinase associated lipocalin (NGAL), interleukin-18 (IL-18), and kidney injury molecule-1 (KIM-1). The sample size calculation is based on a projected difference of NGAL levels between the two study arms. Hall et al reported a mean NGAL level of 49 mg/mL (SD = 37 mg/mL) for a group of patients that had immediate graph function and a mean NGAL level of 248 mg/mL in a group of patients with slow graft function. (which Hall reference is this) Based on these data, a conservative estimate of a mean difference between study groups will be considered 35 mg/mL NGAL. Using these assumptions, an alpha level of 0.05 and 80% power, a sample size of n= 19 per study group will be calculated. By rejecting our null hypothesis, RIPC may serve as a safe, cost-effective protective strategy to prevent allograft injury in the clinical setting of live donor kidney transplantation.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* \\> OR = 19 years of age receiving a living donor renal transplant (treatment control group) and their donors (control group donors)\n\nExclusion Criteria:\n\n* \\< 19 years of age\n* No safe extremity to place tourniquet\n* Patients with previous muscle, vascular, or nerve injury to an extremity,\n* Patients with only one available extremity that has an arteriovenous fistula\n* Patients who are hemodialysis dependent who have not received hemodialysis in the past 4 days\n* Paraplegic/quadriplegic patients\n* Active pathologic cutaneous lesions on extremities\n* Patients with a history of tourniquet pain or complex regional pain syndrome (CRPS)\n* Pregnant patients",
+  "minimum_age": "19 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Renal Disease"
+  ],
+  "overall_status": "TERMINATED"
+}

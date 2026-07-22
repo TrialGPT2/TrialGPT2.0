@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02357407",
+  "title": "Development of an Adjustment Assistance Tool Dosage of Fluoroquinolones in a Population Pharmacokinetic Model",
+  "brief_summary": "Fluoroquinolones (FQ) are among pivotal antibiotic treatments in difficult-to-treat infections. Their efficacy has been shown to be linked to the ratio area under the curve (AUC) of their plasma concentrations over the minimum inhibitory concentration (MIC) of the bacteria treated. Eventually, Forrest et al., reported in gram-negative infections that an AUC/MIC above 125 conducted to a 80 to 90% clinical success whereas success decrease to 30 to 40% in patients with an AUC/MIC below this threshold. These results have been reproduced recently by Zelenitsky et al. in intensive care unit (ICU) patients with threshold similar to the one obtained by Forrest et al. Lastly, elevated concentrations of FQ should be related with the onset of adverse events. Thus, therapeutic drug monitoring (TDM) of FQ appears of potential interest, particularly in case of severe infections (intensive care unit (ICU) patients) or complicated and cost-related infections (osteoarticular infected (OAI) patients), with an increasing level of evidence of its use.\n\nHowever, FQ TDM requires access to the full AUC of the drug with the need of many samples drawn to patients. This appears to be irreconcilable with clinical practice but can be achieved using population pharmacokinetic (PkPop) modelling. PkPop allows estimating pharmacokinetic parameters of the drug by introducing covariates (demographic, biological, clinical\u2026) and modelling inter-individual pharmacokinetic variability. The model created allows then accessing to individual parameters of patients and thus, estimating concentrations and AUC of the FQ. This approach may also be used in clinical practice to determine a limited sampling strategy allowing an adequate estimation of AUC with a minimum of samples.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age over 18 years\n* Patients in intensive care : Infection treated with ciprofloxacin IV\n* Osteoarticular infected patients : infection treated with oral ofloxacin\n* Written consent to participate in the study\n\nExclusion Criteria:\n\n* Pregnancy\n* Adults subject to legal protection or deprived of their liberty",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Infection"
+  ],
+  "overall_status": "COMPLETED"
+}

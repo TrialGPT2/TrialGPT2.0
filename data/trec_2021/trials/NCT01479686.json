@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01479686",
+  "title": "iMRI Guided Resection in Cerebral Glioma Surgery",
+  "brief_summary": "Many clinical studies have been reported on iMRI, however, their evidence levels are relatively not as good as what people hope they will be. Based on the available literature, there is, at best, level 2 evidence that iMRI-guided surgery is more effective than conventional neuronavigation-guided surgery.\n\nThe investigators aim to do a single center prospective randomized triple-blind controlled clinical trial to assess the effect of 3.0T high-field intraoperative MRI-guided glioma resection on surgical efficiency and progression-free survival of malignant glioma to provide a level 2A evidence for its clinical application.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Individuals aged 18-70 years with highly suspected (as assessed by study surgeon), newly diagnosed, untreated malignant glioma (see appendix 1)\n2. Individuals with supratentorial gliomas with bodies involving in frontal lobe, temporal lobe, parietal lobe, occipital lobe or insular lobe\n3. Individuals with the preoperative assessment that radiological radicality should be achieved\n4. Individuals either with or without tumor in eloquent areas (see appendix 2)\n5. Karnofsky performance scale 70 or more\n6. All patients gave written informed consent.\n\nAppendix 1. Histological types\uff08WHO 2007\uff09:\n\n1. Astrocytic tumours:Pilomyxoid astrocytoma 9425/3 Pleomorphic xanthoastrocytoma 9424/3 Diffuse astrocytoma 9400/3 Fibrillary astrocytoma 9420/3 Gemistocytic astrocytoma 9411/3 Protoplasmic astrocytoma 9410/3 Anaplastic astrocytoma 9401/3 Glioblastoma 9440/3 Giant cell glioblastoma 9441/3 Gliosarcoma 9442/3\n2. Oligodendroglial tumours:Oligodendroglioma 9450/3 Anaplastic oligodendroglioma 9451/3\n3. Oligoastrocytic tumours:Oligoastrocytoma 9382/3 Anaplastic oligoastrocytoma 9382/3\n4. Ependymal tumours:Ependymoma 9391/3 Cellular 9391/3 Papillary 9393/3 Clear cell 9391/3 Tanycytic 9391/3 Anaplastic ependymoma 9392/3\n\nMorphology code of the International Classification of Diseases for Oncology (ICD-O) {614A} and the Systematized Nomenclature of Medicine (http://snomen.org). Behaviour is coded /0 for benign tumours, /3 for malignant tumours and /1 for borderline or uncertain behaviour.\n\nTumor grade: grade II\\~IV according to the latest WHO grading criteria;\n\nAppendix 2. Tumor location in eloquent areas:\n\nlocated in or close to areas of the dominant-hemisphere that associated with motor or language functions, including:\n\n1. Frontal lobe, which divided into inferior frontal gyrus (BA44-Pars opercularis, BA45-Pars triangularis/Broca's area), middle frontal gyrus (BA9, BA46), superior frontal gyrus (BA4, BA6, BA8), primary motor cortex (BA4), premotor cortex (BA6), and supplementary motor area (BA6)\n2. Parietal lobe, which divided into inferior parietal lobule (BA40-supramarginal gyrus, BA39-angular gyrus), parietal operculum (BA43), and primary somatosensory cortex (BA1, BA2, BA3)\n3. Temporal lobe, which divided into transverse temporal gyrus (BA41, BA42), superior temporal gyrus (BA38, BA22/Wernicke's area), middle temporal gyrus (BA21)\n4. Insular lobe.\n\nExclusion Criteria:\n\n1. Individuals with age \\< 18 years or \\> 70 years\n2. Tumours of the midline, basal ganglia, cerebellum, or brain stem\n3. Recurrent gliomas after surgery (except needle biopsy)\n4. Primary gliomas with history of radiotherapy or chemotherapy\n5. Contraindications precluding intraoperative MRI-guided surgery\n6. Inability to give informed consent\n7. KPS \\< 70\n8. Renal insufficiency or hepatic insufficiency\n9. History of malignant tumours at any body site\n10. Tumour locations (in important eloquent area) do not enable complete resection of tumour.",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Glioma"
+  ],
+  "overall_status": "COMPLETED"
+}

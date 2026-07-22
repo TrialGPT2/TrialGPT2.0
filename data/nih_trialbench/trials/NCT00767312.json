@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00767312",
+  "title": "Analysis of HIV-1 Replication During Antiretroviral Therapy",
+  "brief_summary": "This study will determine if the level of virus in HIV-infected patients taking antiretroviral medications for prolonged periods decreases or persists at a stable level. It will also examine whether new gene changes (mutations) occur during drug suppression.\n\nHIV-infected patients who are 18 years of age or older, have been enrolled in another NIH protocol, have been suppressed on antiretroviral therapy and have very low levels of virus in their blood may be eligible for this 5-year (or more) study.\n\nParticipants come to the NIH Clinical Center about every 6 months for a physical examination, routine and research blood tests and leukapheresis to collect white blood cells for T cell analysis. For leukapheresis, blood is collected through a vein much like donating whole blood, but the blood is directed through a machine that separates and extracts the white cells and returns the rest of the blood components to the patient. Patients may also have an optional third clinic visit each year for another blood draw.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nInclusion criteria for this protocol comprise all of the following conditions:\n\n* Age greater than or equal to 18 years.\n* HIV infection with documented reactive ELISA and positive western blot.\n* Prior enrollment in 00-I-0110, 97-I-0082 OR patients with long term evaluation at NIH for whom additional sampling will be useful for protocol objectives, including:\n\n  * Available stored specimens from pretherapy period.\n  * Ongoing suppression of viremia with bDNA less than 50 copies/mL, OR\n  * Suppression of viremia to less than 50 copies/mL followed by rebound viremia during therapy.\n* Patients must have a private physician for routine medical care.\n\nEXCLUSION CRITERIA:\n\nAny prospective study subject who has been previously withdrawn from any prior study for inability to comply with study procedures will be considered ineligible for this study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients from studies: 00-I-0110 and 97-I-0082 are eligible for enrollment. Patients in other NIH studies would be considered for co-enrollment in this study if continued longitudinal sample acquisition is deemed desirable.",
+  "condition": [
+    "HIV"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This study enrolls HIV-infected adults who have been on suppressive antiretroviral therapy, regardless of the number of prior regimens. There are no restrictions on the number of prior lines of antiretroviral therapy for advanced HIV disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility requires ongoing suppression of viremia on antiretroviral therapy, but there is no specification of the number of prior systemic regimens for advanced HIV. The protocol does not define lines of therapy or restrict based on prior treatment history, so line-of-therapy intent is unclear."
+    }
+  ]
+}

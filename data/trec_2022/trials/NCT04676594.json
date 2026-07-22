@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04676594",
+  "title": "Genentech Validation Tool for Pulmonary Fibrosis",
+  "brief_summary": "Radiology is an important component of the multidisciplinary team. The primary goal of this project will be to create a tool using findings on chest computed tomography (CT) for nearly 300 patients with the most common types of fibrosis. The tool will be tested using chest CT scans of an additional 100 patients with the 3 most common diagnoses of fibrosis. The second objective will be to further validate the tool by performing a reader study with 3 co-investigating radiologists and ask them to look at 100 CT scans of patients with fibrosis without tool and then with tool and see if accuracy of diagnosis improves compared to the working diagnosis when using the tool.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Retrospective review of adults (age \\> 21) with diagnosis of pulmonary fibrosis on chest CT and a pulmonologist report in electronic medical record confirming the working diagnosis from 1/1/2010 through 7/1/2019.\n\nExclusion Criteria:\n\n* Failure to meet inclusion criteria including age \\< 21 and lack of a pulmonologists report in the medical record with a working diagnosis of patient's type of pulmonary fibrosis.",
+  "minimum_age": "21 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with a diagnosis of usual interstitial pneumonitis, Chronic hypersensitivity pneumonitis or nonspecific interstitial pneumonitis and a chest CT scan.",
+  "condition": [
+    "Interstitial Lung Disease"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

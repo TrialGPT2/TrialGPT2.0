@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02137460",
+  "title": "Korean Brain Aging Study for Early Diagnosis and Prediction of Alzheimer's Disease",
+  "brief_summary": "This is a prospective cohort study for cognitively normal (young and old), mild cognitive impairment, and Alzheimer's disease people",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Participants will be classified as either Alzheimer's disease(AD) group, mild cognitive impairment(MCI) group, elderly normal controls or young normal controls. Specific inclusion criteria for each group is described below.\n\n\\[Inclusion criteria: AD\\]\n\n* Age : 55 - 90\n* Clinical Dementia Rating (CDR)=0.5 or 1\n* Diagnostic and Statistical Manual-IV(DSM-IV) criteria for dementia\n* National Institute of Aging and the Alzheimer's Association (NIA-AA) Probable AD dementia\n* Study partner or caregiver to accompany patient to all scheduled visits\n* Written informed consent\n\n\\[Inclusion criteria: MCI (amnestic)\\]\n\n* Age : 55 - 90\n* Clinical Dementia Rating (CDR)=0.5\n* Concern regarding a change in cognition (obtained from the subject, from an informant who knows the subject, or from a skilled clinician observing the subject)\n* Lower performance in episodic memory domains that is greater than would be expected for the subject's age and educational background\n* Preservation of independence in functional abilities\n* Study partner or caregiver to accompany subject to all scheduled visits\n* Written informed consent\n\n\\[Inclusion criteria: Elderly normal controls\\]\n\n* Age : 55 - 90\n* Clinical Dementia Rating (CDR)=0\n* Those with contactable Informant\n* Written informed consent\n\n\\[Inclusion criteria: Young normal controls\\]\n\n* Age : 20 - 55\n* Clinical Dementia Rating (CDR)=0\n* Written informed consent\n\n\\[Exclusion criteria: general\\]\n\n* Past history or presence of major psychiatric illness (e.g. schizophrenia, bipolar disorder, alcohol/substance abuse or dependence, delirium)\n* Significant neurologic or medical condition that can influence the mental state\n* Contraindications for MRI scan (e.g. pacemaker, claustrophobia)\n* Illiteracy\n* Significant visual or hearing difficulty\n* Taking investigational drug\n* In pregnancy or breast-feeding",
+  "minimum_age": "20 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Young and elderly normal controls: community-based population AD and MCI: clinic or community-based population",
+  "condition": [
+    "Alzheimer's Disease",
+    "Mild Cognitive Impairment"
+  ],
+  "overall_status": "COMPLETED"
+}

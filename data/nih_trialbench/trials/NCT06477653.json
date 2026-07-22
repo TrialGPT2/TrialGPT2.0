@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT06477653",
+  "title": "Dupilumab as Add-On Therapy for Hypereosinophilic Syndrome With Partial Clinical Response to Eosinophil-Depleting Biologic Agents",
+  "brief_summary": "Background:\n\nHypereosinophilic syndrome (HES) is a blood disorder that causes high levels of white blood cells called eosinophils. HES can damage the lungs and airways, intestines, skin, and other organs. The current primary treatment for HES can cause serious side effects. Secondary treatments do not work in all people.\n\nObjective:\n\nTo test an approved drug (dupilumab), combined with other drugs, in people with HES.\n\nEligibility:\n\nPeople aged 18 years and older who take drugs (mepolizumab, reslizumab, or benralizumab) to treat HES.\n\nDesign:\n\nParticipants will have up to 6 clinic visits and 7 remote visits in up to 48 weeks.\n\nParticipants will be screened. They will have blood and urine tests. They will have a test of their heart function. They will take surveys about how HES affects their daily life. Some participants may have a bone marrow biopsy: A sample of tissue and fluid from inside a bone will be removed with a large needle.\n\nParticipants will have other tests specific to their symptoms. For example, those with symptoms affecting their lungs will have breathing tests. Others may have tests that target symptoms in their sinuses, gastrointestinal tract, or skin.\n\nDupilumab is injected under the skin once every 1 or 2 weeks. Dose and timing will vary among participants. They will be taught how to inject themselves at home between clinic visits. They will take dupilumab plus their current medications for 24 weeks. If the drug is helping them, they will continue taking it for another 24 weeks.\n\nParticipants will have a final visit 12 weeks after their last dose.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible to participate in this study, an individual must meet all the following criteria:\n\n1. Age \\>=18 years\n2. Documented diagnosis of HES with historic AEC\\>1.5x10\\^9/L on two occasions, no secondary etiology for the eosinophilia despite careful clinical evaluation, and evidence of end organ damage (histologic evidence of tissue infiltration by eosinophils and/or objective evidence of clinical pathology in any organ system that is temporally associated with eosinophilia and not clearly attributable to another cause)\n3. Currently receiving treatment with an eosinophil-lowering biologic (mepolizumab, reslizumab, or benralizumab) for a minimum of 24 weeks\n4. AEC\\<0.5x10\\^9/L\n5. Residual symptoms after a minimum of 24 weeks of eosinophil-lowering biologic therapy with at least 1 most bothersome symptom of moderate severity (HES-SI score \\>=2) consistent with \\>=1 of the following diagnoses:\n\n   a. asthma, defined as physician-documented asthma requiring medium to high dose inhaled corticosteroids + long-acting beta agonist b. atopic dermatitis, defined as physician-documented chronic or recurrent inflammatory skin disease\n\n   c. CRSwNP, defined as evidence of rhinosinusitis and nasal polyposis on physical examination or imaging\n\n   d. EoE, defined as biopsy-proven esophageal eosinophilia \\>15 eosinophils/high power field\n6. For participants who can become pregnant: sexual abstinence or use of highly effective contraception (i.e., partner vasectomy, bilateral tubal ligation, IUD, progestin implants, and other hormonal methods) starting 4 weeks prior to study drug initiation and agreement to use such a method during study participation and for an additional 12 weeks after the end of study drug administration\n7. Participation in NIH protocol 94-I-0079 (Activation and function of eosinophils in conditions with blood or tissue eosinophilia)\n8. Ability of subject to understand and the willingness to sign a written informed consent document\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Pregnancy or lactation\n2. Known allergic reaction to dupilumab or any of the excipients in Dupixent(TM)\n3. Febrile illness within 7 days of enrollment\n4. Treatment with an investigational drug or other intervention other than mepolizumab, reslizumab, or benralizumab within 12 weeks or 4 half-lives of the investigational agent (whichever is longer).\n5. Known or suspected acquired or inborn immunodeficiency disorder, including HIV infection\n6. Known diagnosis of eosinophilic granulomatosis with polyangiitis\n7. Change in eosinophil-active therapy within the past 6 weeks, including but not limited to topical corticosteroids, leukotriene inhibitors, initiation or change of a food-elimination diet regimen or re-introduction of a previously eliminated food (in patients with gastrointestinal involvement), and proton pump inhibitors (in patients with gastrointestinal involvement)\n8. Planned or anticipated major surgical procedure during the study\n9. Active parasitic infection\n10. History of malignancy within 5 years, excluding completely treated in situ carcinoma of the cervix, or squamous or basal cell carcinoma of the skin\n11. Any condition that, in the investigator s opinion, places the patient at undue risk by participating in the study\n\nFor patients with eosinophilic gastrointestinal disease only:\n\n1. Active infection with Helicobacter pylori\n2. History of achalasia, Crohn s disease, ulcerative colitis, celiac disease, or prior esophageal surgery\n3. Any esophageal stricture unable to be passed with a standard, diagnostic, 9 to 10 mm upper endoscope",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hypereosinophilic Syndrome"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with hypereosinophilic syndrome (HES) who have persistent symptoms despite at least 24 weeks of treatment with an eosinophil-lowering biologic agent (mepolizumab, reslizumab, or benralizumab). All participants must be on ongoing biologic therapy for HES and have had an inadequate response.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Eligibility requires current treatment with an eosinophil-lowering biologic (mepolizumab, reslizumab, or benralizumab) for at least 24 weeks with residual symptoms, indicating at least one prior line of systemic therapy for advanced HES. Patients must have had an inadequate response to this therapy, and adjuvant-only patients are not eligible."
+    }
+  ]
+}

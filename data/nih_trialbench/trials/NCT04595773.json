@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT04595773",
+  "title": "COVID-19, Chronic Adaptation and Response to Exercise (COVID-CARE)",
+  "brief_summary": "Background:\n\nPeople who are recovering from COVID-19 may continue to have problems that affect their daily life. For instance, they might feel overly tired. Researchers want to learn if exercise can help people recover after COVID-19 infection.\n\nObjective:\n\nTo study if participation in a rehabilitation exercise program can help people recovering from COVID-19.\n\nEligibility:\n\nAdults ages 18-80 with a lab-confirmed SARS-CoV2 infection (the virus that causes COVID-19), and are still having some symptoms.\n\nDesign:\n\nParticipants will have a medical history and physical exam. They will give blood and urine samples. They will have tests to measure heart and lung function. Their blood vessels will be assessed.\n\nParticipants will have a computed tomography scan of the body. They will have an ultrasound of the muscles in their arms, legs, and chest.\n\nParticipants will take a 6-minute walk test. They will take other balance and movement tests.\n\nParticipants will walk on a treadmill while hooked up to a monitor. Then they will be interviewed. It will be audio-recorded.\n\nParticipants will complete surveys about their symptoms and daily activities.\n\nParticipants will take a smell test. For this, they will identify different smells. They will also have memory, attention, and mental functioning tests.\n\nParticipants will wear an activity monitor on their wrist 24 hours a day. They will exercise 3 times a week for 10 weeks by moving vigorously on a track or treadmill for 30 minutes. They will attend education classes once a week for 10 weeks.\n\nParticipants will be contacted by phone or email every 3 months for 1 year after they complete the exercise part of the study. They will wear an activity monitor for up to 2 weeks.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nScreening procedures will be performed as part of this study. In order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Male or female, aged 18 to 80 years\n* Previous infection with SARS-CoV2 at least 4 weeks prior to enrollment, confirmed by laboratory or a healthcare provider. Participants with a documented positive home antigen test will need confirmation of positive COVID-19 antibodies (positive anti-Nucleocapsid antibody test, OR positive anti-Spike antibody test if unvaccinated at the time of the antibody test) to be considered.\n* Presence of physical limitations or significant fatigue since COVID-19 as demonstrated by:\n\n  * Total score \\<= 19 on the PROMIS short form for physical function or total score \\>= 9 on the PROMIS short form for fatigue, AND\n  * Score \\>= 1 on the Patient Global Rating of Flu Severity and Patient Global Assessment of Interference with Daily Activities\n* Absence of post-exertional malaise (PEM) as identified on the DSQ-PEM where:\n\n  * Items 1 to 5 has no score \\>= 2 for frequency and no score \\>= 2 for severity, occurring in the same row, AND\n  * Item 7 or 8 is No , AND\n  * Item 9 is \\<= 13 hours\n* Able to read, speak and understand English or Spanish\n* Able to understand and willing to sign a written informed consent document\n* Willing and able to complete study procedures\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Above normal performance (i.e, \\>=100% predicted) in the 6MWT based on normative data for gender and age\n* History or cardiac condition as determined by NIH cardiology to be unsafe for exercise participation (e.g. ischemic heart disease, right- or left-sided heart failure, cor pulmonale or pulmonary hypertension, dilated or hypertrophic cardiomyopathy or non-idiopathic cardiomyopathy)\n* Significant hepatic or renal dysfunction\n* Cancer diagnosis with evidence of metastasis or a life expectancy of less than one year\n* History of stroke resulting in impairments in functional mobility that limits safe participation\n* Active substance abuse including EtOH\n* Severe psychiatric disease, not responsive to treatment or medication\n* History of diabetes and on insulin pump therapy, or uncontrolled diabetes with HbA1c \\> 9.0%\n* Pregnancy\n* Acceptance onto a lung transplant waiting list\n* Extreme obesity with BMI \\> 40 kg/m2\n* On medications that would influence exercise performance such as beta blockers or antiretroviral therapy\n* Ongoing tobacco and/or nicotine product use\n* Enrolled in another interventional clinical research trial\n* Any other medical or health condition(s) that unduly increases the risk of exercise testing or training, affects the normal physiologic response to exercise testing or training, and/or would otherwise interfere with the ability to interpret the data as determined by the PI",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID-19"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a rehabilitation exercise study for adults recovering from COVID-19 with persistent symptoms. There is no cancer treatment or systemic therapy for advanced disease involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The trial does not involve cancer or systemic therapy for advanced disease, and there are no references to lines of therapy. Eligibility is based on recovery from COVID-19 and persistent symptoms, not prior cancer treatment."
+    }
+  ]
+}

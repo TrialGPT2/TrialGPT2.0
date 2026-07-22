@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT02511015",
+  "title": "Hereditary Parkinson s Disease Natural History Protocol",
+  "brief_summary": "Background:\n\n\\- Parkinson s disease is a disease of the nervous system that affects movement. People usually get it in their 70s or 80s. Early onset Parkinson s disease (EOPD) begins before the age of 50. Researchers think EOPD may be caused by a mutation in a gene. They want to study the genetic causes so they can find therapies for this disease.\n\nObjective:\n\n\\- To better understand the genetic causes of EOPD.\n\nEligibility:\n\n* Adults ages 18 80 with a history of EOPD. Their family members, who do not have Parkinson s disease, can join as controls.\n* Healthy volunteers ages 18 80.\n\nDesign:\n\n* Participants with EOPD and their relatives will be screened with a review of medical records. Healthy volunteers will have medical history, physical exam, and blood drawn.\n* Relatives may send blood samples to NIH to test for mutations in genes that are linked to Parkinson s disease. They may have a physical exam.\n* Participants may be asked to return to clinic for another visit that can last up to 2 hours.\n* During this visit, participants will have blood taken from a vein in the arm via a needle stick.\n* Participants may give a sample of their skin. The skin on the arm or leg will be numbed and a small skin punch biopsy will be taken with a special needle.\n* Some cells from the blood or skin sample may be grown in a lab to establish cell lines. The cells may also potentially be genetically modified to make stem cells.\n* Researchers may perform genetic analysis on the samples to compare them to EOPD patient samples.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA\n\nParkinson's Subjects\n\n\\- Age 18 years to 80 years old with a history of early onset Parkinson's disease or Parkinsonism (Presentation within the first five decades of life).\n\nHealthy Control Subjects\n\n\\- Age 18 years to 80 years old with no history or family history of Parkinson's disease or Parkinsonism.\n\nFamily Member Control Subjects\n\n-Family members, of enrolled EOPD subjects, who themselves do not have Parkinson's disease or Parkinsonism can be enrolled as controls on this study.\n\nAll Subjects\n\n* Willingness and legal ability to give and sign informed study consent\n* Willingness to have blood or tissue samples studied, and potentially stored for future research\n\nEXCLUSION CRITERIA\n\nAll Subjects\n\n* Subjects who are unable or unwilling to sign an informed consent\n* Subjects with genetic defects associated with diseases including other neurologic syndromes.\n* Pregnancy",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects that develop symptoms of Parkinson Disease within the first 5 decades of life would be enrolled onto this protocol. Additionally, subjects previously enrolled on protocol 12-H-0084 may also be enrolled on this protocol. Age (+/- 5 yrs) and gender matched healthy volunteers will be recruited as controls for this protocol. Controls will be recruited via web advertisements. An email advertisement will also be sent out via the NIH LISTSERV to aid in the recruitment of healthy volunteers. A list of healthy volunteers may also be requested from the NIH Office of Patient Recruitment. Family member controls without clinical evidence of Parkinsonism may be recruited as controls for index research subjects.",
+  "condition": [
+    "Parkinson Disease 6, Early-Onset",
+    "Parkinson Disease (Autosomal Recessive, Early Onset) 7, Human",
+    "Parkinson Disease Autosomal Recessive, Early Onset",
+    "Parkinson Disease, Autosomal Recessive Early-Onset, Digenic, Pink1/Dj1"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-interventional natural history study of hereditary Parkinson's disease and does not involve any cancer therapy or lines of systemic treatment. There are no requirements or restrictions regarding prior lines of therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not pertain to cancer or systemic therapy for advanced disease. There are no eligibility criteria related to prior lines of therapy."
+    }
+  ]
+}

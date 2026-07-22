@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04387799",
+  "title": "Determinants of COVID-19 Pneumonia (MC-19)",
+  "brief_summary": "Molecular testing (e.g PCR) of respiratory tract samples is the recommended method for the identification and laboratory confirmation of COVID-19 cases.\n\nRecent evidence reported that the diagnostic accuracy of many of the available RT-PCR tests for detecting SARS-CoV2 may be lower than optimal.\n\nOf course, the economical and clinical implications of diagnostic errors are of foremost significance and in case of infectious outbreaks, namely pandemics, the repercussions are amplified. False positives and false-negative results may jeopardize the health of a single patient and may affect the efficacy of containment of the outbreak and of public health policies.\n\nIn particular, false-negative results contribute to the ongoing of the infection causing further spread of the virus within the community, masking also other potentially infected people.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* diagnosis of pneumonia; Covid-19 test negative; hospitalized subjects; both sexes; given informed consent\n\nExclusion Criteria:\n\n* age lower than 18 years; pregnancy; breast-feeding",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects hospitalized for pneumonia who tested negative at RT-PCR",
+  "condition": [
+    "Pneumonia, Viral",
+    "Pneumonia, Bacterial",
+    "Coronavirus Infection",
+    "Obstructive Lung Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

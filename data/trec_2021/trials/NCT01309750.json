@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01309750",
+  "title": "Small Bowel Transit Time in Clostridium Difficile Colitis",
+  "brief_summary": "Clostridium difficile is a bacteria that can infect the colon and cause severe diarrhea in patients after recent antibiotic use. The current standard of care treatment for severe C. diff. consists of oral vancomycin and/or intravenous metronidazole. When treatment is unsuccessful, it can lead to need for removal of the entire colon or even death. In fact, mortality rates in the literature range from 11-37% for C. diff. The most commonly quoted mortality rate is 14% for severe infection. It is believed that the failure of treatment may stem from an adynamic ileus (paralysis of the small bowel). This ileus may prevent the oral vancomycin from reaching the colon and therefore it does not treat the problem. Vancomycin functions by direct contact with the colon. It is presumed that this paralysis of the small intestine is present but has never been proven. The objective of the study is to prove that there is an adynamic ileus present in c. diff colitis and therefore lead to investigations into improved treatment.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* ICU patient\n* positive c. diff PCR or visualization of pseudomembranes on colonoscopy\n* able to give consent or have representative to give consent\n* ability to drink contrast or have a previously placed nasogastric tube\n* approval from the intensivist on duty/ICU Attending physician\n\nExclusion Criteria:\n\n* Under age 18\n* pregnant\n* need for gastric motility medications\n* need for anti-diarrheal medication\n* need for surgery\n* previous small bowel or gastric surgery\n* inability to drink nuclear tracer without nasogastric tube in place\n* hypotension requiring vasoactive agents\n* APACHE II score greater than 30",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with clostridium difficile colitis.",
+  "condition": [
+    "Clostridium Difficile Colitis"
+  ],
+  "overall_status": "TERMINATED"
+}

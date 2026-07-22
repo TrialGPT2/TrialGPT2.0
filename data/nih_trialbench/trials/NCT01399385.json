@@ -1,0 +1,38 @@
+{
+  "nctid": "NCT01399385",
+  "title": "New Heart Imaging Techniques to Evaluate Possible Heart Disease",
+  "brief_summary": "Background:\n\n\\- Imaging tests, such as magnetic resonance imaging (MRI), can provide information about heart and blood vessels. The tests let doctors can see the amount of blood vessel narrowing and vessel wall thickness. This information may help diagnose and treat heart disease and other conditions that lead to heart attacks. Better MRI methods are needed to improve heart disease diagnosis, especially by avoiding the use of radiation. Researchers are testing new techniques to improve the quality of heart MRI, compared with more complex studies like catheterization or angiography.\n\nObjectives:\n\n\\- To compare heart MRI techniques with other tests used to diagnose heart disease.\n\nEligibility:\n\n\\- People at least 18 years of age who either have or may have heart disease, or are healthy volunteers.\n\nDesign:\n\n* Participants will be screened with a physical exam, medical history, and blood tests.\n* They will have an angiography to study the inside of blood vessels. This test is an x-ray study of the blood vessels. It will be done either separately or as part of a set of tests to diagnose possible heart disease.\n* Participants will have at least one and up to five MRI scans. The scans will involve different methods of studying the heart and blood vessels. Participants may also have a computed tomography scan to confirm the findings of an MRI scan.\n* No treatment will be provided as part of this protocol.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "* INCLUSION:\n\n  1. Subjects with or without history of cardiovascular diseases and with various degrees of cardiovascular risk factor. Subjects with known or suspected atherosclerotic disease based on clinical findings or documented by angiography (conventional, CTA or MRA), or Doppler ultrasound. And, healthy volunteers and subjects with known or suspected diseases affecting the thoracic organs, abdominal organs, and other organs affected by metabolic diseases such as body fat and muscles. Subjects at risk for atherosclerosis including: smoking, obesity, hyperlipidemia, low levels of high density lipoproteins (\\<50 mg/dl for women and \\<40 mg/dl for men), hypertension, family history (early onset atherosclerosis \\<55 year old in male and \\< 65 year old in female who is first degree relative), and diabetes mellitus or metabolic syndrome.\n  2. Subject must be willing to participate in the protocol.\n  3. Subject age greater than 18 years old.\n  4. Subject must be able to provide informed consent.\n  5. Subject must be clinically stable and be able to come to the Clinical Center to participate in the study.\n\nEXCLUSION CRITERIA:\n\n1. Subjects with contraindication to MRI scanning. These contraindications include but are not limited to the following devices or conditions:\n\n   1. Implanted cardiac pacemaker or defibrillator\n   2. Cochlear Implants\n   3. Ocular foreign body (e.g. metal shavings)\n   4. Embedded shrapnel fragments\n   5. Central nervous system aneurysm clips\n   6. Implanted neural stimulator\n   7. Medical infusion pumps\n   8. Any implanted device that is incompatible with MRI.\n2. Unsatisfactory performance status as judged by the referring physician such that the subject could not tolerate an MRI scan. Examples of medical conditions that would not be accepted would include unstable angina and dyspnea at rest.\n3. Subjects requiring sedation for MRI studies.\n4. Subjects with a condition precluding entry into the scanner (e.g. morbid obesity, claustrophobia, etc.).\n5. Pregnant or lactating women.\n6. Subjects with severe back-pain or motion disorders who will be unable to tolerate supine positioning within the MRI scanner and hold still for the duration of the examination.\n7. Subjects who are unable to undergo a CTA within 2 months of the MRA part of this study, or are unable to undergo or be scheduled for a cardiac catheterization within 2 months of the MRA.\n\nEXCLUSION CRITERIA - FOR GADOLINIUM BASED MRI STUDIES ONLY:\n\n1. History of allergic reaction to gadolinium contrast agents despite the use of premeditation with an anti-histaminic and cortisone.\n2. eGFR \\< 60 ml/min/1.73m\\^2\n\nEXCLUSION CRITERIA - FOR CORONARY CTA:\n\n1. Contraindication to the use of CTA contrast agents:\n\n   1. Creatinine value \\> 1.4 mg/dl\n   2. History of multiple myeloma\n   3. Use of metformin-containing products less than 24 hrs prior to contrast administration\n   4. History of allergic reaction to CTA contrast agents despite the use of pre- medication with an anti-histaminic and cortisone.\n2. Subjects with contraindication precluding the use of beta blockers necessary to perform the coronary CTA. These include:\n\n   1. Asthma\n   2. Active bronchospasm\n   3. Moderate or severe COPD\n   4. 2nd or 3rd degree AV block\n   5. Decompensated cardiac failure\n   6. Allergy to beta blockers\n   7. Systolic blood pressure \\< 100 mm Hg\n   8. Pregnancy or nursing\n\nEXCLUSION CRITERIA - FOR NITROGLYCERIN USE:\n\nSubjects reporting a history of the following conditions will be excluded:\n\n1. Severe aortic stenosis\n2. Hypertrophic cardiomyopathy\n3. Inferior myocardial infarction with right ventricular involvement\n4. Cardiac tamponade\n5. Constrictive pericarditis\n6. Severe hypotension (systolic BP \\<90 mmHg)\n7. Uncorrected hypovolemia\n8. Raised intracranial pressure\n9. Glaucoma\n10. Severe anemia\n11. Concomitant use of phosphodiesterase-5 inhibitors (sildenafil-Viagra, tadalifil-Cialis, verdenafil-Levitra)\n12. History of hypersensitivity to nitroglycerin",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Healthy",
+    "Obesity",
+    "Diabetes",
+    "Healthy Volunteers",
+    "Atherosclerosis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic imaging study enrolling adults with or without heart disease, including healthy volunteers. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, as this is an imaging study including both healthy volunteers and patients with or at risk for heart disease. There are no restrictions or requirements regarding prior lines of therapy."
+    }
+  ]
+}

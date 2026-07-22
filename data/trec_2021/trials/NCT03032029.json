@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03032029",
+  "title": "Registry on the Treatment of Central and Complex Sleep-Disordered Breathing With Adaptive Servo-Ventilation",
+  "brief_summary": "Phase 1: The European ASV Registry (short name) will investigate the use of Adaptive Servo-Ventilation in non-heart failure conditions. The purpose is to examine the effects of ASV on quality of life, daytime symptoms and sleep, to describe usage patterns of ASV with regards to patient characteristics and to document adverse events related to therapy for a therapy safety analysis. A pilot phase will enrol at least 200 patients to test the feasibility of the registry. After the pilot phase will be completed and an intermediate data analysis had been performed, the registry will be expanded over several countries across Europe with the goal of enrolling up to 800 patients over a period of 5 years. Phase 2: The READ-ASV Registry (short name) will investigate the use of Adaptive Servo-Ventilation in non-heart failure conditions. The purpose is to examine the effects of ASV on quality of life, daytime symptoms and sleep, to describe usage patterns of ASV with regards to patient characteristics and to document adverse events related to therapy for a therapy safety analysis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients over \u226518 years of Age\n* Prescription of ResMed AirCurve 10 CS PaceWave or S9 AutoSet CS PaceWave for treatment of ASV\n* Naive to ASV Treatment\n* Able to fully understand information on data protection and provide written informed consent\n\nExclusion Criteria:\n\n\\- Heart Failure (HF) with a Left Ventricular Ejection Fraction (LVEF) \\<45% and CSA \\>50% central apneas of all apneas\n\nPhase 2: Inclusion Criteria:\n\n* \u2265 18 years old.\n* Indication for treatment with ASV according to applicable medical guidelines.\n* Use of eligible ResMed devices for treatment with ASV according to the Instructions For Use of the corresponding device.\n* Naive to ASV treatment (max. 7 days between start of ASV therapy and enrolment).\n* Able to fully understand information on data protection and provide written informed consent for use of their medical data.\n\nPhase 2: Exclusion Criteria:\n\n* Chronic, symptomatic heart failure (NYHA 2-4) with reduced left ventricular ejection fraction (LVEF \u2264 45%) and moderate to severe predominant central sleep apnea.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The registry shall include adult individuals with a prescription of ASV therapy. Indications are sleep-related breathing disorders, including obstructive, central or complex sleep apnea.",
+  "condition": [
+    "Central Sleep Apnea",
+    "Complex Sleep Apnea",
+    "Obstructive Sleep Apnea",
+    "Mixed Sleep Apnea"
+  ],
+  "overall_status": "COMPLETED"
+}

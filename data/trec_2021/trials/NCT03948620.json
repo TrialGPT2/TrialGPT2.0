@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT03948620",
+  "title": "Macrolide in Pregnancy and Adverse Child Outcomes",
+  "brief_summary": "Over the last 20 years, concerns have been raised about rare but serious adverse outcomes associated with macrolide use during pregnancy. The strongest evidence comes from a large randomised controlled trial (RCT, ORACLE Child Study II) of women with spontaneous preterm labour (SPL), which reported an increased risk of cerebral palsy in children whose mothers received erythromycin compared with no erythromycin. A recent systematic review on macrolides prescription during pregnancy showed consistent associations with miscarriage, and less consistent associations with adverse child outcomes such as congenital malformations, cerebral palsy and epilepsy. In this study, the investigators will evaluate associations between macrolide antibiotics prescription during pregnancy and a range of adverse child outcomes.\n\nThe investigators compare children whose mothers were prescribed an only monotherapy of macrolides or penicillins during pregnancy (from 5 gestational week (GW) to delivery and by trimesters). The investigators estimate the risk ratios of major malformation (overall and five system-specific) and hazard ratios of four neurodevelopmental disorders (cerebral palsy, epilepsy, attention-deficit/hyperactivity disorder, and autism spectrum disorder) with control for potential confounders. The associations will also be examined by subtype of macrolides and treatment duration.\n\nMother-child pairs will be analysed in a cohort selected from the UK Clinical Practice Research Database (CPRD) between 1990 and 2016.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Children whose mother was prescribed an only monotherapy of macrolides or penicillins during pregnancy (between 5 GW and delivery).\n* Children born from Jan 1st 1990 to June 30th 2016 in the CPRD Mother Baby Link.\n* Children who registered with the GP within 6 months of birth\n* Children whose mother was aged 14 to 50 years and had been registered with GP at least 50 weeks before estimated conception date until after delivery\n\nExclusion Criteria:\n\n* Children with known chromosomal abnormalities and pregnancies with exposure to known teratogenic medications (warfarin, angiotensin-converting enzyme (ACE) inhibitors, antineoplastic agents, isotretinoin, misoprostol, and thalidomide)",
+  "minimum_age": "",
+  "maximum_age": "14 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population will consist of all eligible children from the source population where the mother was prescribed an only monotherapy of macrolides or penicillins during pregnancy. The source population will be all mother-baby pairs identified from CPRD Mother-baby linkage where the children were born from Jan 1st 1990 to June 30th 2016.",
+  "condition": [
+    "Infection"
+  ],
+  "overall_status": "COMPLETED"
+}

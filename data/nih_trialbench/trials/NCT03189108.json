@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT03189108",
+  "title": "Collection of Malignant Ascites, Pleural Fluid, and Blood From People With Solid Tumors",
+  "brief_summary": "Background:\n\nResearchers want to study fluids and blood of people with cancer. The fluids are from the abdomen and around the lungs. Studying these might help researchers learn about the biology of cancer. This may lead to better ways to treat cancer.\n\nObjectives:\n\nTo study the biology of cancer.\n\nEligibility:\n\nAdults 18 and older with malignant solid tumors.\n\nDesign:\n\nParticipants will be screened with medical history, blood tests, and confirmation of diagnosis.\n\nParticipants will have samples taken at regularly scheduled procedures. Fluids from the abdomen and/or lungs will be taken as part of the procedures. Blood will be taken separately.\n\nParticipants may be asked to give more samples at future procedures.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Participants greater than or equal to 18 years of age with histologically proven malignant solid tumors\n* Ability and willingness to provide informed consent to participation.\n* Participants with malignant solid tumors with a clinical indication for a thoracentesis or paracentesis.\n\nEXCLUSION CRITERIA:\n\n-Children \\< 18 years of age are not eligible.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who are being seen in follow up, consultation, or presenting for enrollment on a clinical trial at the NIH Clinical Center",
+  "condition": [
+    "Ovarian Cancer",
+    "Primary Peritoneal Cancer",
+    "Fallopian Tube Cancer",
+    "Cancer"
+  ],
+  "overall_status": "TERMINATED",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic biospecimen collection study enrolling adults with malignant solid tumors who have a clinical indication for thoracentesis or paracentesis. There are no restrictions on prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not specify any requirements or restrictions regarding prior systemic therapy for advanced/metastatic disease. Patients are eligible based solely on having a malignant solid tumor and a clinical indication for fluid drainage, regardless of treatment history."
+    }
+  ]
+}

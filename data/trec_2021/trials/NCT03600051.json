@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT03600051",
+  "title": "Automated Phonocardiography Analysis in Adults",
+  "brief_summary": "Background: Computer aided auscultation in the differentiation of pathologic (AHA class I) from no- or innocent murmurs (AHA class III) via artificial intelligence algorithms could be a useful tool to assist healthcare providers in identifying pathological heart murmurs and may avoid unnecessary referrals to medical specialists.\n\nObjective: Assess the quality of the artificial intelligence (AI) algorithm that autonomously detects and classifies heart murmurs as either pathologic (AHA class I) or as no- or innocent (AHA class III).\n\nHypothesis: The algorithm used in this study is able to analyze and identify pathologic heart murmurs (AHA class I) in an adult population with valve defects with a similar sensitivity compared to medical specialist.\n\nMethods: Each patient is auscultated and diagnosed independently by a medical specialist by means of standard auscultation. Auscultation findings are verified via gold-standard echocardiogram diagnosis. For each patient, a phonocardiogram (PCG) - a digital recording of the heart sounds - is acquired. The recordings are later analyzed using the AI algorithm. The algorithm results are compared to the findings of the medical professionals as well as to the echocardiogram findings.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adults with a heart defect verified by echocardiography",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Elderly in-patient subjects admitted to the Division of Cardiology, University Hospital Graz, Austria. All patients had known pathological murmurs caused by multiple valve defects, confirmed by gold standard echocardiography. Defects were interpreted by the cardiologist as \"low, medium or high\" severity. Altogether, 155 valve defects were observed, including insufficiencies of the aortic, mitral, tricuspid, and pulmonary valves; and stenosis of the aortic and mitral valves.",
+  "condition": [
+    "Aortic Insufficiency",
+    "Aortic Stenosis",
+    "Mitral Insufficiency",
+    "Mitral Insufficiency and Aortic Stenosis",
+    "Tricuspid Regurgitation",
+    "Insufficiency, Pulmonary",
+    "Insufficiency, Tricuspid"
+  ],
+  "overall_status": "COMPLETED"
+}

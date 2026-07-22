@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02150967",
+  "title": "A Phase II, Single Arm Study of BGJ398 in Patients With Advanced Cholangiocarcinoma",
+  "brief_summary": "This is a multi-center, open label, single arm phase II study evaluating BGJ398 (infigratinib) anti-tumor activity in advanced or metastatic cholangiocarcinoma patients with fibroblast growth factor receptor (FGFR) genetic alterations.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion criteria:\n\n\\- Adult patients with histologically or cytologically confirmed cholangiocarcinoma at the time of diagnosis.\n\nPatients with cancers of the gallbladder or ampulla of Vater are not eligible.\n\n\\- Patients must have received at least one prior regimen containing gemcitabine with or without cisplatin for advanced/ metastatic disease. Patient should have evidence of progressive disease following prior regimen, or if prior treatment discontinued due to toxicity must have continued evidence of measurable or evaluable disease.\n\nExclusion criteria:\n\n* Prior or current treatment with a MEK inhibitor (all Cohorts), BGJ398 (infigratinib) (all Cohorts), or selective FGFR inhibitor (Cohorts 1 and 2 only).\n* insufficient organ function\n\n  * Absolute Neutrophil Count (ANC) \\< 1,000/mm3 \\[1.0 x 10\\^9/L\\]\n  * Platelets \\< 75,000/mm3 \\[75 x 10\\^9/L\\]\n  * Hemoglobin \\< 109.0 g/dL\n  * Total bilirubin \\> 1.5x upper limit of normal (ULN)\n  * Aspartate aminotransferase/glutamic oxaloacetic transaminase (AST/SGOT) and alanine aminotransferase/glutamic pyruvic transaminase (ALT/SGPT) \\> 2.5x ULN (AST and ALT \\> 5x ULN in the presence of liver metastases)\n  * Serum creatinine \\> 1.5x ULN and a calculated or measured creatinine clearance \\< 45 mL/min\n  * Inorganic phosphorus outside of normal limits\n  * Total and ionized serum calcium outside of normal limits\n\nOther protocol-defined inclusion/exclusion criteria may apply.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Advanced Cholangiocarcinoma",
+    "FGFR2 Gene Mutation"
+  ],
+  "overall_status": "TERMINATED"
+}

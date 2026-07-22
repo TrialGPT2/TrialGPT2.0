@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03801395",
+  "title": "PCD New Gene Discovery",
+  "brief_summary": "This is a new gene discovery program for individuals with PCD who do not have a specific genetic etiology identified. Research procedures involve a single blood draw from the affected individual and from unaffected family members in an effort to identify new genetic targets.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* \u2022 Age 0-90 years\n\n  * Confirmed diagnosis of PCD by either ciliary ultrastructure abnormality or two known disease-causing alleles in a known PCD gene OR individuals with clinical suspicion of PCD without a confirmatory test (genetics or ciliary biopsy) as defined by: low nasal nitric oxide testing (\\<77nl/min) on two separate occasions at least two months apart or compatible clinical phenotype, but unable to do nasal nitric oxide testing secondary to age or other factors OR relative of one of the previously defined individuals with PCD\n  * Ability to provide informed consent or consent of parent/guardian and assent for minors\n\nExclusion Criteria:\n\n* \u2022 Inability to understand the requirements of the study or be unwilling to provide written informed consent (as evidenced by signature on an informed consent document approved by the IRB) OR inability of parent/guardian to understand the requirements of the study",
+  "minimum_age": "0 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals with confirmed or suspected PCD and their unaffected family members",
+  "condition": [
+    "Primary Ciliary Dyskinesia"
+  ],
+  "overall_status": "COMPLETED"
+}

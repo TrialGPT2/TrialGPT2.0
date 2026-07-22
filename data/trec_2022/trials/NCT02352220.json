@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT02352220",
+  "title": "Determinants of Onset and Progression of COPD in Young Adults",
+  "brief_summary": "COPD (Chronic Obstructive Pulmonary Disease) is a Public Health problem due to its impact in the patient's quality of life, high prevalence, growing incidence and socioeconomic implication. COPD natural history and first stages determinants are unknown. Knowing them will help to understand the natural history of the disease and to design interventions that can modify the prognosis of the disease.\n\nStudy objectives: (1) To characterize an early COPD population from a multidimensional point of view including demographic, social, family and clinical data, lung function, exercise capacity, image, microbiology, quality of life, exacerbations, comorbidities and blood and sputum biomarkers. (2) To compare this patients with smoking subjects, with normal lung function, matched by age, sex and site. (3) To create an early COPD cohort to be followed in the future to understand the complete natural history of the disease.\n\nMethods: Design: multicenter cross-sectional study that will allow establishing a well-characterized cohort of early COPD patients for later follow-up. Recruitment will be done in Primary Care settings. Subjects: smokers (\\> 10 packs year) between 35-50 years old with a spirometry (normal or obstructive) done in the last year. Diagnosis of COPD will be based on the smoking history and a postbronchodilator test FEV1(Forced Expiratory Volume in the first second) / FVC(Forced Vital Capacity) \\< 70%. Age, sex and site matched 'healthy' smoker controls will be compared with the COPD cases. Variables that will be collected in the reference hospitals are: health questionnaires, lung function test, exercise capacity, blood and sputum samples, and low dose CT-scan. Statistical analysis: early COPD patient's characteristics will be described and then, will be compared, with control subjects through a conditional multiple logistic regression analysis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "\\*\\*Inclusion Criteria:\n\nCOPD case:\n\n* Subjects between 35 and 50 years\n* Post-bronchodilator spirometry with FEV1/FVC \\<70%\n* Smoker or ex-smoker with total cumulative exposure \\> 10 pack-years\n\nSmoking control:\n\n* Subjects between 35 and 50 years\n* Post-bronchodilator spirometry with FEV1/FVC \\>=70%\n* Smoker or ex-smoker with total cumulative exposure\\> 10 pack-years\n\n  * Exclusion Criteria:\n\nFor cases:\n\n* Chronic inflammatory diseases including autoimmune diseases under treatment.\n* HIV\n* Active cancer\n* Cystic or saccular bronchiectasis\n* Conditions that may interfere with follow-up: frequent change of residence, psychiatric disorders, dementia\u2026\n\nFor controls:\n\n* Chronic inflammatory diseases including autoimmune diseases under treatment\n* HIV\n* Active cancer\n* Chronic respiratory diseases:\n* active tuberculosis\n* interstitial lung diseases\n* cystic or saccular bronchiectasis\n* ever diagnosed asthma\n* deficit of alpha1-antitrypsin\n* Conditions that may interfere with follow-up: frequent change of residence, psychiatric disorders, dementia \u2026",
+  "minimum_age": "35 Years",
+  "maximum_age": "50 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Smokers from 35 to 50 years who ever performed a spirometry in the selected primary care centers. Selected subjects will not have exacerbation symptoms (fever, new onset or increased cough, increase sputum volume and/or purulence, acute rhinitis) within 8 weeks prior to the recruitment (from beginning of the symptoms).",
+  "condition": [
+    "COPD"
+  ],
+  "overall_status": "UNKNOWN"
+}

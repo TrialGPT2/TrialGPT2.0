@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01888588",
+  "title": "Risk of Uncomplicated Peptic Ulcer in the General Population",
+  "brief_summary": "The analyses are conducted in a previous population-based cohort study using The Health Improvement Network database in the UK (Cai et al 2009).The aims of the post hoc analyses are:\n\nTo estimate the relative risk of uncomplicated symptomatic peptic ulcer (UPU) associated with use of low dose aspirin (ASA) and other anti-inflammatory drugs (NSAIDs, steroids) in the general population To estimate the dose-response and duration-response associated with use of these drugs To estimate the relative risk of UPU associated with naive/non-naive use of low dose ASA in the general population To evaluate the effect of proton pump inhibitors (PPI) (alone or in combination with anti-inflammatory drugs) on the occurrence of UPU in the general population To investigate the management of low dose ASA/oral antiplatelets after UPU",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n\\- Patients aged 40-84 years in 1997-2005 ( see study population description)\n\nExclusion Criteria:\n\n\\- Patients aged below age 40 and 85 years and above ( see study population description)",
+  "minimum_age": "40 Years",
+  "maximum_age": "84 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study is conducted using The Health Improvement Network database in the UK. Patients aged 40-84 years between January 1997 and December 2005 with a registration status of permanent or deceased, who were enrolled for at least 2 years with a GP and had 1 year of electronic prescription history. Patients with a code for cancer, peptic ulcer (both uncomplicated and complicated), upper GI bleeding, oesophageal varices, Mallory-Weiss disease, alcohol abuse, liver disease, or coagulopathies before beginning date were excluded from the source population. All patients in the study population were followed up until the end of the study period (December 2005), or until they reached the age of 85, died, met any of the exclusion criteria (including receiving a diagnosis of complicated peptic ulcer disease), or received a diagnosis of uncomplicated peptic ulcer disease.Patient records were manually reviewed to validate cases.",
+  "condition": [
+    "Peptic Ulcer [Iowa Type (107680.0010)]"
+  ],
+  "overall_status": "COMPLETED"
+}

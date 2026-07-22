@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04473768",
+  "title": "Clinical Decision Support in Non-typhoidal Salmonella Bloodstream Infections in Children",
+  "brief_summary": "In sub-Saharan Africa, non-typhoidal Salmonella (NTS) are a frequent cause of bloodstream infection, display high levels of antibiotic resistance and have a high case fatality rate (15%). In Kisantu hospital in the Democratic Republic of Congo (DR Congo), NTS account for 75% of bloodstream infection in children and many children are co-infected with Plasmodium falciparum (Pf) malaria. NTS bloodstream infection presents as a non-specific severe febrile illness, which challenges early diagnosis and, as a consequence, prompt and appropriate antibiotic treatment.Moreover, at the first level of care, frontline health workers have limited expertise and diagnostic skills and, as a consequence, clinical danger signs that indicate serious bacterial infections are often overlooked.\n\nBasic handheld diagnostic instruments and point-of-care tests can help to reliably detect danger signs and improve triage, referral and the start of antibiotics, but there is need for field implementation and adoption to low-resource settings. Further, it is known that some clinical signs and symptoms are frequent in NTS bloodstream infections. The integration of these clinical signs and symptoms in a clinical decision support model can facilitate the diagnosis of NTS bloodstream infections and target antibiotic treatment.\n\nThe investigators aim to develop such a clinical decision support model based on data from children under five years old admitted to Kisantu district referral hospital in the Democratic republic of the Congo. While developing the model, the investigators will focus on the signs and symptoms that can differentiate NTS bloodstream infection from severe Pf malaria and on the clinical danger signs that can be assessed by handheld diagnostic instruments and point-of-care tests. The deliverable will be a clinical decision support model ready to integrate in an electronic decision support system.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Be a child of \\> 28 days and \\< 5 years old\n2. Be admitted to Kisantu Hospital\n3. Having a blood cultured sampled according to the criteria for suspected bloodstream infection embedded in the blood culture surveillance, i.e. presence of objective fever, hypothermia or history of fever during past 48 hours + at least one of the following criteria:\n\n   * Hypotension, confusion or increased respiratory rate\n   * Suspicion of severe localized infection: pneumonia, meningitis, osteomyelitis, complicated urinary tract infection, abscess, skin/soft tissue infection or abdominal infection\n   * Suspicion of typhoid fever\n   * Suspicion of severe Pf malaria\n4. Having a caregiver willing and able to provide written informed consent\n\nExclusion Criteria:\n\n* None",
+  "minimum_age": "28 Days",
+  "maximum_age": "5 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Study site: Pediatric ward of St. Luc general referral hospital in Kisantu health zone (Province Kongo Central, DR Congo), further referred to as \"Kisantu Hospital\"\n\n* Capacity: 100 beds, bed occupancy reaches up to 180%\n* Financial system: Flat fees per admission (10$)\n* Ongoing blood culture surveillance study:\n\n  * Routine free-of-charge blood culture sampling \\& work-up coordinated by INRB/ITM\n  * Since 2017, blood culture surveillance as a part of typhoid conjugate vaccine study\n* Epidemiological context:\n\n  * High burden of non-typhoidal Salmonella (NTS) bloodstream infections\n  * High Plasmodium falciparum (Pf) malaria endemicity\n  * High prevalence of malnutrition",
+  "condition": [
+    "Bloodstream Infection",
+    "Salmonella Bacteremia",
+    "Malaria,Falciparum",
+    "Severe Malaria"
+  ],
+  "overall_status": "COMPLETED"
+}

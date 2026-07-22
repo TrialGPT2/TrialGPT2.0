@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00182650",
+  "title": "Cellular Adoptive Immunotherapy in Treating Patients With Relapsed or Refractory Follicular Non-Hodgkin's Lymphoma",
+  "brief_summary": "RATIONALE: Cellular adoptive immunotherapy uses a person's white blood cells that are treated in the laboratory to stimulate the immune system in different ways and stop cancer cells from growing. Rituximab and fludarabine may also prevent the body from making an immune response against the laboratory-treated white blood cells that are put back into the body. Interleukin-2 may help the laboratory-treated white blood cells stay in the body longer. Giving cellular adoptive immunotherapy together with rituximab, fludarabine, and interleukin-2 may kill more cancer cells.\n\nPURPOSE: This phase I trial is studying the side effects of cellular adoptive immunotherapy in treating patients with relapsed or refractory follicular non-Hodgkin's lymphoma.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed follicular non-Hodgkin's lymphoma (NHL)\n\n  * High-risk disease, as defined by any of the following:\n\n    * Relapsed within 6 months after the last treatment\n    * Failed to achieve a complete response during the last treatment\n    * Relapsed after prior autologous hematopoietic stem cell transplantation (HSCT)\n* No current transformation of lymphoma (e.g., elements of intermediate- or high-grade lymphoma by biopsy)\n* No active CNS disease by lumbar puncture or radiology scan NOTE: A new classification scheme for adult non-Hodgkin's lymphoma has been adopted by PDQ. The terminology of \"indolent\" or \"aggressive\" lymphoma will replace the former terminology of \"low\", \"intermediate\", or \"high\" grade lymphoma. However, this protocol uses the former terminology.\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 16 to 70\n\nPerformance status\n\n* Karnofsky 50-100%\n\nLife expectancy\n\n* More than 16 weeks\n\nHematopoietic\n\n* Absolute neutrophil count \\> 500/mm\\^3\n\nHepatic\n\n* Bilirubin \u2264 1.5 times upper limit of normal (ULN)\\* (unless due to Gilbert's disease)\n* ALT \u2264 2.5 times ULN\\* NOTE: \\*Unless due to NHL\n\nRenal\n\n* Creatinine \u2264 1.5 times ULN\\* OR\n* Creatinine clearance \u2265 80 mL/min\\* NOTE: \\*Unless due to NHL\n\nImmunologic\n\n* HIV negative\n* Epstein-Barr virus positive\n* No history of allergy or intolerance to ganciclovir\n\nOther\n\n* Negative pregnancy test\n* No history of another malignancy except basal cell skin cancer or carcinoma in situ\n* No other uncontrolled or severe illness that would preclude study participation\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* No prior allogeneic HSCT\n* No other immunotherapy during and for approximately 65 days after the last T-cell infusion, unless approved by the Principal Investigator (PI)\n\nChemotherapy\n\n* No other chemotherapy during and for approximately 65 days after the last T-cell infusion, unless approved by the PI\n\n  * Patients may receive chemotherapy after leukapheresis while waiting for CD19-specific T cells to be manufactured\n\nEndocrine therapy\n\n* No systemic corticosteroids during and for approximately 65 days after the last T-cell infusion, unless approved by the PI\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* Not specified\n\nOther\n\n* No concurrent participation in another investigational study\n* No immunosuppression agents or other investigational agents during and for approximately 65 days after the last T-cell infusion, unless approved by the PI",
+  "minimum_age": "16 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lymphoma"
+  ],
+  "overall_status": "COMPLETED"
+}

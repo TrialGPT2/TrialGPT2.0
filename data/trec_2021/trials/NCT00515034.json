@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT00515034",
+  "title": "A Safety and Tolerability Study of Doripenem in Patients With Abdominal Infections or Pneumonia",
+  "brief_summary": "The purpose of this study is to assess the safety and tolerability of doripenem compared to imipenem in Ventilator-assisted pneumonia and complicated Intra-abdominal Infection. The study population will include hospitalized patients (or patients resident in a chronic health care facility) who have a diagnosis of either Ventilator associated pneumonia or complicated Intra-abdominal Infection.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients must be hospitalized with a diagnosis of Ventilator-Assisted Pneumonia (VAP) or complicated Intra-Abdominal Infection (cIAI)\n* Patients with VAP must have been hospitalized (or been in a chronic care facility) for \\>= 5 days, have received mechanical ventilation for \\>= 48 hours, have a Clinical Pulmonary Infection Score (CPIS) of \\>= 5, have new or progressive radiographic infiltrates (not related to another disease process)\n* Patients with cIAI must have clinical evidence of intra-abdominal infection, abdominal pain or tenderness, localized or diffuse abdominal wall rigidity, mass, ileus or have a requirement for surgical intervention (e.g., laparotomy, laparoscopic surgery, or percutaneous draining of an abscess) within 24 hours of study entry\n\nExclusion Criteria:\n\n* Patients with a history of acute hepatic failure or acute decompensation of chronic hepatic failure, history of severe impairment of renal function, history of immunocompromising illness, acquired immunodeficiency syndrome (AIDS), or human immunodeficiency virus (HIV) with a CD4 count less than 200 cells/mL within the past 6 months\n* organ (including bone marrow) transplant recipients\n* hematologic malignancy\n* use of immunosuppressive therapy at screening, including use of high dose corticosteroids (e.g., \\> 40 mg prednisone or equivalent per day for \\> 2 weeks)\n* history of any rapidly progressing disease or immediately life-threatening illness (including acute hepatic failure and septic shock)",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pneumonia, Ventilator-Associated",
+    "Pneumonia, Bacterial",
+    "Pneumonia",
+    "Abdominal Abscess",
+    "Bacterial Infections"
+  ],
+  "overall_status": "COMPLETED"
+}

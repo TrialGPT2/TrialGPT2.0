@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04344444",
+  "title": "Treatment in Patients With Suspected or Confirmed COVID-19 With Early Moderate or Severe Disease",
+  "brief_summary": "This study proposes to evaluate clinical outcomes and viral load in COVID-19 infected patients with early moderate and severe disease admitted to the hospital and randomized to one of three arms. Patients will be randomized to supportive care, OR hydroxychloroquine alone, OR hydroxychloroquine and azithromycin.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age greater than 18 years\n* Positive SARS-CoV-2 testing or consistent clinical syndrome (based on clinical picture e.g. characteristic infiltrates on chest x-ray, laboratory findings, and with agreement by two physicians) in patients under investigation (PUIs).\n* Onset of symptoms \\< 7 days from date of enrollment\n* Oxygen saturation of \\>94% on room air with defined risk factors (Table 1) consistent with moderate disease OR oxygen saturation of \\< 94% on room air consistent with severe disease\n* Ability and willingness to comply with study procedures\n\nExclusion Criteria:\n\n* QTc greater than 450 milliseconds on screening EKG\n* Pregnant or lactating women\n* Inability to take oral pills or inability to use a feeding tube\n* Inability to obtain informed consent either from the patient or from the next of kin if patient is incapacitated. For the purpose of this study obtaining a verbal consent from a family member on the phone with a witness will be considered acceptable since there is a 'no visitor' policy in force at hospitals.\n* Patients requiring ICU level care\n* use of azithromycin or hydroxychloroquine within 30 days prior to admission",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID-19"
+  ],
+  "overall_status": "TERMINATED"
+}

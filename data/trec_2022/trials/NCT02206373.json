@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02206373",
+  "title": "How to Dose a Patient According to Renal Function? Glomerular Filtration Rate (GFR) or Creatinine Clearance (ClCr)",
+  "brief_summary": "Background\uff1a The prevalence of chronic kidney disease (CKD) is high in Taiwan. Though there are many factors that may affect the measurement of serum creatinine, it is a well-accepted marker for renal function assessment. The creatinine clearance (ClCr) estimated by Cockcroft-Gault is commonly used as a reference for dosage adjustment; while the estimated glomerular filtration rate (eGFR) by Modification of Diet in Renal Disease (MDRD) is used in CKD staging. ClCr and eGFR not only have different units, but the results of estimation from the two varied among races and individuals. Since 2010, US Food and Drug Administration required both the influences of ClCr and eGFR on the pharmacokinetics of a drug in renal insufficient patients during pharmacokinetic studies. Because most drugs are excreted through kidney, an understanding on the relationship between ClCr and eGFR is important to dose safely and effectively. Furthermore, identifying the factors that may influence the difference between ClCr and eGFR can provide in-depth consideration during clinical renal function assessment.\n\nPurpose\uff1a The purpose of this study is to analyze the correlation between different ClCr and eGFR equations in order to provide better renal dose. We also want to find the factors that may cause the differences between them.\n\nMethods\uff1a This study will conduct literature review to understand study population during the development of different ClCr and eGFR equations, as well as their scope of application. National Taiwan University Hospital electronic patient database will be used to analyze the correlation between ClCr and eGFR and to identify factors that may influence the difference between ClCr and eGFR. The data from patients who have completed 12-hr or 24-hr urine collection with calculated renal function will be used to verify the applicability of these equations (including a ClCr equation developed by our institute) in Taiwanese. Pharmacokinetic principles will be used to analyze the appropriate unit to be used for renal function while dosing a patient.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* adult patients with serum creatinine test result\n\nExclusion Criteria:\n\n* unstable renal function, hemodialysis, cachexia, pregnancy, severe burn, muscle atrophy, severe trauma, amputation, liver failure",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "2012.01.01\\~2012.12.31 adult patients with serum creatinine test result in NTUH",
+  "condition": [
+    "Creatinine Clearance Quantitative Trait Locus",
+    "Renal Insufficiency, Chronic"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT02417740",
+  "title": "Natural History of Noncirrhotic Portal Hypertension",
+  "brief_summary": "Background:\n\n\\- Noncirrhotic Portal Hypertension (NCPH) is caused by liver diseases that increase pressure in the blood vessels of the liver. It seems to start slowly and not have many warning signs. Many people may not even know that they have a liver disease. There are no specific treatments for NCPH.\n\nObjectives:\n\n\\- To learn more about how NCPH develops over time.\n\nEligibility:\n\n\\- People age 12 and older who have NCPH or are at risk for getting it. In the past year, they cannot have had other types of liver disease that typically result in cirrhosis, liver cancer, or active substance abuse.\n\nDesign:\n\n* Participants will have 2 screening visits.\n* Visit 1: to see if they have or may develop NCPH.\n* Medical history\n* Physical exam\n* Urine and stool studies\n* Abdominal ultrasound\n* Fibroscan. Sound waves measure liver stiffness.\n\n\\<TAB\\>- Visit 2:\n\n* Blood tests\n* Abdominal MRI\n* Echocardiogram\n* Questionnaire\n* Liver blood vessel pressure (hepatic venous portal gradient (HVPG)) measurement. This is done with a small tube inserted in a neck vein.\n* They may have a liver biopsy.\n* All participants will visit the clinic every 6 months for a history, physical exam, and blood tests. They will also repeat some of the screening tests yearly.\n* Participants with NCPH will also have:\n* Upper endoscopy test. A tube inserted in the mouth goes through the esophagus and stomach.\n* At least every 2 years: Esophagogastroduodenoscopy.\n* At least every 4 years: testing including HVPG measurements and liver biopsy.\n* Participants without NCPH will also have:\n* Liver biopsy and HVPG measurements to see if they have NCPH.\n* Every 2 years: abdominal MRI and stool studies.\n* The study will last indefinitely.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Male or female, aged \\>= 18 years of age, and minors 12-17 years of age.\n* Women of childbearing potential must agree to use birth control unless they are menopausal or had hysterectomy.\n* Known diagnosis of NCPH, or to be at the risk for NCPH by virtue of underlying disease processes such as but not limited to; CGD, SCD, Mastocytosis, CVID, CF, and CHF.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Pregnancy.\n* Evidence of other forms of liver disease that typically result in cirrhosis.\n* Evidence of active Chronic Hepatitis B infection as defined by the presence of hepatitis B surface antigen (HBsAg) in serum and elevated HBV DNA (\\>10,000 IU/mL).\n* Hepatitis C as defined by the presence of hepatitis C RNA in serum.\n* Evidence of other liver disease such as primary sclerosing cholangitis, primary biliary cirrhosis, Wilson s disease, autoimmune hepatitis as defined by either liver histology or laboratory abnormalities.\n* Hemochromatosis as defined by presence of 3+ or 4+ stainable iron on liver biopsy or homozygosity for C282Y. Patients with iron saturation indices of \\>45% and serum ferritin levels of \\>300 ng/ml for men and \\>250 ng/ml for women will undergo genetic testing for hemochromatosis.\n* Bile duct obstruction as suggested by imaging studies done within the previous six months.\n* The presence of cirrhosis confirmed by liver biopsy.\n* Active substance abuse, such as alcohol, inhaled or injection drugs within the previous one year (assessed during subject interviews by subject self-report).\n* Evidence of hepatocellular carcinoma; either alpha-fetoprotein (AFP) levels greater than 50 ng/ml (normal \\<6.6ng/ml) and/or ultrasound (or other imaging study) demonstrating a mass suggestive of liver cancer.\n* Evidence of cholangiocarcinoma as suggested by liver histology.\n* Any other severe condition, which in the opinion of the investigators would impede the patient s participation or compliance in the study.\n* Inability to comply or give written informed consent.",
+  "minimum_age": "12 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects with diagnosis of noncirrhotic portal hypertension above age of 12 years",
+  "condition": [
+    "Cystic Fibrosis",
+    "Immunologic Deficiency Syndrome",
+    "Turner Syndrome",
+    "Congenital Hepatic Fibrosis",
+    "Idiopathic Non-Cirrhotic Portal Hypertension"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study of noncirrhotic portal hypertension (NCPH) and does not require or restrict any prior systemic therapy for advanced disease. Patients are enrolled based on diagnosis or risk of NCPH, regardless of prior treatment history.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention any requirements or restrictions regarding prior systemic therapy for advanced/metastatic disease. Patients are included based on diagnosis or risk of NCPH, with no reference to prior lines of therapy."
+    }
+  ]
+}

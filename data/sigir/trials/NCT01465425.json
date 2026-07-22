@@ -1,0 +1,29 @@
+{
+  "nctid": "NCT01465425",
+  "title": "Extracolonic Findings on Computed Tomography (CT) Colonography",
+  "brief_summary": "The ACRIN 7151 trial will use medical records abstraction data from participants with extracolonic findings (ECFs) reported from the ACRIN 6664 National CT Colonography Trial to: 1) measure incidence of diagnostic imaging, hospitalization, and interventional procedures associated with ECFs reported on computed tomography colonography (CTC), delineated by type of ECF; 2) determine potential predictors of follow-up diagnostic imaging, hospitalization, and interventional procedures, delineated by type of ECF; and 3) evaluate the clinical/pathologic diagnoses associated with indeterminate but potentially significant ECFs. These data can be used to incorporate ECFs into existing models on the cost-effectiveness of CTC in colorectal cancer screening and can potentially be used to develop guidelines for the reporting and management of ECFs.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "No participant sub-populations will be excluded prior to selection (the E1 population will be matched to the Case Group populations).\n\nData from the 15 participating sites from the ACRIN 6664 trial provide a study data set of 2531 participants, broken down into a total target study data set of 520 participants. Participants will be distributed into one of three cohorts as follows:\n\n* The Case Group will target consenting 141 participants from the cases with indeterminate but potentially significant findings (E3/E4s) other than pulmonary nodules.\n* The Pulmonary Nodules Case Group will comprise 119 cases with E3/E4 ECFs characterized as pulmonary nodules.\n* The E1 Control Group will be drawn from the 866 E1 ECF cases to create a cohort of 260 E1ECF cases. The Control Group for comparison with the Case Group and the Pulmonary Nodules Case Group will be selected at the Biostatistics and Data Management Center (BDMC). The BDMC will match E1 141 controls to the 141 case-group participants with indeterminate but potentially significant findings (E3/E4s). The BDMC will also match 119 E1 controls to the 119 E3/E4 pulmonary nodules cases. Controls will be matched by site, age caliper (5 years), and sex where possible. Where an appropriate match cannot be obtained, the matching criteria will be relaxed. If potential participants decline study consent, we will then best-match additional cases for the appropriate group to maintain target populations. Any additional cases beyond the initial 520 participants identified for medical record collection will be matched as feasible.",
+  "minimum_age": "50 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All participants originally enrolled in the ACRIN 6664 National CT Colonography Trial are eligible for the ACRIN 7151 trial. The target study data set for the ACRIN 7151 trial is 520 participants, assigned to one of three cohorts: an E3/E4 Case Group (n = 141) excluding pulmonary nodules, an E3/E4 Pulmonary Nodules Case Group (n = 119), and an E1 Control Group (n = 260).",
+  "condition": [
+    "Solitary Pulmonary Nodules",
+    "Multiple Pulmonary Nodules",
+    "Renal Neoplasms",
+    "Adrenal Gland Neoplasms",
+    "Aortic Aneurysm, Abdominal",
+    "Liver Neoplasms",
+    "Adnexal and Skin Appendage Neoplasms",
+    "Lymphadenopathy",
+    "Pancreatic Neoplasms"
+  ],
+  "overall_status": "UNKNOWN"
+}

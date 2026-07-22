@@ -1,0 +1,40 @@
+{
+  "nctid": "NCT04564287",
+  "title": "An Observational Study of Neurologic Function After COVID-19 Infection",
+  "brief_summary": "Background:\n\nCOVID-19 is an infection caused by a coronavirus. It can affect different parts of the body. For most people, it causes fevers or trouble breathing. Some people can have symptoms long after they recover. Researchers want to learn if there are signs of changes in the nervous system that may be related to COVID-19.\n\nObjective:\n\nTo test the nervous system (the brain and nerves) in people who have had COVID-19 yet still have certain symptoms even after recovering.\n\nEligibility:\n\nPeople age 18 and older who had COVID-19 and still have neurologic symptoms after they recovered from the initial infection.\n\nDesign:\n\nParticipants will be screened with a medical record review.\n\nParticipants will have a neurological exam. They will complete pen-and-paper tests of their memory and thinking. They will complete a smell test with 'scratch-and-sniff' booklets.\n\nThey will give blood samples.\n\nParticipants will have magnetic resonance imaging (MRI) of the brain. Soft padding or a coil will be placed around their head. They will lie on a table that slides in and out of the MRI scanner. They will get a contrast dye through an intravenous (IV) catheter.\n\nParticipants blood pressure, blood flow, skin temperature, sweating, and breathing will be monitored.\n\nParticipants will have an electrocardiogram to measure heart function.\n\nParticipants will blow into a mouthpiece for several seconds.\n\nParticipants will lie on a table that has a motor. The motor tilts the table. Participants will have blood drawn through an IV as the table tilts.\n\nParticipants will have a lumbar puncture. A small needle will be inserted into the spinal canal to obtain fluid.\n\nParticipants may repeat some tests 8 weeks to 1 year later.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in the PASC cohort, an individual must meet all of the following criteria:\n\n1. Stated willingness to comply with all study procedures and availability for the duration of the study\n2. Male or female, aged at least 18 years at the time of enrollment\n3. Enrolled in the screening phase of Protocol 000089 Post-Coronavirus Disease 19 Convalescence at the National Institutes of Health\n4. Positive COVID-19 test result (per the methodology used for inclusion in Protocol 000089) at least six weeks prior to enrollment and exhibiting persistent neurologic symptoms evidenced by a positive response to at least one of the following:\n\n   1. Do you have ongoing issues with being lightheaded or dizzy and if so, are these issues made worse when you sit or stand up\n\n      quickly?\n   2. Do you have ongoing issues with gait instability, problems with vision, speech, swallowing?\n   3. Do you have ongoing issues with sensation or strength in your face/arms/legs?\n5. Ability of subject to understand and the willingness to sign a written informed consent document.\n\nIn order to be eligible to participate in the Fully Recovered cohort, an individual must meet all of the following criteria:\n\n1. Stated willingness to comply with all study procedures and availability for the duration of the study\n2. Male or female, aged at least 18 years at the time of enrollment\n3. Enrolled in the screening phase of Protocol 000089 Post-Coronavirus Disease 19 Convalescence at the National Institutes of Health\n4. Positive COVID-19 test result (per the methodology used for inclusion in Protocol 000089) in at least six weeks prior to enrollment.\n5. A self-reported illness narrative of recovery to prior health after a SARS/CoV2 infection, without residual fatigue, brain fog, orthostatic intolerance, or exercise intolerance.\n6. Ability of subject to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Presence of a contraindication to research MRI with gadolinium, including contraindicated metal in the body, prior allergic reaction to gadolinium, eGFR \\<45 mmol/L, pregnancy or lactation, or claustrophobia that is unable to be adequately treated with a low oral dose of a benzodiazepine.\n2. Contraindication to a research lumbar puncture, including use of anticoagulant medication, platelets \\< 50,000/microL, PT or PTT \\>1.5 x ULN for the NIH Clinical Center, or otherwise inability to complete the procedure.\n3. Contraindication to autonomic testing, including refractory ventricular arrhythmias or symptomatic coronary artery disease.\n4. A condition prior to the diagnosis of COVID-19 infection that would significantly confound interpretation of the research tests (e.g., prior diagnosis of postural orthostatic tachycardia syndrome), as determined by the study investigators.\n5. Fever or respiratory symptoms in the last seven days.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Community Sample",
+  "condition": [
+    "COVID-19"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study of neurologic function after COVID-19 infection, with cohorts for patients with persistent neurologic symptoms (PASC) and those fully recovered. There is no cancer or systemic therapy for advanced disease involved, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "PASC cohort",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes adults with prior COVID-19 infection and persistent neurologic symptoms. There is no mention of cancer or systemic therapy, so line-of-therapy intent does not apply."
+    },
+    {
+      "cohort_label": "Fully Recovered cohort",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes adults with prior COVID-19 infection who have fully recovered without residual symptoms. There is no mention of cancer or systemic therapy, so line-of-therapy intent does not apply."
+    }
+  ]
+}

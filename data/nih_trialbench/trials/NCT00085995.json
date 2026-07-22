@@ -1,0 +1,40 @@
+{
+  "nctid": "NCT00085995",
+  "title": "Progression of Spinal Fusion in Ankylosing Spondylitis",
+  "brief_summary": "This study will evaluate: 1) whether computed tomography (CT) scanning is better than regular x-rays for measuring changes in the stiffness, or fusion, of the spine in patients with ankylosing spondylitis; and 2) if CT can be used to determine how fast extra bone forms in the spine of these patients. Better ways to measure spinal fusion are needed to be able to evaluate the effectiveness of medicines in slowing or stopping its progression. CT uses x-rays to provide detailed pictures of the inside of the body and are valuable for detecting spinal abnormalities because of the precision with which it can show these structures. For the procedure, the patient lies on a table that moves into a large, donut-shaped scanner that can move around the body to take pictures at different angles, which are viewed on a computer monitor.\n\nPatients 18 years of age and older with ankylosing spondylitis who are not currently taking or planning to receive treatment with anti-TNF alpha medications (etanercept, infliximab, adalimumab) for 1 year may be eligible for this study. Participants have eight clinic visits, scheduled at study entry and at 4, 8, 12, 16, 20, 24, and 48 months, at the NIH Clinical Center for the following procedures:\n\n* Clinical assessment (all visits) - includes medical history and physical examination, measurement of spine flexibility with a tape measure and protractor, symptoms questionnaire\n* Blood tests for measures of inflammation, including red blood cell sedimentation rate and C-reactive protein level (all visits)\n* Urine pregnancy test in women of child-bearing age (visits 1, 4, 7, 8)\n* X-rays of the pelvis, low back, and neck (visits 1, 4, 7)\n* X-ray of the low back (visit 8)\n* CT scan of the low back (visits 1, 4, 7)\n* Magnetic resonance imaging (MRI) of the low back (visits 1, 4) - MRI combines a powerful magnet with an advanced computer system and radio waves to produce accurate, detailed pictures of organs and tissues. The patient lies on a table in a narrow cylinder containing a magnetic field, wearing earplugs to muffle loud noises that occur with electrical switching of the magnetic fields. He or she can speak with a staff member via an intercom system at all times during the procedure. During the scan, a contrast dye (gadolinium) is injected into the bloodstream through a catheter (plastic tube inserted in a vein) to brighten the images.\n\nIn addition, participants will complete a symptoms questionnaire by mail every 4 months for 2 years between visits 7 and 8.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* A. LONGITUDINAL STUDY PROTOCOL:\n\nFifty-five patients will be studied.\n\nINCLUSION CRITERIA:\n\n1. Age 18 years or older\n2. Diagnosis of AS by the modified New York criteria\n3. Lumbar spine BASRI score of 0, 1, 2, or 3\n\nWe will aim to recruit at least 6 patients in each of the following BASRI lumbar spine categories:\n\n* 0 or 1 (normal or suspicious changes)\n* 2 (erosions, sclerosis or squaring with or without syndesmophytes or 2 or fewer vertebrae)\n* 3 (syndesmophytes on 3 or more vertebrae with fusion of at most 2 vertebrae)\n\nEXCLUSION CRITERIA:\n\n1. Inability to provide informed consent.\n2. BASRI lumbar spine score of 4 (complete fusion; 12)\n3. Contraindication to MRI scanning based on the NMR Center MRI Safety Screening Questionnaire or size or weight limitations of the scanner.\n4. History of allergic reactions to gadolinium-DPTA contrast used for MRI\n5. Anticipated unavailability for follow-up over 2 years\n6. Pregnancy\n7. Onset of AS at age 16 or younger\n8. Spondyloarthropathy other than AS\n9. Severe scoliosis or other spinal malalignment that would complicate scan interpretation\n\nB. CROSS-SECTIONAL (RELIABILITY) STUDY PROTOCOL\n\nUp to 35 patients will be studied.\n\nINCLUSION CRITERIA:\n\n1. Age 18 years or older\n2. Diagnosis of AS by the modified New York criteria (5)\n\nEXCLUSION CRITERIA:\n\n1. Inability to provide informed consent\n2. BASRI lumbar spine score of 4 (complete fusion)\\<TAB\\>\n3. Pregnancy\n4. Onset of AS at age 16 or younger\n5. Spondyloarthropathy other than AS\n6. Severe scoliosis or other spinal malalignment that would complicate scan interpretation",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "clinical sample",
+  "condition": [
+    "Ankylosing Spondylitis"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study of ankylosing spondylitis patients evaluating imaging modalities for spinal fusion progression. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Longitudinal Study",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they restrict or require any prior lines of therapy. The focus is on imaging and disease characteristics, not treatment history."
+    },
+    {
+      "cohort_label": "Cross-Sectional Study",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "There are no requirements or exclusions based on prior systemic therapy for advanced disease in the eligibility criteria. The study is focused on imaging reliability in ankylosing spondylitis patients."
+    }
+  ]
+}

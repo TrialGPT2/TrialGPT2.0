@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01274260",
+  "title": "Trial of Steroids in Pediatric Acute Lung Injury/ARDS",
+  "brief_summary": "Acute lung injury (ALI) and acute respiratory distress syndrome (ARDS) are devastating disorders associated with lung inflammation, low oxygen levels and respiratory failure in children. Prevalence of ALI ranges from 2.2 to 12 per 100,000 children per year. Using these estimates, up to 9,000 children each year will develop ALI/ARDS, which may cause upto 2,000 deaths per year. Currently, there are no specific therapies directed against ARDS/ALI in children. In adult patients, use of steroids early in the course of ARDS appears promising. There are no published clinical trials examining the use of steroids for the treatment of ALI/ARDS in children.\n\nHypothesis:\n\nSubjects with ALI/ARDS receiving steroids early in the course of disease (within 72 hours) and longer than 7 days will have improved clinical outcomes as compared to placebo control group as defined by (a) a decreased duration of mechanical ventilation and (b) significantly increased PaO2/FiO2 ratios.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Between 1 month and 18 years of age; AND\n2. Admitted to the PICU with a diagnosis of ALI or ARDS, as defined by:\n\n   1. acute onset of the disease,\n   2. PaO2/FiO2 ratio \\<300,\n   3. evidence of bilateral infiltrates on chest radiography, and\n   4. no evidence of cardiac dysfunction; AND\n3. Intubated and mechanically ventilated.\n\nExclusion Criteria:\n\n1. Underlying disease requiring steroids \\>0.5mg/kg/day of methylprednisolone (eg. Asthma)\n2. HIV positive, or have any other congenital or acquired immunodeficiency;\n3. Terminally ill patients or patients on hospice care or if there is a lack of commitment to aggressive intensive care\n4. Cytotoxic therapy within the past 3 weeks\n5. Major gastrointestinal bleeding within last 1 month\n6. Extensive burns (\\>20% total body surface area of full- or partial-thickness burns)\n7. Known or suspected adrenal insufficiency\n8. Vasculitis or diffuse alveolar hemorrhage\n9. Bone marrow or lung transplant\n10. Disseminated fungal infections\n11. Severe chronic liver disease\n12. Other conditions with estimated 6-month mortality of 50% or higher",
+  "minimum_age": "1 Month",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Respiratory Distress Syndrome (ARDS)",
+    "Acute Lung Injury (ALI)"
+  ],
+  "overall_status": "UNKNOWN"
+}

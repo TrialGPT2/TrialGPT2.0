@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT05412563",
+  "title": "Exploring The Role Of Palliative Care In Phase 1 Enrolled Pediatric Oncology Patients",
+  "brief_summary": "This study is being conducted to learn more about the patient/family experience when opting to enroll in Phase I clinical trials and their quality of life (QOL) while receiving experimental therapy. Palliative care (PC) has the potential to be beneficial for these families and further studies are needed to determine the most effective way for integration of PC into the care of patients enrolled on experimental clinical trials.\n\nPrimary Objective\n\n* To qualitatively assess the patient and family experience, their hopes and worries and associated distress while deciding to enroll on a Phase I clinical trial.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Caregiver is 18 years of age or older\n* Caregiver is related to the patient in one of the following ways: biological parent, stepparent, or primary legal guardian\n* If more than 1 set of parents are involved in the patient's care (e.g., 2 biologic and 2 stepparents or partners) involved, the caregiver with legal decision- making responsibilities will be eligible for participation\n* Caregiver is comfortable speaking and reading English\n\nExclusion Criteria:\n\n* Those who do not meet inclusion criteria",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Those who meet the Inclusion criteria and consent to participate",
+  "condition": [
+    "Quality of Life"
+  ],
+  "overall_status": "TERMINATED",
+  "line_of_therapy_overall_summary": "This study enrolls caregivers of pediatric oncology patients who are participating in Phase I clinical trials. The line-of-therapy intent is not specified, but Phase I trials typically enroll heavily pre-treated patients.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on being a caregiver of a pediatric patient enrolled in a Phase I clinical trial. The protocol does not specify the number of prior lines of therapy, but Phase I trials usually require patients to have received multiple prior systemic therapies for advanced disease. Adjuvant-only patients are unlikely to be eligible, but this is not explicitly stated."
+    }
+  ]
+}

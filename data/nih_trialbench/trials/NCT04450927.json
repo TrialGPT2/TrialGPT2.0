@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04450927",
+  "title": "Data Collection of Standard Care and Evaluation of NHLBI Patients and Donors",
+  "brief_summary": "Background:\n\nResearchers seek ways to study people s medical problems in order to teach and further general knowledge. The ability to assess and treat people with a wide range of diseases is critical to training people to be good doctors. It is also needed to keep medical staff up to date. In this study, researchers want to study the course of some illnesses to learn more about them. To do this, they will collect and review people s medical records. In some cases, they may also provide treatment.\n\nObjective:\n\nTo collect data that may be used to help researchers create ideas for future research.\n\nEligibility:\n\nPeople age 2 and older who have or are suspected to have a medical condition for which they have been referred to NIH s National Heart, Lung, and Blood Institute, as well as stem cell donors\n\nDesign:\n\nParticipants may be screened with a review of the following:\n\nMedical records\n\nScans and images\n\nOther existing samples and reports.\n\nParticipants medical data will be collected from the standard care they receive. This includes their routine blood and urine tests, X-rays and scans, and other tests to diagnose or follow their medical condition. Data will also be collected from the treatments they may receive. For stem cell donors, data from apheresis procedures will be collected. Demographic data will also be collected.\n\nAll of the data will be kept in the medical records or on secure network drives.\n\nSome participants may need to be treated for their medical condition. If so, they will sign a separate consent form for that treatment.\n\nParticipation lasts up to 2 years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* ELIGIBILITY:\n\n  1. Patients (including those referred to us to rule out a disease or condition) and stem cell donors, may be entered on this protocol at the discretion of the Principal and/or Associate Investigators.\n  2. The patient or the patient's Legally Authorized Representative is capable of informed consent and signs the consent form. The consent form will be signed by parents or guardians of patients under the age of 18.\n  3. Age more than or equal to 2 and weight \\> 12 kg",
+  "minimum_age": "2 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All subjects 2 or older and weighing greater than 12 kg, who meet inclusion criteria will be considered for participation on this protocol at this discretion of the Principal or Associate Investigator",
+  "condition": [
+    "Wide Spectrum of Diseases",
+    "Hematologic Diseases"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This is a non-interventional data collection protocol enrolling patients with any medical condition referred to the NHLBI, as well as stem cell donors. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility includes all patients referred for any medical condition and stem cell donors, with no mention of prior systemic therapy or disease stage. There are no restrictions or specifications regarding prior lines of therapy for advanced disease."
+    }
+  ]
+}

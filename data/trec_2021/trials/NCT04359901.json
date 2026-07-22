@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04359901",
+  "title": "Sarilumab for Patients With Moderate COVID-19 Disease",
+  "brief_summary": "Objectives: To determine whether blockade of IL-6R is beneficial in patients with COVID-19 infection of moderate severity.\n\nResearch Design: Randomized, controlled trial. Two-arm trial comparing standard care alone to standard care with addition of sarilumab (anti-IL6R). The trial will use a randomized play-the-winner design, in which randomization becomes weighted toward the arm that was more effective in previous subjects in the trial.\n\nMethodology Hospitalized patients meeting clinical criteria for moderate disease and testing positive for coronavirus infection. Interventions: sarilumab, 400 mg subcutaneous injection. Standard care is not pre-specified, may vary among patients, and may include agents with anti-viral activity, such as remdesivir or hydroxychloroquine, among others. Up to 120 patients, primary outcome intubation or death within 14 days. All data will be extracted remotely from the electronic health record (EHR).\n\nClinical Implications: The study has potential to establish IL-6R blockade, delivered subcutaneously, as standard of care in reducing progression to critical illness in patients with moderate COVID-19 disease.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Study subjects will be inpatients with confirmed SARS-CoV-2 testing. Testing is performed at the discretion of the treating physician. Only Veterans will be enrolled.\n\nInclusion Criteria:\n\n1. Positive testing for novel coronavirus SARS-CoV-2019\n2. Patients with moderate COVID-19 disease as defined clinically:\n\n   1. Score of 1-3 (out of 3) on a modified Brescia COVID respiratory severity score (BCRSS), elements of which include wheezing or inability to speak complete sentences without effort, respiratory rate \u226522, O2 saturation \u2264 94% with or without supplemental oxygen, or requiring \u22652L supplemental oxygen to maintain O2 Sat \\>94% in patients without previously documented hypoxia or baseline oxygenation requirement; either is equal to one point on the score) all within a 24-hour period prior to enrollment, and/or any worsening of chest X-ray (CXR) findings after COVID-19 diagnosis\n   2. Worsening of baseline oxygenation by at least 3%, or increase in oxygen requirement by at least 2L, in patients with pre-existing hypoxemia or receiving supplemental oxygen chronically.\n   3. The BCRSS risk calculation score is available at: https://www.mdcalc.com/brescia-covid-respiratory-severity-scale-bcrss-algorithm\n\nExclusion Criteria:\n\n1. Critical disease, defined by need for mechanical ventilation\n2. Expected death within 48 hours\n3. Patients taking any of the following for chronic inflammatory diseases: glucocorticoids equivalent to prednisone \\> 10 mg/day (methylprednisolone \\> 8 mg/day, dexamethasone \\> 2 mg/day), a JAK inhibitor (tofacitinib, baricitinib, upadacitinib), or a biologic\n\n   1. Use of chronic inhaled steroids is NOT an exclusion\n   2. Current or recent short-term use of glucocorticoids for chronic conditions such as COPD or gout is NOT an exclusion.\n   3. Current use of glucocorticoids for COVID-19 is NOT an exclusion\n   4. Use of biologics for non-inflammatory diseases is NOT an exclusion\n4. Receipt of any IL-6 inhibitor within 3 months prior to enrollment in the trial\n5. Pregnancy, due to lack of fetal monitoring capabilities\n6. Patients enrolled in other interventional clinical trials, including for COVID-19. Patients enrolled in non-interventional studies or receiving non-FDA-approved drugs for compassionate use are not excluded.\n7. Patients whose goal of care is comfort measures only\n8. Inability to provide informed consent, or absence of a legally authorized representative to provide informed consent.\n9. Severe psychiatric disease that prevents compliance with typical medical care.\n10. Initial positive test for active infection with novel coronavirus SARS-CoV-2019 was \\>4 weeks prior to current admission.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID"
+  ],
+  "overall_status": "COMPLETED"
+}

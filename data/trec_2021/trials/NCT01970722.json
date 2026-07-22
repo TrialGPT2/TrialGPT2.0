@@ -1,0 +1,51 @@
+{
+  "nctid": "NCT01970722",
+  "title": "Surgery and Chemotherapy With or Without Chemotherapy After Surgery in Treating Patients With Ovarian, Fallopian Tube, Uterine, or Peritoneal Cancer",
+  "brief_summary": "This phase I trial studies the side effects and how well surgery and heated chemotherapy with or without non-heated chemotherapy after surgery works in treating patients with ovarian, fallopian tube, uterine, or peritoneal cancer. Giving a dose of heated chemotherapy into the abdomen during surgery that is done to remove ovarian, fallopian tube, uterine, or peritoneal cancer may help lower the risk of the cancer coming back. Giving unheated chemotherapy drugs directly into the abdomen after surgery may kill more tumor cells.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Provided informed consent\n* Patient with primary or recurrent International Federation of Gynecology and Obstetrics (FIGO) stage III or IV, or recurrent ovarian, fallopian tube, peritoneal carcinoma, or uterine cancer, confined to abdominal cavity, including those who have completed neoadjuvant chemotherapy and primary surgery\n* Gynecologic Oncology Group (GOG) or Eastern Cooperative Oncology Group (ECOG) performance status =\\< 1 or Karnofsky scale (KPS) \\>= 70%\n* Patients who are platinum-sensitive or platinum resistant\n* Candidate for potentially radical, maximal effort cytoreductive surgery at the discretion and expertise of the treating physician\n* For patients with newly diagnosed-ovarian/tubal/peritoneal cancer who have received pre-operative neoadjuvant chemotherapy, evidence of response must be documented by at least one of the following:\n\n  * Decline in serum cancer antigen (CA) 125 level\n  * At least a 30% decrease in the sum of the longest diameter of target lesions on radiographic imaging\n  * Improvement of ascites volume\n  * Neoadjuvant chemotherapy must be held for at least 3 weeks prior to surgery\n  * Resolution of any effects of prior therapy (except alopecia and peripheral neuropathy) to the current National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (NCI CTCAE) grade =\\< 1 and to baseline laboratory values as defined\n* Hemoglobin (HGB) \\>= 9 g/dL\n* White blood cell (WBC) \\>= 3,000/mcL\n* Absolute neutrophil count (ANC) \\>= 1,500/mcL\n* Platelets (PLT) \\>= 100,000/mcL\n* Total bilirubin within normal institutional limits\n* Serum glutamic oxaloacetic transaminase (SGOT)/serum glutamate pyruvate transaminase (SGPT) \\< 2.5 x institutional upper limit of normal (ULN)\n* Creatinine \\< 1.5 x ULN or creatinine clearance \\> 60 ml/min according to Cockcroft-Gault formula\n* Neuropathy (sensory and motor) NCI CTCAE grade =\\< 2\n* Prothrombin time (PT) such that international normalized ratio (INR) is \\< 1.5 (or an in-range INR, usually between 2 and 3, if a patient is on a stable dose of therapeutic warfarin or low molecular weight heparin) and a partial thromboplastin time (PTT) \\< 1.2 times control\n* Serum albumin \\>= 2.5\n* No active infection requiring antibiotics\n* Preoperative or intraoperative (frozen section) diagnosis of ovarian, peritoneal, fallopian tubal or uterine cancer\n* Surgery achieves either no gross residual disease (R0) or optimal cytoreductive status defined as no single lesion measuring more than 5.0 mm in its greatest diameter\n* Stable from a cardiopulmonary standpoint to continue with prolonged surgery and anesthesia\n\nExclusion Criteria:\n\n* Patients with active extra-abdominal disease including active malignant pleural effusion; patients who have been successfully treated with neoadjuvant chemotherapy and no longer have (malignant) pleural effusions may be included\n* Patients whose disease has progressed following at least 3 cycles of neoadjuvant chemotherapy as defined by at least one of the following:\n\n  * Doubling of serum CA-125 level\n  * At least a 20% increase in the sum of the longest diameter of target lesions, taking as reference the smallest sum longest diameter recorded since the treatment started or the appearance of one or more new lesions\n  * Clinical deterioration (worsening ascites, carcinomatous ileus, malignant bowel obstruction, severe hypoalbuminemia, declining performance status)\n* Cardiac or pulmonary conditions that preclude aggressive cytoreductive surgery\n* Patients whose circumstances do not permit completion of the study or the required follow-up\n* Pregnant, nursing, or of childbearing potential and refuse hysterectomy or bilateral salpingo-oophorectomy\n* Other active invasive malignancies, with the exception of non-melanoma skin cancer and breast cancer (if without evidence of disease 1 year after completion of treatment)\n* Metastatic non-gynecologic or breast primaries\n* Sub-optimal resection as their surgical outcome\n* Intraoperative frozen section suggesting hepatobiliary, pancreatic, adrenal, or urinary tract cancer",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "FIGO Stage IVA Ovarian Cancer",
+    "FIGO Stage IVB Ovarian Cancer",
+    "Platinum-Resistant Ovarian Carcinoma",
+    "Recurrent Fallopian Tube Carcinoma",
+    "Recurrent Ovarian Carcinoma",
+    "Recurrent Primary Peritoneal Carcinoma",
+    "Recurrent Uterine Corpus Carcinoma",
+    "Stage III Fallopian Tube Cancer AJCC v7",
+    "Stage III Ovarian Cancer AJCC v6 and v7",
+    "Stage III Primary Peritoneal Cancer AJCC v7",
+    "Stage III Uterine Corpus Cancer AJCC v7",
+    "Stage IIIA Fallopian Tube Cancer AJCC v7",
+    "Stage IIIA Ovarian Cancer AJCC v6 and v7",
+    "Stage IIIA Primary Peritoneal Cancer AJCC v7",
+    "Stage IIIA Uterine Corpus Cancer AJCC v7",
+    "Stage IIIB Fallopian Tube Cancer AJCC v7",
+    "Stage IIIB Ovarian Cancer AJCC v6 and v7",
+    "Stage IIIB Primary Peritoneal Cancer AJCC v7",
+    "Stage IIIB Uterine Corpus Cancer AJCC v7",
+    "Stage IIIC Fallopian Tube Cancer AJCC v7",
+    "Stage IIIC Ovarian Cancer AJCC v6 and v7",
+    "Stage IIIC Primary Peritoneal Cancer AJCC v7",
+    "Stage IIIC Uterine Corpus Cancer AJCC v7",
+    "Stage IV Fallopian Tube Cancer AJCC v6 and v7",
+    "Stage IV Ovarian Cancer AJCC v6 and v7",
+    "Stage IV Primary Peritoneal Cancer AJCC v7",
+    "Stage IV Uterine Corpus Cancer AJCC v7",
+    "Stage IVA Uterine Corpus Cancer AJCC v7",
+    "Stage IVB Uterine Corpus Cancer AJCC v7"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

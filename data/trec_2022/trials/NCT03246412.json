@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03246412",
+  "title": "Nevus Doctor Clinical Decision Support for GPs",
+  "brief_summary": "The study investigates if a computer-based clinical decision support tool for skin cancer may improve the diagnostic accuracy of general practitioners (GPs). The aim of the program is to help GPs increase their diagnostic accuracy, in particular regarding the selection of suspicious skin lesions that need biopsy or referral to specialist health care for further assessment. Half of the physicians in the trial will have the clinical decision support tool available during consultations, while the other half has no such tool available. We hypothesize that general practitioners using the clinical decision support tool will have a higher number of correct classifications of skin lesions compared to doctors without the tool.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients concerned about one or several skin lesion(s)\n* Patients with any other condition if doctor has observed a skin lesion suspicious for skin cancer (incl. actinic keratosis)\n\nExclusion Criteria:\n\n* Patients not able to give consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Melanoma (Skin)",
+    "Non-melanoma Skin Cancer",
+    "Actinic Keratoses"
+  ],
+  "overall_status": "COMPLETED"
+}

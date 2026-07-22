@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT01375530",
+  "title": "Screening Volunteers for Clinical Trials",
+  "brief_summary": "Background:\n\n\\- The National Institute of Allergy and Infectious Diseases (NIAID) at the National Institutes of Health needs healthy volunteers for vaccine clinical trials. This is a screening study that is used to identify healthy volunteers who may be eligible to participate in other clinical trials at the Vaccine Research Center that evaluate investigational vaccines, monoclonal antibodies, and injection devices. The VRC conducts studies that will allow researchers to better understand the immune system and how vaccines and monoclonal antibodies work.\n\nObjectives:\n\n\\- To screen healthy volunteers for clinical trials at the NIAID VRC.\n\nEligibility:\n\n\\- Healthy people between 18 and 60 years of age. They must be available to take part in clinical trials and be able to provide blood for research studies.\n\nDesign:\n\n* Screening for healthy volunteers to participate in clinical trials is an ongoing process.\n* Volunteers will be asked about their medical history, including sexual activity and drug use, and a detailed physical exam will be performed.\n* Blood and urine samples may be collected, and possibly other tests as needed to evaluate the volunteer's health status.\n* Volunteers will not receive any investigational product in this screening protocol.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAge: 18 years of age or older\n\nAble and willing to complete the informed consent process\n\nAgree to have blood and/or tissue samples collected and stored for future studies of investigational products, the immune system, and/or other medical conditions\n\nEXCLUSION CRITERIA:\n\nA condition in which repeated blood draws or injections pose more than minimal risk for the subject such as hemophilia, other severe coagulation disorders or significantly impaired venous access\n\nA condition that requires active medical intervention or monitoring to avert serious danger to the participant s health or well-being\n\nKnown to be pregnant or breast-feeding",
+  "minimum_age": "18 Years",
+  "maximum_age": "60 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy volunteers",
+  "condition": [
+    "Screening"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a screening protocol for healthy volunteers to identify eligibility for future vaccine clinical trials. There is no cancer diagnosis or systemic therapy involved, and line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This is a screening study for healthy volunteers with no cancer diagnosis or systemic therapy. Line-of-therapy criteria are not applicable."
+    }
+  ]
+}

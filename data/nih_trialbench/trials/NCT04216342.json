@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04216342",
+  "title": "Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Fx-5A in Healthy Volunteers",
+  "brief_summary": "Background:\n\nHeart disease is the leading cause of death, disability, and healthcare expense in the United States. Researchers think a new drug called Fx-5A may be useful to treat different cardiovascular diseases and inflammation.\n\nObjective:\n\nTo understand the safety, tolerability, and effects of Fx-5A.\n\nEligibility:\n\nHealthy people ages 18 and older who are not pregnant\n\nDesign:\n\nParticipants will be screened with:\n\nMedical history\n\nPhysical exam\n\nBlood tests\n\nPregnancy test for female participants\n\nParticipants will stay in the hospital for 36-48 hours. This will include:\n\nBlood tests\n\nEKGs: Electrodes will be placed on the participant s chest. The patches are connected to cables that will send information from their heart to a machine.\n\nSingle infusion of Fx-5A. A needle will be used to insert a plastic tube into a vein in the participant s arm. This tube will remain in the arm for the duration of the hospital stay for blood tests.\n\nParticipants will have follow-up visits day 7 and day 28 after their infusion. At these visits, they will have blood tests and an EKG.\n\nParticipation will last 5-10 weeks.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* 18 years of age or above\n* Women of childbearing potential must be willing to use an appropriate form of birth control during the course of the study and two forms of birth control during the interventional portion of the study and up to day 7 after infusion\n* Subject willing to return for all study visits, complete all study-related tasks, and agree not to participate in other research studies from screening visit to study completion\n* Willingness and capacity to provide written informed consent\n\nEXCLUSION CRITERIA:\n\n* Pregnancy, planned pregnancy (within the study period), or current breastfeeding\n* Subject taking any supplements or medications for at least 8 weeks prior to enrollment (with the exception of oral contraceptives).\n* Known allergies or intolerances to any components of the Fx-5A peptide-lipid complex\n* Known allergies or intolerances to eggs or egg components\n* History of febrile illness within 5 days prior to dosing\n* Hypertension (not treated or uncontrolled\\&)\n* BMI equal to or above 30 kg/m\\^2\n* Blood donation equal to or above 500 mL within 2 months prior to dosing.\n* Treatment with an investigational drug within a month or 5 half-lives of the investigational drug, whichever is longer, prior to dosing.\n* Laboratory changes (with CTCAE grade 2 or above): Abnormal levels of ALT, AST, CK, CRP, Alkaline Phosphatase, HbA1c, Urea, Creatinine, TSH, hemoglobin and hematocrit.\n* Subjects with renal (eGFR\\<90 mL/min /1.73m\\^2) or liver impairment\n* Subjects may also be excluded for any reason that may compromise their safety or the accuracy of research data collection.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cardiovascular Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a phase 1 study of Fx-5A in healthy volunteers with no history of advanced disease or prior systemic therapy. Line-of-therapy intent is not applicable as the trial does not enroll patients with cancer or advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls only healthy volunteers with no mention of cancer, advanced disease, or prior systemic therapy. Line-of-therapy criteria are not applicable."
+    }
+  ]
+}

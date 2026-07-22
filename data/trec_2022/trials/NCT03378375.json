@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03378375",
+  "title": "Resting Energy Expenditure Equations in Amyotrophic Lateral Sclerosis, Creation of a ALS-specific Equation",
+  "brief_summary": "Introduction: Resting energy expenditure (REE) formulas for healthy people (HP) are used to calculate REE (cREE) in amyotrophic lateral sclerosis (ALS) patients. In ALS an increase of measured REE (mREE) in indirect calometry (IC) compared to cREE is found in 50-60%. The aims were (i) to assess accuracy of cREE assessed using eleven formulas as compared to mREE and (ii) to create if needed a specific cREE formula for ALS patients.\n\nMethod: ALS patients followed in the ALS expert center of Limoges between 1996 and 2014 and with a nutritional evaluation were included. mREE assessed with IC and cREE calculated with eleven predictive formulas (Harris Benedict (HB) 1919, HB 1984, WSchofield, De Lorenzo, Johnstone, Mifflin, WHO/FAO, Owen, Fleisch, Wang and Rosenbaum) were collected at time of diagnosis. Fat free mass (FFM) and fat mass (FM) were measured with impedancemetry. A Bland and Altman analysis was carried out. The percentage of accurate prediction \u00b1 10%of mREE, and intraclass correlation coefficients (ICC) were calculated. Using a derivation sample, a new REE formula was created using multiple linear regression according to sex, age, FFM and FM. Accuracy of this formula was assessed in a validation sample.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* ALS diagnosed patients according to Airlie House criteria\n* treated with riluzole\n* respiratory quotient (RQ) of patients in indirect calorimetry (IC) should be in between 0.7 and 0.87\n\nExclusion Criteria:\n\n\\-",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "ALS diagnosed patients according to Airlie House criteria",
+  "condition": [
+    "Amyotrophic Lateral Sclerosis"
+  ],
+  "overall_status": "COMPLETED"
+}

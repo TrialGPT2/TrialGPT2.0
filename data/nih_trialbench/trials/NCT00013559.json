@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00013559",
+  "title": "Natural History Study of Smith-Magenis Syndrome",
+  "brief_summary": "This study will examine how a rare disease called Smith-Magenis syndrome (SMS) affects people and how they change over time. SMS is caused by a small chromosome 17p11.2 deletion (missing piece). The syndrome is associated with distinct physical, developmental and behavioral characteristics, but it is not fully understood. To learn more about this disease, a multidisciplinary research team will study:\n\n* The range and type of medical, behavioral, and learning problems of people with SMS\n* The deletion of chromosome 17p11.2 to find the gene or genes that cause SMS\n* Whether certain specific genetic changes cause certain specific medical problems\n* What signs and symptoms must be present to make a diagnosis of SMS\n* The impact that a child with SMS has on his or her family members.\n\nPatients of all ages with SMS may be eligible for this study. They will be evaluated by a team of medical specialists at the NIH Clinical Center over the course of several days. Parents of patients will be asked to provide copies of past medical records and tests results for review. They will provide a family medical history and information on the child s prenatal, developmental, behavioral and medical histories.\n\nThe study may involve the following evaluations: physical, neurological and psychological exams; ear, nose and throat evaluation; speech, language and swallowing evaluation; hearing test; eye examination; imaging studies (e.g., X-rays, ultrasound, MRI); developmental and behavioral assessment; rehabilitation evaluation with gait (walking) analysis; urinalysis, blood, and/or skin cell studies; sleep study; other consultations as required. A tissue sample (blood or cheek swab or skin biopsy) may be taken for genetic studies. To obtain a cheek swab, a small brush is rubbed against the inside of the cheek to wipe off some cells. For a skin biopsy, a small area of skin is numbed with a local anesthetic and a small circle of skin, usually about 1/8 inch, is removed with a biopsy tool. Parents may be asked to complete questionnaires about their child s growth and development, therapies, medications, sleep, development and behavioral concerns. They also may be asked to bring their child to NIH for follow-up visits every 6 months to 3 years, depending on the child s age. The purpose of these visits is to see how the child changes over time and to conduct additional tests.\n\nParents may also be asked to enroll their child in a SMS Research Registry and provide tissue samples for a SMS Research Core Tissue Bank. The research registry is a confidential database of individuals diagnosed with SMS. Its purpose is to facilitate SMS research initiatives and promote the development of improved treatments for SMS. Enrollment requires completing a 30-minute questionnaire. The tissue bank stores tissue cultures and cell lines created for future SMS research. About 2 teaspoons of blood are drawn from adult patients and 1 to 3 teaspoons from children, depending on their size. Tissue samples can be obtained by skin biopsy or during a scheduled surgical procedure.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA FOR LONGITUDINAL SMS NATURAL HISTORY STUDY:\n\nPersons with known or suspected SMS (male/female, all ages, all ethnicities), their parents and/or unaffected siblings are eligible for enrollment. In some cases, a screening evaluation to confirm the diagnosis may occur at NIH and/or via blood samples sent for deletion screening, prior to enrollment. Subjects may be excluded from further participation if the diagnosis of SMS is ruled out after the initial SMS screening evaluation and/or inability to obtain voluntary informed consent.\n\nINCLUSION CRITERIA FOR HOME ASSESSMENT OF SLEEP (HAS) DD/MR-SYNDROME COMPARISON GROUP:\n\nChildren (male \\& female, all ethnicities) less than18 years with a confirmed diagnosis (based on current accepted diagnostic criteria) of a specified developmental disability (DD)/MR-syndrome reported to include sleep disturbance. These include: Prader-Willi syndrome (PWS), Down syndrome (DS), Cornelia deLange syndrome (CDLS), and/or behavioral diagnosis of autism, ADHD or fragile X syndrome.\n\nEXCLUSION CRITERIA FOR HOME ASSESSMENT OF SLEEP (HAS) DD/MR-SYNDROME COMPARISON GROUP:\n\nFailure to meet established/accepted diagnostic criteria and/or inability to obtain voluntary informed consent (i.e. parental consent for child with developmental delay/MR) is reason for exclusion.\n\nINCLUSION CRITERIA FOR SMS RESEARCH REGISTRY AND CORE TISSUE BANK:\n\nIndividuals (male \\& female, all ages and all ethnicities) with a confirmed diagnosis of SMS \\& their parents who voluntarily give informed consent are eligible for inclusion.\n\nEXCLUSION CRITERIA FOR SMS RESEARCH REGISTRY AND CORE TISSUE BANK:\n\nIndividuals who do not have a confirmed diagnosis of SMS.\n\nThere is no exclusion based on age, gender, ethnicity or any other factor. Decisionally impaired subjects may be enrolled if the parent, legal guardian, or durable power of attorney (DPA) consents; assent will be obtained when deemed appropriate.",
+  "minimum_age": "1 Month",
+  "maximum_age": "115 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients and parents and/or siblings of patients with Smith-Magenis Syndrome (SMS) or suspected SMS.",
+  "condition": [
+    "Smith-Magenis Syndrome (SMS)"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional natural history study of Smith-Magenis syndrome and related disorders. There is no requirement or restriction regarding prior systemic therapy for advanced disease, as the study is observational and not treatment-based.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls individuals with Smith-Magenis syndrome and related developmental disorders regardless of prior therapy. There is no mention of systemic therapy for advanced disease in the eligibility criteria, as this is an observational study."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04559009",
+  "title": "COVID-19 Amyotrophic Lateral Sclerosis (ALS) Registry",
+  "brief_summary": "Amyotrophic lateral sclerosis (ALS) is a relentlessly progressive and fatal neurodegenerative disease characterized by progressive weakness involving limb, bulbar, and respiratory muscles.There is currently no information suggesting how COVID-19 affects patients diagnosed with amyotrophic lateral sclerosis (ALS). This is especially important as respiratory compromise is common in ALS patients and can complicate the clinical course as COVID-19 could lead to respiratory failure and need for intubation. We intend that this registry will guide our understanding of how COVID-19 affects patients with ALS.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosis of ALS and\n* A confirmed COVID-19 infection determined by:\n\n  1. positive SARS-CoV-2 viral RNA PCR test and/or\n  2. positive serology antibody testing for SARS-CoV-2\n\nExclusion Criteria:\n\n* No ALS diagnosis\n* No confirmed COVID-19 infection",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Our study population consists of qualifying cases of patients with ALS who have had a laboratory confirmed COVID-19 infection.",
+  "condition": [
+    "Covid19",
+    "Amyotrophic Lateral Sclerosis"
+  ],
+  "overall_status": "COMPLETED"
+}

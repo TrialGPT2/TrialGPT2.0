@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT00059423",
+  "title": "Natural History Study for BEN",
+  "brief_summary": "In recent decades, hematologists have noticed that persons of African descent sometimes have lower white blood cell counts of a certain type, called granulocytes. These cells help to fight infections. The lower number of granulocytes in this situation does not appear to lead to more infections, and these individuals do not have any symptoms. This condition is called benign ethnic neutropenia (BEN), and is observed in a small percentage of individuals of African descent. This study will investigate the condition by studying people with and without BEN.\n\nThe goals of this study are to:\n\n1. identify individuals of African descent with BEN.\n2. determine the effects of two drugs, G-CSF and dexamethasone, on granulocyte production and movement.\n3. determine whether there are differences in those with and without BEN in the way genes are stimulated after the administration of G-CSF and dexamethasone.\n\nStudy participants will be asked to interview with the research team, undergo physical exams, donate a blood sample, and receive G-CSF by injection, followed by dexamethasone (orally) about three weeks later. They also will be required to undergo apheresis three times, a procedure in which blood is drawn from a donor and separated into its components. Some components are retained for research analyses, such as granulocytes, and small amount of blood; the remainder is returned by transfusion to the donor. This procedure will be required of participants before they receive G-CSF, the day after they receive G-CSF, and the day after they receive dexamethasone. Gene messages (mRNA will be isolated from granulocytes, and analyzed to better understand granulocyte growth and movement.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Individuals of African descent of age 5 or greater\n* Normal renal function: creatinine \\<1.5 mg/dL and proteinuria \\<1+\n* Normal liver function: bilirubin \\<1.5 mg/dL and transaminases within normal limits\n* For control subjects: WBC within normal range (3,300-9,600/mm3), granulocytes/neutrophils greater than or equal to 2,000/mm3, platelets \\>150,000/mm3, hemoglobin \\> 11.5g/dL and normal MCV\n* For benign ethnic neutropenic subjects: two blood counts, at least 1 month apart, with granulocytes/neutrophils \\<1,500/mm3, platelet \\>150,000/mm3, hemoglobin \\>12.5g/dL, and normal MCV. We will also follow subjects whose neutrophil counts are between 1500 and 2000/mm3 in a separate cohort periodically (e.g. once every 1-2 years) to see if their blood counts behave more like BEN or normal subjects.\n* Female volunteers of childbearing age should not be pregnant\n* Meets NIH Department of Transfusion Medicine (DTM) eligibility criteria for blood component donation for in vitro research uses (negative serologic tests for syphilis, hepatitis B and C, HIV, and HTLV-1)\n* Ability to give informed consent to participate in the protocol\n\nEXCLUSION CRITERIA:\n\n* Any underlying hematologic disorder including anemia, and sickle cell disease. Subjects with thalassemia or sickle cell trait are not excluded.\n* Current use of corticosteroids, e.g. prednisone, dexamethasone, or hydrocortisone. Corticosteroids must be discontinued at least one month prior\n* Active or chronic viral, bacterial, fungal, or parasitic infection. Any antibiotic use should be discontinued at least one month prior\n* History of autoimmune disease, such as rheumatoid arthritis or systemic lupus erythematosus, or positive anti-nuclear antibody (ANA ELISA) of 3 E.U. (ELISA units) or greater.\n* Low B12 or folate levels, or abnormal thyroid function tests\n* History of cancer or chemotherapy, except squamous carcinoma of the skin and cervical carcinoma in situ\n* Pregnant woman or positive urine pregnancy test\n* History of clinically significant cardiovascular disease (cardiology consultation may be obtained when clinically indicated)\n* Any positive serum screening test as listed below\n* Allergy to G-CSF or bacterial E. coli products\n* Active pulmonary disease or a pulse-ox level of less than 95% on screening exam",
+  "minimum_age": "5 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Since BEN is a condition of individuals of African descent, volunteer recruitment will be focused in this ethnic population. Accrual for BEN subjects will be based on entry criteria, and not on gender or age (in those 5 years or greater). The minimum age is 5 years because these older children would have larger veins and would be more likely to cooperate with blood draws. Subjects without BEN will be selected to match age and gender of BEN subjects to minimize the differential effects of age and gender to the responses to G-CSF and dexamethasone and in microarray analyses.",
+  "condition": [
+    "Neutropenia",
+    "Agranulocytosis",
+    "Hematologic Diseases",
+    "Leukocyte Disorders",
+    "Leukopenia"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04519502",
+  "title": "Maternal Morbidity and Mortality During the COVID-19 Pandemic",
+  "brief_summary": "A cohort study of women who deliver at select sites on randomly selected days in 2019 and 2020, and all confirmed COVID-19 infections among pregnant or immediately postpartum women in 2020. The study population includes approximately 24,400 deliveries on randomly selected days in 2019 and 2020, and an additional 1000-2100 confirmed COVID-19 infections among pregnant women or immediately postpartum.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Women who deliver at a selected hospital participating in the MFMU Network on selected dates sent by the Data Coordinating Center from March 1, 2019, through Dec, 31, 2019. Women delivered in the calendar year 2019 will serve as the controls (before pandemic).\n* Women who deliver at a selected hospital participating in the MFMU Network on selected dates sent by the Data Coordinating Center from March 1, 2020, through Dec, 31, 2020. Women delivered in the calendar year 2020 will be considered as deliveries during the pandemic (research question 1) and non-confirmed positives as controls (research question 2).\n* Pregnant and postpartum (within 6 weeks of delivery) women with confirmed COVID-19 infection from March 1, 2020, through Dec, 31, 2020 and who deliver on or before December 31, 2020. Both those with COVID-19 infection requiring in-patient management and those managed as out-patients will be included. Confirmed COVID-19 infection is defined as a positive COVID-19 viral (i.e., nucleic acid or antigen tests) test during pregnancy through 42 days postpartum.\n\nExclusion Criteria:\n\n* Multifetal gestation higher than twins",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Approximately 24,400 deliveries on randomly selected days in 2019 and 2020, and an additional 1000-2100 confirmed COVID-19 infections among pregnant women or immediately postpartum",
+  "condition": [
+    "COVID-19",
+    "Pregnancy Complications"
+  ],
+  "overall_status": "COMPLETED"
+}

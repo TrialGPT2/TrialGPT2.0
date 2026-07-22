@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03715933",
+  "title": "Phase 1 Study of INBRX-109 in Subjects With Locally Advanced or Metastatic Solid Tumors Including Sarcomas",
+  "brief_summary": "This is a first-in-human, open-label, non-randomized, three-part phase 1 trial of INBRX-109, which is a recombinant humanized tetravalent antibody targeting the human death receptor 5 (DR5).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Males or females aged \u226512 to less than 85 years for Ewing sarcoma and 18 to less than 85 years of age for other tumors.\n2. Part 3 combination therapy expansion tumor types:\n\n   * Histologically confirmed Ewing sarcoma with a classical fusion: Patients with locally advanced or metastatic, unresectable, relapsed, or refractory disease who have received at least 1 but no more than 2 prior lines of systemic treatment with a preferred first line chemotherapy regimens.\n   * Colorectal adenocarcinoma: Patients with locally advanced or metastatic, unresectable disease, who have received at least 2 but no more than 3 prior lines of systemic therapy.\n3. Measurable disease as defined by RECISTv1.1 (or modified RECIST for mesothelioma) criteria.\n4. Adequate hematologic, coagulation, hepatic and renal function as defined per protocol.\n5. Eastern Cooperative Oncology Group Performance Status (ECOG PS) score of 0 or 1, or Karnofsky Performance Status score of \u226560, or Lansky Play-Performance Scale for Children score \u226560 (for patients less than 16 years).\n6. Estimated life expectancy of at least 12 weeks.\n7. Availability of archival tissue or fresh cancer biopsy are mandatory.\n\nExclusion Criteria:\n\n1. Prior treatment with or exposure to DR5 agonists.\n2. Receipt of any anticancer therapy (including investigational agents) within 4 weeks or within 5 half-lives prior to the first dose of study treatment. Exceptions per protocol.\n3. Allergy or sensitivity to INBRX-109 or known allergies to CHO-produced antibodies.\n4. Receipt of radiotherapy within 4 weeks prior to the first dose of study treatment, and liver-directed within 12 months prior to the first dose of study drug.\n5. Subject has undergone allogeneic hematopoietic stem cell or bone marrow transplantation within the last 5 years. Exceptions per protocol.\n6. Prior or concurrent malignancies. Exceptions per protocol.\n7. Hematologic malignancies.\n8. Symptomatic active primary CNS tumors, leptomeningeal disease, and CNS metastases. Exceptions per protocol. Patients with any evidence or history of multiple sclerosis (MS) or other demyelinating disorders are excluded.\n9. Chronic liver diseases including fatty liver. Exception: Patients \\< 45 years old with fatty liver disease may be accepted as long as adequate hepatic function as defined in the inclusion/exclusion criteria is confirmed.\n10. Acute viral or toxic liver disease within 12 months prior to the first dose of study drug.\n11. Evidence or history of hepatitis B, hepatitis C, or human immunodeficiency virus (HIV) infection.\n12. Known sensitivity or contraindications to the following drugs:\n\n    * Ewing sarcoma: irinotecan or TMZ\n    * colorectal adenocarcinoma: FU, leucovorin, or irinotecan\n13. Clinically significant cardiac condition, including myocardial infarction, uncontrolled angina, cerebrovascular accident, or other acute uncontrolled heart disease less than 3 months prior to enrollment.\n14. Acute, hemodynamically significant deep vein thrombosis or clinically significant pulmonary embolism not resolved or stable for at least 3 months prior to the start of study treatment.\n15. Major surgery within 4 weeks prior to enrollment on this trial.\n16. Systemic infection requiring antibiotics within 2 weeks prior to the first dose of study drug.\n17. Other exclusion criteria per protocol.",
+  "minimum_age": "12 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Ewing Sarcoma"
+  ],
+  "overall_status": "RECRUITING"
+}

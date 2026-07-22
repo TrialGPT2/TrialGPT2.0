@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03847688",
+  "title": "Machine Learning to Predict Clinical Response to TMS",
+  "brief_summary": "Major Depressive Disorder (MDD) is a common and debilitating illness. It affects a person's family and personal relationships, work, education, and life. It changes sleeping and eating habits and significantly impairs patients' general health. The disorder affects Veterans more than the general population, both as an isolated illness and in conjunction with posttraumatic stress disorder (PTSD) and suicidality. Symptoms in a notable proportion of patients (\\~30%) do not respond to behavioral and pharmacological interventions, and new treatments are in great need. One such treatment, transcranial magnetic stimulation (TMS), has been cleared by Food and Drug Administration for treatment in MDD. TMS is effective in around 60% of patients with treatment-resistant MDD but is associated with significant financial and time burden. Further insights into the neurobiological effects of TMS and markers for functional recovery prediction and treatment progression are of great value.\n\nThe goal of this proposal is to use human electrophysiology (electroencephalography, hereafter EEG, in particular) and machine learning to predict treatment response in candidates for TMS treatment and also study TMS's mechanism of action. Doing so has several benefits for patients, as prediction of treatment helps providers in screening out the patients for whom TMS is ineffective and understanding the mechanism allows us to refine and individualize the treatment.\n\nThe investigators will recruit 35 patients with treatment-resistant MDD and record resting state EEG signal with a dense electrode array before and after a 6-week clinical course of TMS treatment. The investigators will use machine learning (Sparse regressions) to predict treatment outcome using functional connectivity (Coherence) maps derived from the EEG signal. The investigators also will use classifiers to track changes in functional connectivity through the course of treatment. Based on our preliminary data, the investigators hypothesize that weaker functional connectivity between prefrontal cortex (where the stimulation is delivered) and parietal/posterior midline sites predict better response to treatment and that TMS treatment will enhance these connections.\n\nThe data collected here would be used as a seed and preliminary data for future federal (NIH and the VA) career development awards which will focus on the use of EEG to better understand brain function and neuromodulation treatments.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* diagnosis of MDD, assessed by the Structured Clinical Interview of DSM-5 (SCID)\n* treatment-resistant, operationally defined as failure to achieve clinical remission (MADRS \\<7) remit following at least one antidepressant trial in the current major depressive episode.\n* Symptoms must be of at least moderate severity (MADRS score \\>19)\n* medications will be stable for at least six weeks prior to TMS, and there will be no dose changes unless medically necessary\n\nExclusion Criteria:\n\n\\* Standard contraindications to TMS and EEG :\n\n* metal in the head and neck\n* history of serious head injury or loss of consciousness over 10 minutes\n* dementia\n* seizure history\n* other serious neurological disorders\n* serious or unstable medical conditions that would affect EEG signal\n* current severe substance use disorders (except for nicotine or caffeine)\n* bipolar or psychotic-spectrum disorders (e.g., schizophrenia, schizoaffective disorder, etc.)\n* Prior non-responders to TMS will also be excluded.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult Veterans, of any sex, ages 18-65, with MDD will participate in the study at the Providence VAMC. The patients will be referred by their providers for standard neuromodulation treatment, as happens currently.",
+  "condition": [
+    "Depression, Unipolar"
+  ],
+  "overall_status": "UNKNOWN"
+}

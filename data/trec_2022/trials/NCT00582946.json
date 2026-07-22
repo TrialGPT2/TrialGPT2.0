@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00582946",
+  "title": "Wide-Bandwidth Open Canal Hearing Aid For Better Multitalker Speech Understanding",
+  "brief_summary": "Our goal is to design and build a new hearing aid system, which mitigates the most common complaints that hearing aid users have. These include hearing in multi-talker situations, poor sound quality, unwanted whistling resulting from feedback, and a dislike of the sound of their own voice. Current efforts, with limited success, use signal processing methods rather than restoring more closely the normal auditory function. We plan to achieve our goal by reducing to practice three key enabling concepts. The first is to replace the current acoustic transducer with a non-acoustic mechanical output transducer that directly actuates the tympanic membrane (TM). This transducer, called the EarLens, floats on the tympanic membrane in a manner similar to the way a contract lens floats on the eye. The second is to increase the output bandwidth of the hearing aid. The third key concept is to place a wide-bandwidth microphone in the ear canal to capture the pinna diffraction cues similarly to the way the normal ear functions. Our central hypothesis is that a hearing aid that delivers amplified wide-bandwidth mechanical stimuli, directionally dependent cues, in an open canal configuration will perform better than conventional hearing aids when there are competing talkers in the background. First phase includes verification the capability of the system to deliver sufficient maximum equivalent pressure output (MEPO) to treat the degree of hearing loss in the target fitting range.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Hearing loss less than 60 dB at any frequency, no conductive hearing loss\n\nExclusion Criteria:\n\n* Collapsed ear canal, damaged or repaired middle ear, too much sensory hearing loss",
+  "minimum_age": "21 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Hearing Impairment"
+  ],
+  "overall_status": "COMPLETED"
+}

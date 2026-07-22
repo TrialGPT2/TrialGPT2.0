@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT00738244",
+  "title": "Effectiveness of Hearing-aid Based Wind-noise Algorithm",
+  "brief_summary": "Wind-noise is highly disturbing to hearing impaired individuals wearing hearing aids who wish to participate in outdoor conversations where wind is present or during activities such as walking or running. In these situations, wind noise significantly reduces signal-to-noise ratio and, consequently, the intelligibility of speech and sounds may be significantly impaired. This negative effect is exacerbated with the use of directional microphone schemes in the hearing iads. The objective of this project is to determine the efficacy of the MH Acoustics' multi-microphone wind-noise reduction invention for the digital hearing aids market. MH Acoustics' wind noise reduction technology is unique since it provides instantaneous convergence while maintaining directionality of the microphone array. Current commercial technologies do not provide this feature. We are hypothesizing that, due to the design of the algorithm, speech perception ability and sound quality perception will be better than that available with traditional directional and/or omnidirectional microphone schemes in windy environments.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Ages 18-75\n* Normal or mild-to-moderate sensorineural hearing loss\n\nExclusion Criteria:\n\n* Thresholds in excess of 75 dB HL",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Two groups (30 each) of subjects will be recruited to participate: Normal hearing adults and adults with mild to moderately severe hearing loss, ages 18-65. Pure tone audiometrics (re ANSI, 1996) will be done to ascertain the hearing sensitivity through 6ooo Hz. Normal hearing will be defined as thresholds at or better than 20 dB HL (re ANSI, 1996). The only exclusion criterion for the group exhibiting hearing loss is that no thresholds up to and including 3000 Hz will exceed 75 dB, so as to minimize the inclusion of subjects with \"dead regions\" in the cochlea.",
+  "condition": [
+    "Hearing Impairment"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01850498",
+  "title": "Epilepsy Motion Sensing",
+  "brief_summary": "Evaluate patient motion during seizures.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* Diagnosed with epilepsy and expected to have at least one motor seizure in the EMU\n* Determined by the Investigator to be an acceptable candidate for epilepsy evaluation with intracranial or scalp electrode monitoring\n* Willing and able to wear 3 ActiGraph GT3X+ devices for the duration of their participation in the study and comply with the study protocol\n* Have one of the following seizure types: (a) partial seizures with secondary generalization, which results in visible clonic or tonic-clonic motor behavior; (b) primarily generalized seizures (in patients with either primary \\[idiopathic\\] or secondary \\[symptomatic\\] generalized epilepsy), which may involve the following depending on the motor manifestation observed: myoclonic seizures, clonic seizures, tonic-clonic seizures, or atonic seizures.\n* Be able to consent to participate by signing the Informed Consent document after a full explanation of the nature and purpose of this study\n* Male or non-pregnant female\n* English speaking\n\nExclusion Criteria:\n\n* Currently enrolled in another investigational device, drug, or surgery study. Concurrent physiologic study participation is acceptable\n* Have an implanted device that may interfere with GT3X+ recordings, ECoG/EEG recordings, ECG recordings, or video recordings\n* Have a movement disorder that may affect GT3X+ recordings",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with epilepsy referred to epilepsy monitoring unit.",
+  "condition": [
+    "Epilepsy"
+  ],
+  "overall_status": "COMPLETED"
+}

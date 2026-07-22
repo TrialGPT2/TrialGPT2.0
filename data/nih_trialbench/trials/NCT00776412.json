@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00776412",
+  "title": "Blood Markers of Inflammation, Blood Clotting and Blood Vessel Function in HIV-infected Adults",
+  "brief_summary": "This study will collect information about markers of inflammation, blood clotting and blood vessel function in HIV-infected adults and healthy volunteers. Biomarkers are biological indicators that have been associated with disease. Certain markers of inflammation, blood clotting, and blood vessel function have been associated with risk of cardiovascular disease, stroke and death. One marker, called D-dimer, is a breakdown product of blood clots that has been associated with serious medical conditions, including deep vein thrombosis (formation of a blood clot in a vein deep in the body) and pulmonary embolism (blockage in the pulmonary artery that occurs when a blood clot from a vein breaks away, travels to the pulmonary artery and lodges there). High D-dimer levels have also been associated with cardiovascular disease and stroke risk. In a recent study of HIV-infected patients, higher D-dimer levels were strongly correlated with risk of death from any cause. The significance of changes in D-dimer and other biomarkers in HIV-infected adults is not well understood. This study will further explore D-dimer and other biomarkers to try to better understand the relationships between them and HIV infection.\n\nHealthy volunteers and HIV-infected adults 18 years of age or older may be eligible for this study. Two visits are involved, as follows:\n\nVisit 1 (screening visit to determine eligibility)\n\n* Medical history and physical examination.\n* Blood tests for HIV infection, blood counts, liver and kidney function.\n* Pregnancy test for women who can become pregnant.\n\nVisit 2\n\n* Blood tests for hepatitis B and C\n* Blood tests for markers of inflammation and blood clotting.\n* Blood test for genetic changes that influence blood clotting.\n\nIn some cases, visits 1 and 2 may be combined.\n\nOptional additional visits (up to 8 visits over 3 years)\n\n* Additional blood draws for investigation of specific clinical or laboratory findings may be requested.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Age greater than or equal to 18 years\n* Ability to understand and provide informed consent\n* Adequate venous access\n* Adequate blood counts (hemoglobin greater than or equal to 9.0 g/dL, platelets greater than or equal to 50,000 cells/mm(3))\n* Willing and able to comply with study requirements and procedures including storage of blood samples for use in future studies of HIV, AIDS, immune function, inflammation, coagulation, and atherosclerosis\n* Negative serum pregnancy test for females of child-bearing potential (female subjects who have medical documentation of hysterectomy and/or bilateral oophorectomy do not need to undergo pregnancy testing)\n\nFor HIV-negative subjects:\n\n\\- No known history of HIV infection. At enrollment, HIV antibody testing will be performed to confirm negative HIV-1 antibody status.\n\nFor HIV-positive subjects:\n\n* Established HIV diagnosis (previous documentation of HIV-1 infection in the subject s medical record; for subjects without such confirmation, positive ELISA testing confirmed by Western Blot or other confirmatory test, or plasma HIV viral load greater than 10,000 copies/mL)\n* Must be under the care of a physician for HIV and general medical issues.\n\nFor HIV-positive subjects enrolling in the immunologic non-responder cohort:\n\n* CD4 count less than 300 cells/mm(3) after two years of effective combination ART with documentation of viral suppression\n* HIV viral load less than 50 copies/mL at screening, with no viral load greater than 1,000 copies/ml during the period of viral suppression.\n* Not currently receiving any medication known to be associated with a low CD4 count\n* No concurrent illness known to cause a low CD4 count\n* Controls for this cohort will have a historical nadir CD4 count less than 300 cells/mm3, with current CD4 count greater than 300 cells/mm3 after three years of effective combination ART with documentation of viral suppression.\n\nEXCLUSION CRITERIA:\n\n* Pregnant or breast-feeding\n* Known bleeding or clotting disorder\n* Current use of prescription anticoagulant including warfarin, low molecular weight heparin, clopidogrel or platelet aggregation inhibitor\n* Concurrent malignancy requiring cytotoxic chemotherapy or radiation therapy\n* Substance abuse or severe psychiatric disorder that would interfere with adherence to protocol requirements\n* Any serious medical condition for which the principal investigator feels participation may be contraindicated",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "HIV positive patients and HIV negative healthy controls will be enrolled.",
+  "condition": [
+    "Inflammation",
+    "Pathologic Processes"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study of HIV-infected adults and healthy volunteers to assess blood biomarkers; there is no cancer diagnosis or systemic therapy for advanced disease involved. Line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study population includes HIV-infected adults and healthy controls, with no mention of cancer or systemic therapy for advanced disease. Line-of-therapy criteria are not addressed or applicable in this protocol."
+    }
+  ]
+}

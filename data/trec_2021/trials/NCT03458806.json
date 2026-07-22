@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03458806",
+  "title": "Phono- and Electrocardiogram Assisted Detection of Valvular Disease",
+  "brief_summary": "The diagnosis of valvular heart disease (VHD), or its absence, invariably requires cardiac imaging. A familiar and inexpensive tool to assist in the diagnosis or exclusion of significant VHD could both expedite access to life-saving therapies and reduce the need for costly testing. The FDA-approved Eko Duo device consists of a digital stethoscope and a single-lead electrocardiogram (ECG), which wirelessly pairs with the Eko Mobile application to allow for simultaneous recording and visualization of phono- and electrocardiograms. These features uniquely situate this device to accumulate large sets of auscultatory data on patients both with and without VHD.\n\nIn this study, the investigators seek to develop an automated system to identify VHD by phono- and electrocardiogram. Specifically, the investigators will attempt to develop machine learning algorithms to learn the phonocardiograms of patients with clinically important aortic stenosis (AS) or mitral regurgitation (MR), and then task the algorithms to identify subjects with clinically important VHD, as identified by a gold standard, from na\u00efve phonocardiograms. The investigators anticipate that the study has the potential to revolutionize the diagnosis of VHD by providing a more accurate substitute to traditional auscultation.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Able to provide consent\n* Undergoing a complete echocardiogram\n\nExclusion Criteria:\n\n* Refusal to participate",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adults with either moderate-to-severe to severe AS or moderate-to-severe to severe MR (cases) and adults with structurally normal hearts with minimal VHD (controls). In practice, the accessible population will be adults meeting the entry criteria undergoing clinical echocardiograms at the UCSF echocardiography laboratory amenable to participation.",
+  "condition": [
+    "Aortic Valve Stenosis",
+    "Mitral Regurgitation",
+    "Heart Murmurs",
+    "Valvular Heart Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

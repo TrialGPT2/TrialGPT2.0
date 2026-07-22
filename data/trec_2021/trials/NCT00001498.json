@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00001498",
+  "title": "A Pilot Trial of Sequential Chemotherapy With Antimetabolite Induction, High-Dose Alkylating Agent Consolidation With Peripheral Blood Progenitor Cell Support, and Intensification With Paclitaxel and Doxorubicin for Patients With High-Risk Breast Cancer",
+  "brief_summary": "Stage III patients may begin therapy prior to or following surgery. Patients with undrainable significant third space fluid collection (e.g., pleural effusions, ascites) are entered directly on Consolidation.\n\nPatients receive induction chemotherapy with methotrexate and fluorouracil every 2 weeks for 4 courses.\n\nPatients then receive two 3-week courses of consolidation therapy with cyclophosphamide, followed by daily granulocyte colony-stimulating factor until completion of leukapheresis. Patients next receive myeloablative doses of thiotepa followed by stem cell rescue and granulocyte colony-stimulating factor.\n\nAfter hematopoietic reconstitution, patients receive 24-hour infusions of paclitaxel every 3 weeks for 4 doses, followed by doxorubicin or vinblastine every 3 weeks for 4 doses. Patients are then evaluated for additional therapy (surgery, radiotherapy, or hormonal therapy) as appropriate.\n\nPatients are followed every 3 months for 1 year, then every 6 months.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\nHistologically proven AR and ESFT which includes: Classical, atypical and extraosseous Ewing's sarcoma, primitive peripheral neuroectodermal tumors, peripheral neuroepithelioma, primitive sarcoma of bone, and ectomesenchymoma.\n\nConfirmed presence of tumor-specific infusion protein by documented RT-PCR which corresponds to one of the tumor specific peptides available for vaccination.\n\nMeasurable tumor.\n\nNo prior or current CNS metastases.\n\nPRIOR/CONCURRENT THERAPY:\n\nARM A PATIENTS:\n\nMay be enrolled on the protocol for the first phase in the absence of RT PCR documentation of a tumor-specific fusion protein which corresponds to one of the tumor-specific peptides available for vaccination. However, RT PCR documentation at the time of tumor recurrence must occur prior to administration of immunotherapy. At time of initial tumor diagnosis, prior to any cytoreductive therapy.\n\nARM B PATIENTS:\n\nTumor recurrence occurring during or after receiving at least first line cytoreductive therapy for ESFT and AR. No more than two post-recurrence salvage regimens unless peripheral CD4+T cell number is greater than 400 cells per millimeter cubed.\n\nAt least 6 weeks since any treatments and recovered from all acute toxic effects from time in which immunotherapy will be started for this study.\n\nNo concurrent estrogen therapy during immunotherapy section of study.\n\nPATIENT CHARACTERISTICS:\n\nAge: 2-25 (at time of initial diagnosis of alveolar rhabdomyosarcoma).\n\nWeight: Greater than 15 kg (at time of apheresis).\n\nPerformance status: ECOG 0-2.\n\nLife expectancy: At least 8 weeks.\n\nHematopoietic:\n\nANC greater than 100,000/mm(3).\n\nHemoglobin greater than 9.0 g/dL.\n\nPlatelet count greater than 50,000/mm(3).\n\nHepatic:\n\nBilirubin less than 2.0 mg/dL (unless related to involvement by tumor).\n\nTransaminases less than 3 times normal (unless related to involvement by tumor).\n\nRenal:\n\nCreatinine less than 1.5 mg/dL or creatinine clearance greater than 60 mL/min.\n\nCardiovascular:\n\nNo major disorder of cardiovascular system.\n\nCardiac ejection fraction greater than 40%.\n\nPulmonary:\n\nNo major disorder of pulmonary system.\n\nOTHER:\n\nNot pregnant or nursing.\n\nHIV negative.\n\nHepatitis B or C negative.\n\nNo patients requiring daily oral corticosteroid therapy.\n\nIf allergic to eggs, egg products, or thimerosal, or have a history of Guillain-Barre syndrome, ineligible to receive influenza vaccine.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Breast Cancer",
+    "Breast Neoplasms"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT00038727",
+  "title": "Diabetes Prevention Program Outcomes Study",
+  "brief_summary": "The Diabetes Prevention Program (DPP) was a multi-center trial examining the ability of an intensive lifestyle or metformin to prevent or delay the development of diabetes in a high risk population due to the presence of impaired glucose tolerance (IGT, 2 hour glucose of 140-199 mg/dl). The DPP has ended early demonstrating that lifestyle reduced diabetes onset by 58% and metformin reduced diabetes onset by 31%.\n\nDPPOS (2002-2013) is designed to take advantage of the scientifically and clinically valuable DPP participants. This group of participants is nearly 50% minority and represents the largest at risk population ever studied. Clinically important research questions remain that focus on 1) durability of the prior DPP intervention, 2) determination of the clinical course of precisely known new onset diabetes, in particular regarding microvascular disease, CVD risk factors and atherosclerosis, 3) close examination of these topics in men vs women and in minority populations.\n\nThe major aims of DPPOS-3 (2014-2025) take advantage of the long-term randomized exposure of the study cohort to metformin and the aging of the DPPOS cohort. The metformin exposure and high degree of study retention and adherence (\\~85% of the DPPOS cohort continues to attend annual and mid-year visits) allows DPPOS-3 to examine the long-term effects of metformin on cardiovascular disease (CVD) and cancer outcomes, outcomes of great clinical interest and import.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Participation as a volunteer in the Diabetes Prevention Program (DPP).",
+  "minimum_age": "25 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Diabetes Mellitus",
+    "Cancer",
+    "CVD"
+  ],
+  "overall_status": "UNKNOWN",
+  "line_of_therapy_overall_summary": "This is not an oncology trial and does not involve systemic therapy for advanced or metastatic cancer. The study population consists of participants from the Diabetes Prevention Program, focused on diabetes prevention and long-term outcomes.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criterion is participation in the Diabetes Prevention Program (DPP), with no mention of cancer, advanced disease, or systemic therapy. Line-of-therapy intent is not applicable to this trial."
+    }
+  ]
+}

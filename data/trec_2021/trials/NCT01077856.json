@@ -1,0 +1,20 @@
+{
+  "nctid": "NCT01077856",
+  "title": "GARDASIL\u2122 Vaccine Impact in Population Study (V501-033)",
+  "brief_summary": "This study will assess the impact of GARDASIL\u2122 human papillomavirus (HPV) vaccine in the general female population by utilizing nationwide registry databases in the participating Nordic countries.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria: - Registry Data: \\* Female residents of participating Nordic countries who were alive on January 1st in the year the data will be used for analysis - Survey Data: --Female residents alive in the participating countries on July 1, 2011 --Women must provide consent to use questionnaire data and to link data to other registry databases - Cervical Sample Collection: --For HPV data in the general population: cervical samples from residents of the participating countries who are 45 years and under collected between 2006 and 2007, or in 2011-2012 --For HPV data in lesional samples: cervical samples from women with a diagnosis of CIN or cervical cancer between 2004-2006 and 2011-2012 Exclusion Criteria: - Registry Data: \\* Women who participated in Protocol V501-015 (NCT00092534) and are included in the Long-Term Follow-Up study - Survey Data: --Women under 18 or above age 45 on July 1, 2011 --Women who participated in Protocol V501-015 and are included in the Long-Term Follow-Up study - Cervical Sample Collection: --Samples from women who participated in Protocol V501-015 and are included in the Long-Term Follow-Up study --Samples with inadequate integrity for HPV testing",
+  "minimum_age": "18 Years",
+  "maximum_age": "45 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Registry data from the Population, Cervical Cancer Screening, Pathology, Cancer, and Death registries; Survey: Questionnaire sent to random sampling of women from the Central Population Registry Database; HPV Data: liquid-based cytology and histology samples from hospitals in participating countries",
+  "condition": [
+    "Human Papillomavirus Infections"
+  ],
+  "overall_status": "COMPLETED"
+}

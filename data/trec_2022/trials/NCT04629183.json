@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04629183",
+  "title": "Risk Stratification of COVID-19 Patients Discharged From the Emergency Department",
+  "brief_summary": "Risk stratification of COVID-19 patients is essential to define their appropriate treatment setting. So far, available studies have focused on morbidity and mortality prediction in patients admitted to hospital. In the Emergency Department (ED), decision on home discharge versus hospital admission for COVID-19 is cumbersome. While facing a dramatic second wave of SARS-CoV-2, shortage of hospital beds has further increased the challenge.\n\nThe present study will prospectively evaluate the clinical outcomes of patients discharged from the ED. Stratification will be based on a composite of demographic, clinical and lung imaging variables. Results will be used to develop standardized decision rules for safe home discharge of patients with COVID-19 evaluated in the ED.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* symptomatic COVID-19 confirmed by treating physician\n* positive nasopharyngeal swab for SARS-CoV-2 (performed during the ED visit or within last 14 days)\n* First ED visit for suspected or confirmed COVID-19 (within last 30 days)\n* Home discharge from ED based on treating physician's or patient's decision\n\nExclusion Criteria:\n\n* Age \\<18 years\n* Nursing home resident\n* Already on home oxygen therapy\n* Previous ED visit for suspected or confirmed COVID-19 (within last 30 days)\n* Informed consent denial\n* Follow-up not feasible",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult patients (\\>18 years) subjected to a first ED visit for physician-confirmed COVID-19, discharged from the ED based on attending physician's or patient's decision (independent from study participation). Patients will provide their informed consent to participation (thus allowing clinical data recording and 30-day follow-up).",
+  "condition": [
+    "Covid19"
+  ],
+  "overall_status": "COMPLETED"
+}

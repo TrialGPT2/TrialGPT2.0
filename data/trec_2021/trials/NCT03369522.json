@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03369522",
+  "title": "Development of an Epileptic Seizure Detection Algorithm by Continuous Analysis of the Electrocardiogram",
+  "brief_summary": "The aim of our project is to develop an epileptic seizure detection algorithm based on the the continuous analysis of the Electrocardiogram",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* patients with epilepsy\n* with a long-term video-EEG recording\n* 1 (or more) seizure (s) recorded\n* onset seizure clearly defined on the basis of the EEG\n\nExclusion Criteria:\n\n* bad quality of the Electrocardiogram recording\n* pace-maker\n* non sinus rhythm",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "patients with epilepsy for whom a long-term video-EEG monitoring is required as part of their management",
+  "condition": [
+    "Seizures",
+    "Epilepsy",
+    "Electrocardiography"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT05419050",
+  "title": "Study of Denosumab for Prevention of Skeletal Disease Progression in Children With Fibrous Dysplasia",
+  "brief_summary": "Background:\n\nFibrous dysplasia (FD) is a disease that affects the bones. It causes bone lesions that can become weak and lead to fractures, deformity, and nerve injuries. FD bone lesions begin to develop soon after birth and grow during childhood. The lesions stop growing in adults but can still cause disability. Researchers want to find ways to stop the growth of FD bone lesions.\n\nObjective:\n\nTo test a study drug (denosumab) in children with FD.\n\nEligibility:\n\nChildren aged 4 to 14 years with FD and who are also enrolled in the Screening and Natural History protocol (98-D-0145).\n\nDesign:\n\nParticipants will have a screening visit at the NIH clinic or by telehealth. Their medical history will be reviewed.\n\nParticipants will stay overnight in the hospital 4 times in 76 weeks. Each stay will last 5 to 7 nights.\n\nParticipants will also visit a local lab for blood and urine tests every 4 weeks during the study.\n\nParticipants will receive denosumab once every 4 weeks for 48 weeks. The medication is given as a shot injected under the skin using a small needle. Some injections may be performed at home by a caregiver. The caregiver will receive training for this procedure.\n\nParticipants will undergo many tests that may be repeated throughout the study. They will have a dental exam. They will have tests of their strength and ability to move freely. They will have x-rays and other scans to get pictures of their bones.\n\nParticipants will be given another medicine that is administered through a needle in the arm over 30 minutes.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Confirmed diagnosis of fibrous dysplasia\n* Age 4 to 14 years\n* Concurrent enrollment in the companion Screening and Natural History protocol 98-D-0145\n* Provision of signed and dated informed consent form\n* Stated willingness of guardian/Legally Authorized Representative (LAR) to comply with all study procedures and availability for the duration of the study\n* Ability of guardian/LAR to understand and the willingness to sign a written informed consent document\n* For females of reproductive potential: agreement to use highly effective contraception for during study participation. Highly effective contraception methods include:\n\n  * Total abstinence. Periodic abstinence (e.g., calendar, ovulation, symptothermal, post-ovulation methods) and withdrawal are not acceptable methods of contraception.\n  * Combination of the following (a+b or a+c, or b+c):\n\n    * Use of oral, injected or implanted hormonal methods of contraception or other forms of hormonal contraception that have comparable efficacy (failure rate \\<1%), for example hormone vaginal ring or transdermal hormone contraception\n    * Placement of an intrauterine device (IUD) or intrauterine system (IUS)\n    * Barrier methods of contraception: Condom or Occlusive cap (diaphragm or cervical/vault caps) with spermicidal foam/gel/film/cream/vaginal suppository\n* For males of reproductive potential: use of condoms or other methods to ensure effective contraception with partner\n* Minimum body weight of 12 kilograms\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Pregnancy or lactation\n* Known allergic reactions to denosumab\n* Prior history, or current evidence, of osteomyelitis/osteonecrosis of the jaw\n* Planned invasive dental procedure for the course of the study\n* Presence of non-healed dental or oral surgery\n* Orthopedic procedure performed less than 6-weeks prior to first day of the denosumab administration (Day 0)\n* Acute fracture less than 6-weeks prior to first day of the denosumab administration (Day 0)\n* Serum calcium or albumin-adjusted serum calcium below the normal range for the NIH laboratory (patients will be eligible for re-screening after a repletion period lasting up to 6 months)\n* 25-hydroxyvitamin D level than 20 ng/mL (patients will be eligible for re screening after a repletion period lasting up to 6 months)\n* Untreated or inadequately treated hypophosphatemia as determined by the principal investigator (patients will be eligible for re-screening after initiation or optimization of phosphorus replacement no longer than 6 months)\n* Inability to comply with a non-sedated 18F-NaF PET/CT (subjects will be eligible for re- screening after 6 months)\n* Use of another investigational agent within the last 3 months prior to the first day of the denosumab administration (Day 0)\n* Have any condition which in the opinion of the PI could present a concern for subject safety or difficulty with data interpretation.",
+  "minimum_age": "4 Years",
+  "maximum_age": "14 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Fibrous Dysplasia"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls children with fibrous dysplasia regardless of prior systemic therapy, with no mention of prior lines of therapy for advanced disease as an eligibility criterion. The study appears to include both treatment-naïve and previously treated patients.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility criteria do not specify any requirements or restrictions regarding prior systemic therapy for advanced disease. Both treatment-naïve and previously treated patients are eligible, and adjuvant-only patients are allowed."
+    }
+  ]
+}

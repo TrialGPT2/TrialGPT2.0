@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02887911",
+  "title": "Characterization of Adults for Asthma Microbiome Research Studies",
+  "brief_summary": "The purpose of this study is to characterize adult subjects regarding their history of allergy and asthma, clinical manifestations of asthma, and exposures and conditions that may influence asthma severity and control. Assessments include baseline medical history, lung function tests, questionnaires, and collection of specimens for phenotypic characterization.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "1. For all subjects:\n\n   Inclusion criteria:\n\n   \\- Men/Women, ages 18-75, with or without current asthma, are eligible to be screened.\n\n   Exclusion criteria:\n   * Cigarette smoking history of \\>30 total pack-years\n   * Current use of other smoked products or recreational drugs (e.g. pipes, cigars, e-cigarettes, other illicit drugs)\n   * History of lung disease other than asthma\n   * Recent upper respiratory tract infection treated with antibiotics within 8 weeks of visit 1\n   * Recent antibiotic use (except topical or ocular) within 8 weeks of visit 1 (chronic antibiotic use for asthma management allowed)\n   * Currently pregnant or breast-feeding\n   * Other medical conditions or treatments that may increase subject risk or affect study results, based on study physician judgment. These include the following: significant cardiovascular disease(+/- active symptoms), arrhythmia, or stroke, active cancer, post-organ transplant\n   * Any other condition for which subject is taking immunosuppressive therapies (except steroids for asthma)\n   * History of allergy to albuterol or methacholine\n2. For asthma subjects only:\n\n   Note: Enrollment target is for 90 asthmatics already taking inhaled corticosteroids prescribed by their physician (any formulation and dose) and 60 subjects who are not currently using inhaled corticosteroid.\n\n   Additional inclusion criteria:\n   * History of asthma symptoms within the last 2 years (e.g. wheeze, shortness of breath, etc.)\n   * Evidence of stable asthma as assessed by initial screening\n   * No changes in asthma medications within 30 days of visit 1\n   * Methacholine PC20 (dose at which there is a 20 percent change) \u2264 8 mg/ml (for those asthmatics on inhaled steroids, PC20 \u2264 16 mg/ml), or change in FEV1 (forced expiratory volume in first second of spirometry effort)\u2265 12% after 4 puffs of albuterol on reversibility testing (or PI discretion)\n   * If negative methacholine challenge or no evidence of bronchodilator reversibility, a strong history of physician-diagnosed/physician-managed asthma may allow for study inclusion, based on PI's judgement or discretion.\n   * Individuals with a history of physician-diagnosed asthma who have had bronchodilator reversibility testing or methacholine challenge performed within 60 days of screening may be enrolled and these existing test results used in lieu of repeating the same test at visit 1 or visit 2.\n\n   Additional exclusion criteria:\n   * An asthma exacerbation requiring treatment with oral or IV steroids within 1 month of visit 1\n   * No asthma symptoms within the last 2 years\n3. For healthy control or atopic non-asthma subjects:\n\nAdditional exclusion criteria:\n\n* Evidence of abnormal lung function by any of the following: FEV1/FVC ratio \\<0.70, FEV1 or FVC (forced vital capacity on spirometry) \\< 80% predicted, methacholine PC20 \\< 16 mg/ml, or FEV1 improvement \\> 12% in response to albuterol\n* Atopic non-asthma subjects found to have evidence of abnormal lung function, but without a clear or recent history of asthma, may be enrolled per PI's discretion.\n* Possible pulmonary disease is identified by PI or Co-Is to explain an abnormal lung function result at the time of testing. The subject may be re-screened later at investigator's discretion.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "A cohort of well characterized asthmatic subjects and a cohort of healthy people without asthma.",
+  "condition": [
+    "Asthma",
+    "Healthy"
+  ],
+  "overall_status": "COMPLETED"
+}

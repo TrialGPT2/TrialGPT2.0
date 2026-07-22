@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02691338",
+  "title": "Monitoring Neurological Deterioration in Anaesthetised Patients With Electroencephalogram (EEG)",
+  "brief_summary": "The incidence of perioperative stroke in the non-cardiac, non-vascular, non-neurological high risk surgical population is 2%. It is higher (\\~5%) for cardiac surgery and carotid endarterectomy patients, with a stroke associated mortality of up to 60%. These patients could be immediately treated if their condition was detected on time. Currently, there is no standard brain monitoring procedure for anaesthetised patients. The purpose of the proposed study is to optimize and validate an online monitor for neurological deterioration under anaesthesia based on an easily operatable EEG system comprised of 4 electrodes, a reference electrode and a newely developed algorithm for analyzing the EEG signal. The monitor aims at generating an immediate warning at the onset of neurological deterioration. For the purpose of technology development with a minimal sample size, it is necessary to select a patient population that demonstrates significant neurological dynamics under anaesthesia. We will therefore focus on anesthesized patients undergoing neurovascular thrombectomy after CVA.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Informed consent (by individual or guardian)\n* Undergoing thrombectomy procedure under anaesthesia for acute CVA\n* for control:\n* Healthy individual, with no neurological disease undergoing sedation for procedure\n\nExclusion Criteria:\n\n* Age \\< 18 years\n* no informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with CVA undergoing percutaneous thrombectomy under general anesthesia",
+  "condition": [
+    "CVA"
+  ],
+  "overall_status": "UNKNOWN"
+}

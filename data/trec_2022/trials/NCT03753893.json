@@ -1,0 +1,39 @@
+{
+  "nctid": "NCT03753893",
+  "title": "Ocular Manifestations in Rheumatic Diseases",
+  "brief_summary": "This is a search strategy for determining the prevalence of ocular complications in inflammatory rheumatic diseases for the purposes of a meta analysis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Studies were included if they provided numerical data of the prevalence or incidence of ocular manifestations in inflammatory rheumatic disease\n\nExclusion Criteria:\n\n* review articles,\n* case reports where all patients experienced the same ocular comorbidity\n* if different comorbidities were not grouped independently\n* if the study reported on fewer than 20 patients",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with ocular involvement in inflammatory rheumatic disease",
+  "condition": [
+    "Uveitis",
+    "Conjunctivitis",
+    "Keratoconjunctivitis Sicca",
+    "Xerophthalmia",
+    "Eye Hemorrhage",
+    "Optic Neuritis",
+    "Papilledema",
+    "Orbital Diseases",
+    "Retinal Vein Occlusion",
+    "Retinal Artery Occlusion",
+    "Macular Edema",
+    "Retinitis",
+    "Chorioretinitis",
+    "Iridocyclitis",
+    "Scleritis",
+    "Choroid Hemorrhage",
+    "Blindness",
+    "Amaurosis Fugax"
+  ],
+  "overall_status": "COMPLETED"
+}

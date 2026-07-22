@@ -1,0 +1,43 @@
+{
+  "nctid": "NCT05012111",
+  "title": "Natural History of Acquired and Inherited Bone Marrow Failure Syndromes",
+  "brief_summary": "Background:\n\nBone marrow failure diseases are rare. Much is known about the diseases at the time of diagnosis, but long-term data about the effects of the diseases and treatments are lacking. Researchers want to better understand long-term outcomes in people with these diseases.\n\nObjective:\n\nTo follow people diagnosed with acquired or inherited bone marrow failure disease and study the long-term effects of the disease and its treatments on organ function.\n\nEligibility:\n\nPeople aged 2 years and older who have been diagnosed with acquired or inherited bone marrow failure or Telomere Biology Disorder. First degree family members may also be able to take part in the study.\n\nDesign:\n\nParticipants will be screened with a medical history, physical exam, and blood tests. They may have a bone marrow biopsy and aspiration. For this, a large needle will be inserted in the hip through a small cut. Marrow will be drawn from the bone. A small piece of bone may be removed.\n\nParticipants may also be screened with some of the following:\n\nCheek swab or hair follicle sample\n\nSkin biopsy\n\nUrine or saliva sample\n\nEvaluation by disease specialists (e.g., lung, liver, heart)\n\nImaging scan of the chest\n\nLiver ultrasounds\n\nSix-Minute Walk Test\n\nLung function test\n\nParticipants will be put into groups based on their disease. They will have visits every 1 to 3 years. At visits, they may repeat some screening tests. They may fill out yearly surveys about their medicines, transfusions, pregnancy, bleeding, and so on. They may have other specialized procedures, such as imaging scans and ultrasounds.\n\nParticipation will last for up to 20 years.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible to participate in this study, an individual must meet all of the following criteria. Subjects and their family members who undergo screening but ultimately do not meet criteria for cohorts 1-5 will be removed from the study. Subjects may forgo screening and sign directly onto cohorts 1-5 if they meet criteria based on either prior NIH testing or external examinations. Family members will only be asked to be screened for participation onto this study after confirmation of eligibility by an affected participant.\n\nCohorts 1-4\n\n* Age \\>=2 years\n* Diagnosis of acquired or inherited bone marrow failure or ineffective hematopoiesis or TBD (see below for cohort 3 specific criteria)\n* Ability and willingness to come to the NIH CC for consultation and testing\n* Ability of subject or Legally Authorized Representative (LAR) to understand the investigational nature of the protocol and their willingness to sign a written informed consent document.\n* For cohort 3 - TBD:\n\nPresence of a pathogenic, likely pathogenic, or known family mutation in a telomere maintenance gene\n\nOR\n\nIf mutation negative or VUS, telomere length \\<10th percentile in lymphocytes with at least two clinical features: 1) cytopenia (Hb \\<10g/dL or ANC \\<1.5x10\\^9 or platelets \\<100), 2) documented liver fibrosis by histology OR abnormal liver US / fibro scan consistent with fatty liver or fibrosis), 3) documented pulmonary fibrosis by histology / radiology OR PFTs showing FEV1 \\<80% or DLCO \\<60%, 4) family history of: marrow failure, myeloid malignancy, liver fibrosis or lung fibrosis.\n\nCohort 5\n\n* Age \\>= 2 years\n* First degree family member with a known or suspected inherited bone marrow failure syndrome from a patient enrolled on this or another NIH protocol as determined by a PI or AI\n* Ability and willingness to safely provide blood, buccal swab, or fibroblasts for testing as stated by subject\n* Ability of subject or Legally Authorized Representative (LAR) to understand the investigational nature of the protocol and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n-None",
+  "minimum_age": "2 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects with Severe Aplastic Anemia, other acquired marrow failure syndromes, and inherited marrow failure syndromes. Family members of subjects with either suspected or confirmed inherited bone marrow failure.",
+  "condition": [
+    "Severe Aplastic Anemia",
+    "Telomere Biology Disorders",
+    "Inherited Bone Marrow Failure Syndromes"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional, natural history study enrolling patients with acquired or inherited bone marrow failure syndromes and their family members, regardless of prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Cohorts 1-4",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility is based on diagnosis of bone marrow failure or telomere biology disorder, with no mention of prior systemic therapy for advanced disease. Patients are eligible regardless of treatment history, including those who are treatment-naïve or have only received adjuvant therapy."
+    },
+    {
+      "cohort_label": "Cohort 5",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Cohort 5 includes first-degree family members of affected patients, with no requirements or restrictions regarding prior systemic therapy. Prior treatment history is not a criterion for eligibility."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT01851395",
+  "title": "Rapid Autopsy and Procurement of Cancer Tissue",
+  "brief_summary": "Background:\n\n\\- Individuals with cancer of the lung, chest cavity, ovary, or bladder, as well as patients who have been treated with adoptive cell therapy unfortunately commonly succumb to their disease. Some agree to donate their bodies to cancer research that may help the medical community better understand these diseases. Studies of cancer tumor tissue obtained soon after death may be used to answer questions about the origins, progression, and treatment of cancer. Researchers want to conduct a study that involves planned collection of cancer tumor tissue shortly after death. To do so, they will arrange to provide inpatient hospice care for people with lung cancer, ovarian cancer, bladder cancer, or patients who have been treated with adoptive cell therapy.\n\n\\<TAB\\>\n\nObjectives:\n\n\\- To collect cancer tissue biopsy samples as soon as possible after death.\n\nEligibility:\n\n\\- Individuals who have cancer of the lung, chest cavity, ovary, or bladder, or those who have been treated with adoptive cell therapy and are planning to receive end-of-life hospice care are eligible to participate.\n\nDesign:\n\n* Participants will agree to receive inpatient hospice care at the National Institutes of Health Clinical Center. Full details on end-of-life care preference will be acknowledged.\n* An autopsy will be performed at the clinical center within 3 hours of death. Tumor tissue will be collected from the primary site of cancer and from any areas of the body to which the cancer has spread.\n* Participants will not receive further cancer treatments as part of this study. This is a tissue collection study only.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Patients must have histologically or cytologically confirmed metastatic NSCLC, SCLC, EPCC, pNET, thymic epithelial tumor (thymoma, thymic carcinoma) or mesothelioma confirmed by the NCI Laboratory of Pathology. Patients with bladder cancer (including urothelial carcinoma and other rare bladder or kidney histology), ovarian cancer, epithelial cancers (breast, colorectal, pancreatic, stomach and biliary cancers) and malignancies previously treated with an ACT are also eligible.\n* Age \\>= 18 years.\n* Incurable disease or terminal diagnosis.\n* Patients or legally authorized representative (LAR) must sign an informed consent indicating that they are aware of the investigational nature of this study.\n* Patients must provide valid written designation of an assigned Durable Power of Attorney (DPA). If one is not available, an LAR must be assigned.\n* Patients and their legal next of kin must agree to a Do Not Resuscitate (DNR) order and agree to Consent for Autopsy as part of the end-of-life care plan.\n\nEXCLUSION CRITERIA:\n\n* Women known to be pregnant (known positive pregnancy test, although such testing is not required for enrollment) are excluded.\n* Known HIV-positive patients will be excluded (although HIV testing is not required for enrollment) because of the potential for contamination of tissue.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients will be selected primarily from the CC medical oncology clinic setting.",
+  "condition": [
+    "Thymus Tumors",
+    "Adoptive Cellular Therapy",
+    "Mesothelioma",
+    "Genitourinary Cancers",
+    "Lung Cancers"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a tissue procurement study enrolling patients with metastatic or incurable cancers who are entering end-of-life hospice care. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility requires metastatic or incurable cancer and entry into hospice care, but there is no mention of prior systemic therapy for advanced disease. Patients may have received any number of prior lines, or possibly none if they declined treatment, but the protocol does not specify. Adjuvant-only status is not addressed."
+    }
+  ]
+}

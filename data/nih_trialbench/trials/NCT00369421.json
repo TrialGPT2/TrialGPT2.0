@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00369421",
+  "title": "Diagnosis and Treatment of Patients With Inborn Errors of Metabolism",
+  "brief_summary": "Researchers intend on diagnosing and treating certain inborn errors of metabolism. By doing this researchers hope to expand their knowledge about these disorders and provide access to patients of interest for research, teaching, and clinical experience.\n\nPatients participating in this study will be examined and treated on an out patient basis, if practical. However, patients requiring specialized tests or treatments will be admitted to the NIH Clinical Center as necessary. Researchers will use only accepted medical procedures in diagnosing (medical history, physical examinations, X-ray studies, eye examinations, blood tests, and urine tests) and treating the patients involved in this study. Additional tests may be required on a case to case basis.\n\nMany patients seen in this study will go on to be enrolled in a specific disease-related research study.\\<TAB\\>",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nParticipants 1 month or older will have been or will be referred to this protocol with a known or suspected inborn error of metabolism, heritable disorder, or genetic predisposition. Participants over two years of age will be admitted only if they are medically stable and require admission to the Clinical Center for diagnosis. Children ages 1 month to 2 years or under 12 kg will be reviewed by the Pediatric Consult Service prior to scheduling and if approved will be evaluated.\n\nExamples of disorders that will be under this protocol include inherited developmental defects or diatheses toward infections, cancer, or an environmentally induced disease. The principal investigator, along with consulting specialists, will review the medical records of prospective participants and offer admission based upon the potential to help the individual, to learn from the participant, or to initiate clinical or basic research suggested by the participant s workup. This protocol is not intended to serve as an umbrella protocol for small studies of specific disorders. In general, no more than 5 families known to have the same disorder will be investigated under this protocol.\n\nSome participants will be relatives of patients with known diagnoses, and their specimens will be obtained for the purpose of heterozygote testing or to serve as controls to help diagnose the proband. All participants shall be seen as inpatients, outpatients or via Telehealth at the discretion of the principal investigator, based upon particular research interests and expertise. Normal adult volunteers aged 18 years or older will be enrolled to provide control blood and urine specimens.\n\nEXCLUSION CRITERIA:\n\n* Participants under 1 month of age will not be seen at the NIH Clinical center because care is more readily proffered to older individuals at the Clinical Center.\n* Participants over two years of age will not be admitted if they are medically unstable and do not require admission to the Clinical Center for diagnosis.\n* Pregnant women are excluded.",
+  "minimum_age": "1 Month",
+  "maximum_age": "115 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Unique disorders.",
+  "condition": [
+    "Arterial Calcification Due to Deficiency of CD73"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology, observational protocol for the diagnosis and treatment of patients with inborn errors of metabolism and related disorders. There is no specification of prior systemic therapy or line-of-therapy intent for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The protocol does not specify any requirements or restrictions regarding prior systemic therapy for advanced disease. The focus is on diagnosis and general treatment of inborn errors of metabolism, not on cancer or lines of therapy."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nctid": "NCT04313946",
+  "title": "Artificial Intelligence Algorithms for Discriminating Between COVID-19 and Influenza Pneumonitis Using Chest X-Rays",
+  "brief_summary": "This project aims to use artificial intelligence (image discrimination) algorithms, specifically convolutional neural networks (CNNs) for scanning chest radiographs in the emergency department (triage) in patients with suspected respiratory symptoms (fever, cough, myalgia) of coronavirus infection COVID 19. The objective is to create and validate a software solution that discriminates on the basis of the chest x-ray between Covid-19 pneumonitis and influenza",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* flu-like symptoms: myalgia, cough, fever, sputum\n* Chest X-Rays\n* COVID-19 biological tests\n\nExclusion Criteria:\n\n* patient refusal\n* uncertain radiographs\n* uncertain tests results",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients with influenza symptoms that arrive at emergency department with cough, fever, myalgia - which are suspected of COVID-19 infection",
+  "condition": [
+    "COVID-19",
+    "Pneumonia, Viral",
+    "Influenza With Pneumonia",
+    "Flu Symptom",
+    "Flu Like Illness",
+    "Pneumonia, Interstitial",
+    "Pneumonia, Ventilator-Associated",
+    "Pneumonia Atypical"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04465786",
+  "title": "A Closed-loop Brain-computer Interface for Stroke",
+  "brief_summary": "It may be hard to acquire stable sensorimotor rhythm from the affected motor cortex for patient without a response of paretic hand. A few studies suggest two ways to approaching closed-loop therapy: peripherally extracting the residual signals, for example electromyogram (EMG) at proximal muscles (deltoids) and centrally extracting the activity patterns from unaffected hemisphere during attempting to move paretic hand. Therefore, understanding neural signatures of residual upper extremity movement among stroke patients might help in discovering potential therapeutic target and developing tailored brain-computer interface (BCI) therapy. Additionally, 59.4% of stroke patients in acute stage impair at least one somatosensory modality. It remains unclear whether the patient with somatosensory impairment hinder BCI effect.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* first-ever, unilateral infarction or hemorrhage at middle cerebral artery or posterior cerebral artery territory\n* early subacute phase of stroke (between 1 and 4 weeks after stroke onset)\n\nExclusion Criteria:\n\n* electroencephagraphy feature is not usable\n* Fugl-Meyer Assessment of Upper Extremity score is over 50\n* ataxia\n* global aphasia\n* concomitant neurological diseases\n* psychiatric diseases\n* participating in other interventional research during this period\n* other conditions might interfere with experiment",
+  "minimum_age": "20 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Hospitalized participants and healthy controls will be recruited from the Taipei Veterans General Hospital.",
+  "condition": [
+    "Stroke"
+  ],
+  "overall_status": "UNKNOWN"
+}

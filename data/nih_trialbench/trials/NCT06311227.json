@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT06311227",
+  "title": "Venetoclax for the Treatment of Patients With Relapsed Hairy Cell Leukemia",
+  "brief_summary": "This phase II trial tests how well venetoclax works in treating patients with hairy cell leukemia that has come back after a period of improvement (relapsed). Venetoclax is in a class of medications called B-cell lymphoma-2 (BCL-2) inhibitors. It may stop the growth of cancer cells by blocking Bcl-2, a protein needed for cancer cell survival.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed HCL/HCLv after purine analog therapy who are relapsed from or are ineligible for BRAF therapy and have not received prior venetoclax\n* Age ≥ 18 years\n* Eastern Cooperative Oncology Group (ECOG) performance status ≤ 2 (Karnofsky ≥ 60%)\n* Total bilirubin ≤ 3 x institutional upper limit of normal (ULN) unless consistent with Gilbert's (ration between total and direct bilirubin \\> 5)\n* Aspartate aminotransferase (AST)(serum glutamic oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase \\[SGPT\\]) ≤ 3 × institutional ULN\n* Serum creatinine ≤ 2.0 mg/dL OR creatinine clearance ≥ 45 mL/min/1.73m\\^2\n* Human immunodeficiency virus (HIV)-infected patients on effective anti-retroviral therapy with undetectable viral load within 6 months are eligible for this trial\n* For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable on suppressive therapy, if indicated\n* Patients with a history of hepatitis C virus (HCV) infection must have been treated and cured. For patients with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load\n* Patients with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial\n* Patients with known history or current symptoms of cardiac disease, or history of treatment with cardiotoxic agents, should have a clinical risk assessment of cardiac function using the New York Heart Association Functional Classification. To be eligible for this trial, patients should be class 2B or better\n* Patients must have had no HCL/HCLv treatment for ≥ 4 weeks prior to enrollment, and those with treatment \\> 4 weeks prior to enrollment must not be responding to their last treatment with decreasing tumor burden or improving disease related cytopenias\n* Patients must have a need for treatment due to absolute neutrophil count (ANC) \\< 1/nL, hemoglobin (Hgb) \\< 10g/dL, platelets (Plt) \\< 100/nL, symptomatic splenomegaly, HCL mass with short axis \\> 2cm outside or \\> 0.5 cm inside the CNS, HCL/HCLv count \\> 5/nL in blood or \\> 25/mm\\^3 in cerebrospinal fluid (CSF), HCL/HCLv doubling time \\< 6 months and increasing lytic or blastic bone lesions\n* The effects of venetoclax on the developing human fetus are unknown. For this reason, women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) during treatment and for 30 days after the last dose of venetoclax. Should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately. Men treated or enrolled on this protocol must also agree to use adequate contraception during treatment and for 30 days after the last dose of venetoclax\n* Ability to understand and the willingness to sign a written informed consent document. Legally authorized representatives may sign and give informed consent on behalf of study participants\n* Ability and willingness to swallow pills\n\nExclusion Criteria:\n\n* Patients who have received prior venetoclax\n* Patients who are receiving any other investigational agents\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to venetoclax\n* Patients with uncontrolled intercurrent illness or any other significant condition(s) that would make participation in this protocol unreasonably hazardous\n* Pregnant women are excluded from this study because venetoclax is a B-cell lymphoma-2 (BCL-2) inhibitor agent with the potential for teratogenic or abortifacient effects. Because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with venetoclax, breastfeeding should be discontinued if the mother is treated with venetoclax\n* Malabsorption syndrome or other conditions that would interfere with intestinal absorption\n* Live attenuated vaccines should not be administered within 4 weeks prior to, during, or 30 days after study treatment and recovery has occurred",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Recurrent Hairy Cell Leukemia",
+    "Recurrent Hairy Cell Leukemia Variant"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with relapsed hairy cell leukemia who have previously received purine analog therapy and are either relapsed from or ineligible for BRAF therapy. All patients must have received at least one prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Eligibility requires patients to have histologically or cytologically confirmed HCL/HCLv after purine analog therapy and to be relapsed from or ineligible for BRAF therapy. Patients must have received at least one prior systemic therapy for advanced disease; adjuvant-only patients are not eligible."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT04401436",
+  "title": "COVID-19 Associated Lymphopenia Pathogenesis Study in Blood",
+  "brief_summary": "Background:\n\nCOVID-19 is an acute respiratory syndrome. One symptom of COVID-19 is a reduction in the number of cells called lymphocytes in the blood. Lymphocytes are a type of white blood cell that fights infections. With fewer lymphocytes, the body cannot effectively fight back against SARS CoV-2, the virus that causes COVID-19. Researchers want to better understand how SARS-CoV-2 affects these blood cells. This information may give them ideas for new treatments.\n\nObjective:\n\nTo learn more about how SARS-CoV-2 affects lymphocytes, the immune, and the blood clotting system.\n\nEligibility:\n\nAdults age 18 and older who either currently have COVID-19 or have recently recovered from it\n\nDesign:\n\nParticipants will give a blood sample. For this, a needle is used to collect blood from an arm vein. For participants who have a central line, blood will be collected through that instead.\n\nParticipants medical records related to COVID-19 will be reviewed.\n\nParticipants who have recovered from COVID-19 will be asked to undergo leukapheresis to collect white blood cells. For this, blood is taken from a needle placed in one arm. A machine separates out the white blood cells. The rest of the blood is returned to the participant through a needle placed in the other arm. This takes about 2-3 hours.\n\nRecovered participants may have material collected from inside the nostrils and/or rectum. This is done by gently rubbing the area with a sterile cotton swab.\n\nRecovered participants may have an echocardiogram to look at their heart. For this, a small probe is held against the chest to get pictures of the heart from different angles. This takes less than 30 minutes.\n\nParticipation lasts 1-2 days on most cases and may be split in a few visits for recovered patients if leukapheresis and echocardiogram are done.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Aged \\>=18 years.\n  2. Diagnosis of COVID-19 via molecular assay or other commercial or public health assay.\n  3. Meets one of the following criteria for COVID-19:\n\n     1. Group A, mild clinical presentation: asymptomatic to oxygen requirements \\<-4L nasal cannula (NC).\n     2. Group B, moderate clinical presentation: oxygen requirements \\>4L NC to \\<=50% fraction of inspired oxygen (FiO2) on high-flow oxygen devices.\n     3. Group C, severe clinical presentation: non-invasive ventilation with oxygen requirements \\>50% FiO2 on high-flow oxygen devices, any other modality of non-invasive ventilation, or mechanical ventilation.\n     4. Group D, recovered: meets CDC criteria for discontinuation of transmission-based precautions and disposition of patients with COVID-19 in healthcare settings. Enrollment will occur at least 30 days after the above criteria were met.\n  4. Able to provide informed consent.\n\nEXCLUSION CRITERIA:\n\nIndividuals meeting any of the following criteria will be excluded from study participation:\n\n1. Documented history of hemoglobin from most recent blood draw \\<7g/dL if known.\n2. Any condition that, in the opinion of the investigator, contraindicates participation in this study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "COVID 19 positive and recovered patients from inpatient settings at the NIH CC and Georgetown University Medical Center, and the local community for COVID 19 recovered patients.",
+  "condition": [
+    "Coronavirus Disease 2019"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling adults with current or recent COVID-19 infection, regardless of prior cancer history or cancer treatment. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention cancer, advanced disease, or prior systemic therapy. Patients are included based solely on COVID-19 status, with no reference to oncologic treatment history. Line-of-therapy intent is not applicable or specified."
+    }
+  ]
+}

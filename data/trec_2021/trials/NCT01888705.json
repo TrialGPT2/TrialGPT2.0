@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01888705",
+  "title": "Complexity of the Airflow in COPD",
+  "brief_summary": "Recently, there has been a growing interest in the study of nonlinear dynamics as a methodology for complementary analysis to characterize the respiratory pattern. These methods are well established in studies of heart rate. The analyzes evaluate complex signals, including large-scale fractal correlations and distributions in time series, and can provide relevant clinical information.\n\nMeasures such as approximate entropy and sample entropy have shown great potential in the evaluation of the complexity of the respiratory system, providing information relevant to the understanding of physiological and pathophysiological processes. These measures are based on the concept of non-linearity in the presence of a high number of interconnections, resulting in the complex behavior exhibited by physiological systems.\n\nThe approximate entropy (ApEn) is related to the amount of clutter, complexity or unpredictability of a data series over time. In a complementary way, the sample entropy (SampEn), is a far more elaborate than the ApEn, to reduce possible biased estimates due to self-similarity.\n\nA study conducted by our group in asthma patients with different levels of bronchial obstruction demonstrated a significant reduction in airflow approximate entropy (ApEnV\u00b4) in asthmatic subjects. Investigators believe that in COPD, similar to that which occurs in asthma disorders that are associated with complex changes in the pathophysiology triggering breath control, possibly resulting in changes in air flow (V\u00b4).\n\nConsidering the development \"silent\" changes of mechanical ventilation in COPD patients and its clinical relevance, as well as the difficulty of identifying such changes through conventional methods, we observed the need to obtain more detailed information, including the complexity of the system breathing for better understanding of factors that contribute to the illness.\n\nIn this context, the objectives of this study were: (1) analyze the influence of airway obstruction in the complexity of the patterns of airflow in patients with COPD, (2) evaluate the diagnostic power of the test in identifying the changes caused by COPD.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* volunteers with COPD for Patients Group;\n* volunteers without any respiratory disease for the control group.\n\nExclusion Criteria:\n\n* individuals with history of tuberculosis or other lung disease,\n* heart disease in general and\n* disability in the exams.",
+  "minimum_age": "40 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The control group will consist of healthy subjects, nonsmokers, who had no episode of respiratory infection thirty days before the examinations.\n\nThe group of patients with COPD will be comprised of individuals treated at the Department of Pneumology (Hospital Universit\u00e1rio Pedro Ernesto), at different levels of airflow obstruction.",
+  "condition": [
+    "COPD"
+  ],
+  "overall_status": "UNKNOWN"
+}

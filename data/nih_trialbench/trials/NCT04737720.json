@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT04737720",
+  "title": "Intravenous ACP-501 for Familial LCAT Deficiency (rhLCAT)",
+  "brief_summary": "Background:\n\n* High density lipoprotein (HDL), or good cholesterol, moves cholesterol from the artery walls back to the liver. A blood enzyme known as LCAT maintains HDL levels and helps it remove cholesterol from the body. Familial LCAT deficiency (FLD) is a genetic disease that results in low levels or total absence of LCAT. People with FLD often have kidney problems, and may develop kidney failure. Researchers think that the clinical problems of FLD can be prevented or even reversed by replacing the defective enzyme.\n* There are no drugs that increase LCAT. It has to be artificially made and infused into the body. The artificial LCAT is called recombinant human LCAT, or ACP-501. Researchers want to see how well it works in one person with FLD and poor kidney function.\n\nObjectives:\n\n\\- To see whether ACP-501 can improve the symptoms of FLD.\n\nEligibility:\n\n\\- One person (the study participant) with FLD.\n\nDesign:\n\n* The participant will be screened with a physical exam and medical history. Blood samples will be collected.\n* The participant will receive ACP-501 and remain in the hospital for 24 hours for regular blood tests. The participant may stay in the hospital or return for daily clinic visits until it is time for the next dose. The second dose will be given on Day 4 or Day 8.\n* If an optimal dose has not yet been identified, a third dose will be given 7 days after the second dose.\n* The participant will then go home, but must return to the hospital for ACP-501 infusions and blood tests every 1 or 2 weeks, as needed. Every 3 months, the participant will have a full clinic visit with blood tests and other studies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nSubject must meet all of the following inclusion criteria to be eligible for enrollment into the study:\n\n* Greater than or equal to 18 years at screening;\n* Confirmed FLD diagnosis through genotype confirmation of a LCAT mutation, as documented at screening or from previous testing;\n* History of HDL-C \\< 15 mg/dL over the past year;\n* Serum creatinine \\> 3 mg/dL;\n* Increasing renal dysfunction resulting in ESRD;\n* Chronic concomitant medications must be stable for at least 2 weeks prior to screening (for example, lipid-altering drugs and/or ACE-inhibitors used for the treatment of FLD).\n* Subject is willing and able to comply with scheduled study visits and is able to tolerate study procedures, including weekly to bi-weekly infusions over 1 year.\n* Subject must be able to provide a personally-signed and dated informed consent document indicating that the subject has been informed of all pertinent aspects of the study.\n* Subject may be currently on dialysis or require dialysis during the study\n\nEXCLUSION CRITERIA:\n\nSubject will not be included in the study if he presents with any of the following:\n\n* History of febrile illness within 5 days prior to dosing;\n* Active non-basal cell cutaneous malignancy requiring surgery, chemotherapy, and/or radiation in the past 12 months.\n\nNOTE: Subjects with localized prostate cancer under a watchful-waiting treatment plan without evidence of disease progression in the past year may participate in the study if approved by the investigator and sponsor or designee.\n\nNOTE: Subjects diagnosed with basal cell carcinoma of the skin within the past 12 months must receive adequate treatment for their basal cell skin carcinoma prior to randomization.\n\n* Current documented drug or alcohol abuse that would interfere with the subject s compliance with study procedures;\n* Treatment with an investigational drug within 28 days prior to dosing.\n* Known hypersensitivity to heparin or IV infusion equipment, plastics, adhesive or silicone or known history of hypotension or infusion site reactions with IV administration.\n* Other severe acute or chronic medical or psychiatric condition or laboratory abnormality that may increase the risk associated with trial participation or investigational product administration or may interfere with the interpretation of trial results and, in the judgment of the investigator, would make the subject inappropriate for entry into this trial or compromise the subject s ability to continue with the procedures of the trial.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Single patient",
+  "condition": [
+    "Familial LCAT Deficiency"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a single-patient study of ACP-501 (recombinant human LCAT) in a patient with familial LCAT deficiency and advanced renal dysfunction. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "The eligibility criteria do not mention any requirements or restrictions regarding prior systemic therapy for advanced disease. Patients with no prior systemic therapy are eligible, as are those who may have received prior treatments. Adjuvant-only patients are allowed."
+    }
+  ]
+}

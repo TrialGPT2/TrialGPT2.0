@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03246230",
+  "title": "Systems Biology to Identify Biomarkers of Neonatal Vaccine Immunogenicity",
+  "brief_summary": "Infection is the most common cause of death in early life, especially for newborns and can be reduced by immunization but insufficient knowledge of how vaccines protect the very young limits their optimal use. To gain insight into how vaccines induce protection of the most vulnerable, this National Institutes of Health (NIH)/National Institute of Allergy \\& Infectious Diseases (NIAID)-funded Human Immunology Project Consortium (HIPC) study, based at Boston Children's Hospital and conducted by the Expanded Program on Immunization Consortium (EPIC), employs two novel approaches studying newborn responses to hepatitis B vaccine (HBV): (a) systems biology that uses technologies which comprehensively measure global changes in molecules such as transcriptomics (RNA) and proteomics (proteins), as well as cell composition of the blood and (b) use of human newborn blood components, collected prior to immunization, to model vaccine responses in vitro (outside the body). Characterizing vaccine-induced molecular patterns (\"signatures\") that correspond to vaccine-mediated protection will accelerate development and optimization of vaccines against early life infections of major global health importance.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria:\n\n* \\<24 hours of age\n* \\>37 weeks gestational age\n* HIV unexposed\n* Healthy (no malformations, normal temperature range and vital signs for age)\n\nExclusion Criteria:\n\n* Premature (\\<37 weeks gestational age)\n* Hepatitis B antigen-positive mother\n* HIV-positive or HIV-exposed\n* Febrile, unstable vital signs",
+  "minimum_age": "0 Days",
+  "maximum_age": "1 Day",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Newborn Vaccine Immunogenicity"
+  ],
+  "overall_status": "COMPLETED"
+}

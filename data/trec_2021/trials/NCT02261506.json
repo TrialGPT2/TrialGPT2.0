@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02261506",
+  "title": "Bacteremia Antibiotic Length Actually Needed for Clinical Effectiveness: A Pilot RCT",
+  "brief_summary": "Bacteremia is a leading cause of mortality and morbidity in critically ill adults. Although bacteria in the bloodstream (bacteremia) may arise from variable infectious foci (most commonly central vascular catheter related, lung, urinary tract, intra-abdominal, or skin and soft tissue sources), because of the high attendant morbidity and mortality of bacteremia, these patients collectively represent a critically important group to study.\n\nThe consequences of the excessive antimicrobial use for individual patients, range from rash, gastrointestinal upset and diarrhea, to anaphylaxis, neutropenia, renal failure, toxic epidermal necrolysis, death, and a marked increase in ICU and hospital drug costs. One particularly concerning complication, Clostridium difficile infection, has increased in incidence and severity over the past decade. Much of this burden could be prevented through reduction in unnecessary antibiotic use.\n\nAnother major consequence of excessive antibiotic use is antimicrobial resistance. Antibiotic resistance is not only a concern for the patient who receives antibiotics, but also for neighbouring patients in the ICU, as well as future patients in the ICU and the hospital at large - through patient-to-patient transmission, and environmental contamination.\n\nNo previous randomized controlled trials have directly compared shorter versus longer durations of antimicrobial treatment in these patients. The investigators will conduct a multi-center randomized concealed allocation trial of shorter duration (7 days) versus longer duration (14 days) antibiotic treatment for critically ill patients with bacteremia admitted to ICU. Eligible, patients will be randomized to either 7 days or 14 days of adequate antimicrobial treatment. The selection of type, dose and route of antibiotics will be at the discretion of the treating physicians, but the duration of treatment (7 versus 14 days) will be determined by randomization group. The randomization assignment will not be communicated to the study research coordinator, study critical care or infectious diseases investigators or clinicians until day 8. The primary outcome for the main trial will be 90-day mortality.\n\nThe study will be initiated at Sunnybrook Health Sciences Centre in Toronto, Ontario, and then rolled out to a second site at Kingston General Hospital in Kingston, Ontario. These sites will be sufficient to meet the sample size goals for the pilot RCT, but if additional funds are obtained the investigators will also roll out to the other Canadian ICUs listed below. The goal of adding these additional sites will be to increase the generalizability of the findings with respect to trial feasibility",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient is in the ICU at time the blood culture result reported as positive AND\n* Patient has a positive blood culture with pathogenic bacteria.\n\nExclusion Criteria:\n\n* Patient already enrolled in the trial\n* Patient has severe immune system compromise, as defined by: absolute neutrophil count \\<0.5x109/L; or is receiving immunosuppressive treatment for solid organ or bone marrow or stem cell transplant\n* Patient has syndrome with well-defined requirement for prolonged treatment:\n\n  * infective endocarditis\n  * osteomyelitis/septic arthritis\n  * undrainable/undrained abscess\n  * unremovable/unremoved prosthetic-associated infection\n* Patient has a single positive blood culture with a common contaminant organism according to Clinical Laboratory \\& Standards Institute (CLSI) Guidelines: coagulase negative staphylococci; or Bacillus spp.; or Corynebacterium spp.; or Propionobacterium spp.; or Aerococcus spp.; or Micrococcus spp.\n* Patient has a positive blood culture with Staphylococcus aureus.\n* Patient has a positive blood culture with Candida spp. or other fungal species.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Bacteremia"
+  ],
+  "overall_status": "COMPLETED"
+}

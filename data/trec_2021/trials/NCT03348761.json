@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03348761",
+  "title": "rTMS Response Trajectories in Depression",
+  "brief_summary": "Notwithstanding the cumulative evidence on the safety and efficacy of transcranial magnetic stimulation in depression care, the non-response rate to transcranial magnetic stimulation (TMS) amongst treatment-resistant depression has remained substantial despite the health care cost and time incurred. There remains a compelling clinical need to find valid biomarkers to inform personalized treatment. Using supervised machine learning on 4 combined features of neuroimaging markers, our group recently reported excellent prediction for clinical response in 70 patients receiving TMS to left dorsolateral prefrontal cortex for medication-resistant major depression in 2015-18 (Phase 1 study).The clinical utility of these potential neuroimaging biomarkers is still uncertain without further validation of the trained model in an independent clinical cohort.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria:\n\n* right-handed\n* meet the Diagnostic and Statistical Manual of Mental Disorder, Fourth Edition (DSM-IV) criteria for major depressive disorder\n* at least moderate episode or with a score of \\>20 on Montgomery-asberg Depression Rating Scale (MADRS) and \\>18 on Hamilton Depression Rating Scale(HDRS) 17-item;\n* has failed to respond adequately to at least one full course (\\>6 weeks) of antidepressant medication or medication intolerant.\n\nExclusion Criteria:\n\n* significant head trauma\n* active abuse of alcohol or illegal substances\n* current psychotic symptoms\n* suicide ideation/recent suicide attempts\n* other DSM-IV Axis I and II psychiatric diagnosis\n* neurological disorders and contraindications to fMRI (e.g. pace makers, metal implants, pregnancy) or rTMS, or having undergone electroconvulsive therapy in the preceding year.",
+  "minimum_age": "18 Years",
+  "maximum_age": "64 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Depression"
+  ],
+  "overall_status": "RECRUITING"
+}

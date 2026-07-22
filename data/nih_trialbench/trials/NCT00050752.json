@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT00050752",
+  "title": "Hereditary Leiomyomatosis Renal Cell Cancer - Study of the Genetic Cause and the Predisposition to Renal Cancer",
+  "brief_summary": "This study will investigate what causes hereditary leiomyomatosis renal (kidney) cell cancer, or HLRCC, and how the disease is related to the development of kidney tumors. Leiomyomas are benign (non-cancerous) tumors arising from smooth muscle. HLRCC can cause various health problems. Some people develop red bumps on their skin that can be painful at times. Some women with HLRCC can develop leiomyomas of the uterus. In some families, people with HLRCC develop kidney tumors. This study will try to determine:\n\n* What gene changes (mutations) cause HLRCC\n* What kind of kidney tumors develop in HLRCC and how they grow\n* What the chance is that a person with HLRCC will develop a kidney tumor\n\nPeople with known or suspected HLRCC (and their family members of any age) may be eligible for this study. This includes people in families in which one or more members has skin leiomyoma and kidney cancer; skin leiomyoma and uterine leiomyoma; multiple skin leiomyomas; kidney cancer and uterine leiomyomas, or kidney cancer consistent with HLRCC, including, but not limited to, collecting duct or papillary, type II. Candidates will be screened with a physical examination, family history, and, for affected family members, a review of medical records, including pathology slides and computed tomography (CT) or magnetic resonance imaging (MRI) scans.\n\nParticipants will undergo tests and procedures that may include the following:\n\n* Review of medical records, x-rays, and tissue slides\n* Physical examination and family history\n* Skin examination\n* Gynecological examination for women\n* Interviews with a cancer doctor, cancer nurses, kidney surgeon, and genetic counselor\n* Blood tests for:\n\n  1. Genetic research to identify the gene responsible for HLRCC\n  2. Evaluation of liver, kidney, heart, pancreas, and thyroid function\n  3. Complete blood count and clotting profile\n  4. Pregnancy test for pre-menopausal women\n  5. PSA test for prostate cancer in men over age 40\n* CT or MRI scans (for participants 15 years of age and older only)\n* Skin biopsy (surgical removal of a small sample of skin tissue)\n* Cheek swab or mouth rinse to collect cells for genetic analysis\n* Medical photographs of lesions\n* Questionnaire\n\nWhen the tests are completed, participants will discuss the results with a doctor and possibly a genetic nurse or genetic counselor. The genetic findings will not be revealed to participants because their meaning and implications may not yet be understood. Participants may be asked to return to NIH from every 3 months to every 3 years, depending on their condition, for follow-up examinations and tests.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Individuals suspected or known to have phenotype or genotype suggestive of Hereditary Leiomyomatosis and Renal Cell Cancer Syndrome (HLRCC), such as:\n\n  * Cutaneous leiomyoma and kidney cancer; or\n  * Cutaneous leiomyoma and uterine leiomyoma; or\n  * Multiple cutaneous leiomyoma; or\n  * Kidney cancer and uterine leiomyomata; or\n  * Renal tumor histology consistent with HLRCC including, but not limited to: Collecting Duct and/or Papillary, Type II\n* All participants and parents/guardians, for children younger than 18 years of age, must sign an informed consent document indicating their understanding of the investigational nature and the risks of this study before any protocol related studies are performed.\n* Participants must be \\>= 2 years of age.\n* A relative (related by blood) of an individual with a confirmed or suspected diagnosis of HLRCC.\n\nEXCLUSION CRITERIA:\n\nNone",
+  "minimum_age": "2 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "An individual (including patient) from a family in which one or more family member have: cutaneous leiomyoma and kidney cancer, cutaneous leiomyoma and uterine leiomyoma, multiple cutaneous leiomyoma, kidney cancer and uterine leiomyomata, renal tumor histology consistent with HLRCC including, but not limited to: Collecting Duct and/or Papillary, Type II.",
+  "condition": [
+    "Renal Tumor Histology",
+    "Cutaneous Leiomyoma",
+    "Kidney Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational, non-therapeutic study enrolling individuals with known or suspected HLRCC and their relatives, regardless of cancer treatment history. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility is based on clinical or genetic suspicion of HLRCC, not on prior cancer therapy. Both untreated individuals and those with any prior treatment history, including adjuvant-only patients, are eligible."
+    }
+  ]
+}

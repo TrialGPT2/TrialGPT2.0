@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02866851",
+  "title": "Feasibility Study of Monitoring by Web-application on Cytopenia Related to Chemotherapy",
+  "brief_summary": "Patients should receive a chemotherapy regimen with an overall risk of febrile neutropenia \u2265 20%. The use of the web-application their will be proposed .\n\nThey will be informed of the risk of neutropenia, fever and bleeding which may occur beyond the fifth day of each chemotherapy cycle (to eliminate fevers related to treatment).\n\nThe temperature measurement is performed at home by an infrared forehead thermometer provided as part of the study, in a systematic manner once daily at the same time of day and in case of unexplained fatigue or chills.\n\nBefore any fever reported to the physician via the web-application (alert), a questionnaire will be completed by the patient to the search for gravity criteria to assess his condition at home. The patient will be hospitalized immediately if it shows signs of severity in order to document the infection and provide intravenous antibiotics adapted to the clinical condition; in the absence of these signs, the patient will make a count to the nearest lab and will receive oral antibiotics if indicated. The subsequent strategy will be defined by the web-application algorithm to optimize the care of patients.\n\nThe ability to use a web-application could allow early detection of complications of post-chemotherapy haematological toxicity and offer a taking over guided by a decision-making algorithm managed by the physician.\n\nThe aim is to favour the taking over at home.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Patient with a histologically proven cancer regardless of the location (solid tumor or not) except brain tumor\n2. Patient should receive chemotherapy (any indication) associated with overall risk of neutropenia greater than or equal to 20%\n3. Age \u2265 18 years\n4. Performance Status \u2264 3\n5. Patient with Internet access and an email box\n6. Patient affiliated to a social security scheme\n7. Patient has given its written consent before any specific procedure for the study\n\nExclusion Criteria:\n\n1. Symptomatic brain metastases\n2. Persons deprived of liberty, under guardianship or under curators\n3. dementia, mental impairment or psychiatric illness that may affect the patient's informed consent and / or protocol adherence and monitoring of the test\n4. Patient unable to submit the protocol followed for psychological, social, family or geographical reasons\n5. Pregnant or breastfeeding\n6. Patients at risk of severe neutropenia (Absolute Neutrophils Count \\<0.1 Giga / L within 7 days prior to inclusion, acute leukemia, auto or allograft)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cancer"
+  ],
+  "overall_status": "TERMINATED"
+}

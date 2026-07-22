@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01832987",
+  "title": "Pharmacokinetic Parameters of Co-trimoxazole",
+  "brief_summary": "Rationale:\n\nTreatment of multidrug or extensively drug resistant tuberculosis (MDR/XDR-TB) is a real challenge as failure in response to treatment and serious side-effects are frequently encountered. New, more effective drugs with less side effects are therefore urgently needed to solve this problem. Although several new drugs against TB are in the pipeline, physicians currently have limited treatment options for treatment of complicated MDR/XDR-TB cases. Therefore, drugs developed and labeled for other infectious diseases are evaluated for TB. Co-trimoxazole consists of sulfamethoxazole and trimethoprim. Sulfamethoxazole could be effective in the treatment of tuberculosis as shown by Forgacs et al. and Huang et al.\n\nFurthermore, with dried blood spot (DBS) analysis, the exposure to co-trimoxazole could be analyzed with only some blood drops withdrawn with a finger prick on paper. This paper is suitable for storage, transportation and subsequently analysis without additional cooling or storage requirements.\n\nObjective:\n\nThe main objective of this prospective clinical trial is to evaluate pharmacokinetics of 960 mg co-trimoxazole in TB patients. This clinical trial will provide important information on PK of co-trimoxazole in TB patients for future studies.\n\nThe second objective is to calculate the T\\>MIC and AUC0-24h/Minimal inhibitory concentration (MIC) ratio as efficacy predicting parameter. Furthermore, the analysis of dried blood spots will be clinically validated by comparing results of blood samples withdrawn from venous blood versus withdrawn by finger prick and transferred to filter paper. Retrospectively, data from this study can be used for limited sampling strategies for co-trimoxazole based on a pharmacokinetic population model constructed from the full PK curves of the patients.\n\nStudy design:\n\nA prospective pharmacokinetic study.\n\nStudy population: 12 TB patients.\n\nIntervention: on 4 to 6 days, 960 mg co-trimoxazole daily will be added to the normal treatment regimen.\n\nMain study parameters/endpoints:\n\nThe pharmacokinetic parameters (Vd, Cl, AUC, etc) of co-trimoxazole are the primary endpoints of the study. The T\\>MIC and AUC0-24h/Minimal inhibitory concentration (MIC) ratio are most likely the best predictive parameters for efficacy of co-trimoxazole treatment and will be calculated for a range of M tuberculosis isolates.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* TB Patients with normal susceptible Mycobacterium tuberculosis\n* Patients older than 17 and younger than 64 years.\n\nExclusion Criteria:\n\n* Pregnancy or breast feeding\n* Patients with hypersensitivity to sulfonamide or trimethoprim\n* Concomitant treatment with vitamin K antagonists (acenocoumarol)\n* Patients with preexisting renal dysfunction or concomitant treatment of angiotensin converting enzyme inhibitors and potassium -sparing diuretics) that may exacerbate the hyperkalemic effect of SXT.\n* Patients treated with methotrexate, phenytoin, sulfonylureas (glibenclamide, gliclazide, glimepiride en tolbutamide) or procainamide hydrochloride.\n* Patients that have gastrointestinal complaints like diarrhea and vomiting (observed)\n* Patients that have experienced an adverse effect to SXT or similar antibiotic drugs.\n* Patients with HIV or AIDS.",
+  "minimum_age": "18 Years",
+  "maximum_age": "64 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Tuberculosis"
+  ],
+  "overall_status": "COMPLETED"
+}

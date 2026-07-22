@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT03327896",
+  "title": "The Impact of Patient Complexity on Healthcare Utilization",
+  "brief_summary": "Healthcare providers are routinely being assessed for metrics designed to assess the quality of the care they deliver. There is growing consensus that these measurements, which typically assess the percentage of patients meeting a specific standard of care, should be adjusted for the clinical complexity of the providers. This study will assess whether adjusting for the social complexity of the patient panel adds significantly to adjustment for clinical complexity in explaining apparent differences in quality of care provided by Primary care providers and clinics.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion criteria for clinics: Clinics must be a clinic that offers Primary Care (Family Medicine Clinics, Pediatrics Clinics, General Practice Clinics, Internal Medicine clinics that are not limited to a subspecialty focus, and multi-specialty clinics that include primary care providers as part of a comprehensive care team.) Clinics must have implemented their EHR by 1/1/2014.\n\nInclusion criteria for patients: EHR Patients must be established patients within a health care system: at least one ambulatory visit to an included clinic in 2015 and at least 1 visit to a primary care clinic within the same health system prior to that visit.\n\nInclusion criteria for patients for Medicaid based Outcomes: Patient must have been continuously covered by Medicaid in 2015 and have had at least 1 visit billed as an office visit in 2015 with a provider identified as a primary care provider and at least 1 prior claim billed to the same provider. Patients must meet the age/condition criteria for the assessment of at least 1 secondary outcome.\n\nExclusion Criteria:\n\nExclusion criteria for patients: Patients with no geocoded address on file will be excluded from the analysis.\n\nExclusion criteria for patients for Medicaid based Outcomes: Patient with Medicaid coverage gaps of \\>45 days will be excluded from theses analyses. Exclusion criteria for providers: Providers with \\<20 patients in any Quality metric denominator.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Stage 1 (Patient Level): Established patients of primary care providers with a visit in 2015 Stage 2 (Provider level): Primary Care providers with at least 20 patients from established patients in 2015 Stage 3 (Clinic level): Primary care Clinics",
+  "condition": [
+    "Primary Care Quality Metrics",
+    "Well Child Visits in First 15 Months of Life NQF 1392",
+    "Diabetes Mellitus NQF 0059",
+    "Colorectal Cancer Screening NQF 0034",
+    "Emergency Department Utilization",
+    "Alcohol and Drug Screening"
+  ],
+  "overall_status": "UNKNOWN"
+}

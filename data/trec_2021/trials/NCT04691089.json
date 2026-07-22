@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04691089",
+  "title": "Cardiopulmonary Resuscitation Performance of Professional Rescuers With a New Defibrillation Algorithm",
+  "brief_summary": "In the Paris (France) Medical Emergency system, in the early phase of Out-of-hospital Cardiac Arrest (OHCA), the treatment of a Ventricular Fibrillation (VF) consists of delivering an External Electric Shock (EES) by a rescuer with the use of an Automated External Defibrillator (AED). This latter realizes a cardiac rhythm analysis every two minutes. This analysis requires that chest compressions (CC) be interrupted for a while. However, CC interruptions are potentially harmful due to the brain, and heart perfusions decrease.\n\nOn the other hand, the recurrence of VF occurs mostly during the first minute after the shock, whereas the delay between 2 rhythm analysis is 2 minutes. The consequence is excessive time spent in VF, which is deleterious in terms of coronary and cerebral perfusion.\n\nThe investigator implements a new AED algorithm whose operating principle is as follows. One minute after an EES administration, the AED realizes a cardiac rhythm analysis during which the rescuers do not need to interrupt the chest compressions (CC): this is called the rhythm analysis \" in presence of CC\" The detection of a VF \" in presence of CC \" needs to be confirmed, \" in absence of CC \" The CC's are therefore interrupted for new rhythm analysis. Once the presence of VF is approved, the AED proposes a shock to be administred\n\nThe aim of the study\n\nStudy Design:\n\nThis is a prospective observational study.\n\nThe eligibility criteria are as follows:\n\n* Patients in Out-Of-Hospital Cardiac Arrest.\n* Basic Life support care with an AED.\n\nThe primary endpoint is the \" chest-compression fraction (CCF) \" that represents the CPR-time performance during the ten first minutes of BLS care ( or \\< 10 min in case of Return Of Spontaneus Circulation (ROSC))",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n-Non-traumatic OHCA in adults, treated by a BLS team and connected to an AED equipped either with the 2017 or with the 2020 algorithm.\n\nExclusion Criteria:\n\n* Use of AED in a pediatric mode\n* CPR administered in 15:2 mode\n* Patient already connected to another defibrillator at the arrival of the BLS Team\n* No shock advised by defibrillator at first analysis\n* Patient with a pacemaker\n\nSecondary Exclusion Criteria\n\n* Surviving patients' opposition to the use of their data.\n* Patients with unreadable electrocardiographic or impedance data.",
+  "minimum_age": "12 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Medical OHCA patients of the greater Paris (Paris, Haut-de-Seine, Seine-Saint-Denis and Val- de-Marne Country)",
+  "condition": [
+    "Cardiac Arrest, Sudden",
+    "Ventricular Tachycardia",
+    "Ventricular Fibrillation",
+    "Sudden Cardiac Death"
+  ],
+  "overall_status": "COMPLETED"
+}

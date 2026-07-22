@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00673283",
+  "title": "Early Detection of Lung Cancer Via Bi-plane Correlation Chest Imaging",
+  "brief_summary": "This project proposes a new method, Bi-plane Correlation Imaging (BCI), for improved detection of subtle lung nodules. In BCI, two digital radiographs of the chest are acquired within a short time interval from slightly different posterior projections. The image data are incorporated into an enhanced Computer-aided Diagnosis (CAD) algorithm in which nodules present in the thoracic cavity are detected by examining the geometrical correlation of the detected signals in the two views. The data are alos viewed stereoscopically for visual diagnosis. The expected high sensitivity/specificity of the method has the potential to change the current state of practice, perhaps leading to a preventive lung cancer screening program for high-risk populations, similar to the mammography screening program currently in place for breast cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Normal individuals\n* Individuals with CT-confirmed subtle lung nodules.\n\nExclusion Criteria:\n\n* Individuals with acute pulmonary abnormalities or those in poor health conditions will be excluded due to the potential impact on the results as well as difficulty of acquiring the images. Pregnant women will also be excluded to avoid the exposure of the fetus to radiation.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Lung Cancer",
+    "Metastatic Cancer in the Lungs"
+  ],
+  "overall_status": "COMPLETED"
+}

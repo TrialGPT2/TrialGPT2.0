@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04300101",
+  "title": "Mixed Molecular Clinical Index (MMCI) in Diffuse Large B-cell Lymphoma (DLBCL)",
+  "brief_summary": "This is a prospective and retrospective observational study. The primary objective is to identify new prognostic biomarkers for DLBCL patients in terms of progression-free survival (PFS) and able to add predictive capacity to recognized important clinical factors.\n\nThe secondary objectives are:\n\n* to identify new biomarkers associated with overall survival (OS) and objective response rate (ORR)\n* to characterize tissue and circulating immune microenvironment of DLBCL patients by bulk and single cell transcriptomics;\n* to assess the correlation between the expression of immune checkpoint genes and mRNA signature;\n* to describe the mutational status of a panel of genes relevant to DLBCL pathogenesis;.\n* to assess the correlation between protein expression, mutational status and the messenger RNA (mRNA) signature.\n* to investigate the association between radiomic features obtained from PET images and patient and tumour characteristics and clinical outcomes (PFS, OS, ORR).\n\nFor each enrolled patient, immunohistochemical determinations will be performed: Cell of origin (COO) (Germinal Cell -GC- or activated B-cell - ABC- type according with Hans algorithm ), evaluation of cluster of differentiation antigen 20 (CD20), cluster of differentiation antigen 5 (CD5), cluster of differentiation antigen 10 (CD10), Bcl6, Bcl2 (cut off\\>50%), Multiple Myeloma 1 / Interferon Regulatory Factor 4 protein (MUM1/IRF4), c-myc (cut off\\>40%) and Ki67, fluorescence in situ hybridization (FISH) for c-myc and if rearranged, for Bcl2 e Bcl6 ). Moreover, paraffin embedded (FFPE) tumor specimens will be collected for RNA extraction and mRNA expression mutational and proteomics analysis, centralized at IRST-IRCCS.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria for the prospective cohort:\n\n* New diagnosis of High grade Diffuse large B cell Lymphoma undergoing first line standard treatment;\n* Signed written informed consent;\n* Availability of FFPE sample.\n\nInclusion Criteria for the retrospective cohort:\n\n* Diagnosis of High grade Diffuse large B cell Lymphoma from 2011 to 2017;\n* Availability of FFPE sample and clinical data.\n\nExclusion Criteria:\n\n* Patients included in clinical trials.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Prospective cohort: All patients with diagnosis of DLBCL afferring referred to IRST-IRCCS, Oncology-Hematology Units of AVR, S. Orsola Hospital (Bologna).\n\nRetrospective cohort: Patients with diagnosis of DLBCL referred to IRST-IRCCS, from 2011 to 2017 for whom clinical data and FFPE samples are available.",
+  "condition": [
+    "Diffuse Large B Cell Lymphoma"
+  ],
+  "overall_status": "RECRUITING"
+}

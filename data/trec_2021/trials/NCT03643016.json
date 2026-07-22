@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03643016",
+  "title": "Improving EPilepsy Surgery Management and progNOsis Using Virtual Epileptic Patient Software (VEP)",
+  "brief_summary": "Every year, thousands of patients worldwide with drug resistant focal epilepsy (DRE) undergo resective brain surgery with the aim of achieving seizure freedom.\n\nDespite technical advances over the last 50 years, the success rate of epilepsy surgery in terms of seizure freedom has not greatly improved, remaining overall at around 50%. Depending on features of individual cases, presurgical evaluation includes a first phase of non-invasive data including video-EEG recordings, magnetoencephalography, structural and functional neuroimaging and neuropsychological evaluation. If these investigations do not allow adequate localization of likely region of seizure organization in the brain (the epileptogenic zone, EZ), then a second invasive phase using intracerebral EEG recording may be necessary (stereoelectroencephalography, SEEG). Interpretation of SEEG remains difficult in many cases, in particular since seizure onset is often characterized by discharges that very rapidly involve several distinct brain regions.\n\nNo reliable measuring instrument currently exists to combine the various prognostic factors for a given patient. This leads to great uncertainty on an individual scale in predicting the effects of surgery. The mapping of epileptic networks in patients with DRE is an innovative scientifically-validated and clinically-tested method to significantly improve accuracy of SEEG and presurgical interpretation and guide surgical strategies in patients with DRE. Therefore, the investigators developed the Virtual Epilepsy Patient software. Retrospective study already demonstrated the pertinence of this approach in improving the anatomical mapping of epileptogenic networks. Now, the investigators aim to prospectively demonstrate the role of VEP during presurgical evaluation of DRE patients",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient or pediatric patient suffering from drug-resistant focal epilepsy.\n* Standardized presurgical evaluation including medical history, scalp video-EEG, 3T MRI (DTI and rsMRI), FDG-PET, Neuropsychological tests.\n* Inpatient in one of the participating centers for recording seizure during long term SEEG-monitoring.\n\nExclusion Criteria:\n\n* Epilepsy surgery performed without the requirement of SEEG or contra-indication to epilepsy surgery.",
+  "minimum_age": "12 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Epilepsy"
+  ],
+  "overall_status": "UNKNOWN"
+}

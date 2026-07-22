@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02304471",
+  "title": "Circulating lncRNA and CV Morbidities in CKD and ESRD",
+  "brief_summary": "Cardiovascular disease is the major cause of morbidity and death in patients with chronic kidney disease (CKD) and end-stage renal disease (ESRD). The mechanisms linking impaired renal function and increased risk for cardiovascular diseases, however, remain elusive.\n\nLong non-coding RNAs (lncRNAs) is a heterogeneous group of non-coding transcripts longer than 200 nucleotides. While the roles of lncRNAs in human diseases including cancer and neurodegenerative disorders are beginning to emerge, it remains unclear how lncRNA regulation contributes to cardiovascular complications in patients with renal dysfunction.\n\nIn this proposal, the investigators seek to apply next-generation sequencing technology to investigate circulating lncRNA expression in control subjects and in patients with CKD and ESRD. The investigators will test the hypothesis that circulating lncRNA expression signature can reflect the underlying kidney disease states in patients with CKD and ESRD. A gene co-expression network analysis will be conducted to identify lncRNAs that are functionally involved in the pathogenesis of CKD and ESRD. Next, the investigators will identify circulating lncRNAs that are indicative of cardiovascular dysfunction in ESRD patients. Finally, the investigators propose to test the hypothesis that circulating lncRNAs can be novel prognostic biomarkers to predict cardiovascular outcomes and renal function progression in CKD patients. The results from these experiments will lead to better understanding of how circulating lncRNAs contribute to uremic cardiovascular complications and renal function progression.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* 1.Adult patients with various stages 1-5 of CKD will be enrolled at outpatient clinic. Definition and staging of CKD were defined by estimated glomerular filtration rate by the Modification of Diet in Renal Disease study equation.\n* 2.Patients with ESRD under maintenance hemodialysis or peritoneal dialysis will also be included.\n\nExclusion Criteria:\n\n* 1.age younger than 20 years or older than 80 years.\n* 2.pregnant woman.\n* 3.patients already received kidney transplantation.\n* 4.recent hospitalization within previous one month.\n* 5.for ESRD patients, receiving maintenance hemodialysis or peritoneal dialysis for less than 3 months.",
+  "minimum_age": "20 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "CKD, ESRD, Healthy controls",
+  "condition": [
+    "Chronic Kidney Disease",
+    "End-stage Renal Disease"
+  ],
+  "overall_status": "UNKNOWN"
+}

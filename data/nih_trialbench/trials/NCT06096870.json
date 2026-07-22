@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT06096870",
+  "title": "Enzalutamide and PDS01ADC in PET Positive Recurrent Prostate Cancer (pprPC) Without Testosterone Lowering Therapy",
+  "brief_summary": "Background:\n\nProstate cancer may return after treatment in 30,000 to 50,000 people each year. There is no clear best way to treat these people. Better treatments are needed.\n\nObjective:\n\nTo test a study drug (enzalutamide), both alone and combined with a second drug (PDS01ADC), in people with prostate cancer that returned after treatment.\n\nEligibility:\n\nPeople aged 18 years and older with prostate cancer that returned after treatment.\n\nDesign:\n\nParticipants will be screened. They will have a physical exam, with blood tests. All their urine will be collected for 24 hours. They will have imaging scans of their chest, abdomen, pelvis, and bones. Their ability to perform everyday activities will be assessed. They may opt to give a stool sample.\n\nParticipants will be treated in 4-week cycles.\n\nEnzalutamide is a pill taken by mouth once a day, every day. All participants will be given a supply of this drug to take at home.\n\nPDS01ADC is injected under the skin once a month, on the first day of each cycle. Half of the participants will receive both drugs.\n\nAll participants will visit the clinic once a month. Each visit should last no more than 8 hours. Blood and urine tests will be repeated.\n\nAll participants will receive the study treatment for 3 cycles. Some participants may need 3 more cycles of treatment with enzalutamide only. This re-treatment can be done only once.\n\nParticipants will have a follow-up visit 1 month after they finish treatment. After that, they will have visits every 6 weeks for up to 5 years. Imaging scans and blood tests will be repeated.\n\n...",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Participant must provide documentation of histologic or cytological confirmation of prostate cancer or tumor sample for diagnosis confirmation. Note: in the absence of pathology or documentation, participant must have a rising PSA, PSMA+ disease, and his history consistent with prostate cancer as documented by the investigator.\n* History of primary treatment for prostate cancer (either surgery or radiation).\n* Prostate-specific antigen (PSA) doubling time within less than 12 months.\n* Testosterone \\>100 ng/dL.\n* Age \\>=18 years.\n* Evidence of prostate cancer on PSMA PET/CT scan.\n* Eastern Cooperative Oncology Group (ECOG) performance status \\<2.\n* Men must agree to use an effective method of contraception (barrier or surgical sterilization) after study entry and for 3 months after completion of enzalutamide or PDS01ADC therapy whatever comes later.\n* Participants must have adequate organ and marrow function as defined below:\n\n  * Absolute neutrophil count (ANC) \\>=1,500/microliter, without granulocyte colony-stimulating factor (G-CSF) support\n  * Platelets \\>=100,000/microliter\n  * Aspartate aminotransferase (AST) /Alanine aminotransferase (ALT) \\<=2.5 x institutional upper limit of normal (ULN)\n  * Hemoglobin (Hgb) \\>= 10 g/dL (packed red blood cell (pRBC) transfusions are not allowed to achieve acceptable Hgb)\n  * Total bilirubin \\<= 1.5 x ULN, OR \\<= 3.0 ULN in participants with Gilbert s syndrome\n  * Serum albumin \\>= 2.8 g/dL\n  * Creatinine \\< 1.5 X institution ULN\n\nOR\n\n--Measured or calculated creatinine clearance (CrCl) (estimated glomerular filtration rate (eGFR) may also be used in place of CrCl) \\> 45 mL/min/1.73 m\\^2 for participant with creatinine levels \\> 1.5 x institutional ULN\n\n* Hepatitis B virus (HBV)-infected participants can be enrolled if HBV DNA is undetectable at screening. Hepatitis C virus (HCV)-infected participants can be enrolled if the HCV RNA level is undetectable at screening. Human immunodeficiency virus (HIV)-positive participants can be enrolled if HIV DNA is undetectable.\n* Participants must be able to swallow tablets/capsules.\n* Participants must be able to understand and willing to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n* Evidence of soft tissue disease on CT scan (or magnetic resonance imaging (MRI) if assessment cannot be done by CT scan) per RECIST 1.1 criteria (lymph nodes up to 2.0 cm in the shortest dimension are allowed).\n* Evidence of bone lesions on Tc99 bone scan.\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to study drugs or imaging agents used in the study.\n* Any medical condition that requires chronic systemic steroid therapy, or any other form of immunosuppressive medication (inhaled and topical steroids are permitted).\n* History of seizures within the last 10 years.\n* Therapy with strong inhibitors or inducers of CYP2C8 or CYP3A4 (https://druginteractions.medicine.iu.edu/MainTable.aspx) within 5 half-lives prior to the study treatment initiation.\n* Participants with prior malignancy active within 3 years prior to study treatment initiation except for locally curable cancers that have been apparently cured such as basal or squamous cell skin cancer, superficial bladder cancer, or carcinoma in situ of the breast.\n* Uncontrolled intercurrent illness that would limit compliance with study requirements.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Prostate Cancer",
+    "Recurrent Prostate Cancer",
+    "PET Positive"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with prostate cancer that has recurred after primary treatment (surgery or radiation), with no prior systemic therapy for advanced/metastatic disease required. Patients who have only received adjuvant or definitive local therapy are eligible.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility requires a history of primary treatment (surgery or radiation) and recurrent disease, but there is no requirement for prior systemic therapy for advanced/metastatic disease. Patients who have only received adjuvant or definitive local therapy are eligible, making this a first-line (1L) advanced/metastatic setting."
+    }
+  ]
+}

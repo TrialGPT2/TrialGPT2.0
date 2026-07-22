@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT01077895",
+  "title": "The Influence of Fluid Removal Using Continuous Venovenous Hemofiltration (CVVH) on Intra-abdominal Pressure and Kidney Function",
+  "brief_summary": "Intra- abdominal hypertension (IAH) and abdominal compartment syndrome (ACS) are a cause of organ dysfunction in critically ill patients. IAH develops due to abdominal lesions (primary IAH) or extra-abdominal processes (secondary IAH). Secondary IAH arises due to decreased abdominal wall compliance and gut edema caused by capillary leak and excessive fluid resuscitation. Decreasing intra-abdominal pressure (IAP) using decompressieve laparotomy has been shown to improve organ dysfunction. However, laparotomy is generally avoided in patients with secondary IAH due to the risk of abdominal complications.\n\nAcute kidney injury (AKI) is one of the first and most pronounced organ failures associated with IAH and many patients with AKI in the ICU require renal replacement therapy (RRT). Fluid removal using continuous RRT (CRRT) has been demonstrated to decrease IAP in small series and selected patients.\n\nThe aim of this study is to evaluate whether fluid removal using CVVH in patients with IAH, fluid overload and AKI is feasible and whether it has a beneficial effect on organ dysfunction (compared to CVVH without net fluid removal).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patients (\\>18y old) of either gender\n* Admitted to the ICU\n* Sedated and mechanically ventilated (and expected to remain so for at least 48h)\n* Informed consent given\n* admitted to the ICU for \\<7 days or during the first 7 days of a new shock episode\n* AKI requiring RRT according to treating physician\n* IAP \\>12mmHg being attributed to fluid overload by treating physician\n\nExclusion Criteria:\n\n* Included in the same study before\n* Vasopressor and/or inotrope dose needed above noradrenaline 1\u00b5g/kg/min and dobutamine 10\u00b5g/kg/min\n* PaO2/FiO2 ratio \\<100",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Critically Ill",
+    "Intra-Abdominal Hypertension",
+    "Abdominal Compartment Syndrome",
+    "Acute Kidney Injury"
+  ],
+  "overall_status": "WITHDRAWN"
+}

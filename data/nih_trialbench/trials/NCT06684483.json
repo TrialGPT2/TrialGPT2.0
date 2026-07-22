@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT06684483",
+  "title": "The Impact of Heavy Alcohol Use on Saliva and Oral Health",
+  "brief_summary": "Background:\n\nPeople with alcohol use disorder (AUD) have a higher rate of dental and gum disease. Poor oral health can increase the risk of other diseases, such as diabetes and stroke. Researchers want to learn more about how to identify developing inflammation in the mouth. They also want to know how improved oral health education and behaviors can affect inflammation in people with AUD.\n\nObjective:\n\nThis study has 2 goals: (1) to test the usefulness of a new questionnaire about oral health and (2) to learn more about how oral health behaviors affect inflammation in people with AUD.\n\nEligibility:\n\nPeople aged 18 years and older who are staying on an inpatient unit being treated for AUD. Healthy volunteers are also needed.\n\nDesign:\n\nThe study is divided into 2 parts: People will participate in either one part or the other.\n\nIn part 1, participants will have 1 visit. They will have a physical exam. They will answer 18 questions for a survey about how they care for their teeth.\n\nIn part 2, participants with AUD will have a physical exam. They will provide saliva and blood samples. They will have a dental exam with X-rays. They will fill out questionnaires about their health, mental health, social habits, diet, and sleep. They will keep a diary of their nicotine use for 4 weeks while inpatient.\n\nHealthy volunteers will have 1 visit. They will have a physical exam and provide blood and saliva samples. They will have a dental exam with X-rays. They will fill out questionnaires.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible to participate in this study, an individual must meet all the following criteria:\n\nAUD participants:\n\n* Stated willingness to comply with all study procedures and availability for the duration of the study.\n* Treatment-seeking individuals aged 18 years or older.\n* Able to read and speak English.\n* Admitted and consented for 14-AA-0181 at the NIH CC for inpatient treatment.\n* Part 1 Only: Agree for audio recording of cognitive interview.\n* Part 2 Only: BMI less than or equal to 30 kg/m\\^2.\n\nHealthy Control Participants:\n\n* Stated willingness to comply with all study procedures and availability for the duration of the study.\n* Individuals aged 18 years or older.\n* Able to read and speak English.\n* Self-reported to be in good physical health.\n* Part 1 Only: Agree for audio recording of cognitive interview.\n* Part 2 Only: BMI less than or equal to 30 kg/m\\^2.\n* AUDIT score of 7 or below.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\nPatients with AUD and Healthy Control Participants:\n\n* The presence of a condition or illness that would hamper the individual giving informed consent (e.g., cognitive impairment).\n* Part 2 Only: Self-reported presence of a condition or illness that would prevent the individual to have a diagnostic oral examination (e.g., oral cancer of the mouth, Sjogren's syndrome).\n* Part 2 Only: Currently taking or have taken any of the following medications within the last month by self-report; Antibiotics, Corticosteroids, Immunosuppressive or Cytotoxic agents. Topical antibiotics and/or corticosteroids on areas other than the oral cavity are not exclusion criteria.\n* Pregnant or breastfeeding\n* Subjects who participate in Part 1 of the protocol will not be eligible for Part 2.\n* Non-English speakers: we do not have a Spanish version of OHBA, and we are exploring cognitive interviewing of the instrument in English currently. Also, the pt's on 1SE (half of the focused population for this study) are not typically Spanish speakers. We also do not have many of the surveys we plan to administer in Spanish, and they may not be available in other languages.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Part 1 of the study will recruit adults (\\>=18 years) who are enrolled in inpatient treatment for AUD (n=6) and healthy controls (n=6) to conduct cognitive interviews and evaluate the interpretation of the Oral Health Behaviors Assessment measure. Part 2 will recruit adults (\\>=18 years) who are enrolled in inpatient treatment for AUD at the NIH Clinical Center (n=30) and healthy controls matched on age, sex, and smoking status (n=30). The total sample size of this study, including both Parts 1 and 2 participants will be n=72.",
+  "condition": [
+    "Alcohol Use Disorder",
+    "Alcohol Dependence"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This study is not an oncology trial and does not involve systemic therapy for advanced or metastatic disease. The eligibility criteria do not reference any lines of therapy for cancer treatment.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The trial focuses on oral health in people with alcohol use disorder and healthy controls, with no mention of cancer, systemic therapy, or lines of therapy for advanced disease. Line-of-therapy intent is not applicable."
+    }
+  ]
+}

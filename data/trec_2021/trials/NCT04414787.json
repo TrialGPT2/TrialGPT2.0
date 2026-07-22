@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT04414787",
+  "title": "A Needs-focused Palliative Care Intervention for Older Adults in ICUs",
+  "brief_summary": "The quality of intensive care unit (ICU)-based palliative care is highly variable, particularly for the 2 million older adults admitted annually to ICUs. To address these care delivery barriers among older ICU patients, a mobile app platform called PCplanner (Palliative Care planner) was developed. PCplanner automates the identification of high-risk patients (e.g., dementia, declining health status, poor functioning) by directly capturing data from electronic health record (EHR) systems, cultivates family engagement with supportive information and a digital system for self-report of actual needs, and facilitates the delivery of care to those with a high burden of need by coordinating collaboration between ICU teams and palliative care specialists.\n\n150 patients, 150 family caregivers, and 75 physicians from academic and community settings will be enrolled in a RCT designed to test the efficacy of PCplanner-augmented collaborative palliative care vs usual care. Family caregiver and clinician experiences will be explored using mixed methods to understand intervention mechanisms as well as implementation barriers within diverse case contexts. The key hypothesis is that compared to usual care, PCplanner will reduce family caregivers' unmet needs and psychological distress, increase the frequency of goal concordant treatment among older adult patients, and reduce hospital length of stay.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "PATIENTS\n\nInclusion Criteria:\n\n* \u226550 years of age\n* Receive care in a study ICU for \u226524 hours\n* Meets \u22651 of 9 high risk phenotypes a. Dementia (e.g., Alzheimer's, multi-infarct, other dementia etiology) b. Declining health status defined by EITHER: i. \u22652 hospital admissions in 3 months preceding current admission OR ii. \\>1 ICU admission in 3 months preceding current admission c. Poor functional status defined by EITHER: i. admit from Skilled Nursing Facility (SNF) or Long-Term Acute Care (LTAC) facility OR ii. \u22653 activities of daily living (ADL) limitations at admission d. Severe acute illness defined by EITHER: i. cardiac arrest OR ii. multisystem organ failure (\u22653 of: lung, kidney, hematological, brain, cardiac, liver) that has worsened over 48 hours (i.e., Sequential Organ Failure Assessment \\[SOFA\\] score increase) e. Severe acute stroke (e.g., acute intracranial hemorrhage, ischemic stroke, or traumatic brain injury) f. Acute respiratory failure (ventilation or high oxygen support for \u226524 hours) g. Acute renal failure (new hemodialysis or continuous venovenous hemodiafiltration for \u22651 hour) h. Advanced cancer (Advanced / metastatic cancer diagnosis) i. Shock (use of vasopressor or inotrope for \u22654 hours)\n\nExclusion Criteria (pre-consent):\n\n* Palliative care consultation performed during the hospitalization before eligibility determination\n* Current admission to ICU at the index hospital \u22658 days\n* Imprisoned\n* No known family or surrogate decision maker\n* Death expected within 24 hours\n\nExclusion Criteria (post-consent):\n\n\\- Patient dies before T2\n\nFAMILY MEMBER\n\nInclusion Criteria:\n\n* \u226518 years of age\n* Self-described as the individual (related or unrelated) who provides the most support and with whom the patient has a significant relationship (per definition of 'family' described in the Society of Critical Care Medicine 2016 Guidelines for Family-Centered Care in the Neonatal, Pediatric, and Adult ICU)\n\nExclusion Criteria (pre-consent):\n\n* Lack a knowledge of English such that the potential participant is not confident that they could complete study tasks (app viewing, surveys)\n* Imprisoned\n* Unable to complete surveys for any reason\n\nExclusion Criteria (post-consent):\n\n\\- Low need burden (NEST score \\<10) at baseline\n\nICU PHYSICIANS\n\nInclusion Criteria:\n\n* \u226518 years of age\n* Attending or fellow physician in a study ICU\n\nExclusion Criteria:\n\n\\- None",
+  "minimum_age": "50 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Palliative Care",
+    "Critical Illness",
+    "Aging",
+    "Care Delivery Model",
+    "Informal Caregivers",
+    "Psychological Distress"
+  ],
+  "overall_status": "COMPLETED"
+}

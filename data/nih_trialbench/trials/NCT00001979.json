@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT00001979",
+  "title": "Immune System Related Kidney Disease",
+  "brief_summary": "Kidney diseases related to the immune system include, nephrotic syndrome, glomerulonephritis, membranous nephropathy, lupus nephritis, and nephritis associated with connective tissue disorders.\n\nThis study will allow researchers to admit and follow patients suffering from autoimmune diseases of the kidney. It will attempt to provide information about the causes and specific abnormalities associated with autoimmune kidney disease.\n\nPatients with kidney disease as a result of their immune system, and patients with diseases of the immune system who may later develop kidney disease, will be potential subjects for this study.\n\nPatients will undergo a history and physical examination, and standard laboratory test to more closely understand the causes, signs, symptoms, and responses to medication of these diseases. Based on these evaluations the patients may qualify as candidates for other experimental studies. At any time these patients may be asked to submit blood or urine samples for further research.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, a participant must meet all of the following criteria:\n\n1. Adults \\>= 18 years of age and children 10-17 years of age\n2. Participants with\n\n   1. known, proven, or suspected immunologically-mediated kidney diseases, including but not limited to nephrotic syndrome, glomerulonephritis, membranous nephropathy, lupus nephritis, and nephritis associated with other systemic or connective tissue disorders, OR\n   2. immunologically-mediated diseases with the potential for kidney disease.\n3. Ability of the participant or guardian to understand and the willingness of the participant or guardian to provide written informed consent.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Concomitant medical problems which would confound the interpretation of studies of the immunologic kidney disorder.\n2. Concomitant medical, surgical, or other conditions for which inadequate facilities or funds are available to support their care at the NIH.",
+  "minimum_age": "10 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with known or suspected immunologically-mediated kidney diseases, including but not limited to, nephrotic syndrome, glomerulonephritis, membranous nephropathy, lupus nephritis, and nephritis associated with other systemic or connective tissue disorders, or immunologically-mediated diseases with the potential for kidney disease.@@@",
+  "condition": [
+    "Kidney Disease",
+    "Nephrotic Syndrome"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling patients with immune-mediated kidney diseases regardless of prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they specify any requirements or exclusions based on prior lines of therapy. Patients are included based on diagnosis of immune-mediated kidney disease, regardless of treatment history."
+    }
+  ]
+}

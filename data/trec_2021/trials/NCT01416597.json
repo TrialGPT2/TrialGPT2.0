@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01416597",
+  "title": "A Systematic Review of Studies of the Effect of Influenza Vaccine Against Mismatched Strains",
+  "brief_summary": "The purpose of this study is to consolidate the cross-protection offered by influenza vaccines against circulating influenza A or B viruses that are not antigenically well-matched to vaccine strains and to determine the degree of cross-protection separately for influenza A and influenza B, through a systematic review of the literature.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Healthy children, adults or the elderly will be included that participated in randomized clinical trials (RCTs) and quasi-RCTs comparing influenza vaccine(s) with placebo.\n* Placebo-controlled randomized clinical trials (RCTs) reporting laboratory-confirmed influenza among healthy participants vaccinated with antigens of influenza strains that differed from those circulating.\n* All influenza vaccines will be included, and will be categorized as TIV, LAIV, and others (that is, non-TIV or non-LAIV).\n* Only RCTs written in English will be included.\n\nExclusion Criteria:\n\n* RCTs which are not providing any data will be excluded.\n* Studies using rapid influenza diagnostic tests will not be included, as their sensitivity is low (especially during flu season) and false positives are common during low activity seasons.\n* Laboratory-confirmed influenza through antibody assay as part of the primary outcome will not be included, as this is a less sensitive test than PCR and viral culture.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Healthy subjects vaccinated with an influenza vaccine.",
+  "condition": [
+    "Influenza"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02828774",
+  "title": "Peptide-drug-conjugates for Personalized, Targeted Therapy of Chronic Lymphocytic Leukemia",
+  "brief_summary": "Using phage libraries extensively pre-absorbed on a series of normal cell types, we will isolate phage specifically internalized by B-CLL cells from newly diagnosed and untreated CLL patients. Peptide sequences are then derived by Next Generation Sequencing (NGS). NGS-based studies are contributing to an improved understanding of cancer heterogeneity in order to tailor treatment to patients based on the individual makeup of their tumor. However the use of NGS to derive phage displayed peptide sequences is so far rare (22). Traditionally, after exposure to a target and recovery by elution, the phage clones are isolated by titration on bacterial lawns. It is technically demanding and labour intensive to select and analyze more than about 15 of the sometimes thousands clones recovered. Therefore information on other potentially important sequences is missed. NGS allows sequencing of the entire recovered phage pool and provides far more detailed bioinformatic analyses of peptide sequences or motifs. RNA from the CLL cells is used for RNA-seq expression sequencing. The wide application of NGS in combination with bioinformatics tools has begun to revolutionize cancer research, diagnosis and therapy. The peptide and RNA sequencing data will afford bioinformatic testing of correlations of exome expression and clinical parameters with the pattern of peptide sequences internalized by CLL cells of different patients. This information is crucial to answering questions 1, 2 and 3 discussed on page 1 above. The results of this analysis will probably not allow identification of specific receptors targeted by the peptides. The aim at this stage of the research is to identify candidate targeting peptides. Once identified, further research will be needed to identify the receptors to which they bind. Regarding question 4, there is currently very little published information on the therapeutic potential of PDCs in leukemia. Using two peptides we have isolated that target murine A20 leukemic cells, we will prepare multi-drug PDCs (using technology we have developed) and in an animal model, test their ability to enhance the survival and quality of life of CLL bearing animals.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* CLL patients intended to receive treatment in 30 days from recruitment to the study..\n\nExclusion Criteria:\n\n* CLL patient not about to receive treatment in 30 day of recruitment to the study.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "CLL patients",
+  "condition": [
+    "CLL"
+  ],
+  "overall_status": "UNKNOWN"
+}

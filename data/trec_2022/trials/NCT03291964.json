@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03291964",
+  "title": "Rapid MRI for Acute Pediatric Head Trauma",
+  "brief_summary": "Pediatric head trauma is a leading cause of morbidity and mortality for children/adolescents. The current standard of care regarding imaging modality when concerned for an acute head injury is CT. This exposes children to radiation that may predispose to future malignancy. Rapid MRI is a test that eliminates radiation and has expanded uses in multiple other areas. This study is evaluating it for pediatric acute head trauma.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. The patient presents to the pediatric emergency department or trauma system at OHSU or is a trauma system transfer patient to OHSU\n2. Age 0-14 years.\n3. Being evaluated for a traumatic head injury and attending physician decides to obtain a head CT.\n4. Clinically stable for additional testing: provider deems it safe to obtain a QbMRI in the ED without deep sedation\n\nExclusion Criteria:\n\n1. Subject is from outside hospital and head CT was performed greater than 6 hours prior\n2. Subject is from outside hospital and initial head CT is not in our imaging system for review\n3. History of intracranial surgery\n4. History of metallic implants making MRI contraindicated\n5. Decompressive surgery prior to QbMRI",
+  "minimum_age": "0 Years",
+  "maximum_age": "14 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "All pediatric trauma patients being evaluated with a head CT for acute intracranial injury",
+  "condition": [
+    "Head Trauma",
+    "Image, Body"
+  ],
+  "overall_status": "COMPLETED"
+}

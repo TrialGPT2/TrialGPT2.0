@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03984643",
+  "title": "Algorithms for Programming DBS Systems for ET",
+  "brief_summary": "Deep brain stimulation (DBS) targeting the Vim thalamus (ventralis intermedius nucleus) is an FDA-approved neuromodulation therapy for treating postural and action tremor in individuals with essential tremor (ET). The success of this treatment, however, is highly dependent on the ability of clinicians to identify therapeutic stimulation settings through a laborious programming process. There is a strong and growing clinical need for new approaches to provide clinicians with more efficient guidance on how to titrate stimulation settings. This study will leverage subject-specific computational models that can predict neural activation of axonal pathways adjacent to the active electrode(s) and implicated in the therapeutic mechanisms of Vim-DBS to in turn guide clinicians with which stimulation settings are likely to be the most therapeutic on tremor.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "Inclusion Criteria:\n\n* diagnosis of ET\n* medication-refractory tremor\n* VIM-DBS implant (unilateral or bilateral)\n* 7T MRI pre-operative scan under Dr. Harel's IRB (institutional review board) protocol (#1210M22183)\n* Post-operative CT scan\n\nExclusion Criteria:\n\n* history of musculoskeletal disorders that affect movement of the limbs\n* other significant neurological disorder\n* prior history of stereotactic neurosurgery (other than VIM-DBS surgery)\n* pregnancy",
+  "minimum_age": "21 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Essential Tremor"
+  ],
+  "overall_status": "RECRUITING"
+}

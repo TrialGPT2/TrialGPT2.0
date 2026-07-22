@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT02544022",
+  "title": "Development and Validation of Patient Reported Outcome (PRO) Measures for Individuals With Neurofibromatosis 1 (NF1) and Plexiform Neurofibromas (pNFs)",
+  "brief_summary": "Background:\n\nPeople with neurofibromatosis 1 (NF1) who have plexiform neurofibromas (pNFs) can have pain that affects their daily lives. This study aims to improve questionnaires that measure their pain, daily living, and physical functioning.\n\nObjectives:\n\nTo examine and improve questionnaires about daily living for people with NF1 and pNFs.\n\nEligibility:\n\nPeople ages 5 and older with NF1 and a pNF\n\nDesign:\n\nParticipants will be screened with medical history.\n\nThis study will have 2 phases.\n\nPhase 1 participants will talk about existing pain assessment questionnaires and how pNFs affect their life. They will have group discussions of up to 8 people of a similar age with NF1 and pNFs, or the parents of children with it. These will last about 90 minutes. Children ages 5 to 7 and their parents will have one-on-one meetings instead. These will last about 45 minutes. Discussions will be audiotaped. After the questionnaires have been changed, individual interviews will discuss the new wording, instructions, questions, and electronic format of the new forms.\n\nPhase 2 is now complete.\n\nPhase 1 participants may be invited to Phase 2.\n\nPhase 2 participants will complete the new questionnaires. These may be pen-and-paper or electronic. The questionnaires will take about 30 minutes for adults and teens. Children will work one-on-one with a staff member and may need up to 45 minutes. A small group of participants will be complete the forms twice-in clinic and 1 month later at home. Also, a small group who start a new pain treatment or have a dose increase in their treatment will complete the forms twice-before the treatment change and 1 month later.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* SUBJECT INCLUSION CRITERIA:\n* Documented NF1 either by NIH clinical criteria or molecularly-proven mutation in the\n\nNF1 gene, PER the Neurofibromatosis Diagnostic Criteria AND \\>=1 plexiform neurofibroma in any location that is either symptomatic or asymptomatic, and is defined by the following:\n\n1. a neurofibroma that has grown along the length of a nerve and may involve multiple fascicles and branches OR a spinal neurofibroma that involves two or more levels with connection between the levels or extending laterally along the nerve OR a skin thickness neurofibroma;\n2. measures \\>=3 cm on longest diameter by visual exam, palpation or 2D MR imaging OR \\>=3 mL by volumetric MR imaging.\n\n   * For phase 1, Age \\>=5 years. (complete)\n   * For phase 2, Age \\>= 8 years\n   * Ability of subject or parent or guardian to understand and the willingness to sign a written informed consent document.\n   * Participants must be able to understand, read, and speak the English language.\n   * For phase 1 focus groups only, patients need to report experiencing pNF related pain recently with a minimum pain level of 3 on the current NRS-11 or report taking prescription medication that reduces pain and experiencing pNF related pain recently with a minimum pain level of 1 on the current NRS-11. (complete)\n   * For phase 2 patients with pain, patients need to report recently experiencing at least a minimal amount of pNF-related pain. Specifically, they will be asked if they recently experienced any pain in a target tumor area and will have to respond yes to be eligible.\n   * For phase 2 patients without pain, patients need to report no recent pNF-related pain. Specifically, they will be asked if they recently experienced any pain in a target tumor area and will have to respond no to be eligible.\n\nPRIMARY CAREGIVER INCLUSION CRITERIA:\n\n* Primary caregiver (i.e. parent,guardian, grandparent) who is \\>= 18 years old of participating subject \\<= 17 years old\n* Participants must be able to understand, read, and speak the English language\n\nEXCLUSION CRITERIA:\n\n* Patients with severe cognitive or behavior impairments who, in the judgment of the investigators, would not be able to cooperate with the study procedures will be excluded.\n* Patients cannot be newly enrolled on a clinical trial to treat their pNF or cannot have started a new pain treatment regimen (e.g., medication, psychosocial therapy, physical therapy, etc.) at the time of enrollment. Specifically, patients will be ineligible if they were enrolled on a MEK inhibitor trial in the past 12 months or began a new pain\n\nmedication or treatment within the past 3 months prior to enrollment on this study.",
+  "minimum_age": "5 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with documented NF1 either by NIH clinical criteria or molecularly-proven mutation in the NF1 gene will be included in the study. Patients must have at least 1 plexiform neurofibroma (PN) that is at least \\>3cm on physical exam or \\>3mL on volumetric MRI. Patients must be at least 5 years of age and able to understand and speak English.",
+  "condition": [
+    "Neurofibromatosis 1",
+    "Plexiform Neurofibromas"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational study focused on developing and validating patient-reported outcome measures for individuals with NF1 and plexiform neurofibromas. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "The eligibility criteria do not specify any requirements or exclusions based on prior systemic therapy for advanced/metastatic disease. Patients are only excluded if they recently started a new pain treatment or enrolled on a clinical trial for pNF, but there are no restrictions on prior lines of therapy for advanced disease."
+    }
+  ]
+}

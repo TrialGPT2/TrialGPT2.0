@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02846974",
+  "title": "Calibration and Validation of High Quality Low-Cost 3D Printed Pulse Oximeter",
+  "brief_summary": "Pulse oximetry is a vital tool in the rapid and non-invasive assessment of emergency patients, providing a continuous estimate of hemoglobin saturation in arterial blood. Unfortunately, the costs of these devices are prohibitive and reduce availability in smaller centres and poor countries, putting millions of patients in danger of easily treatable and preventable conditions. With current rapid prototyping technologies such as 3D printing, it is possible to create a very inexpensive pulse oximeter that meets or exceeds the gold standard. The goal of this study is to develop, validate and certify a pulse oximeter that measures hemoglobin, carboxyhemoglobin and methemoglobin. This pulse oximeter will be certified with Health Canada, and then released under the Open Hardware License (OHL), such that hospitals and ministries of health in rural and impoverished communities in Canada and internationally would have easy access to these devices.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n\\- This study has 2 Phases. In Phase 1, healthy, non-smoking adult volunteers greater than 18 years of age are invited to participate. In Phase 2, all adult (\\>18) non-critical patients and healthy community volunteers visiting the ED at VH and UH are eligible to participate.\n\nExclusion Criteria:\n\nPotential participants will be excluded based on the following criteria:\n\nPhase 1:\n\n* greater than 70 years of age,\n* current smokers,\n* previous history of cardiac disease (e.g., atrial fibrillation, myocardial infarction, congestive heart failure),\n* history of moderate or severe asthma,\n* history of seizures,\n* history of stroke or transient ischemic attack\n* pregnant women\n* Patients with any active pulmonary disease such as pneumonia\n* Individuals who are unwilling to participate or are less than 18 years old\n* Those who are unable to consent\n\nPhase 2\n\n* Critical patients will be excluded from participating\n* Individuals who are unwilling to participate or are less than 18 years old will be excluded\n* Those who are unable to consent.",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "This study has 2 Phases. In Phase 1, healthy, non-smoking adult volunteers greater than 18 years of age are invited to participate. In Phase 2, all adult (\\>18) non-critical patients and healthy community volunteers visiting the emergency department at Victoria Hospital and University Hospital are eligible to participate.",
+  "condition": [
+    "Pulse Oximetry",
+    "Free and Open Source"
+  ],
+  "overall_status": "UNKNOWN"
+}

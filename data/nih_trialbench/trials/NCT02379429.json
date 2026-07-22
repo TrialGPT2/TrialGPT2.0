@@ -1,0 +1,43 @@
+{
+  "nctid": "NCT02379429",
+  "title": "Care of the Urothelial Cancer Patient and Prospective Procurement of Urothelial Cancer Tissue",
+  "brief_summary": "Background:\n\nUrothelial cancer is cancer of the bladder, ureter, and urethra. Researchers want to better understand what changes in a person s cells and genes cause this cancer to form. This may help them find new ways to treat it.\n\nObjective:\n\n\\- To perform DNA sequencing to help researchers learn the differences between normal tissue and tumor tissue. Also, to learn how molecular changes - including gene changes - might help predict the course of disease and how people respond to therapy.\n\nEligibility:\n\n\\- Adults age 18 and older who have or are suspected of having urothelial cancer or an inherited disorder that raises their risk of getting bladder cancer.\n\nDesign:\n\n* Participants will be screened with a physical exam. Their medical records and tissue samples will be reviewed.\n* Eligible participants will give tissue blocks of their original tumor. The blocks will be put in a tissue bank.\n* Participants medical records may be reviewed.\n* Participants may have a medical history and physical exam.\n* Participants may have blood and urine tests. They may have imaging scans. They may give urine, blood, and saliva samples. These samples may be used in future research.\n* If participants need surgery for their cancer, researchers will keep some of the tissue (both tumor and normal tissue). The tissue may be used in future research.\n* Participants will go back to the Clinical Center in 6 months. They may give saliva, urine, and blood samples. After 6 months, they will be seen by their local doctor for standard post-surgical visits.\n* Participants will be called every 6 months to give health updates.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA FOR UROTHELIAL CANCER PARTICIPANTS:\n* Adults (\\>= 18 years of age) with biopsy-proven or suspected urothelial cancer who require and are willing to undergo diagnostic or therapeutic intervention as part of their diagnosis, standard of care treatment, or follow-up/surveillance for their neoplasm.\n* ECOG performance status of 0-3.\n* Must be willing and able to provide informed consent.\n\nEXCLUSION CRITERIA:\n\n* Subjects who are pregnant.\n* Subjects co-morbidities preclude diagnostic or therapeutic intervention. Co-morbidities include:\n\n  --Ongoing treatment for another non-skin malignancy.\n* History of hepatitis B/C or HIV. Patients who are HIV positive are excluded from this study because treatment with immunomodulatory agents for immunosuppressed patients would affect sample analysis and skew the data.\n\nELIGIBILITY CRITERIA FOR HEALTHY VOLUNTEERS\n\nINCLUSION CRITERIA:\n\n-Adults (greater than or equal to 18 years of age) and able to give informed consent.\n\nEXCLUSION CRITERIA:\n\n* Subjects who are pregnant.\n* Diagnosis of cancer requiring treatment other than minor resection of basal cell or squamous cell skin cancers.\n* Heart, lung, kidney disease, or other medical conditions as per Principal Investigator discretion.\n* History of acute or chronic hepatitis B/C or HIV infection. Patients who are HIV positive are excluded from this study because treatment with immunomodulatory agents for immunosuppressed patients would affect sample analysis and skew the data.\n* Healthy volunteers who are family members with germline mutations.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Two different groups of population: 1. Adults age 18 and older who have or are suspected of having urothelial cancer or an inherited disorder that raises their risk of getting bladder cancer 2. Healthy volunteers (18 and older),the specimens will provide appropriate controls for comparison.",
+  "condition": [
+    "Bladder Cancer",
+    "Urinary Tract Cancer",
+    "Urothelial Cancer",
+    "Healthy Volunteers"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational tissue procurement study enrolling adults with urothelial cancer at any stage, regardless of prior therapy, as well as healthy volunteers. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Urothelial Cancer Participants",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes adults with biopsy-proven or suspected urothelial cancer who require diagnostic or therapeutic intervention as part of their diagnosis, standard of care treatment, or follow-up. There are no restrictions on prior systemic therapy for advanced disease, and patients who have only received adjuvant or neoadjuvant therapy are eligible."
+    },
+    {
+      "cohort_label": "Healthy Volunteers",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Healthy volunteers must not have a diagnosis of cancer requiring treatment (other than minor skin cancers) and are not cancer patients. Line-of-therapy fields are not applicable."
+    }
+  ]
+}

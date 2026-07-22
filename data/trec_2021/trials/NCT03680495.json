@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT03680495",
+  "title": "Steroid Resistance During COPD Exacerbations With Respiratory Failure",
+  "brief_summary": "Chronic obstructive pulmonary disease (COPD) is a lung disease caused by cigarette smoke that affects millions of people. In the United States, COPD is the 3rd leading cause of death making it one of our most important public health problems. Some people with COPD get disease flares that are called acute exacerbations of COPD - or AECOPDs for short. When people get an AECOPD they experience increased shortness of breath, wheezing and cough; symptoms that often require urgent or emergent treatment by healthcare providers. In the most severe, life-threatening situations, people with AECOPDs are put on a ventilator in the emergency department and admitted to the intensive care unit. Most AECOPDs can be treated with low doses of medications called steroids. This is good because high doses of steroids can cause unwanted side effects. Unfortunately, recent studies suggest that the sickest people, those admitted to the intensive care unit needing ventilator support, need higher doses of steroids because they may have resistance to these important medications. The investigators are studying steroid resistance during very severe AECOPDs so that we can eventually develop better and safer therapies for these vulnerable people.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria for AECOPD with Ventilatory Failure Cohort:\n\n* Emergency Department (ED) or ICU physician diagnosis of an acute exacerbation of COPD\n* Age \u2265 40 years of age\n* Need for ventilator support in the ED or ICU during the first 24 hours\n\nInclusion Criteria for Stable COPD Cohort:\n\n* Physician diagnosis of COPD\n* Age \u2265 40 years of age\n* Frequency matched to AECOPD subjects for:\n\n  * Age (\u00b1 10 year increments)\n  * Current/Former smoking status (former smoker = no smoking for \u2265 1 month)\n  * Lung function (FEV1% predicted by \u00b1 10% increments)\n\nExclusion Criteria for AECOPD with Ventilatory Failure Cohort:\n\n* Systemic steroid use \u2264 30 days prior to return visit\n* Infection requiring antibiotics \u2264 1 month prior to return visit\n* Hemoglobin \\< 8.0 g/dl\n* Acute pulmonary embolism\n* Diabetes\n* History of immunodeficiency, interstitial lung disease, neuromuscular disorder or heart failure with respiratory exacerbation\n* Tracheostomy\n* Drugs that induce cytochrome P450 3A enzyme activity (e.g. barbiturates, phenytoin or carbamazepine) or drugs that inhibit cytochrome P450 3A activity (e.g. ketoconazole and chronic macrolide antibiotics)\n* Age \u2265 90 year of age\n* Known pregnancy\n* Nursing mothers\n* Prisoners\n\nExclusion Criteria for Stable COPD Cohort:\n\n* Systemic steroid use \u2264 30 days prior to return visit\n* Infection requiring antibiotics \u2264 1 month prior to return visit\n* Hemoglobin \\< 8.0 g/dl\n* Acute pulmonary embolism\n* Diabetes\n* History of immunodeficiency, interstitial lung disease, neuromuscular disorder or heart failure with respiratory exacerbation\n* Tracheostomy\n* Drugs that induce cytochrome P450 3A enzyme activity (e.g. barbiturates, phenytoin or carbamazepine) or drugs that inhibit cytochrome P450 3A activity (e.g. ketoconazole and chronic macrolide antibiotics)\n* Age \u2265 90 year of age\n* Known pregnancy\n* Nursing mothers\n* Prisoners",
+  "minimum_age": "40 Years",
+  "maximum_age": "89 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The AECOPD Cohort will be selected from University of Colorado Hospital inpatient units during an exacerbation of their COPD requiring respiratory failure.\n\nThe COPD Cohort will be selected from the pulmonary clinics at the University of Colorado Hospital.",
+  "condition": [
+    "COPD",
+    "Emphysema or COPD",
+    "COPD Exacerbation",
+    "COPD Exacerbation Acute",
+    "Respiratory Failure",
+    "Ventilatory Failure"
+  ],
+  "overall_status": "UNKNOWN"
+}

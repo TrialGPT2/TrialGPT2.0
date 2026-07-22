@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04124237",
+  "title": "Long Term Monitoring for Risk of Sudden Death",
+  "brief_summary": "Risk prediction in in inherited heart rhythm conditions that may cause sudden cardiac arrest or death is difficult. Sometimes the risks may be low but the loss of life in an otherwise healthy young individual is catastrophic. Clinicians often treat to the extreme to prevent this and so often those at unknown risk for a serious cardiac event are treated with an implanted cardioverter defibrillator (ICD) to protect against sudden death even though the risk is low or unknown. ICDs them selves are not without adverse events such as needing battery replacements, mechanical complications, inappropriate shocks and body image and self esteem issues for the patient. This study will use an inject able monitor that is less invasive to monitor inherited heart rhythm patients long term to help gather long term heart rhythm data (3 years) on patients with an inherited heart rhythm that will help to detect symptoms of dangerous heart rhythms so that the appropriate care can be provided.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Inherited Heart Rhythm (IHR) patient with breakthrough symptoms on best medical care that does not warrant an ICD, or patient declines ICD:\n\n   * Syncope or seizure that is suspected to be arrhythmic in nature with a Brugada pattern on ECG\n   * Long QT syndrome (LQTS)or Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) on beta blocker\n   * Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC) with at least 2 minor or 1 major 2010 task force criteria,\n\n     * must be more than isolated disease causing gene positive\n2. Asymptomatic IHR patient with extreme phenotype, does not warrant an ICD\n\n   * spontaneous persistent type 1 Brugada pattern\n   * macroscopic T wave alternates on resting ECG, Holter monitor or exercise test (especially Long QTS)\n   * QTc \\> 500 msec in LQTS, other than LQT1\n   * persistent asymptomatic bidirectional couplets or non-sustained PMVT in CPVT with exercise on therapy (including beta blocker and flecainide)\n   * definite ARVC with some high risk feature (first degree relative with SCD, couplets or nsVT on Holter)\n3. Double mutation carrier IAC patient (at least one definite and one probable disease causing)\n4. Patient with class 1 indication for ICD who declines it (patient or parent declines, example: young patient with cardiac arrest)\n5. High-risk Cardiac arrest survivors with preserved ejection fraction (CASPER) unexplained cardiac arrest (UCA) patients and family members, defined as 2 or more of 1) previous syncope suspected to be arrhythmic 2) exercise recovery QTc \u2265455 msec 3) epinephrine 0.10 \u03bcg/kg/min \u0394 QT \u226530 msec 4) Valt\\>0, k\\>3during Holter9 5) QTVI \\>95th %ile (\\>-1) on Holter9.\n6. High-risk patient not otherwise described above presented to an adjudication Committee with \u226575% consensus of risk.\n7. Willing signed informed consent form\n8. Ages 2 and over may participate (pediatric cases will be considered in Pediatric Centres only after the first 10 pilot cases are completed and reviewed by the DSMB Specialized pediatric procedures will be in developed by the pediatric clinicians)\n\nExclusion Criteria:\n\n1. Unable or unwilling to give informed consent\n2. ICD or pacemaker in place or considered preferable by the treating physician and/or patient/parent.",
+  "minimum_age": "2 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Risk stratification is challenging in latent genetically mediated sudden death syndromes, where the absolute risks are low but the loss of life is catastrophic in otherwise well young individuals. Countering this is the manifest drawbacks of liberal use of Implantable Cardioverter Defibrillator (ICDs) in this population, who may suffer harm from the limitations of ICDs with respect to repeated generator changes, lead/mechanical complications, non-target shocks and issues with body image and self esteem. This balance is struck with patients and clinicians in the inherited arrhythmia clinics daily.",
+  "condition": [
+    "Inherited Cardiac Arrhythmias",
+    "Long QT Syndrome",
+    "Arrhythmogenic Right Ventricular Cardiomyopathy",
+    "Brugada Syndrome",
+    "Catecholaminergic Polymorphic Ventricular Tachycardia"
+  ],
+  "overall_status": "COMPLETED"
+}

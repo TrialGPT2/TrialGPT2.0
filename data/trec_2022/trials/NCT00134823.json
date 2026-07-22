@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT00134823",
+  "title": "Improving Pediatric Safety and Quality With Health Care Information Technology",
+  "brief_summary": "This study includes four projects aimed to improve the quality and safety of pediatric care through the implementation of four clinical decision support services in the electronic health record (EHR). The four projects will measure the effect of each clinical decision support feature including: weight-based dosing; smart forms for chronic conditions; guideline reminders; and a results manager to track abnormal lab result follow-up.\n\nHypothesis: Implementation of the clinical decision support features will decrease medication errors and adverse drug events, assist physicians in adhering to clinical practice guidelines and protocols for certain chronic illnesses, improve physician follow-up for abnormal lab results, and overall improve the safety and quality of pediatric clinical practice.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* Partners-affiliated pediatric practice providers utilizing Longitudinal Medical Record (LMR), which is an electronic health record system. Also the parents of the patients of the above noted pediatric providers.\n\nExclusion Criteria:\n\n* Non-Partners providers, or Partners providers who do not use LMR. Parents of patients not seen by Partners-affiliated pediatric providers who use LMR.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Medication Errors",
+    "Medical Records Systems, Computerized",
+    "Patient Safety",
+    "Quality Improvement"
+  ],
+  "overall_status": "COMPLETED"
+}

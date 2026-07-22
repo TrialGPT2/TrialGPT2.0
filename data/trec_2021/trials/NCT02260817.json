@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02260817",
+  "title": "Expanded Access to Diagnostic Imaging for Staging of Recurrent Prostate Cancer",
+  "brief_summary": "This Phase 3 study will target approximately 100 men over age 18 who have a biochemical relapse or other evidence of relapse of prostate cancer after primary treatment.\n\nThe purpose of this study is to:\n\nA. Provide expanded access the drug 11C-choline.\n\nB. Determine the performance characteristics (sensitivity, specificity, positive predictive value, negative predictive value) of 11C-choline PET/Computed Tomography (CT) and PET/Magnetic Resonance Imaging (MRI) in the detection of metastatic prostate cancer in patients with biochemical relapse of prostate cancer after primary treatment in a prospective manner.\n\nC. Determine the optimal Prostate-Specific Antigen (PSA) trigger value in 11C-choline PET/CT and PET/MRI positive patients through a prospective study.\n\nD. Determine factors that predict a confirmed positive 11C-choline PET/CT and PET/MRI using a multivariable analysis of clinical and pathologic data collected prospectively.\n\nE. Compare the individual performance characteristics of 11C-choline PET/CT and 11C-choline PET/MRI and the combination of 11C-choline PET/CT and PET/MRI\n\nStudy Protocol:\n\n1. Patients entered into the study will undergo a 11C-choline PET CT scan and MRI scan.\n2. The CT and MRI images will be evaluated for evidence of metastatic prostate cancer.\n3. The 11C-choline PET CT and MRI images will be evaluated for evidence of metastatic prostate cancer.\n4. Evidence of metastasis on conventional imaging or 11C-choline PET will be confirmed with biopsy or surgical pathology when possible, or by response to treatment on subsequent imaging.\n5. Rates of confirmed metastasis between conventional CT and MRI images will be compared with the 11C-choline PET CT and MRI images.\n6. Upon conclusion of each imaging protocol, the referring physician will receive written documentation of the results. At this time, the patient will be considered off study and no further follow up is required.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n1. For biochemical relapse after primary treatment\n\n   1. PSA \\> 0.2 ng/ml after radical prostatectomy confirmed at that level or higher on a subsequent test 3 months later\n   2. PSA increase \\>2 ng/ml from nadir following radiation therapy\n   3. PSA increase \\>2 ng/ml from nadir following radiation therapy plus androgen deprivation therapy with nadir defined with normalized testosterone level\n   4. Two consecutive PSA increases from nadir level after androgen blockade or androgen suppression therapy\n2. Kidney function with GFR \\> 60 mL/sec/1.73m2 and Creatinine \\< 1.7mg, collected within 90 days of planned scan\n\n   1. if GFR is \\> or equal to 60 mL/sec/1.73m2, PET/CT will be completed with contrast\n   2. if GFR is \\< 60 mL/sec/1.73m2, PET/CT will be completed without contrast\n   3. if Creatinine is \\> than 1.7 mg, Radiology will follow ACR recommendations as outlined in department policy.\n3. No known allergy to iodinated radiologic contrast media\n4. Able to have MRI based on screening evaluation. If patient is found to be MRI incompatible, the 11C-choline PET/MRI portion of the study will not be completed. Please see the provided contact numbers for further options.\n5. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0, 1, or 2\n\nExclusion Criteria:\n\n1. ECOG Performance Status \\> 2.\n2. Concurrent malignancy, i.e. colon cancer.\n3. Treatment for another malignancy except superficial skin cancer within 5 years",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Metastatic Prostate Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

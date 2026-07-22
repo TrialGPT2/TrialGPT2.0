@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03885570",
+  "title": "Blood Transfusion Management in Patients With Mitral Valve Replacement in China",
+  "brief_summary": "The evaluation uses \u0394Hb as an independent factor combined with artificial intelligence (AI) to predict its impact on the prognosis and blood transfusion of patients undergoing cardiac surgery, thereby guiding perioperative clinical blood use and improving patient prognosis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Patients undergoing \"mitral valve replacement\" surgery;\n2. Age 18-75 years old;\n3. 48h biochemical indicators before surgery, blood general indicators, coagulation indicators are complete.\n\nExclusion Criteria:\n\n1. Lack of necessary tests and patient test information is not detailed, blood transfusion information is not detailed;\n2. The blood transfusion information is not detailed in the same period as other cardiac operations (such as aortic valve surgery, coronary artery bypass grafting, etc.), but the tricuspid valvuloplasty is not ruled out at the same time;\n3. Heart surgery or emergency surgery again.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with \"mitral valve replacement\" surgery who meet the standard in China, 18\\<Age\\<75.",
+  "condition": [
+    "Mitral Valve Replacement",
+    "Transfusion Reaction",
+    "Blood Transfusion Complication"
+  ],
+  "overall_status": "UNKNOWN"
+}

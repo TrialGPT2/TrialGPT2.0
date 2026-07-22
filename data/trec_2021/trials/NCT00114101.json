@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT00114101",
+  "title": "Lenalidomide in Treating Patients With Multiple Myeloma Undergoing Autologous Stem Cell Transplant",
+  "brief_summary": "This randomized phase III trial studies lenalidomide to see how well it works compared to a placebo in treating patients with multiple myeloma who are undergoing autologous stem cell transplant. Giving chemotherapy before a peripheral blood stem cell transplant helps kill any cancer cells that are in the body and helps make room in the patient's bone marrow for new blood-forming cells (stem cells) to grow. After treatment, stem cells are collected from the patient's blood and stored. More chemotherapy is then given to prepare the bone marrow for the stem cell transplant. The stem cells are then returned to the patient to replace the blood-forming cells that were destroyed by the chemotherapy. Biological therapies, such as lenalidomide, may stimulate or suppress the immune system in different ways and stop cancer cells from growing. Giving lenalidomide after autologous stem cell transplant may be an effective treatment for multiple myeloma.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients must have active multiple myeloma requiring treatment (Durie-Salmon stage \\>= 1) and have stable disease or be responsive to at least 2 months of any induction therapy; patients with smoldering myeloma are not eligible unless the disease has progressed to \\>= stage 1\n* No more than 12 months of any prior therapy, including CC-5013 and thalidomide\n* Within 12 months of initiation of induction therapy\n* No prior progression after initial therapy; in addition, no more than two regimens will be allowed excluding dexamethasone alone\n* No prior peripheral blood, bone marrow, or solid organ transplant\n* Patients must have peripheral blood stem cell collection of \\>= 2 x 10\\^6 cluster of differentiation (CD)34+ cells/kg (patient body weight) and preferably 5 x 10\\^6 cells/kg (patient body weight); stem cells may be collected at any time prior to transplant; peripheral blood stem cell collection may occur before or after registration\n* Patients must have Eastern Cooperative Oncology Group (ECOG) performance status of 0-1\n* Patients must have diffusing capacity of the lung for carbon monoxide (DLCO) \\> 50% predicted with no symptomatic pulmonary disease\n* Patients must have left ventricular ejection fraction (LVEF) \\>= 40% by multi gated acquisition scan (MUGA) or echocardiogram\n* Patients must not have uncontrolled diabetes mellitus\n* Patients must not have an active serious infection\n* Patients must not be human immunodeficiency virus (HIV), hepatitis B surface antigen (HBSag), or hepatitis (Hep) C positive\n* Patients must be non-pregnant and non-nursing; women of childbearing potential must have a negative serum or urine pregnancy test with a sensitivity of at least 25 mIU/mL 10-14 days prior to registration and repeated within 24 hours prior to the first dose of lenalidomide; in addition, women of childbearing potential taking lenalidomide must have a pregnancy test performed by the doctor weekly during the first 4 weeks of treatment, and then every 4 weeks if menses are regular and every 2 weeks if menses are irregular, and then 30 days following the last dose of lenalidomide; women of childbearing potential must either commit to continued abstinence from heterosexual intercourse or begin two acceptable methods of birth control - one highly effective method (intrauterine device \\[IUD\\], hormonal, tubal ligation, or partner's vasectomy), and one additional effective method (latex condom, diaphragm, or cervical cap) - at the same time, at least 4 weeks before she begins lenalidomide therapy; \"women of childbearing\" potential is defined as a sexually mature woman who has not undergone a hysterectomy or who has had menses at any time in the preceding 24 consecutive months; men must agree not to father a child and must use a latex condom during any sexual contact with women of childbearing potential while taking lenalidomide and for 4 weeks after therapy is stopped, even if they have undergone a successful vasectomy\n* Absolute neutrophil count (ANC) \\>= 1000/uL\n* Platelets \\>= 100,000/uL\n* Creatinine clearance\\* \\>= 40 cc/min\n\n  * To be calculated by method of Cockcroft-Gault or after 24-hour urine collection\n* Creatinine =\\< 2 mg/dL\n* Total bilirubin =\\< 2 mg/dL\n* Aspartate aminotransferase (AST) =\\< 3 x upper limits of normal\n* Alkaline phosphatase =\\< 3 x upper limits of normal\n* Urine (U)-human chorionic gonadotropin (HCG) or serum HCG negative (if patient of childbearing potential)",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "DS Stage I Multiple Myeloma",
+    "DS Stage II Multiple Myeloma",
+    "DS Stage III Multiple Myeloma",
+    "Refractory Multiple Myeloma",
+    "Smoldering Multiple Myeloma"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT00001823",
+  "title": "Evaluation for NCI Surgery Branch Clinical Research Protocols",
+  "brief_summary": "Background:\n\nThe National Cancer Institute Surgery Branch (NCI-SB) has developed experimental therapies that involve taking white blood cells from patients' tumor or from their blood, growing them in the laboratory in large numbers, and then giving the cells back to the patient.\n\nObjective:\n\nThis study will allow patients to under screening and evaluation for participation in NC-SB Protocols.\n\nEligibility:\n\nPatients 18 years or older must meet the minimum eligibility criteria for an NCI-SB treatment protocol.\n\nDesign\n\nPatients will undergo testing and evaluations as required by the appropriate NCI-SB treatment protocol.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAge \\>= 18 years.\n\nPatient suspected of having, or with biopsy proven, malignant disease.\n\nPatient is able to understand and willing to sign a written informed consent document.\n\nPatient is being evaluated for treatment on an NCI-SB protocols.\n\nEXCLUSION CRITERIA:\n\nWomen of child-bearing potential who are pregnant or plan to become pregnant because of the potentially dangerous effects of some of the screening procedures (e.g., nuclear medicine or other imaging scans) on the fetus.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients suspected of having, or with biopsy proven, malignant disease.",
+  "condition": [
+    "Synovial Cell Cancer",
+    "Melanoma",
+    "Colorectal Cancer",
+    "Lung Cancer",
+    "Bladder Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a screening and evaluation protocol for patients being considered for participation in NCI Surgery Branch treatment protocols. There are no specific line-of-therapy requirements or restrictions defined in this protocol itself.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The protocol does not specify any requirements regarding prior lines of systemic therapy for advanced disease. Eligibility is based on meeting the criteria for a future NCI-SB treatment protocol, which may have its own line-of-therapy requirements."
+    }
+  ]
+}

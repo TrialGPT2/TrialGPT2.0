@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03658759",
+  "title": "Rapid Response VA-ECMO in Refractory Out-of-hospital Cardiac Arrest",
+  "brief_summary": "A selected group of patients with refractory cardiac arrest may benefit from inhospital treatment and this may warrant transfer to the hospital with ongoing CPR. In patients with VF or ventricular tachycardia (VT) the underlying cause may be reversible and damage to other organs is limited at the time of the arrest. Many patients will have a coronary event that can be treated by angioplasty. However, up to now absence of ROSC poses a barrier for angioplasty, and most patients are therefore not even transported to a hospital. With the use of extra corporeal membrane oxygenation (ECMO) the circulation can be restored immediately, providing time to diagnose and treat the underlying cause of the cardiac arrest. International cohort studies show that a strategy of pre-hospital triage and transport to a cardiac arrest expertise center for \"rapid-response\" ECMO and coronary revascularization is feasible and improves survival.\n\nA clinical pathway will encompass intense cooperation and optimal logistics between several paramedical and medical disciplines, i.e. from prehospital ambulance service to intensive care. Incorporation of mechanical chest compressions devices (LUCAS\u2122), rapid-response veno-arterial (VA-)ECMO (Cardiohelp, Maquet), and ECMO assisted revascularization in a dedicated clinical pathway will offer a potential lifesaving treatment option that is in accordance with the recommendations in the current Guidelines.\n\nThe aim of the study is to investigate the feasibility of a new local clinical pathway in our hospital to provide ECPR for refractory OHCA patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Witnessed arrest\n* Bystander CPR initiated before EMS arrival or EMS-witnessed arrest\n* VF/VT as first recorded rhythm by EMS or shock delivered by AED\n* No ROSC within 10 minutes after EMS arrival\n* Ambulance transport with mechanical chest compression device\n\nExclusion Criteria:\n\n* Confirmation of ROSC\n* End-tidal CO2 \\< 10 mmHg\n* Known terminal disease (eg. cancer)\n* Known severe comorbidity\n\n  * Severe chronic pulmonary disease (GOLD classification 3 or 4)\n  * Heart failure NYHA classification 3 or 4\n  * Known history of bifemoral surgery\n* Do Not Resuscitate (DNR) order\n* Expected time from transport decision to start ECMO \\>60 minute",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with refractory OHCA due to VF/VT, witnessed cardiac arrest and basic life support before EMS arrival.",
+  "condition": [
+    "Out-Of-Hospital Cardiac Arrest"
+  ],
+  "overall_status": "WITHDRAWN"
+}

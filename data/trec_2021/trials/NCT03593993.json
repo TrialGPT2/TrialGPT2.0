@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03593993",
+  "title": "A Biospecimen Collection Study in BRAF-V600E Mutated Recurrent Gliomas",
+  "brief_summary": "This is a surgical biospecimen collection study. The purpose of this study is to understand how much of two drugs (dabrafenib and trametinib) are able to penetrate brain tumors and turn off the RAF signaling pathway. This is important because these drugs are currently FDA approved for other tumors and may have efficacy in brain tumors with the BRAF V600E mutation.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Subjects must have a history of primary brain tumor (including but not limited to glioblastoma (GBM), anaplastic astrocytoma (AA), anaplastic ganglioglioma (AG), and anaplastic pleomorphic xanthoastrocytoma (PXA)).\n* Subjects must have a BRAF-V600 mutation identified in previous tissue analysis (may be IHC or PCR based). Allowable mutations include V600E, V600K, V600R, and V600D.\n* Subjects must be taking dabrafenib at a dose of at least 50mg twice daily (adults only) and / or trametinib at a dose of at least 1mg daily (adults only) for at least 7 days prior to surgery as prescribed by their treating physician. Note: Pediatric patients may be taking any dose of dabrafenib and / or trametinib as prescribed by their treating physician for at least 7 days prior to surgery.\n* Subjects must be undergoing surgery for clinical purposes.\n* Written informed consent - a signed informed consent and/or assent (as age appropriate) for study participation will be obtained according to institutional guidelines.\n\nExclusion Criteria:\n\n* Subjects who are receiving any other investigational agents or chemotherapeutic agents.\n* Subjects for whom collection of blood, spinal fluid, or tissue samples is unsafe or clinically inadvisable.",
+  "minimum_age": "6 Weeks",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with primary brain tumors who are taking dabrafenib and/or trametinib and are going to have a surgical resection.",
+  "condition": [
+    "Glioma",
+    "BRAF V600E",
+    "Pleomorphic Xantho-Astrocytoma",
+    "Glioblastoma"
+  ],
+  "overall_status": "TERMINATED"
+}

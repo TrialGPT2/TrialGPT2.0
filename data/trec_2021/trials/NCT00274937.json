@@ -1,0 +1,30 @@
+{
+  "nctid": "NCT00274937",
+  "title": "Radiation Therapy, Amifostine, and Chemotherapy in Treating Young Patients With Newly Diagnosed Nasopharyngeal Cancer",
+  "brief_summary": "This phase III trial is studying how well radiation therapy, amifostine, and chemotherapy work in treating young patients with newly diagnosed nasopharyngeal cancer. Radiation therapy uses high-energy x-rays to kill tumor cells. Drugs, such as amifostine, may protect normal cells from the side effects of radiation therapy. Drugs used in chemotherapy, such as cisplatin and fluorouracil, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving radiation therapy together with amifostine and chemotherapy may kill more tumor cells.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Histological diagnosis of nasopharyngeal carcinoma WHO type II or III\n\n  * Stage I-IV disease\n  * Newly diagnosed disease\n* Performance status\n\n  * Patients \u2264 16 years of age: Lansky 60-100%\n  * Patients \\> 16 years of age: Karnofsky 60-100%\n* Creatinine clearance or radioisotope glomerular filtration rate \u2265 70 mL/min\n* Creatinine based on age/gender as follows:\n\n  * No greater than 0.4 mg/dL (for patients 1 month to \\< 6 months of age)\n  * No greater than 0.5 mg/dL (for patients 6 months to \\< 1 year of age)\n  * No greater than 0.6 mg/dL (for patients 1-2 years of age)\n  * No greater than 0.8 mg/dL (for patients \\< 6 years of age)\n  * No greater than 1.0mg/dL (for patients 6 to \\< 10 years of age)\n  * No greater than 1.2 mg/dL (for patients 10 to \\< 13 years of age)\n  * No greater than 1.4 mg/dL (for female patients 13 to \u2265 16 years of age)\n  * No greater than 1.5 mg/dL (for male patients 13 to \\< 16 years of age)\n  * No greater than 1.7 mg/dL (for male patients \u2265 16 years of age)\n* Bilirubin \u2264 1.5 times upper limit of normal (ULN) for age\n* AST or ALT \\< 2.5 times ULN for age\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No prior chemotherapy or radiotherapy to the nasopharynx or neck for the treatment of nasopharyngeal carcinoma",
+  "minimum_age": "",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stage I Nasopharyngeal Keratinizing Squamous Cell Carcinoma AJCC v7",
+    "Stage I Nasopharyngeal Undifferentiated Carcinoma AJCC v7",
+    "Stage II Nasopharyngeal Keratinizing Squamous Cell Carcinoma AJCC v7",
+    "Stage II Nasopharyngeal Undifferentiated Carcinoma AJCC v7",
+    "Stage III Nasopharyngeal Keratinizing Squamous Cell Carcinoma AJCC v7",
+    "Stage III Nasopharyngeal Undifferentiated Carcinoma AJCC v7",
+    "Stage IV Nasopharyngeal Keratinizing Squamous Cell Carcinoma AJCC v7",
+    "Stage IV Nasopharyngeal Undifferentiated Carcinoma AJCC v7"
+  ],
+  "overall_status": "COMPLETED"
+}

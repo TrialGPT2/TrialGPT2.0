@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02881333",
+  "title": "Various Type of Genetic Events in Patients With Intellectual Disability",
+  "brief_summary": "Currently, for a patient with intellectual disability without a recognizable syndrome (most cases), the way to diagnosis is often long, tedious and expensive because different approaches are used one after the other to identify structural variants (duplications, deletions and other) and point mutations (sequencing of one or more candidate genes). The development of high-throughput sequencing techniques (next generation sequencing: NGS) has drastically increased the detection of point mutations offering the possibility to test a large number of genes simultaneously. NGS also shows a huge potential in detecting structural variants. The objective of this research is to assess the sensitivity of a simultaneous detection of point mutations and structural variants by NGS approaches. This would bring together in a single step the equivalent of performing an array-Comparative genomic hybridization (CGH) analysis plus performing a targeted sequencing of candidate genes. Investigators will compare two approaches for this simultaneous detection: a targeted enrichment of candidate genes coding regions using probes covering these regions associated with a backbone of genomic probes, an approach that could be implemented immediately in diagnostic at the hospital, and a whole genome sequencing (WGS), that is currently a too expensive tool for routine diagnosis but that should be the approach used in the future. Investigators will compare these two approaches to the traditional one: CGH array + WGS. The implementation of a \"one step\" strategy to detect both types of mutations (punctual and structural) would accelerate and improve the access of patients to a molecular diagnosis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with developmental disabilities\n* No etiologic diagnosis but suspected genetic cause\n* Fragile X syndrome research negative\n\nExclusion Criteria:\n\n* Children born to consanguineous couples\n* Diagnosis already established or suspected\n* Identification of an independent etiology",
+  "minimum_age": "3 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients with intellectual deficit without diagnosis",
+  "condition": [
+    "Intellectual Disability"
+  ],
+  "overall_status": "UNKNOWN"
+}

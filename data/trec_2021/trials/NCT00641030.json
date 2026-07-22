@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00641030",
+  "title": "Clofarabine and High-Dose Melphalan Followed by Donor Stem Cell Transplant in Patients With Acute Myeloid Leukemia, Acute Lymphocytic Leukemia, or Myelodysplastic Syndromes",
+  "brief_summary": "RATIONALE: Giving chemotherapy, such as clofarabine and melphalan, before a donor stem cell transplant helps stop the growth of cancer or abnormal cells. It also helps stop the patient's immune system from rejecting the donor's stem cells. When the healthy stem cells from a donor are infused into the patient, they may help the patient's bone marrow make stem cells, red blood cells, white blood cells, and platelets. Sometimes the transplanted cells from a donor can make an immune response against the body's normal cells. Giving cyclosporine and mycophenolate mofetil after the transplant may stop this from happening.\n\nPURPOSE: This phase I trial is studying the side effects and best dose of clofarabine when given together with high-dose melphalan followed by a donor stem cell transplant in treating patients with acute myeloid leukemia, acute lymphocytic leukemia, or myelodysplastic syndromes.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of one of the following:\n\n  * Acute myeloid leukemia\n  * Acute lymphocytic leukemia\n  * Myelodysplastic syndromes\n* Disease meets 1 of the following criteria:\n\n  * In first complete remission (CR)\n  * In second CR\n  * In relapse\n* No more than 50% blasts in bone marrow\n* Not deemed eligible for standard transplantation regimens by the attending physician, or at high risk for relapse\n* No suspected or proven CNS leukemia\n* HLA-matched (6/6) sibling donor available\n\nPATIENT CHARACTERISTICS:\n\n* Karnofsky performance status 50-100%\n* Glomerular filtration rate (pediatric patients) or creatinine clearance \u2265 60 mL/min OR serum creatinine \\< 1.5 times upper limit of normal (ULN)\n* Serum bilirubin \u2264 2.0 mg/dL\n* AST and ALT \u2264 2.5 times ULN\n* LVEF \u2265 50% by ECHO or MUGA scan\n* DLCO or FEV\\_1 \u2265 40% predicted\n* Not pregnant\n* Negative pregnancy test\n* No concurrent uncontrolled illness including, but not limited to, any of the following:\n\n  * Ongoing, active, or poorly controlled infection\n  * Symptomatic congestive heart failure\n  * Unstable angina pectoris\n  * Cardiac arrhythmia\n  * Poorly controlled pulmonary disease\n  * Psychiatric illness/social situation that would limit compliance with study requirement\n* No active cytomegalovirus (CMV) or fungal disease\n* HIV negative\n\nPRIOR CONCURRENT THERAPY:\n\n* Recovered from prior intensive chemotherapy (pediatric patients)\n* At least 100 days since prior autologous stem cell transplantation\n* At least 100 days since prior radiotherapy administered as part of a transplantation conditioning regimen\n* At least 4 weeks since prior chemotherapy\n* At least 24 hours since prior hydroxyurea for blast count control",
+  "minimum_age": "1 Year",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Leukemia",
+    "Myelodysplastic Syndromes"
+  ],
+  "overall_status": "COMPLETED"
+}

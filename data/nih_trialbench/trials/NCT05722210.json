@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT05722210",
+  "title": "Prevalence and Development of Liver Dysfunction in Hematopoietic Stem Cell Transplant",
+  "brief_summary": "Background:\n\nHematopoietic stem cell transplant (HSCT) is a common treatment for many cancers and other illnesses. But many people who have HSCT go on to develop liver dysfunction. Researchers want to know more about how and why this happens. In this natural history study, they will try to learn what factors lead to liver dysfunction; how underlying liver disease may affect the results of HSCT; and how HSCT may contribute to liver dysfunction.\n\nObjective:\n\nTo understand the links between HSCT and liver dysfunction.\n\nEligibility:\n\nAdults aged 18 years or older and children 3 to 17 years who are being evaluated for HSCT.\n\nDesign:\n\nThis study involves 11 visits in 4 years. Most visits will be in the first year.\n\nBefore and after their HSCT, participants will undergo these tests:\n\nPhysical exam, including blood tests and a test of heart function. Participants will provide stool samples.\n\nLiver biopsies. Samples of liver tissue will be removed. This may be done either by inserting a needle through the right side of the chest, or with a thin tube threaded to the liver from a vein in the neck. Adult participants will undergo this procedure 2 times: once before the HSCT and once about a year later.\n\nImaging scans. Participants will lie on a bed that moves into either a cylinder or a donut-shaped machine.\n\nUltrasound. Participants will lie still. A probe that uses sound waves will be slid over their skin to get pictures of the liver.\n\nFibroscan exam. This is like an ultrasound that uses a special probe to measure the toughness of the liver.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be included in this study:\n\n* Male and female adults \\>=18 years of age and children 3-17 years of age\n* Undergoing evaluation for hematopoietic stem cell transplant at the NIH Clinical Center\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this\n\nstudy:\n\n* Pregnancy or lactation\n* Unable to comply with study procedures\n* Inability to provide written informed consent",
+  "minimum_age": "3 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "male and female subjects: adults 18 years of age and older, children 3-17 years of age undergoing hematopoietic stem cell transplant at the National Institutes of Health.",
+  "condition": [
+    "Hematopoietic Stem Cell Transplant"
+  ],
+  "overall_status": "NOT_YET_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study enrolling patients being evaluated for hematopoietic stem cell transplant (HSCT), regardless of prior lines of therapy. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes all patients being evaluated for HSCT, with no mention of prior systemic therapy for advanced disease as an inclusion or exclusion criterion. Patients who have not received any prior systemic therapy, including those with only adjuvant or no therapy, are eligible."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT01288560",
+  "title": "IMAGE-HF Project I-A: Cardiac Imaging in Ischemic Heart Failure (AIMI-HF)",
+  "brief_summary": "Medical imaging is one of the fastest growing sectors in health care and increases in utilization underscore the need to ensure imaging technology is developed and used effectively. Evaluation of the clinical and economic impact of such imaging lags behind the technology development. Heart failure (HF) represents the final common pathway for most forms of heart disease and morbidity and mortality remain high. There is a need to identify imaging approaches that have a positive impact on therapy decisions, patient outcomes and costs. As well as standard methods to evaluate new and emerging techniques to better test their potential in a clinical management setting.\n\nPRIMARY OBJECTIVES: to compare the effect of HF imaging strategies on the composite clinical endpoint of cardiac death, MI, resuscitated cardiac arrest and cardiac re-hospitalization (WHF, ACS, arrhythmia). Patients with an ischemic heart disease (IHD) etiology will follow HF imaging strategy algorithms according to the question(s) asked by the physicians (is there ischemia and/or viability), in agreement with their local practices for standard and alternative imaging.\n\nSECONDARY OBJECTIVES:\n\n1. To evaluate the effect of imaging modalities within and between the imaging subgroups (advanced (CMR and PET), PET, MRI and standard (SPECT)) on the primary and secondary outcomes in patients being evaluated either for viability and/or ischemia.\n2. To evaluate the impact of adherence to recommendations between modalities on outcomes in patients being evaluated for either viability or ischemia.\n3. To compare the effect of HF imaging strategies on:\n\n   1. The incidence of revascularization procedures (PCI, CABG, none) and the interaction of the imaging strategy and types of revascularization on outcomes\n   2. LV remodeling: LV volumes, LVEF,\n   3. HF symptoms, NYHA class\n   4. QOL (MLHFQ, the EQ5D)\n   5. The evolution of serum prognostic markers in HF (e.g. BNP, RDW, hs-cTnT, hs-CRP, ST2)\n   6. Health economics: Costs estimated through regression analysis and cost effectiveness assessed through decision modeling.\n   7. The safety of imaging tests measured by cumulative radiation, adverse reactions to imaging contrast agents and stress testing agents will also be determined.\n   8. The evolution of renal function (eGFR) and LV remodeling-associated biomarkers (e.g. PIIINP, OPN).\n   9. Event rates of each component of the composite endpoint as well as the combined endpoint of CV death and HF hospitalization\n   10. All-cause mortality",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion criteria:\n\n* Age \\>18 years\n* Known or highly suspected coronary artery disease (CAD) documented by coronary angiography or by history of previous MI or evidence of moderate ischemia or scar based on prior imaging\n* LV dysfunction most likely attributable to ischemic heart disease with EF \\<45% measured by any acceptable means (echo, nuclear RNA, PET or SPECT perfusion, Angiography, Cardiac MR) within the previous 6 months AND NYHA class II-IV symptoms within the past 12 months.\n\nOR\n\nLV dysfunction most likely attributable to ischemic heart disease with EF \u226430% measured by any acceptable means (echo, nuclear RNA, PET or SPECT perfusion, Angiography, Cardiac MR) within the previous 6 months AND NYHA class I within the past 12 months\n\nExclusion criteria:\n\n* Severe medical conditions that significantly affect the patient's outcome (eg. severe COPD, active metastatic malignancy) and would preclude revascularization.\n* \\< 4 weeks post ST segment elevation myocardial infarction (STEMI)\n* Already identified as not suitable for revascularization;\n* Emergency revascularization indicated\n* Severe valvular heart disease requiring surgery\n* Contraindications to CMR (eg metallic implant, claustrophobia, renal failure (GFR \\<30 ml/min/1.73m2),). However patients with permanent pacemakers or implanted defibrillators or GFR \\<30 ml/min/1.7m2, will be randomized only to standard imaging (SPECT) versus PET or entered into the registry if only 1 modality is available\n* Pregnancy\n* Potential for non compliance to tests involved in this protocol\n* Incapacity to provide informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Heart Failure",
+    "Coronary Artery Disease",
+    "Ischemic Cardiomyopathy"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04361526",
+  "title": "Pilot Study on Cytokine Filtration in COVID-19 ARDS",
+  "brief_summary": "Background: There are no proven therapies for COVID-19 infection. COVID-19 infects the respiratory epithelium of the lower airways, causing widespread damage via cytopathic effects, resulting in severe inflammation and Pneumonitis. High local and circulating levels of cytokines, or cytokine storm, can lead to capillary leak syndrome, progressive lung injury, respiratory failure and acute respiratory distress syndrome (ARDS).\n\nMethods: This is a pilot randomized, controlled, uni-center study testing safety and efficacy of cytokine filtration on patients with severe ARDS. Eligible patients will be randomized to 72 hours filtration or no filtration on top of the standard treatment for ARDS. Indications for randomization are patients with moderate or severe ARDS with need of ventilation support (either invasive or non-invasive), with inflammatory markers. The primary outcome will be days on mechanical ventilation (MV) support. Secondary outcomes are 30-day mortality, ICU days, need for extracorporeal membrane oxygenation (ECMO) support, duration of renal replacement therapy (RRT) and catecholamine therapies, hospital length of stay, multi-organ failure. All analysis will be done according to the intention to treat principle.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age 18 or older\n2. Positive revere transcription polymerase chain reaction (RT-PCR) for COVID-19 in a respiratory track sample\n3. Acute (less than 36 hours) onset of moderate to severe ARDS, as defined by Berlin criteria:\n\n   * Having pneumonia or worsening respiratory symptoms\n   * Bilateral pulmonary infiltrates on chest imaging (X-ray of CT scan)\n   * Pulmonary wedge pressure \\<18 mmHg or no clinical signs of left heart failure\n   * Hypoxemia: arterial oxygen pressure/Fraction of inspired oxygen (PaO2/FiO2 ratio) \\<200mmHg, moderate dyspnea with signs of important respiratory workload, tachypnoea \\>30bpm\n4. Rise of inflammatory biomarkers: C-reactive protein (CRP) \\>10 mg/L\n\nExclusion Criteria:\n\n1. Patients with a known contraindication for anticoagulation\n2. Pregnancy or breast feeding\n3. Patient already included in another research study\n4. Decision by a physician that involvement in the study is not in the patient's best interest\n5. Failure to have patient's authorization. In case of a mechanical intubated patient, lack of authorization from a first line family member\n6. Multi-organ failure\n7. Patients treated with Tocilizumab at the time of start filtration",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Coronavirus Infection",
+    "Acute Respiratory Distress Syndrome",
+    "COVID"
+  ],
+  "overall_status": "UNKNOWN"
+}

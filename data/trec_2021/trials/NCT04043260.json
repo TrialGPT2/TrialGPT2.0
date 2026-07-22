@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04043260",
+  "title": "DreaMed Advisor Pro System in Subjects With Type 1 Diabetes Treated With MDI Therapy",
+  "brief_summary": "A multi center, open label, prospective study that will include up to 100 subjects with Type 1 Diabetes treated with Multiple Daily Injections (MDI) of insulin according to a predefined sliding scale plan or carbohydrate ratio (CR) and correction factor (CF) plan, and Self-Monitoring of Blood Glucose (SMBG) or Continuous Glucose Monitoring (CGM).\n\nThe study will include screening, a 3-4 weeks run-in period and a 6 weeks intervention period. Subjects will be asked to record their insulin delivery during basal/bolus insulin treatment (using dedicated apps and/or connected pens) and their daily activities (meals, physical activity etc.) using electronic log (implemented on Dedicated Apps), for a total period of 9-10 weeks.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Documented T1D for at least 1 year prior to study enrolment\n2. Subjects aged 18 - 65 years old\n3. A1c at inclusion \u2264 10%\n4. Subjects using basal-bolus MDI therapy:\n\n   1. Basal insulin: Glargine, Degludec, or Determir\n   2. Bolus insulin: regular insulin, rapid analogues or ultra-rapid analogues\n5. Subjects using CGM or SMBG that are compatible with data transmission to the study DMS.\n6. BMI \\< 28 kg/m2\n7. Subjects willing to follow study instructions:\n\n   1. For SMBG users: measure capillary blood glucose at least 4 times a day and twice a week 7-point profile (optional). Document blood glucose level, insulin delivery, meals and daily activities. Wear blinded CGM.\n   2. For CGM users: Use CGM according to manufacture instructions, Document insulin delivery, meals and daily activities.\n8. Subjects have connection to the internet at home.\n9. Subjects have a smartphone compatible with study requirements\n10. Subjects willing and able to sign a written informed consent form.\n\nExclusion Criteria:\n\n1. An episode of diabetic keto-acidosis within the month prior to study entry and/or severe hypoglycemia resulting in seizure or loss of consciousness in the month prior to enrolment.\n2. Concomitant diseases/ treatment that influence metabolic control or any significant diseases /conditions including psychiatric disorders and substance abuse that in the opinion of the investigator is likely to affect the subject's ability to complete the study or compromise patients' safety\n3. Relevant severe organ disorders (diabetic nephropathy, diabetic retinopathy, diabetic foot syndrome) or any secondary disease or complication of diabetes mellitus, such as:\n\n   * Subject has unstable or rapidly progressive renal disease or is receiving dialysis\n   * Subject has active proliferative retinopathy\n   * Active gastroparesis\n4. Participation in any other interventional study\n5. Female subject who is pregnant or planning to become pregnant within the planned study duration\n6. Subject is in the \"honeymoon\" phase - i.e. less than 0.5 insulin units/kg per day.\n7. Drug or alcohol abuse.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Insulin-dependent Diabetes Mellitus",
+    "Diabetes Mellitus, Type 1"
+  ],
+  "overall_status": "COMPLETED"
+}

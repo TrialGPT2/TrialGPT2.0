@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02719769",
+  "title": "Clinical Performance of the Accelerate ID/AST System for Positive Blood Culture",
+  "brief_summary": "The \"Evaluation of Clinical Performance of the Accelerate ID/AST System for Positive Blood Culture Identification \\& Antimicrobial Susceptibility Testing\" is designed to validate the clinical performance of the Accelerate ID/AST System for positive blood culture identification and susceptibility testing in a clinical setting. The data from this study will be used to support the 510(k) submission for FDA clearance and global registrations of the device intended for in vitro diagnostic use.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* De-identified positive blood culture specimens (6 mL aliquot)\n* Seeded blood culture specimens (stock) from archived bacterial and yeast isolates\n\nExclusion Criteria:\n\n* Sample volume available \\< 6 mL\n* Positive Blood Culture sample \\> 8 hours post-positivity\n* Sample from patient previously enrolled\n* Sample from blood culture media that contain charcoal e.g., BACTAlert FA, FN bottles\n* Samples from Mycobacterial-type blood culture media e.g., BACTEC Myco/F Lytic, BacT/ALERT MP Bottle, VersaTREK Myco",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Clinical specimens that are indicated as positive by blood culture monitoring systems utilized by clinical microbiology laboratories.",
+  "condition": [
+    "Bacteremia",
+    "Fungemia"
+  ],
+  "overall_status": "COMPLETED"
+}

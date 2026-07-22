@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT02109952",
+  "title": "Biomechanics of Metastatic Defects in Bone",
+  "brief_summary": "The purpose of this study is to monitor fracture risk associated with bone tumors in cancer patients.\n\nPrevious studies from our lab have suggested that it is possible to compute the mechanical strength of bones with tumors using computed tomography (CT) scans, which are like three-dimensional X-ray pictures of the affected bones.\n\nThe next step in determining the usefulness of this type of strength analysis is to see if we can accurately predict who is at risk for bone fracture and which patients are at high risk of fractures.\n\nThis non-invasive analysis may help physicians determine the best treatment to reduce the risk of an impending bone fracture in the future.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\nPatient with metastatic cancer bone lesions\n\nExclusion Criteria:\n\n\\-",
+  "minimum_age": "20 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "When a patient presents to the orthopaedic oncologist with lower appendicular skeletal skeletal metastasis, as per standard clinical practice biplanar radiographs and CT scans of the involved bone(s) plus the contralateral limb will be obtained. Informed consent will be obtained for CT scan with the contralateral limb (Both limbs are in the gantry and are imaged together-this is not an additional step, as this is how patients are scanned for general care of lesions in the lower limbs) to provide a patient specific internal control and calcium hydroxyapatite phantom for standardizing bone density estimates. Post-processing of the image data will be conducted by the Orthopaedic Biomechanics Lab at BIDMC to calculate fracture risk associated with the bone lesion.",
+  "condition": [
+    "Cancer Bone",
+    "Bone Tumors"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

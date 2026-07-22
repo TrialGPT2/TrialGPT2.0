@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT02393755",
+  "title": "Nintedanib and Capecitabine in Treating Patients With Refractory Metastatic Colorectal Cancer",
+  "brief_summary": "This phase I/II trial studies the side effects and best dose of nintedanib when given together with capecitabine and to see how well they work in treating patients with colorectal cancer that has not responded to previous treatment (refractory) and has spread to other places in the body (metastatic). Nintedanib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. It may also block the growth of new blood vessels necessary for tumor growth. Drugs used in chemotherapy, such as capecitabine, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving nintedanib with capecitabine may be a better treatment for colorectal cancer.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-1\n* Hemoglobin \\>= 9 g/dL\n* Absolute neutrophil count \\>= 1500/mm\\^3\n* Platelet count \\>= 100,000/mm\\^3\n* Creatinine =\\< 1.5 upper limit of normal (ULN) AND creatinine clearance (CrCl) \\> 50 mL/min by Cockcroft-Gault equation\n* Males = (140 -age (yrs) (body weight (kg)/(72) (serum creatinine) (mg/dL)\n* Females = 0.85 \\* (140-age (yrs) (body weight (kg)/(72)(serum creatinine (mg/dL)\n* Bilirubin \\< ULN\n* Aspartate aminotransferase (AST)/alanine aminotransferase (ALT) =\\< 1.5 ULN if without liver metastases\n* AST/ALT =\\< 2.5 x ULN if with liver metastases\n* Coagulation parameters: international normalized ratio (INR) =\\< 2, prothrombin time (PT) and partial thromboplastin time (PTT) \\< 1.5 X institutional ULN\n* Have measurable disease per RECIST 1.1 criteria\n* Histologically or cytologically proven adenocarcinoma of the colon or rectum\n* Prior progression following a fluoropyrimidine-based therapy and progression following or intolerance to irinotecan and oxaliplatin, as well as anti-epidermal growth factor receptor (EGFR) therapy (e.g., panitumumab or cetuximab) for rat sarcoma viral oncogene homolog (RAS) wild-type patients\n* Ability to swallow and retain oral medication\n* Participants of child-bearing potential must agree to use adequate contraceptive methods (e.g., hormonal or barrier method of birth control; abstinence) prior to study entry and for three months following completion of therapy; should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately\n* Participant or legal representative must understand the investigational nature of this study and sign an Independent Ethics Committee/Institutional Review Board approved written informed consent form prior to receiving any study related procedure\n\nExclusion Criteria:\n\n* Prior treatment with nintedanib\n* Prior treatment with regorafenib\n* Major injuries or surgery within the 4 weeks prior to initiation of therapy with incomplete wound healing or planned surgery during the on-study treatment period\n* Uncontrolled hypertension: systolic blood pressure \\>= 160, diastolic blood pressure \\>= 90\n* Urine protein/creatinine ratio \\>= 1.0\n* History of clinically significant hemorrhagic or thrombotic event within the past 6 months, not including uncomplicated catheter-associated venous thrombosis; patients on anti-coagulation are not permitted to be on any oral formulations (warfarin, rivaroxaban, dabigatran, etc.) due to concern for drug-drug interaction\n* Unstable angina, symptomatic congestive heart failure or cardiac arrhythmia requiring anti-arrhythmic therapy (beta-blockers, calcium channel blockers and digoxin are allowed)\n* History of cerebrovascular or myocardial ischemia within 6 months of initiation\n* Known inherited predisposition to bleeding or thrombosis\n* Known active or chronic hepatitis B or C or human immunodeficiency virus (HIV)\n* Untreated brain metastases\n* History of second primary malignancy diagnosed within 3 years prior to enrollment, excluding:\n\n  * In-situ cervical carcinoma\n  * Superficial bladder cancer\n  * Non-melanoma skin cancer\n  * Stage I breast cancer\n  * Low grade (Gleason =\\< 6) localized prostate cancer\n  * Any additional malignancy which has been in clinical remission for at least 1 year\n* Pregnant or nursing female participants\n* Unwilling or unable to follow protocol requirements\n* Any condition which in the Investigator's opinion deems the participant an unsuitable candidate to receive study drug\n* Received an investigational agent within 4 weeks prior to enrollment\n* PHASE I: History of intolerance to capecitabine at doses =\\< 1000 mg/m\\^2 BID, as defined by documented \\>= grade 3 hand-foot syndrome, documented severe diarrhea requiring hospitalization, or other documented severe adverse events (AEs) attributable to capecitabine\n* PHASE II: History of intolerance to capecitabine at doses below 1000 mg/m\\^2 BID, as defined by documented \\>= grade 3 hand-foot syndrome; documented severe diarrhea requiring hospitalization; or other documented severe AEs attributable to capecitabine",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Colon Adenocarcinoma",
+    "Rectal Adenocarcinoma",
+    "Recurrent Colon Carcinoma",
+    "Recurrent Rectal Carcinoma",
+    "Stage IVA Colon Cancer",
+    "Stage IVA Rectal Cancer",
+    "Stage IVB Colon Cancer",
+    "Stage IVB Rectal Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

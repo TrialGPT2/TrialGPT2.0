@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT03226704",
+  "title": "Leukapheresis for CAR or Adoptive Cell Therapy Manufacturing",
+  "brief_summary": "Background:\n\nLeukapheresis is a procedure to separate and collect white blood cells. It is the first step in a treatment called CAR (chimeric antigen receptor) T-cell therapy. CAR-T therapy may be offered to people when their cancer comes back. The collected T-cells are used to make a special version of T-cells called CARs. Researchers want to collect these cells from people who may become eligible for a CAR T-cell study in the future.\n\nObjective:\n\nTo identify people who have a high likelihood to benefit from CAR T-cell therapy early in their disease course and collect and store a T-cell product.\n\nEligibility:\n\nPeople ages 3-65 with a form of leukemia or lymphoma that has not been cured by standard therapy\n\nDesign:\n\nParticipants will be screened with medical history, physical exam, and blood and urine tests. Review of existing MRI, x-ray, pathology specimens/reports or CT images may be done.\n\nOn this study, participants will have leukapheresis. A needle will be placed into the arm. Blood will be collected and go through a machine. White blood cells will be taken out by the machine. The plasma and red cells will be returned to the participant through a second needle in the other arm. The procedure will take 4-6 hours. Some participants may have a central line (catheter) inserted which is needed to do the leukapheresis procedure, instead of the needles in the arms-especially if they are smaller. For a central line placement, a long thin tube is inserted through a small incision into the main blood vessel leading into the heart that would allow access to the blood to do the leukapheresis procedure.\n\nParticipants cells will be processed and frozen for future use in a CAR T-cell therapy study.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Age: \\>= 3 and \\<= 65 years\n* Weight \\>= 15 kg\n* Confirmation of cancer diagnosis provided by disease-specific assessment (e.g., flow cytometry, PCR) or H\\&E verification.\n* Disease Status:\n\n  * Relapsed/refractory cancer that has failed at least one standard regimen and are not in remission at the time of leukapheresis, OR\n  * Previously treated patients without detectable disease at the time of leukapheresis but at high-relapse risk.\n* Potentially eligible for future NIH-CAR or other adoptive cell therapy based on the following:\n\n  * Adequate performance status: Patients \\> 10 years of age: Karnofsky \\>= 50%; Patients \\<= 10 years of age: Lansky scale \\>= 50%\n  * Adequate organ function:\n\n    * absolute neutrophil count \\>750/mcL\\*\n    * platelets \\>=30,000/mcL\\*\n    * total bilirubin \\<=2 X ULN (except in the case of subjects with documented Gilbert s disease \\> 3x ULN)\n\nAST(SGOT)/ALT(SGPT)\\<=20 X institutional upper limit of normal for age and laboratory normal ranges\n\ncreatinine within age adjusted normal institutional limits (see below) OR\n\ncreatinine clearance \\>= 60 mL/min/1.73 m\\^2 for creatinine levels above institutional normal.\n\n* Age (Years): \\<=5; Maximum Serum Creatine (mg/dL): 0.8\n* Age (Years): 5 \\< age \\<= 10; Maximum Serum Creatine (mg/dL): 1.0\n* Age (Years): \\>10; Maximum Serum Creatine (mg/dL): 1.2\n\n  * Cytopenias deemed to be disease-related and not therapy-related are exempt from this exclusion.\n\n    * Patients, parents/guardians, legally authorized representative (LAR), or durable power of attorney must be able to give consent and sign the Informed Consent Document.\n\nEXCLUSION CRITERIA:\n\n* Transfusion refractory thrombocytopenia such that platelet count cannot be adequately supported with transfusions to be at \\>=30,000/mcL\n* Active DIC, bleeding or coagulopathy which cannot be corrected with minimal intervention\n* Rapidly progressive disease or hyperleukocytosis \\>= 50,000 blasts/mcL\n* Symptomatic, uncontrolled or severe intercurrent illness that would compromise the ability to tolerate CAR or adoptive cell therapy-based toxicity\n* Subjects must have recovered from the acute side effects of their prior therapy, such that eligibility criteria are met. Cytopenias deemed to be disease-related and not therapyrelated are exempt from this exclusion.\n* Pregnant or nursing (lactating) individuals, where pregnancy is defined as the state of after conception and until the termination of gestation, confirmed by a positive hCG laboratory test at screening\n* Active or latent hepatitis B or active hepatitis C, or any uncontrolled infection at screening\n* Human Immunodeficiency Virus (HIV) infection at screening (The experimental treatments being evaluated depend upon an intact immune system. Patients who are HIV seropositive can have decreased immune competence and thus be less responsive to the experimental treatment and more susceptible to its toxicities)\n* Any patient that in the opinion of the investigator is not medically stable to undergo the leukapheresis procedure or will not comply with the visit schedules or procedures",
+  "minimum_age": "3 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients 3-65 years of age, at least 15 kg, with relapsed/refractory cancer that has recurred after or not responded to one or more standard regimens and/or deemed incurable by standard therapy and who meet all eligibility criteria are eligible to participate.",
+  "condition": [
+    "Leukemia",
+    "Lymphoma",
+    "Acute Lymphoblastic Leukemia",
+    "Diffuse Large B Cell Lymphoma",
+    "Non-Hodgkin's Lymphoma"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This trial enrolls patients with leukemia or lymphoma who have failed at least one standard regimen or are at high risk of relapse after prior therapy, for leukapheresis and future CAR/adoptive cell therapy manufacturing. Both relapsed/refractory and high-risk, previously treated patients without active disease are eligible.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": false,
+      "category": "2L+",
+      "line_of_therapy_text": "Eligibility requires relapsed/refractory cancer that has failed at least one standard regimen, or previously treated patients at high risk of relapse. Patients must have received at least one prior systemic therapy for advanced disease; adjuvant-only patients are not eligible. There is no upper limit on prior lines."
+    }
+  ]
+}

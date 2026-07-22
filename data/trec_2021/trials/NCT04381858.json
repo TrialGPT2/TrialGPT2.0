@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04381858",
+  "title": "Convalescent Plasma vs Human Immunoglobulin to Treat COVID-19 Pneumonia",
+  "brief_summary": "Background: On December 2019, a new human coronavirus infection (COVID-19) was detected in China. Its infectivity and virulence characteristics caused a rapid spread, being declared pandemic on March 2020. The mortality attributed to the infection ranges between 3 and 10%. Main risk factors are age, male sex, and chronic degenerative comorbidities. Due to the absence of therapeutic options, potential alternatives such as human immunoglobulin or plasma from convalescent patients have been administered. Due to the severity of the disease and the associated mortality, it is urgent to find therapeutic alternatives.\n\nObjective: To assess the safety and efficacy of the administration of Convalescent plasma vs human immunoglobulin in critically ill patients with COVID-19 infection.\n\nMaterial and methods: Randomized Controlled trial of patients diagnosed with respiratory infection by COVID-19, with severe respiratory failure without indication of mechanical ventilation, or those who due to their severity are intubated upon admission. Randomization will be performed 2:1 to receive plasma from convalescent patients or human immunoglobulin.\n\nOutcomes: The primary outcome will be time to discharge from hospital for improvement. The safety outcomes will be: Kirby index (PaO2/FiO2) evolution and dead.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients who are admitted to Hospital Centers with a positive RT-qPCR SARS-CoV-2 test or a CT scan compatible with a diagnosis of COVID-19 pneumonia, in addition to one of the following two criteria:\n\n  1. Severe respiratory failure \\[respiratory rate\\> 25 - \\<35 x minute, oxygen saturation \u2264 90% with reservoir mask (FiO2 = 100%)\\]\n  2. Requiring invasive mechanical ventilation.\n\nExclusion Criteria:\n\n* Patients with a viral infection other than COVID-19",
+  "minimum_age": "16 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID-19 Pneumonia"
+  ],
+  "overall_status": "COMPLETED"
+}

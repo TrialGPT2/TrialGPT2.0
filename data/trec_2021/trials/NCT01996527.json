@@ -1,0 +1,29 @@
+{
+  "nctid": "NCT01996527",
+  "title": "3T MRI Biomarkers of Glioma Treatment Response",
+  "brief_summary": "This pilot clinical trial studies advanced magnetic resonance imaging (MRI) techniques in measuring treatment response in patients with high-grade glioma. New diagnostic procedures, such as advanced MRI techniques at 3 Tesla, may be more effective than standard MRI in measuring treatment response in patients receiving treatment for high-grade gliomas.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients must sign an institutional review board (IRB)-approved informed consent document\n* Patients must have been diagnosed with high-grade glioma:\n\n  * World Health Organization (WHO) grade III: anaplastic astrocytoma, oligodendroglioma, ependymoma, or oligoastrocytoma; OR\n  * WHO grade IV: glioblastoma multiforme; or neuroepithelial tumors of uncertain origin (polar spongioblastoma, astroblastoma, or gliomatosis cerebri)\n* As measured by conventional high spatial resolution MRI, the minimum diameter of the primary lesion (short axis) should be at least 5 mm\n* Patients must be scheduled to receive: 1) standard chemotherapy with/without radiation therapy; OR 2) single-agent bevacizumab (Avastin)\n\nExclusion Criteria:\n\n* Patients with low-grade (WHO grade I or II) glioma\n* Patients with metastatic disease\n* Patients who have any type of bioimplant activated by mechanical, electronic, or magnetic means (e.g., cochlear implants, pacemakers, neurostimulators, biostimulators, electronic infusion pumps, etc), because such devices may be displaced or malfunction\n* Patients who have any type of ferromagnetic bioimplant that could potentially be displaced\n* Patients who have cerebral aneurysm clips\n* Patients who may have shrapnel imbedded in their bodies (such as from war wounds), metal workers and machinists (potential for metallic fragments in or near the eyes)\n* Patients with inadequate renal function (creatinine \\>= 1.5 times upper limit of normal) or acute or chronic renal insufficiency (glomerular filtration rate \\< 20 ml/min)\n* Patients who are pregnant or breast feeding; urine pregnancy test will be performed on women of child bearing potential\n* Patients who exhibit noticeable anxiety and/or claustrophobia or who exhibit severe vertigo when they are moved into the magnet bore\n* Patients incapable of giving informed written consent, for the following reasons:\n\n  * Inability to adhere to the experimental protocols for any reason\n  * Inability to communicate with the research team\n  * Limited ability to give informed consent due to mental disability, altered mental status, confusion, cognitive impairment, or psychiatric disorders\n\n    * Patients scoring 14.5 or lower on the University of California at San Diego (UCSD) Brief Assessment of Consent Capacity (UBACC) Capacity to Consent Questionnaire will be excluded\n  * Prisoners or other individuals deemed to be susceptible to coercion\n* For patients who have undergone surgical resection prior to joining the study, in whom baseline magnetic resonance (MR) images exhibit enough signal degradation (due to susceptibility artifact in the region of the surgical bed) such that the data are uninterpretable will be excluded",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Adult Anaplastic Astrocytoma",
+    "Adult Anaplastic Ependymoma",
+    "Adult Anaplastic Oligodendroglioma",
+    "Adult Giant Cell Glioblastoma",
+    "Adult Glioblastoma",
+    "Adult Gliosarcoma",
+    "Recurrent Adult Brain Tumor"
+  ],
+  "overall_status": "TERMINATED"
+}

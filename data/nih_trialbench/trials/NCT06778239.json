@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT06778239",
+  "title": "Childhood-Onset Essential Hypertension Natural History Study",
+  "brief_summary": "Background:\n\nChildhood-onset essential hypertension (COEH) is high blood pressure that develops in children and teens. High blood pressure is a major risk factor for heart disease. COEH is more likely to be caused by changes in genes rather than by factors like stress or diet. Researchers want to learn more about how changes in genes relate to COEH. They hope to use that information to develop better treatments for children with high blood pressure.\n\nObjective:\n\nThis natural history study will look for genes and gene changes that may lead to COEH.\n\nEligibility:\n\nPeople aged 2 years and older with COEH or who had COEH when they were children. Healthy relatives of those with COEH are also needed.\n\nDesign:\n\nParticipants will have one clinic visit per year for up to 10 years. All participants will have a physical exam. They will provide samples of blood and urine. At their first visit, they will have a swab (like a Q-tip) rubbed between their gums and cheeks. They may agree to having a skin biopsy; a piece of skin about the size of a pencil eraser will be removed.\n\nAffected participants aged 2 to 17 years old will have additional tests:\n\n* They will have sensors placed on their skin to look at their blood vessels and see how blood is moving in their bodies.\n* They will lie or stand while a machine measures the amount of fat and muscle in their bodies.\n* They will have an ultrasound; a wand will be rubbed against their skin to take pictures of their kidneys.\n\nOther things are optional for all participants:\n\n* They may have photographs taken of their bodies.\n* They may have tests of their heart function.\n* They may have different types of imaging scans.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible to participate in this study, an affected individual must meet one of the following criteria:\n\n* Age 2-12 years at time of enrollment with a BP of at least \\>95th percentile or 120/80 mm Hg verified via medical record review and a willingness to provide biological samples, undergo physical exam, provide information related to family and medical history, and undergo imaging/body measurements (e.g., renal ultrasound)\n* Age 13-17 years at time of enrollment with a BP of at least 130/80 mm Hg verified via medical record review and a willingness to provide biological samples, undergo physical exam, provide information related to family and medical history, and undergo imaging/body measurements (e.g., renal ultrasound)\n* Age 18 years or more at time of enrollment with a medical history of meeting the criteria outlined in affected individual inclusion criteria 1 or 2, depending on age at diagnosis (verified via medical record review) and a willingness to provide biological samples, undergo physical exam, and provide information related to family and medical history\n\nTo be eligible to participate in this study, an unaffected individual must meet all of the following criteria:\n\n* First-degree relative to a proband (first identified affected family member) in the study\n* Willingness to provide biological samples, undergo physical exam, and provide information related to family and medical history\n\nTo be eligible to participate in this study, an individual with a candidate variant (regardless of known COEH status) must meet all of the following criteria:\n\n* History of clinical and/or research genomic interrogation\n* Positive genomic interrogation test result for candidate variant identified in earlier stages of study or in prior studies performed by study team\n* Willingness to provide information related to family and medical history, provide access to relevant medical records, undergo physical exam, and undergo imaging/body measurements (if 2-17 years of age and evidence of COEH exists)\n\nEXCLUSION CRITERIA:\n\nAn affected individual who meets any of the following criteria will be excluded from participation in this study:\n\n* BMI \\>95th percentile\n* Evidence that hypertension is secondary to a known condition (e.g., chronic kidney disease, aortopathy, sleep apnea, etc.)\n* Impaired decision-making capability, with or without a legally-authorized representative\n\nAn unaffected individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Prior or current diagnosis of COEH\n* Second-degree or greater relationship to proband\n* Impaired decision-making capability, with or without a legally-authorized representative\n\nAn individual with a candidate variant (regardless of known COEH status) who meets any of the following criteria will be excluded from participation in this study:\n\n* No prior genomic interrogation findings available for the study team to review to confirm positive candidate variant status\n* Impaired decision-making capability, with or without a legally-authorized representative",
+  "minimum_age": "2 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Study participants will come from hypertension, cardiology, nephrology (kidney), and pediatrician clinics. Participants can also sign themselves up for the study without being referred by their doctor.",
+  "condition": [
+    "Hypertension",
+    "Essential Hypertension"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study of childhood-onset essential hypertension and does not involve cancer or systemic therapy for advanced disease. There is no line-of-therapy intent applicable to this trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced/metastatic disease. No line-of-therapy criteria are specified or applicable."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04799392",
+  "title": "NOWDx Test for the Detection of Antibodies to COVID-19 in Lay Persons",
+  "brief_summary": "This study is designed to compare the performance of the NOWDx COVID-19 Test to an emergency use authorized PCR test result. The intent is to show the rapid test device is comparable to a currently marketed device. The NOWDx COVID-19 Test is an in vitro lateral flow immunoassay intended for qualitative detection of total antibodies to SARS-CoV-2 in human fingerstick whole blood at the Point of Care (POC); i.e. in patient care settings operating under a CLIA Certificate of Waiver, Certificate of Compliance, or Certificate of Accreditation; and at home.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\nInnate Infection Cohort\\>\n\n* PCR positives: persons who were symptomatic for COVID-19 and have tested positive for COVID-19 with an EUA or FDA cleared PCR test; 7+ days post positive PCR test\n* PCR negatives: persons who have never had COVID-19 and who have tested negative for COVID-19 with an EUA or FDA cleared PCR test; within 0-6 days post negative PCR test\n* persons 2+ years old\n\nVaccination Cohort\\>\n\n* persons 7- 60 days post second dose of EUA COVID-19 vaccine\n* persons 18+ years old\n\nExclusion criteria:\n\nInnate Infection Cohort\\>\n\n* PCR positives: persons with a COVID-19 positive test result \\>45 days old\n* PCR negatives: persons with any prior COVID-19 positive result\n* persons who have received COVID-19 vaccine\n* persons \\<2 years old\n\nVaccination Cohort\\>\n\n* persons symptomatic or previously infected with COVID-19 prior to vaccination\n* persons \\<18 years old",
+  "minimum_age": "2 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID-19",
+    "SARS-CoV-2",
+    "Coronavirus"
+  ],
+  "overall_status": "TERMINATED"
+}

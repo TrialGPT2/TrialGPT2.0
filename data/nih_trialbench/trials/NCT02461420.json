@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT02461420",
+  "title": "Mapping the Genotype, Phenotype, and Natural History of Phelan-McDermid Syndrome",
+  "brief_summary": "The purpose of this study is to comprehensively characterize PMS using standardized medical, cognitive, and behavioral measures and to track the natural history of the syndrome using repeated longitudinal assessments. In addition, this study will be aiming to identify biomarkers using neuroimaging, including diffusion tensor imaging and identify genetic factors which contribute to diverse phenotypes in patients with PMS.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Individuals older than 18 months of age with pathogenic deletions or mutations of the SHANK3 gene\n* English speaking individuals\n\nExclusion Criteria:\n\n* Has taken an investigational drug as part of another research study, within 30 days prior to study enrollment\n* For subjects involved in imaging biomarker assessment: contraindications to 3T MRI scanning, such as metal implants/non-compatible medical devices or medical conditions, including vagus nerve stimulator\n* For subjects involved in EEG/ ERP biomarker assessment: contraindications to EEG/ERP, such as uncooperative or destructive behaviors preventing lead placement or capture by ERP/VEP equipment. Under age 2 or over age 11 at the time of enrollment.\n* Unwilling or unable to comply with study procedures and assessments",
+  "minimum_age": "18 Months",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "190 subjects with PMS will be enrolled across the 6 sites for this study",
+  "condition": [
+    "Phelan-McDermid Syndrome",
+    "Autism Spectrum Disorder",
+    "Intellectual Disability"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history and biomarker study in Phelan-McDermid Syndrome and does not involve cancer or systemic therapy for advanced disease. There are no requirements or restrictions regarding prior lines of therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study is not an interventional oncology trial and does not specify any requirements or exclusions based on prior systemic therapy for advanced disease. No information is provided regarding lines of therapy."
+    }
+  ]
+}

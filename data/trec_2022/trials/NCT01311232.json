@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01311232",
+  "title": "Factors Influencing Hepatitis B Virus Reactivation in Lymphoma Patients Treated With Rituximab",
+  "brief_summary": "This study is a retrospective analysis to identify factors influencing hepatitis B virus reactivation in patients treated with rituximab containing chemotherapy. Rituximab monoclonal antibody targeting CD20 induces B-cell depletion resulting in prolonged immune suppression. This leads to frequent reactivation of patients with a previous history of exposure to HBV or HBV carrier.\n\nWe collect the clinical features and laboratory findings of patients satisfied the inclusion criteria as follows.\n\n1. Patients diagnosed with diffuse large B-cell lymphoma (DLBCL) or \\\\ follicular B-cell lymphoma (FL).\n2. Patients who had received at least two cycles of rituximab-CHOP or rituximab-CVP as a primary treatment\n3. Patients with a history of previous exposure to HBV\n\n   * HBV surface antigen (HBs Ag) positive Or\n   * HBV core antibody (IgG anti-HBc antibody) positive\n\nThen, we compare the HBV reactivation group with the control group (HBV reactivation does not happen) to find factors influencing HBV reactivation.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria\n\n1. Patients diagnosed with diffuse large B-cell lymphoma (DLBCL) or follicular B-cell lymphoma (FL).\n2. Patients who had received at least two cycles of rituximab-CHOP or rituximab-CVP as a primary treatment\n3. Patients with a history of previous exposure to HBV\n\n   * HBV surface antigen (HBs Ag) positive Or\n   * HBV core antibody (IgG anti-HBc antibody) positive\n4. Patients with documented HBV reactivation (definite or presumptive) occurring during treatment (at least two cycles of R-CHOP or R-CVP) or within 12 months after the last dose of rituximab\n\n   * Definitive HBV reactivation\n\n     \\- Elevation of serum HBV DNA level \\>1 log IU/mL from baseline or absolute increase of HBV DNA by 6 log10 IU/mL in HBsAg positive patients\n   * Presumptive HBV reactivation - Increase of ALT (\u22653x baseline value or absolute value of \u2265100 U/L) and positive conversion of HBs Ag in previously HBsAg-negative patients\n\nExclusion Criteria:\n\n1. Patients who had received chemotherapy other than R-CHOP or R-CVP after diagnosis\n2. patients diagnosed with HIV, HCV or HDV co-infection\n3. Patients who had undergone allogenic stem cell transplantation before hepatitis B virus reactivation was documented",
+  "minimum_age": "15 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with hepatitis B virus positivity and treated with rituximab-containing chemotherapy to treat their disease, diffuse large B-cell lymphoma or follicular lymphoma",
+  "condition": [
+    "Patients With Diffuse Large B-cell Lymphoma or Follicular Lymphoma",
+    "Patients Treated With Rituximab-CHOP or Rituximab-CVP"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01007474",
+  "title": "One Hospital ClinicalService Project",
+  "brief_summary": "The One Hospital ClinicalService Project is an integrated system composed by a network of International Hospital Departments, a clinical data repository and a shared environment for the collection, management, analysis and reporting of clinical and diagnostics data from patients treated by Medtronic therapies or patients wearing Medtronic implantable devices used within their intended use. The One Hospital ClinicalService is composed by a suite of systematic, data-guided activities designed to bring about immediate improvements in health delivery in particular settings. Data are prospectively collected. An independent committee of physicians prospectively identifies key clinical questions on a yearly basis for development of quality improvement activities, analyses and publications. A charter, approved by Hospital Istitutional Review Boards or other Hospital entities, assigns the ownership of data to the centers and governs the conduct of the project and the relationship of the scientific committee and Medtronic. Hospital is the data controller, while Medtronic is the data processor on behalf of the Hospital. Data collected for quality improvement purposes may be mined to perform clinical research.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients wearing a Medtronic market-released device or treated by a Medtronic therapy who have signed a patient data release and informed consent form\n\nExclusion Criteria:\n\n* Patients unwilling or unable to cooperate or give voluntary consent",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population consists of patients who received a Medtronic device or were treated by Medtronic therapy (currently available or future market-released devices) at one of the participating International Hospitals.",
+  "condition": [
+    "Arrhythmias, Cardiac",
+    "Bradycardia",
+    "Syncope"
+  ],
+  "overall_status": "WITHDRAWN"
+}

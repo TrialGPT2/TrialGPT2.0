@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT03304678",
+  "title": "Discovery of Sirolimus Sensitive Biomarkers in Blood",
+  "brief_summary": "Background:\n\nLymphangioleiomyomatosis (LAM) is a rare, progressive disease. It usually affects women in the prime of their lives. It typically results in lung destruction. Studies have shown that a drug called sirolimus stabilizes lung function in people with LAM. But researchers do not know what drug dose and blood serum levels are needed to reach this stability. Researchers want to learn more about the right dose of sirolimus for people with LAM.\n\nObjective:\n\nTo determine if blood and urine markers after 1 dose and again after 9 months can be used to evaluate the correct dose of sirolimus for people with LAM.\n\nEligibility:\n\nWomen ages 18-90 with LAM whose doctors have decided they should start taking sirolimus to treat it.\n\nDesign:\n\nAt visit 1, participants will take their first dose of sirolimus by mouth at the clinic. They will have blood and urine collected.\n\nParticipants will take 1 tablet of the study drug each day.\n\nVisit 2 will be 3 months after visit 1. Participants will have blood and urine collected.\n\nVisit 3 will be 9 months after visit 1. Participants will have blood and urine collected.\n\nParticipant samples will be stored in a secure place. No personal data will be connected to them.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "* INCLUSION CRITERIA\n* Female 18 to 90 years of age\n* Diagnosis of LAM\n* Initiation of sirolimus therapy (2mg daily) based on standard-of-care pulmonary indications and the advice of the patient s local physician\n\nEXCLUSION CRITERIA\n\n* Unable to travel to the NIH\n* Unable to provide informed consent\n* Advanced stage of a pulmonary or a systemic illness in which the risk of the study is judged to be significant even in the absence of a clear contraindication to the procedures\n* Women who are pregnant or lactating",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Lymphangioleiomyomatosis"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial enrolls women with LAM who are about to initiate sirolimus therapy as standard of care. All participants must be starting their first systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility requires initiation of sirolimus therapy for LAM, meaning patients must be starting their first systemic treatment for advanced disease. Prior systemic therapy for advanced LAM is not allowed."
+    }
+  ]
+}

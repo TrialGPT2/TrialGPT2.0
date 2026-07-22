@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03505879",
+  "title": "Next Generation Sequencing Detection of Lyme Disease",
+  "brief_summary": "Next Generation Sequencing is capable of sequencing millions of small strands of DNA from a single blood sample, potentially improving its sensitivity compared to PCR testing, which only detects predetermined larger strands of DNA. We will test the ability of NGS to detect Borrelia burgdorferi DNA in the blood of pediatric patients with Lyme disease. We will conduct an observational study of NGS testing on pediatric patients at all stages of Lyme disease. Study involvement will require a single study visit for clinical data collection and blood draw. We will enroll patients at all phases of suspected Lyme disease, collect clinically relevant information, and test for Lyme disease using Next Generation Sequencing and standard Lyme serologic testing. If the patient has multiple erythema migrans, Lyme meningitis, facial nerve palsy, arthritis, or carditis, a B. burgdorferi serum PCR will also be sent. Enrollment and Next Generation Sequencing blood draw will occur before or up to 24 hours after the first dose of antibiotics is administered. We will also study the impact of antibiotics on NGS testing by running the test 6-24 hours after antibiotics are started among a small subset of patients with a multiple erythema migrans rash. Collected data will be analyzed with basic descriptive statistics.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Lyme disease subjects (Cases):\n\nInclusion criteria:\n\n1. Age 1 to \\<18 years old\n2. The subject has spent time in a Lyme-endemic area during the previous month\n3. The subject has a suspected Lyme disease infection\n\nExclusion criteria:\n\n1. Past infection with Lyme disease\n2. Received oral or IV antibiotics within 1 month prior to presentation Note: Subjects may be enrolled if NGS blood test can be drawn \\<24 hours after the first dose of Lyme diseasetargeted antibiotics is administered",
+  "minimum_age": "1 Year",
+  "maximum_age": "17 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Cases will include pediatric patients age 1 to \\<18 years old who currently have a specific Lyme disease syndrome and have been on antibiotics for less than 24 hours prior to blood draw",
+  "condition": [
+    "Lyme Disease",
+    "Pediatric Infectious Disease",
+    "Erythema Migrans",
+    "Lyme Arthritis",
+    "Lyme Carditis",
+    "Lyme Disease Meningitis"
+  ],
+  "overall_status": "COMPLETED"
+}

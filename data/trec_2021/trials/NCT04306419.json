@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04306419",
+  "title": "Observational Trial on Cytokine Adsorption in Sepsis",
+  "brief_summary": "To determine the specific population of critically ill septic patients who benefit most from cytokine adsorption therapy with the HA-380 cartridge. Benefit of the treatment will be assessed on the basis of:\n\n* The scope of the effect of cytokine adsorption therapy in this specific population of critically ill patients expressed by cytokine variability within the patients\n* The scope of cytokine changes in passing the adsorption cartridge my measuring cytokine levels in the patient's blood directly before passing through the cartridge and directly after having passed through the cartridge.\n* The scope of changes in organ dysfunction expressed by SOFA scores that are repeatedly calculated during the treatment with cytokine adsorption and then daily until day 7 of the ICU treatment.\n* The scope of changes on cellular function on immune cells in serum samples taken before and after cytokine adsorption therapy.\n* The scope of removal of anti-infective drugs from the blood in passing through the cytokine adsorption cartridge by measuring antibiotic drug levels in the patients blood during the cytokine adsorption therapy\n* 30 day and 90 day mortality and location status in survivors",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. \\>18 years of age\n2. diagnosis of sepsis or septic shock with at least 2 organ-dysfunctions defined by SOFA score\n3. baseline serum IL-6 \\> 1000 pg/ml, IL-10 levels \\>250 pg/ml or TNF-alpha levels \\> 100 ng/l. The baseline IL-6 measurement must be on the same calendar day that the cytokine adsorption is started, the baseline IL-10 or TNF-alpha can be taken up to 36h before because of higher turn-around times for these tests.\n4. need for CRRT or ECMO therapy\n\nExclusion Criteria:\n\n1. Solid organ malignancies with or without treatment\n2. Participation or enrollment in another clinical study within 30 day\n3. Pregnant and lactating females If women of childbearing potential will be enrolled, a pregnancy test will be performed by assessing the value of \u00df-HCG in the routinely drawn blood and or urine.\n4. Patient has been committed to an institution by legal or regulatory order\n5. Participation in a parallel interventional clinical trial\n6. The subject received an investigational drug within 30 days prior to inclusion into this project",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "We will perform an observational trial in a large cohort of patients with sepsis and septic shock who are treated with cytokine adsorption by hemoperfusion with a HA-380 cartridge. Sepsis will be defined as done in the Sepsis-3 definition. In addition to sepsis or septic shock patients must have a confirmed excess of IL-6, IL-10 or TNF-alpha or a combination of these with IL-6 levels \\> 1000 pg/l, IL-10 levels \\>250 pg/l or TNF-alpha levels \\> 100 ng/l. Patients must be in need of CRRT or ECMO therapy to perform the HA-380 therapy. Stand-alone hemoperfusion will not be performed.\n\nPatients must be included within 24 hrs of diagnosing sepsis. The IL-6 measurement for inclusion must be from within 24 hrs, IL-10 or TNF-alpha measurements for inclusion can be from within 36 hrs before inclusion.",
+  "condition": [
+    "Sepsis",
+    "Septic Shock",
+    "Multiple Organ Failure"
+  ],
+  "overall_status": "UNKNOWN"
+}

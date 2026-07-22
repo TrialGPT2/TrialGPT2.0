@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04686500",
+  "title": "VisionRT-based Deep Inspiration Breath-hold (DIBH) Respiratory Motion Management Strategy, A Pilot Study for Thoracic and Abdominal Tumors",
+  "brief_summary": "A more recent competing technology for implementing the DIBH technique is real-time surface photogrammetry using the AlignRT system (Vision RT Ltd., London, UK). AlignRT system use non-ionization near infrared light to track patient surface motion. The system has one projector projecting near infrared optical pattern on patient surface. The optical pattern is imaged by optical cameras (two per pod) at \\~25 Hz. The user selects a region-of-interest (ROI) on the surface and the software calculates and displays the real-time position in six degrees (3 translations and 3 rotations) in real-time. Once the patient has matched the pre-determined DIBH position (within threshold accuracy), the radiation beam is enabled to be turned on for treatment.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DEVICE_FEASIBILITY",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Patients must be willing and capable to provide informed consent to participate in the protocol.\n2. Patient with presumed pulmonary function capable of holding breath for at least 30 seconds - later to be confirmed.\n3. All men, as well as women of child-bearing potential must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry, and until study imaging is complete. Should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately.\n\n3.1 A female of child-bearing potential is any woman (regardless of sexual orientation, marital status, having undergone a tubal ligation, or remaining celibate by choice) who meets the following criteria:\n\n* Has not undergone a hysterectomy or bilateral oophorectomy; or\n* Has not been naturally postmenopausal for at least 12 consecutive months (i.e., has had menses at any time in the preceding 12 consecutive months).\n\n3.2 Patients must be compliant to all required pretreatment evaluations\n\nExclusion Criteria:\n\n1. Pregnant or lactating women, as treatment involves unforeseeable risks to the embryo or fetus\n2. Patients are not compliant to all required pretreatment evaluations",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Thoracic Cancer",
+    "Abdominal Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT00888589",
+  "title": "Detection of Aggressive Breast Tumors Using Tc-99m-NC100692",
+  "brief_summary": "The purpose of this study is to compare two types of radioactive drugs to see if they provide the same or different information about any disease that may be present in the participants breast.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Have a lesion on mammogram, ultrasound or breast MRI that measured \\< 15 mm in diameter, is considered suggestive or highly suggestive of malignancy according to the Breast Imaging Reporting and Data System Atlas criteria (BIRADS 4b, 4c or 5), and is scheduled for biopsy (needle biopsy and/or surgical biopsy).\n\nOR\n\n* Have a lesion on mammogram, ultrasound or breast MRI that measured \\> 15 mm in diameter, is known to be malignant and is scheduled for surgery.\n* Patient age \\> 18 years of age.\n* Have a negative pregnancy test on the first day of the study, or must be postmenopausal or surgically sterilized.\n\nExclusion Criteria:\n\n* Patients will be excluded if they have a small lesion (\\< 15 mm) and have undergone prior needle biopsy of the lesion (such biopsy may effectively remove all or part of the lesion and angiogenesis associated with wound healing might confound imaging results with 99mTc-NC100692).\n* Patient's pregnancy is not negative on the first day of the study, or the patient is unable to complete the pregnancy test\n* Patient is unable to sit on a chair for 40 minutes",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Patients that are scheduled for a biopsy at the Mayo Clinic in Rochester, MN. The patients must have a suspicious lesion",
+  "condition": [
+    "Breast Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

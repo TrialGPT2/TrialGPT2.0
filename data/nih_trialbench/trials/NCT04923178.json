@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT04923178",
+  "title": "A Multi-Center Natural History of Urothelial Cancer and Rare Genitourinary Tract Malignancies",
+  "brief_summary": "Background:\n\nTumors in the genitourinary tracts can occur in the kidney, bladder, prostate, and testicles and can have common and rare histologies. Some cancers that occur along the genitourinary (GU) tract are rare. Some GU tumors are so rare that they are not included in treatment studies or tissue banks. This makes it hard for researchers to determine standards of care. Researchers want to learn more about common and rare GU tumors.\n\nObjective:\n\nTo learn more about urinary tract cancers.\n\nEligibility:\n\nPeople ages 18 and older with urinary tract or GU cancer such as bladder, kidney, testicular, prostate, penis, or neuroendocrine cancer.\n\nDesign:\n\nParticipants will be screened with questions about their medical history. Their medical records will be reviewed.\n\nParticipants will have a physical exam. They will give blood and urine samples. They will complete a survey about their family cancer history. Clinical photographs will be taken to document skin lesions.\n\nParticipants may have imaging scans of their chest, abdomen, and pelvis. They may have a contrast agent injected into their arm.\n\nParticipants will get recommendations about how to best manage and treat their cancer. They can ask as many questions as they would like.\n\nParticipants will provide existing tumor samples if available. They may have optional tumor biopsies up to twice a year. For needle biopsies, the biopsy area will be numbed and they will get a sedative. A needle will be inserted through their skin to collect a tumor sample. For skin biopsies, their skin will be numbed. A small circle of skin will be removed.\n\nSome blood and tumor samples may be used for genetic tests.\n\nParticipants will have frequent follow-up visits. If they cannot visit NIH, their home doctor will be contacted. They will be followed on this study for life....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Participants must have histologically or cytologically confirmed urothelial or rare genitourinary cancer including but not limited to the following: small cell carcinoma of the bladder; adenocarcinoma of the bladder; squamous cell carcinoma of the bladder; plasmacytoid urothelial carcinoma; any penile cancer; any testicular cancer, sarcomatoid renal cell carcinoma; sarcomatoid urothelial carcinoma; renal medullary carcinoma or other miscellaneous histologic variants of the urothelial carcinoma, such as, but not limited to micropapillary, giant cell, lipid-rich, clear cell and nested variants, large cell neuroendocrine carcinoma, lymphoepithelioma-like carcinoma and mixed patterns will be considered, as well as small cell neuroendocrine prostate cancer, testicular Sertoli or Leydig cell tumors. Any genitourinary cancer can be included at the principal investigator's discretion.\n* Age \\>=18 years.\n* Ability of participant to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n-None",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "primary clinical",
+  "condition": [
+    "Urothelial Cancer",
+    "Bladder Cancer",
+    "Genitourinary Cancer",
+    "Urogenital Neoplasms",
+    "Urogenital Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional natural history study enrolling patients with any genitourinary cancer, regardless of prior therapy. There are no restrictions on prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "The eligibility criteria do not specify any requirements or restrictions regarding prior lines of systemic therapy for advanced or metastatic disease. Patients with any genitourinary cancer, including those who are treatment-naïve or have only received adjuvant/neoadjuvant therapy, are eligible."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01597973",
+  "title": "Trial for the Treatment of Extensively Drug-Resistant Gram-negative Bacilli (OVERCOME)",
+  "brief_summary": "Approximately 444 subjects who are greater than or equal to 18 to 95 years of age, are non-pregnant, and are in the inpatient setting of one of the study sites will be evaluated to treatment efficacy. Analysis will include subjects with bloodstream infection (BSI) or pneumonia due to at least one of the following gram-negative bacilli organisms: Acinetobacter baumannii, Klebsiella spp, Escherichia coli, Enterobacter spp. and/or Pseudomonas aeruginosa that demonstrates in vitro non-susceptibility defined as extensively drug-resistant Gram-negative bacilli (XDR-GNB) which includes XDR-AB, XDR-PA and CRE. If a subject has both BSI and pneumonia at the time of study enrollment, they will be included as a subject with pneumonia.\n\nObjectives:\n\nPrimary:\n\n\u2022Determine whether the treatment regimen of Colistimethate sodium (colistin) combined with a carbapenem (imipenem or meropenem) is associated with a decreased risk for mortality compared to colistin alone for subjects with bloodstream infection (BSI) and/or pneumonia due to XDR-GNB.\n\nSecondary:\n\n\u2022Determine what treatment regimen (colistin monotherapy or colistin combined with a carbapenem (imipenem or meropenem) is more likely to reduce the emergence of colistin resistance among XDR-GNB isolates during therapy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Hospitalized Adults (\\> 18 years to 95 years of age), at one of the study sites.\n* Diagnosis of BSI and/or pneumonia due to a preliminary result of gram-negative non-lactose fermenter that is oxidase negative; or a final results of XDR-A. baumannii; carbapenem-resistant Enterobacteriaceae; or XDR- P. aeruginosa and/or patients with suspected BSI and/or HAP (hospital acquired pneumonia) and who have had a prior history (within last 6 months) of XDR-GNB that was susceptible to colistin.\n\n  o If final results do not indicate that the pathogen is an XDR-GNB, and identifies alternative treatment options, the patient would be eligible for the study if the subject is allergic to all the alternative treatment options.\n* Patients with polymicrobial respiratory or blood infections, including XDR-GNB and one or more pathogens, will be included in the study, as long as the XDR-GNB is determined to be a true pathogen (AB, CRE or PA). Other pathogens will be treated with antimicrobial agents as determined by the treating physician.\n* If more than one XDR-GNB study pathogens is identified as a study pathogen causing BSI and/or pneumonia, then the first study pathogen recovered will be considered as the primary study pathogen. If more than one study pathogen is recovered from the same culture, then the infection will be categorized as being caused by multiple study pathogens.\n* Patients with a life expectancy of \\> 24 hours\n* Signed written informed consent and HIPAA Authorization form (US sites)\n\nExclusion Criteria:\n\n* Female patients who are pregnant\n* Female patients who are nursing\n* Patients who are prisoners\n* Patients who are less than 18 years of age or greater than or equal to 96 years of age\n* Patients with neutropenia (WBC \\< 500 cells/mm3)\n* The presence of any of the following known clinical syndromes involving XDR-GNB as a pathogen which necessitate durations of antimicrobial therapies greater than 14 days: endocarditis, osteomyelitis, prosthetic joint infections, meningitis and/or other central nervous system infections.\n* Patients receiving valproic acid (with or without a known seizure disorder).\n* Patients who received 72 hours or more of polymyxin treatment (intravenous or inhaled \\[pneumonia\\]) within 96 hours of enrollment.\n* Patients who have end-stage renal disease requiring hemodialysis, will be excluded from evaluation pertaining to nephrotoxicity in the per protocol population.\n* Patients with known Type 1 or other severe drug allergy to either of the study drugs or to \u03b2-lactams.",
+  "minimum_age": "18 Years",
+  "maximum_age": "95 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pneumonia",
+    "Blood Stream Infection"
+  ],
+  "overall_status": "COMPLETED"
+}

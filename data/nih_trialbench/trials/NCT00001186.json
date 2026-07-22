@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00001186",
+  "title": "Psychological Benefits of a Normalized Camping Experience for Children With Cancer",
+  "brief_summary": "Background:\n\n* Cancer has an enormous impact on the psychological and social well-being of the family unit. The life-threatening connotations of cancer single out the ill child from his peer/family group as one who is different, and often unable to maintain a normal lifestyle. Physical sequelae of cancer and its treatment accentuate the differences between these children and their normal peers/siblings.\n* It is important that children with cancer be prepared to function outside of protected situations and begin to develop skills of separation and independence. For healthy children, some of these latter skills are acquired by a camping experience. Such an experience for the patient with cancer is frequently precluded by their dependence on medical facilities and the physical limitations of their activities.\n* The goal of this study will be to assess the short and long term benefits of the \"normalized\" camping experience, provided in conjunction with Special Love, Inc., on the patients and staff. In particular, we will seek to determine whether such a comprehensive experience is capable of influencing the attitudes and life experiences of patients and staff in a positive manner.\n\nObjectives:\n\n-To evaluate the impact of an enriched normalized camping experience on the quality of life of the pediatric cancer patient. In particular, attempts will be made to measure the manner in which this experience influences the child's sense of well-being and self-esteem as well as his or her relationship with parents, family, and peers.\n\nEligibility:\n\n* Children 7-17 years of age who are currently being treated for cancer or are up to 3 years post therapy OR Young adults with cancer (YACers) 18-25 years of age who are acting as counselors at Camp Fantastic\n* All children/young adults will be selected for camp after careful screening by a multidisciplinary committee consisting of medical and program directors.\n* At the discretion of the multidisciplinary committee consisting of medical and program directors, special exceptions may be made for children with extenuating circumstances.\n\nDesign:\n\n* Assessment of benefit may include interviews with children and families before, during and following camp. Observational data on the child's performance at camp will be noted.\n* Medical and nursing personnel will consist of staff from the Pediatric Branch at the NCI, other units within the NIH, and participating institutions.\n* Special Love members, the Program Director at the 4-H Center camp (site of the camp) and Pediatric Branch staff at the NCI will coordinate the camp program, taking into account the medical needs of each camper.\n* Every attempt will be made to provide a full agenda of age appropriate activities for the patients.\n* The length of the camping experience for children with cancer will be for 7 days beginning on a Sunday and extending through the following Saturday morning. Patients will be transported to the camp from the NIH Clinical Center and the Virginia hospitals by bus.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Children 7-17 years of age who are currently being treated for cancer or are up to 5 years post therapy.\n\nOR\n\nYoung adults with cancer (YACers) 18-25 years of age who are acting as counselors at Camp Fantastic.\n\n* Children/young adults will be selected for camp after careful screening by a multidisciplinary committee consisting of medical and program directors. While the state of the child s health will certainly be considered there will be no exclusions for:\n* Patients who are receiving intramuscular, intrathecal, oral or intravenous medications or blood products.\n* Patients who have had amputations or have other physical defects.\n* Patients who become febrile and neutropenic at the onset or during the week of camp will stay at camp on antibiotic therapy providing their condition remains stable.\n* At the discretion of the multidisciplinary committee consisting of medical and program directors, special exceptions may be made for patients with extenuating circumstances.\n* All children will be officially enrolled and will have an NIH Clinical Center Patient Care Number. The enrollment of a child, signing of protocol consent, and completion of admission paperwork is done in person but under extenuating circumstances it may be done over the phone after the paperwork has been mailed to the parent/guardian. Extenuating circumstances would include a last minute application to camp after the trip for camp screenings in Norfolk or Richmond has been completed.\n\nEXCLUSION CRITERIA:\n\n-Children with a medical diagnosis other than cancer or their related disorders.",
+  "minimum_age": "7 Years",
+  "maximum_age": "25 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Children 7-17 years of age who are currently being treated for cancer or are up to 5 years post therapy, OR, Young Adults with Cancer (YACers) 18-25 years of age who are acting as counselors at Camp Fantastic and are enrolled in another NIH protocol.",
+  "condition": [
+    "Pediatric Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls children and young adults with cancer who are currently receiving therapy or are up to several years post-therapy, regardless of line of therapy or disease stage. There are no restrictions based on prior lines of systemic therapy for advanced disease, and adjuvant-only patients may be included.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes children currently being treated for cancer or up to 5 years post-therapy, with no specification regarding lines of therapy for advanced disease. Patients who have only received adjuvant therapy are not excluded, and there are no restrictions on prior systemic therapy lines."
+    }
+  ]
+}

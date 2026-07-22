@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04750317",
+  "title": "Efficacy and Safety of Tofacitinib in Patients With COVID-19 Pneumonia",
+  "brief_summary": "TOFA-COV-2 is a cohort study of the efficacy of tofacitinib in reducing the risk of mechanical ventilation and/or death in patients with moderately severe COVID-19 pneumonia who received standard of care treatment (SoC). The study population consists of adults (\u226518 years) with COVID-19, who are admitted to the university hospitals and don't require invasive or noninvasive ventilation on admission. All patients are divided into four groups depending on nadir levels of oxygen saturation and therapy: (1) patients with oxygen saturation \u226493% who received tofacitinib and SoC, (2) patients with oxygen saturation \u226493% who received only SoC, (3) patients with oxygen saturation \\>93% who received tofacitinib and SoC, (4) patients with oxygen saturation \\>93% who received only SoC. The aim of the study is to test the hypothesis that addition of tofacitinib to SoC could reduce the risk of mechanical ventilation and/or death.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. SARS-CoV2 Infection diagnosed by PCR and/or typical lesions on CT-scan (4 or 5 on CO-RADS scale) in combination with at least one of the following:\n\n   * oxygen saturation at rest \u226493% on ambient air,\n   * AND/OR C-reactive protein \u226550 mg/L,\n   * AND/OR fever (\u226538.0\u00b0C) that persisted for at least two days despite treatment with nonsteroidal antiinflammatory drugs or paracetamol\n2. Written Informed Consent\n\nExclusion Criteria:\n\n1. Age \\<18 years\n2. Coexistent infection other than COVID-19\n3. Requirement for invasive mechanical ventilation\n4. Estimated glomerular filtration rate calculated using CKD-EPI formula \u226430 ml/min/1.73 m2;\n5. Elevated ALT and/or AST levels more than 3 times the upper limit of normal\n6. Chronic use of glucocorticoids or immunosuppressive agents\n7. Administration of interleukin-6 inhibitors and/or high-dose glucocorticoids (\u2265250 mg prednisone equivalent intravenously) for the treatment of COVID-19",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID-19"
+  ],
+  "overall_status": "COMPLETED"
+}

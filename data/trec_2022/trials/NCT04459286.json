@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04459286",
+  "title": "The Nitazoxanide Plus Atazanavir for COVID-19 Study",
+  "brief_summary": "Since the outbreak of the novel coronavirus disease in 2019 (COVID-19), an unprecedented global search for potential therapeutics and vaccines is ongoing. In this study, a combination of two drugs that have been shown to be effective against the germ that causes COVID-19 in the laboratory will be tested in patients diagnosed with moderate to severe COVID-19. One of the drugs is called nitazoxanide and the second is atazanavir/ritonavir. Nitazoxanide has been used for the treatment of diarrhea since 2004 while atazanavir/ritonavir was approved for HIV treatment in 2003. They are known to be safe in humans.\n\nIn this pilot study, 98 COVID-19 patients will be recruited into two groups. The 49 patients in group 1 will receive the standard of care determined by their primary care providers while the 49 patients in group 2 will receive both the standard of care combined with the two study drugs. Patients in group 2 will receive the study drugs for 14 days and all patients will be monitored for a total of 28 days.\n\nThe time it takes for the germ that causes COVID-19 to be completely removed from the body (in nasal secretions) and the time to clinical improvement will be monitored in all patients and compared between the two groups.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Willingness and ability to provide written informed consent\n* At least 18 and not more than 75 years of age at study entry\n* SARS-CoV-2 infection confirmed by PCR test within 4 days before randomization\n* Currently symptomatic (fever or chills, cough, myalgia, sore throat, shortness of breath, or new onset of anosmia or ageusia) and at COVID-19 isolation and treatment centre\n\nExclusion Criteria:\n\n* Inability to take orally administered medication or food\n* Known hypersensitivity to study medication\n* Pregnant or lactating (unless practicing exclusive replacement feeding for the entire study duration)\n* Participation in any other interventional trial for COVID-19 (observational study co-enrollment allowed)\n* Concurrent treatment with other agents with actual or possible direct-acting antiviral activity against SARS-CoV-2 less than 24 hours prior to study drug dosing\n* Concurrent use of agents with known or uncertain interaction with study drugs, including ritonavir\n* Requiring mechanical ventilation at screening\n* Alanine Aminotransferase (ALT) or aspartate aminotransferase (AST) above 5 times upper limit of normal (ULN)\n* Creatinine clearance below 50 mL/min using the Cockcroft-Gault formula for participants above 18 years of age",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid-19"
+  ],
+  "overall_status": "TERMINATED"
+}

@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT01560741",
+  "title": "Telemedicine and Ventilator Titration in Chronic Respiratory Patients Initiating Non-invasive Ventilation",
+  "brief_summary": "The critical nature of respiratory diseases, the continuously increasing prevalence of these conditions, and the subjective perception of patients vis-\u00e0-vis their pulmonary function and health status underscore the importance of home telemonitoring. These conditions are critical and necessitate close and regular monitoring that may be achieved at distance using telemonitoring. This study will assess a number of measures both at baseline and post-intervention from a number of domains, including Arterial Blood Gases (ABG), BiPAP-related data, chronic respiratory failure symptoms, health-related quality of life, patients satisfaction and utilization of healthcare resources.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\nOHS:\n\n* PaCO2 \\> 45 mmHg;\n* IMC \\> 40 Kg/m2\n\nCOPD:\n\n* Age \\< 80 years;\n* Receiving appropriate medical therapy according to gold guidelines\n* Long-term oxygen therapy (LTOT) for at least 3 months;\n* PaCO2 \\> 50 mmHg during room air\n* ph \\> 7,35 and free from exacerbations in the 4 weeks preceding recruitment;\n* One exacerbation in the last year before preceding recruitment with necessity of NIV in the acute care setting;\n* FEV1 \\< 1,5l or \\< 50% predicted;\n* FEV1/FVC \\< 60%\n* Total Lung Capacity (TLC)\u2265 90% predicted;\n* PaO2 \\< 60 mmHg breathing room air at rest.\n\nNMD and CWD:\n\n* PaCO2 \\> 45 mmHg;\n* Significant nocturnal desaturation\n* FVC \\< 50% predicted;\n* SNIP \\< 40 cmH20\n* MIP \\< 60% predicted\n* Ortopnea;\n* 20% drop of VC in supine position.\n\nExclusion Criteria:\n\nOHS:\n\n* COPD\n* NMD\n\nCOPD:\n\n* 15% increase in FEV1 after inhaled Salbutamol (200 \u00b5g);\n* Active smoking;\n* History of OSA (with AHI \\> 15 episodes.h-1)\n\nNMD and CWD:\n\n* COPD;\n* OHS;\n* PCF \\< 270;\n* Severe bulbar weakness (ALSFRS bulbar subscore 0-3)\n* MIC/VC=1",
+  "minimum_age": "15 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chronic Obstructive Pulmonary Disease",
+    "Neuromuscular Disease",
+    "Chest Wall Disorders",
+    "Obesity Hypoventilation Syndrome"
+  ],
+  "overall_status": "UNKNOWN"
+}

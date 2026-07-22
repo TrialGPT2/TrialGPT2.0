@@ -1,0 +1,29 @@
+{
+  "nctid": "NCT03496545",
+  "title": "Efficacy of Bromocriptine For Fever Reduction in Acute Neurologic Injury",
+  "brief_summary": "The purpose of this study is to evaluate the antipyretic effect of bromocriptine in critically-ill patients with acute neurologic injury and fever from infectious and non-infectious etiologies.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* age \u226518 years old\n* weight \u2265 40 kg\n* one reading of body temperature \u2265 38.3 \u00baC\n* diagnosis of subarachnoid hemorrhage, intracerebral hemorrhage, traumatic brain injury, subdural hematoma, or ischemic stroke\n* admission to the Intensive Care Unit at UCSF Medical Center or Zuckerberg San Francisco General Hospital.\n\nExclusion Criteria:\n\n* bromocriptine or acetaminophen hypersensitivity or allergy\n* known contraindication to bromocriptine- known ergot alkaloid hypersensitivity, known history of syncopal migraine\n* contraindication to nasogastric tube or swallowing pills\n* current diagnosis of acute liver failure, acute liver injury, or prior diagnosis of cirrhosis. acute presentation (\\< 26 weeks), evidence of coagulation abnormality: international normalized ratio (INR) \u2265 2; evidence of liver damage: alanine aminotransferase (ALT) of 10 x normal value; and any degree of mental status alteration\n* currently being treated with intra or extravascular therapeutic hypothermia - or where therapeutic hypothermia treatment is anticipated during study period\n* hyperthermic syndromes: heat stroke, evidence of thyrotoxicosis, malignant hyperthermia, neuroleptic malignant syndrome, or other drug-induced hyperthermia\n* administration of acetaminophen or acetaminophen containing medications within 9 hours prior to fever presentation\n* administration of non-steroidal anti-inflammatory drugs (NSAIDs) within 6 hours prior to fever presentation or aspirin \\> 300mg less than 1 hour prior to fever presentation.\n* pregnancy\n* extracorporeal blood circuit therapies: replacement therapy, extracorporeal life support (ventricular assist device, extracorporeal membrane oxygenation) during study period\n* anticipated ICU stay \\< 48 hours'\n* creatinine clearance \u2264 30\n* severe cardiovascular disease (especially unstable angina or severe valvular disease)\n* patients already taking bromocriptine for other indications",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Subarachnoid Hemorrhage",
+    "Subdural Hematoma",
+    "Traumatic Brain Injury",
+    "Ischemic Stroke",
+    "Fever",
+    "Intracerebral Hemorrhage"
+  ],
+  "overall_status": "COMPLETED"
+}

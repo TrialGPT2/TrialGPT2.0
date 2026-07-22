@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04470856",
+  "title": "Carotid Doppler and EEOT for Fluid Responsiveness Prediction",
+  "brief_summary": "Fluid responsiveness prediction prior to fluid challenge administration is a topic of interest, which has been extensively investigated, but remains challenging.\n\nIn clinical practice, functional hemodynamic tests (FHT) consisting of maneuvers that affect cardiac function and/or heart-lung interaction, have been introduced in order to identify fluid responders and non-responders without fluid challenge administration.\n\nChanges in cardiac output induced by the Passive Leg Raising (PLR) test reliably predicted the increase in cardiac output to volume expansion. New approaches have been recently developed based on changes in respiratory dynamics, such as a transient increase in tidal volume, or a lung recruitment maneuver or an end-expiratory occlusion (EEO) test. The EEO leaded to an increase in venous return, cardiac preload and stroke volume in preload-responsive patients. The authors found that an increase in cardiac output \u2265 5% during a 15-s EEO reliably predicted its response to a 500-ml saline infusion.\n\nHowever, in order to identify the rapid and transient increase in cardiac index during the EEO, continuous and instantaneous cardiac output monitoring is necessary. Pulse contour analysis methods provide a beat-to-beat estimation of cardiac output and had been used in most of studies validating the EEO test.\n\nCarotid doppler is a non-invasive, bedside, easy to use ultrasound technique that measuring blood flow peak velocity (CDPV) and duration of systolic component of each cardiac cycle (from the onset to dicrotic notch- Flow time - FT) allows a reliable estimation of fluid status and could be an interesting alternative to track changes in SV and cardiac output.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* sedated and mechanically ventilated patients\n* need a fluid challenge\n* hypotension defined as a systolic arterial pressure \u226490 mmHg\n* tachycardia \u2265100 beats/min\n* urinary flow \u22640.5 mL/kg/min for 2 hrs\n\nExclusion criteria:\n\n* age\\< 18 y old\n* significant valvular heart diseases\n* cardiac arrhythmia\n* peripheral arterial disease\n* common carotid artery stenosis greater than 50%\n* spontaneous breathing.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Septic Shock"
+  ],
+  "overall_status": "COMPLETED"
+}

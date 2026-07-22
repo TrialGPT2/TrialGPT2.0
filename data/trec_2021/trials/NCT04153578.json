@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04153578",
+  "title": "Time to Lose the Weight? Comparison of Weight-based and Non-weight-based Vasopressors for Septic Shock",
+  "brief_summary": "At present, there is conflicting evidence regarding outcomes in patients with septic shock receiving weight-based vasopressor (WBVP) versus non-weight-based vasopressor (NWBVP) dosing strategies. At MCMC, a weight-based strategy is in place whereas MDMC, MMMC and MRMC currently utilize a non-weight-based dosing strategy. Obese patients (BMI \\> 30) receiving either strategy may potentially be receiving substantially more or less vasopressor exposure compared to their non-obese (BMI \\< 30) counterparts. Determining total vasopressor exposure and assessing clinical outcomes would benefit our institution and others by providing optimal vasopressor dosing strategies in obese and non-obese patients. There is a difference in clinical outcomes between patients receiving weight-based and non-weight-based vasopressor dosing strategies. There is a difference in total vasopressor exposure between obese and non-obese patients utilizing WBVP and NWBVP strategies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* ICU admission\n* Medical admission type\n* Received NE, epinephrine (EPI), phenylephrine (PE), or dopamine (DA) for septic shock\n* Received NE/EPI/PE/DA for \\> 24 hours\n* Age \u2265 18 years\n\nExclusion Criteria:\n\n* Non-sepsis indication for vasopressors\n* Surgical or trauma admission type\n* ICU length of stay \\< 24 hours\n* Pregnant",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients admitted to MDMC and MCMC from 4/1/2017-8/31/2019 will be identified through the electronic medical record utilizing ICD codes for sepsis and septic shock.",
+  "condition": [
+    "Septic Shock",
+    "Weight, Body"
+  ],
+  "overall_status": "COMPLETED"
+}

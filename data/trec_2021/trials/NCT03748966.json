@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT03748966",
+  "title": "Calcitriol Monotherapy for X-Linked Hypophosphatemia",
+  "brief_summary": "Children and adults with XLH recruited will be treated with calcitriol alone (without phosphate supplementation) for one year, during which the calcitriol dose will be escalated during the first 3 months of therapy. The investigators hypothesize that treatment of adults and children with XLH alone will improve serum phosphate levels and skeletal mineralization without causing an increase in kidney calcifications. The study will also examine if calcitriol therapy will improve growth in children.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of XLH with family history excluding male-to-male transmission, or positive genotype for PHEX mutation\n* Serum PTH levels less than 1.5x the upper limit of normal\n* Serum calcium levels less than 10.0 mg/dl\n* eGFR \\>= 60 mL/min/1.73m2\n* 25(OH) vitamin D level \\>= 20 ng/dL\n\nExclusion Criteria:\n\n* Known allergy to calcitriol\n* Pregnancy or breast feeding\n* Use of skeletally active agents such as bisphosphonates, teriparatide, SERMS, hormone replacement therapy and progesterone-only contraceptive agents (combination oral contraceptive use in premenopausal women is not an exclusion criterion).\n* Unwilling or unable to stop therapy with calcitriol and phosphate therapy for two weeks prior to study\n* Therapy with cinacalcet within the past two weeks\n* Current use of growth hormone therapy\n* Use of diuretics or medications that alter renal handling of mineral ions.\n* Use of glucocorticoids for more than 14 days in the past 12 months with the exception of inhaled agents.\n* History of malignancy except basal and squamous cell carcinoma of the skin.\n* Significant history of psychiatric disease per DSM-5.\n* Substance use disorder per DSM-5.\n* Significant cardiopulmonary disease (unstable CAD or stage D ACC/AHA heart failure).\n* Absence of laboratory values for serum calcium, phosphate and creatinine in the 24 months prior to enrollment.",
+  "minimum_age": "3 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "X-linked Hypophosphatemia",
+    "Hypophosphatemic Rickets",
+    "Hypophosphatemic Rickets, X-Linked Dominant"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

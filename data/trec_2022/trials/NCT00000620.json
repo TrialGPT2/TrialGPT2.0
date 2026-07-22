@@ -1,0 +1,29 @@
+{
+  "nctid": "NCT00000620",
+  "title": "Action to Control Cardiovascular Risk in Diabetes (ACCORD)",
+  "brief_summary": "The purpose of this study is to prevent major cardiovascular events (heart attack, stroke, or cardiovascular death) in adults with type 2 diabetes mellitus using intensive glycemic control, intensive blood pressure control, and multiple lipid management.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosed with type 2 diabetes mellitus, as determined by the new American Diabetes Association guidelines, which include a fasting plasma glucose level greater than 126 mg/dl (7.0 mmol/l), or a 2-hour postload value in the oral glucose tolerance test of greater than 200 mg/dl, with confirmation by a retest\n* For participants aged 40 years or older, history of CVD (heart attack, stroke, history of coronary revascularization, history of peripheral or carotid revascularization, or demonstrated angina)\n* For participants aged 55 years or older, a history of CVD is not required, but participant must be considered to be at high risk for experiencing a CVD event due to existing CVD, subclinical disease, or 2+ CVD risk factors\n* HbA1c 7.5%-9% (if on more drugs) or 7.5%-11% (if on fewer drugs)",
+  "minimum_age": "40 Years",
+  "maximum_age": "79 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Atherosclerosis",
+    "Cardiovascular Diseases",
+    "Hypercholesterolemia",
+    "Hypertension",
+    "Diabetes Mellitus, Type 2",
+    "Diabetes Mellitus",
+    "Coronary Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

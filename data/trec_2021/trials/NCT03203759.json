@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT03203759",
+  "title": "Hospital-Level Care at Home for Acutely Ill Adults",
+  "brief_summary": "The investigators propose a home hospital model of care that substitutes for treatment in an acute care hospital. Limited studies of the home hospital model have demonstrated that a sizeable proportion of acute care can be delivered in the home with equal quality and safety, reduced cost, and improved patient experience.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Resides within either a 5-mile or 20 minute driving radius of emergency department\n* Has capacity to consent to study OR can assent to study and has proxy who can consent\n* \\>= 18 years-old\n* Can identify a potential caregiver who agrees to stay with patient for first 24 hours of admission. Caregiver must be competent to call care team if a problem is evident to her/him. After 24 hours, this caregiver should be available for as-needed spot checks on the patient. This criterion may be waived for highly competent patients at the patient and clinician's discretion.\n* Primary or possible diagnosis of cellulitis, heart failure, complicated urinary tract infection, pneumonia, COPD/asthma, other infection, chronic kidney disease, malignant pain, diabetes and its complications, gout flare, hypertensive urgency, previously diagnosed atrial fibrillation with rapid ventricular response, anticoagulation needs, or a patient who desires only medical management that requires inpatient admission, as determined by the emergency room team.\n\nExclusion Criteria:\n\n* Undomiciled\n* No working heat (October-April), no working air conditioning if forecast \\> 80\u00b0F (June-September), or no running water\n* On methadone requiring daily pickup of medication\n* In police custody\n* Resides in facility that provides on-site medical care (e.g., skilled nursing facility)\n* Domestic violence screen positive\n* Acute delirium, as determined by the Confusion Assessment Method\n* Cannot establish peripheral access in emergency department (or access requires ultrasound guidance)\n* Secondary condition: end-stage renal disease, acute myocardial infarction, acute cerebral vascular accident, acute hemorrhage\n* Primary diagnosis requires multiple or routine administrations of intravenous narcotics for pain control\n* Cannot independently ambulate to bedside commode\n* As deemed by on-call medical doctor, patient likely to require any of the following procedures: computed tomography, magnetic resonance imaging, endoscopic procedure, blood transfusion, cardiac stress test, or surgery\n* High risk for clinical deterioration\n* Home hospital census is full (maximum 5 patients at any time)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Infection",
+    "Heart Failure",
+    "COPD",
+    "Asthma",
+    "Gout Flare",
+    "Chronic Kidney Diseases",
+    "Hypertensive Urgency",
+    "Atrial Fibrillation Rapid",
+    "Anticoagulants; Increased"
+  ],
+  "overall_status": "COMPLETED"
+}

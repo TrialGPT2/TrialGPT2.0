@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT03464279",
+  "title": "Use of a Behavioral Economic Intervention to Reduce Antibiotic Prescription for Upper Respiratory Infections",
+  "brief_summary": "In an effort to implement Choosing Wisely guidelines and decrease patient harm, we will implement and evaluate a clinician audit-feedback and behavioral \"nudge\" initiative to reduce low-value antibiotics for URIs. Using a quasi-experiment (pre-post) design, antibiotic prescriptions for URI at LAC+USC Urgent Care Center (intervention site) vs. Olive View-UCLA Urgent Care Center (control site) will used to test the effects of behavioral \"nudge\" on antibiotic prescribing.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* all patient receiving treatment for Upper Respiratory Infections (defined by ICD codes EHR billable codes) at both LAC+USC Medical Center Urgent Care or Olive View-UCLA Medical Center\n\nExclusion Criteria:\n\n* Patients not receiving treatment for Upper Respiratory Infections at both LAC+USC Medical Center Urgent Care or Olive View-UCLA Medical Center",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Antibiotics",
+    "Upper Respiratory Infections",
+    "Safety-Net Hospitals",
+    "Behavioral Economics",
+    "Choosing Wisely"
+  ],
+  "overall_status": "COMPLETED"
+}

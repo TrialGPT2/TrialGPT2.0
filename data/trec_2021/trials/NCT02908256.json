@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02908256",
+  "title": "Comparison of Intraoperative Volume Replacement Determined by the Plethysmograph Variability Index (PVI) With That Determined by the Delta PP in the Digestive, Gynecological, Urological, and Abdominal Surgery and Their Impact on the Length of Stay",
+  "brief_summary": "An optimal intraoperative fluid replacement reduces the hospital stay, the admissions in the intensive care unit and the mortality rate after a major surgery.\n\nDifferent criteria are used to guide the optimal vascular filling of a patient. Among the various monitoring for the last twenty years are parameters originating from the respiratory variations of the arterial pressure curves and the pulse oximetry.\n\nOn arterial curves, the Systolic Pressure Variation (SPV) is the difference between the maximum systolic pressure (DeltaUp) and the minimal one (DeltaDown).On the oxygen saturometry curves obtained with the Masimo Radical7, the plethysmographic variability index (PVI) corresponds to the formula (PImax-PImin/PImax X 100%) where PI corresponds to the quotient expressed in % between the pulsed infrared absorption signal and the continuous absorption signal.\n\nIt has been demonstrated that the dynamic indexes were better than the static indexes to determine the response to the vascular filling. A meta-analysis showed that the dynamic changes of the variables derived from the arterial pressure curve of patients under mechanic ventilation could predict the vascular filling responsiveness with a high specificity and sensibility. The same thing applies to the variables derived from the pulsed oxymetry curves.\n\nFurthermore, monitoring and minimizing, through the vascular filling, the variations of the pulsated arterial pressure (delta PP) induced by the mechanic ventilation during a high risk surgery allows to reduce the postoperative complications and the hospital length of stay. This has not yet been proved for the non invasive parameters (IP and PVI).\n\nThe goal of this study is thus to compare a non invasive strategy (based on PVI) to an invasive strategy (based on the deltaPP) of perioperatory filling during abdomino-pelvic interventions (digestive, gynecologic, urologic), in order to test their equivalence and measure their impact in terms of hospital stay.\n\nThis record is linked to the NCT02709252 record and share the same cohort of patients.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Abdominal-pelvic surgery (digestive, gynecologic, urologic) with laparotomy or laparoscopy\n* Surgery duration superior to 1 hour\n\nExclusion Criteria:\n\n* ASA score of 4\n* BMI \\> 35\n* supraventricular arrythmia (isolated extrasystoles excepted)\n* cardiac insufficiency (F.E \\< 25 %)\n* severe peripheric vascular affections\n* severe respiratory affections\n* terminal renal insufficiency (creatine clear and \\< 30 mL/min)\n* gelatin allergies",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Abdomino-pelvic Surgery"
+  ],
+  "overall_status": "COMPLETED"
+}

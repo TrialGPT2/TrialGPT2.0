@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02748681",
+  "title": "Telemedicine Monitoring of Sleep Apnea in Stroke",
+  "brief_summary": "Study Objectives:\n\nMeta-analyses report a high prevalence of moderate to severe sleep apnea of more than 50% in stroke patients, with adherence rates for CPAP therapy of only 30%.\n\nThe primary objective of this study is to determine whether CPAP adherence in stroke patients with obstructive sleep apnea can be improved by a CPAP training strategy during rehabilitation combined with a telemedicine monitoring system after discharge.\n\nThe secondary objective is to compare recording quality as well as subjective and objective sleep data of non-attended level III polygraphy, polysomnography and telemetric CPAP data in the management of sleep apnea in stroke.\n\nFurther the investigators aim to study changes in nocturnal systolic blood pressure due to CPAP therapy with the pulse transit time method.\n\nFinally, the investigators intend to study the relationship between CPAP compliance, sleep and medical and neurorehabilition outcome parameters.\n\nDesign:\n\nSingle-blind, mono-center, randomized controlled trial on standard CPAP treatment as compared with CPAP treatment with a telemedicine monitoring system in stroke patients with moderate to severe OSA.\n\nSetting: Neurorehabilitation center in Vienna, Austria\n\nPatients: Adult subacute (1 to 12 months post stroke) stroke patients 18-70 yrs of age) with moderate to severe OSA (apnea hypopnea index (AHI) \u2265 15/hr) determined by non-attended polysomnography (AHI) \u2265 15/hr of sleep) or level III polygraphy (AHI) \u2265 30/hr of out-of-center sleep testing (OCST), who undergo successful CPAP training and titration (goal AHI\\< 10) at the neurorehabilitation unit.\n\nInterventions: Patients will be randomized to either standard care with an autotitrating CPAP device or an autotitrating CPAP device that transmits physiologic information (i.e., adherence, air leak, residual AHI) daily to a website that will be reviewed by their homecare provider. If any problems are identified, the patient will be contacted by his homecare provider by telephone. Neurologists performing sleep and neurological scoring will be blinded to the randomization.\n\nMeasurements: Recording of the different measuring systems, subjective and objective sleep quality, CPAP adherence after 3 months and 1 year in hours used per night, systolic BP determined by means of a non-linear algorithm and an individual one-point calibration of the pulse transit time obtained with a cuff-based BP measuring system (SOMNOmedics GmbH, Germany) and neurorehabilitation outcome parameters as Barthel Index, Timed Up and Go Test.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adults (18-70 yrs of age) with a subacute stroke (1-12 months)\n* Diagnosis of sleep apnea and acceptance of CPAP therapy:\n\nExclusion Criteria:\n\n* Patients with sopor/coma\n* Any form of dementia (Mini-Mental State Examination \\<20)\n* Previously diagnosed sleep apnea and established CPAP therapy\n* Purely central sleep apnea\n* Chronic obstructive pulmonary disease more than Gold III\n* Cancer\n* Severe kidney diseases\n* Coexisting causes of daytime sleepiness (e.g. narcolepsy, night or rotating shift-work; self-reported average sleep duration \\<4 h)\n* A major psychiatric or any other acute medical condition\n* Patients unable or unwilling to comply with the protocol",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke",
+    "Sleep Apnea"
+  ],
+  "overall_status": "COMPLETED"
+}

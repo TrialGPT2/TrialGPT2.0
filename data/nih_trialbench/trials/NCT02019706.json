@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT02019706",
+  "title": "Prospective Evaluation of 68Ga-DOTATATE PET/CT, Octreotide and F-DOPA PET Imaging in Ectopic Cushing Syndrome",
+  "brief_summary": "Between 10% and 15% of patients with endogenous hypercortisolism (Cushing syndrome) have ectopic (non-pituitary) production of adrenocorticotropin hormone (ACTH) that causes cortisol excess. In approximately 50% of these patients, the tumoral source of ACTH cannot be found initially despite very detailed and extensive imaging, including studies such as computed tomography, magnetic resonance imaging, and octreotide scan (Octreoscan) using the standard dose of indium- 111 pentetreotide (\\[111In-DTPA-D-Phe\\]-pentetreotide). The sensitivity and specificity of structurally based imaging studies depends on anatomic alterations and the size of the tumor. In contrast, positron emission tomography (PET) and somatostatin ligand imaging detect pathologic tissue based on physiologic and biochemical processes within the abnormal tissue. This protocol tests the ability of \\[18F\\]-L-3,4-dihydroxyphenylalanine (18F-DOPA) PET, and the somatostatin imaging analogue, 68Ga-DOTATATE-PET, to localize the source of ectopic ACTH production.\n\n...",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* 18 - 90 years of age\n* Medical history of ectopic Cushing syndrome or diagnosed with the possibility of ectopic Cushing syndrome\n* For females of reproductive potential: agreement to use highly effective contraception for at least 2 weeks before any PET scan\n* Ability of subject to understand and the willingness to sign a written informed consent document\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* Pregnancy or lactation; the radiation associated with PET and CT scans may be harmful to a developing fetus. Likewise the ingestion of radionuclides in breast milk has an unknown risk to an infant.\n* Evidence of severe active infection\n* Clinically significantly impaired cardiovascular function, abnormal coagulation in the absence of medically-indicated treatment (PT and PTT elevated by 30% above the normal values), hematopoietic (hematocrit less than 30%, hemoglobin below 10 g/dl, white count below 3000 K/UL, and platelets below 100,000 K/mm\\^3), hepatic (liver enzymes elevated by 4-fold above normal values), or renal function (plasma creatinine level over 2.1).\n* Based on the clinical judgment of the attending physician, other medical problems may prompt exclusion.\n* Body weight over 136 kg, which is the limit for the tables used in the scanning areas.\n* Combined blood withdrawal during the six weeks preceding the study greater than 450 ml.\n* Subjects who previously underwent ten or more F-DOPA PET/CT scans and ten or more DOTATATE scans.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "ACTH",
+    "Cushing's Syndrome"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an imaging study for patients with ectopic Cushing syndrome, with no mention of prior systemic therapy requirements or restrictions. The trial does not specify any line-of-therapy intent for advanced or metastatic disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference prior systemic therapy for advanced disease, adjuvant therapy, or any line-of-therapy restrictions. This is a diagnostic imaging study and does not specify treatment history requirements."
+    }
+  ]
+}

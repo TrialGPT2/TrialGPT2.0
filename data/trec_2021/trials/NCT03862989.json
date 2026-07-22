@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03862989",
+  "title": "Facilitating Catheter Guidance to Optimal Site for VT Ablation",
+  "brief_summary": "Each year in the UK, approximately 150,000 people have a heart attack when the blood supply to their heart is compromised. As a result, affected regions of the heart can become diseased and scarred. In a healthy person, electrical waves propagate across the heart in a regulated pattern which triggers contraction to pump blood around the body. The scar tissue that forms as a result of a heart attack can disrupt the propagation of the electrical waves. If significant disruptions occur, blood cannot be pumped out of the body effectively, leading to sudden death.\n\nAblation therapy aims to eliminate areas of diseased tissue that cause disruption to the heart rhythm, by applying radiofrequency using catheters inserted into the heart. The most accurate techniques used to locate the region to ablate require the induction of dangerous heart rhythms, which are only inducible in about 65% of people.\n\nPace mapping is a technique used to locate regions to ablate, which can be performed during normal heart rhythm. ECG data, which records electrical signals from the heart, is collected when the patient has an abnormal heart rhythm. From this template ECG, a clinician can tell the approximate location of the diseased tissue. A catheter is directed to that location, the heart stimulated, and another ECG, called the paced ECG is recorded. If the paced ECG matches the template ECG, it is assumed that the heart was paced in the location that requires ablation.\n\nCurrent ablation techniques are difficult, time consuming, and inaccurate. As a result, the procedure may work in only half of all patients, and result in unnecessary damage to healthy tissue, leading to later impairment of heart function.\n\nThe CPS project's overall goal is to increase the success rates of ablation therapy by improving the accuracy and efficiency of locating the optimal region of tissue to eliminate during the pace mapping procedure. Increasing ablation therapy success rates will mean that patients will be unlikely to suffer from future heart rhythm disorders as a result of their heart attack, increasing the life expectancy of heart attack patients. Excess damage caused to the heart as a result of unnecessary ablation lesions will be limited, decreasing the likelihood of future complications. In addition, dangerous heart rhythms do not need to be induced in the patient, significantly decreasing the risk of death during the treatment.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* post-myocardial infarction ventricular tachycardia diagnosis\n* scheduled to undergo radiofrequency catheter ablation as either emergency or elective case\n\nExclusion Criteria:\n\n* Unable to perform pace mapping during ablation procedure\n* Unable to terminate VT thus unable to provide data regarding successful ablation lesion sites\n* Intracardiac thrombus",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients scheduled for radiofrequency catheter ablation of post-myocardial infarction ventricular tachycardia at Bristol Heart Institute",
+  "condition": [
+    "Post-myocardial Infarction Ventricular Tachycardia"
+  ],
+  "overall_status": "WITHDRAWN"
+}

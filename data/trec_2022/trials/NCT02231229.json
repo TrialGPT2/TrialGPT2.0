@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02231229",
+  "title": "Rapid Detection of Rifampin and Isoniazid Resistance by PCR Before Tuberculosis (TB) Treatment Initiation",
+  "brief_summary": "French guidelines currently recommend to initiate a 4-drug containing regimen associating isoniazid (INH or H), rifampicin (RIFor RMP or R), pyrazinamide (PZA or Z) and ethambutol (EMB or E) pending the results of drug susceptibility testing (DST). The rationale behind routine use of EMB is to prevent the emergence of resistance to rifampicin (RMP), in case of primary resistance to INH. Hence, early detection of resistance to INH and RIF using molecular testing in Mycobacterium tuberculosis could allow early adaptation of antituberculosis treatment: i) start with a 3-drug containing regimen (i.e. INH, RIF, and PZA); ii) early enforcement of treatment when resistance is suspected, pending in depth susceptibility testings.\n\nthe duration of treatment is 6 months or 12 months.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adult patients\n* with active pulmonary tuberculosis (TB) and positive respiratory samples on microscopic examination for acid-fast bacilli (AFB+,) who are eligible for a standard TB treatment with a 4 drug combination\n* PCR (Genotype MTBDR Plus v2.0, Hain Lifescience) result available within the first 7 days of tuberculosis treatment.\n* who are seeking care in France (metropolitan or overseas) and accept a follow-up of 18 to 24 months after inclusion.\n* who have had a prior clinical examination\n\nExclusion Criteria:\n\n* Refusal to participate in the study\n* Prior history of TB treatment\n* For women of child bearing age, pregnancy, willing to become pregnant or breastfeeding\n* Patient without healthcare insurance (French social security)\n* Patient participating in another clinical trial\n* Any condition that might compromise, in the investigator's opinion, patient's compliance with the protocol.\n* Results of cultures available at enrollment\n* No HIV testing available within the last 3 months prior to inclusion in the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "84 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Tuberculosis"
+  ],
+  "overall_status": "COMPLETED"
+}

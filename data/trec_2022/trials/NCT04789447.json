@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04789447",
+  "title": "Initial CT Findings and CO-RADS Stage in COVID-19",
+  "brief_summary": "This study aims to determine whether patients with different real-time reverse transcriptase-polymerase chain reaction (PCR), chest computed tomography (CT) and laboratory findings have different clinical outcomes.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Aged 18 years and over,\n* Having SARS-CoV-2 RT-PCR test and chest CT examinations performed at the time of application or within 24 hours after admission\n* RT-PCR positivity in nasopharyngeal swabs sample, and/or the presence of clinical and laboratory findings of SARS-CoV-2 infection and/or the presence of COVID-19-compatible radiological findings in chest CT, and being diagnosed with COVID-19\n\nExclusion Criteria:\n\n* Patients with negative SARS-CoV-2 PCR test, pneumonia on CT but not given Covid-19 treatment by not considering Covid-19 by their doctor will not be included.\n* Patients whose data are not available\n* Patients with poor CT image quality\n* Patients who were transferred to another hospital",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who are diagnosed with Covid-19 in a two tertier hospital in Turkey",
+  "condition": [
+    "Covid19",
+    "SARS-CoV Infection",
+    "Pneumonia, Viral"
+  ],
+  "overall_status": "COMPLETED"
+}

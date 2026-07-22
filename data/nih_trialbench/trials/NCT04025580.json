@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04025580",
+  "title": "Systems Analyses of the Immune Response to the Seasonal Influenza Vaccine",
+  "brief_summary": "Background:\n\nVaccines help prevent disease by causing the body to have an immune response. Many parts of this response happen in the blood. This response happens over days and weeks after getting the vaccine. Researchers want to how the blood changes over time in response to vaccines. They want to find out why vaccines work better for some people than for others. This could help make more effective vaccines.\n\nObjective:\n\nTo learn about how the body responds to vaccines.\n\nEligibility:\n\nHealthy people ages 18 and older\n\nDesign:\n\nParticipants will be screened with a medical history, physical exam, and blood and urine tests.\n\nParticipants will have 9 visits over 6 months. All visits will include blood tests and a physical exam.\n\nParticipants will have the first visit 1 week before they get the vaccine.\n\nParticipants will get the flu vaccine at the second visit. The vaccine will be injected into the muscle of the upper arm with a needle. They will be watched for side effects for 15 minutes.\n\nParticipants will have the next 2 visits exactly 1 day and 1 week after they get the vaccine. They will have the other 5 visits about 14, 28, 70, and 100 days after they get the vaccine.\n\nParticipants will take email questionnaires about whether they had any side effects.\n\nParticipants may have optional extra study visits. These will be no more than once a month for up to 1 year after they get the vaccine. Optionally, they can also repeat the study each year through the 2023 - 2024 flu season",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIndividuals must meet all of the following criteria to be eligible for study participation:\n\n1. Aged 18 years and older (no upper age limit).\n2. Able to provide informed consent.\n3. Willing to have samples and data stored for future research.\n4. Able to proficiently speak, read, and write English.\n\nEXCLUSION CRITERIA:\n\nIndividuals meeting any of the following criteria will be excluded from study participation:\n\n1. CBC with differential, lymphocyte phenotyping with T, B, and natural killer cells (TBNK), acute care, mineral, and hepatic panels, anti-CMV immunoglobulin (Ig) G and IgM, and/or anti-Epstein-Barr virus (EBV) antibody panel values outside of the NIH Department of Laboratory Medicine normal reference ranges and deemed clinically significant by the PI at the time of screening.\n2. Positive result for anti-HIV 1/2 antibody, antibody to hepatitis B surface antigen, or anti-hepatitis C virus antibody screening at the time of screening.\n3. Prior receipt of a current seasonal influenza vaccine (for the season of participation).\n4. History of allergy or hypersensitivity to any components of the study vaccine (e.g., egg protein, latex).\n5. History of severe reactions to vaccines.\n6. Use of an oral glucocorticoid within the past 30 days.\n7. Receipt of a live-attenuated vaccine within the past 30 days.\n8. Receipt of any experimental vaccine.\n9. Receipt of any other type of vaccine (non-live and non-experimental, e.g., tetanus, diphtheria, and pertussis \\[TDaP\\]) within the past 14 days.\n10. Planned vaccination before day 100 after study vaccination.\n11. Current or recent use (within the past 90 days) of immunoglobulin therapy.\n12. Surgery within the past 8 weeks, or planned surgery before day 100.\n13. Current (within the past 30 days) treatment for active malignancy.\n14. Cancer chemotherapy in the past 5 years.\n15. Administration of any blood products within 90 days of the screening, or planned administration before day 100.\n16. History of parasitic, amebic, fungal, or mycobacterial infections within the past 1 year with the exception of tinea pedis and onychomycosis.\n17. Diabetes mellitus.\n18. History of autoimmune or autoinflammatory disease.\n19. History of a bleeding disorder.\n20. Current use (within the past 30 days) of illicit drugs (per subject report).\n21. Current use (within the past 30 days) of nicotine-containing products, including cigarettes and chewing tobacco, nicotine patches, gum, electronic cigarettes, etc.\n22. Current alcohol use disorders (criteria per Diagnostic and Statistical Manual of Mental Disorders, fifth edition), within the past 30 days.\n23. Serious, ongoing, uncontrolled infection within the past 30 days as per the judgement of the PI.\n24. History of Guillain-Barre syndrome (GBS).\n25. BMI greater than or equal to 30.\n26. Known or suspected immunodeficiency within 1 year, including documented HIV infection.\n27. Pregnancy or planning to become pregnant during the study period. (Women of childbearing potential must have a negative urine or serum pregnancy test at screening.)\n28. Presence of conditions that, in the judgment of the PI, may put the individual at undue risk or compromise the scientific objectives of the study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Healthy Volunteer"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a vaccine study enrolling healthy adults with no history of active malignancy treatment within the past 30 days or chemotherapy in the past 5 years. There is no intent to treat advanced cancer or to restrict based on prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls healthy adults and excludes those with current or recent treatment for active malignancy or chemotherapy in the past 5 years. There is no mention of systemic therapy for advanced disease, and the trial is not oncology-focused. Line-of-therapy intent is not applicable."
+    }
+  ]
+}

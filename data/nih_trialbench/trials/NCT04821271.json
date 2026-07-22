@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT04821271",
+  "title": "Antidepressant Effects of TS-161 in Treatment-Resistant Depression",
+  "brief_summary": "Background:\n\nMajor depressive disorder (MDD) is a common, chronic mental illness. It can take weeks to months for antidepressants to work. Researchers want to test a new drug that might act more rapidly.\n\nObjective:\n\nTo see if TS-161 will improve symptoms of depression in people with MDD.\n\nEligibility:\n\nAdults ages 18-65 with MDD without psychotic features.\n\nDesign:\n\nParticipants will be screened under a separate protocol. They will have blood tests. They will complete surveys about their symptoms.\n\nParticipants will have an inpatient visit at NIH. Participation may last 12-16 weeks.\n\nDuring the first phase of the study, participants will be tapered off their psychiatric medicines. For 2 weeks they will have a drug-free period.\n\nDuring Phase II participants will take TS-161 or placebo. They will take TS-161 for 3 weeks and placebo for 3 weeks. In between the 3-week time period, they will have 2-3 weeks where they will be drug free. Participants will also have the following tests during this time:\n\n* Interviews\n* Physical exams\n* Psychological tests and surveys about their symptoms\n* Blood draws and urine samples\n* They may complete tests of mood and thinking\n* Magnetic resonance imaging (MRI): Participants will lie in a machine that takes pictures of their brain.\n* Functional MRIs: They will perform tasks displayed on a computer screen inside the MRI scanner\n* Magnetoencephalography (MEG): Participants will lie down and do tasks of memory, attention, and thinking. A cone lowered on their head will record brain activity.\n* Electrocardiograms to record the heart s electrical activity. Electrodes will be placed on the skin....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nParticipants may be eligible for this study if they:\n\n1. Are able to understand the study and can provide your own consent.\n2. Are willing to undergo all study procedures and are available for the duration of the study.\n3. Are aged 18 to 65.\n4. Have major depressive disorder.\n5. Have a current episode of depression lasting at least 4 weeks.\n6. Ability to take oral medication.\n7. Have not responded to at least one antidepressant.\n8. For females of reproductive potential: use of contraception while in the study and for an additional 4 weeks after stopping the study drug.\n9. For males of reproductive potential: use of condoms or other types of birth control with partner while in the study and for an additional 3 months after stopping the study drug.\n10. Agree to be hospitalized at the NIH Clinical Center.\n11. Abstain from alcohol and drug use while in the study.\n\nEXCLUSION CRITERIA:\n\nParticipants may not be eligible for this study if they:\n\n1. Are taking any medications that might make it unsafe for you to receive TS-161 or might interfere with our study results.\n2. Have been treated with a reversible monoamine oxidase inhibitor (such as phenelzine (Nardil) and tranylcypromine (Parnate)), clozapine, or electroconvulsive therapy (ECT) less than 4 weeks before Phase II.\n3. Have been treated with fluoxetine, aripiprazole, or brexpiprazole less than 5 weeks before Phase II.\n4. Have ever undergone deep brain stimulation.\n5. Have taken ketamine or esketamine for the treatment of depression but did not respond.\n6. Are unwilling to stop undergoing one-on-one psychotherapy for the duration of the study.\n7. Are pregnant or plan to become pregnant in the next 12 to 16 weeks while in the study, or are breast-feeding.\n8. Have schizophrenia or any other psychotic disorder.\n9. Had significant drug or alcohol dependence or abuse in the past 3 months (except for nicotine or caffeine), or are currently using illicit substances.\n10. Have been diagnosed with borderline or antisocial personality disorder.\n11. Had a head injury that caused a loss of consciousness for more than 5 minutes (for the brain imaging).\n12. Have a medical illness that might make your participation unsafe, such as heart (including coronary artery disease, atherosclerotic ischemic stroke, and atrial fibrillation), liver, respiratory, blood, immune, or kidney disease or a seizure disorder, based on our evaluation.\n13. Have abnormal results on blood and urine tests we will do.\n14. Have significant suicidal or homicidal thoughts.\n15. Have a positive HIV test.\n16. For brain imaging: Have metal in your body which would make having an MRI scan unsafe, such as pacemakers, stimulators, pumps, aneurysm clips, metallic prostheses, artificial heart valves, cochlear implants or shrapnel fragments, or if you were a welder or metal worker, since you may have small metal fragments in the eye.\n17. Weigh over 245 lbs. and cannot fit into the MRI scanner.\n18. Have a positive, or suspected positive, Coronavirus Disease 2019 (COVID-19) test.\n19. Are an National Institute of Mental Health (NIMH) staff member or an immediate family member of an NIMH staff member.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Major Depressive Disorder",
+    "Treatment-Resistant Depression",
+    "Depression"
+  ],
+  "overall_status": "TERMINATED",
+  "line_of_therapy_overall_summary": "This trial enrolls adults with major depressive disorder who have not responded to at least one prior antidepressant. There are no distinct cohorts or arms based on prior lines of therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 1,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "2L+",
+      "line_of_therapy_text": "Eligibility requires participants to have 'not responded to at least one antidepressant,' indicating at least one prior line of systemic therapy for depression. There is no upper limit on the number of prior lines specified. Adjuvant-only therapy is not addressed in the eligibility criteria."
+    }
+  ]
+}

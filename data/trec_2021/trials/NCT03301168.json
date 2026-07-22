@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT03301168",
+  "title": "Study of Gene Modified Donor T-cells Following TCR Alpha Beta Positive Depleted Stem Cell Transplant",
+  "brief_summary": "This study will evaluate pediatric patients with malignant or non-malignant blood cell disorders who are having a blood stem cell transplant depleted of T cell receptor (TCR) alfa and beta cells that comes from a partially matched family donor. The study will assess whether immune cells, called T cells, from the family donor, that are specially grown in the laboratory and given back to the patient along with the stem cell transplant can help the immune system recover faster after transplant. As a safety measure these T cells have been programmed with a self-destruct switch so that they can be destroyed if they start to react against tissues (graft versus host disease).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age \\> 1 month and \\< 26 years\n2. Life expectancy \\> 10 weeks\n3. Subjects deemed eligible for allogeneic stem cell transplantation.\n4. Subjects with life-threatening hematological malignancies (high-risk ALL in 1st CR, ALL in 2nd or subsequent CR, AML in 1st CR, AML in 2nd or subsequent CR, myelodysplastic syndromes, non-Hodgkin lymphomas in 2nd or subsequent CR, other hematologic malignancies eligible for stem cell transplantation per institutional standard);\n5. Non-malignant disorders amenable to cure by an allograft:\n\n   1. primary immune deficiencies,\n   2. severe aplastic anemia not responding to immune suppressive therapy,\n   3. osteopetrosis,\n   4. hemoglobinopathies, (thalassemias, and sickle cell anemia, and Diamond-Blackfan anemia among others)\n   5. congenital/hereditary cytopenia, including Fanconi Anemia before any clonal malignant evolution (MDS, AML) Note: Subjects will be eligible if they meet either item 4 OR item 5.\n6. Lack of suitable conventional donor (HLA identical sibling or HLA phenotypically identical relative or 10/10 unrelated donor evaluated using high resolution molecular typing) or presence of rapidly progressive disease not permitting time to identify an unrelated donor\n7. A minimum genotypic identical match of 5/ 10 is required.\n8. The donor and recipient must be identical, as determined by high resolution typing, at least one allele of each of the following genetic loci: HLA-A, HLA-B, HLA-Cw, HLA- DRB1 and HLA-DQB1.\n9. Lansky/Karnofsky score \\> 50\n10. Signed written informed consent\n\nExclusion Criteria:\n\n1. Greater than Grade II acute GVHD or chronic extensive GVHD due to a previous allograft at the time of inclusion\n2. Subject receiving an immunosuppressive treatment for GVHD treatment due to a previous allograft at the time of inclusion\n3. Dysfunction of liver (ALT/AST \\> 5 times normal value, or bilirubin \\> 3 times normal value), or of renal function (creatinine clearance \\< 30 mL / min)\n4. Severe cardiovascular disease (arrhythmias requiring chronic treatment, congestive heart failure or left ventricular ejection fraction \\< 40%)\n5. Current active infectious disease (including positive HIV serology or viral RNA)\n6. Serious concurrent uncontrolled medical disorder\n7. Pregnant or breastfeeding subject\n8. For subjects who have received more than 1 x 10E5 alpha/beta T cells/kg with the graft infusion the clinical trial site must contact the sponsor for approval to be eligible to receive BPX-501 infusion.",
+  "minimum_age": "1 Month",
+  "maximum_age": "26 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Lymphoblastic Leukemia",
+    "Leukemia, Acute Myeloid (AML), Child",
+    "Lymphoma, Non-Hodgkin",
+    "Myelodysplastic Syndromes",
+    "Primary Immune Deficiency Disorder",
+    "Osteopetrosis",
+    "Cytopenia",
+    "Hemoglobinopathy in Children",
+    "Anemia, Aplastic"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

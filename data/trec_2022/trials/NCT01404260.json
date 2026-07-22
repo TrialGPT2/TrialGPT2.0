@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01404260",
+  "title": "Intercalating and Maintenance Use of Iressa Versus Chemotherapy in Selected Advanced Non Small Cell Lung Cancer",
+  "brief_summary": "Platinum-based combination chemotherapy, such as gemcitabine-carboplatin, is one of the standard first-line therapy for advanced non-small cell lung cancer (NSCLC).\n\nEpidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKI) have clinical efficacy, as compared with the best supportive care or standard chemotherapy, when given as second-line or third-line therapy for advanced NSCLC.\n\nTreatment with EGFR-TKI is most effective in female, never-smoker, or patients with adenocarcinoma, and patients of Asian origin. In these populations, such treatment is associated with favorable objective response rates, progression-free survival, and overall survival. These populations also have a relatively high incidence of somatic mutations in the region of the EGFR gene that encodes the tyrosine kinase domain.\n\nThe recent study(IPASS) by Tony S. Mok showed gefitinib was superior to carboplatin-paclitaxel as an initial treatment for pulmonary adenocarcinoma among nonsmokers or former light smokers in East Asia . In the subgroup of 261 patients who were positive for the EGFR gene mutation, PFS was significantly longer among those who received gefitinib than among those who received carboplatin-paclitaxel(HR= 0.48,P\\<0.001), whereas in the subgroup of 176 patients who were negative for the mutation, PFS was significantly longer among those who received carboplatin-paclitaxel(HR=2.85,P\\<0.001). Gefitinib treatment was well tolerated, with lower in hematologic toxicity, and no treatment-related interstitial lung disease.In this study(IPASS), only patients with a mutation of the EGFR gene in the tumor could get benefit from gefitinib as first line treatment.\n\nTony S. Mok and his colleague also found that intercalating and maintenance administration of erlotinib(another EGFR-TKI)following gemcitabine/platinum chemotherapy as first line therapy led to a significant improvement in PFS .",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* After two cycles chemotherapy(gemcitabine plus carboplatin), patients with stable disease(SD) by RECIST1.1.\n* Patients between 18 and 75 years of age.\n* Present with histologically proven or cytological diagnosis of adenocarcinoma NSCLC Stage IIIB or IV as defined by the American Joint Committee on Cancer Staging Criteria for Lung Cancer, that is not amenable to curative therapy,such as surgery or radiotherapy and so on.\n* No prior systemic chemotherapy or targeted therapy for lung cancer before screening.\n* Never smokers(defined as having smoked less than 100 cigarettes in their lifetime ) or light ex-smokers (defined as having ceased smoking at least 15 years before Day 1 of study treatment and having smoked 10 pack-years or fewer).\n* EGFR mutation status unknown.\n* ECOG performance status of 0 or 1.\n* Adequate organ function.\n* Prior radiation therapy allowed to \\<25% of the bone marrow . Prior radiation to the whole pelvis is not allowed. Prior radiotherapy must be completed at least 4 weeks before study enrollment. Patients must have recovered from the acute toxic effects of the treatment prior to study enrollment.\n* Signed informed consent document on file.\n* Estimated life expectancy of \u226512 weeks.\n* Patient compliance and geographic proximity that allow adequate follow up.\n\nExclusion Criteria:\n\n* Known severe hypersensitivity to gefitinib.\n* Sympotomatic patients with brain metastases.\n* Pleural effusion or pericardiac effusion that cannot be controlled by drainage or other procedures.\n* Inability to comply with protocol or study procedures.\n* A serious concomitant systemic disorder that, in the opinion of the investigator, would compromise the patient's ability to complete the study.\n* A serious cardiac condition, such as myocardial infarction within 6 months, angina, or heart disease.\n* Second primary malignancy that is clinically detectable at the time of consideration for study enrollment.\n* Interstitial pneumonia.",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Non-small Cell Lung Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03749720",
+  "title": "HPV in Blood Samples From Cervical Cancer Patients.",
+  "brief_summary": "By means of digital droplet PCR (ddPCR) anf targeted Next Generation Sequencing (NGS), this study examines blood samples from patients newly diagnosed with cervical cancer to investigate whether it is possible to measure the presence and amount of HPV DNA in these blood samples. The first blood sample is taken at time of diagnosis, and follow-up blood samples are collected during treatment- and follow-up visits. We expect to find a correlation between the disease stage and the viral load and also a decline in viral load after treatment. Furthermore, we hope that this method may serve as a way of detecting disease recurrence earlier than what is possible today.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria cases:\n\n* Diagnosed with cervical cancer \u2265 stage 1B between june 2018 and june 2020\n* \\> 18 years of age at the time of diagnosis\n* There must be available cervical tissue material from the patient to analyse for HPV\n\nInclusion Criteria healthy controls\n\n* Women \\> 18 years with no prior history of any cervical dysplasia\n\nInclusion Criteria CIN3 controls\n\n* Women \\> 18 years\n* Must have a histologically verified severe cervical dysplasia (CIN3)\n* Is admitted for cervical conisation\n\nExclusion Criteria cases:\n\n* \\< 18 years of age at time of cervical cancer diagnosis\n* Cervical cancer \\< stage 1B\n\nExclusion Criteria healthy controls:\n\n* \\< 18 years of age\n* Prior cervical dysplasia\n\nExclusion Criteria CIN3 controls:\n\n* \\< 18 years of age\n* Women with only low grades of cervical dysplasia (CIN1 or CIN2)\n* Women with HPV-negative cervical biopsies",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "HPV-Related Carcinoma",
+    "HPV-Related Malignancy"
+  ],
+  "overall_status": "COMPLETED"
+}

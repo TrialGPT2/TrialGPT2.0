@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01201941",
+  "title": "Operational Assessment of Laboratory Information System for MDR-TB in Lima, Peru",
+  "brief_summary": "The objective of this study is to compare the effects of a web-based laboratory information system (e-Chasqui) between a network of health establishments with access to e-Chasqui (intervention group) and a network of health establishments without access to e-Chasqui (control group).\n\nThe specific aims are:\n\n1. To compare the \"laboratory turn-around-time\" (from the date a culture or drug susceptibility test (DST) result is obtained to the date the result is obtained at the health center) of samples pertaining to health establishments in the intervention versus the control group.\n2. To compare the \"clinical turn-around-time\" (from the date the DST result is obtained to the date the patient is evaluated by a physician in possession of that result) among multi-drug-resistant tuberculosis (MDR-TB) patients pertaining to health establishments in the intervention versus control group.\n3. To compare the laboratory reporting errors (defined as incorrect smear, culture, or DST results) between health establishments in the intervention versus control group.\n4. To qualitatively assess the acceptability and usability of e-Chasqui among users in health establishments with access to the system.\n\nThe investigators aim to test the following hypotheses:\n\n1. The laboratory turn-around-time for health establishments with e-Chasqui access will be smaller than that for establishments without e-Chasqui access.\n2. The clinical turn-around-time for patients pertaining to health establishments with e-Chasqui access will be smaller than that for patients in establishments without e-Chasqui access.\n3. Health establishments with e-Chasqui access will have fewer errors compared to those without e-Chasqui access.\n4. Factors associated with acceptability and usability of e-Chasqui by systems users can be identified.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Individuals with pulmonary TB who have a risk factor for MDR-TB and live within a zone that has implemented the intervention of the overarching study (i.e. within the catchment area of an intermediate laboratory which has implemented DST as per NTP protocol).\n\nExclusion Criteria:\n\n* Non Spanish speakers",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population includes those individuals with pulmonary TB who have a risk factor for MDR-TB in the region of Lima Ciudad.\n\nRisk factors:\n\n* Confirmed mdr-tb by previous dst\n* Failure, default or relapse from a treatment containing 2nd line drugs\n* Patient who will initiate treatment with 2nd line drugs\n* Patient who has received at least 30 days of any second-line drug\n* Contact with confirmed mdr-tb, contact in treatment for mdr-tb, or contact who has previously been treated with 2nd line drugs",
+  "condition": [
+    "Tuberculosis, Multidrug-Resistant"
+  ],
+  "overall_status": "COMPLETED"
+}

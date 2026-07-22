@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03078712",
+  "title": "Early Goal Directed Therapy Using a Physiological Holistic View. The ANDROMEDA-SHOCK Study",
+  "brief_summary": "Septic shock is a highly lethal condition associated with a mortality risk of 30 to 60%. Optimizing tissue perfusion and oxygenation is the aim to decrease mortality and morbidity in septic shock patients.\n\nPersistent hyperlactatemia after initial resuscitation is particularly difficult to interpret, although optimizing systemic blood flow might reverse ongoing hypoperfusion. Nevertheless, if persistent hyperlactatemia is caused by non-hypoperfusion-related mechanisms, then sustained efforts aimed at increasing cardiac output (CO) could lead to detrimental effects of excessive fluids or inotropes. Another potential alternative resuscitation target is peripheral perfusion as assessed by capillary refill time (CRT), mottling score or central-to-toe temperature differences. Reversal of abnormal peripheral perfusion might represent improvement in tissue hypoperfusion with the advantage of a faster recovery than lactate.\n\nHypothesis: Peripheral perfusion guided resuscitation in septic shock is associated with lower mortality, less organ dysfunctions, less mechanical ventilation (MV), less vasopressor load, and less renal replacement therapies than a lactate-targeted resuscitation strategy.\n\nMain Objective To test if peripheral perfusion targeted resuscitation in septic shock is associated with lower 28-day mortality than a lactate targeted resuscitation.\n\nDesign: Multicenter, Parallel Assignment randomized controlled study, conducted under supervision of an independent Data Safety Monitoring Board (DSMB).\n\nInterventions:\n\n1. Active Comparator- Peripheral Perfusion guided resuscitation\n2. Active Comparator- Lactate guided resuscitation\n\nRandomization: 1:1 the randomization using a block size of eight will be stratified according to participating centers.\n\nTrial size: 400 randomized patients in 30 ICUs.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Septic shock diagnosed at ICU admission according to the Sepsis-3 Consensus Conference, (basically septic patients with hypotension requiring norepinephrine (NE) to maintain a mean arterial pressure (MAP) of \u2265 65 mmHg, and serum lactate levels \\> 2 mmol/l after initial fluid resuscitation with at least 20/ml kg in one hour.\n\nExclusion Criteria:\n\n* Pregnancy\n* Anticipated surgery or dialysis procedure during the first 8h after septic shock diagnosis\n* Do-not-resuscitate status\n* Child B or C liver cirrhosis\n* Active bleeding\n* Acute hematological malignancy\n* Severe concomitant acute respiratory distress syndrome (ARDS)\n* More than 4h after officially meeting septic shock criteria",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Septic Shock",
+    "Hyperlactatemia",
+    "Peripheral Perfusion"
+  ],
+  "overall_status": "COMPLETED"
+}

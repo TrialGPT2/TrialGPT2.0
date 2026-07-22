@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04818853",
+  "title": "COVID-19 Associated Pulmonary Aspergillosis (CAPA) and Other Invasive Fungal Infections (IFI)",
+  "brief_summary": "The purpose of this study is to identify the number of individuals with severe CoVID who require ventilator support and who develop serious fungal infections. The study is an observational study, meaning that we are not providing any intervention that does not involve usual standard of care. Our chief goal is to find evidence of fungal infection by using traditional, approved methods of diagnosis, but by applying these methods in the same way and frequency among all study participants. We will be looking especially for evidence of a fungal infection known as Aspergillus, which can causes a serious lung infection called invasive aspergillosis (IA).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adults aged 18 years or older at the time of enrollment\n* SARS-COV2 positivity by PCR with respiratory failure requiring mechanical ventilation for at least 72 hours\n* Prior therapy with antifungals, including prophylaxis, is NOT an exclusion.\n\nExclusion Criteria:\n\n* Life expectancy of less than 72 hours as determined by the site investigator.\n* Expected to be weaned from mechanical ventilation in next 24 hours\n* Care received in any setting other than an intensive care unit (ICU) at the time of enrollment",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult Intensive Care Unit Patients with SARS-CoV2 requiring greater than 72 hours of mechanical ventilation.\n\nParticipating sites include: University of Alabama at Birmingham, University of Pittsburgh, Washington University in St. Louis, University of California at Davis, University of Texas at Houston, University of Maryland, and University of Texas Health Sciences Center at San Antonio, Cornell University and Columbia/Presbyterian Medical Center",
+  "condition": [
+    "Covid19",
+    "Aspergillosis",
+    "Fungal Infection"
+  ],
+  "overall_status": "COMPLETED"
+}

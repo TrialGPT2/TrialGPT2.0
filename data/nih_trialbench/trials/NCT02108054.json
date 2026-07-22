@@ -1,0 +1,38 @@
+{
+  "nctid": "NCT02108054",
+  "title": "Behavioral and Functional Task Development, Implementation, and Testing",
+  "brief_summary": "Background:\n\n\\- Scientists know that alcohol use disorders affect brain structure. They want to know more about the effects of alcohol use disorders on a person s behavior. They want to develop tasks that can be done inside a scanner that can help them better understand these effects in later studies.\n\nObjective:\n\n\\- To develop tasks that investigate a person s behavior that can be used in later studies.\n\nEligibility:\n\n* Inpatient participants of another study. They must be physically healthy right-handed adults 18-60 years old.\n* Healthy right-handed volunteers 18-65 years old.\n\nDesign:\n\n* Participants will be screened with medical history and physical exam. They will have an EKG to record heart activity. They will give blood and urine samples and have a psychiatric interview.\n* Participants will have between one and three visits.\n* Participants will be asked about their alcohol drinking to see if they have an alcohol use disorder.\n* Participants will complete one of three simple computerized tasks either inside the magnetic resonance imagining (MRI) scanner or outside of it.\n* The MRI scanner takes pictures of the brain. The scanner is a metal cylinder. Participants lie on a table that can slide in and out of the cylinder. They will be in the scanner for about 60 minutes. They may have to lie still for up to 20 minutes. The scanner makes loud knocking noises, but they will get earplugs.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* between 18-65 years of age. The PI or designated AI will determine if any of the exclusion criteria listed below applies\\*.\n\nEXCLUSION CRITERIA:\n\n* Are not cleared on a neuromotor examination\n* Are currently receiving psychotropic medication\n* Inpatients only: Currently experiencing symptoms of withdrawal from alcohol (As determined by the most recent measurement within the\n\npast 30 days CIWA score \\> 8).\n\n-MRI Exclusion Criteria:\n\n* Presence of ferromagnetic objects in the body including implanted pacemakers, medication pumps, aneurysm clips, metallic prostheses (including metal pins and rods, heart valves or cochlear implants), shrapnel fragments, permanent eye liner or small metallic fragments in the eye that welders and other metal workers may have;\n* Are pregnant, as determined by a negative pregnancy test\n* Left handed\n* Claustrophobia.\n\n  * To minimize discomfort and undue burden on the participants, unless available from phone screening, pre-screening, or other NIAAA studies such as 14-AA-0080, 14-AA-0181, we collect the above information as part of this study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Alcohol Dependence",
+    "Alcohol Drinking",
+    "Alcoholism",
+    "Alcohol Use Disorder",
+    "Addiction"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a behavioral study in healthy volunteers and inpatients, not a cancer trial. There is no systemic therapy for advanced disease involved, and line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced disease. Eligibility is based on age, handedness, and health status, with no mention of prior lines of therapy."
+    }
+  ]
+}

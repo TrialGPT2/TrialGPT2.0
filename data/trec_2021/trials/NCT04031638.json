@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04031638",
+  "title": "Thyroid Cancer Database",
+  "brief_summary": "Thyroid cancer database collects clinical and laboratory data from patients with a thyroid tumor who received radioactive Iodine treatment. This database only records information based on patients' medical files in a structured manner.\n\nThyroid database is used for retrospective non-interventional research projects.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* patients with a thyroid tumor (metastatic or not)\n* patients who received radioactive Iodine treatment.\n* age \\>= 18\n\nExclusion Criteria:\n\n* Objection to collect medical data records",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with a thyroid tumor who received radioactive Iodine treatment in Centre Georges Francois Leclerc, Dijon, France",
+  "condition": [
+    "Patients With a Thyroid Tumor Who Received Radioactive Iodine Treatment"
+  ],
+  "overall_status": "UNKNOWN"
+}

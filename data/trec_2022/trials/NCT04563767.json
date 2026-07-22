@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04563767",
+  "title": "Feasibility - Infinitome",
+  "brief_summary": "The Infinitome Program from Omniscient has the ability to identify abnormal brain networks or connectomes using resting state functional MRI (rs-fMRI). This technology, which visualizes brain networks in three dimensions, was originally developed to ensure neurosurgeons avoid inadvertently lesioning cognitively eloquent brain regions during surgical operations. The potential of Infinitome in identifying connectome dysfunction for neurodegenerative diseases such as Alzheimer's disease has yet to be explored. This diagnostic technique may play a critical role for identifying disease brain networks that may benefit from targeted interventions in clinical trials.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Patients with a diagnosis of mild, moderate, or severe Alzheimer's disease\n2. Age: 40 - 90 Years\n3. Patients who are clinically indicated for an MRI\n\nExclusion Criteria:\n\n1. fMRI contraindicated (eg. Implantable device, pacemaker, metallic implants, etc.)\n2. Subject unable to tolerate sitting for a one hour fMRI\n3. Other concerns as determined by the investigator",
+  "minimum_age": "40 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "HealthPartners Neurology Clinic in Saint Paul, MN undergoing care for Alzheimer's disease.",
+  "condition": [
+    "Alzheimer Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

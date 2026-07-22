@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT00023049",
+  "title": "Genetic Analysis of Hereditary Disorders of Hearing and Balance",
+  "brief_summary": "This study will try to identify the genetic causes of hereditary hearing loss or balance disorders.\n\nPeople with a hearing or balance disorder that affects more than one family member may be eligible for this study. They and their immediate family members may undergo some or all of the following procedures:\n\n* Medical and family history, including questions about hearing, balance and other ear-related issues, and review of medical records.\n* Routine physical examination.\n* Blood draw or buccal swab (brushing inside the cheek to collect cells) - Tissue is collected for DNA analysis to look for changes in genes that may be related to hearing loss.\n* Hearing tests - The subject listens for tones emitted through a small earphone.\n* Balance tests to see if balance functions of the inner ear are associated with the hearing loss In one test the subject wears goggles and watches moving lights while cold or warm air is blown into the ears. A second test involves sitting in a spinning chair in a quiet, dark room.\n* Photograph - A photograph may be taken as a record of eye shape and color, distance between the eyes, and hair color.\n* Computed tomography (CT) and magnetic resonance imaging (MRI) scans - These tests show the structure of the inner ear. For CT, the subject lies still for a short time while X-ray images are obtained. For MRI, the patient lies on a stretcher that is moved into a cylindrical machine with a strong magnetic field. The magnetic field and radio waves produce images of the inner ear. The radio waves cause loud thumping noises that can be muffled by the use of earplugs.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPersons with known SNHL and/or peripheral vestibular dysfunctions caused by genetic etiology\n\nFamily members of persons with known SNHL and/or peripheral vestibular dysfunction caused by genetic etiology\n\nAdults must be able to provide informed consent\n\nMinors must have a parent or guardian able to provide informed consent\n\nSubjects must be 0-99 years of age\n\nFor Nigeria subjects with non-syndromic hearing loss, their hearing loss must be early-onset, before 10 years of age, to be eligible.\n\nEXCLUSION CRITERIA:\n\nPersons with SNHL and/or peripheral vestibular dysfunction caused by a nongenetic etiology such as trauma, infection, metabolic or immunologic disorders, or exposure to ototoxic agents such as noise or aminoglycoside antibiotics will not be included in this protocol.",
+  "minimum_age": "",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "We will be studying up to 750 people with hearing losses or balance problems that are thought to be hereditary and, if possible, their family members, either with or without hearing or balance problems to participate in our study. A total of up to 400 affected and unaffected individuals, including family members and control subjects will be enrolled from the Nigerian population.",
+  "condition": [
+    "Sensorineural Hearing Loss",
+    "Hearing Disorder",
+    "Vestibular Disease"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a genetic observational study of hereditary hearing and balance disorders and does not involve any systemic therapy for advanced disease. There are no requirements or restrictions regarding prior lines of therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study does not involve cancer or systemic therapy for advanced disease, and there are no eligibility criteria related to prior lines of therapy. The protocol focuses on genetic analysis of hereditary hearing and balance disorders."
+    }
+  ]
+}

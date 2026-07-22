@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01637558",
+  "title": "Optimal Dosing of 1st Line Antituberculosis and Antiretroviral Drugs in Children (a Pharmacokinetic Study)",
+  "brief_summary": "The aims of this project are to:\n\n1. To evaluate the pharmacokinetics of first line antituberculosis drugs (isoniazid, rifampicin, pyrazinamide and ethambutol) when applying the 2010 WHO/IUATLD dosing guidelines across pediatric populations (0-12 years of age, HIV infected and uninfected, and with varied nutritional status) in Cape Town, South Africa and Blantyre, Malawi.\n2. To evaluate an 8-hourly weight band-based dosing strategy for lopinavir/ritonavir using the commercially available lopinavir/ritonavir (4:1 ratio) in children in South Africa receiving rifampicin-based antituberculosis treatment.\n3. To evaluate the pharmacokinetics of nevirapine in children in Malawi receiving rifampicin-based antituberculosis treatment.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\nALL STUDY PARTICIPANTS\n\n* Aged \\< 12 years.\n* Weighing \\> 1.5 kg and \\< 30 kg.\n* Written informed permission of parent or legal guardian for their child to participate.\n* Absence of clear indication of unwillingness or refusal to participate, and in children \\> 7 years of age, assent to participate.\n* No contraindications to PK sampling (children with obviously very poor venous access will not be included).\n* Able to comply with study visits and procedures including regular adherence to routine medication, and adherence to the study medication.\n* Enrollment will be deferred in children with acute severe illness which would likely jeopardize participation (such as illness causing severe respiratory impairment, acute severe diarrhea, acute central nervous system impairment, severe life threatening systemic illness, or other severe conditions requiring hospitalization which would jeopardize participation). Children may be enrolled after recovery from acute illness.\n\nADDITIONAL CRITERIA FOR THE MAIN TB COHORT AND SUBSTUDIES\n\n1. Main TB cohort\n\n   INCLUSION A recent diagnosis of TB and receiving intensive phase antiTB treatment with 1st-line drugs (rifampicin, isoniazid, pyrazinamide with or without ethambutol, in standard doses).\n2. LPV SUBSTUDY\n\n   CASES \\& CONTROLS\n   * Children in whom ART with a LPV/r-containing regimen is indicated, OR, Children established on a LPV/r-containing regimen.\n   * ALT \\< 5-times the upper limit of the normal range.\n   * Children weighing 3.0 - 19.9 kg.\n   * Neonates must have a postmenstrual age of at least 42 weeks and a postnatal age of at least 14 days.\n\n   CASES\n\n   \\- HIV infected children enrolled to the main cohort with at least 2 weeks remaining before the end of intensive phase antiTB treatment such that PK sampling can be scheduled after 2 weeks of combined ART and antiTB treatment, but before the continuation phase of antiTB treatment is started.\n\n   CONTROLS\n\n   \\- HIV infected children without TB.\n\n   Weighted enrollment of controls will be performed such that the number of controls in each of the age groups \\< 6 months, 6 months to 2 years, and \\> 2 years, will be approximately equal to the numbers of cases in those age groups. As most of the children with TB will be started on ART after their TB diagnosis, recruitment of controls will be focused on children who have recently started ART (on treatment \\< 3 months).\n3. NVP SUBSTUDY\n\n   * HIV infected children receiving intensive phase antiTB treatment and enrolled to the main study cohort\n   * Started on ART including NVP (in WHO's recommended weight band-based doses) and 2 nucleoside reverse transcriptase inhibitors.\n\nExclusion Criteria:\n\n* Indication for increased or reduced doses of 1st-line antiTB drugs (e.g. marked hepatic or renal impairment, TB meningitis).",
+  "minimum_age": "1 Month",
+  "maximum_age": "12 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Tuberculosis",
+    "HIV"
+  ],
+  "overall_status": "COMPLETED"
+}

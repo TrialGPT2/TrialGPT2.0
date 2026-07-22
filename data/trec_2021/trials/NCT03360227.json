@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT03360227",
+  "title": "Registry of Device Implantation",
+  "brief_summary": "The implantable device therapy for cardiac arrhythmias has been an established therapy, and one of the common standard procedures in cardiac clinical practice.\n\nPacemakers, implantable cardioverter-defibrillators, and cardiac resynchronization therapy have been developed since 1960s, and the technologies in this field are still progressively developing. Not only these \"traditional\" implantable devices, there are multiple new devices for cardiac diseases, such as implantable loop recorder, vagal nerve stimulator and barostimulator.\n\nThe aim of this registry is to demonstrate the efficacy and the safety of standard device implantation procedures and to evaluate/ identify specific factors, including clinical characteristics, laboratory data and procedural data, which predict the prognosis/complication of the patients. These identification will result in further improvement of patients' care.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. pre-operative clinical history taking\n2. pre-operative functional investigations (cardiac echo, electrocardiograms)\n3. pre-operative laboratory data evaluation (kidney function, liver function, biomarkers, thyroid hormone, CBC)\n\nExclusion Criteria:\n\n\uff11. no written informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients who undergo cardiac device implantation in University Hospital D\u00fcsseldorf",
+  "condition": [
+    "Syncope",
+    "Bradycardia",
+    "Tachycardia",
+    "Sudden Cardiac Death",
+    "Ventricular Tachycardia",
+    "Ventricular Fibrillation"
+  ],
+  "overall_status": "RECRUITING"
+}

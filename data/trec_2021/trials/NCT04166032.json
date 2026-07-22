@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04166032",
+  "title": "Validation Study for the Alertgy Non-invasive Continuous Glucose Monitor (ANICGM)",
+  "brief_summary": "Diabetes mellitus (DM) affects 30 million people in the United States. To achieve glucose control, most patients are prescribed glucose meters by their physicians. Obtaining glucose levels in this manner necessitates cleaning the fingers, attaching a lancet to a device (or simply using a lancet if a device is not available), pricking the finger with a lancet, placing a drop blood on a strip, and awaiting the readout that results after some chemical reactions. Thereafter, the lancet has to be disposed of in a safe receptacle and the finger has to be blotted to stop the blood from oozing.\n\nThe anxiety, pain, and tedious process have led researchers to develop other means of checking glucose levels. There are now continuous glucose monitoring systems (CGMS) that entail inserting a subcutaneous sensor that sends readings through a transmitter. These CGMs may or may not need calibration with a fingerstick glucose reading, and the subcutaneous sensor still has to be changed every 10 -14 days.\n\nThe Alertgy non-invasive continuous glucose monitor (ANICGM) is a device that does not entail any subcutaneous insertion of a sensor. It is strapped on to the wrist, and glucose readings are given based on subcutaneous signals. In 2001, a non-invasive device called Glucowatch Biographer was introduced that also involved subcutaneous signals without needing a subcutaneous insertion. However, for various reasons such as long calibration period and reading inaccuracies, the product did not take off. The ANICGM is a promising device that might overcome the limitations of existing and previous methods of non-invasive glucose measurement.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [],
+  "primary_purpose": "SCREENING",
+  "raw_criteria": "Inclusion Criteria:\n\n* Type 2 diabetes on diet or on pharmacologic treatment for diabetes\n* Hemoglobin A1c between 7.5 - 10.0%\n* Age 18 - 75 years old\n\nExclusion Criteria:\n\n* Patients taking prandial insulin\n* Fasting blood glucose by fingerstick of \\< 70 mg/dL or \\>250 mg/dL\n* Pregnancy\n* End stage renal disease\n* Decompensated or acute heart failure\n* Medications that may cause false readings with glucose meters: acetaminophen, ascorbic acid, dopamine, maltodextrin, mannitol\n* Conditions that limit the ANICGM such as lesions on the forearms\n* Other conditions that the investigator deems will affect the conduct of the study",
+  "minimum_age": "18 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Type 2 Diabetes"
+  ],
+  "overall_status": "COMPLETED"
+}

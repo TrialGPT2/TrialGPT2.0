@@ -1,0 +1,44 @@
+{
+  "nctid": "NCT04535414",
+  "title": "Phase II Randomized Trial of Bethesda Protocol Compared to Cambridge Method for Detection of Early Stage Gastric Cancer in CDH1 Mutation Carriers",
+  "brief_summary": "Background:\n\nSome people have a mutation in the cadherin-1 gene (CDH1) gene that is known to lead to stomach cancer. They are advised to get regular endoscopies with biopsies even if their stomach appears normal. The endoscopy method currently used is called the 'Cambridge Method.' Researchers want to test a new method called the 'Bethesda Protocol.'\n\nObjective:\n\nTo compare the Cambridge Method and Bethesda Protocol and find out which is more efficient in catching early signs of cancer.\n\nEligibility:\n\nAdults age 18 and older who have a mutation in the CDH1 gene.\n\nDesign:\n\nParticipants will be screened with a review of their medical history, medical records, and physical status.\n\nParticipants will be put into group 1 (Bethesda Protocol) or group 2 (Cambridge Method).\n\nParticipants will have a physical exam. They will have endoscopy. For this, they will be put under general anesthesia. They will wear compression cuffs around their legs to prevent blood clots. A lighted tube will be inserted into their mouth and go down to their stomach.\n\nFor group 1 participants, 88 pieces of tissue will be taken from 22 areas of their stomach.\n\nFor group 2 participants, 30 pieces of tissue will be taken from 6 areas of their stomach. Then group 2 will be injected with a contrast dye. A microscope will be inserted, and more samples will be taken.\n\nAbout 14 days later, participants will have a follow-up visit or phone call. They may give stool samples every 3 to 6 months for 12 months for research purposes.\n\nParticipants may have another endoscopy 6-18 months later.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* An individual who harbors a pathogenic, or likely pathogenic, cadherin-1 gene (CDH1) germline variant.\n\nNote: individuals with CDH1 variant classified as any of the following are not eligible:\n\n* variant of uncertain significance\n* benign\n* likely benign.\n\n  * Age greater than or equal to 18 years.\n  * Physiologically able to undergo upper endoscopy.\n  * Ability of subject to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n* Any clinical contraindication (e.g., known bleeding disorder, thrombocytopenia) to endoscopic biopsy.\n* Unstable angina or recent (within 3 months) myocardial infarction.\n* Any clinical contraindication to general anesthesia.\n\nRe-Enrollment:\n\nINCLUSION CRITERIA:\n\n* Subject must have previously been enrolled on the study and must have undergone endoscopy. Note: Subject may re-enroll only once after initial endoscopy performed\n* Subject must have clinical need for a repeat endoscopy\n* Prior on-protocol endoscopy must have occurred at least 6 months (+/- 2 weeks) and no greater than 18 months (+/- 4 weeks)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Gastric Cancer",
+    "Gastric Neoplasms",
+    "Gastric Adenocarcinoma"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This trial does not involve systemic therapy for advanced or metastatic disease; it is a diagnostic study in CDH1 mutation carriers for early detection of gastric cancer. There are no requirements or restrictions regarding prior lines of systemic therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Bethesda Protocol",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease. The study is focused on early detection in high-risk individuals, not on treatment for advanced cancer."
+    },
+    {
+      "cohort_label": "Cambridge Method",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "There are no requirements or exclusions based on prior systemic therapy for advanced disease. The trial is a diagnostic comparison in CDH1 mutation carriers."
+    }
+  ]
+}

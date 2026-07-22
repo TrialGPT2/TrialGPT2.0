@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01121263",
+  "title": "Hybrid Revascularization Observational Study",
+  "brief_summary": "The purpose of the study is to get a better understanding of patients who have multi-vessel coronary artery disease (blockages in more than one vessel bringing blood to the heart) and have either Hybrid Coronary Revascularization \\[HCR\\] (combination of surgery and catheter procedures to open up clogged heart arteries) or Percutaneous Coronary Intervention \\[PCI\\] (catheter procedures to open up clogged heart arteries). Participation in the study will last up to 21 months after a patient's heart procedure(s). The study collects information about the medical care patients receive during their planned procedure(s) and how well they do following the procedure(s). No new testing or procedures will be done. Patients will receive only the tests or procedures their doctor already has planned for them. The information collected should help to plan the design of a pivotal comparative effectiveness study of hybrid revascularization.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "The following criteria apply to Cohort 2 PCI patients only:\n\nInclusion Criteria:\n\n* Signed informed consent, release of medical information, and Health Insurance Portability and Accountability Act (HIPAA) documents\n* Age 18 years or older\n* Clinical indication for revascularization\n* LAD and at least one additional vessel coronary disease (\\> 70% stenosis) confirmed by angiogram\n* Clinical characteristics and multi-vessel disease amenable to both PCI with DES and Hybrid as adjudicated by one interventional cardiologist and one cardiac surgeon\n* Ability to tolerate and no plans to interrupt double platelet therapy for \u2265 12 months\n* Ability to tolerate to single lung ventilation in the judgment of the investigator\n* Willing to comply with all protocol required follow-up\n\nExclusion Criteria:\n\n* Previous coronary stent within:\n\n  * 1 month prior to enrollment for bare metal stent (BMS) or\n  * 6 months prior to enrollment for DES\n* Evidence of in stent restenosis of a DES or BMS\n* Previous cardiac surgery of any kind\n* Chronic total occlusion (CTO) in LAD or \u2265 2 CTOs in major coronary territories that are considered targets for revascularization\n* Left main disease \u2265 50% stenosis\n* Presence of fresh coronary thrombus\n* Need for concomitant vascular or other cardiac surgery during the index hospitalization (including, but not limited to, valve surgery, aortic resection, left ventricular aneurysm, carotid endarterectomy or stenting, etc)\n* Previous STEMI within 30 days prior to randomization\n* Previous stroke within 6 months prior to randomization\n* Previous thoracic surgery involving the left pleural space\n* Acute decompensated heart failure within 30 days prior to randomization\n* Ejection fraction \\< 30%\n* Creatinine clearance \u2264 50 ml/min within 24 hours prior to randomization\n* Hemodynamic instability at time of screening\n* Body mass index \\> 40\n* Extra-cardiac illness that is expected to limit survival to less than 3 years\n* Participation or planned participation in another investigational intervention study within 60 days prior to randomization\n* Unable to give informed consent or potential for noncompliance with the study protocol due to psychiatric illness, organic brain disease, dementia, current alcohol abuse, mental retardation, language barrier, or geographical inaccessibility;\n* Pregnancy at time of screening or intention to become pregnant",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Cohort 1 (Angiogram Review Group): All consecutive and consenting patients undergoing diagnostic cardiac catheterization in a 3 month period.\n\nCohort 2 (Therapeutic Intervention Group): All patients (including those from cohort 1) who meet either of the following: (a) undergo HCR with minimally invasive LIMA-LAD CABG (HCR Group) OR (b) meet the proposed anatomic and clinical eligibility criteria defined below and undergo multivessel PCI with DES (PCI Group).",
+  "condition": [
+    "Coronary Artery Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

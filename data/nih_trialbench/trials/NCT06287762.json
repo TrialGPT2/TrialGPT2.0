@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT06287762",
+  "title": "A Natural History Study of RYR1-Related Disorders",
+  "brief_summary": "Background:\n\nCongenital myopathies (CM) are genetic disorders that can cause decreased muscle tone and muscle weakness. Most CMs in the United States are related to the ryanodine receptor 1 (RYR1) gene. Researchers need more natural history data to learn about these CMs in children and adults.\n\nObjective:\n\nTo learn more about the signs, symptoms, and course of RYR1-related disorders.\n\nEligibility:\n\nPeople aged 7 years and older with an RYR1-related disorder.\n\nDesign:\n\nAmbulatory participants will come to the Clinical Center and non-ambulatory participants will visit via telehealth.\n\nVisits will be once a year for 3 or 5 years. Clinical Center visits will take 2 to 3 days.\n\nAll participants will undergo tests including:\n\nPhotos and videos. These will be taken to document the participant s condition.\n\nBlood and urine tests.\n\nActivity Tracker. Participants will wear a device to record their activity.\n\nQuestionnaires. Participants will answer questions about their health, pain, fatigue, stress, quality of life, and other topics.\n\nParticipants who visit the Clinical Center will also undergo:\n\nTests of heart and lung function.\n\nMotor skills and strength tests. Participants will walk, climb stairs, kneel, crawl, stand up, and perform other movements to test their strength and abilities. They will squeeze and pinch a handheld device to test their grip.\n\nImaging scans.\n\nSkin biopsy. Adult participants may opt to have a sample of skin taken (one time only).\n\nEye exam",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA (CENTRALIZED ARM)\n\n  1. Stated willingness to comply with all study procedures, availability for the duration of the study, and submission of medical records to research team prior to screening.\n  2. Male or female, aged \\>=7 years of age.\n  3. Genetically confirmed RYR1-related disorder, evidenced by pathogenic or likely pathogenic variants identified by CLIA testing (whole genome, exome, targeted, partial or full RYR1 sequencing) OR variant of uncertain significance with supporting clinical phenotype.\n  4. Agreement to adhere to Lifestyle Considerations throughout study duration.\n  5. Ability of subject to communicate their understanding of the purpose of the study, and willingness to provide assent and/or to sign a written informed consent document.\n  6. Resides in the United States.\n\nEXCLUSION CRITERIA (CENTRALIZED ARM)\n\n1. Participation in an IND, IDE, or equivalent clinical study in the past six months\n2. Severe disability or mobility issues (inability to walk 10 meters with or without assistance)\n3. Requires mechanical ventilation or tracheotomy\n4. Other neuromuscular diseases resulting in muscle weakness\n5. Ongoing medical condition that is deemed by the Principal Investigator to interfere with the conduct or assessments of the study (e.g. active infection) or safety of the subject.\n\nINCLUSION CRITERIA (DE-CENTRALIZED ARM)\n\n1. Stated willingness to comply with all study procedures, availability for the duration of the study, and submission of medical records to research team prior to screening.\n2. Male or female, aged \\> 7 years of age.\n3. Genetically confirmed RYR1-related disorder, evidenced by pathogenic or likely pathogenic variants identified by CLIA testing (whole genome, exome, targeted, partial or full RYR1 sequencing) OR variant of uncertain significance with supporting clinical phenotype.\n4. Ability of subject to communicate their understanding of the purpose of the study, and willingness to provide assent and/or sign a written informed consent document.\n5. Resides in the United States\n\nEXCLUSION CRITERIA (DE-CENTRALIZED ARM)\n\n1. Participation in an IND, IDE, or equivalent clinical study in the past six months\n2. Other neuromuscular diseases resulting in muscle weakness\n3. Ongoing medical condition that is deemed by the Principal Investigator to interfere with the conduct or assessments of the study (e.g. active infection) or safety of the subject",
+  "minimum_age": "7 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "A total of 150 clinically stable adults and children (7 years of age or older) with genetically confirmed RYR1-RD.",
+  "condition": [
+    "Ryanodine Receptor 1-Related Myopathy",
+    "Ryanodine Receptor 1 Related Disorders"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study of RYR1-related disorders and does not require any prior systemic therapy for advanced disease. Patients are enrolled regardless of prior treatment history.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "There are no requirements for prior systemic therapy for advanced disease; all patients with RYR1-related disorders aged 7 years and older are eligible. The eligibility criteria do not mention prior lines of therapy, so treatment-naïve and previously treated patients are both allowed."
+    }
+  ]
+}

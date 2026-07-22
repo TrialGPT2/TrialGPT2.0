@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT03780296",
+  "title": "Implementing Technology Enhanced Real Time Action Observation Therapy in Persons With Chronic Stroke",
+  "brief_summary": "This is a feasibility study to alter the Microsoft Kinect software to be used as a rehabilitation tool. The prototype used is still in the early developing stage. The purpose of this research study is to develop a prototype of altered Microsoft Kinect Software and determine its use in improving the function of the study subjects' weaker extremities. The altered software will allow a viewing of the mirror image of the involved limb as it is moved. However, the image that is viewed will reflect normal movement even if the limb cannot move normally. By viewing normal movement of the weaker limbs the \"mirror neuron\" network in the brain will become activated and will ultimately improve the function of the weaker side.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DEVICE_FEASIBILITY",
+  "raw_criteria": "Inclusion Criteria:\n\n* \\- Adults 40 years of age and older having had a stroke greater than 6-months post onset\n* Able to follow commands in English\n* Medically stable and without acute illness, such as infection, inflammation, ongoing chest pain, or short of breath with walking and light activities\n* Able to stand up off of a standard height chair (16-18 inches)\n\nExclusion Criteria:\n\n* \\- Cognitive impairment as measured by a score below 24/30 on Mini Mental State Examination\n* A diagnoses of cancer involving the nervous or musculoskeletal system\n* Severe pain in arms, legs, or spine measured by \\>6/10 using Verbal Numerical Pain Rating Scale that prevents them from standing or walking independently\n* Diagnoses of other neurological diseases except for stroke, such as spinal cord injury or Parkinson's disease etc.\n* Individuals at the advanced stage of a disease and with less than 12 months to live.",
+  "minimum_age": "40 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chronic Stroke",
+    "Hemiplegia",
+    "Hemiparesis",
+    "Paralysis"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT01809288",
+  "title": "Identifying Risk for Diabetes and Heart Disease in Women",
+  "brief_summary": "Background:\n\n\\- Rates of diabetes and heart disease in women are increasing. Early recognition of risk could help women live longer and healthier lives. Race and ethnicity may affect the best kinds of tests to use to screen for these conditions. Researchers want to compare risk factors for diabetes and heart disease in African, African-American, and white women. Doing so may help identify the most effective screening test for each group. This study will look at healthy African, African-American, and white women who are federal employees and contractors.\n\nObjectives:\n\n\\- To study risk factors for diabetes and heart disease in African, African-American, and white women.\n\nEligibility:\n\n* Healthy African, African-American, and white women between 30 and 65 years of age who are federal employees or contractors.\n* For this study, African women must be born in Africa and have immigrated to the United States, and report that both parents are Africans. African-American women must self-identify as African-Americans, born in the United States, and have parents who both self-identify as African-American born in the United States. White women must self-identify as white and have parents who also self-identify as white.\n\nDesign:\n\n* Participants will have four visits to study their risk factors for diabetes and heart disease.\n* The first visit is a screening visit. Participants will be screened with a physical exam and medical history. Blood and urine samples will be collected. They will also have an EKG test. Participants will also be shown how to fill out a 3-Day Food Record and wear an activity monitor called an accelerometer. The food record will keep track of how much participants eat for 3 consecutive days, including 1 non-working day. The accelerometer device will be worn for 3 days to monitor movement.\n* At the second visit, participants will have blood tests, an oral glucose tolerance test, and body fat measurements. They will also fill out questionnaires, review the food record, and have two imaging studies.\n* At the third visit, participants will have a longer glucose tolerance test. During the test, participants will receive both glucose and insulin and blood samples will be collected over several hours. Participants will receive lunch at the clinical center after the test.\n* At the fourth visit, participants will have a meal test. They will fast for 12 hours before the test. Participants will eat a specific meal and have blood samples taken during and after they eat.\n* Participants will discuss the results of these tests with the study doctors.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA FOR PRIMARY PROTOCOL:\n* African, African-American and White Women\n* Healthy Volunteers\n* Age between 25 and 65 years\n* BMI between 20 and 45 kg/m(2)\n* Federal Employees-Intramural or Extramural or Contractor\n\nINCLUSION CRITERIA FOR NESTED INPATIENT STUDY\n\nSame as primary outpatient protocol except:\n\n* Age restricted to 25 to 50 years\n* BMI restricted to 25 and 45 kg/m2\n* Premenopausal status\n\nEXCLUSION CRITERIA:\n\n* Pregnancy\n* Medications or Medical Conditions which affect parameters under investigation",
+  "minimum_age": "25 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "Women-Federal Employees and Contractors@@@@@@",
+  "condition": [
+    "Obesity",
+    "Insulin Resistance",
+    "Triglycerides",
+    "Diabetes"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study of healthy women to assess risk factors for diabetes and heart disease. There is no cancer diagnosis or systemic therapy involved, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study enrolls healthy volunteers without cancer; there is no mention of systemic therapy for advanced disease. Line-of-therapy intent does not apply."
+    }
+  ]
+}

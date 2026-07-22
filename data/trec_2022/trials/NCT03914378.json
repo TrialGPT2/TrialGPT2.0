@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT03914378",
+  "title": "The Effects on Auditory Function of RADiotherapy and Chemotherapy Treatments for Head and Neck Tumours (EARAD)",
+  "brief_summary": "Radiotherapy and combined radiotherapy and chemotherapy are used to treat most tumours in the head and neck region. Unfortunately, these treatments often result in hearing loss and tinnitus that has a negative impact on quality of life. This study will use a battery of sensitive tests, including measures of hair cell and neural function, before and after treatment, to measure the effects of these treatments on auditory function. The results will be compared with the individual radiotherapy dose characteristics, using state-of-the-art data mining technology, to identify the auditory substructures that are most sensitive to radiation with respect to the effects on auditory function. The data will provide the basis for new dose constraints to limit radiation doses to any identified substructures and to minimise loss in hearing ability for patients undergoing treatment for head and neck cancer.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "For Prospective Patient Cohorts:\n\nInclusion Criteria:\n\n* Diagnosed with head and neck cancer\n* An MDT treatment decision of radiotherapy +/- cisplatin based chemotherapy\n\nExclusion Criteria:\n\n* Hearing loss greater than 25 dB HL (average from 0.25 to 4 kHz) prior to the study\n* Existing hearing loss (self-reported- need for hearing aid)\n* An MDT treatment decision of carboplatin based chemotherapy\n* Involved in another research project where the treatment is known to be ototoxic\n* Unable to give informed consent\n\nFor Retrospective Patient Cohort:\n\nInclusion Criteria:\n\n* Previously diagnosed and treated for head and neck cancer\n* Radiotherapy treatment to one side of the head\n* Within 5 years post-treatment\n* An MDT treatment decision of radiotherapy +/- cisplatin based chemotherapy\n\nExclusion Criteria:\n\n* An MDT treatment decision of carboplatin based chemotherapy\n* Unable to give informed consent\n\nFor Retrospective Normal-Hearing Controls:\n\nExclusion Criteria:\n\n* Hearing loss greater than 20 dB HL (at any octave frequency from 0.25 to 4 kHz)\n* Unable to give informed consent\n\nFor Retrospective Hearing-Impaired Controls:\n\nInclusion Criteria:\n\n* Hearing loss greater than 20 dB HL (average from 0.25 to 4 kHz)\n\nExclusion Criteria:\n\n* Unable to give informed consent",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with head and neck cancer and controls",
+  "condition": [
+    "Head and Neck Neoplasms",
+    "Hearing Loss"
+  ],
+  "overall_status": "RECRUITING"
+}

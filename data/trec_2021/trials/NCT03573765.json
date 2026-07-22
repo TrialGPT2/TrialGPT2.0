@@ -1,0 +1,38 @@
+{
+  "nctid": "NCT03573765",
+  "title": "Epidemiology and Outcomes of Upper Limb Surgery: Analysis of Routine Data",
+  "brief_summary": "Surgery is a common treatment type for damaged joints, tendons and nerves in the upper limb where conservative measures are inappropriate or have failed. These conditions are common and result in significant levels of pain and functional disability. The investigators are conducting a broad ranging study of variation in the provision of surgical treatment and factors affecting outcomes after surgical treatment of upper limb conditions. This will be a population-based study of all patients undergoing surgical treatment funded by the National Health Service (NHS) of England over a nineteen-year period. This study will help to understand the factors associated with a poor outcome following surgery, which can be shared with patients considering treatment options. The investigators will also document current and future health service burden associated with commonly performed surgical procedures including complications and repeat operations.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Condition affecting one of:\n\n   * Shoulder\n   * Elbow\n   * Wrist\n   * Hand\n\n   AND\n2. All patients treated with surgery for any of the following:\n\n   * Osteoarthritis\n   * Inflammatory arthritis\n   * Any other cause of arthropathy\n   * Tendon tears\n   * Peripheral neuropathy\n   * Fractures and/or dislocations\n   * Instability\n\n   OR\n3. Any arthroplasty surgery using a prosthesis\n\nExclusion Criteria:\n\n* Patients registering a \"type 2 opt out\" - withholding NHS data from research use.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients undergoing treatment funded by or in NHS hospitals in England and recorded in the Hospital Episode Statistics Admitted Patient Care database.",
+  "condition": [
+    "Osteoarthritis",
+    "Dislocations",
+    "Inflammatory Arthritis",
+    "Rotator Cuff Tear",
+    "Shoulder Dislocation",
+    "Upper Limb Nerve Lesion",
+    "Shoulder Arthropathy",
+    "Elbow Arthropathy",
+    "Wrist Arthropathy",
+    "Arthropathy Unspecified, Involving Hand",
+    "Fracture, Shoulder",
+    "Fracture Elbow",
+    "Fracture Wrist and Hand",
+    "Dupuytren Contracture",
+    "Impingement Syndrome, Shoulder",
+    "Trigger Digit",
+    "Avascular Necrosis"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT01130545",
+  "title": "Imaging Techniques in MRI",
+  "brief_summary": "Background:\n\n\\- Magnetic resonance imaging (MRI) scans must be performed according to specified sets of parameters that provide optimal images of each organ and each area of the body. These scanning parameters are often specific to the institution or organization at which they are employed, and may also depend on the manufacturer of the MRI scanning equipment. Because MRI scanning equipment is always being updated and upgraded, researchers are interested in developing new and optimized scanning parameters for MRI scans.\n\nObjectives:\n\n\\- To improve current methods and develop new techniques for magnetic resonance imaging.\n\nEligibility:\n\n* Individuals 18 years of age and older who are either volunteers or current NIH protocol participants.\n* Participants must not have any medical history factors (e.g., extreme claustrophobia, history of metal implants) that would prevent them from receiving MRI scans.\n\nDesign:\n\n* Participants will have at least one MRI scan that will last from 20 minutes to 2 hours (most scans will last between 45 and 90 minutes). The total time commitment for most visits will be approximately 4 hours from start to finish.\n* Some MRI techniques require standard monitoring equipment or specific procedures during the scanning, such as an electrocardiogram.\n* Participants will have blood samples taken at the time of the scan. Some MRI studies will require the use of a contrast agent that will be administered during the scan.\n* Volunteers may be asked to return for additional MRI scans over the course of a few years. Follow-up scans may be done on the same part of the body or on different parts of the body. No more than one MRI scan will be performed in any 4-week period for this protocol....",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nA. Volunteer individuals\n\nB. Lab Eligibility parameters (for contrast scans within 4 weeks of gadolinium injection):\n\nC. Creatinine below upper normal limit\n\nD. eGFR \\>= 60 mL/min/1.73m2\n\nE. Age \\>= 60 or history of renal disease: test GFR within 1 week prior to contrast\n\nF. Willing to travel to the NIH for follow-up visits.\n\nG. 18 years old\n\nH. Able to understand and sign informed consent\n\nI. No MRI scan with gadolinium injection in the last 6 months under this protocol.\n\nEXCLUSION CRITERIA:\n\nA. Implanted metal clips or wires of the type which may concentrate radiofrequency fields or cause tissue damages from twisting in a Magnetic field. Examples:\n\n* Aneurysm clip, implanted neural stimulator,\n* Implanted cardiac pacemaker, defibrillator, or certain other implanted electrical or metallic devices,\n* Cochlear implant, ocular foreign body (metal shavings),\n* Any implanted device (pumps, infusion devices, etc.),\n* Shrapnel injuries,\n* History of metal in head or eyes or other parts of the body.\n\nB. Pregnant women\n\nC. Paralyzed hemidiaphragm\n\nD. Over 500 lbs and/or a body circumference that prevents the study subject from laying flat in the scanner\n\nE. Surgery of uncertain type\n\nF. Untreatable claustrophobia otherwise requiring anesthesia.\n\nG. Any contraindications that the Physician identifies from the subject, MRI Safety Questionnaire, and/or History and Physical.\n\nEXCLUSION FOR PARTICIPANTS FOR GADOLINIUM CONTRAST:\n\n(Inclusive of the above exclusion criteria):\n\nA. Allergy to gadolinium for scans using contrast; will be eligible for non-contrast scans.\n\nB. Acute renal failure, renal transplant, dialysis and renal failure individuals (eGFR \\<60 mL/min/1.73m2 and/or clinically diagnosed).\n\nC. Individuals with a history of liver transplant or severe liver disease.\n\nD. Lactating women\n\nE. Individuals with hemoglobinopathies or severe asthma.\n\nF. Patient preference to not undergo intravenous line placement and/or receive gadolinium contrast. Contrast administration is optional and participants may still undergo a non-contrast study.\n\nG. GBCA with an MRI scan in the last 6 months. This includes scan performed with GBCA at any outside institution and / or at the clinical center .In addition, they cannot have reached their maximum of 4 GBCA imaging studies under this protocol. They will be excluded from having a contrast enhanced MRI, but will not be excluded from the protocol for non-contrast MRI studies.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Volunteers (maybe Volunteers, NIH employee and current NIH protocol participants)",
+  "condition": [
+    "Cardiac Risk Factors",
+    "Healthy",
+    "Healthy Volunteers"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an imaging methodology study enrolling healthy volunteers and NIH protocol participants regardless of cancer history or prior therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention cancer diagnosis or prior systemic therapy for advanced disease. Both healthy volunteers and patients from other NIH protocols are eligible, with no reference to lines of therapy. Therefore, line-of-therapy intent is not applicable or defined for this study."
+    }
+  ]
+}

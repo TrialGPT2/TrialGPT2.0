@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT06615973",
+  "title": "Screening for Social Determinants of Health (SDOH) and Cognitive Function in Individuals With History of Stroke",
+  "brief_summary": "Background:\n\nStroke is the fifth leading cause of death in the United States. It is also a leading cause of disability. More than 70% of people who survive strokes have mental impairment or dementia. Medical factors, such as the severity of the stroke, affect whether a person will have mental impairment afterward. But social factors, such as education and ethnicity, seem to play a role as well. Researchers want to learn more about how social and lifestyle factors affect a person s chances of maintaining mental functions after a stroke.\n\nObjective:\n\nTo better understand how social and lifestyle factors affect the risk of mental impairment after a stroke.\n\nEligibility:\n\nPeople aged 18 years and older who had a stroke and a brain scan while they were enrolled in NIH Study 01N0007 (Natural History of Stroke Study).\n\nDesign:\n\nParticipants will have 1 study visit, by telephone. The call will last about 45 minutes. Participants will talk about their health since their stroke. They will answer questions about themselves. Topics will include:\n\n* Their race\n* Education\n* Ethnicity\n* Employment\n* Marital status\n* Residence address\n* Recent health history\n* Medical insurance\n\nThey will have tests of their memory, attention, and language skills. They will repeat numbers and words forward and backward.\n\nResearchers will look at the data and imaging scans collected during participant s enrollment in NIH Study 01N0007. This data will include:\n\n* The hospital that first saw the participant at the time of their stroke.\n* The type of imaging that was first used then.\n* The primary diagnosis at admission.\n* Other medical details.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Stated willingness to comply with all study procedures and availability for the duration of the study.\n* Adults aged 18 or older.\n* Previous participant in the Natural History of Stroke with an interpretable baseline MRI scan, NIHSS measured at baseline or discharge, and admission diagnosis of ischemic stroke.\n* Fluent in English or Spanish\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this\n\nstudy:\n\n* Modified Rankin Scale (mRS) = 6 at any follow-up (usually up to 90 days) in the Natural History of Stroke study (mRS = 6 indicates the participant is dead).\n* Is pregnant per self-report",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All participants that were previously enrolled (and had a MRI) within the past 6 years in the NINDS Stroke Branch Natural History study will be recruited for enrollment in the present study. Estimated to be 450 participants (18 and older). Study will consist of one phone call and during the phone call, population will be assessed.",
+  "condition": [
+    "Stroke",
+    "Brain Disease",
+    "Vascular Diseases",
+    "Cerebrovascular Disorder"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of individuals with a history of stroke, focusing on social determinants of health and cognitive function. There is no cancer diagnosis or systemic therapy involved, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced disease. Eligibility is based on prior participation in a stroke study, not on cancer treatment history."
+    }
+  ]
+}

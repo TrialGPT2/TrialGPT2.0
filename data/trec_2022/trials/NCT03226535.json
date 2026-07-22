@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03226535",
+  "title": "Ultrasound-CT Fusion System for Interventional Radiology Procedures",
+  "brief_summary": "The objective of this research is to use the Clear Guide SCENERGY technology, an FDA approved Ultrasound-CT fusion imaging system, that allows the user to fuse CT images onto a real-time ultrasound that is being performed on the patient. This fusion system will be used to perform ultrasound guided needle placements for patients undergoing percutaneous CT guided needle-based intervention. This study will consist of 20 patients, 10 patients using the CGM SCENERGY US-CT system and 10 patients using guidance only. The primary goal of the study is to prove that the new imaging fusion system is comparable to using either CT or US guidance alone to guide needle placement.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Undergoing percutaneous CT guided needle-based intervention (CT guided biopsy, CT guided drain placement within the abdomen or pelvis, and CT guided injection of muscle or nerve within the pelvis)\n* Able to give written informed consent\n\nExclusion Criteria:\n\n* Unable to give informed consent\n* Patients undergoing CT guided needle-based interventions other than the procedures mentioned in the inclusion criteria\n* Prisoners, pregnant women, and children",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "CT Guided Biopsy",
+    "CT Guided Drain Placement Within the Abdomen or Pelvis",
+    "CT Guided Injection of Muscle or Nerve Within the Pelvis"
+  ],
+  "overall_status": "UNKNOWN"
+}

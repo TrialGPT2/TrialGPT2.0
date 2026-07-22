@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04541030",
+  "title": "Integrated Genomic Prostate Score With MRI Targeted Prostate Biopsies",
+  "brief_summary": "Background:\n\nProstate cancer is one of the most common cancers in men. For some men, their cancer is monitored. Others have surgery to remove the prostate. Focal therapy is another treatment option. It treats the areas of cancer selectively, which leaves the rest of the prostate intact. This can help lessen side effects. Men who get focal therapy must be chosen carefully. The Oncotype DX Genomic Prostate Score (GPS) assay tests biopsy samples for certain cancer-related genes. It then then gives a score from 1 to 100 to predict the likelihood of poor outcomes. The GPS is used to choose men for focal therapy. Researchers want to test the GPS further.\n\nObjective:\n\nTo assess how GPS may be useful when used with MRI to improve how men are chosen for focal therapy of prostate cancer.\n\nEligibility:\n\nMen age 18 and older who had NCCN low or intermediate risk prostate cancer and had MRI and radical prostatectomy at the Urologic Oncology Branch, National Cancer Institute and collaborating centers.\n\nDesign:\n\nThis is a multisite study. It will review data and samples that were collected in the past. Samples and images from up to 277 participants will be used.\n\nTumor tissue will be tested with the GPS.\n\nData such as age at diagnosis, race, biopsy results, and pathology results will be merged with the GPS results.\n\nData will be entered into an in-house electronic system. It will be password protected. All data will be kept in secure sites that comply with NIH security standards.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Samples and images from men \\> =18 with NCCN very low, low, or intermediate risk prostate cancer with tumor tissue that meet the pathologic tissue requirements of the Oncotype DX Genomic Prostate Score assay\n* Biopsy Gleason Score 7 or lower within 6 months preceding radical prostatectomy\n* 3Tesla MRI with/without coil performed within 6 months preceding diagnostic biopsy\n* Availability of diagnostic biopsy\n\nEXCLUSION CRITERIA:\n\n* Any active therapy received for prostate cancer (e.g., hormonal treatment, radiation, chemotherapy, biologic agents, surgery) prior to radical prostatectomy. 5 alpha reductase inhibitor treatment will not be considered to be hormonal treatment for this definition\n* Men with NCCN high risk or very high-risk prostate cancer\n* Biopsy Gleason 8\n* No biopsy tissue available\n* Missing surgical pathology whole mount, or unwilling to send surgical pathology whole mount to NCI for review\n* Missing diagnostic PSA\n* Missing clinical T stage\n* Known lymph node positive or metastatic disease at time of diagnosis\n* Missing MRI 6 months before diagnostic biopsy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "Samples from male patients with NCCN low or intermediate risk disease managed with radical prostatectomy (multiparametric MRI (mpMRI) performed within 6 months prior to the prostatectomy indicating localized, organ confined disease and adequate diagnostic biopsy tissue specimen).",
+  "condition": [
+    "Prostate Cancer"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING"
+}

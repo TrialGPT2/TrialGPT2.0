@@ -1,0 +1,42 @@
+{
+  "nctid": "NCT06851754",
+  "title": "Hormone Replacement Therapy in Adolescents With Premature Ovarian Insufficiency",
+  "brief_summary": "Background:\n\nPremature ovarian insufficiency (POI) is a condition in which women under the age of 40 years have absent or irregular menstrual cycles. POI can cause infertility, signs of menopause, osteoporosis, and other symptoms. Hormone replacement therapy (HRT) is a treatment that gives women extra hormones, such as estrogen and progesterone. HRT works well in adult women. Researchers want to find the most effective doses and regimens for adolescents.\n\nObjective:\n\nTo monitor the effects of HRT on adolescents with POI.\n\nEligibility:\n\nFemale adolescents aged 11 to 19 years diagnosed with POI. Healthy volunteers are also needed.\n\nDesign:\n\nAll participants will have clinic visits every 6 months for 2 years. Each visit may last 2 days. Each visit may include:\n\nBlood and urine tests.\n\nA test of their heart function.\n\nA test to measure the stiffness of their blood vessels. Participants will lie flat with a blood pressure cuff on a leg and a meter on the neck while the cuff inflates.\n\nA test of their grip strength. Participants will squeeze a handheld device as hard as they can.\n\nTwo scans to measure bone density. For one, participants will lie on a table while a scanner passes along their body. For the other, participants will sit in a chair and insert their forearm, then their lower leg, into a scanner.\n\nA test to measure skin pigmentation. Participants skin will be touched lightly with a device.\n\nAn optional visual exam of the vagina. Some vaginal fluid may also be collected with a cotton swab/cytobrush.\n\nParticipants with POI will receive HRT. They will be given estrogen patches and progesterone pills.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nInclusion Criteria for POI Participants\n\nTo be eligible to participate in this study, an individual must meet all the following criteria:\n\n* Individuals aged 11-19 years, inclusive, at the time of enrollment.\n* Diagnosis of premature ovarian insufficiency.\n* Documentation of two elevated serum FSH measurements, at least month apart, greater than the testing laboratory s the upper reference range (for age/Tanner stage).\n* Identify as female (i.e., sex assigned at birth)\n* Negative pregnancy test.\n\nInclusion Criteria for Healthy Volunteers:\n\n* Individuals aged 11-19 years.\n* Identify as female (i.e., sex assigned at birth)\n* Negative pregnancy test.\n* Absence of known chronic disease\n\nEXCLUSION CRITERIA:\n\nMale participants are excluded from both study groups (POI and Healthy Volunteers) as POI affects only the female reproductive system, while pregnant participants are not eligible to have DXA or HRpQCT imaging for safety reasons.\n\nExclusion Criteria for POI participants:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n* POI in the setting of Turner syndrome.\n* Patients who screened positive for celiac disease.\n* Receipt of any medications including HRT determined by the investigator to affect bone metabolism 3 months prior to enrollment.\n* Any medical condition determined by the investigator to affect bone health will be excluded.\n* Presence of a medical, psychiatric, or social condition which, in the opinion of the investigator, would place undue burden on the subject, NIH resources, or increase risk of participation.\n* Report of sexual activity but refusal to use a copper intrauterine device or double barrier forms of contraception during the study.\n\nExclusion Criteria for Healthy Volunteers:\n\nFor healthy volunteers, all exclusion criteria will apply as for POI participants except for number 1.",
+  "minimum_age": "11 Years",
+  "maximum_age": "19 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Premature Ovarian Insufficiency"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial investigates hormone replacement therapy (HRT) in adolescents with premature ovarian insufficiency (POI) and includes a healthy volunteer cohort. There is no treatment for advanced or metastatic malignancy, and no systemic therapy lines for advanced disease are relevant.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "POI Participants",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes adolescents with POI who have not received prior HRT or medications affecting bone metabolism within 3 months. There is no mention of advanced malignancy or systemic therapy lines, so line-of-therapy intent is not applicable."
+    },
+    {
+      "cohort_label": "Healthy Volunteers",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort consists of healthy adolescent volunteers with no chronic disease and no prior relevant therapy. There is no cancer or systemic therapy context, so line-of-therapy intent does not apply."
+    }
+  ]
+}

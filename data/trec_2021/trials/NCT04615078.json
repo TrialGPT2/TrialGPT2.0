@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04615078",
+  "title": "Study Evaluating Telemonitoring and Experimentation in Telemedicine for the Improvement of Healthcare Pathways (ETAPES Program) Compared to Standard of Care in Patients With Chronic Respiratory Failure Receiving Non-invasive Home Ventilation",
+  "brief_summary": "The ETAPES Program, a French national Experimentation in Telemedicine for the Improvement of Healthcare Pathways, was launched in 2018 for 4 years. Its objectives were to provide a temporary public reimbursement for medical telemonitoring in order to determine the benefits for the patient and the impact on medical organization and healthcare costs. In particular, this program applies to patients suffering from hypercapnic chronic respiratory failure and requiring home non invasive ventilation (NIV). For these patients, the ETAPES program combines NIV telemonitoring and therapeutic education.\n\ne-VENT study aims at evaluating the ETAPES program, implemented using the Chronic Care Connect\u2122 telemonitoring solution, versus Standard of Care, on the effectiveness of home NIV, measured by average PtCO2, reflecting the level of nocturnal alveolar hypoventilation.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "HEALTH_SERVICES_RESEARCH",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patient with chronic respiratory failure for whom treatment with home NIV was prescribed at inclusion or two months earlier, and whose service provider is ADEP Assistance, ADAIR Assistance, ARAIR Assistance or VitalAire,\n* Patient who meets all eligibility criteria to participate in the ETAPES program, namely:\n\n  * Patient aged 18 and over;\n  * Patient receiving NIV as part of an indication recognized by the Soci\u00e9t\u00e9 de Pneumologie de Langue Fran\u00e7aise and the Haute Autorit\u00e9 de Sant\u00e9;\n* Patient never before included in the ETAPES program for the remote medical monitoring of their chronic respiratory failure;\n* Patient having agreed to participate in the ETAPES program with the Chronic Care Connect Pneumology solution operated by the service providers ADEP Assistance, ADAIR Assistance, ARAIR Assistance or VitalAire, in the event that they are randomized to the Remote Medical Monitoring group;\n* Patient agreeing to the collection of data from their ventilator via remote transmission;\n* Patient fitted with a ventilator compatible with the Chronic Care Connect Pneumology solution;\n* Patient with health insurance cover;\n* Patient who has signed the consent form for the study.\n\nExclusion Criteria:\n\n* Patient who has any of the non-eligibility criteria for the ETAPES program:\n\n  * Physical or mental inability to use all components of the remote medical monitoring project, as determined by the doctor wishing to include the patient in the remote medical monitoring project;\n  * Patient with cancer with a life expectancy of less than 12 months estimated by the pulmonologist;\n  * Patient with more than three COPD respiratory decompensations resulting in hospitalization within the previous 12 months;\n  * Patient with diagnosed neuromuscular disease;\n  * Estimated poor compliance or standard adherence to treatment according to the physician including the patient;\n  * Patient's refusal of treatment support;\n  * No permanent place of residence;\n* Patient participating in another intervention research program.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chronic Respiratory Failure With Hypercapnia",
+    "Chronic Obstructive Pulmonary Disease (COPD)",
+    "Obesity Hypoventilation Syndrome (OHS)"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT03538639",
+  "title": "Vascular Disease Discovery Protocol",
+  "brief_summary": "Background:\n\nSome genetic diseases put increase the risk of heart and blood diseases, which are the number one cause of death and disability in the U.S. Researchers want to study diseases of the heart and/or blood vessels. They want to collect data and specimens from affected people, their family members, and healthy people.\n\nObjective:\n\nTo study diseases of the heart and/or blood vessels.\n\nEligibility:\n\nPeople age 2 and older who may have genetic disease affecting the heart and/or blood vessels Their relatives\n\nHealthy volunteers\n\nDesign:\n\nParticipants will be screened with a medical history, physical exams, and imaging tests. Participants may have a few visits or visits for 2 weeks or more. This will depend on their age and disease status. Visits may include:\n\nPhotographs of the face and body\n\nHeart tests\n\nSamples taken of blood, urine, saliva, skin, and/or tissue\n\nScans. For some, a dye may be injected into a vein.\n\nA six-minute walk test\n\nLung tests. For some, participants will blow into a tube. For others, they will breathe in a gas from a mask, have a small injection, then have a scan.\n\nStress tests while walking on a treadmill or riding a stationary bike\n\nUltrasound of veins and arteries\n\nDevices outside the body testing the stiffness and function of arteries\n\nEye exam and eye tests. For some, a dye may be injected in a vein.\n\nBlood pressure tests\n\nMeasurements of blood flow under the skin and in the arms and fingernail blood vessels\n\nDevices outside the body testing flexibility of the blood vessels and skin, and skin temperature",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* All subjects must be between the ages of 2-100 years old.\n* Affected pregnant women if they have been referred with a known or suspected pathology or if they become pregnant while on study.\n* Unaffected related pregnant women (including spouses/partners) for cord blood and tissue collection (surgical waste) only at the time of delivery.\n\nEXCLUSION CRITERIA:\n\n* Healthy volunteers unable to give informed consent\n* Healthy volunteers who decline to have blood drawn and/or tissue studies or who do not consent to have samples stored for future research.\n* Cognitively impaired individuals who are not affected.\n* Cognitively impaired individuals not related to affected subjects.",
+  "minimum_age": "2 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "We expect to enroll an unlimited number of subjects. The study population will be divided into groups that reflect both the potential studies that may be performed in distinct groups and the risk to benefit analysis for these groups. The appendices at the end of the protocol describe possible procedures and risk profiles for all the study subjects. Vulnerable populations, including pregnant women, children and cognitively impaired persons, may participate in this study. The groups include: 1.Adult index cases (affected) and relatives (affected and unaffected) 2.Child index cases (affected) and child relatives (affected and unaffected) 3.Healthy adult volunteers",
+  "condition": [
+    "Vascular Dysfunction",
+    "Genetic Mutations",
+    "Genetic Predisposition"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional observational study enrolling individuals with or at risk for genetic vascular diseases, their relatives, and healthy volunteers. There is no requirement or restriction regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they specify any requirements or exclusions based on treatment history. This is an observational study including affected individuals, relatives, and healthy volunteers, so line-of-therapy intent is not applicable."
+    }
+  ]
+}

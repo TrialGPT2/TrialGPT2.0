@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT00096161",
+  "title": "Pentostatin and Lymphocyte Infusion in Preventing Graft Rejection in Patients Who Have Undergone Donor Stem Cell Transplant",
+  "brief_summary": "This phase II trial studies pentostatin and donor lymphocyte infusion in preventing graft rejection in patients who have undergone donor stem cell transplant. Giving pentostatin and an infusion of the donor's T cells (donor lymphocyte infusion) after a donor stem cell transplant may stop the patient's immune system from rejecting the donor's stem cells. The donated stem cells may replace the patient's immune cells and help destroy any remaining cancer cells (graft-versus-tumor effect). Sometimes the transplanted cells from a donor can also make an immune response against the body's normal cells. Giving pentostatin before donor lymphocyte infusion may stop this from happening.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients having received a preceding allogeneic transplantation from either a human leukocyte antigen (HLA)-matched related or unrelated donor are eligible for this protocol\n\n  * Related donor: HLA genotypically identical at least at one haplotype and may be phenotypically or genotypically identical at the allele level at HLA A, B, C, DRB1, and DQB1\n  * Unrelated donor who are prospectively:\n\n    * Matched for HLA-A, B, C, DRB1 and DQB1 by high resolution typing; OR\n    * Only a single allele disparity will be allowed for HLA-A, B, or C as defined by high resolution typing\n* Patients with less than 50% donor CD3 peripheral blood chimerism on two separate, consecutive evaluations; the two evaluations must be at least 14 days apart OR patients with absolute decreases of donor CD3 peripheral blood chimerism of \\>= 20% if the second test shows \\< 50% donor CD3 cells; the two evaluations must be at least 14 days apart\n* Patients with evidence of disease are only eligible if the disease is stable (or persistent) in comparison to the status prior to transplantation\n* Patients must be tapered off systemic steroids to a dosage of less than or equal to 0.25 mg/kg/day\n* Patients must have persistent donor CD3 cells (\\>= 5% donor CD3 cells by a deoxyribonucleic acid \\[DNA\\]-based assay that compares the profile of amplified fragment length polymorphisms \\[ampFLP\\] \\[or fluorescent in situ hybridization (FISH) studies or variable number of tandem repeats (VNTR)\\])\n* DONOR: Alternatively to a fresh unmodified leukapheresis product, previously collected cryopreserved peripheral blood stem cells (PBSC) after mobilization with G-CSF or cryopreserved unmodified leukapheresis product from the original donor can be used; if cryopreserved product is not available, the following criteria apply for the DLI product:\n* DONOR: Original donor of hematopoietic cell transplantation\n* DONOR: Donor must give consent to leukapheresis\n* DONOR: Donor must have adequate veins for leukapheresis or agree to placement of central venous catheter (femoral or subclavian)\n* DONOR: Donor must be medically fit to undergo the apheresis procedure (institutional guidelines for apheresis)\n\nExclusion Criteria:\n\n* Current grade II to IV acute GVHD or extensive chronic GVHD\n* Karnofsky score \\< 50%\n\n  * Pediatric criteria\n\n    * Lansky play-performance score \\< 40\n* Evidence of relapse or progression of disease after transplantation\n* Prior recipient of cord blood\n* DONOR: Donors who are not suitable for medical reasons to donate peripheral blood mononuclear cells (PBMC) by continuous centrifugation according to the criteria of the American Association of Blood Banks (AABB)\n* DONOR: Pregnancy\n* DONOR: Human immunodeficiency virus (HIV) or human T-lymphotrophic virus (HTLV) infection\n* DONOR: Recent immunization may require a delay",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Lymphoblastic Leukemia",
+    "Acute Myeloid Leukemia",
+    "Chronic Lymphocytic Leukemia",
+    "Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+    "Graft Versus Host Disease",
+    "Hodgkin Lymphoma",
+    "Myelodysplastic/Myeloproliferative Neoplasm",
+    "Non-Hodgkin Lymphoma",
+    "Plasma Cell Myeloma",
+    "Waldenstrom Macroglobulinemia"
+  ],
+  "overall_status": "COMPLETED"
+}

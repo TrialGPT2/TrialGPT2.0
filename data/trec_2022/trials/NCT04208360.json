@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04208360",
+  "title": "Clinical Evaluation of AI-aided Auscultation With Automatic Classification of Respiratory System Sounds",
+  "brief_summary": "In the present trial, the StethoMe electronic stethoscope will be used for pulmonary auscultation and recording of lung sounds in the pediatric study population.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Children between 3 months and 18 years old (inclusive) admitted and hospitalized in the pulmonary disease ward (PL and EU).\n* Children between 3 months and 18 years old (inclusive) admitted and hospitalized in the pulmonary disease ward or treated in an outpatient clinic (US).\n* Informed consent of parents or caregivers, according to local regulations.\n\nExclusion Criteria:\n\n* Skin/soft tissue disease or local infection at the site of pulmonary auscultation or any other contraindication for the pulmonary auscultation.\n* Any concurrent disease or condition that, in the opinion of the investigator, would make the patient unsuitable for participation in the project.",
+  "minimum_age": "3 Months",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "It is planned to enroll 84 patients into the trial in three trial centers that will be participating in the study. Each center should recruit approximately 33% of study recordings (25-30 patients).",
+  "condition": [
+    "Wheezing",
+    "Rhonchi",
+    "Crackle",
+    "Lung Sound"
+  ],
+  "overall_status": "UNKNOWN"
+}

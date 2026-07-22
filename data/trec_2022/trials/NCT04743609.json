@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04743609",
+  "title": "RSV Burden in Outpatient Settings",
+  "brief_summary": "Strengthening outpatient low respiratory tract infection surveillance to document the burden of Respiratory Syncytial Virus (RSV)",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* children under 24 months of age (\u2264)\n* One of the holders of parental authority signed the consent\n* Patient affiliated to a social security scheme (Social Security or Universal Medical Coverage)\n* First episode of bronchiolitis defined by\n* Age \u226424 months\n* At least one symptom from group A and one symptom from group B Group A (one or more)\n* Fever \\>38 \u00b0C\n* Cough\n* Otalgia\n* Nasal congestion\n* Rhinorrhea\n* Coryza\n* Dysphagia Group B (one or more)\n* whistling\n* Crackles\n* Rales\n* Decrease in respiratory noise\n* Shortness of breath\n* Dyspnea\n* OR Acute purulent otitis media (Paradise Criteria) or otorrhea.\n* OR Pneumonia defined by the presence of opacity of parenchymal condensation and/or pleural effusion on chest X-ray associated with fever\n\nExclusion Criteria:\n\n* Age \\>24 months\n* Refusal by one of the parents\n* Not affiliated to a social security system",
+  "minimum_age": "1 Day",
+  "maximum_age": "24 Months",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "children under 24 months old with first episode of bronchiolitis or acute otitis media or pneumonia",
+  "condition": [
+    "RSV Infection",
+    "Children, Only",
+    "Outpatient",
+    "Bronchiolitis",
+    "Otitis Media",
+    "Pneumonia"
+  ],
+  "overall_status": "UNKNOWN"
+}

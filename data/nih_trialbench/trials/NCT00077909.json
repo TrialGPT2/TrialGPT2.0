@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT00077909",
+  "title": "Study of Lung Proteins in Patients With Pneumonia",
+  "brief_summary": "This study will examine the different types of proteins present in the lungs of patients with pneumonia to explore the causes of different types of the disease. Pneumonia is a condition that causes lung inflammation AND is often caused by an infection. It is usually diagnosed by lung x-rays and listening to the chest with a stethoscope. This method can diagnose pneumonia, but it does not provide information on the cause of the inflammation - information that might be helpful in guiding treatment. This study will measure proteins in the lungs of patients to see if certain proteins are associated with specific forms of pneumonia, and can thus serve as biomarkers for disease.\n\nPatients undergoing diagnostic bronchoscopy at the NIH Clinical Center may participate in this study. Patients will undergo bronchoscopy and bronchoalveolar lavage as scheduled for their medical care. For this procedure, the patient's mouth and throat are numbed with lidocaine; a sedative may be given for comfort. A thin flexible tube called a bronchoscope is advanced through the nose or mouth into the lung airways to examine the airways carefully. Saline (salt water) is then injected through the bronchoscope into the air passage, acting as a rinse. A sample of fluid is then withdrawn for microscopic examination. Researchers in the current study will use some of the fluid obtained from the lavage to examine for protein content.\n\nIn addition to the bronchoscopy and bronchoalveolar lavage, participants will have about 2 tablespoons of blood drawn to compare blood test results with the results of the lung washings. Patients' medical records will be reviewed to obtain information on past medical history, current medical treatment, vital signs, and results of x-ray tests.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* All eligible patients undergoing diagnostic bronchoscopy who provide consent for proteomic analysis of BAL fluid supernatant and chart review of patient characteristics will be included in this study.\n* A parent/guardian may provide consent for a child age 17 or under and a Legally Authorized Representative (LAR) may provide consent for adults unable to consent.\n\nEXCLUSION CRITERIA:\n\nPatients undergoing bronchoscopy but not wanting to participate with either the chart review or the proteomic analysis of BAL fluid supernatant will be excluded.",
+  "minimum_age": "3 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Any patient at the NIH Clinical Center who has a clinically indicated need for diagnostic bronchoscopy.@@@",
+  "condition": [
+    "Pneumonia",
+    "Pulmonary Disease",
+    "Lung Disease"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of patients with pneumonia undergoing diagnostic bronchoscopy, with no mention of cancer or systemic therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention cancer, systemic therapy, or lines of therapy for advanced disease. The study includes all patients with pneumonia undergoing diagnostic bronchoscopy, regardless of prior treatments."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nctid": "NCT03519464",
+  "title": "Immunogenicity of the 9-Valent Human Papillomavirus Recombinant Vaccine in People With Idiopathic CD4 T Cell Lymphocytopenia",
+  "brief_summary": "Background:\n\nDiseases related to human papillomavirus (HPV) include warts, lesions, and cancers. ICL is idiopathic CD4 T cell lymphocytopenia. People with this rare disease get more HPV-related diseases than other people do. The diseases are more severe and harder to treat in people with ICL. Researchers want to see if the vaccine GARDASIL 9 can help people with ICL.\n\nObjective:\n\nTo study the effects of the vaccine GARDASIL 9 in people with ICL.\n\nEligibility:\n\nAdults ages 18-65 with ICL\n\nHealthy volunteers the same age\n\nDesign:\n\nParticipants will be screened with a physical exam, medical history, and blood and pregnancy tests.\n\nParticipants will have a baseline visit with:\n\n* Physical exam\n* Medical history\n* Oral rinse collection. Participants will gargle a small amount of a saline solution, then spit it into a cup.\n* Apheresis. Blood will be removed through a needle in an arm. A machine will separate the blood and keep some parts for research. The rest will be returned to the participant through a needle in the other arm.\n* Examination for HPV-related disease. Female participants will have a Pap test.\n\nResearchers will collect swabs from some participants skin or genital lesions.\n\nParticipants will get 3 doses of the study vaccine over 6 months as a shot in the upper arm or thigh muscle. They will repeat the screening tests each vaccine visit.\n\nParticipants will record their temperature and side effects for several days after vaccinations.\n\nParticipants may have visits after vaccinations.\n\nParticipants will have 2 follow-up visits in the 18 months after the last vaccine. They will repeat most of the baseline tests.\n\n...",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Aged 18 to 70 years.\n  2. Able to provide informed consent.\n  3. Female study participants who engage in sexual activities that can result in pregnancy must agree to use one of the contraceptive methods listed below at every potentially reproductive sexual encounter, beginning at the baseline visit and continuing until 3 months after discontinuation of the study agent. Acceptable methods are as follows:\n* Male or female condom with spermicide.\n* Hormonal (e.g., consistent use of oral contraceptive pill daily or other hormonal method such as contraceptive implant or injection). Hormonal methods must be started 1 month prior to receiving the first dose of study agent.\n* Diaphragm or cervical cap.\n* Intrauterine device (IUD).\n\n  4\\. Must meet criteria for 1 of the 2 study groups, as follows:\n* Patients with ICL must have:\n\n  * documented ICL, defined as CD4 cell count \\< 300 cells/microL in at least 2 different measurements 6 weeks apart, at any point in the past; and\n  * CD4 cell count \\< 300 cells/microL (within 90 days prior to day 0, outside labs will be accepted).\n  * If patient has documented ICL as defined in i. and is currently enrolled in NIH ICL natural history protocol (EPIC 09-I-0102) a CD4 cell count \\< 300 cells/ L (within 18 months of day 0) is sufficient for enrollment.\n* Healthy volunteers must have:\n\n  * CD4 cell count of greater than or equal to 450 cells/MicroL (within 90 days prior to day 0, outside labs will be accepted).\n\nEXCLUSION CRITERIA:\n\n1. Prior receipt of GARDASIL 9 (Receipt of 2-valent and 4-valent versions of vaccine is not exclusionary).\n2. Pregnancy or breastfeeding.\n3. History of hypersensitivity, including severe reactions to yeast or other component of the vaccine or to a previous vaccination with another GARDASIL vaccine.\n4. HIV infection or any other recognized congenital or acquired immunodeficiency (i.e., SCID IL-2/JAK3/ADA, MAGT1, MHC1 deficiency, DOCK8, etc).\n5. Current moderate or severe acute illness (i.e., febrile illness, seizure, myocardial infarction, cerebrovascular accident, pulmonary embolism) that in the opinion of the PI, would make the subject unsuitable for the study.\n6. Serum creatinine \\> 1.5 times upper limit of normal, platelets \\< 100,0000/mm3, hemoglobin \\< 9 g/dL, or AST/ALT \\> 2 times upper limit of normal, immunoglobulin G level \\< 450 mg/liter.\n7. Current use of systemic glucocorticosteroids or immunomodulants, other than corticosteroid nasal spray or inhaler and topical steroids, which are not exclusionary.\n8. Any cancer diagnosis or autoimmune condition requiring systemic chemotherapy or immunomodulant affecting antibody responses (i.e., rituximab, ibrutinib etc.), intravenous or subcutaneous immunoglobulin supplementation, radiation therapy, or immunomodulatory treatment within the previous 6 months (presence of precancerous lesions is not exclusionary\n9. Receipt of an investigational vaccine within 2 weeks of day 0.\n10. Receipt of ACIP recommended immunizations within 1 week of day 0.\n11. Any condition that, in the opinion of the investigator, contraindicates participation in this study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Idiopathic CD4 T Cell Lymphocytopenia"
+  ],
+  "overall_status": "ACTIVE_NOT_RECRUITING",
+  "line_of_therapy_overall_summary": "This is a vaccine immunogenicity study in people with idiopathic CD4 T cell lymphocytopenia (ICL) and healthy volunteers. There is no requirement for prior systemic therapy for advanced disease; prior cancer therapy is an exclusion if recent or immunosuppressive.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "ICL patients",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Patients with ICL are eligible regardless of prior cancer therapy, but those with any cancer diagnosis requiring systemic chemotherapy or immunomodulant within the previous 6 months are excluded. There is no requirement for prior systemic therapy for advanced disease; treatment-naïve and adjuvant-only patients are allowed."
+    },
+    {
+      "cohort_label": "Healthy volunteers",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": true,
+      "category": "1L",
+      "line_of_therapy_text": "Healthy volunteers must not have ICL or immunodeficiency and are not required to have any prior systemic therapy. There is no mention of prior cancer therapy as a requirement; treatment-naïve and adjuvant-only patients are allowed."
+    }
+  ]
+}

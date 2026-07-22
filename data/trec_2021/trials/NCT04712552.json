@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04712552",
+  "title": "In Vivo Measurement of the Accuracy of the \"Neurolocate\" Module of the Neurosurgical Robot \"Neuromate\" in Its Application to Deep Brain Stimulation",
+  "brief_summary": "The purpose of this study is to evaluate the accuracy of the Neurolocate recording system of the neurosurgical robot Neuromate, marketed by Renishaw, in order to optimize surgical procedures, costs and patient comfort.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients aged 18 to 70 years old requiring a stereotactic robot-guided deep brain stimulation procedure\n* Signature of the Informed Consent Form\n* Affiliation to the French social security system\n\nExclusion Criteria:\n\n* Contraindication to MRI\n* Hypersensitivity to gadoteric acid, meglumine or any product containing gadolinium.\n* Anterior and posterior commissure anatomy modifying brain anatomy\n* Patient unable to complete the Comfort Questionnaire due to cognitive or speech impairment\n* Pregnant or breastfeeding women",
+  "minimum_age": "18 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients requiring a stereotactic robot-guided deep brain stimulation procedure (Parkinson's disease, disabling tremor, dystonia)",
+  "condition": [
+    "Parkinson Disease",
+    "Dystonia",
+    "Tremor"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04740333",
+  "title": "Prognostic Impact of Admission Glucose Level in Septic Patients Admitted to the Intensive Care Unit",
+  "brief_summary": "Background:\n\nSepsis is one of the most common reasons for admission to intensive care units (ICU) worldwide. About 30% of all patients admitted to intensive care suffer from sepsis (1). Sepsis causes an extreme physiological stress response, with significant changes in metabolism and disruption in glucose regulation. Disorder of glucose regulation can lead to hyperglycemia, hypoglycemia and glucose variability (2). All of these conditions are associated with increased mortality (3). In critically-ill patients, the glucose threshold from which damage may be caused remains controversial.\n\nHyperglycemia often occurs in critically-ill patients suffering from sepsis, even in those who were not diabetic before, for several reasons. Sepsis causes massive activation of anti-inflammatory mediators which enhances the activity of counter-regulatory hormones, including cortisol, glucagon and catecholamines. Those hormones increase both hepatic gluconeogenesis and peripheral resistance to insulin (4). Some of the detrimental effects of hyperglycemia in septic patients are mediated via hyperglycemia-induced blood hypercoagulable state, decrease of vascular endothelial responsiveness and disrupted process of phagocytosis and chemotaxis of white blood cells, especially neutrophils (5).\n\nIt is widely accepted that disordered blood glucose regulation increases mortality and morbidity, as well as hospital admission times and associated financial expenses (2,6). Blood glucose level at ICU admission was found to be a poor prognostic factor at various studies on different ICU patient populations (7-9). For example, in ICU patients admitted due to acute myocardial infarction, cardiogenic shock and need for urgent cardiac catheterization, high blood glucose levels at admission, even in non-diabetic patients, were associated with both increased in- hospital and long-term mortality (7). Among patients admitted due to acute heart failure, high admission glucose levels (above 200 mg / dL), in both diabetic and non-diabetic patients, were associated with higher mortality from cardio-vascular etiologies within one year of admission (8). Among non-diabetic patients admitted to the hospital due to acute myocardial infarction, admission glucose levels above 180 mg / dL were associated with a significant increase in all-causes in-hospital mortality (9). However, there is currently insufficient information regarding the prognostic impact of high admission glucose levels of non-diabetic septic patients admitted to the ICU (10).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:1. Patients admitted to the ICU between 1.1.2014-30.1.2020. 2. Diagnosis of sepsis or septic shock upon admission. 3. Age over 18 years. 4. No previous diagnosis of diabetes mellitus.\n\n\\-\n\nExclusion Criteria:1. Patients with prior diagnosis of diabetes mellitus. 2. Admission hypoglycemia (blood glucose levels below 70 mg / dL). 3. Patients who were given insulin or intravenous glucose before the first ICU blood glucose measured level.\n\n\\-",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Non-diabetic patients aged 18-99 who were admitted to the ICU between 1.1.2014 and 30.1.2020 due to sepsis or septic shock.",
+  "condition": [
+    "Sepsis"
+  ],
+  "overall_status": "COMPLETED"
+}

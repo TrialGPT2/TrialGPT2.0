@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT03629977",
+  "title": "Timing of Renal Replacement Therapy in the Critically Ill Patients",
+  "brief_summary": "Background: Severe acute kidney injury (AKI) among critically ill patients is sometimes treated with renal replacement therapy (RRT), and in Sweden continuous RRT (CRRT) is the dominant modality used in this population.\n\n* The optimal timing of renal replacement therapy (RRT) initiation in critically ill patients with acute kidney injury (AKI) is unknown\n* No consensus to guide clinical practice on this issue\n* Lack of consistency regarding outcome measurements; should we look at morbidity or mortality?\n* Wide variability in the timing of RRT initiation in the intensive care unit (ICU) population\n\nHypothesis: This is an important knowledge gap in the support of critically ill patients with AKI and we hypothesize that early initiation of RRT is beneficial.\n\nMethods: The present study aims to test this hypothesis by using a large scale high resolution intensive care database, the Clinisoft repository. In this database, we have information on \\>60 000 patients from three different hospitals and five ICUs, during the years 2005 up until today. The repository will be crossmatched, using the unique Swedish national ID number, with hospital records; to gather information on preexisting illnesses, chronic medication and post-ICU outcomes. It is likely that over 5%, more than 3000 patients, have been treated with RRT. We will categorize these patients into \"early\" and \"late\" groups using both biomarker data and clinical data. Importantly, early and late RRT can be categorized using biomarkers, like urea and creatinine; using degree of fluid accumulation, by level of pH in blood and just by using hours-days after ICU admission. All possible definitions of early/late RRT initiation can be tested in this study.\n\nOutcomes: Our primary outcome is 90 day mortality. Secondary outcomes include: mortality at 30, 60, 180 and 365 days. Two- and three year mortality.\n\nMorbidity, measured as end-stage renal disease (ESRD) for 90-day survivors. ICU length of stay, hospital length of stay.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n\\*Critically ill patients admitted to intensive care units in Stockholm at: Karolinska University Hospital (Solna and Huddinge) and at S\u00f6dersjukhuset.\n\n\\*Patients over 18 years of age\n\nExclusion Criteria:\n\n* Patients \\<18 years\n* Patients with DNAR (do not attempt resuscitation)-orders\n* Patients dying within 12 hours of commencing renal replacement therapy.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "ICU patients treated in Stockholm between 2007 and 2017 in the following five ICUs from three hospitals: Karolinska University Hospital in Solna - central medico-surgical ICU; Karolinska University Hospital in Solna - cardiothoracic ICU; Karolinska University Hospital Huddinge - medico-surgical ICU; S\u00f6dersjukhuset Hospital - medical ICU; S\u00f6dersjukhuset Hospital - surgical ICU.",
+  "condition": [
+    "Acute Kidney Injury",
+    "Uremia",
+    "Fluid Overload",
+    "Dialysis; Complications",
+    "Critical Illness"
+  ],
+  "overall_status": "RECRUITING"
+}

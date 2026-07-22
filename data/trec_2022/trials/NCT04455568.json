@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04455568",
+  "title": "Establish a Telecare Model of Acute Coronary Syndrome Patient With Heart Stent Implantation by a Non-invasive Wearable Device and Artificial Intelligence Cloud to Reducing Medical Adverse Events.",
+  "brief_summary": "Heart disease is still one of the world's most important health problems, and it ranks second among the top ten causes of death among Taiwan. The main cause of death is acute coronary syndrome, and vascular stent placement is the main treatment method for acute coronary syndrome. The probability of restenosis in patients within half a year after a general stent is as high as 25% to 40%. Re-hospitalization and surgery is a big burden on patients and the country's medical costs. However, a set of convenient and accurate clinical tools to determine the prognosis of patients has not yet been developed. Miniaturized wearable devices have been the mainstream trend in medical development in recent years. ECG and heart sound analysis technology are an easy to used medical device for automatically calculating the parameters including EMAT (electromechanical activation time), S4, S4, SDI (Systolic dyssynchrony index). ECG and heart sound could evaluate the heart function, and has the potential to be an effective tools for prognosis and treatment guidelines. Heart rate variability (HRV) and Accelerationplethysmogram (APG) is also proved the predictive effect the outcome of patients.\n\nThis study is start on June 1 2020. We will enroll 400 patients who diagnosis of acute coronary syndrome and have been a heart stent surgery, and registry there medical history,routine examination and medication, ECG and heart, HRV and APG record at admission, pre-discharge and every routine return visit within I year after discharge.Patients will also wear ECG and PPG (Photoplethysmography) band ever day after discharge, and collected the longitutinal data .All subjects will be tracked the medical adverse events in 1 years after discharge, and compare the characteristic and prognosis value of between patients with and without events. Therefore, our purpose of this study is to drive an effective outcome prediction model by non-invasive device, and establish a telecare model of patient with heart stent implantation to reducing medical adverse events.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. \u2265 20-year-old\n2. Patients performing general metal stent surgery\n3. Diagnosis of Acute Coronary Syndrome\n4. Willing to sign the consent form of the subject and cooperate with the return visit\n5. Those who are admitted to the hospital and enter the general ward can receive the first ECG heart sound examination\n\nExclusion Criteria:\n\n1. \\<20-year-old\n2. Before the stent was installed, the same blood vessel had been used in patients with PCI (percutaneous coronary intervention) and CABG (Coronary artery bypass graft).\n3. Those who cannot perform the first examination after being admitted to the hospital and entering the general ward\n4. It is impossible to measure the group of ECG and heart sounds. For example, when using Pacemaker, the ECG showed ventricular tachycardia (VT) and Dextrocardia on admission.\n5. Patients who are bedridden and have difficulty in cooperating with return visits\n6. Any subject that the physician believes is at high risk for future uncooperative tracking\n7. Direct participants in this program",
+  "minimum_age": "20 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "We will enroll 400 patients who diagnosis of acute coronary syndrome and have been a heart stent surgery. And random allocation 200 experimental group (Non-invasive Wearable Device) and 200 control group (routine medical).",
+  "condition": [
+    "Acute Coronary Syndrome",
+    "Percutaneous Transluminal Coronary Angioplasty"
+  ],
+  "overall_status": "UNKNOWN"
+}

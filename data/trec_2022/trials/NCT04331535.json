@@ -1,0 +1,28 @@
+{
+  "nctid": "NCT04331535",
+  "title": "The Genomic Medicine at VA Study",
+  "brief_summary": "This trial will determine the clinical effectiveness of polygenic risk score testing among patients at high genetic risk for at least one of six diseases (coronary artery disease, atrial fibrillation, type 2 diabetes mellitus, colorectal cancer, breast cancer, or prostate cancer), measured by time-to-diagnosis of prevalent or incident disease over 24 months.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SCREENING",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 50-70 years at enrollment\n* No known diagnosis of the following conditions, initially screened by the International Classification of Disease (ICD) codes or other electronic health record (EHR) data using validated methods and then confirmed with potential patient-participants during recruitment: coronary artery disease, atrial fibrillation, type 2 diabetes, colorectal cancer, breast cancer, prostate cancer\n\nExclusion Criteria:\n\n* Patients will be ineligible if they:\n\n  * Have a known diagnosis of at least one of the six diseases of interest\n  * Are younger than age 50 or older than age 70\n  * Are pregnant\n  * Are incarcerated or institutionalized",
+  "minimum_age": "50 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Coronary Artery Disease",
+    "Atrial Fibrillation",
+    "Type 2 Diabetes",
+    "Colorectal Cancer",
+    "Breast Cancer",
+    "Prostate Cancer"
+  ],
+  "overall_status": "UNKNOWN"
+}

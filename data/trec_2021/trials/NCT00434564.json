@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00434564",
+  "title": "Acute Chest Pain Treatment and Evaluation (ACTION) Study",
+  "brief_summary": "Objective\n\n1. To compare the incidence of adverse cardiac events among the patients discharged after evaluation through ACTION protocol with those through conventional protocol. The adverse cardiac events for the follow-up are defined as any of the followings:\n\n   * Cardiac related death\n   * Ventricular fibrillation\n   * Myocardial infarction\n   * Cardiogenic shock requiring the inta-aortic balloon pump circulatory assistance\n   * Acute pulmonary oedema requiring endo-tracheal intubation\n2. To study the sensitivity / predictive values of the various components of ACTION :12 lead ECG ST monitoring , serial serum markers for myocardial necrosis (myoglobin, CKMB, TnT, graded exercise testing, stress tetrofosmin scan/ stress echocardiography) in predicting adverse cardiac events.\n\nDesign -prospective randomised clinical trial\n\nParticipants\n\n-patients above 25 years of age presenting to the ED with chest pain consistent with myocardial ischaemia but with a 12 lead ECG non-diagnostic of myocardial ischaemia .\n\nIntervention\n\nPatients were monitored continuously with a 12 lead ECG and ST segment trend monitoring and blood will be drawn at 0,3,6 hours after arrival at ED for serial myoglobin, creatine kinase MB isoenzyme (CKMB) and Troponin T (TnT) . Patients who have ECG and blood test consistent with myocardial necrosis were admitted to the CCU. A senior doctor in the ED reviewed patients who were not admitted after 6 hours of observation.\n\nStudy Group\n\nA stress tetrofosmin nuclear scan was done . Patients were then admitted and discharged depending on the results of the stress tetrofosmin scan.\n\nControl group (conventional protocol)\n\nPatients were then be admitted or discharged at the discretion of the senior ED doctor.\n\nMeasurement Patients were followed up at 1 week , 2 weeks , one month and six months for any adverse cardiac events such as cardiac related death , ventricular fibrillation , and myocardial infarction.\n\nStatistical analysis Logistic regression analysis were used to compare the proportion of adverse events in the two treatment groups.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* 25 years and above\n* Chest pain suggestive of the angina\n* 12 leads ECG non-diagnostic for myocardial ischaemia or AMI\n* diabetes mellitus\n* family history of young AMI (less than 50 years old) There is no lower limit of age for those patients in the last two categories\n\nExclusion Criteria:\n\n* ECG diagnostic of AMI or acute myocardial ischaemia (as defined by the new Q wave , ST elevation or depression greater than 1mm or 0.1 millivolts in two or more contiguous leads)\n* Congestive heart failure or hypotensive patients\n* Persistent chest pain consistent with unstable angina",
+  "minimum_age": "25 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chest Pain"
+  ],
+  "overall_status": "COMPLETED"
+}

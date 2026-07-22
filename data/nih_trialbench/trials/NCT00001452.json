@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT00001452",
+  "title": "Defining the Genetic Basis for the Development of Primary Pigmented Nodular Adrenocortical Disease (PPNAD) and the Carney Complex",
+  "brief_summary": "Lentiginosis refers to groups of diseases marked by the presence of pigmented spots on the skin. These conditions are most commonly associated with multiple tumors and changes in hormone producing glands. The cause of these diseases is unknown, but researchers suggest there may be a level of inheritance involved in their development. Meaning to say that some of these diseases may \"run in the family\" and be passed down form generation to generation.\n\nPrimary pigmented nodular adrenocortical disease (PPNAD) is a pituitary-independent, primary adrenal form of hypercortisolism characterized by;\n\n1. Resistance to suppression by the drug dexamethasone\n2. The body is unable to secrete cortisol in a normal rhythm\n3. Distinct microscopic changes of both adrenal glands\n\nPPNAD can be associated with tumors (myxomas) of the skin, heart, breast, tumors (swannomas) of the nerve sheaths, pigmented spots (nevi and lentigines) of the skin, growth hormone (GH) producing tumors of the pituitary gland, and tumors of the testicles, ovaries, and thyroid gland. In the presence of these associations the condition is referred to as the Carney Complex. Presently there are no tests for screening of PPNAD and the Carney Complex. In addition, it is unknown how these conditions are genetically transferred from generation to generation.\n\nThis study proposes to use standard methods of clinical testing for endocrine and nonendocrine diseases and genetic testing in order to;\n\n1. Define the genetic basis for PPNAD and/or the Carney Complex.\n2. Determine the molecular changes associated with the development of the tumors.\n3. Identify carriers of the disease.\n4. Determine the prognosis for carriers and affected individuals.\n5. Provide sufficient data for genetic counseling of families with PPNAD and/or Carney Complex.\\<TAB\\>...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. All patients with PPNAD and/or Carney Complex by history and their siblings, children and parents. Additional relatives and their families that are suspected to have the same disorder on clinical grounds will be recruited:\n\n     1. PPNAD patients will be included if their diagnosis is fully documented. First-degree relatives of patients with the disease will be accepted also for evaluation, or if already conclusively evaluated elsewhere, for DNA linkage analysis only.\n     2. Patients with suspected Carney complex will be accepted for evaluation and/or DNA analysis for linkage, if they have at least two of the following:\n\n  <!-- -->\n\n  1. cardiac myxoma\n  2. cutaneous myxoma\n  3. breast myxoma\n  4. oral myxoma\n  5. myxoma of the external ear\n  6. spotty mucocutaneous pigmentation (lentigines)\n  7. testicular tumor\n  8. pituitary growth hormone secreting adenoma\n  9. nerve tumor, such as psammomatous melanotic schwannoma\n  10. first-, second-, or third-degree relatives with Carney complex\n\n      (c) Patients with one of the familial lentiginosis syndromes: Peutz-Jeghers and LEOPARD syndrome, other forms of familial lentiginosis.\n\nEXCLUSION CRITERIA:\n\n1. For DNA analysis and linkage study:\n\n   1\\. Unwillingness to participate.\n2. For clinical evaluation and DNA analysis/linkage study:\n\n   1. Patients with major illnesses, such as severe renal failure, restrictive or obstructive lung disease, cardiac disease, anemia and/or terminal cancer that will not be able to undergo appropriate testing or the stress of hospitalization. Also, patients with Carney complex and a known heart tumor (heart myxoma) will not be able to enter the clinical part of the study until after surgical treatment of their tumor. These patients, however, will be asked to participate in the DNA analysis study.",
+  "minimum_age": "3 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Research subjects who present with PPNAD, Carney Complex, Peutz-Jeghers Syndrome and related conditions. Research subjects who need screening based on clinical and biochemical data for PPNAD, Carney Complex, Peutz-Jeghers Syndrome and related conditions.",
+  "condition": [
+    "Cushing's Syndrome",
+    "Pituitary Adenoma",
+    "Carney Complex",
+    "Primary Pigmented Nodular Adrenocortical Disease",
+    "Peutz-Jeghers Syndrome"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational genetic study enrolling patients with PPNAD and/or Carney Complex and their relatives, regardless of prior systemic therapy. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not reference prior systemic therapy for advanced disease; the study is focused on genetic and clinical evaluation of PPNAD and Carney Complex. There are no restrictions or specifications regarding prior lines of therapy."
+    }
+  ]
+}

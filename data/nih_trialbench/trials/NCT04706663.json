@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT04706663",
+  "title": "Precision-Based Genomics in Prostate Cancer",
+  "brief_summary": "Background:\n\nProstate cancer is the most common cancer and the second leading cause of death in males in the United States. Researchers want to find additional gene mutations that may increase a man s risk for prostate cancer and may affect how aggressive the disease is.\n\nObjective:\n\nTo look at gene mutations in men with prostate cancer as well as the course of their disease to better understand how gene mutations relate to the way the cancer progresses and responds to treatment.\n\nEligibility:\n\nAdult males 18 and older with prostate cancer who have at least one of the gene mutations researchers want to study and/or have been treated for their cancer and have had complete elimination of their cancer or stable disease for a long time.\n\nDesign:\n\nParticipants will be screened with a review of their medical records. Their gene test results will be reviewed, if available. They will be asked questions over the phone or in person.\n\nParticipants do not need to visit the NIH for this study. But if they visit NIH for another study, their data and test results will be collected. They may give blood and urine samples. They may give leftover tumor samples. These samples will be used to study their genes.\n\nParticipants who do not come to NIH on regular basis will be contacted every 6 months by phone or e-mail. They will be asked questions about their health. Data from their medical records will be collected.\n\nParticipants will have testosterone and prostate-specific antigen (PSA) tests.\n\nParticipants may be invited to NIH to give blood samples for research.\n\nParticipants on this study will be followed for life.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Subjects with histologically confirmed prostate cancer.\n* Must have known germline and/or somatic variants in PIK3 and/or AKT, PALB2, BRIP1, RAD50, RAD51, RAD54, RB1, SPOP, Wnt/B-catenin pathway, CDK12, and/or MMR genes: MLH1, MSH2, MSH6, PMS2, and EPCAM and/or TMB-high(\\[defined as greater than or equal to 10 mutations/megabase (mut/Mb) and/or bTMB \\[greater than or equal to 16 mut/Mb\\]. NOTE: any platform for genomics testing is acceptable (research or CLIA-certified)\n\nOR\n\n* be deemed an exceptional responder. NOTE: an exceptional response is defined as achievement of either a) a complete response, or b) a confirmed partial response in a trial or treatment or a response of exceptionally long duration\n* Age greater than or equal to 18 years old.\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n-None",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "primary clinical",
+  "condition": [
+    "Prostate Cancer"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-interventional, observational study enrolling men with prostate cancer who have specific gene mutations or who are deemed exceptional responders to treatment. There are no restrictions on prior lines of therapy for advanced disease, and both treatment-naïve and previously treated patients may be included.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes any patient with prostate cancer who has the relevant gene mutations or is an exceptional responder, regardless of prior treatment history. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease, and patients who have only received adjuvant or no systemic therapy are eligible."
+    }
+  ]
+}

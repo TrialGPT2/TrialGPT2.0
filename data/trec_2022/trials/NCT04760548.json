@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04760548",
+  "title": "Segmentation of Structural Abnormalities in Chronic Lung Diseases",
+  "brief_summary": "Lung structural abnormalities are complex, time-consuming, and may lack reproducibility to evaluate visually on CT scans. The study's aim is to perform automated recognition of structural abnormalities in CT scans of patients with chronic lung diseases by using dedicated software.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients with chronic lung disease and clinical examination, pulmonary function test, and CT acquired during a routine follow-up",
+  "minimum_age": "3 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with chronic lung disease and a Clinical examination, pulmonary function test, and CT acquired during an annual routine follow-up",
+  "condition": [
+    "Cystic Fibrosis",
+    "Asthma",
+    "COPD",
+    "Interstitial Lung Disease"
+  ],
+  "overall_status": "UNKNOWN"
+}

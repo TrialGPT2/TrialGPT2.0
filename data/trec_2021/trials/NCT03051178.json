@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03051178",
+  "title": "Wearable Sensor for Responsive DBS for ET",
+  "brief_summary": "The purpose of this study is evaluate the effectiveness and safety of a possible new treatment for Essential Tremor (ET) using external wearable sensors, which have the capability of recording acceleration and Electromyography (EMG). This therapy is called Responsive Deep Brain Stimulation (R-DBS). R-DBS systems will communicate with a computer, and apply stimulation when the computer detects patterns associated with tremor. This detection will suppress pathological activity and improve or alleviate the tremor.\n\nCurrently, DBS is approved for the treatment of ET; however, stimulation is delivered continuously even when tremor or other symptoms are absent. Continuous DBS can lead to unwanted side effects such as stuttering and gait\\\\balance problems. On the other hand, R-DBS will turn on only if activity associated with ET from the external sensors is detected.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Provide informed consent\n* Patient is over 21 years of age\n* Patient has had a significant disabling, medication-refractory upper extremity tremor with no evidence of non-ET central nervous system disease or injury for at least three (3) months prior to implantation of Activa SC, PC, or RC device.\n* Patient receives Vim electrode and Activa SC, PC or RC device implants, and recovers fully after surgery.\n* Patient is available for study participation after their clinical programming appointments for six months.\n\nExclusion Criteria:\n\n* Medication related movement disorders.\n* Any suspicion of Parkinsonian tremor, including presence of Parkinsonian features such as bradykinesia, rigidity, or postural instability.\n* Severe medical co-morbidity including cardiovascular disorder, lung disorder, kidney disease, continuous neurological disease, hematological disease, or frailty that impact tolerability of the surgery as judged by the screening physicians.\n* Patient is undergoing a lead revision surgery.",
+  "minimum_age": "21 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Essential Tremor"
+  ],
+  "overall_status": "COMPLETED"
+}

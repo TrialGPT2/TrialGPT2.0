@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT04717336",
+  "title": "Genomics, Environmental Factors and Social Determinants of Cardiovascular Disease in African Americans Study (GENE-FORECAST): Sodium Intervention Trial (SIT)",
+  "brief_summary": "Background:\n\nHypertension is a risk factor for heart disease. Low-sodium diets rich in fruits, vegetables, and other healthy foods are a good way to reduce blood pressure in people with hypertension. Researchers want to learn more about why African Americans seem to have the greatest benefit from certain dietary interventions.\n\nObjective:\n\nTo better understand the body's response to adding more salt to the diet.\n\nEligibility:\n\nU.S.-born African American adults ages 21 to 65 who are in good general health and took part in the GENE-FORECAST.\n\nDesign:\n\nParticipants will be screened with a medical history and physical exam. If needed, they will take a pregnancy test. These tests will be repeated during the study.\n\nEach day for 2 weeks, participants will take 3 capsules that contain either placebo or salt. Then they will take no pills for 3 weeks. Then they will take placebo or salt capsules for 2 more weeks.\n\nParticipants will talk about the foods and drinks they have consumed over the past 24 hours. They will take a survey about their physical activity and sleep.\n\nParticipants will complete taste tasks to obtain their responses to sweetness or saltiness. Sucrose and salt detection thresholds and preferences will be assessed.\n\nParticipants will give blood and urine samples. Saliva samples will be collected from their mouth by passive drool or by spitting into a sterile tube. Skin samples will be collected from behind their ears and the inner part of their elbow, using sterile swabs. Participants will get kits to collect stool samples at home.\n\nParticipants will have 4 study visits over 7 weeks.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAfrican American men and women who are former GENE-FORECAST participants between 21 and 65 years of age. This criterion is inclusive of self-identified AA of both Hispanic, Latino and non-Hispanic, Latino ethnicities. Normotensive participants with systolic blood pressure (SBP) \\<140 mm Hg and diastolic blood pressure (DBP) \\<90 mm Hg and the absence of a history of prior diagnosis of hypertension.\n\n-Willingness and ability to participate in study procedures.\n\nEXCLUSION CRITERIA:\n\n* Individuals who are pregnant or breast-feeding.\n* Individuals with high blood pressure or a history of hypertension.\n* Individuals with a history of myocardial infarction, stroke, heart failure, diabetes, chronic liver or kidney diseases.\n* Individuals who are taking antihypertensive, antidepressants, antidiabetic and antibiotic medications.\n* Individuals currently participating in another NIH protocol.\n* Individuals unable to provide informed consent.",
+  "minimum_age": "21 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Cardiovascular Disease"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a dietary intervention trial in normotensive African American adults with no history of hypertension or cardiovascular disease. There is no systemic therapy for advanced disease involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": null,
+      "category": "1L",
+      "line_of_therapy_text": "Participants must be normotensive with no history of hypertension, myocardial infarction, stroke, heart failure, diabetes, or chronic liver or kidney disease, and cannot be taking antihypertensive or other relevant medications. No prior systemic therapy for advanced disease is involved or allowed."
+    }
+  ]
+}

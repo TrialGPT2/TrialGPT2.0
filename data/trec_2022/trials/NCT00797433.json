@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT00797433",
+  "title": "Outcomes of Mechanically Ventilated Patients With Low Serum Testosterone",
+  "brief_summary": "This is a study to determine the testosterone serum levels in male patient with acute respiratory failure requiring mechanical ventilation. The objective is to determine if low levels exist in this population and if it correlates with length of mechanical ventilation.\n\nHypothesis: Serum testosterone levels in mechanically ventilated male patients are significantly decreased from normal levels and correlate with disease severity and outcomes.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Male\n2. Age \\> 18\n3. Admission diagnosis of acute respiratory failure requiring endotracheal intubation and mechanical ventilation for \\> 24 hours\n4. APACHE II score \\> 15 (APACHE: Acute Physiology and Chronic Health Evaluation - general indicator of disease severity and outcomes predictor)\n\nExclusion Criteria:\n\n1. Chronic mechanical ventilation (i.e. patients on mechanical ventilatory support for \\> 21 days for at least 6 hours per day)\n2. Patients on mechanical ventilation for \\> 48 hours prior to MICU admission\n3. Non-invasive mechanical ventilation\n4. Patients intubated and mechanically ventilated for drug overdose and anticipated to be intubated for \\< 24 hours\n5. Known diagnosis of hypogonadism (requiring testosterone hormonal supplementation) or currently receiving testosterone therapy or received testosterone therapy within 30 days of MICU admission\n6. History of testicular, prostate or pituitary tumor\n7. Chronic use of systemic steroids prior to admission\n8. Terminally ill patients who are not expected to live longer that 3 months",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "All adult male patients with acute respiratory failure on mechanical ventilation",
+  "condition": [
+    "Acute Respiratory Failure"
+  ],
+  "overall_status": "COMPLETED"
+}

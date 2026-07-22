@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02271243",
+  "title": "Using Microbial Genomics to Elucidate the Source of Central-line Associated Bloodstream Infections",
+  "brief_summary": "Central line-associated bloodstream infections (CLABSIs) are the most common healthcare-associated infection in children and are associated with morbidity and mortality. This study will attempt to identify the source of bloodstream infections (BSIs) in children with CLABSI because we hypothesize that many of the BSIs that are currently classified as CLABSIs are actually laboratory-confirmed bloodstream infections (LCBI) that may be a result of mucosal barrier injury (MBI), also known as MBI-LCBI. In order to study this, we will isolate bacteria from multiple body sites of children that have BSI in order to compare these bacteria to the strain growing in their blood using whole-genome DNA sequencing. We will also evaluate biomarkers of MBI of the respiratory tract and GI tract.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Hospitalized at Boston Children's Hospital\n* Central venous catheter of any type including peripherally inserted central catheters (PICC) in any location.\n* Laboratory-confirmed bloodstream infection (LCBI) diagnosed by a clinical blood culture growing certain Gram-negative rods\n\nExclusion Criteria:\n\n* Patients with CDC-defined secondary bloodstream infections",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Children with CLABSI",
+  "condition": [
+    "Laboratory-confirmed Bloodstream Infection",
+    "Central Line-associated Bloodstream Infections",
+    "Mucosal Barrier Injury"
+  ],
+  "overall_status": "RECRUITING"
+}

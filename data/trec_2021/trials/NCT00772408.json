@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT00772408",
+  "title": "Toll-like Receptor 2 Gene Polymorphism, Serum Cytokines and Susceptibility to Disease Severity or Treatment Response of Pulmonary Tuberculosis",
+  "brief_summary": "Infection with Mycobacterium tuberculosis remains at epidemic levels globally. Innate and adaptive immune responses evolve as protective mechanisms against mycobacterial infection in humans. Toll-like receptors (TLRs) are transmembrane proteins characterized by an extracellular leucine-rich domain that participates in ligand recognition and an intracellular tail. TLRs are the first defense system to detect potential pathogens, initiate immune responses and form the crucial link between innate and adaptive immune systems. Stimulation of TLR initiates a signaling cascade that involves a number of proteins, such as MyD88 and IL-1 receptor-associated kinase. This signal cascade leads to NF-\u03baB activation, which induce the secretion of pro-inflammatory cytokines.\n\nTLR2 is a family of TLR family and has been reported to be the principle mediator of macrophage activation in response to mycobacterium. Growing amounts of data suggest that the ability of certain individuals to respond properly to TLR ligands may be impaired by single nucleotide polymorphisms (SNPs) within TLR genes, resulting in an altered susceptibility to, or course of, infectious disease. The genetic polymorphism of TLR2 (arginine to glutamine substitution at residue 753 (Arg753Gln)) has been associated with a negative influence on TLR2 function, which may, in turn, determine the innate host response to mycobacteria. In addition, another polymorphism (Arg677Trp) of the TLR2 was reported to be associated with susceptibility to tuberculosis in Tunisian patients. Moreover, in Mycobacterium leprosy patients with TLR2 mutation (Arg677Trp), production of IL-2, IL-12, IFN-gamma, and TNF-alpha by M. leprae-stimulated peripheral blood mononuclear cell were decreased compared with that in groups with wild-type TLR2.\n\nTo date, there have been no studies of the association of SNPs of TLR2 with cytokine profiles and clinical outcomes on M. tuberculosis. We hypothesize that polymorphisms in the TLR2 are associated with :\n\n1. increased prevalence of active pulmonary TB infection,\n2. altered levels of pro-inflammatory and anti-inflammatory cytokines in serum,\n3. clinical outcomes and presentations. We thus design a prospective case-control study to test this hypothesis. The frequency of TLR2 polymorphisms in both pulmonary TB patients and healthy controls will be determined by polymerase chain reaction-restriction fragment length polymorphism. Serial serum levels of IL-12, IFN-\u03b3, and IL-10 in pulmonary TB patients with or without TLR2 polymorphisms will be measured by enzyme linked immunosorbent assay. Relationships between TLR2 polymorphisms and serum cytokines dynamics or clinical outcomes will be analyzed.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* a) findings on CXR that are compatible with presentations of Mycobacterium tuberculosis b) clinical symptoms, such as fever, body weight loss, night sweating, chest pain and chronic cough, that indicate active infection of pulmonary tuberculosis (TB) c) microbiological diagnosis by sputum smear and culture, bronchoalveolar lavage fluid culture, or DNA probe examination.\n\n  d) Resolution on CXR with anti-TB regimens e) Written informed consent form prior to participation into this study\n\nExclusion Criteria:\n\n* a) concurrent active disease of other chronic illnesses, such as lung cancer, chronic bronchitis and bronchial asthma b) poor physical conditions that make any examination infeasible c) participation in another trial with use of an investigated drug within on month d) use of corticosteroid or immunosuppressant drugs",
+  "minimum_age": "20 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Case: patients visiting the Pulmonary department of Chang Gung Memorial Hospital, Kaohsiung, Taiwan Control:healthy subjects visiting the Center of health examination at Chang Gung Memorial Hospital, Kaohsiung, Taiwan",
+  "condition": [
+    "Pulmonary Tuberculosis",
+    "Genetic Variants of Host",
+    "Immune Response of Host"
+  ],
+  "overall_status": "COMPLETED"
+}

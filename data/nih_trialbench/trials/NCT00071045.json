@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT00071045",
+  "title": "Collection of Tissue Specimens From Patients With Solid Tumors or Blood Disorders and Their HLA-Compatible Family Members",
+  "brief_summary": "This study will collect biological samples for use in research experiments aimed at better understanding the clinical features of certain diseases. The specimens may be used to evaluate the effectiveness of known therapies, refine treatment approaches, identify potential new therapies, and explore opportunities for disease prevention.\n\nThe following individuals 2 years of age or older may be eligible for this study:\n\n* Patients with a cancerous solid tumor or a cancerous or non-cancerous blood disorder who are being screened for or who are enrolled in a treatment study at the NIH Clinical Center\n* HLA-compatible donor family members (18 years of age or older) of the above patients who are being evaluated for or are enrolled in an NIH study as a stem cell transplant donor\n* Patients with a cancerous solid tumor or a cancerous or non-cancerous blood disorder or a bone marrow failure condition who cannot participate in an NIH treatment protocol or travel to the NIH Clinical Center and who are referred for participation through their home health care provider.\n\nResearch samples will be collected from participants when blood is drawn or bone marrow, urine, or stool is collected, or tumor or other tissue is biopsied as part of their general medical care. Investigators may periodically request an additional sample of blood, stool, or urine. Participants who are 18 years of age or older may donate a large number of white blood cells through a procedure called leukapheresis. This procedure is not part of general medical care and would be done for research purposes only. For apheresis, a catheter (plastic tube) is placed in a vein in the subject's arm. Blood flows from the vein into a cell separator machine, where the white cells are separated from the red cells, platelets, and plasma by a spinning process. The white cells are removed and collected, and the rest of the blood is returned to the subject through a second tube placed in the other arm.\n\n...",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nThe subject carries the diagnosis of malignant solid tumor or a malignant or non-malignant hematologic disorder, and is being screened at the NIH for eligibility for an NIH protocol.\n\nOR\n\nThe subject carries the diagnosis of malignant solid tumor or a malignant or non-malignant hematologic disorder, and is already enrolled on a protocol at the NIH Clinical Center.\n\nOR\n\nThe subject is a related HLA-compatible family member of a patient (bearing a diagnosis of malignant solid tumor or a malignant or non-malignant hematologic) being evaluated for or already enrolled on a protocol at the NIH Clinical Center and is identified as a potentially suitable donor of allogeneic hematopoietic stem cells for transplantation.\n\nOR\n\nThe subject carries the diagnosis of malignant solid tumor or a malignant or non malignant hematologic disorder or a bone marrow failure condition and is not available to participate in an NIH Clinical Center treatment protocol, or travel to the NIH clinical center, but is referred for participation through their home health care provider.\n\nThe subject or the subject's Legally Authorized Representative (LAR) is able to understand the investigational nature of the study and provide informed consent after initial counseling by an AI. Separate consent forms for interventional or surgical procedures will be obtained after explanation of the specific procedure.\n\nAge 2 years and older (no upper limit)\n\nEXCLUSION CRITERIA:\n\nSubjects or LAR unable to comprehend the investigational nature of the protocol.\n\nAge less than 2 years",
+  "minimum_age": "2 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The subject carries the diagnosis of malignant solid tumor or a malignant or non-malignant hematologic disorder; carries the diagnosis of malignant solid tumor or a malignant or non-malignant hematologic disorder; is a HLA-compatible family member of a patient (bearing a diagnosis of malignant solid tumor or a malignant or non-malignant hematologic disorder) being evaluated for or already enrolled on a clinical protocol at the NIH Clinical Center and is identified as a potentially suitable donor of allogeneic hematopoietic stem cells for transplantation; carries the diagnosis of malignant solid tumor or a malignant or non-malignant hematologic disorder or a bone marrow failure condition and is not available to participate in an NIH Clinical Center treatment protocol, or travel to the NIH Clinical Center, but is referred for participation through their home health care provider.",
+  "condition": [
+    "Neoplasms",
+    "Hematologic Neoplasms",
+    "Healthy Volunteers"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a biospecimen collection protocol enrolling patients with solid tumors or blood disorders at any stage, regardless of prior therapy, as well as HLA-compatible family donors. There are no restrictions on prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "Eligibility includes all patients with malignant solid tumors or hematologic disorders, regardless of prior therapy, as well as HLA-compatible family donors. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced/metastatic disease; patients who have received only adjuvant therapy or no therapy are eligible."
+    }
+  ]
+}

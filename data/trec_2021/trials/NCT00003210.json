@@ -1,0 +1,40 @@
+{
+  "nctid": "NCT00003210",
+  "title": "Interleukin-12 in Treating Patients With Previously Treated Non-Hodgkin's Lymphoma or Hodgkin's Disease",
+  "brief_summary": "Phase II trial to study the effectiveness of interleukin-12 in treating patients with previously treated non-Hodgkin's lymphoma or Hodgkin's disease. Interleukin-12 may kill tumor cells by stopping blood flow to the tumor and by stimulating a person's white blood cells to kill lymphoma cells.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Previously treated non-Hodgkin's lymphoma (all histologies except lymphoblastic and Burkitt's lymphoma) or Hodgkin's disease\n* Maximum of 4 previous treatment regimens\n* Measurable disease\n* No CNS involvement\n* Performance status - Zubrod 0-1\n* Performance status - Karnofsky 80-100%\n* At least 12 weeks\n* Platelet count at least 75,000/mm\\^3\n* Absolute neutrophil count greater than 1500/mm\\^3\n* Lymphocyte count greater than 500/mm\\^3\n* Hemoglobin at least 8.0 g/dL\n* Bilirubin less than 1.5 mg/dL\n* SGOT/SGPT less than 2 times normal\n* Creatinine no greater than 1.6 mg/dL\n* Creatinine clearance at least 60 mL/min\n* No severe cardiovascular disease including active ischemic heart disease, congestive heart failure, or major arrhythmias\n* No severe pulmonary disease including dyspnea with moderate to severe exertion\n* HIV negative\n* No active infection\n* Not pregnant or nursing\n* Fertile patients must use adequate contraception\n* No clinically significant autoimmune disease (e.g. rheumatoid arthritis)\n* No clinically significant gastrointestinal bleeding or uncontrolled peptic ulcer\n* No prior allogeneic bone marrow or stem cell transplant\n* At least 3 weeks since prior biologic therapy for lymphoma\n* At least 3 weeks since prior chemotherapy for lymphoma\n* No concurrent steroid therapy\n* At least 3 weeks since prior endocrine therapy for lymphoma\n* At least 3 weeks since prior radiotherapy for lymphoma\n* At least 2 weeks since prior surgery",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue",
+    "Nodal Marginal Zone B-cell Lymphoma",
+    "Recurrent Adult Diffuse Large Cell Lymphoma",
+    "Recurrent Adult Diffuse Mixed Cell Lymphoma",
+    "Recurrent Adult Diffuse Small Cleaved Cell Lymphoma",
+    "Recurrent Adult Hodgkin Lymphoma",
+    "Recurrent Adult Immunoblastic Large Cell Lymphoma",
+    "Recurrent Cutaneous T-cell Non-Hodgkin Lymphoma",
+    "Recurrent Grade 1 Follicular Lymphoma",
+    "Recurrent Grade 2 Follicular Lymphoma",
+    "Recurrent Grade 3 Follicular Lymphoma",
+    "Recurrent Mantle Cell Lymphoma",
+    "Recurrent Marginal Zone Lymphoma",
+    "Recurrent Mycosis Fungoides/Sezary Syndrome",
+    "Recurrent Small Lymphocytic Lymphoma",
+    "Splenic Marginal Zone Lymphoma",
+    "Waldenstr\u00f6m Macroglobulinemia"
+  ],
+  "overall_status": "COMPLETED"
+}

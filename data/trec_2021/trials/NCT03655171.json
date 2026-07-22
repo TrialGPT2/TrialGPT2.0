@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03655171",
+  "title": "A Pilot Study to Evaluate the Severity of Motor Dysfunction in Parkinson's Disease Based on AI Video Analysis",
+  "brief_summary": "This study is a pilot study, mainly to explore the potential application value of specific pattern movement after video-based quantitative methods in the early recognition and assessment of Parkinson's disease. According to UPDRS III, a series of motion indicators related to the characteristics of the disease were determined and quantitatively analysed. Motor function scores were given by the senior physicians and the AI video analysis team separately to evaluate the accuracy of the scores of AI video analysis compared with that of senior specialists' team of movement disorders.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* The primary criteria for diagnosis are idiopathic Parkinson's disease, defined as bradykinesia with resting tremor or muscular rigidity according to MDS-PD diagnosis criteria (2015). The examination of major symptoms needs to be performed by the methods described in the Unified Parkinson's Disease Rating Scale (UPDRS).\n\nExclusion Criteria:\n\n* 1\\. Definite cerebellar abnormalities, such as cerebellar gait, limb ataxia, or cerebellar eye movement abnormalities (such as sustained staring induced nystagmus, giant square wave beats, and distant hypertonia).\n* 2\\. Downward vertical suprachiasmatic gaze palsy, or selective downward vertical scanning is slowing down.\n* 3\\. Within five years of onset, the disease was diagnosed as a likely frontotemporal dementia or primary progressive aphasia (according to revised diagnostic criteria for frontotemporal dementia published in 2011).\n* 4\\. With more than three years after the onset of the disease, Parkinson's disease symptoms are still limited to the lower limbs.\n* 5\\. They have been treated with dopamine receptor blockers or dopamine depletion agents and the dosage and duration of administration are consistent with the diagnosis of drug-induced Parkinson's disease.\n* 6\\. Although the condition is at least moderately severe, there is no discernible effect on high-dose levodopa therapy.\n* 7\\. Definite cortical hypoesthesia (such as loss of skin writing and body recognition when the primary sensory function pattern is complete), definite motor aphasia of body concept, or progressive aphasia.\n* 8\\. Functional neuroimaging study of the presynaptic dopaminergic system shows normal results.\n* 9\\. There is evidence of Parkinson's disease or other diseases suspected to be related to the patient's symptoms, or professional physicians identify they may be other syndromes rather than Parkinson's disease based on a complete diagnostic assessment.",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "outpatients with idiopathic Parkinson's disease",
+  "condition": [
+    "Parkinson Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

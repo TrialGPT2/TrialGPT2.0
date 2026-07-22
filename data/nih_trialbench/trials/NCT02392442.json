@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT02392442",
+  "title": "Effects of Bronchial Segmental Endotoxin Instillation in Humans",
+  "brief_summary": "Background:\n\n\\- When bacteria enter the lungs, serious infections can occur. Researchers want to learn more about the process of inflammation in the lungs by studying lung cells and the products that they make. Lung cells are influenced by infections, smoking, and molecules made within the body. Researchers also want to learn more about one of these molecules, called microRNA (or micro ribonucleic acid).\n\nObjective:\n\n\\- To better how the body responds to infection. Also, to understand which cells in the lung secrete microRNA and how they may influence other lung cells.\n\nEligibility:\n\n\\- Healthy, non-smoking adults ages 18-45.\n\nDesign:\n\n* Participants will be screened with a medical history and physical exam. They will have blood and urine tests and an electrocardiogram.\n* Participants will have blood drawn from an arm vein. They will have an intravenous catheter (small plastic tube) placed in a vein.\n* All participants will have bronchoscopy with bronchoalveolar lavage. They will be numbed with medicine. A thin flexible tube will be placed through the nasal passages or the mouth into the airways of the lung.\n\n  * Some participants will have bronchoscopy with bronchoalveolar lavage (rinsing the airways with salt water) in order to obtain cells from lung. The water will then be suctioned out.\n  * Some participants will have two bronchoscopies; during the first procedure, endotoxin, a molecule found in bacteria is squirted into a small portion of the lung. Endotoxin is a molecule that acts like an infection but isn t one. After 6 to 48 hours, bronchoscopy with with bronchoalveolar lavage will be done to look at the lung s response to endotoxin.\n* Participants heart rhythm and rate, temperature and blood oxygen level will be monitored during the procedures.\n* Participants will be called the next day to see how they are feeling.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\n  1. Healthy 18 to 45 year old, nonsmoking subjects based on screening examination and laboratory tests.\n  2. No significant active medical problems. This would include but not be limited to any cardiac disorder (e.g. arrhythmia, valvular heart disease), pulmonary disease (e.g. asthma requiring chronic medications, chronic bronchitis, emphysema), neurologic disorder (e.g.\n\n     epilepsy), kidney disease (e.g. nephritis, nephrosis), rheumatologic disorder (e.g. inflammatory arthritis), endocrine disorder (e.g. diabetes, thyroid disease), liver disease (e.g. hepatitis), gastrointestinal disorder (e.g. inflammatory bowel disease) or infectious\n\n     disease (e.g. human immunodeficiency virus).\n  3. No concurrent medications including aspirin or non-steroidal anti-inflammatory drugs or have not taken these for at least 7 days prior to study participation.\n  4. Previous smokers would have to have abstained from cigarettes for at least one year and have no greater than a 10-pack year smoking history. If you use a hookah, e-cigarette, or vaping more than once a week, you must abstain for at least 6 weeks prior to participating in the study.\n  5. Females must be practicing active method of birth control or abstinence of sexual activity.\n  6. Must be willing to have samples stored\n\nEXCLUSION CRITERIA:\n\n1. Any serious active medical problem as defined above\n2. Pregnancy and/or lactation\n3. BMI \\>30",
+  "minimum_age": "18 Years",
+  "maximum_age": "45 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Lung Inflammation"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION",
+  "line_of_therapy_overall_summary": "This is a study in healthy, non-smoking adults with no history of cancer or prior systemic therapy. There is no line-of-therapy intent as this is not an oncology trial.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The trial enrolls only healthy volunteers with no cancer or prior systemic therapy. There is no mention of cancer, advanced disease, or systemic therapy in the eligibility criteria."
+    }
+  ]
+}

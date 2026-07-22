@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT00051857",
+  "title": "MRI Study of Musculoskeletal Function",
+  "brief_summary": "This study will use magnetic resonance imaging (MRI) and ultrasound images to study how muscles, tendons, and bones work together to cause motion. The procedure is one of several tools being developed to characterize normal and impaired musculoskeletal function, with the goal of developing improved methods of diagnosis and treatment of movement disorders.\n\nHealthy normal volunteers must be age 5 to unlimited, with or without joint impairment, may be eligible for this study. Volunteers with joint impairment may not have serious injury to the joint being studied, previous surgery on the joint being studied, or extreme pain at the joint being studied.\n\nMRI uses a strong magnet and radio waves to create images of the inside of the body. The subject lies on a long narrow couch inside a metal cylinder (the scanner) for up to 3 hours while the scanner gathers data. Earplugs are worn to muffle loud noises caused by electrical switching of radiofrequency circuits used in the scanning process. A special pad or tube may be placed over or around the region being scanned to improve the quality of the data. The subject will be asked to repeatedly move a specific joint, such as the knee, for brief periods, usually less than 5 minutes. The subject can communicate via intercom with the person performing the study at all times during the procedure, and may request to stop the study at any time.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAffected Participants:\n\n* Must be between the ages of 5-95 years.\n* Minors \\< 18 years of age, they must be capable of providing assent (verbal or written) with parental or legal guardian permissions obtained.\n* Adults 18 \\>= years of age, they must be able to provide informed consent.\n* Have the presence of a bone, muscle, soft tissue, connective tissue injury, impairment or related muscular skeletal system pathology.\n* Ability to have an MRI Scan.\n\nHealthy Volunteer Participants\n\n* Must be between the ages of 5-95 years.\n* Minors \\< 18 years of age, they must be capable of providing assent (verbal or written) with parental or legal guardian permissions obtained.\n* Adults 18 \\>= years of age, they must be able to provide informed consent.\n* Ability to have an MRI Scan.\n\nEXCLUSION CRITERIA:\n\nAffected Participants:\n\n-For the MR imaging portion of this study, all participants must complete the NIH Diagnostic Radiology screening questionnaire. If any potential contraindication is found, either the volunteer s doctor (with knowledge of the potential contraindication) or the radiology department at the NIH will be contacted to determine if the potential contraindication would exclude them from the specific MR scans being proposed.\n\nHealthy Volunteer Participants\n\n* Any relevant medical problems\n* Clinical signs of an impairment in the joint/limb being studied.\n* Any serious injury to the joint/limb being studied, previous surgery on the joint/limb being studied or extreme pain at the joint/limb being studied.\n* Neurologic Pathology affecting the muscular skeletal system\n* For the MR imaging portion of this study, all participants must complete the NIH Diagnostic Radiology screening questionnaire. If any potential contraindication is found, either the volunteer s doctor (with knowledge of the potential contraindication) or the radiology department at the NIH will be contacted to determine if the potential contraindication would exclude them from the specific MR scans being proposed.",
+  "minimum_age": "5 Years",
+  "maximum_age": "95 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants will be primarily recruited from the greater Washington DC area.",
+  "condition": [
+    "Abnormalities",
+    "Imaging",
+    "Patellofemoral Pain Syndrome"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an imaging study of musculoskeletal function in both healthy volunteers and participants with musculoskeletal impairment. There is no systemic therapy or cancer treatment involved, and line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced disease. Eligibility is based on musculoskeletal health or impairment, not prior lines of therapy."
+    }
+  ]
+}

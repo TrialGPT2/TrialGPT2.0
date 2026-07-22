@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT01571752",
+  "title": "Health Outcomes by Neighborhood - Baltimore",
+  "brief_summary": "Background:\n\n\\- Researchers have been studying patterns of mood and drug use in specific neighborhoods. This study will look at environmental factors that may affect drug use, addiction, and treatment seeking in Baltimore neighborhoods. The results could inform prevention efforts, enhance treatment interventions, and improve substance use outcomes.\n\nObjectives:\n\n\\- To better understand why some people start to use drugs, why some people who use drugs become addicted, and why some people who become addicted enter treatment.\n\nEligibility:\n\n\\- Individuals at least 18 years of age who are living in the neighborhoods participating in the study.\n\nDesign:\n\n* Participants will be screened with a physical exam and medical history. They will be separated into one of four groups: (1) people who do not use drugs, (2) people who have used drugs in the past, (3) people who are using drugs and want treatment, and (4) people who are using drugs and do not want treatment.\n* This study will include two outpatient visits about 12 months apart. Each visit will last about 5 hours. Each study visit may be done in 1 day or in 2 days.\n* At each study visit, participants will provide blood, breath, urine, and saliva samples. They will also have a heart function test and body measurements. They will complete questionnaires about personal and family history.\n* There will be monthly follow-up phone calls between the two visits.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nThe enrollment target in Phase B is 650 community-dwelling individuals (at least 325 of whom we anticipate will provide 12-month Visit #2 data in our 3 main study groups). Enrollment for Phase A + Phase B + Phase C =3000.\n\n* Age at least 18 years. Rationale: Children under 18 will not be included because many of the measures to be administered in this study are not validated for use with children. Furthermore, the research question under investigation is the drug trajectories of adults, over the age of 18. However, there is no intervention in this study that is contraindicated for older adults, and given that addiction in the elderly is understudied, it is important to include elderly individuals.\n* Residence in Baltimore city or one of the surrounding counties. Rationale: Our current geographic mapping technology currently only includes these areas.\n\nEXCLUSION CRITERIA:\n\n-Inability to provide informed consent.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "We will enroll 650 participants in Phase B of the study for a total enrollment (Phase A + Phase B + Phase C) of 3000 participants. Target enrollment will include 25% women and 70% minorities (mostly African-American).",
+  "condition": [
+    "Stigma",
+    "Activity Space",
+    "Social Networks",
+    "HIV Status",
+    "Drug Abuse/Dependence"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study of drug use and addiction patterns in Baltimore neighborhoods. There is no cancer diagnosis or systemic therapy involved, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced disease. No line-of-therapy criteria are specified or applicable."
+    }
+  ]
+}

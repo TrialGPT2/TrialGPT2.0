@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04338828",
+  "title": "Nitric Oxide Inhalation Therapy for COVID-19 Infections in the ED",
+  "brief_summary": "The spread of novel Coronavirus (2019-nCoV) related infection (COVID-19) has led to many patient presentations in the emergency department for respiratory complaints, with many of these patients requiring ICU admission and ventilatory support. While COVID-19 patients have an increased need for supportive care, there is currently no specific treatment directed against 2019-nCoV. Nitric oxide inhalation has been used as a pulmonary vasodilator and has been found to have antiviral activity against other coronavirus strains. The primary aim of this study is to determine whether inhaled NO improves short term respiratory status, prevents future hospitalization, and improves the clinical course in patients diagnosed with COVID-19 specifically in the emergency department.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \u2265 18 years old\n* Presentation to the ED with respiratory symptoms likely caused by COVID-19\n* Patient displays at least one of the following\n\n  1. respiratory rate \u2265 24\n  2. new cough\n  3. new atypical chest pain\n  4. new dyspnea\n  5. oxygen saturation \\< 97% at rest\n  6. chest x-ray with new changes consistent with COVID-related airspace disease\n* Cleared for discharge home by attending physician\n* Obtained COVID testing (results not required at time of enrollment)\n* Onset of symptoms \u226412 days prior to ED visit\n\nExclusion Criteria:\n\n* Attending physician estimation (\\< 50% likelihood) of other more likely non-COVID etiology\n* Presence of tracheostomy\n* Requirement of oxygen therapy to maintain resting oxygen saturation of \\> 94%\n* Clinical contraindication to use of inhaled nitric oxide",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID19"
+  ],
+  "overall_status": "TERMINATED"
+}

@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01181869",
+  "title": "Database of Patients Treated With Respiratory Support",
+  "brief_summary": "An observatory of patients registered in 22 local homecare associations in France, for respiratory diseases, with annual data update. Demographic and clinical data are registered rendering possible extraction of clinical and prognostic data.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* requiring respiratory support",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients requiring respiratory support, in the ANTADIR homecare federation",
+  "condition": [
+    "Chronic Respiratory Failure"
+  ],
+  "overall_status": "UNKNOWN"
+}

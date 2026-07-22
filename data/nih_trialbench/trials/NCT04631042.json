@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT04631042",
+  "title": "Developing Brain, Impulsivity and Compulsivity",
+  "brief_summary": "Background:\n\nImpulsivity is acting 'without thinking.' Compulsivity is being overly inflexible. People vary in how impulsive or compulsive they are. Extreme versions of these behaviors play a role in mental disorders. Researchers want to study changes in the brain to learn more about these behaviors. Differences in genes may also play a role.\n\nObjective:\n\nTo learn about genetic \\& brain features that explain why levels of impulsivity and compulsivity vary across people.\n\nEligibility:\n\nPeople ages 6 - 80\n\nDesign:\n\nParticipants will be screened with a medical history and medical record review.\n\nParticipants will talk about their mental and behavioral development. They may discuss topics like drug use and sexual activity. They will complete surveys about their compulsivity and impulsivity. Parents of child participants may also complete these surveys.\n\nParticipants may take memory, attention, and thinking tests. They may give blood or saliva samples for gene studies and they may give blood to make induced pluripotent stem cells. Participants may have their face and irises photographs taken.\n\nParticipants may have a magnetic resonance imaging scan. It will take pictures of their brain. The scanner is shaped like a cylinder. Participants will lie on a table that slides in and out of the scanner. A coil will be placed over their head. They will lie still, watch a movie, and play a game.\n\nParticipants may ask family members to join the study. Researchers are particularly interested in recruiting twin pairs to the study.\n\nParticipants under age 25 may repeat these tests every 1-2 years until they turn 25 or until the study ends. For those over age 25, participation will last less than 1 month.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n1. Stated willingness to comply with all study procedures and availability for the duration of the study.\n2. Must be between 6 and 80 years of age.\n3. Ability of participant to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Cognitively not capable of performing study procedures or lack of capacity to provide informed consent. Indications of a lack of cognitive capacity could include a known full-scale IQ under 70, or a history from the screening interview that implies global intellectual disabilities (e.g., placement in a school for children with intellectual disability etc.)\n2. Very premature birth (i.e., birth before 32 weeks of gestational age).\n3. Any known brain abnormalities (e.g., tumor, periventricular leukomalacia, microcephaly) or history of medical conditions known to affect cerebral anatomy (e.g., epilepsy, history of stroke, head injury with a loss of consciousness of one hour or more).\n4. Psychotic disorders (including schizophrenia, psychosis not otherwise specified).\n5. Dementia, or other conditions that, in the opinion of the investigators, would impede compliance or possibly hinder completion of the study.\n6. Pregnant women.\n7. Any other medical or psychiatric condition that in the opinion of the PI may confound study data/assessments.\n\nAdditional exclusion criteria for optional MRI procedure:\n\n1\\. Individuals who are not able to receive an MRI (e.g., metal bioimplants, claustrophobia, inability to lie flat on their backs, pregnant women, and any other contraindications for MRI scanning according to the NMR Center MRI safety guidelines).",
+  "minimum_age": "6 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals between 6 and 80 years of age with a wide range of impulsivity/compulsivity behaviors - ranging from normal to mildly/extremely impaired - will be recruited. No specific demographic groups will be targeted. Recruitment will be mainly done in the District of Columbia/Maryland/Virginia area, however some participants might travel from elsewhere.",
+  "condition": [
+    "Typical Development",
+    "Obsessive Compulsive Disorder",
+    "Conduct Disorder",
+    "Attention Deficit Hyperactivity Disorder",
+    "Autism Spectrum Disorder"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology observational study of impulsivity and compulsivity across the lifespan. There is no cancer diagnosis or systemic therapy involved, so line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This study does not involve cancer or systemic therapy for advanced disease. No line-of-therapy criteria are specified or relevant."
+    }
+  ]
+}

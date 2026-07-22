@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT04570254",
+  "title": "Antioxidants as Adjuvant Therapy to Standard Therapy in Patients With COVID-19",
+  "brief_summary": "Introduction: SARS-CoV2 infection produces severe pneumonia with pulmonary alveolar collapse. There is no specific treatment to date. In experimental models and humans with septic shock, there is a high production of nitric oxide (NO) and reactive nitrogen species (RNS) and can cause multiple organ failure. The administration of antioxidants such as n-acetylcysteine (NAC), vitamin C, melatonin, and vitamin E participate in increasing the intracellular content of GSH, ROS sequestration, protection of the lipids of cell membranes, cytosol proteins, nuclear DNA, mitochondrial and decrease LPO.\n\nJustification: as there is no specific antiviral therapy, the therapeutic options are limited, complications and mortality are high; It is intended to evaluate the effect of antioxidants on the storm outcome of the dysregulation of oxidative stress.\n\nHypothesis: It is postulated that adjuvant therapy with antioxidants and Pentoxifylline reduces the use of ventilators in patients with or without septic shock secondary to severe SARS-COV2 pneumonia as decreases lipoperoxidation, and corrects dysregulation of oxidative stress by increasing the antioxidant capacity.\n\nObjectives: To evaluate whether it is possible to avoid intubation or decrease assisted mechanical ventilation days, improve oxidative stress dysregulation in patients with SARS-COV2 infection with severe pneumonia with or without septic shock.\n\nMethodology: Quasi-experimental, open analytical, prospective, and longitudinal study (before-after). In patients over 18 years of age who are admitted to the CITIBANAMEX Center with or without septic shock secondary to severe SARS-COV2 pneumonia. There will be two groups: 1) patients without septic shock and 2) patients with septic shock secondary to severe pneumonia due to SARS-COV2. A single antioxidant will be applied following the clinical decision tree (NAC, Vit C, Vit E, melatonin) more Pentoxifylline orally or by orogastric tube for a total of 5 days from the start of the protocol. APACHE II will calculate the risk, SOFA, MEXSOFA, measurements of IL-8, vitamin C, NO3 / NO2, LOP, total antioxidant capacity will be carried out at baseline and 48 hours. SOFA will be calculated for seven days, in addition to days of hospitalization, days of mechanical ventilation. It was evaluated 28 days after discharge by telephone.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients admitted to the UTC in the Temporary COVID-19 Citibanamex Center with suspected or diagnosed severe pneumonia due to SARS-COV2 with or without septic shock.\n* Patients who accept and sign informed consent. If the patient is clinically unable to authorize, acceptance by a first-degree relative will be requested.\n* Diagnosis of septic shock in the last 24 hours characterized by refractory hypotension and vasopressor requirement despite adequate fluid resuscitation (20 mL/kg of colloids or 40 mL/kg of crystalloids) to maintain a blood pressure \u2265 65 mmHg with lactate\\> two mmol / L.\n\nExclusion Criteria:\n\n* Patients with an advance directive format.\n* Chronic use of steroids in the past six months or recent.\n* Use of statins before admission.\n* Patients who are under some antioxidant treatment.\n* Any contraindication for the use of Vit C, Vit E, NAC, and melatonin.\n* Pregnant women.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pneumonia, Viral",
+    "Covid19",
+    "ARDS",
+    "Oxidative Stress"
+  ],
+  "overall_status": "COMPLETED"
+}

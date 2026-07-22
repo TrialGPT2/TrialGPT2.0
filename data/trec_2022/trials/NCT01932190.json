@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01932190",
+  "title": "Artificial Kidney Initiation in Kidney Injury",
+  "brief_summary": "The best timing for renal replacement therapy (RRT) in intensive care unit (ICU) patients with acute kidney injury (AKI) is unknown. The investigators will conduct a multicenter prospective randomized open-label trial to compare two strategies in ICU patients (mechanically ventilated and/or receiving catecholamine infusion) with severe AKI defined as RIFLE F classification. These patients will be randomly allocated to one of the following strategies:\n\n1. an \"early\" strategy where RRT is started immediately when a RIFLE F status is documented\n2. a \"delayed\" strategy where RRT (in patients who also present RIFLE F renal failure) is started only in case of occurrence of one or more of the following events (\"Alert Criteria\"): oliguria or anuria lasting for more than 72 hours after randomization, serum urea concentration \\> 40 mmol /L, serum potassium concentration \\> 6 mmol /L, serum potassium concentration \\> 5.5 mmol /L that persists despite well-conducted medical treatment with at least sodium bicarbonate and / or glucose-insulin infusion, arterial pH \\< 7.15 in the context of pure metabolic acidosis (PaCO2 \\<35 mmHg) or in the context of mixed acidosis with PaCO2\\> 50 mmHg without possibility of lowering this PaCO2 value, acute overload pulmonary edema generating severe hypoxemia requiring oxygen flow\\> 5L/min in spontaneously breathing patients or FiO2\\> 50% in mechanically (invasive or noninvasive) ventilated to maintain SpO2\\> 95%, despite diuretic therapy.\n\nThe primary endpoint is overall survival, measured from the date of randomization to the date of death, regardless of the cause. The minimum duration of each patient's follow-up will be 60 days.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion criteria The following five criteria are required for inclusion\n\n1. Hospitalized in intensive care unit\n2. Age \u2265 18 years\n3. Acute kidney injury compatible with the diagnosis of acute tubular necrosis defined by a clinical ischemic or toxic insult context\n4. Have an AKI classified as RIFLE F, that is to say, with at least one of the following three criteria:\n\n   * creatinine\\> 354 mmol / l or \\> 3 times the baseline creatinine\n   * anuria for more than 12 hours\n   * oliguria defined as urine output \\< 0.3 ml / kg / h or \\< 500ml/d for more than 24 hours\n5. Mechanical ventilation and/or catecholamines infusion (noradrenaline or/and adrenaline)\n\nNon-inclusion criteria\n\nOne or more of the following criteria:\n\n* Chronic renal failure (defined as creatinine clearance \\< 30 ml / min)\n* Patients already enrolled in the study\n* Inclusion criteria number 4 present for more than 5 hours\n* Acute renal failure due to:\n\n  * urinary tract obstruction\n  * renal vessels obstruction\n  * tumor lysis syndrome\n  * thrombotic microangiopathy\n  * acute glomerulonephritis\n* Intoxication with a dialyzable product\n* Child-Pugh class C liver cirrhosis\n* Renal transplant\n* Cardiac arrest without awakening at time of potential inclusion\n* Moribund state\n* Decision to limit treatment\n* RRT already started for the current episode of AKI\n* Presenting (at the time of potential inclusion) a strong indication for immediate RRT\n\n  * oligoanuria for more than 3 days\n  * serum urea concentration \\> 40 mmol / l serum potassium concentration \\> 6 mmol /L, serum potassium concentration \\> 5.5 mmol /L that persists despite well-conducted medical treatment with at least sodium bicarbonate and / or glucose-insulin infusion, arterial pH \\< 7.15 in the context of pure metabolic acidosis (PaCO2 \\<35 mmHg) or in the context of mixed acidosis with PaCO2\\> 50 mmHg without possibility of lowering this PaCO2 value, acute overload pulmonary edema generating severe hypoxemia requiring oxygen flow\\> 5L/min in spontaneously breathing patients or FiO2\\> 50% in mechanically (invasive or noninvasive) ventilated to maintain SpO2\\> 95%, despite diuretic therapy.\n* Under cardiopulmonary bypass\n* Included in another clinical trial on RRT modalities.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Renal Replacement Therapy for Acute Kidney Injury in Intensive Care Unit"
+  ],
+  "overall_status": "COMPLETED"
+}

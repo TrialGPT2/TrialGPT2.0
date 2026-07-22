@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04393558",
+  "title": "Wearable Sensor to Monitor COVID-19 Like Signs and Symptoms",
+  "brief_summary": "1. Develop a wearable sensor package to gather data on COVID-19-like signs and symptoms such as elevated body temperature, respiratory parameters, heart rate ,cough and gait.\n2. Create algorithms to monitor and track changes to COVID19-like signs and symptoms for developing a better care and isolation strategies for COVID-19 pandemic.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Ages between 18-95 years old\n* Currently experiencing any COVID-like signs and symptoms such as fever, cough, shortness of breath, trouble breathing, persistent pain or pressure in the chest, confusion or inability to arouse, bluish lips or face.\n* Individuals who are not experience any COVID like signs and symptoms (will be asked to be healthy control)\n* Able and willing to give written consent and comply with study procedures.\n\nExclusion Criteria:\n\n* Inability to understand instructions and follow a three step command.\n* The subject is pregnant, nursing or planning a pregnancy.\n* Inability to provide written consent.",
+  "minimum_age": "18 Years",
+  "maximum_age": "95 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Individuals who may have experienced COVID-19 like symptoms.",
+  "condition": [
+    "COVID-19",
+    "Healthy Control"
+  ],
+  "overall_status": "COMPLETED"
+}

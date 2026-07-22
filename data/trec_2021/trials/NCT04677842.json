@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04677842",
+  "title": "European Pregnancy and Paediatric Infections Cohort Collaboration: Paediatric Protocol",
+  "brief_summary": "Across Europe and worldwide, there are many studies following groups (cohorts) of children living with human immunodeficiency virus (HIV) and other infections over time, to monitor their long-term health. Some of these infections are rare: for example, few children in Western Europe are living with HIV, so the studies often have fairly small numbers of participants. This can make it difficult to answer research questions in these cohorts and means that doctors and researchers working with these patients in different countries need to work together. This is particularly important as children are not often included in clinical trials of treatments and other interventions.\n\nThe European Pregnancy and Paediatric Infections Cohort Collaboration (EPPICC) is an international network of researchers working together in this way. Researchers in the network represent cohort studies of pregnant women and children with, or at risk of, infections from across Europe and Thailand. The research focuses on infections in pregnant women and children, particularly HIV, hepatitis B and C virus, and tuberculosis, and, from 2020, novel coronavirus (COVID-19). By combining data from many cohorts, the researchers aim to answer questions that could not be answered by one study individually (for example, because a large number of pregnant women or children are needed to answer the question).\n\nThis protocol focuses on the paediatric component of EPPICC's research, which focuses on the treatment of children at risk of and living with infections. For example, what medicines are used most often and how do they affect children's health? EPPICC is an observational study, which means that children do not receive any extra treatment as part of the study. Instead, children are \"observed\" during their routine medical care. Each cohort keeps records of the children's health collected at routine clinic visits, including information such as date of birth and sex, results of diagnostic tests, treatments received, and any illnesses or other events that the children have had. The EPPICC study combines and analyses data from all of the cohorts that take part, to answer questions about the risks and benefits of different diagnosis or treatment strategies, the long-term effects of infection and treatment during childhood and young adulthood, and regional variations (e.g. between Western and Eastern Europe) in the risk and management of infections.\n\nAll of the data collected through the EPPICC Paediatric Protocol are stored securely at the Medical Research Council Clinical Trials Unit (MRC CTU) at UCL. Data collection and storage are governed by the General Data Protection Regulation. A Steering Committee guides the research to make sure it is relevant and of high quality. Public and patient involvement (PPI) may be provided by individual cohorts' own groups, as well as by the interlinked Penta organisation, which is a network of paediatricians and researchers working in infections in Europe and globally. The PPI groups help with release of the results of the research. The results are also published on the Penta Foundation's public website (https://penta-id.org/), and presented at conferences and published in Open Access scientific journals.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Children and adolescents diagnosed with HIV and/or chronic HCV are eligible for inclusion in this data merger provided they meet one, or both, of the inclusion criteria below:\n\nChildren and young people living with HIV:\n\n* Diagnosis of HIV infection at age \\<18 years\n* \u22651 visit in paediatric care AND / OR\n* Children and young people living with HCV:\n* Diagnosis of chronic HCV infection at age \\<18 (defined as \u22651 antibody HCV positive results at \u226518 months of age or \u22651 HCV RNA positive result at \u22656 months of age) \u22651 visit in paediatric care",
+  "minimum_age": "",
+  "maximum_age": "17 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Paediatric infectious disease clinics across Europe and Thailand",
+  "condition": [
+    "HIV Infections",
+    "Tuberculosis Infection",
+    "Hepatitis C",
+    "Covid19"
+  ],
+  "overall_status": "UNKNOWN"
+}

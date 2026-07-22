@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03309410",
+  "title": "Mathematical Arterialization of Venous Blood Gas",
+  "brief_summary": "Objective: Arterial blood gas (ABG) analysis is essential in the clinical assessment of potential acutely ill patients. Venous to arterial conversion (v-TAC), a mathematical method, has recently been developed to convert peripheral venous blood gas (VBG) values to arterialized VBG (aVBG) values. The aim of this study was to test the reliability of aVBG compared to ABG in an emergency department (ED) setting.\n\nMethod: Twenty ED patients were included in this study. ABG and three aVBG samples were collected from each patient. The aVBG samples were processed in three different ways for comparison: aVBG1 was held steady and analysed within 5 minutes; aVBG2 was tilted in 5 minutes and analysed within 7 minutes; aVBG3 was held steady and analysed after 15 minutes. All VBG samples were arterialized using the v-TAC method. ABG and aVBG samples were compared using Lin's Concordance Correlation Coefficient (CCC) and Bland-Altman's analysis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Admission to the emergency department.\n* Need for ABG for respiratory or metabolic assessment.\n\nExclusion Criteria:\n\n* Circulatory unstable patients (systolic blood pressure \\< 90mmHg og heart rate \\<50beats/min or \\>110beats/min).",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "",
+  "study_population": "Circulatory stable patients needing ABG analysis for respiratory and metabolic assessment were selected randomly for participation in the study. Patients were considered circulatory stable if systolic blood pressure was above 90 mmHg and heart rate was 50 to 110 beats/min in accordance with Danish Emergency Process Triage (DEPT), which were used to triage patients upon admission. A total of 30 patients were included; 10 patients for a pre-study purpose and then 20 patients in the following main study.",
+  "condition": [
+    "Matched-Pair Analysis",
+    "Blood Gas Analysis",
+    "Emergency Service, Hospital"
+  ],
+  "overall_status": "COMPLETED"
+}

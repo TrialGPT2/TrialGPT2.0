@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT00979979",
+  "title": "Clinical Performance of Abbott RealTime Hepatitis C Virus (HCV) Genotype II Test",
+  "brief_summary": "Hepatitis C virus (HCV) infection, a leading cause of cirrhosis, hepatocellular carcinoma (HCC) and liver transplantation, affects approximately 170 million individuals worldwide. Combination of peginterferon plus ribavirin therapy has become the current standard of care for chronic hepatitis C (CHC) patients, with an overall sustained virologic response (SVR) rate of 54-63% and more favorable response rates in patients with genotype 2/3 infection than those with genotype 1/4 infection. Therefore, accurate pre-treatment HCV genotype evaluation is of paramount importance to facilitate individualized therapy in the era of response guide therapy and specific-targeted antiviral therapy for HCV (STAT-C).\n\nCurrently, direct HCV genetic sequencing for both the 5' untranslated terminal region (5'UTR) and non-structural 5B (NS5B) regions with subsequent phylogenetic tree analysis is considered the gold standard for determining HCV genotype and subtype. However, it is time-consuming and need special laboratory settings. Several commercial available reverse hybridization with type-specific probing assay (Inno-LiPA II) or simplified direct sequencing of the 5'UTR region were used to replace the two region sequencing method (Trugene HCV 5' NC genotyping kit). Nonetheless, data on the overall diagnostic accuracy varied.\n\nThe Abbott RealTime HCV Genotype II is an in vitro reverse transcription-polymerase chain reaction (RT-PCR) assay for determining the genotype(s) of HCV in plasma and serum from HCV-infected individuals. Based on genetic similarity, HCV has been classified into six major genotypes (1-6) and numerous subtypes. HCV genotype is predictive of the response of HCV-infected patients to peginterferon plus ribavirin combination therapy. The Abbott RealTime HCV Genotype II assay uses the Abbott m2000sp instrument for processing samples and the Abbott m2000rt instrument for amplification and detection. Furthermore, the Abbott m2000sp provides automated sample transfer and reaction assembly of the assay reagents in the Abbott 96-Well Optical Reaction Plate.\n\nThe investigators aimed to evaluate the overall diagnostic accuracy of the currently available commercial HCV genotype kits (Abbott RealTime HCV Genotype II) by using 5'UTR and NS5A gene amplification and direct sequencing as the gold standard.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* HCV patients with both positive for anti-HCV and HCV RNA (Cobas Taqman, Roche Diagnostics, LOQ:25 IU/mL and LOD:10 IU/mL)\n* Patients with signed informed consent\n\nExclusion Criteria:\n\n* Patients without signed informed consent\n* HCV patients without detectable HCV RNA (Cobas Taqman, Roche Diagnostics)",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "255 HCV patients both positive for anti-HCV and HCV RNA and 18 patients without ant-HCV and HCV RNA; all 255 patients were tested for Abbott RealTime genotype II test and direct HCV sequencing at 5'UTR and NS5B for the sensitivity, specificity, and the overall diagnostic accuracy.",
+  "condition": [
+    "Hepatitis C"
+  ],
+  "overall_status": "COMPLETED"
+}

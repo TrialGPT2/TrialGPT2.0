@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04645030",
+  "title": "The Value of Ultralow Dosis CT and Ultrasound in the Diagnosing of Pneumonia in the Emergency Department",
+  "brief_summary": "Pneumonia is one of the most common infections in the emergency department (ED). Nevertheless, the current diagnostic tools are often slow and inaccurate. Currently, a chest x-ray is the first choice for diagnostic imaging for pneumonia in the ED, but is inaccurate with low sensitivity and specificity, resulting in both over-and underdiagnosing of pneumonia. Alternatively, computer thermography (CT) and high-resolution CT (HR-CT) offers high diagnostic accuracy but involves significantly increased radiation to the patient, and increased costs and examination time. Lately, two alternatives to chest x-ray have emerged:\n\n* The first is lung ultrasound (LUS) which has shown higher sensitivity and specificity for pneumonia than a chest x-ray when performed by experts. However, the diagnostic accuracy of lung ultrasound performed by novice operators in the ED still needs investigation.\n* The second alternative to chest x-ray is ultra-low-dose CT (ULD-CT). A ULD-CT is a CT scan where the radiation dose is significantly reduced, while still maintaining acceptable image quality. In effect merging the high diagnostic accuracy of chest CT with the low radiation doses of chest X-ray.\n\nThe aim of this study is to investigate the diagnostic accuracy of LUS by novice operators in the ED and the diagnostic accuracy of ULD-CT thorax, in patients suspected of having pneumonia.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Admission to an emergency department in the study, with one of following symptoms: dyspnea, cough, expectoration.\n* Indication for blood culture\n* Indication for chest x-ray OR\n* the treating physician suspects a pneumonia diagnosis after the first evaluation of the patient\n\nExclusion Criteria:\n\n* Patients \\< 40 years old due to risk of cancer from the radiation\n* If the attending physician considers that participation will delay a life-saving treatment or patient needs direct transfer to the intensive care unit.\n* Admission within the last 14 days\n* Verified COVID-19 disease within 14 days before admission\n* Pregnant women\n* Severe immunodeficiencies: Primary immunodeficiencies and secondary immunodeficiencies (HIV positive CD4 \\<200, Patients receiving immunosuppressive treatment (ATC L04A), Corticosteroid treatment (\\>20 mg/day prednisone or equivalent for \\>14 days within the last 30 days), Chemotherapy within 30 days)\n* Patients \\< 65 who already participated once due to risk of cancer from the radiation",
+  "minimum_age": "40 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adults admitted to the ED will be invited to participate in the study, if the physician, receiving the patient, suspects the patient has an infection (e.g. indication for blood culture) and if the physician suspects community-acquired pneumonia. The physician will base his/her suspicion on clinical symptoms such as cough, increased sputum production, chest tightness, dyspnea and fever \\> 38\u2070C, and indication for chest x-ray.",
+  "condition": [
+    "Respiratory Tract Infections"
+  ],
+  "overall_status": "COMPLETED"
+}

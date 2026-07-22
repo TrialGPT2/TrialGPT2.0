@@ -1,0 +1,36 @@
+{
+  "nctid": "NCT05035420",
+  "title": "A Noninvasive Multimodal Biosensing Device for Screening and Monitoring Response to Treatment of Infectious Respiratory Diseases",
+  "brief_summary": "Background:\n\nThe COVID-19 outbreak has strained the health care system. New tools are needed for diagnostic testing and monitoring of people who have the virus. Researchers want to test a device they hope can screen, detect, and monitor symptoms linked to respiratory diseases like COVID-19.\n\nObjective:\n\nTo evaluate and validate a device that measures breathing, body temperature, heart rate, and tissue oxygenation.\n\nEligibility:\n\nHealthy adults ages 18 and older with no flu-like symptoms and no current signs of infection, cough, fever, or sneezing.\n\nDesign:\n\nParticipants will have a physical exam. Their vital signs will be taken.\n\nParticipants will sit in a chair. They will be monitored for 60 to 80 minutes while they do the following tasks:\n\nRest for 10 minutes. They will repeat this after each task.\n\nHold their breath for up to 2 minutes and then rest for 2 minutes. They will do this task 3 times.\n\nPace-breathe with breathing rates of 10, 20, and 30 breaths per minute. They will do this task 2 times.\n\nBreathe air that has 5% of carbon dioxide for 5 minutes.\n\nDuring these tasks, data will be collected and recorded with a pulse oximeter, thermometer, respiratory belt, and spirometer.\n\nParticipants will fill out questionnaires related to their daily activity (medication intake, exercise, smoking, and drinking).\n\nParticipation will last for 2 to 3 hours.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DEVICE_FEASIBILITY",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to participate in this study, an individual must meet all of the following criteria:\n\n* Provision of signed and dated informed consent form.\n* Stated willingness to comply with all study procedures and availability for the duration of the study.\n* Male or female aged 18 years or greater.\n* In good general health as evidenced by medical history with no signs of cough, sneeze and upper respiratory symptoms.\n* Body temperature in normal range (afebrile, temperature \\< 100.4 (Infinite) F) on the day of the experiment.\n\nEXCLUSION CRITERIA:\n\n* Any skin disease.\n* Fever (Temperature greater than or equal to 100.4 degrees F).\n* Any past or present cardiovascular or pulmonary diseases.\n* Known adverse reaction to latex.\n* Any medical condition that, in the opinion of the Principal Investigator would preclude the inclusion of a patient onto this research study.\n* Unable or unwilling to give informed consent.\n* Individuals with known respiratory conditions.\n* Individuals who are currently taking medication that may cause methemoglobinemia such as nitrates derivatives, sulfonamides, dapsone, phenacetin, phenazopyridine, some local anesthetics such as prilocaine, topical anesthetics such as emla cream, benzocaine.\n* Individuals with history of seizure.\n* Smokers and those on narcotics.\n* Pregnant women are excluded due to risk associated to hypercapnia risk",
+  "minimum_age": "18 Years",
+  "maximum_age": "78 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID-19",
+    "Upper Respiratory Infection",
+    "Lower Respiratory Infection"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This study enrolls healthy adults with no current or prior respiratory disease or infection to evaluate a noninvasive biosensing device. There is no cancer population or systemic therapy for advanced disease involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": null,
+      "category": "1L",
+      "line_of_therapy_text": "Eligibility requires healthy adults with no signs of infection or respiratory disease; there is no mention of prior systemic therapy for advanced disease. All participants are treatment-naïve with respect to advanced/metastatic disease."
+    }
+  ]
+}

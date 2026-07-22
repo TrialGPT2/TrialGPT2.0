@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT00001144",
+  "title": "Modified Bone Marrow Stem Cell Transplantation for Chronic Myelogenous Leukemia",
+  "brief_summary": "This study will investigate the safety and effectiveness of a new stem cell transplant procedure for treating chronic myelogenous leukemia (CML).\n\nTransplantation of donated stem cells (cells produced by the bone marrow that mature into the different blood components-white cells, red cells and platelets) is a very effective treatment for CML. However, despite its success in a large number of patients, there is still a significant risk of death from the procedure. In addition, it results in sterility and leaves patients at increased risk for other cancers and for eye cataracts. These complications result from the intensive chemotherapy and radiation patients receive before the transplant to rid the body of cancer cells. In this study, radiation will not be used and chemotherapy drugs will be given in lower doses to try to reduce the dangers of the procedure.\n\nPatients with CML will be tested for matching with a donor (family member) and will undergo a medical history, physical examination and several tests (e.g., breathing tests, X-rays, and others) to determine eligibility for the study. Participants will then undergo apheresis to collect lymphocytes (white blood cells important in the immune system). In apheresis, whole blood is drawn through a needle in the arm, similar to donating a unit of blood. The required component-in this case, lymphocytes-are separated and removed, and the rest of the blood is returned through a needle in the other arm.\n\nEach day starting five days before the transplant, the donor will be given an injection of G-CSF, a drug that releases stem cells from the bone marrow into the blood stream. The cells will be collected after the fifth injection and again after a sixth injection the following day. Meanwhile, patients will be given cyclophosphamide and fludarabine, and perhaps anti-thymocyte globulin, to prevent rejection of the donated cells.\n\nOn the day of the transplant, patients will be given cyclosporin to prevent graft-versus-host-disease, a disease in which the donor cells react against the patient's cells. They may also be given lymphocytes after the transplant to boost the immune system and destroy leukemia cells. After 30, 60 and 100 days, bone marrow cells and circulating lymphocytes will be checked to see how many are of donor cell origin. If less than 100 percent are of donor origin, more lymphocytes will be transfused. Patients will have physical examinations and blood tests at least weekly for 3 months and then periodically for 5 years.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "PATIENTS:\n\nPatients in chronic phase CML.\n\nAge 10 to 50.\n\nInformed consent given.\n\nAvailability of HLA identical or single HLA-locus mismatched family donor.\n\nFemales must not be pregnant or lactating.\n\nMust not have ECOG performance status of 3 or more. Must not have a psychiatric disorder or mental deficiency severe as to make compliance with the BMT treatment unlikely, and making informed consent impossible.\n\nMust not have major anticipated illness or organ failure incompatible with survival from PBSC transplant.\n\nMust not have diffusion capacity of carbon monoxide (DLCO) less than 40% predicted.\n\nMust not have left ventricular ejection fraction: less than 30%.\n\nMust not have serum creatinine greater than 50% above normal as defined by age.\n\nMust not have serum bilirubin greater than 4 mg/dl.\n\nMust not have transaminases greater 5 x upper limit of normal.\n\nMust not have other malignant diseases liable to relapse or progress within 5 years.\n\nDONOR:\n\nHLA identical or single HLA-locus mismatched family donor, up to 80 years old.\n\nInformed consent given.\n\nFemales must not be pregnant or lactating.\n\nDonor must be fit to receive G-CSF and undergo apheresis. (No controlled hypertension, no history of congestive heart failure or unstable angina, thrombocytopenia).\n\nMust be HIV negative. Donors who are positive for hepatitis B (HBV), hepatitis C (HBC) or human T-cell lymphotropic virus (HTLV)-I will be used at the discretion of the investigator.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Chronic Myeloid Leukemia",
+    "Graft vs Host Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

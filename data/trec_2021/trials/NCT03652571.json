@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03652571",
+  "title": "Nortriptyline for the Treatment of Functional Dyspepsia",
+  "brief_summary": "Functional dyspepsia (FD) is a common functional gastrointestinal disorder characterized by upper abdominal discomfort/pain and/or symptoms of meal-related fullness/satiety. There is currently no definitive therapy that is beneficial for all FD patients. Accumulating evidence suggests efficacy of tricyclic antidepressants (TCAs) in FD. However, no firm conclusion can be drawn currently due to the relatively small amount of studies and large heterogeneity between studies. In addition, TCAs are often associated with side effects, which occur early after initiation of therapy preceding the therapeutic effect and often result in discontinuation of the therapy. These side effects are related to drug metabolism, which depend on polymorphisms of the cytochrome P (CYP) enzyme system. It is therefore hypothesized that pre-treatment assessment of CYP genotype and subsequent exclusion of abnormal metabolizers limits the occurrence of side-effects and as such improves compliance and efficacy.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 18-65 years;\n* A diagnosis of FD according to the Rome IV criteria;\n* Predicted CYP2D6 extensive metabolizer phenotype on the basis of CYP genotyping\n* Insufficient effect of first line treatment with proton pump inhibitors (twice daily) or prokinetics;\n* In the presence of alarm symptoms, patients are required to have undergone an upper gastrointestinal endoscopy (without evidence of organic disease), and have tested negative for Helicobacter pylori 2 years prior to inclusion;\n* Women in their fertile age (\\<55 years old) must use contraception or be postmenopausal for at least two years.\n\nExclusion Criteria:\n\n* Predicted CYP2D6 poor, intermediate or ultrarapid metabolizer phenotype on the basis of CYP genotyping\n* Evidence of current anxiety and/or depression disorder as defined by a score \u2265 10 on the GAD-7 and/or PHQ-9 questionnaire;\n* Current use or any previous use of psychotropic medication in the last 3 months prior to inclusion;\n* Inability to discontinue prokinetics, NSAIDs or opioids;\n* Using drugs of abuse;\n* Using more than 2 or 3 units of alcohol per day (females and males respectively)\n* Previous major abdominal surgery or radiotherapy interfering with gastrointestinal function:\n\n  1. Uncomplicated appendectomy, cholecystectomy and hysterectomy allowed unless within the past 6 months;\n  2. Other surgery upon judgment of the principle investigator;\n* History of gastric ulcer;\n* History of liver disease, cholangitis, achlorhydria, gallstones or other diseases of the gallbladder/biliary system;\n* History of epilepsy\n* History of glaucoma\n* Pregnancy or lactation.",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Functional Dyspepsia"
+  ],
+  "overall_status": "TERMINATED"
+}

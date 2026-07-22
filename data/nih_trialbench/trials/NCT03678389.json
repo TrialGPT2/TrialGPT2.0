@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT03678389",
+  "title": "Feasibility of Endosphenoidal Coil Placement for Imaging of the Sella During Transsphenoidal Surgery",
+  "brief_summary": "Background:\n\nPituitary tumors can cause problems by secreting hormones in the body. They can also problems by growing large and pushing on organs near the pituitary gland. The best treatment for such tumors is to remove them by surgery. But that may be sometimes difficult. Some tumors maybe too small to see. Some other tumors maybe so large that portions maybe left behind during surgery. The endosphenoidal coil (ESC) is a new magnetic resonance imaging (MRI) device. It fits in a small space made during surgery near the pituitary. Researchers want to see if it helps transmit MRI signals during surgery to make better images of the pituitary gland and tumors.\n\nObjective:\n\nTo test the safety of using a new coil device to improve MRI imaging of pituitary tumors during surgery.\n\nEligibility:\n\nAdults 18-85 years old who are having pituitary tumor surgery at NIH\n\nDesign:\n\nParticipants will be screened with:\n\n* Medical history\n* Physical exam\n* Review of prior brain scans\n* Blood and pregnancy tests\n\nAll participants will have MRI of pituitary gland. They will lie on a table that slides into a metal cylinder in a strong magnetic field. They will lie still and get earplugs for loud sounds. A dye will be inserted into an arm vein by needle.\n\nParticipants will stay in the hospital for about 1 week. They will repeat screening tests.\n\nParticipants will have standard pituitary surgery. They will get medicine to go to sleep. The surgeon will create a path to the pituitary gland from under the lip.\n\nDuring surgery, the ESC will be placed through the path to near the pituitary. Then an MRI will be done during surgery.\n\nThen the ESC will be removed and standard surgery will continue.\n\nParticipants will get standard post-operative care under another protocol....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DEVICE_FEASIBILITY",
+  "raw_criteria": "* INCLUSION CRITIERIA:\n\nAdult subjects (more than 18 years of age) will be included in this study if they:\n\n1. Have a known or suspected tumor of the pituitary gland that requires surgical resection through a transsphenoidal approach. There is no size restriction. Invasion of surrounding anatomical structures by the pituitary tumor will not be ground for screen failure/withdrawal from study.\n2. Are enrolled in 03-N-0164, Evaluation and Treatment of Neurosurgical Disorders. If not enrolled, subjects will not be able to be included in the study as clinical and research procedures are done under the 03-N-0164 protocol.\n3. Are able to provide written consent.\n4. NIH employees are included in the study.\n\nEXCLUSION CRITIERIA:\n\nSubjects will be excluded from this study if they:\n\n1. Are unable to fit the intra-operative MRI table due to size or weight restrictions i.e morbid obesity. Patients will be anaesthetized and therefore claustrophobia will not be ground for screen failure/withdrawal from study.\n2. Have an absolute contraindication to MRI imaging or MRI contrast agent according to Rad\\&IS screening including devices or conditions.\n3. Have a variant anatomy which may, in the judgment of the operating neurosurgeon, add unacceptable risk to the placement of the endosphenoidal coil (e.g. small size of facial bones and nasal passages, unaerated sphenoid sinus etc.).\n4. Are pregnant or nursing.\n5. Patients older than 85 years of age. Cushing disease is rare in the older population.",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Pituitary Neoplasm"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls adults undergoing surgery for pituitary tumors, regardless of prior systemic therapy history. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "Eligibility is based on the need for surgical resection of a pituitary tumor, with no mention of prior systemic therapy for advanced disease. The protocol does not specify or restrict prior lines of therapy, nor does it address adjuvant-only patients."
+    }
+  ]
+}

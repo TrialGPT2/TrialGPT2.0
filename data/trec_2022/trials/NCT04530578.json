@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT04530578",
+  "title": "Nebulized Heparin in Severe Acute Respiratory Syndrome COVID-19",
+  "brief_summary": "To evaluate the safety and efficacy of the use of inhalational heparin in patients with pulmonary compromise / pneumonia / SARS associated with COVID-19, laboratory with marked inflammation parameters, and prothrombotic state secondary to it (Fibrinogen, Ferritin and / or elevated D-Dimer) , from admission to hospitalization.\n\nThe combination of inhalation heparin combined with prophylactic doses of LMWH could reduce the progression to severe forms of the disease, and consequently the need for intensive care units and mechanical ventilation.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Persons over 18 years of age of any sex admitted with a diagnosis of a suspected case of COVID-19, in accordance with the definition of the Ministry of Health of the Nation (MSal) as of May 20, 2020, who present at the time of admission or in its evolution pulmonary infiltrates compatible with imaging studies (chest X-ray or chest CT) and at least one of the following biochemical parameters of systemic inflammation:\n\n  * D DIMER over 1.0 ug/dl\n  * Ferritin over 500 ng/ml\n  * Fibrinogen over 500 mg/dl\n\nExclusion Criteria:\n\n* Under 18 years old\n* Pregnant women\n* Known allergy to Heparin\n* Participant in another clinical trial that is not approved for joint enrollment.\n* APTT\\> 120 seconds, not due to anticoagulant therapy.\n* Platelet count \\<20 x 109 per L\n* Lung bleeding.\n* Uncontrolled bleeding\n* Advanced neurological impairment\n* Advanced oncological disease",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Covid19",
+    "Pneumonia"
+  ],
+  "overall_status": "UNKNOWN"
+}

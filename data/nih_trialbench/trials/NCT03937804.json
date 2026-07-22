@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT03937804",
+  "title": "New Approaches for Empowering Studies of Asthma in Populations of African Descent",
+  "brief_summary": "Background:\n\nSome groups of people have a high prevalence of asthma and allergic disease. Also, asthma and allergic disease are often found in several members of the same family. Researchers want to learn more about what factors might cause asthma, both genetic and environmental.\n\nObjective:\n\nTo build a collection of information to try to find genes that cause conditions and disorders such as asthma and allergic disease.\n\nEligibility:\n\nPeople ages 18 99 of self-identified African, African American, or African Caribbean descent who either have no history of asthma or wheeze or have a physician s diagnosis of asthma\n\nDesign:\n\nParticipants will be screened with an interview by phone or in person.\n\nParticipants will fill out a questionnaire about their general health and exposure to allergens and smoke.\n\nParticipants will have a physical exam.\n\nParticipants will have blood tests.\n\nParticipants will provide a skin cell sample. Up to two samples will be taken from the inside of the nose. A brush will be used to take the samples.\n\nParticipants will have a breathing test. They will be asked to blow forcefully 3 or more times into a lung function machine.\n\nParticipants may have their blood and skin samples sent to a lab. DNA will be extracted from the samples and tested.\n\nParticipants blood and skin samples will be stored. Samples may be used in future research studies.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIndividuals age 18 to 99 of self-identified African, African American, or African Caribbean ancestry who either have no history of asthma or wheeze (controls) or have a physician s diagnosis of asthma. This study focuses exclusively on African ancestry individuals in order to address a lack in the field of asthma research focusing on those of African ancestry despite the greater disease burden experienced by these individuals. Enrollment for the CAAPA2 study at the NIH CC will include only adults, while children will be enrolled at other CAAPA2 sites, consistent with expertise at those sites.\n\nEXCLUSION CRITERIA:\n\n* First degree relative of enrolled study participant (as determined through responses to a screening questionnaire to question on participation of parents, siblings, or half-siblings)\n* Current and active smoker\n* History of: chronic obstructive pulmonary disease, chronic obstructive airway disease, emphysema, chronic bronchitis, lung transplant, kyphoscoliosis, sarcoidosis, bronchopulmonary dysplasia, cystic fibrosis, bronchiectasis, rheumatoid arthritis, Crohn s disease, psoriasis, carcinoma of the lung, ciliary dyskinesia, lupus, or active tuberculosis\n* Having any medical illnesses that would increase the risk that the participant would incur by participating in the study, interfere with the outcomes of the study, or interfere with the study procedures (evaluated using Spirometry Screener.)\n* Current or previous COVID-19 infection\n* Pregnant women: while study procedures are all minimal risk, the inclusion of pregnant women is not necessary to address the research questions. Additionally, pregnancy may affect some of our parameters of interest (particularly gene expression) in unpredictable ways and the size of the growing fetus may introduce mechanical challenges to optimal performance of pulmonary function tests at later stages of pregnancy. Exclusion will be based on self-report during screening.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "African American adults with asthma and healthy controls",
+  "condition": [
+    "Asthma"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is an observational study enrolling adults of African descent with or without asthma to investigate genetic and environmental factors related to asthma. There is no intervention or systemic therapy for advanced disease involved.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study does not involve cancer or systemic therapy for advanced disease; eligibility is based on asthma diagnosis or absence thereof, with no mention of prior lines of therapy. Line-of-therapy intent is not applicable."
+    }
+  ]
+}

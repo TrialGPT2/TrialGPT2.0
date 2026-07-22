@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04300530",
+  "title": "Monocyte Distribution Width (MDW) in Hospital Practice",
+  "brief_summary": "Infections are an important cause of mortality and morbidity worldwide. Infections vary greatly in severity and can be caused by viruses, bacteria, fungi or protozoa. The rapid assessment of a patient to determine whether they have an infection and whether to treat with antibiotics is essential.\n\nMonocyte Distribution Width (MDW) is a (CE marked) new biomarker that has recently been studied in the emergency department (ED). This novel biomarker, which is currently available as a part of the panel of results from full blood count, holds the promise of reducing unnecessary antibiotic use and improving the outcome of patient's infections.\n\nSepsis (blood poisoning) is a life-threatening condition that affects millions of people worldwide. The chance of dying from sepsis increases if there is a delay in treatment with the right antibiotics, but also using antibiotics incorrectly might lead to antibiotic resistance, which is dangerous for patients in the long term, as treatments might no longer work for them.\n\nAn antibiotic is a substance produced naturally by microorganisms or synthetically by chemists in a laboratory. Antibiotics are capable of inhibiting the growth of or killing bacteria but are not effective against the viruses that cause many illnesses. The inappropriate use of antibiotics for these types of non-bacterial infections as well as the more frequent use of broad-spectrum antibiotics has caused the emergence of newer strains of bacteria that are resistant to many antibiotics.\n\nRapid diagnostics are essential to accurately identify cases of sepsis that require antibiotic therapy; particularly since clinical criteria alone is often insufficient to avoid misclassifying patients with sepsis who require antibiotics. However, the high costs of current laboratory markers, along with the variable level of evidence supporting their use in sepsis and respiratory infections means that these are not in routine use.\n\nThis study proposes to make use of data collected routinely at St. George's University Hospital to evaluate the accuracy of MDW as a marker for sepsis in adult patients admitted to the ED, as well as to explore its usefulness in supporting clinical decisions related to the discontinuation of antibiotic treatment in hospitalised adult patients. This observational study will not involve changes in patient management as all the data would be analysed retrospectively.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adults (aged \u226518 years).\n* Patients who had at least one FBC requested between 01 January 2020 and 31 December 2020\n\nExclusion Criteria:\n\n* Children and adolescents (\\< 18 years).\n* Patients without a FBC.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Coprimary objective 1: Admitted in ED for suspected sepsis between 01 January 2020 and 31 December 2020.\n\nCoprimary objective 2: Admitted to SGHFT wards for any reason between 01 January 2020 and 31 December 2020.",
+  "condition": [
+    "Sepsis",
+    "Infection"
+  ],
+  "overall_status": "UNKNOWN"
+}

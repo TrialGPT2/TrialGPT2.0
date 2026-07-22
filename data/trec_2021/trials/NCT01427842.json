@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT01427842",
+  "title": "Dose Enhancement of Vancomycin IN Everyday Patients",
+  "brief_summary": "Current Australian guidelines for vancomycin commonly underdoses individuals particularly in the first 48 hours.\n\nThe aim of the trial is to compare two dosing regimens; the current Australian guidelines versus a more appropriately modeled pharmacokinetic based regimen with the overall aim of developing a new vancomycin dosing strategy that will enable patients to have more individualised and therapeutically efficacious treatment.\n\nThe hypothesis is that dosing vancomycin according to a pharmacokinetically modeled regimen increases the likelihood of achieving therapeutic trough levels of vancomycin within the first 48 hours (or at steady state, whichever is sooner) compared to dosing vancomycin according to the current Antibiotic guidelines.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* All patients in general wards requiring routine treatment with vancomycin\n\nExclusion Criteria:\n\n* GFR \\< 30mL/min(as measured by Cockcroft Gault equation)\n* Age \\< 16 yrs\n* Weight \\> 200kg\n* Patients dosing with Vancomycin other than BD according to national guidelines (ie continuous infusions, q6h etc)\n* Vancomycin infused at a rate other than 500mL/min",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Vancomycin Therapy"
+  ],
+  "overall_status": "UNKNOWN"
+}

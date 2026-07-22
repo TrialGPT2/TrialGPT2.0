@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04351529",
+  "title": "Austrian COVID-19 Registry",
+  "brief_summary": "The AGMT\\_COVID-19 Registry is designed as multicenter observational cohort of patients, that are tested positive for SARS-CoV-2. Data will be collected from all sites in Austria willing to participate.\n\nDue to the non-interventional nature of the AGMT\\_COVID-19 registry, only routine data, which has already been recorded in the patient's medical chart, is transferred to the eCRF.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \\>=18 years\n* Positive test for SARS-CoV-2\n\nExclusion Criteria:\n\n* Due to the non-interventional design of the registry there are no specific exclusion criteria.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The AGMT\\_COVID-19 Registry is designed as multicenter observational cohort of patients, that are tested positive for SARS-CoV-2.",
+  "condition": [
+    "Infectious Disease",
+    "COVID-19"
+  ],
+  "overall_status": "UNKNOWN"
+}

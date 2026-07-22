@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03775291",
+  "title": "Validation of Software for Assessment of Sleep Apnea From Data Acquired by a Wearable Smartwatch",
+  "brief_summary": "This clinical validation study aims to evaluate the utility of Fitbit's Sleep Apnea Alert software for minimally invasive monitoring of sleep apnea events to alert users of their risk of sleep apnea. The Sleep Apnea Alert software analyses data from a Fitbit commercially available wrist photoplethysmogram (PPG) device. The Sleep Apnea Alert software is an investigational software as medical device (SaMD) and is designed to retrospectively process data and flag users who have physiological signals consistent with an apnea-hypopnea index (AHI) of 15 or greater. This clinical validation study will be used to validate Fitbit's PPG-based sleep apnea algorithm. The outputs of the Fitbit Sleep Apnea Alert software will not be available to study participants, as the scope of this study is to gather validation data only and does not include testing product usability components.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Capable of giving informed consent\n* Comfortable reading the provided written study instructions in English (and/or local language) and using a smartphone in English (and/or local language).\n* Have medical insurance either in the form of private insurance or a national health program.\n\nExclusion Criteria:\n\n* No implanted cardiac devices\n* Not pregnant. Pregnancy status will be confirmed per patient report of medical history, i.e., patients will be asked if they are pregnant or may be pregnant, and date of last menstrual cycle.\n* No medical conditions which might lead to consistently low levels of perfusion in the vasculature at the wrist",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects referred to sleep labs for a clinical evaluation or subjects with previous sleep apnea who are known to be non-compliant with treatment.",
+  "condition": [
+    "Sleep Apnea"
+  ],
+  "overall_status": "UNKNOWN"
+}

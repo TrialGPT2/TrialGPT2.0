@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04678089",
+  "title": "Evaluation of Clinical Treatment of Multiple Myeloma Based on Multi-omics",
+  "brief_summary": "With the emergence of new drugs, the short-term survival rate of multiple myeloma has been significantly increased. However, in clinical treatment, doctors found that different patients may present different clinical efficacy and adverse reactions when using standard treatment. Some studies have shown that gene and metabolic differences in patients with multiple myeloma may be an important factor affecting clinical efficacy.\n\nIn this project, peripheral blood samples and bone marrow from patients with multiple myeloma will be studied by using the methods of genomics, proteomics, metabonomics and transcriptomics. It is expected to find biomarkers and genes related to clinical efficacy, adverse reactions, and blood concentration of bortezomib in peripheral blood samples. If the sample size is large enough, the project team expects to establish a prediction model for the efficacy and safety of bortezomib containing regimen for multiple myeloma patients through the above studies. Investigators hope that the evaluation system can provide a reference for clinical formulation of appropriate drug delivery scheme.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* exposure group:\n\n  1. Patients diagnosed with multiple myeloma.\n  2. Patients with fluorescence in situ hybridization report results, and try to obtain genetic diagnosis results.\n* healthy control group: Patients diagnosed without multiple myeloma, such as other chronic diseases or blood tumors.\n\nExclusion Criteria:\n\n1. Patients without complete clinical information.\n2. Patients with malignant epidemic diseases.\n3. Patients with alcohol abuse or special dietary habit .\n4. Patients with digestive system diseases, such as inflammatory bowel disease, intestinal infectious disease or other diseases that may affect digestive system function.\n5. Patients with a history of gastrointestinal operation.\n6. Patients with severe renal insufficiency without regular dialysis.\n7. Patients with other possibilities who has severe liver or kidney function injury without intervention.",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "In the exposure group, all patients with multiple myeloma met the inclusion and did not meet exclusion criteria, including planning for autologous stem cell transplantation or not. There is no distinction between age, gender and nationality.\n\nThe healthy control group mainly collected patients with other chronic diseases or blood tumors who did not meet the exclusion criteria and were not diagnosed with multiple myeloma. There is no distinction between age, gender and nationality.",
+  "condition": [
+    "Multiple Myeloma",
+    "Bortezomib"
+  ],
+  "overall_status": "UNKNOWN"
+}

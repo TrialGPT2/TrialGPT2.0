@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT03522233",
+  "title": "Pediatric Appendicitis Risk Calculator (pARC) in Children With Appendix Ultrasounds",
+  "brief_summary": "Acute appendicitis (AA) is the most common condition requiring emergency surgery in children. At a network of institutions nationwide, a tool called the pediatric appendicitis risk calculator (pARC)1 is being studied to assess patient's true risk of appendicitis and provide guidance for clinical management to ER physicians. Preliminary studies have found the pARC to be more accurate at predicting risk of appendicitis in children when compared to other scoring systems. The study objective is to assess acute care charges and clinical outcomes among children with an appendix ultrasound and a pARC score of less than \\< 25% risk.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients between 5-18 years\n* Patients who had an appendix ultrasound in one of our EDs\n\nExclusion Criteria:\n\n* Outside appendix ultrasound or abdominal CT obtained\n* Previous significant abdominal surgery (for example appendectomy, short gut, ileostomy, Hirschsprungs with pull through)\n* No CBC obtained (i.e. cannot determine pARC)\n* Developmental or cognitive delay that impedes communication\n* If there is suspected abuse",
+  "minimum_age": "5 Years",
+  "maximum_age": "18 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "We will collect data on all patients presenting to the emergency departments of Children's Minnesota between the ages of 5-18 years old who have a US of the appendix performed in the ED over 12 month period from September 23, 2017 to October 1, 2018.",
+  "condition": [
+    "Appendicitis"
+  ],
+  "overall_status": "UNKNOWN"
+}

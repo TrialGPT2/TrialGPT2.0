@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04441489",
+  "title": "Assessment of Lung Inflammation With FDG PET/CT in COVID-19",
+  "brief_summary": "The aim of the study was to assess the inflammatory status at the presumed peak of the inflammatory phase in non-critically ill patients requiring admission for COVID-19. Patients admitted with COVID-19 from March 27th to May 3rd, 2020 were prospectively enrolled. All patients had an initial chest CT-scan for diagnosis on admission and a second chest CT-scan for follow-up concomitant with a FDG PET/CT between day 6 and day 14 after the onset of symptoms.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients were included if COVID-19 was confirmed according to the WHO guidance (11) by a positive result of RT-PCR assay of nasal and pharyngeal swabs, if they were hospitalized during the time period from day 6 to day 14 of the onset of symptoms, and if their initial (on admission) chest CT-scan presented ground-glass opacities (GGO) or consolidation.\n\nExclusion Criteria:\n\n* Patients could not be included if their medical condition was unstable or precluded a safe transfer to the nuclear medicine department, if they were under mechanical ventilation (either non-invasive or invasive), if they were initially referred to the critical care unit, and in case of a pregnancy.",
+  "minimum_age": "18 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients admitted with COVID-19 from March 27th to May 3rd, 2020 were prospectively enrolled.",
+  "condition": [
+    "COVID-19",
+    "FDG PET/CT",
+    "Inflammation"
+  ],
+  "overall_status": "COMPLETED"
+}

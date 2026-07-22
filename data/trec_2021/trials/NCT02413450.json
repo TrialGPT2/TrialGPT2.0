@@ -1,0 +1,30 @@
+{
+  "nctid": "NCT02413450",
+  "title": "Derivation of Human Induced Pluripotent Stem (iPS) Cells to Heritable Cardiac Arrhythmias",
+  "brief_summary": "Human induced pluripotent stem cells (hiPSCs) have driven a paradigm shift in the modeling of human disease; the ability to reprogram patient-specific cells holds the promise of an enhanced understanding of disease mechanisms and phenotypic variability, with applications in personalized predictive pharmacology/toxicology, cell therapy and regenerative medicine. This research will collect blood or skin biopsies from patients and healthy controls for the purpose of generating cell and tissue models of Mendelian heritable forms of heart disease focusing on cardiomyopathies, channelopathies and neuromuscular diseases. Cardiomyocytes derived from hiPSCs will provide a ready source of disease specific cells to study pathogenesis and therapeutics.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* All patients and family members 18 years of age or older with inherited cardiac arrhythmias including LQTS, Brugada Syndrome (BrS), cathecholaminergic polymorphic ventricular tachycardia (CPVT) or early repolarization syndrome (ERS) are eligible for enrollment.\n* All enrolled patients will have undergone clinically indicated genetic testing.\n\nExclusion Criteria:\n\n* Age \\<18 years\n* \\>85 years\n* pregnant women\n* life-limiting co-morbidities\n* immunocompromise",
+  "minimum_age": "18 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants who have a mutation causing ARVD/C or LQTS or a first degree family member with such a gene mutation. Participants, including patients with ARVD/C or LQTS and family members, who have previously been genotyped for clinically indicated reasons will be approached to join the study.",
+  "condition": [
+    "Inherited Cardiac Arrythmias",
+    "Long QT Syndrome (LQTS)",
+    "Brugada Syndrome (BrS)",
+    "Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)",
+    "Early Repolarization Syndrome (ERS)",
+    "Arrhythmogenic Cardiomyopathy (AC, ARVD/C)",
+    "Hypertrophic Cardiomyopathy (HCM)",
+    "Dilated Cardiomyopathy (DCM)",
+    "Muscular Dystrophies (Duchenne, Becker, Myotonic Dystrophy)",
+    "Normal Control Subjects"
+  ],
+  "overall_status": "ENROLLING_BY_INVITATION"
+}

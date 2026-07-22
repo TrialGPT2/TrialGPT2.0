@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04360824",
+  "title": "Covid-19 Associated Coagulopathy",
+  "brief_summary": "This prospective, randomized, open-label, multi-center interventional study is designed to compare the safety and efficacy of two LMWH dosing protocols in patients admitted to the University of Iowa Hospitals with COVID-19 who meet the modified ISTH Overt DIC criteria score \u22653. Patients will be randomized to standard prophylactic dose LMWH (standard of care arm) or intermediate-dose LMWH (intervention arm).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Laboratory confirmed SARS-CoV-2 infection\n* Age \u226518 years\n* Requires hospital admission for further clinical management\n* Modified ISTH Overt DIC score \u2265 3\n\nExclusion Criteria:\n\n* Indication for full therapeutic-dose anticoagulation\n* Acute venous thromboembolism (deep vein thrombosis or pulmonary embolism) within prior 3 months\n* Acute cardiovascular event within prior 3 months\n* Acute stroke (ischemic or hemorrhagic) within prior 3 months\n* Active major bleeding\n* Severe thrombocytopenia (\\<25,000/mm3)\n* Increased risk of bleeding, as assessed by the investigator\n* Acute or chronic renal insufficiency with Creatinine Clearance \\< 30 ml/min calculated by the modified Cockcroft and Gault formula\n* Weight \\< 40 kg\n* Known allergies to ingredients contained in enoxaparin, allergy to heparin products or history of heparin induced thrombocytopenia",
+  "minimum_age": "18 Years",
+  "maximum_age": "100 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "COVID 19 Associated Coagulopathy"
+  ],
+  "overall_status": "COMPLETED"
+}

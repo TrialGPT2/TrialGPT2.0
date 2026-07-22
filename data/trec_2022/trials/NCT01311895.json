@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT01311895",
+  "title": "Clinical Trial Comparing Two Protocols Using Intravenous (IV) Hydromorphone",
+  "brief_summary": "The purpose of this study is to compare two opioid protocols (\"H2O\" and \"1+1\") for the treatment of acute severe pain in the emergency department. The investigators primary hypothesis is that the \"H2O\" protocol will be more efficacious than the \"1+1\" protocol in Emergency Department patients aged 21-64 years. The primary outcome is the proportion of patients in each arm who choose to forgo additional pain medication at 60 minutes.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age greater than 21 years and less than 65 years: This is a study of non-elderly adult patients. In addition, patients aged 21 years and younger are automatically triaged to the Children's Emergency Department (ED).\n2. Pain with onset within 7 days: Pain within seven days is the definition of acute pain that has been used in ED literature.\n3. ED attending physician's judgment that patient's pain warrants intravenous (IV) opioids\n\nExclusion Criteria:\n\n1. Use of other opioids or tramadol within past 24 hours: to avoid introducing assembly bias related to recent opioid use, since this may affect baseline levels of pain and need for analgesics.\n2. Prior adverse reaction to opioids.\n3. Chronic pain syndrome: frequently recurrent or daily pain for at least 3 months results in modulation of pain perception which is thought to be due to down-regulation of pain receptors. Examples of chronic pain syndromes include sickle cell anemia, osteoarthritis, fibromyalgia, and peripheral neuropathies.\n4. Alcohol intoxication: the presence of alcohol intoxication as judged by the treating physician may alter pain perception.\n5. Systolic Blood Pressure \\<90 mm Hg: Opioids can produce peripheral vasodilation that may result in orthostatic hypotension.\n6. Oxygen saturation \\< 95% on room air: For this study, oxygen saturation must be 95% or above on room air in order to be enrolled.\n7. Use of monoamine oxidase (MAO) inhibitors in past 30 days: MAO inhibitors have been reported to intensify the effects of at least one opioid drug causing anxiety, confusion and significant respiratory depression or coma.\n8. CO2 measurement greater than 46: In accordance with standard protocol, three subsets of patients will have their CO2 measured using a handheld capnometer prior to enrollment in the study. If the CO2 measurement is greater than 46 then the patient will be excluded from the study. The 3 subsets are as follows:\n\n   * All patients who have a history of chronic obstructive pulmonary disease (COPD)\n   * All patients who report a history of asthma together with greater than a 20 pack-year smoking history\n   * All patients reporting less than a 20 pack-year smoking history who are having an asthma exacerbation",
+  "minimum_age": "21 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Pain"
+  ],
+  "overall_status": "COMPLETED"
+}

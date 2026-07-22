@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT00675818",
+  "title": "The Optimal Mode of Renal Replacement Therapy in Acute Kidney Injury (OMAKI) Study",
+  "brief_summary": "Acute kidney injury (AKI) in the intensive care unit is common, devastating and costly. However, minimal evidence exists to guide the prescription of optimal renal replacement therapy (RRT). An important area of uncertainty surrounds the relative effects of convective versus diffusive modes of clearance. Although both clearance modes provide similar degrees of small molecule clearance, convective modes permit the enhanced clearance of larger-sized molecules which may mediate kidney and systemic toxicity in the setting of AKI.\n\nContinuous renal replacement therapies (CRRTs) are frequently applied in critically ill patients with AKI. Convective clearance, as applied through continuous venovenous hemofiltration (CVVH) and diffusive clearance, as applied through continuous venovenous hemodialysis (CVVHD), may be readily compared in the context of patients receiving CRRT.\n\nThe purpose of this study is to examine the feasibility of conducting a larger study that will determine whether convective clearance (hemofiltration) confers improved outcomes as compared to diffusive clearance (hemodialysis) in patients with AKI.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE4"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Adult patients (over 16 years of age) admitted to a participating ICU\n2. Serum creatinine increase of \u2265 50% from baseline\n3. Hemodynamic instability as defined by the cardiovascular component of the SOFA score of \u2265 1\n4. Attending physician deems the patient a candidate for RRT for at least one of the following reasons:\n\n   1. Presence of oliguria, defined as a urine output of \\< 100 mL in the preceding 4 hours\n   2. metabolic acidosis (HCO3- \\< 15 mmol/L and pH \\< 7.25)\n   3. refractory hyperkalemia (K \\> 6.0 mmol/L)\n   4. azotemia (BUN \\> 50 mmol/L)\n   5. suspected uremic organ involvement (pericarditis, encephalopathy, neuropathy or myopathy)\n\nExclusion Criteria:\n\n1. renal replacement therapy within the previous 2 months\n2. presence of renal obstruction\n3. receipt of a kidney transplant in the previous year\n4. diagnosis of rapidly progressive glomerulonephritis, vasculitis, or acute interstitial nephritis\n5. indication for intermittent hemodialysis, specifically severe hyperkalemia, dialyzable drug or toxin\n6. terminal illness with associated life expectancy less than 2 months\n7. patients who are moribund\n8. prior enrollment in this study\n9. enrollment in a competing ICU interventional study\n10. no CRRT machine available\n11. acute renal replacement ongoing for \\> 36 hours",
+  "minimum_age": "16 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Kidney Injury"
+  ],
+  "overall_status": "COMPLETED"
+}

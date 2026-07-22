@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01923051",
+  "title": "Czech Multicentre Research Database of Chronic Obstructive Pulmonary Disease (COPD)",
+  "brief_summary": "The chronic obstructive pulmonary disease (COPD) is the occurrence of chronic bronchitis or emphysema, a pair of commonly co-existing diseases of the lungs in which the airways narrow over time. This limits airflow to and from the lungs, causing shortness of breath (dyspnoea). In clinical practice, COPD is defined by its characteristic airflow limitation on lung function tests. In contrast to asthma, this limitation is poorly reversible and usually gets increasingly worse over time.\n\nThe COPD registry is a non-interventional multicentre observational prospective database focusing on the collection and analysis of data on real mortality and morbidity in COPD population of the Czech Republic population of COPD patients. Monitoring is done at the occasion of regular check-ups, followed by retrospective search of data in the documentation, and a record into the registry.\n\nThe aim of Czech National Research Database of Chronic Obstructive Pulmonary Disease is to establish the clinical course of severe forms of COPD, establish the cause for deterioration of clinical status of our patients and describe the progression of COPD to death.\n\nThe registry fulfils general objectives of health registries such as monitoring of causes, development, treatment and consequences of a severe disorder, including economic and social impacts. Statistical and scientific analyses of the registry data are focused, in particular, on the assessment of health determiners of the selected patient cohort with the aim to improve health status of the patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Post-bronchodilator FEV1/VC \\< LLN and post-bronchodilator FEV1 \u2264 60% of the predicted value (VC - Vital Capacity, LLN - Lower Limit of Normal)\n* Definite clinical diagnosis of COPD (can be overlaps: COPD + asthma / COPD + bronchiectasis)\n* Stable course of COPD (\u2265 8 weeks free of acute exacerbations and/or free of any acute conditions)\n* Informed consent\n\nExclusion Criteria:\n\n* \"Pure\" bronchial asthma without COPD\n* \"Pure\" bronchiectasis without COPD\n* Cystic fibrosis\n* End-stage of COPD\n* Non-curable malignancy\n* Total non-compliance\n* Immobility",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The COPD registry is a non-interventional multicentre observational prospective database focusing on the collection and analysis of data on real mortality and morbidity in an unselected population of COPD patients in long lasting care of individual participating centres. Each centre covers the population of a certain county. The centres are localized as to symetrically cover the entire Czech Republic.",
+  "condition": [
+    "Chronic Obstructive Airway Disease"
+  ],
+  "overall_status": "UNKNOWN"
+}

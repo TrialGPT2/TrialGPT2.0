@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT05657405",
+  "title": "Observational Study of Advanced Data Analytics in Genetic Conditions",
+  "brief_summary": "Background:\n\nThe genes a person is born with can sometimes cause serious diseases. Genetic diseases are rare, but they can have a big impact on the people they affect. Researchers have already made great strides in understanding how some genes cause disease. But they would like to have even better tools to analyze and understand genetic data. To create these new tools, they need to gather health and genetic data from a lot of people.\n\nObjective:\n\nThis natural history study will gather medical information from people with genetic conditions.\n\nEligibility:\n\nPeople of any age who (1) are known or suspected to have a genetic condition or (2) have a family member with a known or suspected genetic condition.\n\nDesign:\n\nParticipants will come to the clinic for up to 4 days. Tests to be performed will vary depending on the nature of each participant s health issue. The tests may include:\n\nBlood and saliva. Blood may be drawn from a vein; cells and saliva may be collected by rubbing the inside of the cheek with a swab. These would be used for genetic testing.\n\nImaging scans. Participants may have X-rays or other scans of their bodies. They may lie still on a table while a machine records the images.\n\nHeart tests. Participants may lie still while a technician places a probe on their chest. They may also have stickers attached to wires placed on their chest.\n\nPhotographs and recordings. Pictures may be taken of facial features, skin changes, or other effects of the genetic condition. Video and audio recordings may also be made.\n\nSome people may be able to participate via telehealth.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible to participate in the website-based data collection portion, individuals must be known or suspected to have a genetic condition, or to be the relative of a person with a known or suspected genetic condition, and be willing to consent to and share the requested information with the study team. Adults unable to provide consent must have a Legally Authorized Representative \\[LAR\\] (who can provide evidence of this status by providing guardianship paperwork, which will be verified) be able to provide consent.\n\nTo be eligible for the Clinical Center-based portion of this study, an individual must meet all of the following criteria:\n\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Male or female, from age 0 to over 100 years of age (the NIH Clinical Center's age-based eligibility criteria will be followed for any individuals who come to the Clinical Center for participation such that individuals \\<3 years of age will have a screening form submitted to the Pediatrics consult service, and admissions will follow current Clinical Center limits based on age such that admissions to 1NW generally have to be \\> 2 years of age)\n* Either:\n\n  * A person who is known or suspected to have a genetic condition based on medical and/or family history\n  * A person who is a family member of a person known or suspected to have a genetic condition (and who is themselves not known or suspected to have a genetic condition)\n  * Ability of subject (or Legally Authorized Representative \\[LAR\\], who can provide evidence of this status, as described above) to understand and the willingness to sign a written informed consent document.\n\nTo be eligible for the virtual conversation portion of this study, an individual must meet all of the following criteria:\n\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Either:\n\n  * A person over 18 years of age who is known to have a genetic condition based on medical and/or family history\n  * A parent or guardian of a person known to have a genetic condition (and who is themselves not known or suspected to have a genetic condition)\n* Ability of subject (or Legally Authorized Representative \\[LAR\\], who can provide evidence of this status, as described above) to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\nIndividuals who are pregnant will be excluded from the Clinical Center-based portion of the study. There are no other exclusionary criteria except that individuals will be excluded from participation in this study if they are unable or unwilling to participate.\n\nThe PI/AI may decline to enroll a patient for reasons such as being medically unstable, residing in a hospital, or for any concerns arising after review of the laboratory and clinical data.",
+  "minimum_age": "1 Day",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "We will collect data from individuals with known or suspected genetic conditions, as well as relevant (unaffected) family members. We will also collect data from unrelated, unaffected individuals to use as control data to compare findings to those with genetic conditions. There will be multiple ways to participate and no restriction based on sex, age, demographic group, general health status, or geographic location, though individuals who participate in person through the NIH Clinical Center will primarily come from within the United States (telehealth will not take place in international locations or other circumstances where telehealth is not allowed). Due to sample size requirements needed to develop and use our planned methods, we overall anticipate collecting data from many thousands of individuals.",
+  "condition": [
+    "Genetic Conditions"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a natural history study enrolling individuals with known or suspected genetic conditions, or their relatives, regardless of cancer history or prior therapy. There are no requirements or restrictions regarding prior systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention cancer, advanced disease, or prior systemic therapy. Patients are enrolled based on the presence or suspicion of a genetic condition, with no reference to lines of therapy. Line-of-therapy intent is not applicable or specified."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02244723",
+  "title": "Diagnostic Value of Lung Ultrasound for Ventilator-Associated Pneumonia",
+  "brief_summary": "Ventilator-associated pneumonia (VAP) is the most common nosocomial infection acquired by mechanically-ventilated patients in the intensive care unit (ICU). It has significant clinical and economic consequences, as it is associated with considerable morbidity, increased mortality, and excess health care costs. Appropriate antibiotic therapy for patients with VAP significantly improves outcomes, making rapid identification of patients with VAP an important clinical goal.\n\nThis application is for support of a prospective, multi-centered study to evaluate the diagnostic value of lung ultrasound for VAP. The primary hypothesis is that the association of the Clinical Pulmonary Infection Score (CPIS) to specific lung ultrasound signs could allow for early and reliable diagnosis of bacterial VAP.\n\nObjective 1: To evaluate the sensitivity, specificity, and diagnostic accuracy of lung ultrasound alone and in association with the CPIS.\n\nObjective 2: To determine the frequency of specific lung ultrasound signs (subpleural consolidation, irregular B-lines) in VAP.\n\nObjective 3: To promote development of a diagnostic pathway for VAP incorporating CPIS, lung ultrasound, and unprotected tracheal aspirate (UTA).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Mechanical ventilation for at least 48 hours,\n* New or evolving infiltrate on chest radiograph (CXR) or computed tomography (CT), and\n* A minimum of two of the following clinical criteria:\n\n  * Body temperature \u2265 38.5\u00b0 C (101\u00b0 F) or \\< 36\u00b0 C (97\u00b0 F)\n  * White blood cell count \\> 10,000/ml or \\< 4,000/ml or \\> 10% immature cells\n  * Partial pressure of oxygen in arterial blood \\< 60 mmHg or partial pressure of oxygen in arterial blood/ inspired oxygen fraction ratio \\< 300\n  * Purulent respiratory secretions\n\nExclusion Criteria:\n\nKnown ongoing pneumonia\n\n* Patient younger than 18 years old\n* Mechanical ventilation \\<48 hours\n* Contraindication to bronchoscopy",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "subjects will be recruited from mechanically-ventilated patients with suspected VAP in ICUs",
+  "condition": [
+    "Ventilator-Associated Pneumonia"
+  ],
+  "overall_status": "COMPLETED"
+}

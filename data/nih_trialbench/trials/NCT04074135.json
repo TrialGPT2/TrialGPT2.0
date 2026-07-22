@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT04074135",
+  "title": "Natural History and Management of Von Hippel-Lindau (VHL) Associated Pancreatic Neuroendocrine Tumors",
+  "brief_summary": "Background:\n\nPeople with von Hippel-Lindau (VHL) can have problems with a variety of organs, such as the pancreas. The disease can cause tumors of the pancreas. This can result in life-threatening complications. Researchers want to learn more about these pancreatic tumors and how to better detect them. This may help them design better future treatment and care for people with VHL disease.\n\nObjective:\n\nTo better understand VHL disease that affects the pancreas and to test whether adding a certain type of scan (68-Gallium DOTATATE PET/CT) can further detect tumors.\n\nEligibility:\n\nPeople ages 12 and older with VHL that causes tumors and cysts to grow in the pancreas\n\nDesign:\n\nParticipants will be screened with their medical records and imaging studies.\n\nParticipants will have an initial evaluation:\n\nParticipants will have their body examined by different doctors. This will depend on what types of symptoms they have.\n\nParticipants will have blood and urine tests\n\nParticipants will have images made of their body using one or more machines: They made have a CT or PET/CT scan in which they lie on a table that moves through a big ring. They may have an MRI in which they lie on a table that moves into a big tube. They may have an ultrasound that uses a small stick that produces sound waves to look at the body.\n\nAfter the first visit, participants will be asked to return to the NIH. Some of the tests performed at the first visit will be repeated. Depending on their disease status, visits will be once a year or every 2 years for life.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "* INCLUSION CRITIERIA:\n\n  1. Participants who have been diagnosed with VHL using the following criteria:\n\n     \\-- Identification of a heterozygous germline pathogenic variant in VHL by molecular genetic testing.\n\n     or\n\n     \\-- Clinical criteria\n  2. Participants with at least 1 pancreatic manifestation of VHL as documented on any non-invasive imaging study. These manifestations may include:\n\n     * Pancreatic cyst(s)\n     * Solid lesions suspicious for microcystic adenoma(s)\n     * Solid enhancing lesions suspicious for PNET(s)\n     * Any other solid lesion(s) of the pancreas\n  3. Age greater than or equal to 12 years.\n  4. Ability of participant to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n1\\. Inability of participant to undergo serial non-invasive imaging.",
+  "minimum_age": "12 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "VHL Pancreatic Neuroendocrine Tumors",
+    "Von Hippel-Lindau Disease",
+    "Neuroendocrine Tumors"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of patients with VHL-associated pancreatic manifestations, with no requirement or restriction based on prior systemic therapy for advanced disease. Patients are eligible regardless of prior treatment history.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they specify any requirements or exclusions based on treatment history. Both treatment-naïve and previously treated patients may be eligible, but this is not explicitly stated."
+    }
+  ]
+}

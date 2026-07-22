@@ -1,0 +1,25 @@
+{
+  "nctid": "NCT04851496",
+  "title": "Amyloid Prediction in Early Stage Alzheimer's Disease From Acoustic and Linguistic Patterns of Speech - PAST Extension",
+  "brief_summary": "The primary objective of the study is to evaluate whether a set of algorithms analysing acoustic and linguistic patterns of speech can detect amyloid-specific cognitive impairment in early stage Alzheimer's disease, based on archival spoken or written language samples, as measured by the AUC of the receiver operating characteristic curve of the binary classifier distinguishing between amyloid positive and amyloid negative arms. Secondary objectives include (1) evaluating how many years before diagnosis of MCI such algorithms work, as measured on binary classifier performance of the classifiers trained to classify MCI vs cognitively normal (CN) arms using archival material from the following time bins before MCI diagnosis: 0-5 years, 5-10 years, 10-15 years, 15-20 years, 20-25 years; (2) evaluating at what age such algorithms can detect later amyloid positivity, as measured on binary classifier performance of the classifiers trained to classify amyloid positive vs amyloid negative arms using archival material from the following age bins: younger than 50, 50-55, 55-60, 65-70, 70-75 years old.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Subjects are fully eligible for and have completed the AMYPRED (Amyloid Prediction in early stage Alzheimer's disease from acoustic and linguistic patterns of speech) study.\n\n(See https://clinicaltrials.gov/ct2/show/NCT04828122)\n\n* Subject has access to audio or written recordings created by them that are available for collection.\n* Subject consents to take part in PAST extension study.\n\nExclusion Criteria:\n\n* Subject hasn't completed the full visit day in the AMYPRED study.",
+  "minimum_age": "50 Years",
+  "maximum_age": "85 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Participants will be identified from participants of the AMYPRED study.",
+  "condition": [
+    "Alzheimer Disease",
+    "Preclinical Alzheimer's Disease",
+    "Prodromal Alzheimer's Disease",
+    "Alzheimer's Disease (Incl Subtypes)",
+    "Mild Cognitive Impairment"
+  ],
+  "overall_status": "UNKNOWN"
+}

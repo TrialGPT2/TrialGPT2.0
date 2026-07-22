@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01337336",
+  "title": "Chronic Obstructive Pulmonary Disease (COPD)-Related Outcomes and Costs for Patients on Combination Fluticasone Propionate-Salmeterol Xinafoate 250/50mcg Versus Anticholinergics in a COPD-Comorbid Depression/Anxiety Population",
+  "brief_summary": "The objective of this study was to examine COPD-related outcomes for patients with comorbid depression/anxiety who are on combination fluticasone propionate/salmeterol xinafoate compared to those receiving anticholinergics.\n\nThe prevalence of comorbid depression/anxiety in patients with chronic obstructive pulmonary disease (COPD) is estimated to be high and range from 10-40%, given that the risk of depression/anxiety symptoms is almost 3 times higher in patients with versus without COPD. Additionally, patients with comorbid COPD and depression/anxiety have higher COPD-related healthcare utilization and costs compared to those without depression/anxiety. Therapy with maintenance medications for COPD has been recommended to prevent future adverse COPD outcomes, but the impact of initiating these interventions has not yet been evaluated in a higher-risk population with comorbid COPD-depression/anxiety. The present study compares the risk of COPD exacerbations and COPD-related costs in patients initiating maintenance medications for treatment of COPD in a comorbid COPD/depression-anxiety population. Maintenance medications include inhaled corticosteroid (ICS), long-acting beta agonist (LABA), combination drug product of ICS+LABA, and anti-cholinergics (AC) including tiotropium (TIO) and ipratropium or combination ipratropium-albuterol (collectively abbreviated as IPR).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosis of COPD in any field in the pre-index period and 60 days after the index date\n* Diagnosis of depression/anxiety in any field and a medication for treating depression/anxiety in the pre-index period and 60 days after the index date\n* Index date occurs during identification period\n* Patients must be continuously eligible during 1-year pre and 1-year post-index date and be of at least 40 years of age\n\nExclusion Criteria:\n\n* comorbid conditions (respiratory cancer, cystic fibrosis, fibrosis due to tuberculosis, and bronchiectasis, pneumonociosis, pulmonary fibrosis, pulmonary tuberculosis, sarcoidosis) during the 1 year pre or post-index periods\n* No other maintenance medications other than the index medication on or 60 days after the index date",
+  "minimum_age": "40 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study population included patients with both COPD and depression/anxiety. They were identified as follows: Patients who had at least one pharmacy claim for a maintenance medication used to treat COPD were identified. Of these, patients were considered to have comorbid depression/anxiety if they had at least one prescription claim for a medication used to treat depression/anxiety and a diagnosis code for depression/anxiety during 1 year pre-index or within 60 days after the index date.",
+  "condition": [
+    "Pulmonary Disease, Chronic Obstructive"
+  ],
+  "overall_status": "COMPLETED"
+}

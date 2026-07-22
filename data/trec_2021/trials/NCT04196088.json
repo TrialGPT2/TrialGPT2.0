@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04196088",
+  "title": "To Compare Artificial Intelligence Software Aided Adenoma Detection in Screening Colonoscopies Versus Standard Colonoscopy Without Artificial Intelligence Software Assistance in Participants Between 45 and 75 Years of Age",
+  "brief_summary": "The aim of this study is to assess the efficacy of Ultivision Artificial Intelligence (AI) Software in detecting adenomas in screening colonoscopy procedures. The safety of Ultivision AI Software will also be assessed. A subset of the subjects will enter a roll-in period for clinical trial safety assessment. The remainder of subjects who are eligible will enter the detection phase which comprises a screening colonoscopy procedure. In the detection phase, subjects will be randomized to a screening colonoscopy with Ultivision AI Software enhancement or without AI Software enhancement. The study will measure the mean adenomas per colonoscopy procedure, as defined by the protocol, detected while receiving either treatment option.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "SCREENING",
+  "raw_criteria": "Primary Inclusion Criteria.\n\n1. Average risk asymptomatic subjects undergoing a first colonoscopy (screening) or screening colonoscopy at least 10 years after prior colonoscopy.\n2. Aged 45 years to aged 75 years at the time of enrollment.\n3. Capable of providing written informed consent and willing and able to adhere to all protocol requirements, and/or the subject's legally acceptable representative(s) capable of providing written informed consent.\n\nPrimary Exclusion Criteria.\n\n1. History of any colorectal cancer or colon adenomas.\n2. History of inflammatory bowel disease, including Crohn's disease or ulcerative colitis.\n3. Family history of colon cancer or precancerous colon polyp in a first degree relative before age 50.\n4. Polyposis syndromes including Familial Adenomatous Polyposis, Cowden syndrome, Lynch syndrome, Peutz-Jeghers syndrome, MUTYH Associated Polyposis, Familial Colorectal Cancer Type X.\n5. Surveillance, therapeutic, preoperative, or diagnostic colonoscopy.\n6. Colonoscopy for work-up of abdominal or pelvic symptoms including abdominal pain, flank pain, pelvic pain, subject report of altered stool, subject report of anemia within the past 12 months, subject report of gastrointestinal bleeding including bright red blood per rectum or tarry stools, constipation, diarrhea, subject reported history of abdominal or pelvic mass, subject report of unintentional weight loss.\n7. Workup or referral to diagnose or evaluate abnormal imaging of the abdomen or pelvis.\n8. Positive Fecal Immunochemical Test history.\n9. Severe co-mobordity, including end-stage cardiovascular, pulmonary, liver, or renal disease.\n10. History of colon resection, not including the appendix.\n11. Currently receiving a therapy not permitted during the trial, as defined in Section 8.3.\n12. Any issue that, in the opinion of the investigator, would render the subject unsuitable for participation in the trial.\n\nEnrolled subjects will be eligible for Post-procedure Periods if their colonoscopy meets the following criteria:\n\n1. Adequate bowel preparation score per the Boston Bowel Preparation Scoring System (BBPS) \\> or equal to 2 in all colonic segments.\n2. Colonoscopies with successful cecal intubation.\n3. Colonoscopies with withdrawal times of at least 6 minutes.",
+  "minimum_age": "45 Years",
+  "maximum_age": "75 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Colorectal Adenoma",
+    "Colorectal Polyp",
+    "Colorectal Adenocarcinoma",
+    "Colorectal SSA"
+  ],
+  "overall_status": "UNKNOWN"
+}

@@ -1,0 +1,51 @@
+{
+  "nctid": "NCT03288220",
+  "title": "Influence of Brain Oscillation-Dependent TMS on Motor Function",
+  "brief_summary": "Background:\n\nWhen people have a stroke, they often have difficulty moving their arms and hands. Transcranial magnetic stimulation (TMS) can improve how well people with and without stroke can move their arms and hands. But the effects of TMS are minor, and it doesn t work for everyone. Researchers want to study how to time brain stimulation so that the effects are more consistent.\n\nObjective:\n\nTo understand how the brain responds to transcranial magnetic stimulation so that treatments for people with stroke can be improved.\n\nEligibility:\n\nAdults ages 18 and older who had a stroke at least 6 months ago\n\nHealthy volunteers ages 50 and older\n\nDesign:\n\nParticipants will have up to 5 visits.\n\nAt visit 1, participants will be screened with medical history and physical exam. Participants with stroke will also have TMS and surface electromyography (sEMG).\n\nFor TMS, a brief electrical current will pass through a wire coil on the scalp. Participants may hear a click and feel a pull. Muscles may twitch. Participants may be asked to do simple movements during TMS.\n\nFor sEMG, small electrodes will be attached to the skin and muscle activity will be recorded.\n\nAt visit 2, participants will have magnetic resonance imaging (MRI). They will lie on a table that slides into a metal cylinder in a strong magnetic field. They will get earplugs for the loud noise.\n\nAt visit 3, participants will have TMS, sEMG, and electroencephalography (EEG). For EEG, small electrodes on the scalp will record brainwaves. Participants will sit still, watch a movie, or do TMS.\n\nParticipants may be asked to have 2 extra visits to redo procedures.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Healthy younger adults:\n\n  * Ages 18 years to less than 50 years. (18 to 49)\n  * Willingness/ability to provide informed consent.\n  * Ability to induce a motor evoked potential in the muscle target of the upper extremity, as evaluated during the TMS Screening.\n* Healthy older adults:\n\n  * Age 50 and over\n  * Willingness/ability to provide informed consent.\n  * Ability to induce a motor evoked potential in the muscle target of the upper extremity, as evaluated during the TMS Screening.\n* Stroke patients:\n\n  * Age 18 and over.\n  * Unilateral or bilateral upper limb paresis with the ability to voluntarily contract a finger, hand, wrist, or elbow muscle in the affected arm(s).\n  * Stroke onset \\> 6 months prior to participation.\n  * Intact M1 sufficient to induce motor evoked potentials in the affected upper extremity following ipsilesional TMS, as evaluated during the TMS Screening.\n  * Willingness/ability to provide informed consent.\n\n    * If the investigator feels the individual s capacity to provide informed consent is questionable, the NIH Human Subjects Protection Unit (HSPU) will be requested to determine the individual s ability to consent.\n\nEXCLUSION CRITERIA:\n\n* Healthy younger and older adults:\n\n  * Presence of severe neurological or medical disorder (e.g., Parkinson s disease or multiple sclerosis).\n  * History of seizures.\n  * Chronic use of antipsychotic drugs (e.g., chlorpromazine or clozapine), tri-cyclic or other anti-depressants, benzodiazepines, or prescription stimulants.\n  * TMS contraindications, such as:\n\n    * Pacemaker, implanted pump, stimulator, cochlear implant, or metal objects inside the eye or skull.\n    * Diagnosed severe hearing loss.\n  * Current pregnancy.\n  * Staff from our section.\n* Stroke patients:\n\n  * Presence of severe neurological or medical disorder, other than stroke (e.g., Parkinson s disease or multiple sclerosis).\n  * History of brainstem stroke.\n  * History of seizures.\n  * Chronic use of antipsychotic drugs (e.g., chlorpromazine or clozapine), benzodiazepines, or prescription stimulants.\n  * TMS contraindications, such as:\n\n    * Pacemaker, implanted pump, stimulator, cochlear implant, or metal objects inside\n\nthe eye or skull.\n\n---Diagnosed severe hearing loss.\n\n* Current pregnancy.\n* Staff from our section.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Up to 24 older healthy volunteers (ages 50 and older) and up to 28 stroke patients (age 18 and older).",
+  "condition": [
+    "Healthy",
+    "Stroke",
+    "Normal Physiology",
+    "Aging"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-oncology trial studying the effects of TMS on motor function in healthy volunteers and stroke patients. There is no systemic therapy for advanced disease involved, and line-of-therapy intent is not applicable.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Healthy younger adults",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes healthy adults aged 18 to 49 with no mention of cancer or systemic therapy. Line-of-therapy for advanced disease is not applicable."
+    },
+    {
+      "cohort_label": "Healthy older adults",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes healthy adults aged 50 and over with no mention of cancer or systemic therapy. Line-of-therapy for advanced disease is not applicable."
+    },
+    {
+      "cohort_label": "Stroke patients",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "This cohort includes adults with a history of stroke and upper limb paresis, but there is no mention of cancer or systemic therapy. Line-of-therapy for advanced disease is not applicable."
+    }
+  ]
+}

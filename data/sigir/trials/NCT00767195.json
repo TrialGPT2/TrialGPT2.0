@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT00767195",
+  "title": "Power Spectral Analysis of Breath Sound in Pulmonary Edema",
+  "brief_summary": "Pulmonary edema can be classified into \"cardiogenic pulmonary edema\" and \"non-cardiogenic pulmonary edema\" according to the underlying etiology. Cardiogenic pulmonary edema is caused by the dysfunction in the cardiac pumping capability, leading to the transudation accumulation in the pulmonary peri-capillary space. The predisposing factors of non-cardiogenic pulmonary edema are numerous, including severe infection, renal failure, auto-immun reaction, etc. The mortality rate of pulmonary edema is relatively high, especially the non-cardiogenic one. To distinguish the type of pulmonary edema at the early stage is important for its treatment.\n\nLung sound analysis via stethoscope is a simple diagnostic method to lung diseases clinically. Among many kinds of lung sounds, the \"crackle\" and \"rale\" are frequently found in pulmonary edema. \"Rale\" is also called \"moist rale\". It is considered as low-frequency wheezes and is often seen in cardiogenic pulmonary edema. On the other hand, \"crackle\" is also called \"dry rale\", which is a kind of high-frequency wheezes and usually seen in Acute Respiratory Distress Syndrome (ARDS) that is classified into non-cardiogenic pulmonary edema.\n\nThis proposed project intends to establish a digital diagnostic method for pulmonary edema. The lung sound of patient with pulmonary edema will be collected by the lung sound acquisition system. By identifying the significant spectrum characteristics of cardiogenic pulmonary edema and non-cardiogenic pulmonary edema, the diagnostic system might be established.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Patients in the intensive care unit using ventilator\n\nExclusion Criteria:\n\n* Asthma, COPD, non-ventilated patients",
+  "minimum_age": "20 Years",
+  "maximum_age": "95 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients without pulmonary edema (control group), with cardiogrnic edema (study group 1) and non-cardiogrnic edema (study group 2)",
+  "condition": [
+    "Pulmonary Edema"
+  ],
+  "overall_status": "UNKNOWN"
+}

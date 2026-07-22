@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04492566",
+  "title": "Automated Insulin Delivery in Pregnant Patients With Type 1 Diabetes With Extension Into Outpatient at Home",
+  "brief_summary": "This clinical trial is a safety and feasibility study to assess the performance of an artificial pancreas (AP) system using the Zone Model Predictive control (Zone-MPC) and Health Monitoring System (HMS) algorithms embedded into the iAPS platform for pregnant patients with type 1 diabetes (T1D).",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age \u2265 18 and \u2264 45 years at the time of screening.\n* Clinical diagnosis of type 1 diabetes\n* Currently using an insulin pump at the time of screening.\n* HbA1c \u2264 9%, as performed by point of care or central laboratory testing.\n* Pregnant 14+0/7 to 32+6/7 weeks gestation.\n* Singleton pregnancy without any other significant known complications, such as preeclampsia, premature rupture of membranes, 2nd/3rd trimester bleeding, fetal growth or fluid abnormalities.\n* No proven or suspected fetal malformations diagnosed in the current pregnancy.\n* Bolus for all meals and snacks that contain \u2265 5 grams of carbohydrate.\n* Willing to switch to, or continue Novolog or Humalog for the closed-loop session.\n* Willingness not to start any new non-insulin glucose-lowering agent during the course of the trial.\n* Willing to abide by the study protocol and use study-provided devices.\n* Have a care partner with the following responsibilities: knowing subject whereabouts and being promptly available for contact by study staff during the day and night, residing in the same dwelling as subject during the night, being agreeable to all device training during the supervised HCL session and additional training on hyper- and hypoglycemia treatment, and assisting with emergency care if needed, such as transportation to the hospital or emergency department.\n\nExclusion Criteria:\n\n* Known unstable cardiac disease or untreated cardiac disease, as revealed by history or physical examination.\n* Concurrent use of Afrezza or any non-insulin glucose-lowering agent other than metformin (including GLP-1 agonists, Pramlintide, DPP-4 inhibitors, SGLT-2 inhibitors, sulfonylureas).\n* Hemophilia or any other bleeding disorder\n* Prior history of Preterm Premature Rupture of Membranes (PPROM)\n* Significant hyperemesis interfering with carbohydrate intake\n* Laboratory results:\n\n  1. A1C \\> 9%\n  2. Abnormal liver or renal function (Transaminase \\>2 times the upper limit of normal, creatinine \\> 1.5 mg/dL)\n  3. Liver and renal function testing drawn at screening visit or within three months prior to screening (for other purposes) will suffice for enrollment purposes\n* Dermatological conditions that would preclude wearing a CGM sensor or infusion site.\n* Any condition that could interfere with participating in the trial, based on investigator judgment.\n* Participation in another pharmaceutical or device trial at the time of enrollment or during the study.\n* Having a direct supervisor at place of employment who is also directly involved in conducting the clinical trial (as a study investigator, coordinator, etc.); or having a first-degree relative who is directly involved in conducting the clinical trial\n* History of severe hypoglycemia in the past 6 months\n* History of DKA requiring hospitalization in the past 6 months\n* Significant chronic kidney disease (eGFR \\< 60) or hemodialysis\n* Significant liver disease\n* History of adrenal insufficiency\n* History of abnormal TSH consistent with hypothyroidism or hyperthyroidism that is not appropriately treated\n* History of high dose steroid use in the past 8 weeks",
+  "minimum_age": "18 Years",
+  "maximum_age": "45 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "FEMALE",
+  "study_population": "",
+  "condition": [
+    "Type 1 Diabetes",
+    "Pregnancy"
+  ],
+  "overall_status": "COMPLETED"
+}

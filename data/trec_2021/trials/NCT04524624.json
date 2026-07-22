@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04524624",
+  "title": "An AI-Based CDSS for Integrated Management of Patients With Acute Ischemic Stroke(GOLDEN BRIDGE II)",
+  "brief_summary": "This study will conduct a cluster randomized controlled trial to evaluate the impact of an artificial intelligence-based clinical decision support system for the integrated management of patients with acute ischemic stroke on the adherence to guideline-based therapies and the incidence of new clinical vascular events.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "PREVENTION",
+  "raw_criteria": "Inclusion Criteria:\n\n* Cluster Inclusion Criteria:\n\n  * Secondary or tertiary hospitals with an emergency department and neurologic wards that receive patients with AIS.\n  * Hospitals with available brain MRI scans (1.5T or 3.0T).\n* Patient Inclusion Criteria:\n\n  * Patients of 18 years or older.\n  * Patients admitted with neurological deficit consistent with ischemic stroke within 7 days of of symptoms onset. (\\*Symptom onset is defined by the \"last seen normal\" principle)\n  * Confirmation of new ischemic stroke by objective modality of CT scan and MRI (had relevant lesions on DWI).\n  * Informed consent from patient or legally authorised representative (primarily spouse, parents, adult children, otherwise indicated).\n\nExclusion Criteria:\n\n* Cluster Exclusion Criteria:\n\n  * Grade-one hospitals and rural hospitals.\n  * The specialized hospitals, such as women and children specialist hospital and tumor hospital.\n  * Hospitals with less than 20 patients with suspected AIS per month.\n* Patient Exclusion Criteria:\n\n  * Diagnosed DWI negative stroke.\n  * Diagnosed other types of cerebrovascular diseases, such as transient ischaemic attack, hemorrhagic stroke, cerebral venous sinus thrombosis, and so on.\n  * Diagnosed non cerebral vascular disease, such as stroke mimic, seizures, central nervous system infections, metabolic encephalopathy, and so on.\n  * Received carotid endarterectomy (CEA) and carotid angioplasty and stenting (CAS).\n  * Involving in other investigational drug or device clinical trials.\n  * Patients with malignant disease and life expectancy of less than 3 months or patients who are unable to complete the study for other reasons.\n  * Women who are pregnant or postpartum (\u22646 weeks).\n  * Patients refuse to participate in this study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke"
+  ],
+  "overall_status": "UNKNOWN"
+}

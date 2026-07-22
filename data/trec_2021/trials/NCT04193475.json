@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04193475",
+  "title": "Machine Learning in Quantitative Stress Echocardiography",
+  "brief_summary": "Greater diagnostic accuracy is required to find out who is at risk of a heart attack as this can reduce the requirement of more invasive downstream tests and thereby improve the patient experience and also reduce their exposure to risk. Stress echocardiography is a routine clinical test that involves using ultrasound to image the heart whilst it is under stress to assess the risk of a heart attack.\n\nThis study will focus on developing more accurate analysis tools to interpret the results of these stress echocardiographic scans. New methods will be tested to measure the function of each part of the heart muscle, using advanced analysis of the information obtained when high-frequency sound waves are bounced off the heart inside the chest. The researchers will measure and report exact heart function during stress, so that they will be able to recognise normal hearts and those with any disease. New computer methods will be developed to display any abnormality, which will make it easier for doctors to choose the best treatment for patients who are at risk.\n\nThe goals and potential benefits of this research proposal are to update the interpretation of a routinely used clinical test (stress echocardiography) to produce a reliable new method for diagnosing the precise effects of diseased arteries on the function of the heart muscle; to develop new computer graphics that adapt to show individual risks for each patient; and to implement new computer models that can be constantly updated",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Clinically suitable for stress echocardiography examination\n\nExclusion Criteria:\n\n* None",
+  "minimum_age": "20 Years",
+  "maximum_age": "89 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "All patients will be recruited into this study as a single group, with an age range of 20 - 89 years and with no restriction according to their pre-test probabilities of coronary artery disease. They will be eligible for inclusion so long as they have chest pain or another clinical indication for stress testing.",
+  "condition": [
+    "Cardiovascular Diseases",
+    "Ischaemic Heart Disease"
+  ],
+  "overall_status": "RECRUITING"
+}

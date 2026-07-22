@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT00042991",
+  "title": "Gefitinib and Radiation Therapy in Treating Children With Newly Diagnosed Gliomas",
+  "brief_summary": "Biological therapies such as gefitinib may interfere with the growth of the tumor cells and may make the tumor cells more sensitive to radiation therapy. This phase I/II trial is studying how well giving gefitinib together with radiation therapy works in treating children with newly diagnosed glioma.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1",
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Tumor:\n\n  * Phase I: newly diagnosed non-disseminated diffuse intrinsic brainstem tumor or newly diagnosed (diagnostic scan must be within 4 weeks prior to treatment initiation), incompletely resected supratentorial malignant glioma (anaplastic astrocytoma, glioblastoma multiforme or other high-grade glioma) (STMG); the STMG group must have residual tumor evident on postoperative MRI or CT\n  * Phase II: only newly diagnosed non-disseminated diffuse intrinsic brain stem glioma patients are eligible\n* Performance status: Karnofsky or Lansky \\>= 50% assessed within two weeks prior to registration\n* Prior/concurrent therapy:\n\n  * Chemotherapy: no prior therapy allowed, including prior gefitinib treatment\n  * Radiation therapy (XRT): no prior therapy allowed\n  * Bone marrow transplant: none prior\n  * Anti-convulsants: patients with brain stem glioma (BSG) receiving EIACD will not be eligible; patients with STMG will be eligible for this study even if they are receiving enzyme inducting anti-convulsant drugs (EIACD) and will be stratified by use of EIACDs\n  * Growth factors: off all colony forming growth factor(s) \\> 2 weeks prior to registration (G-CSF, GM-CSF, erythropoietin)\n* ANC \\> 1,000/ul\n* Platelets \\> 100,000/ul (transfusion independent)\n* Hemoglobin \\> 8g/dl (may be transfused)\n* Patients may have bone marrow involvement by disease\n* Creatinine \\< 2 x normal for age or GFR \\> 70 ml/min/1.73m\\^2\n* Bilirubin \\< 1.5 x normal institutional normal for age\n* SGPT (ALT) \\< 3 x institutional normal for age\n* Pregnant and/or lactating patients are excluded; patients of childbearing potential should not become pregnant and should not father a child during treatment with gefitinib; pregnancy tests must be obtained in girls who are post-menarchal; males or females of reproductive potential may not participate unless they have agreed to use an effective contraceptive method\n* Signed informed consent according to institutional guidelines must be obtained prior to study entry\n\nExclusion Criteria:\n\n* Patients with evidence of intramural hemorrhage on a scan obtained prior to enrollment or after enrollment, before treatment\n* Patients with BSG must not be taking enzyme-inducing anticonvulsant drugs\n* Patient must not be receiving any other anticancer or experimental drug therapy\n* Patient must have no uncontrolled infection\n* Patients with significant cardiac, hepatic, gastrointestinal, renal, pulmonary, or psychiatric disease are ineligible; patients with deep venous or arterial thrombosis within 6 weeks of study entry are ineligible\n* Patients with disseminated disease are not permitted\n* Patients with spinal disease requiring craniospinal radiation are not eligible\n* Patients with completely resected supratentorial malignant gliomas patients are ineligible",
+  "minimum_age": "3 Years",
+  "maximum_age": "21 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Untreated Childhood Anaplastic Astrocytoma",
+    "Untreated Childhood Anaplastic Oligodendroglioma",
+    "Untreated Childhood Brain Stem Glioma",
+    "Untreated Childhood Giant Cell Glioblastoma",
+    "Untreated Childhood Glioblastoma",
+    "Untreated Childhood Gliomatosis Cerebri",
+    "Untreated Childhood Gliosarcoma",
+    "Untreated Childhood Oligodendroglioma"
+  ],
+  "overall_status": "COMPLETED"
+}

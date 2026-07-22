@@ -1,0 +1,33 @@
+{
+  "nctid": "NCT01950520",
+  "title": "Study of Human Non-Shivering Thermogenesis and Basal Metabolic Rate",
+  "brief_summary": "Background:\n\n\\- Changes in how a person's body burns energy or calories can affect their weight over time. The lowest level of energy the body needs to function is called basal metabolic rate. In the cold, we burn extra energy, even before we start to shiver. This is called non-shivering thermogenesis and it occurs in different types of tissue such as muscle and fat. Researchers want to learn more about this type of energy burning and how it is regulated. They hope this will help treat obesity in the future.\n\nObjectives:\n\n* Sub-study 1: to better understand how non-shivering thermogenesis works.\n* Sub-study 2: to measure the effects of anti-obesity drugs on basal metabolic rate.\n* Sub-study 3: to better understand the effects of mirabegron, a beta-3 adrenergic receptor agonist, on brown fat activity.\n\nEligibility:\n\n\\- Healthy, lean adult males ages 18 to 35.\n\nDesign:\n\n* Participants will be screened with medical history, physical exam, blood test, and EKG.\n* For sub-studies 1 and 2:\n\n  * Participants will receive one X-ray scan.\n  * Each day, all participants will:\n* Have height and weight measured, and have urine collected.\n* Spend 4 hours in a temperature-controlled room with furniture, toilet area, phone, and computer. They will wear small non-invasive devices to monitor activity, heart rate, temperature, and shivering.\n* Walk for 30 minutes.\n* For sub-study 3:\n\n  * Participants will receive one DXA scan and up to 4 PET/CT scans and 4 MRIs\n  * Each stay, all participants will:\n* Have height and weight measured, and have urine collected.\n* Spend 6 hours in a temperature-controlled room with furniture, toilet area, phone, and computer. They will wear small non-invasive devices to monitor activity, heart rate, temperature, and shivering.\n* Participants will be compensated for their time and participation at the end of the study",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "* INCLUSION CRITERIA:\n* Generally healthy\n* Males between the age 18-35 years\n* Written informed consent.\n\nEXCLUSION CRITERIA:\n\n* BMI less than 18.5 or greater than 25.0 kg/M(2)\n* History of cardiovascular disease such as congestive heart failure, heart block, clinically abnormal EKG as determined by investigators\n* History of liver disease or ALT serum level greater than two times the laboratory upper limit of normal\n* History of kidney diseases or renal insufficiency or estimated creatinine clearance less than or equal to 50 mL/min (MDRD equation)\n* History of cancer or bariatric surgery\n* History of diabetes mellitus or fasting serum glucose \\> 126 mg/dL\n* History of hypo- or hyper-thyroid or abnormal TSH, except minor deviations deemed to be of no clinical significance by the investigator.\n* History of asthma, chronic obstructive pulmonary disease and glaucoma\n* Psychological conditions, such as (but not limited to) claustrophobia, clinical depression, bipolar disorders, that would be incompatible with safe and successful participation in this study\n* Weight change \\>5 percent in the past 6 months or a trained athlete\n* Blood pressure greater than 140/90 mmHg or current antihypertensive therapy\n* Iron deficiency (Hemoglobin \\<13.7 g/dL and Hematocrit \\<40.1%)\n* History of illicit drug, opioids, or alcohol abuse within the last 5 years; current use of drugs (by history) or alcohol (CAGE greater than or equal to 2) (95)\n* Current use of medications/dietary supplements/alternative therapies known to alter energy metabolism\n* Current medications that may have interactions with study drugs as determined by the investigators\n* History of adverse or allergic reactions to the study drugs\n* Daily caffeine intake \\>500 mg (about 4 cups) and have withdrawal symptoms\n* Current smoker or user of tobacco products\n* Cannot commit to the schedule of visits to the Clinical Research Center (CRC) as required by the study timeline\n* Have had previous radiation exposure within the last year (X-rays, PET scans, etc.) that would exceed research limits (please let us know if you have received radiation for research purposes)\n* Have inflexible dietary restrictions\n* Any other reason that the investigator thinks would make interpretation of the study results difficult.\n* For subjects having an MRD (cOHORT 3), history of pacemaker, metallic heart valves, aneurysm clip, pedicle screws, metallic foreign body in eye, or other metallic implant.\n* For subjects receiving mirabegron (Cohort 3), a diagnosis of bladder outlet obstruction or the use of antimuscarinic medications for the treatment of overactive bladder.",
+  "minimum_age": "18 Years",
+  "maximum_age": "35 Years",
+  "stdAges": [
+    "ADULT"
+  ],
+  "sex": "MALE",
+  "study_population": "",
+  "condition": [
+    "Healthy Volunteers"
+  ],
+  "overall_status": "COMPLETED",
+  "line_of_therapy_overall_summary": "This is a metabolic physiology study enrolling healthy, lean adult males with no history of cancer or advanced disease. There is no intent to treat or enroll patients with advanced/metastatic disease, and no systemic therapy for advanced disease is relevant.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": 0,
+      "includes_adjuvant_only_patients": false,
+      "category": "unknown",
+      "line_of_therapy_text": "The study enrolls only healthy, lean adult males with no history of cancer or advanced/metastatic disease. There is no mention of systemic therapy for advanced disease, and prior cancer or systemic therapy is an exclusion criterion."
+    }
+  ]
+}

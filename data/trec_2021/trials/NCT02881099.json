@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT02881099",
+  "title": "Parkinson's Repository of Biosamples and Network Datasets (Tracking Parkinson's)",
+  "brief_summary": "Prospective observational study of Parkinson's disease with repeat clinical assessment and biobanking of blood samples.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "A. Parkinson's Disease patients\n\nInclusion criteria\n\n1. Diagnosis of Parkinson's disease, based on UK Brain Bank criteria and made within the preceding 3 years ('recent onset cases') or diagnosed at under 50 years ('under 50 years cases')\n2. Age \u226518 to \\<90years\n3. Subject is able and willing to provided informed consent.\n\nExclusion criteria\n\n1. Patient has severe comorbid illness that would prevent full study participation\n2. Patient has features indicating another type of degenerative parkinsonism, e.g. progressive supranuclear palsy\n3. Drug-induced parkinsonism (Drug-unmasked PD is allowed)\n4. Symmetrical lower body parkinsonism attributable to significant cortical and/or subcortical cerebrovascular disease (patients with 'incidental' small vessel disease on brain imaging are allowed).\n5. Negative or normal functional imaging of the presynaptic dopamine system\n6. The presence of UK Brain Bank exclusion criteria will be recorded at baseline, allowing for the presence of 1 or 2 exclusion criteria (e.g. dopamine antagonist Drug used; more than one affected relative) (if justified e.g. by abnormal SPECT).\n\nB. First degree relatives Inclusion criteria\n\n1. Age \u226518 to \\< 90years\n2. Resident in the United Kingdom and able to access one of the PRoBaND study centres.\n3. Subject is able and willing to provided informed consent.\n\nExclusion criteria\n\n1. Subject has severe comorbid illness that would prevent study participation\n2. Subject already has a diagnosis of Parkinson's disease",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Parkinson's Disease defined by UK Brain Bank criteria Siblings of cases of Parkinson's disease",
+  "condition": [
+    "Parkinson's Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

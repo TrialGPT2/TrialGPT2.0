@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04175691",
+  "title": "Circulating Non-coding RNA in Acute Ischemic Stroke (AISRNA)",
+  "brief_summary": "AISRNA is to analyze the expression pattern of circular RNA (circRNA), micro-RNA (miRNA) and long non-coding RNA (lncRNA) by next-generation sequencing in patients with acute ischemic stroke and healthy control. The candidate circRNA/miRNA/lncRNA will be verified as biomarkers for the detection and prognosis of acute ischemic stroke.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Aged 18 years or older\n* Confirmed acute ischemic stroke by a diffusion-weighted imaging-position lesion on magnetic resonance imaging (MRI) and a new lesion on a brain computed tomography (CT) scan\n* Within 72 hours of symptom onset\n* Good performance status\n* Signed an approved informed consents\n\nExclusion Criteria:\n\n-a history of hemorrhagic infarction, chronic kidney/liver diseases, peripheral arterial occlusive disease, active malignant disease, and inflammatory or infectious diseases",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "There will be 5 AIS patients and 5 HCs, whose data will be applied for construction of diagnostic and predictive models of circRNA/miRNA/lncRNA from the circulating blood. There will be 100 patients suspected of AIS (such as transient ischemic attack) 300 AIS patients, whose data will be applied for validation of such diagnosis and predictive models, respectively.",
+  "condition": [
+    "Acute Stroke",
+    "Ischemic Stroke"
+  ],
+  "overall_status": "RECRUITING"
+}

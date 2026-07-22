@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02931032",
+  "title": "Diagnosis of Common Oral Diseases by Signature Volatile Profiles",
+  "brief_summary": "Oral diseases tend to be exacerbated due to delayed diagnosis. Patients avoid visiting their dentist even for regular checkups, and develop late stage disease, jeopardizing the treatment outcome. There is an urgent need for an inexpensive and minimally invasive technology that would serve as a diagnostic aid, allowing 1) efficient early detection and 2) treatment customization. Diagnostic modalities based on the detection of volatile organic compounds in the exhaled air may answer this need.\n\nThe proposed research aims at investigating signature molecular patterns of common oral diseases, as a first step toward the development of a computerized non-invasive diagnostic breath test, based on the \"Na-Nose\" device.\n\nThe proposed research will be divided to three distinct stages. Stages 1-2 will serve for the detection and analysis of Volatile Organic Compounds connected with common oral diseases, and for the characterization of a specified diagnostic nano-receptor array. Stage 3 will serve for the clinical testing of the array and as a proof of concept.\n\nIn a pilot experiment, headspaces above colonies of S.mutans, S.sanguis, P.gingivalis and F.nucleatum were trapped and analyzed using Gas Chromatography Mass Spectrometry (GC-MS). A unique VOC signature, consisting of 20-35 molecules, was detected for each of the bacterial strains.\n\nThese promising results allow the development of an algorithm for statistical detection of oral diseases by their VOC profile alone. Bacteria and distressed tissues emit unique VOCs, and additional research is required with other types and strains of bacteria - including cultivation of samples from active periodontal and carious lesions.\n\nThe results of the proposed research may be revolutionary. A simple and non-invasive air sampling at home or in a drugstore will significantly increase patient compliance and curability rates, and decrease healthcare expenditure.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria:\n\n* Healthy with a documented medical history\n* Suffer from active periodontal disease or dental caries\n\nExclusion Criteria:\n\n* Smoking\n* Consumed alcohol in the past 24 hours\n* Unclear medical or dental history\n* Documented history of malignancy\n* Cardiovascular diseases, inflammatory bowel disease, diabetes, asthma, CF, tuberculosis, Parkinson's disease, Alzheimer's disease, rheumatic and autoimmune diseases, kidney diseases, COPD\n* Infectious respiratory conditions",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Caries",
+    "Periodontitis"
+  ],
+  "overall_status": "UNKNOWN"
+}

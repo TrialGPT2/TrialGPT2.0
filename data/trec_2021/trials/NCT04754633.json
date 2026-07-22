@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT04754633",
+  "title": "Comparison of Chest CT Findings Related to COVID-19 With RSNA and BSTI Guidelines",
+  "brief_summary": "To present the first admission chest computed tomography (CT) findings of patients followed up with a diagnosis of COVID-19, and to compare the two classification systems by evaluating these findings according to the BSTI and RSNA guidelines.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Who had single negative RT-PCR\n2. Non-optimal chest CT , insufficient data\n3. \\<18 age of year\n4. Thoracic trauma\n5. Chest CT Negative\n\nExclusion Criteria:\n\n1. RT-PCR positive and chest CT positive findings\n2. At least two RT-PCR negative and chest CT positive findings\n3. \\>18 age of year",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Subjects who applied to the emergency department with the diagnosis of COVID-19 and had chest CT examination between 07.01.2020 and 07.20.2020.",
+  "condition": [
+    "Covid19",
+    "Infection Viral",
+    "CT Scan"
+  ],
+  "overall_status": "COMPLETED"
+}

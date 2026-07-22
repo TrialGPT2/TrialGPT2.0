@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT04674579",
+  "title": "Automatic Segmentation MRI Cerebral Glioma",
+  "brief_summary": "The aim of this study is to evaluate the role of automatic segmentation of cerebral gliomas in multi-sequence MR images using state-of-the-art methods for automatic segmentation and internal classification of brain tumors in correlation with operative findings",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n\\- Patients with cerebral gliomas identified by MRI who will be treated surgically\n\nExclusion Criteria:\n\n* Previously operated or biopsied gliomas.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study will include 50 patients with cerebral gliomas identified by MRI A standardized multi-parametric MR protocol will be implemented for all patients. All sequences will be acquired on a 1.5T MR scanner.",
+  "condition": [
+    "Cerebral Glioblastoma"
+  ],
+  "overall_status": "UNKNOWN"
+}

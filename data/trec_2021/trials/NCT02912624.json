@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT02912624",
+  "title": "Simple Intensive Care Studies I (SICS-I)",
+  "brief_summary": "Circulatory shock is a condition of generalized inadequate blood flow through the body, leading to insufficient tissue perfusion and inadequate delivery of oxygen and other nutrients, to the extent that tissues are damaged. Four basic mechanisms of circulatory failure are distinguished, caused by a scale of underlying illnesses: distributive, hypovolemic, obstructive and cardiogenic shock. The last three types are characterized by a low cardiac output and hypovolemia. Distributive shock is characterized by peripheral circulation failure, with a low systemic vascular resistance, a disturbed microcirculation and a high cardiac output. Frequently, these forms overlap.\n\nShock is a common problem in the intensive care unit (ICU) as it affects about one third of the patients. Septic shock appears to be the most common type, followed by cardiogenic and hypovolemic shock. The diagnosis of shock is based on clinical examination with use of well-known circulatory parameters such as blood pressure and heart rate; biochemical parameters such as lactate and direct (semi-)invasive measurement of cardiac output and other variables.\n\nSince cardiac output is an important determinant of oxygen delivery, many different methods of measuring cardiac output have been suggested. These methods range from non-invasive to invasive measurements with central lining. The most invasive method, the pulmonary artery catheter (PAC) has long been considered the optimal form of monitoring cardiac output by using thermodilution. However, this technique is associated with adverse events, such as bleeding, and there is no clear evidence of improved outcome. Therefore, numerous other techniques have been proposed, ranging from systems that use the dilution technique but only require central venous and peripheral artery lines; to less invasive tools that estimate cardiac output based on the arterial pressure waveform; and to non-invasive echocardiography.\n\nDespite technical advances, much remains unknown about the value of conventionally used hemodynamic parameters for estimating cardiac output. A distinction between macro- and microcirculatory parameters can be made. Commonly used macro-circulatory parameters are heart rate, systolic and diastolic blood pressure, mean arterial pressure and central venous pressure. Lactate is used as a proxy for microcirculatory status. Over the years several other measurements have been suggested to improve insight in the hemodynamics of a certain patient or a group of patients. Skin temperature, capillary refill, mottling score and urinary output are used for hemodynamic assessment of the peripheral circulation and tissue perfusion. Most of these parameters have not been evaluated in a large prospective study and especially a combination of all these parameters has not directly been correlated to cardiac output.\n\nMore knowledge on the predictive value of all hemodynamic parameters in estimating cardiac output could assist physicians in earlier detection of impaired hemodynamics without the need for invasive or advanced methods. In this study the investigators aim to evaluate all hemodynamic parameters in a large unselected population of critically ill patients and to correlate them to cardiac output.\n\nPurpose:\n\nThe purpose of this study is to create an infrastructure for a registry flexible to incorporate temporarily added specific research questions on the outcome of critically ill patients.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Emergency admission\n* Expected stay \\> 24 hours\n\nExclusion Criteria:\n\n* Age \\< 18 years\n* Planned admission (either after surgery or for other reasons)\n* Withdrawn or unable to obtain informed consent\n* Continuous resuscitation efforts or mechanical circulatory support",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The study will be conducted in the adult Critical Care of the University of Groningen, University Medical Center Groningen, a tertiary teaching hospital in the Northern part of the Netherlands.",
+  "condition": [
+    "Critical Illness",
+    "Acute Disease",
+    "Shock"
+  ],
+  "overall_status": "COMPLETED"
+}

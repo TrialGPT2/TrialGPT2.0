@@ -1,0 +1,35 @@
+{
+  "nctid": "NCT01036581",
+  "title": "Advanced Functional and Structural MRI Techniques for Neuropharmacological Imaging",
+  "brief_summary": "Background:\n\n\\- Functional and structural magnetic resonance imaging (MRI) techniques have allowed researchers to map and study how the brain works when at rest and when engaged in specific tasks. MRI scans have provided more information about how drugs affect the brain, and about how drug addiction changes the brain and influences behavior, mood, and thinking processes. To better understand the underlying mechanism of drug addiction and to develop strategies for more effective treatment, researchers are interested in developing new MRI techniques to study the effects of addiction on the brain.\n\nObjectives:\n\n\\- To develop new functional and structural MRI techniques, and to evaluate their potential use in brain imaging studies related to addiction.\n\nEligibility:\n\n* Individuals between 18 and 80 years of age.\n* Participants may be smokers or nonsmokers, and may use drugs or not use drugs.\n\nDesign:\n\n* During the initial screening, participants will complete questionnaires about family and personal history, drug use, and other information as required by the researchers. Participants who will be asked to complete tasks during the MRI scan will be shown how to perform these tasks before the scanning session.\n* Before each study session, participants may be asked to complete some or all of the following: questions about their drug use during the last week, a breathalyzer test, a urine drug-use assessment, a urine pregnancy test, or a measure of carbon monoxide. Participants will also provide blood samples before the start of the scan.\n* For each scanning session, participants will have an MRI scan that will last approximately 2 hours.\n* MRI scans may include specific tasks to be performed during the scan, or an experiment that studies the brain's response to carbon dioxide....",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "NA"
+  ],
+  "primary_purpose": "BASIC_SCIENCE",
+  "raw_criteria": "* Subjects must be between the ages of 18-80, be generally healthy and male or non-pregnant female. Smokers, non-smokers, drug using and non-drug using populations will participate in this study.\n\nINCLUSION CRITERIA:\n\nGeneral:\n\n* Male and non-pregnant female adults between the ages of 18-80.\n* All subjects must be able to provide informed consent.\n\nEXCLUSION CRITERIA:\n\nSubjects will be excluded if they:\n\n* Are pregnant. Urine pregnancy tests will be performed on all female volunteers of child-bearing potential before each experimental session.\n* Are unable to undergo MRI scanning due to implanted metallic devices (cardiac pacemaker or neurostimulator, some artificial joints, metal pins, surgical clips or other implanted metal parts including Copper 7 IUD) or claustrophobia.\n* Have major medical illnesses severe enough to impact data being gathered. Potential exclusions may include a history of chronic uncontrolled hypertension, diabetes, HIV, or other clinically significant medical conditions that may alter the signal being measured.\n* Have current major psychiatric disorders to include, but not limited to, mood, anxiety, psychotic disorders.\n* Have neurological illnesses severe enough to impact data being gathered. Potential exclusions may include seizure disorders, migraine, multiple sclerosis, movement disorders, or history of significant head trauma, CVA, or CNS tumor. The MAI will assess the severity in relation to the potential impact on data.\n* Are non-English speaking. Justification: There is no direct benefit to participants in this study, and some of the study procedures involve more than minimal risk. To include non-English speakers, we would have to translate the consent and other study documents and hire and train bilingual staff, which would require resources that we do not have and could not justify given the small sample size for each experiment. Additionally, the data integrity of some of the cognitive tasks and standardized questionnaires used in this study would be compromised as they have only been validated in English. Most importantly, ongoing communication regarding safety procedures is necessary when participants are undergoing MRI and TMS/TRPMS procedures. The inability to effectively communicate MRI and TMS/TRPMS safety procedures could compromise the safety of non-English speaking participants.\n* Are cognitively impaired, as assessed by the consent quiz and medical history. A validated IQ test such as the WASI or Shipley-2 may also be considered. Justification: Cognitive impairment and learning disabilities are associated with alterations in brain regions used to accomplish tasks, and, therefore, may introduce significant variably into the data. Cognitive impairment may affect one s ability to give informed consent.\n\nSubjects to be considered for Non-Invasive Brain Stimulation (NIBS) will also be excluded if they:\n\n-Are unable to safely undergo a NIBS procedure as assessed by a TMS safety screening form.\n\nAdditional information will be gathered during screening for some experiments. As the purpose of this protocol is to develop imaging techniques, this information will be gathered as needed, depending on the phase of development and specific technique requirements. Based on the scientific and medical requirements of the particular experiment, participants may also be assessed for:\n\n* age (some experiments may want to target a particular age range. For example, cognitive tasks generally exclude participants over 60, an age when cognitive issues tend to become more commonplace)\n* left-handedness (if desired for a particular task)\n* color-blindness (if using a task requiring color discrimination)\n* drug use diagnosis\n* use of psychoactive or vascularly active medications (if a functional fMRI technique that is sensitive to hemodynamic changes is being used)",
+  "minimum_age": "18 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Drug Abuse",
+    "Nicotine Dependence"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a neuroimaging study enrolling healthy adults, smokers, non-smokers, drug users, and non-drug users. There is no cancer population and no systemic therapy for advanced disease is relevant.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The study does not enroll cancer patients and does not reference systemic therapy for advanced disease. Eligibility is based on age, health status, and drug use, not prior lines of cancer therapy."
+    }
+  ]
+}

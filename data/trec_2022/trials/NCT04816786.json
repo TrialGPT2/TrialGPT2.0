@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT04816786",
+  "title": "COVID-19 Patients Admitted to the ICU",
+  "brief_summary": "A retrospective analysis of the adult COVID-19 patients admitted to the ICU. A chart review will be conducted and multiple baseline characteristics, demographics, and treatments given will be recorded.\n\nVariables collected will include Age, Gender, BMI, Smoking status, Past medical history, Vital signs on admission, symptoms on admission, duration of symptoms, laboratory results on admission, treatment given. Treatment options will include (Steroids, plasma exchange, IVIG, antibiotics, mode of respiratory support).\n\nPrimary outcomes will include; Death, duration of ICU stay, duration of mechanical ventilation, in-hospital complications.\n\nA regression model will be used to predict poor prognostic factors. Inclusion criteria: patients with confirmed PCR results for COVID-19 AND require ICU admission. Exclusion criteria: those with negative results, pediatric patients and those not requiring ICU admission.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Adults\n* Positive PCR test for COVID-19\n* Require admission to ICU\n\nExclusion Criteria:\n\n* Pediatric patients\\\\\n* Any patient not requiring admission to ICU",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients presenting to the hospital and suspected of having the COVID-19 virus. Patients who are positive on a PCR test are usually traiged to be managed on the wards Vs ICU (Intensive care unit). This is based on a number of parameters; including but not limited to The severity of the symptoms, vital signs, lab results, co-morbidities, age.",
+  "condition": [
+    "Covid19"
+  ],
+  "overall_status": "UNKNOWN"
+}

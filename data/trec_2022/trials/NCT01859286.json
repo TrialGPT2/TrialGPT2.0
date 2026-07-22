@@ -1,0 +1,22 @@
+{
+  "nctid": "NCT01859286",
+  "title": "Improving Signout Accuracy and Information Delivery in the Emergency Department",
+  "brief_summary": "The investigators sought to determine if implementing a standardized sign out process would reduce the amount of medical errors related to patient sign out. The standardized process included the following interventions: implementation of a data resident to review patients lab values, vital signs, radiologist results, and orders in real time, conducting sign out in a standardized location and using the attending physician as an \"interruption manager.\" The investigators defined medical errors related to sign out as any piece of information was incorrectly reported or omitted during sign out that caused a change in treatment or disposition discussed during sign out. The investigators hypothesis was that implementing a standardized sign out process would lead to a decrease in the amount of sign out related errors.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* ED transfers of care occurring at 0700 or 1900.\n\nExclusion Criteria:\n\n* Attending only handovers (1500, 2300)\n* Handovers including midlevel providers (Thursday 0700, 1300).",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "ED Physicians. We looked at the amount of errors due to signout that ED Physicians commit with standard signout procedure and then with a revised signed out process",
+  "condition": [
+    "Medical Errors Related to Emergency Department Sign Out"
+  ],
+  "overall_status": "COMPLETED"
+}

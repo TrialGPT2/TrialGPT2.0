@@ -1,0 +1,26 @@
+{
+  "nctid": "NCT04250779",
+  "title": "Evaluating Efficacy of Smart Device in Assisting With Inhaler Technique and Adherence",
+  "brief_summary": "Asthma affects over 10 million children in the U.S., and poses a significant health and cost burden. Metered dose inhaler (MDI) is the most common method of treatment. Studies show that up to 80% of patients demonstrate incorrect use of MDIs, which results in suboptimal medication delivery to the lungs.\n\nAsthma control can be followed by symptoms, rescue medication usage and measures of airflow obstruction. Current options to monitor control include an asthma diary (relies on consistent use by the patient), pharmacy records of medication dispensing (dispensing does not equal usage), and peak expiratory flow (PEF) meters (significant variability in technique leading to inconsistent results).\n\nCapMedic is a smart inhaler and home spirometer device which aims to assist with correct MDI usage and to monitor asthma control. CapMedic fits on top of the MDI inhaler and provides live audio-visual-haptic cues to guide the patient for correctly using their inhaler. CapMedic includes a built-in forced expiratory flow in 1 second (FEV1, a measure of airflow) and PEF meter. It will utilize the same audio-visual-haptic hardware to implement live cues that encourage patient's effort in performing accurate at-home FEV1/PEF test. Cap will also be able to log medication usage and Medic application will allow patients to keep an asthma symptom diary.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "Inclusion Criteria:\n\n* Diagnosis of Asthma\n* Regular user of MDI\n* Asthma Control Test (ACT) scores between 15 and 25\n* FEV1 between 60-80% of predicted (persistent mild-moderate)\n* Disease severity in the range mild-moderate\n* Access to a Smartphone and internet during the entire duration of the study.\n* Cognitively able to utilize the device and express interest in participating.\n\nExclusion Criteria:\n\n* Patients without asthma\n* With developmental disabilities\n* Do not speak English\n* Do not own a Smartphone",
+  "minimum_age": "8 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Asthma",
+    "Adherence, Medication",
+    "Childhood Asthma"
+  ],
+  "overall_status": "UNKNOWN"
+}

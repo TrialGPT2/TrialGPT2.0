@@ -1,0 +1,37 @@
+{
+  "nctid": "NCT01247597",
+  "title": "DICER1-related Pleuropulmonary Blastoma Cancer Predisposition Syndrome: A Natural History Study",
+  "brief_summary": "Background:\n\n\\- Pleuropulmonary blastoma (PPB) is a rare fast-growing lung tumor that is associated with other, rare tumor types. Most cases of PPB appear in children younger than 6 years of age. Recently, it has been shown that this condition can be inherited (e.g., mutation of the DICER1 gene). Researchers are studying both clinical and genetic aspects of this newly described condition. They are interested in collecting further medical history and genetic information on individuals and close relatives of individuals who have PPB or other rare associated tumors.\n\nObjectives:\n\n\\- To study individuals with a personal or a family history of pleuropulmonary blastoma (PPB) or other rare tumors that can be associated with PPB (e.g., cystic nephroma, nasal chondromesenchymal hamartoma, ovarian Sertoli-Leydig cell tumors, ocular medulloepithelioma).\n\nEligibility:\n\n* Individuals who have been diagnosed with PPB and/or PPB-related tumors.\n* Close blood relatives (e.g., parents, siblings, grandparents) of individuals who have been diagnosed with PPB and/or PPB-related tumors.\n\nDesign:\n\n* Interested participants can enroll or inquire about this study by calling 1-800-518-8474.\n* Participants will be asked to complete family history and medical history questionnaires. They will complete the questionnaire if they are at least 18 years of age, or another person will complete the questionnaire if the key family member is too young to do so on his or her own.\n* Participants will be asked to sign a medical record release form to allow researchers to examine detailed medical history information.\n* Participants may be asked to have a physical examination and imaging studies, provide blood and saliva samples, or provide tumor tissue from prior biopsies or cancer surgeries.\n* Annually, participants will update the family history and individual information questionnaires to document important changes in medical history, and will also update the medical record release form. Participants may be asked to provide additional cheek lining cells and/or blood samples, as well as tumor tissue from any new or planned biopsies or tumor surgeries.\n* Treatment will not be provided as part of this protocol.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nAll participants who meet the eligibility criteria outlined below will be eligible for inclusion in this study regardless of their race, gender, ethnicity, or age.\n\n* Affected individual is defined as:\n\n  * an individual with histologically-confirmed PPB and/or other DICER1-related tumors\n  * an individual with a known or suspected DICER1 disease-associated variant\n  * an individual from the general population with one or more of the unique tumors of the types associated with DICER1 including (but not exclusively), PPB, cystic nephroma, ovarian Sertoli-Leydig cell and other sex cord-stromal tumors, ocular medulloepithelioma, nasal chondromesenchymal hamartoma, Wilms tumor, embryonal rhabdomyosarcoma, pineoblastoma, pituitary blastoma, ovarian sarcoma, CNS sarcoma and/or thyroid cancer - regardless of their family history. Additional DICER1-related neoplasms may be identified in the future, and they will be added to the protocol as needed.\n* Unaffected individual is defined as:\n\n  * a family member (such as parents, siblings, children, or extended family) of an affected participant without a known or suspected DICER1 disease-associated variant or condition and they will be controls.\n\nOther inclusion criteria include:\n\n* All types and amounts of prior therapies are allowed.\n* There is no age restriction.\n* There is no restriction related to organ and marrow function.\n* Ability of the individual or their legal guardian or appropriate surrogate to understand, and their willingness to provide informed consent.\n\nNeonates of affected individuals will be included in the Field Cohort and be eligible for genetic counseling, education, and testing, if indicated and consented by a parent/legal guardian/LAR.\n\nThis is entirely a function of meeting the inclusion criteria and not being excluded by the exclusion criteria.\n\nIn some instances, patients with histologically-confirmed PPB and/or another neoplasm within the DICER1-related tumor risk and their families will be referred to the Clinical Genetics Branch (CGB) by the International Pleuropulmonary Blastoma (PPB) / DICER1 Registry (IPPBR), provided that the family has previously or currently indicated a desire to be notified of such research opportunities. In non IPPBR cases, the diagnosis will be confirmed by reviewing relevant medical records and relevant surgical pathology material.\n\nEXCLUSION CRITERIA:\n\nIndividuals and families referred for evaluation in whom reported diagnoses are not verifiable.",
+  "minimum_age": "1 Month",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "A cohort of patients with PPB and/or specific neoplasms of the PPB spectrum (cystic nephroma, nasal chondromesenchymal hamartoma, ovarian Sertoli-Leydig cell and other sex cord-stromal tumors, ocular medulloepithelioma, Wilms tumor, embryonal rhabdomyosarcoma, pineoblastoma, others to be defined)",
+  "condition": [
+    "Pleuropulmonary Blastoma",
+    "Cystic Nephroma",
+    "Ovarian Sertoli-Leydig Cell Tumors",
+    "Ocular Medulloepithelioma",
+    "Nasal Chondromesenchymal Hamartoma"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is a non-therapeutic, observational natural history study enrolling individuals with DICER1-related tumors and their relatives, regardless of prior therapy. There are no restrictions on prior lines of therapy, and both treatment-naïve and previously treated patients are eligible.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": 0,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": true,
+      "category": "any line",
+      "line_of_therapy_text": "All types and amounts of prior therapies are allowed, and there are no restrictions on prior systemic therapy for advanced disease. Both treatment-naïve and previously treated patients, including those who have only received adjuvant or neoadjuvant therapy, are eligible. This is an observational study with no therapeutic intervention."
+    }
+  ]
+}

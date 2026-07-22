@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT05807139",
+  "title": "Spironolactone in Alcohol Use Disorder (SAUD)",
+  "brief_summary": "Background:\n\nAlcohol use disorder (AUD) affects about 29.5 million people in the United States. Only 3 medicines have been approved by Food and Drug Administration to treat AUD. Researchers want to find better treatments for AUD. Animal studies found that a medicine called spironolactone, may decrease the amount of alcohol the animals drank. Spironolactone is approved to treat high blood pressure, or heart failure in people. It is not approved to treat AUD.\n\nObjective:\n\nTo test a medicine (spironolactone) in people who sometimes drink excessive alcohol in order to understand how the body breaks down spironolactone and if there are any side effects in people who drink alcohol while taking this medicine.\n\nEligibility:\n\nPeople aged 21 and older with AUD.\n\nDesign:\n\nParticipants will have 4 separate 7-day stays at a clinic in Baltimore over 2 months. Spironolactone is a capsule you swallow. Participants will take a capsule twice a day for 5 days during each clinic stay. During 1 of their 4 stays, they will take a placebo instead of the medicine. The placebo capsule looks just like the spironolactone capsule but contains no medicine. Participants will not know when they are taking the medicine or the placebo.\n\nParticipants will not drink alcohol until day 6 of each clinic stay. Then they will be asked to drink alcohol in a bar-like area in the clinic. Their breath and blood alcohol levels and their well-being will be measured.\n\nParticipants will undergo other tests in the clinic:\n\nA DEXA (dual energy X-ray absorptiometry) scan uses X-rays to measure bone density and muscle mass. Participants will lie on an open-top, padded table, then a small arm will scan the full length of their body. The radiation participants will get in this study is about the same as from one regular x-ray.\n\nBlood tests. Participants may feel some discomfort at the site of needle entry.\n\nElectrocardiogram. This test records the heart activity. Sensors are attached to the skin with stickers and removed after a few minutes.\n\nUrine tests. All urine will be collected over a 3-day period during each stay. We will measure the amount of urine, and different hormones and salts in the urine.\n\nQuestionnaires and tasks. Participants will answer questions about their alcohol use. They will perform tasks to test mood, craving, mental and physical coordination, and how much they feel an effect from alcohol after drinking.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "OTHER",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nIn order to be eligible to enroll in this study, an individual must meet all of the following criteria:\n\n1. At least 21 years old\n2. Alcohol Use Disorder (minimum 2 symptoms on a validated diagnostic tool, e.g., the Mini- International Neuropsychiatric Interview (MINI) or the Structured Clinical Interview for DSM Disorders (SCID))\n3. At least four days with \\>= 4 drinks for females or \\>= 5 drinks for males during the 28-day period prior to screening, according to alcohol TimeLine Follow Back (TLFB)\n4. Most recent Clinical Institute Withdrawal Assessment for Alcohol - revised (CIWA-Ar) score is \\< 10\n5. Able to speak, read, write, and understand English as demonstrated by their ability to understand and sign the consent for the NIDA screening protocol.\n6. Female participants must be postmenopausal for at least one year, surgically sterile, or practicing a highly effective method of birth control before entry and throughout the study and must have negative pregnancy tests at each stage. Examples of highly effective methods of birth control include abstinence, hormonal contraceptives (e.g., certain birth control pills, contraceptive patch, vaginal ring, or implants), intrauterine device (IUD), tubal ligation, or vasectomy.\n\nEXCLUSION CRITERIA:\n\nAn individual who meets any of the following criteria will be excluded from participation in this study:\n\n1. Most recent blood tests: potassium \\> 5.2 mmol/L; creatinine \\>= 2 mg/dL; eGFR \\< 60 mL/min/1.73 m\\^2, hemoglobin A1c (HbA1c) \\> 6.5 %\n2. Clinically significant and/or symptomatic hyponatremia, hypomagnesemia, hypocalcemia, and hyperuricemia based on Medical Advisory Investigators (MAI) or designee judgment.\n3. Known history of clinically significant orthostatic hypotension\n4. Known history of hypoaldosteronism, hyperaldosteronism, Addison s disease\n5. Diagnosis of NYHA class III-IV heart failure, or unstable cardiovascular conditions (e.g., arrhythmias, clinically significant ECG abnormalities)\n6. Current use of any diuretic, angiotensin receptor blocker (ARB), angiotensin converting enzyme inhibitor (ACEI), potassium supplementation, potassium containing salt substitute, heparin and low molecular weight heparin (LMWH), trimethoprim, lithium, digoxin, cholestyramine\n7. Current use of MR antagonists\n8. Current use of FDA-approved pharmacotherapy for AUD, or seeking treatment for AUD\n9. Known history of prior hypersensitivity reaction to spironolactone or other MR antagonists, or any of the product components\n10. Known history of alcohol withdrawal seizure and delirium tremens.\n11. Physical and/or mental health conditions that are clinically unstable, as determined by the study clinicians, including (but not limited to) major depressive disorder or generalized anxiety disorder unstable during the past three months or other psychiatric conditions (e.g., schizophrenia, bipolar disorder) unstable during the past twelve months prior to screening.\n12. Pregnancy, intention to become pregnant, or breastfeeding.\n13. Any other reason or clinical condition that the Investigators judge would interfere with study participation and/or be unsafe for a participant.",
+  "minimum_age": "21 Years",
+  "maximum_age": "99 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Alcohol Use Disorder"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This trial enrolls adults with alcohol use disorder (AUD) regardless of prior treatment history. There are no requirements or restrictions regarding prior lines of systemic therapy for AUD.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior lines of systemic therapy for AUD, nor do they specify treatment-naïve or previously treated status. Line-of-therapy intent is not defined in this protocol."
+    }
+  ]
+}

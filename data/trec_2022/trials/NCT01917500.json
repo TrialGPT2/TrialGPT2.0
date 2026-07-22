@@ -1,0 +1,21 @@
+{
+  "nctid": "NCT01917500",
+  "title": "Feasibility Study of Non-invasive and Continuous Measurement of Blood Pressure and Cardiac Output: Comparison to Non-invasive and Non-continuous Measurements",
+  "brief_summary": "The objectives of this clinical trial is to validate a S/W application to compare the calculations of Hemodynamic parameters like Continuous blood pressure (BP) and Continuous cardiac output (CO). This Hemodynamic parameters are computed from Pulse Oximeter (PhotoPlethysmograph or PPG) signal with results obtained by NIBP intermittent measurements and Echocardiography. The first phase of the study will be done on 10 patients of the Cardiology dept.- Cardiac ICU, that have routine measurements of BP and CO using Echocardiography.\n\nThe HeartBeat system combines an FDA/CE approved watch-like Pulse Oximeter for acquiring the data and a Smartphone S/W application that serves as the Hemodynamic calculator. The S/W application performs POST-PROCESSING of the PhotoPlethismoGraphic (PPG) signal (Normally the PPG signal in Pulse Oximeters is used only to compute heart rate and SpO2). The raw data is transferred from the watch oximeter to the smartphone using a standard Bluetooth protocol.\n\nThe Post-processing uses wavelet signal processing to estimate and display certain Hemodynamic parameters like (Blood Pressure) BP and CO in a continuous and graphical way on a standard Android Smartphone. In addition to the standard heart rate and SpO2, the application displays the measured PPG signal and estimated continues BP and CO.\n\nHeartBeat is the only device that can non-invasively estimate Continuous BP and its Cardiac Output component and the resistance component in a mobile wearable device. Differentiating between these 2 components can play a major role in helping the doctor to understand the effect of cardiovascular medications and Lifestyle interventions.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Male and females\n* Between the ages of 20-70 years old\n\nExclusion Criteria:\n\n* Over 70 years old\n* under 20 years old\n* Supportive blood pressure\n* Severe Sepsis\n* Ventilated patients\n* Supported by Amines\n* Patients in state of Shock",
+  "minimum_age": "20 Years",
+  "maximum_age": "70 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "The trial will be conducted on a group of patients in the cardiac ward at the Rambam hospital. As long as they fall under the criteria, they will fit for the trial.",
+  "condition": [
+    "Heart or Vascular Disease"
+  ],
+  "overall_status": "UNKNOWN"
+}

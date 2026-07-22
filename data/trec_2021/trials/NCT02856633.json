@@ -1,0 +1,31 @@
+{
+  "nctid": "NCT02856633",
+  "title": "Preliminary Testing of the Vitaliti CVSM Wearable, Vitaliti Spirotoscope, and Vitaliti IVD Station",
+  "brief_summary": "The study objective is to satisfy the testing requirements for the Qualcomm Tricorder XPRIZE Competition. This requires an oversight model using the Vitaliti CVSM Wearable, Vitaliti Spirotoscope, and Vitaliti IVD Station to continuously monitor the patient's five core vital signs and to detect the health conditions required by the competition.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Age 18 to 65 years of age.\n* English speaking\n* Established diagnosis of one of the thirteen required conditions with evidence in Medical Record.\n\nExclusion Criteria:\n\n* Lack of patient consent\n* Has pacemaker or internal medical device\n* Pregnancy\n* Concurrent enrollment into a clinical trial that may affect subject treatment\n* Age less than 18 or over 65\n* Physical disabilities affecting vision (eyeglasses or contact lenses will be allowed), manual manipulation, or use of a computer or mobile device",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Adult subjects with urinary tract infection, diabetes mellitus, atrial fibrillation, sleep apnea, COPD, pneumonia, acute otitis media, leukocytosis, anemia, or hypertension will be recruited to participate in this observational study from Oakville-Trafalgar Memorial Hospital.",
+  "condition": [
+    "Urinary Tract Infection",
+    "Diabetes Mellitus",
+    "Atrial Fibrillation",
+    "OSA",
+    "COPD",
+    "Pneumonia",
+    "Acute Otitis Media",
+    "Leukocytosis",
+    "Iron Deficient Anemia",
+    "Hypertension",
+    "Healthy Volunteers"
+  ],
+  "overall_status": "COMPLETED"
+}

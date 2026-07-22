@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT03584425",
+  "title": "Imaging Laterality in Chronic Stroke Patients",
+  "brief_summary": "In healthy individuals, unimanual movement (with either the left or right hand) is associated with activity in a network of predominantly contralateral brain regions, including the primary motor cortex (PMC). This laterality is often compromised following a middle cerebral artery (MCA) stroke. Neuroimaging studies of these patients have shown that unimanual movements with the effected hand are associated with elevated Blood Oxygen-Level Dependent (BOLD) signal in both the lesioned and the nonlesioned primary motor cortices. Elevated activity in the contralesional PMC is well-established in chronic stroke patients and is associated with poor motor rehabilitation outcomes. Yet the neurobiologic basis for this aberrant neural activity is equivocal. The overarching goal of this project is to determine the neurobiologic basis for elevated activity in the contralesional primary motor cortex.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_purpose": "DIAGNOSTIC",
+  "raw_criteria": "Inclusion Criteria For Both Groups:\n\n* 21-80 years old of any race and ethnicity\n* At least 2 cardiovascular risk factors (smoking, high blood pressure, high cholesterol, diabetes, overweight, age (\\>55 for men, \\>65 for women), family history of stroke).\n\nInclusion Criteria For Stroke Patients:\n\n* Left middle cerebral artery ischemic stroke with at least 6 month chronicity\n* Right upper extremity weakness with a Rasch-modified Fugl-Meyer upper extremity score of 20 to 50\n* Ability to voluntarily flex the affected elbow and shoulder from 10-75% of the normal range\n* Ability to make a fist and relax the affected hand (note: this motion will be required in the functional MRI task)\n\nExclusion Criteria For Both Groups:\n\n* Primary intracerebral hematoma or subarachnoid hemorrhage\n* Bi-hemispheric ischemic strokes\n* History of prior right-sided stroke or old infarct demonstrated on the CT or MRI or documented in medical records\n* Other concomitant neurological disorders affecting upper extremity motor function\n* Documented history of dementia before or after stroke\n* Presence of any MRI, TMS, or transcranial direct current stimulation risk factors such as an electrically, magnetically or mechanically activated metal or nonmetal implant including cardiac pacemaker, intracerebral vascular clips or any other electrically sensitive support system\n* Pregnancy as the effect of MRI on the fetus is unknown, females of child bearing age must undergo a pregnancy test to confirm eligibility\n* History of seizure disorder or post-stroke seizure\n* Preexisting scalp lesion or wound or bone defect or hemicraniectomy\n* Left-hand dominance (before the stroke in the stroke patients) as the typical pattern of laterality is not as strong in left-handed healthy individuals\n* Current nicotine dependence (Note: nicotine use is not an exclusionary criteria as there is no known association between acute use and BOLD signal changes in non-dependent smokers)",
+  "minimum_age": "21 Years",
+  "maximum_age": "80 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Stroke",
+    "Motor Cortex; Lesion"
+  ],
+  "overall_status": "COMPLETED"
+}

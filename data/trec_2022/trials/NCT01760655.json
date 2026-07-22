@@ -1,0 +1,44 @@
+{
+  "nctid": "NCT01760655",
+  "title": "Reduced-Intensity Conditioning Before Donor Stem Cell Transplant in With High-Risk Hematologic Malignancies",
+  "brief_summary": "This phase II trial studies reduced-intensity conditioning before donor stem cell transplant in treating patients with high-risk hematologic malignancies. Giving low-doses of chemotherapy and total-body irradiation before a donor stem cell transplant helps stop the growth of cancer cells. It may also stop the patient's immune system from rejecting the donor's stem cells. The donated stem cells may replace the patient's immune cells and help destroy any remaining cancer cells (graft-versus-tumor effect). Giving an infusion of the donor's T cells (donor lymphocyte infusion) before the transplant may help increase this effect.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* By definition, patients with hematological malignancies or dyscrasias that require HSCT as part of cure-directed therapy are by definition high-risk and can be treated on this protocol; examples of high risk patients include but are not limited to:\n\n  * Acute myeloid leukemia with high risk features as defined by:\n\n    * Age greater than or equal to 60\n    * Secondary acute myeloid leukemia (AML) (prior therapy or hematologic malignancy)\n    * Normal cytogenetics but fms-related tyrosine kinase 3 (FLT3)/internal tandem duplication (ITD) positive\n    * Any relapse or primary refractory disease\n    * Greater than 3 cytogenetic abnormalities or any one of the following cytogenetic abnormalities: -5/del(5q), -7/del(7q), Abn(9q), (11q), (3q), (21q), (17p), t(6;9), t(6;11), t(11;19), +8, del(12p), inv(3), t(10;11), -17, 11q 23\n    * Any single autosomal monosomy\n  * Acute lymphoid leukemia in 1st or 2nd morphological remission; ALL with any morphological evidence of disease will not be eligible\n  * Myelodysplasia (MDS) other than refractory anemia (RA), refractory anemia with rare sideroblasts (RARS), or isolated 5q- syndrome subtypes\n  * Hodgkin's or Non-Hodgkin's lymphoma in 2nd or greater remission or with persistent disease\n  * Myeloma with evidence of persistent disease after front-line therapy\n  * Chronic myeloid leukemia (CML) resistant to signal transducer inhibitor (STI) therapy\n  * Myelofibrosis and chronic myelomonocytic leukemia (CMML)\n  * Essential thrombocytopenia or polycythemia vera with current or past evidence of evolution to acute leukemia\n  * Patients with chronic lymphocytic leukemia (CLL), follicular non-Hodgkin lymphoma (NHL), or other lymphoid malignancies who have highly adverse cytogenetics (such as p53 deletion), are chemo-insensitive, are not responsive to highly effective novel treatments such as chimeric antigen receptor T-lymphocytes (CART) or Ibrutinib, or who have transformed disease\n  * Any hematological malignancy not cited above which is thought to be high-risk with increased chance of post HSCT relapse\n  * Any patient who has an aggressive disease that would normally be treated on a myeloablative study, but is prevented from doing so by factors in their past medical history; examples are patients with previous treatment with radiation therapy precluding TBI, or a past history of myeloablative therapy, precluding a 2nd myeloablative regimen\n  * Patients with aplastic anemia may be treated on this protocol, with outcomes reported descriptively\n* Patients must have a related donor who is at least a 2-4/8 antigen mismatch at the human leukocyte antigen (HLA)-A; B; C; DR loci; patients with only a 1 out of 8 mismatch in the GVH direction will be classified in the matched related category\n* Left ventricular end diastolic function (LVEF) of \\>= 50%\n* Diffusion lung capacity of oxygen (DLCO) \\>= 50% of predicted corrected for hemoglobin\n* Serum bilirubin =\\< 1.8\n* Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) =\\< 2.5 x upper limit of normal\n* Creatinine clearance of \\>= 60 mL/min\n* Patients \\< age 60 years must have a Karnofsky performance status (KPS) of \\>= 80% and a hematopoietic cell transplant comorbidity index (HCT-CI) score of 5 or less\n* Patients aged 60 to 65 years must have a KPS of \\>= 80% and an HCT-CI score of 4 or less\n* Patients aged 66 to 69 years must have a KPS of 90% and an HCT-CI score of 3 or less\n* Patients aged 70 years or more must have a KPS of 90% and an HCT-CI score of 2 or less\n\n  \\* (Patients with greater than the allowable HCT-CI points for age can be enrolled for trial with approval of the principal investigator \\[PI\\] and at least 1 co-investigator \\[Co-I\\] not on the primary care team of the patient) this is an adjustment to account for healthy patients who meet the spirit of this protocol but have histories that result in higher than guideline HCT-CI points; an example is a patient with a solid tumor malignancy in their remote history (adds 3 points to HCT-CI total) where the treatment for the malignancy occurred years to decades before and there has been complete recovery of toxicities\n* Patients must be willing to use contraception if they have childbearing potential\n* Patient or patient's guardian is able to give informed consent\n\nExclusion Criteria:\n\n* Human immunodeficiency virus (HIV) positive\n* Active involvement of the central nervous system with malignancy; this can be documented as a normal neurological exam and/or a negative cerebrospinal fluid (CSF) analysis\n* Pregnancy\n* Patients with life expectancy of =\\< 6 months for reasons other than their underlying hematologic/oncologic disorder\n* Patients who have received alemtuzumab or ATG within 8 weeks of the transplant admission\n* Patients with evidence of another malignancy, exclusive of a skin cancer that requires only local treatment, should not be enrolled on this protocol",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Acute Myeloid Leukemia With FLT3/ITD Mutation",
+    "Acute Myeloid Leukemia With Gene Mutations",
+    "Acute Myeloid Leukemia With Inv(3) (q21.3;q26.2); GATA2, MECOM",
+    "Acute Myeloid Leukemia With t(6;9) (p23;q34.1); DEK-NUP214",
+    "Aplastic Anemia",
+    "Chronic Lymphocytic Leukemia",
+    "Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+    "Chronic Myelomonocytic Leukemia",
+    "Follicular Lymphoma",
+    "Hodgkin Lymphoma",
+    "Myelodysplastic Syndrome",
+    "Myelofibrosis",
+    "Myeloid Leukemia",
+    "Non-Hodgkin Lymphoma",
+    "Plasma Cell Myeloma",
+    "Polycythemia Vera",
+    "Recurrent Adult Acute Myeloid Leukemia",
+    "Recurrent Childhood Acute Myeloid Leukemia",
+    "Refractory Acute Myeloid Leukemia",
+    "Secondary Acute Myeloid Leukemia",
+    "Therapy-Related Acute Myeloid Leukemia"
+  ],
+  "overall_status": "COMPLETED"
+}

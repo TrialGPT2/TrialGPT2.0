@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00003805",
+  "title": "Prevention of Infection in Patients With Hematologic Cancer and Persistent Fever Caused by a Low White Blood Cell Count",
+  "brief_summary": "RATIONALE: Antibiotic therapy may prevent the development of infection in patients with hematologic cancer and the persistent fever caused by a low white blood cell count. It is not yet known which regimen of antibiotics is most effective in preventing infection in these patients.\n\nPURPOSE: Randomized phase III trial to study the effectiveness of piperacillin-tazobactam with or without vancomycin in reducing fever in patients who have leukemia, lymphoma, or Hodgkin's disease.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE3"
+  ],
+  "primary_purpose": "SUPPORTIVE_CARE",
+  "raw_criteria": "DISEASE CHARACTERISTICS: Leukemia, lymphoma, or Hodgkin's disease OR Stem cell transplantation or bone marrow transplantation (allogenic or autologous) for a neoplastic disease Absolute granulocyte count no greater than 1,000/mm3 anticipated to fall below 500/mm3 within 24-48 hours, and expected to last for longer than 7 days from onset of fever Fever (i.e., oral or axillary temperature at least 38.5 degrees C or 101.3 degrees F once, or at least 38 degrees C or 100.4 degrees F on two or more occasions separated at least by 1 hour during a 12 hour period) Presumed infection\n\nPATIENT CHARACTERISTICS: Age: 2 and over Performance status: Not moribund or comatose for any reason with little hope of recovery Life expectancy: At least 48 hours Hematopoietic: See Disease Characteristics Hepatic: No hepatic stupor or coma Renal: Adults: No renal failure requiring hemodialysis or peritoneal dialysis OR Creatinine no greater than 2.25 mg/dL OR Creatinine clearance at least 40 mL/min Children: No renal impairment (i.e., creatinine greater than upper limit of normal) Pulmonary: No lung infiltrate Other: No known allergy to piperacillin, tazobactam, or vancomycin No history of immediate or accelerated reaction to beta-lactam antibiotics No prior inclusion in this study No catheter related infection No known HIV infection Not pregnant or nursing\n\nPRIOR CONCURRENT THERAPY: Biologic therapy: See Disease Characteristics Chemotherapy: Not specified Endocrine therapy: Not specified Radiotherapy: Not specified Surgery: Not specified Other: At least 4 days since prior intravenous antibacterial agents Oral antibiotics for prophylaxis of bacterial infection allowed At least 30 days since prior treatment with any other investigational antibiotic No other concurrent antibiotics except trimethoprim-sulfamethoxazole for the prevention of Pneumocystis carinii pneumonia",
+  "minimum_age": "2 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Bone Marrow Suppression",
+    "Fever, Sweats, and Hot Flashes",
+    "Infection",
+    "Leukemia",
+    "Lymphoma",
+    "Multiple Myeloma and Plasma Cell Neoplasm",
+    "Myelodysplastic Syndromes",
+    "Unspecified Adult Solid Tumor, Protocol Specific",
+    "Unspecified Childhood Solid Tumor, Protocol Specific"
+  ],
+  "overall_status": "COMPLETED"
+}

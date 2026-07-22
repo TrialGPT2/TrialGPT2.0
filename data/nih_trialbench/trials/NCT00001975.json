@@ -1,0 +1,32 @@
+{
+  "nctid": "NCT00001975",
+  "title": "Study of Skin Tumors in Tuberous Sclerosis",
+  "brief_summary": "Tuberous sclerosis is a rare, hereditary disease in which patients develop multiple tumors. Although not cancerous, the tumors can affect various organs, including the heart, lungs, kidneys, skin, and central nervous system, with serious medical consequences. The severity of disease varies greatly among patients, from barely detectable to fatal. This study will investigate what causes skin tumors to develop in patients with this disease.\n\nPatients with tuberous sclerosis 18 years and older may enroll in this study. Participants will undergo a medical history and thorough skin examination by a dermatologist. Those with skin tumors will be asked to undergo biopsy (tissue removal) of up to eight lesions, under a local anesthetic, for research purposes. The biopsies will all be done the same day. The tissue samples will be used for: examination of genetic changes, measurement of certain proteins and other substances, and growing in culture to study the genetics of tuberous sclerosis.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA:\n\nPatients will be those already diagnosed with TSC (definite, probable, or possible) based on clinical criteria and/or genetic testing, and ranging in age from 18 to 90 years old.\n\nThe clinical features of TSC considered of major significance are: facial angiofibromas or forehead plaque, nontraumatic periungual fibromas, three or more hypomelanotic macules, shagreen patch, multiple retinal nodular hamartomas, cortical tuber, subependymal nodule, subependymal giant cell astrocytoma, cardiac rhabdomyoma, lymphangioleiomyomatosis, and renal angiomyolipoma.\n\nThe minor features of TSC are: multiple randomly distributed pits in dental enamel, hamartomatous rectal polyps, bone cysts, cerebral white matter radial migration lines, gingival fibromas, nonrenal hamartoma, retinal achromic patch, confetti skin lesions, and multiple renal cysts (5). Definite TSC is diagnosed by the presence of two major features or one major feature plus two minor features. Probable TSC is diagnosed by the presence of one major feature and one minor feature. Possible TSC is diagnosed by the presence of either one major feature or two or more minor features. Patients will not be preselected for skin lesions, but about 80% of patients with TSC are expected to have skin lesions.\n\nEXCLUSION CRITERIA:\n\nInability to give informed consent.\n\nTendency to keloid formation.\n\nAllergy to anesthetics.\n\nBleeding abnormality.",
+  "minimum_age": "18 Years",
+  "maximum_age": "90 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients will be those already diagnosed with TSC (definite or possible) based on clinical criteria and/or genetic testing, and ranging in age from 18 to 90 years old.",
+  "condition": [
+    "Tuberous Sclerosis"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational study of skin tumors in patients with tuberous sclerosis, with no requirement or restriction regarding prior systemic therapy for advanced disease. The trial does not address or select for any line of therapy.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention prior systemic therapy for advanced disease, nor do they specify any requirements or exclusions based on treatment history. This is a non-interventional study focused on skin tumor biology in tuberous sclerosis, not on therapy for advanced disease."
+    }
+  ]
+}

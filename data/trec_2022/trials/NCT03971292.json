@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03971292",
+  "title": "Interest of High-throughput Sequencing of RNAs for the Diagnosis of Heterogeneous Genetic Diseases",
+  "brief_summary": "The advent of high throughput genomic DNA sequencing has led to major advances in the diagnosis of genetic diseases of heterogeneous origin. Thus, our hospital laboratory has developed in recent years several diagnostic tests based on the targeted sequencing of coding sequences of gene panels (from about twenty genes for DNA repair diseases to nearly five hundred genes for the intellectual disability). These targeted analyzes, carried out by capture, have thus solved 25 to 80% of the cases according to the indications, without allowing the diagnosis of the totality of the patients.\n\nFor these negative cases, the search for mutations in the coding sequences was then extended to Whole Exome Sequencing, thus providing several additional diagnoses.\n\nPatients still remain without diagnosis after this exome study. These could be complex cases of genetic or even non-genetic origin, but also monogenic pathologies linked to mutations that are not identifiable by coding sequence analyzes, and especially affecting messenger RNAs.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion criteria common to all participants:\n\n* Patient minor or major\n* Patient suffering from a pathology studied in the laboratory by high throughput sequencing: intellectual disability, myopathies, neurosensory disease (Bardet-Biedl syndrome, retinitis pigmentosa, ....), DNA repair diseases (Cockayne syndrome, ...)\n* Sampling allowing the extraction of available RNA (or RNA available in the bank)\n* Patient (or its legal representative) having already given their consent, on the one hand for carrying out genetic analyzes to determine the cause of their disease, and on the other hand for the conservation of part of their non used for further use in order to continue diagnostic investigations in the light of evolving knowledge and for research purposes.\n* Patient (or its legal representative) agreeing to use data from his medical file and those associated with genetic diagnosis for research purposes\n* Patient affiliated to a social security scheme Inclusion criteria for the test phase\n* Pertogenous mutation (s) known Inclusion criteria for the prospective phase\n* Magnetic molecular diagnosis, after the usual investigations (high-throughput sequencing of a panel of genes on genomic DNA, sequencing of exome, or even genome.\n\nNon-inclusion criteria:\n\n\u25fe Refusal of the patient (or his / her legal representative) to participate in the study.",
+  "minimum_age": "",
+  "maximum_age": "",
+  "stdAges": [
+    "CHILD",
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patient suffering from a pathology studied in the laboratory by high throughput sequencing: intellectual disability, myopathies, neurosensory disease (Bardet-Biedl syndrome, retinitis pigmentosa, ....), DNA repair diseases (Cockayne syndrome, ...)",
+  "condition": [
+    "DNA Sequencing",
+    "Diagnosis of Genetic Diseases of Heterogeneous Origin"
+  ],
+  "overall_status": "UNKNOWN"
+}

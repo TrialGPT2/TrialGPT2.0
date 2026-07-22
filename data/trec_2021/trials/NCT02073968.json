@@ -1,0 +1,29 @@
+{
+  "nctid": "NCT02073968",
+  "title": "PET-Adjusted Intensity Modulated Radiation Therapy and Combination Chemotherapy in Treating Patients With Stage II-IV Non-small Cell Lung Cancer",
+  "brief_summary": "This phase II trial studies how well intensity modulated radiation therapy adjusted by positron emission tomography (PET) scanning together with combination chemotherapy works in treating patients with stage II-IV non-small cell lung cancer (NSCLC). Radiation therapy uses high energy x rays to kill tumor cells. In intensity-modulated radiotherapy, multiple beam angles and dozens of beam segments are used to deliver highly conformal radiation therapy. Drugs used in chemotherapy, such as carboplatin and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving PET-adjusted IMRT together with combination chemotherapy may kill more tumor cells.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n* Pathologically proven (either histologic or cytologic) diagnosis of NSCLC with any of the following stages (according to the American Joint Committee on Cancer \\[AJCC\\] Staging Manual, 7th edition):\n\n  * Stage IIIA or IIIB\n  * Stage II NSCLC with medical contraindication to curative surgical resection\n  * Stage IV disease with solitary brain metastasis that has been treated radically (eg: with surgical resection or stereotactic radiosurgery) and thoracic disease that would be classified as stage II-III\n* Appropriate diagnostic/staging workup, including:\n\n  * Complete history and physical examination\n  * Whole body PET/computed tomography (CT) scan within 42 days prior to study entry demonstrating hypermetabolic pulmonary lesion(s) and/or thoracic lymph node(s), with a maximum standardized uptake volume (SUV) \\> 6 for at least one lesion; if PET/CT was obtained more than 42 days prior to study entry and is not repeated, CT scan of the chest within 28 days prior to study entry demonstrating stable disease is required\n  * Magnetic resonance imaging (MRI) of the brain or CT scan of the head with contrast within 42 days prior to study entry\n  * Biopsy confirmation of suspected metastatic disease identified by PET/CT is recommended\n  * Pulmonary function tests (PFTs) within 6 weeks of study entry are highly recommended but not required\n* No prior chemotherapy or thoracic radiotherapy for lung cancer\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* Absolute neutrophil count (ANC) \\>= 1,500 cells/ul\n* Platelets \\>= 100,000 cells/ul\n* Hemoglobin \\>= 9.0 g/dl (Note: the use of transfusion or other intervention to achieve hemoglobin \\[Hgb\\] \\>= 9.0 g/dl is acceptable)\n* Total bilirubin \\< 3.0 times the institutional upper limit of normal (ULN)\n* Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) =\\< 3.0 x the ULN\n* Serum creatinine =\\< 1.5 x ULN or calculated creatinine clearance \\>= 50 ml/min (by Cockroft-Gault formula)\n* Women of childbearing potential must:\n\n  * Have a negative serum or urine pregnancy test within 72 hours prior to the start of study therapy\n  * Agree to utilize an adequate method of contraception throughout treatment and for at least 4 weeks after study therapy is completed\n  * Be advised of the importance of avoiding pregnancy during trial participation and the potential risks of an unintentional pregnancy\n* All patients must sign study specific informed consent prior to study entry\n\nExclusion Criteria:\n\n* Pleural or pericardial effusion\n\n  * A patient with pleural effusion may be enrolled the effusion is sampled by thoracentesis and cytology is negative or the effusion is seen on axial imaging but not on chest x-ray and deemed too small to tap under CT or ultrasound guidance\n* Prisoners or subjects who are compulsorily detained (involuntarily incarcerated) for treatment of either a psychiatric or physical (e.g., infectious) illness\n* Women who\n\n  * Are unwilling or unable to use an acceptable method to avoid pregnancy for the entire study period and for at least 4 weeks after cessation of study therapy\n  * Have a positive pregnancy test at baseline\n  * Are pregnant or breastfeeding\n* Poorly controlled diabetes (defined as fasting glucose level \\> 200 mg/dL) despite attempts to improve glucose control by fasting duration and adjustment of medications; patients with diabetes will preferably be scheduled for PET/CT imaging in the morning, and instructions for fasting and use of medications will be provided in consultation with the patients' primary physicians",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Metastatic Malignant Neoplasm in the Brain",
+    "Recurrent Non-Small Cell Lung Carcinoma",
+    "Stage IIA Non-Small Cell Lung Carcinoma",
+    "Stage IIB Non-Small Cell Lung Carcinoma",
+    "Stage IIIA Non-Small Cell Lung Cancer",
+    "Stage IIIB Non-Small Cell Lung Cancer",
+    "Stage IV Non-Small Cell Lung Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

@@ -1,0 +1,24 @@
+{
+  "nctid": "NCT02570958",
+  "title": "ENB Robotic ICG Guided Surgery: A Novel Technique for Targeting Small Lung Tumors",
+  "brief_summary": "Lung cancer is the leading cause of cancer deaths worldwide. However, if diagnosed at an early stage (tumor \\<2 cm), lung cancer is highly curable with a 5-year survival rate greater than 80% after surgical resection. Screening tests have made it easier to identify small lung tumors. However, these tumors are often not visible to the naked eye, and surgeons cannot feel them, making them difficult to precisely locate and remove. For this reason, surgeons have become more reliant on image guided surgery for the removal of these tumors.\n\nThe standard of care for locating and removing small lung tumors is microcoil-guided video-assisted thoracoscopic surgery (VATS). This is a two-step procedure performed by two separate physicians.\n\n* First, patient is taken to radiology suite and radiologist inserts a microcoil near the lung tumor\n* Second (usually occurs a few hours later), patient is taken to operating room; a surgeon uses an x-ray arm to find the microcoil within the lung and remove it surgically.\n\nA pathologist reviews the resected tissue to make sure that the tumor and the microcoil were both removed. Until this evaluation, the surgeon does not know whether the tumor has been removed or not. While this method is safe, it is time consuming, uses staff resources, and requires bulky equipment to complete.\n\nIn this study, we plan to develop and test a new method of identifying and removing small lung tumors. This procedure is called Electromagnetic Navigational Bronchoscopy (ENB) Robotic Indocyanine Green Guided Surgery (RIGGS) or ENB-RIGGS for a short name. The purpose of this study is to test the safety and reliability of the ENB-RIGGS surgery in the form of a pilot study.\n\nENB-RIGGS surgery is done in the operating room by a surgeon under general anesthetic. ENB-RIGGS begins by creating a 3-D GPS map of the lung which guides the surgeon directly to the tumor. A fluorescent green dye called indocyanine green is then injected into the tumor, and when viewed by the special robotic camera the tumour will fluoresce with a green hue allowing the surgeon to easily see the tumour. The surgeon then uses the robot to remove the tumor and surrounding tissue. The lung tissue specimen will be evaluated immediately by a pathologist.",
+  "study_type": "INTERVENTIONAL",
+  "phases": [
+    "PHASE1"
+  ],
+  "primary_purpose": "TREATMENT",
+  "raw_criteria": "Inclusion Criteria:\n\n1. Age \\> 18 years\n2. Peripheral lung tumour that is \\<2 cm in size on a CT scan\n3. Fit to undergo thoracic surgery as assessed by the surgeon.\n\nExclusion Criteria:\n\n1. Hypersensitivity or allergy to ICG, sodium iodide or iodine\n2. Women who are currently pregnant or are breast feeding; or women of child bearing potential who are not currently taking adequate birth control.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "",
+  "condition": [
+    "Non-small Cell Lung Cancer",
+    "Thoracic Surgery"
+  ],
+  "overall_status": "WITHDRAWN"
+}

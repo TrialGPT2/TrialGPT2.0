@@ -1,0 +1,23 @@
+{
+  "nctid": "NCT03471494",
+  "title": "GlobalSurg 3: Quality and Outcomes in Global Cancer Surgery",
+  "brief_summary": "Aim The aim is to determine the variation in quality of cancer surgery worldwide. Quality will be determined using measures covering infrastructure, care processes, and outcomes. The study will concentrate on the most common surgically treated cancers worldwide: breast, gastric and colorectal cancer. The primary aim focusses on 30-day mortality and complication rates after cancer surgery. The secondary aim is to characterise infrastructure and care processes in the treatment of these cancers worldwide.\n\nPrimary outcome measure 30-day mortality and complication rates after cancer surgery.\n\nPrimary comparison Between country groups defined by human development index.\n\nHospital eligibility Any hospital in the world performing surgery for breast, gastric or colorectal cancer.\n\nPatient eligibility Consecutive patients undergoing surgery for breast, gastric, or colorectal cancer. Surgery can be with palliative or curative intent.\n\nTeam Individual hospital teams with up to three people, collecting data for four weeks. Several teams collecting data over multiple four-week periods is encouraged.\n\nTime period Patients will be identified, and data collected on all patients during the time-period with follow-up to 30-days. The study will run from 1st April 2018 to 31st October 2018 (with follow-up of the last period to 30th November 2018).\n\nValidation Data validation will be in two parts. First, centres will self-report the key processes used to identify and follow-up patients. Second, independent validators will quantitatively report case ascertainment and sampled data accuracy.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* All consecutive patients undergoing therapeutic surgery (curative or palliative) for breast, gastric, and colorectal cancer should be included.\n* Surgery is defined as a procedure requiring a skin incision performed under general or neuraxial (e.g. regional, epidural or spinal) anaesthesia.\n* Both elective and emergency procedures should be included. Include patients in whom the pre-operative diagnosis was thought to be benign, but was subsequently found to be cancer, e.g. bowel obstruction found to be due to cancer during surgery.\n* Include patients in whom the pre-operative diagnosis was thought to be cancer, but was subsequently found to be benign disease (ensure the \"pathology\" variable indicates not cancer; will not be included in primary analysis).\n* Laparoscopic, laparoscopic-converted, robotic, and open cases should be included.\n* Patients aged 18 years and over should be included .\n* Surgery may be with curative or palliative intent. Include patients in whom curative surgery was attempted but abandoned, e.g. open/close laparotomy.\n\nExclusion Criteria:\n\n* Operations where breast, gastric, or colorectal cancer is not suspected to be the primary pathology should be excluded.\n* Patients undergoing a procedure purely for diagnosis or staging should be excluded, e.g. open breast biopsy, staging laparoscopy.\n* Patients undergoing a procedure which does not require a skin incision should be excluded, e.g. colonoscopy/endoscopy alone, chemo/radiotherapy alone.\n* Patients presenting with recurrence of breast, colorectal or gastric cancer should be excluded.",
+  "minimum_age": "18 Years",
+  "maximum_age": "",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients undergoing elective or emergency surgery for breast, gastric, or colorectal cancer anywhere in the world are eligible.",
+  "condition": [
+    "Breast Neoplasms",
+    "Gastric Cancer",
+    "Colon Cancer"
+  ],
+  "overall_status": "COMPLETED"
+}

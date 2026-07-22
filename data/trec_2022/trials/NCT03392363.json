@@ -1,0 +1,27 @@
+{
+  "nctid": "NCT03392363",
+  "title": "Diagnosing Respiratory Disease in Children Using Cough Sounds 2",
+  "brief_summary": "The purpose of this prospective study is to evaluate the efficacy of the ResAppDx software application in the diagnosis of childhood acute respiratory disease, including pneumonia, bronchiolitis, asthma/reactive airways disease, croup, lower respiratory tract disease (LRTD), viral lower respiratory tract infection (vLRTI), and upper respiratory tract disease (URTD).",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "Inclusion Criteria:\n\n* Infant or child aged greater than 29 days up to and including their 12th birthday (infant and children pediatric subgroups as defined in Guidance for Industry and Food and Drug Administration Staff: Premarket Assessment of Pediatric Medical Devices dated March 24, 2014)\n* Presenting to the study site (an outpatient facility, an urgent care center, an Emergency Department, or inpatient ward within 24 hours of admission) with current signs or symptoms of respiratory disease including cough, wheezing, stridor, chest in-drawing/retractions, difficulty breathing, fast breathing, nasal congestion/rhinorrhea, abnormal lung sounds on exam or cyanosis/hypoxemia.\n* Onset of symptoms within past 14 days\n* Outpatient or inpatient within 24 hours of admission\n* Coughing spontaneously or able to cough voluntarily\n\nExclusion Criteria:\n\n* Lack of a signed consent form from parent or legal guardian\n* Lack of signed assent form for children aged 7 years or older who, in the opinion of the investigator, is able to provide assent based on their age, maturity or psychological state.\n* Need for mechanical ventilatory support ((including invasive, CPAP, or BiPAP)) or high flow nasal cannula\n* History of structural airways abnormalities, tracheobronchomalacia, or vocal cord abnormalities (e.g. laryngomalacia, tracheomalacia, or bronchomalacia)\n* Any medical contraindication to voluntary cough, including the following (only enroll if coughing spontaneously): severe respiratory distress, history of pneumothorax, eye/chest/abdominal surgery in past 3 months, hemoptysis in the past month\n* Too medically unstable to participate in study per treating clinician\n* Subject previously enrolled in SMARTCOUGH-C-2 study\n* Tracheostomy present or tube placed",
+  "minimum_age": "29 Days",
+  "maximum_age": "12 Years",
+  "stdAges": [
+    "CHILD"
+  ],
+  "sex": "ALL",
+  "study_population": "Patients with signs or symptoms of respiratory disease presenting to participating Emergency Departments, Urgent Care Clinics, Outpatient Clinics or an Inpatient Ward within 24 hours of admission.",
+  "condition": [
+    "Pneumonia",
+    "Bronchiolitis",
+    "Asthma Exacerbation",
+    "Croup",
+    "Reactive Airway Disease",
+    "Upper Respiratory Disease",
+    "Viral Lower Respiratory Tract Infections",
+    "Lower Respiratory Disease"
+  ],
+  "overall_status": "COMPLETED"
+}

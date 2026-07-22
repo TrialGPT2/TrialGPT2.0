@@ -1,0 +1,34 @@
+{
+  "nctid": "NCT00341237",
+  "title": "Personalized Environment and Genes Study",
+  "brief_summary": "Despite the overwhelming focus on genetic and genomic causes of human disease over the past two decades, it has been estimated that genetics is currently known to explain only 20% and 40% of the etiology of common disease. Thus, it is becoming increasingly apparent that human disease is a consequence of both genetic susceptibility and environmental exposures. Importantly, while individuals cannot change their genetic composition, we do have the ability both personally and as a society, to influence our environment, promoting health and decreasing the risk of disease. The Personalized Environment and Genes Study (PEGS) aims to determine how the environment and gene-environment interactions can inform our understanding of human health and disease. As science has evolved, so too has the science of this project. This evolution was reflected in a change in the title of this project from the Environmental Polymorphisms Registry (EPR) to the Personalized Environment and Genes Study (PEGS) to more accurately reflect the science that can be conducted. PEGS is a unique resource because of the depth of environmental phenotyping which includes extensive information from exposome surveys, as well as whole genome sequencing on a significant number of participants in the cohort. While it is small relative to genomic cohorts, none of these have the extensive environmental data that is present in PEGS. In addition, other cohorts with deep environmental data lack the depth of genomic data that is present in PEGS. Importantly, PEGS has already provided important analytic advances that are of great interest to and can be confirmed in larger cohorts such as All of Us.\n\nThe Personalized Environment and Genes Study (PEGS) aims to provide a resource for environmental health translational research by examining gene-environment interactions in health and disease. PEGS is an extension of two previous efforts where it began as a pilot study, the Environmental Polymorphisms Study (EPS; IRB# 02E9004) and was approved subsequently as a full protocol titled the Environmental Polymorphisms Registry (EPR) (IRB #04-E-N0053 and transitioned to its current ID# 04-E-0053). The EPR was envisioned as a phenotype-by-genotype registry of participants who had donated DNA samples, and who had agreed to be contacted for follow-up clinical translational studies based on their DNA genotypes. At the time, the only information available was a participant s age, sex, race, and ethnicity. Further phenotyping of a participant and/or any biospecimens obtained were investigated during a follow-up translational clinical study on participants recruited based on their genotype (hence phenotype-by-genotype) and the PEGS was the first recruit-by- genotype study at the NIH. Following a period focused on recruiting approximately 15,000 participants to enable genotyping of rare (approximately 1% minor allele frequency) single nucleotide polymorphisms (SNPs), the PEGS Consortium Project was undertaken in 2010- 2011 to examine, using the DNA of nearly 4,000 participants, approximately 700 SNPs in approximately 80 environmental response genes that work in concert with environmental exposures to elicit a phenotype. Several clinical follow-up studies, genotype-phenotype association studies, and publications have resulted from the PEGS Consortium Project.\n\nTo expand phenotype information available to researchers, the Health and Exposure Questionnaire was administered between 2013-2014. In 2017, a more detailed Exposome Questionnaire which includes questions relating to the external and internal exposome was administered. This was an important resource through which to integrate exposures with genotype-phenotype association studies.\n\nWhole genome sequencing has now been performed on approximately 4700 participants who were reconsented for this purpose, as indicated above. Questionnaire data was fully adjudicated and combined in a robust and searchable database. With the increased power of the data available, the project was renamed as the Personalized Environment and Genes Study (PEGS) and rolled out in Sept. 2021.",
+  "study_type": "OBSERVATIONAL",
+  "phases": [],
+  "primary_purpose": "",
+  "raw_criteria": "* INCLUSION CRITERIA\n\nIn order to be eligible for participation in this study, an individual must meet all of the following criteria:\n\n* Adults greater than or equal to 18 years of age\n* If female, must not be (self-reported as) pregnant. At the time of enrollment, a pregnancy test will only be done at the PI s discretion.\n* Able to understand and provide written informed consent\n* Able to come to the NIEHS Clinical Research Unit (CRU) for enrollment and study-related visits/procedures.\n\nEXCLUSION CRITERIA\n\nAn individual who does not meet the inclusion criteria listed above is excluded from participation in this study.",
+  "minimum_age": "18 Years",
+  "maximum_age": "120 Years",
+  "stdAges": [
+    "ADULT",
+    "OLDER_ADULT"
+  ],
+  "sex": "ALL",
+  "study_population": "Convenience sample from the general population.",
+  "condition": [
+    "Diabetes",
+    "Heart Disease",
+    "Asthma"
+  ],
+  "overall_status": "RECRUITING",
+  "line_of_therapy_overall_summary": "This is an observational cohort study enrolling adults from the general population to study gene-environment interactions in health and disease. There are no requirements or restrictions regarding prior lines of systemic therapy for advanced disease.",
+  "cohort_line_of_therapy": [
+    {
+      "cohort_label": "Overall",
+      "min_lines_for_advanced_disease": null,
+      "max_lines_for_advanced_disease": null,
+      "includes_adjuvant_only_patients": null,
+      "category": "unknown",
+      "line_of_therapy_text": "The eligibility criteria do not mention cancer diagnosis or prior systemic therapy. There are no requirements or exclusions based on prior lines of therapy for advanced disease."
+    }
+  ]
+}
