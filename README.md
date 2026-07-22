@@ -1,4 +1,4 @@
-<h1 align="center">🧬 TrialGPT 2.0</h1>
+<h1 align="center">TrialGPT 2.0</h1>
 
 <p align="center">
   LLM-based patient-trial matching, ranking, and benchmark evaluation.
