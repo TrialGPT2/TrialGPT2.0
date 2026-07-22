@@ -42,8 +42,6 @@ This repository contains:
 - Prepared benchmark files for NIH TrialBench, SIGIR, TREC 2021, and TREC 2022.
 - Evaluation scripts for qrels-based ranking metrics and NIH target-trial recovery.
 
-Generated model outputs are written under `outputs/` and are intentionally not
-included in the repository.
 
 <h2 id="2">⚙️ Installation</h2>
 
@@ -234,21 +232,6 @@ reports only:
 - GradedPrecision@10
 - GradednDCG@10
 
-Example for TREC 2022:
-
-```bash
-python scripts/eval_trialgpt_rankings_qrels.py \
-  --queries-jsonl data/trec_2022/queries.jsonl \
-  --qrels data/trec_2022/qrels/test.tsv \
-  --trial-dir data/trec_2022/trials \
-  --results-dir outputs/trec_2022_trial_matcher_full_gpt54 \
-  --k 10 \
-  --max-rel 2 \
-  --mrr-relevance-threshold 2 \
-  --subtrial-agg first \
-  --pad-to-pool
-```
-
 Use the matching benchmark paths for SIGIR or TREC 2021:
 
 ```bash
@@ -264,10 +247,6 @@ python scripts/eval_trialgpt_rankings_qrels.py \
   --pad-to-pool
 ```
 
-`--subtrial-agg first` keeps the first occurrence of each base NCT ID in the
-ranked TrialGPT output. `--pad-to-pool` appends unranked qrels-pool trials to
-the end of the ranking before computing GradedAP, so the metric is measured
-over the intended candidate pool.
 
 <h3 id="5-5">🎯 Step 5: Evaluate NIH TrialBench target recovery</h3>
 
@@ -296,24 +275,7 @@ target_recovery_per_case.csv
 target_recovery_summary_by_group.csv
 ```
 
-For TrialGPT 1.0 ranked outputs split by study type, use:
-
-```bash
-python scripts/eval_nih_trialbench_target_recovery.py \
-  --cases-path data/nih_trialbench/benchmark_cases.jsonl \
-  --interventional-results-dir /path/to/interventional/ranked_full_email \
-  --observational-results-dir /path/to/observational/ranked_full_email \
-  --score-field trialgpt1_fit_score \
-  --out-dir outputs/nih_trialbench_trialgpt1_target_recovery
-```
-
-In this mode, the category score is mapped to a 0-100 scale as:
-
-```text
-(relevance_score_R + eligibility_score_E) / 2
-```
-
-An optional target-trial Recall@10 evaluator is also provided:
+The target-trial Recall@10 evaluator is also provided:
 
 ```bash
 python scripts/eval_nih_trialbench_target_recall_at10.py \
