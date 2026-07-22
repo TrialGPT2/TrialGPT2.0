@@ -1,12 +1,16 @@
 <h1 align="center">TrialGPT 2.0</h1>
 
 <p align="center">
-  LLM-based patient-trial matching, ranking, and benchmark evaluation.
+  an AI-assisted patient-to-trial matching system
 </p>
 
 <p align="center">
   <a href="https://github.com/NLM-DIR/TrialGPT2"><img src="https://img.shields.io/badge/GitHub-Code-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.ncbi.nlm.nih.gov/research/trialgpt"><img src="https://img.shields.io/badge/Interface-TrialGPT%202.0-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interface"></a>
+  <a href="https://huggingface.co/datasets/ncbi/TrialGPT2-NIH-Syn"><img src="https://img.shields.io/badge/HuggingFace-Dataset-FFBF00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace Dataset"></a>
 </p>
+
+
 
 ## 📑 Contents
 
@@ -27,10 +31,9 @@
 
 <h2 id="1">📖 Overview</h2>
 
-TrialGPT 2.0 scores patient-trial pairs with an LLM and produces a ranked list
-of candidate clinical trials for each patient vignette. The same matching code
-is used for GPT-5.4, GPT-5.2, and GPT-4.1; the selected model or Azure
-deployment is passed as a runtime hyperparameter.
+TrialGPT 2.0 extends the [original TrialGPT framework](https://github.com/ncbi-nlp/TrialGPT) from eligibility-focused matching to clinical trial recommendation for real-world review workflows.
+TrialGPT 2.0 is publicly available at [TrialGPT 2.0 Interface](https://www.ncbi.nlm.nih.gov/research/trialgpt).
+
 
 This repository contains:
 
@@ -47,8 +50,6 @@ included in the repository.
 Use Python 3.10 or newer.
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
