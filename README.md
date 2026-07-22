@@ -1,4 +1,4 @@
-<h1 align="center">TrialGPT 2.0</h1>
+<h1 align="center">🧬 TrialGPT 2.0</h1>
 
 <p align="center">
   LLM-based patient-trial matching, ranking, and benchmark evaluation.
@@ -8,24 +8,24 @@
   <a href="https://github.com/NLM-DIR/TrialGPT2"><img src="https://img.shields.io/badge/GitHub-Code-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-## Contents
+## 📑 Contents
 
-- [Overview](#1)
-- [Installation](#2)
-- [Data](#3)
-- [Quick Start](#4)
-- [Full Matching and Evaluation Workflow](#5)
-  - [Step 1: Configure the LLM backend](#5-1)
-  - [Step 2: Run TrialGPT 2.0 matching](#5-2)
-  - [Step 3: Inspect ranked outputs and pair logs](#5-3)
-  - [Step 4: Evaluate SIGIR/TREC rankings](#5-4)
-  - [Step 5: Evaluate NIH TrialBench target recovery](#5-5)
-- [Rebuild NIH TrialBench Files](#6)
-- [Repository Layout](#7)
-- [Project Info](#8)
-  - [Manuscript](#8-1)
+- [📖 Overview](#1)
+- [⚙️ Installation](#2)
+- [📦 Data](#3)
+- [⚡ Quick Start](#4)
+- [🚀 Full Matching and Evaluation Workflow](#5)
+  - [🔐 Step 1: Configure the LLM backend](#5-1)
+  - [🧠 Step 2: Run TrialGPT 2.0 matching](#5-2)
+  - [📄 Step 3: Inspect ranked outputs and pair logs](#5-3)
+  - [📊 Step 4: Evaluate SIGIR/TREC rankings](#5-4)
+  - [🎯 Step 5: Evaluate NIH TrialBench target recovery](#5-5)
+- [🧱 Rebuild NIH TrialBench Files](#6)
+- [📁 Repository Layout](#7)
+- [🗺️ Project Info](#8)
+  - [📜 Manuscript](#8-1)
 
-<h2 id="1">Overview</h2>
+<h2 id="1">📖 Overview</h2>
 
 TrialGPT 2.0 scores patient-trial pairs with an LLM and produces a ranked list
 of candidate clinical trials for each patient vignette. The same matching code
@@ -42,7 +42,7 @@ This repository contains:
 Generated model outputs are written under `outputs/` and are intentionally not
 included in the repository.
 
-<h2 id="2">Installation</h2>
+<h2 id="2">⚙️ Installation</h2>
 
 Use Python 3.10 or newer.
 
@@ -59,7 +59,7 @@ openai>=1.0.0
 tqdm>=4.0.0
 ```
 
-<h2 id="3">Data</h2>
+<h2 id="3">📦 Data</h2>
 
 The repository includes four packaged benchmark directories under `data/`:
 
@@ -95,7 +95,7 @@ search spaces are stored in `data/nih_trialbench/case_search_space.jsonl`.
 Note: SIGIR has 59 matcher cases, but 58 qrels-evaluable patients. The case
 `sigir-201428` has no judged candidate trials and produces an empty ranking.
 
-<h2 id="4">Quick Start</h2>
+<h2 id="4">⚡ Quick Start</h2>
 
 Set your LLM credentials, then run matching on one packaged benchmark.
 
@@ -127,9 +127,9 @@ outputs/sigir_trial_matcher_full_gpt41/
   pair_logs/
 ```
 
-<h2 id="5">Full Matching and Evaluation Workflow</h2>
+<h2 id="5">🚀 Full Matching and Evaluation Workflow</h2>
 
-<h3 id="5-1">Step 1: Configure the LLM backend</h3>
+<h3 id="5-1">🔐 Step 1: Configure the LLM backend</h3>
 
 For Azure OpenAI, set:
 
@@ -162,7 +162,7 @@ export LLM_MAX_RETRIES="3"
 export LLM_MAX_TOKENS="0"
 ```
 
-<h3 id="5-2">Step 2: Run TrialGPT 2.0 matching</h3>
+<h3 id="5-2">🧠 Step 2: Run TrialGPT 2.0 matching</h3>
 
 Run the matcher directly:
 
@@ -207,7 +207,7 @@ CASES_PATH=data/trec_2022/benchmark_cases.jsonl
 CASES_PATH=data/nih_trialbench/benchmark_cases.jsonl
 ```
 
-<h3 id="5-3">Step 3: Inspect ranked outputs and pair logs</h3>
+<h3 id="5-3">📄 Step 3: Inspect ranked outputs and pair logs</h3>
 
 Each patient output is named:
 
@@ -223,7 +223,7 @@ The `pair_logs/` directory stores one JSONL log per patient with per-pair timing
 token usage, estimated cost, parse status, and error information. These logs are
 useful for audit and debugging but are not required for metric computation.
 
-<h3 id="5-4">Step 4: Evaluate SIGIR/TREC rankings</h3>
+<h3 id="5-4">📊 Step 4: Evaluate SIGIR/TREC rankings</h3>
 
 SIGIR, TREC 2021, and TREC 2022 use qrels-based ranking metrics. The evaluator
 reports only:
@@ -268,7 +268,7 @@ ranked TrialGPT output. `--pad-to-pool` appends unranked qrels-pool trials to
 the end of the ranking before computing GradedAP, so the metric is measured
 over the intended candidate pool.
 
-<h3 id="5-5">Step 5: Evaluate NIH TrialBench target recovery</h3>
+<h3 id="5-5">🎯 Step 5: Evaluate NIH TrialBench target recovery</h3>
 
 NIH TrialBench is evaluated by target-trial recovery. Each vignette has one
 `target_trial_id`, and the evaluator checks what category TrialGPT assigned to
@@ -322,7 +322,7 @@ python scripts/eval_nih_trialbench_target_recall_at10.py \
   --out-dir outputs/nih_trialbench_trial_matcher_full_gpt54_target_recall_at10
 ```
 
-<h2 id="6">Rebuild NIH TrialBench Files</h2>
+<h2 id="6">🧱 Rebuild NIH TrialBench Files</h2>
 
 The packaged NIH TrialBench files were built from the NIH-Syn Hugging Face
 export and NIH updated trial JSON files. To rebuild them from local sources:
@@ -338,7 +338,7 @@ python scripts/build_nih_trialbench.py \
 The builder preserves the source trial JSON fields and field order from
 `NIH_update_trials`.
 
-<h2 id="7">Repository Layout</h2>
+<h2 id="7">📁 Repository Layout</h2>
 
 ```text
 TrialGPT_2.0/
@@ -379,6 +379,6 @@ Core files:
 - `scripts/eval_nih_trialbench_target_recovery.py`: NIH target-trial category recovery.
 - `scripts/eval_nih_trialbench_target_recall_at10.py`: optional NIH target-trial Recall@10.
 
-<h2 id="8">Project Info</h2>
+<h2 id="8">🗺️ Project Info</h2>
 
-<h3 id="8-1">Manuscript</h3>
+<h3 id="8-1">📜 Manuscript</h3>
