@@ -17,9 +17,8 @@ Note: SIGIR has 59 query/case rows, but only 58 qrels-evaluable patients.
 `sigir-201428` has no judged candidate trials and its matching output contains an
 empty ranking.
 
-NIH TrialBench was built from the NIH-Syn Hugging Face export. Trial objects are
-copied from NIH update trial JSON files with source fields and field order
-preserved. For NHGRI patients, the matching search space includes all study
+NIH TrialBench was built from the [NIH-Syn Hugging Face](https://huggingface.co/datasets/ncbi/TrialGPT2-NIH-Syn) export. 
+For NHGRI patients, the matching search space includes all study
 types. For all other patients, the search space includes trials with the same
 study type as the patient's target/reference trial. The compact search-space
 mapping is `nih_trialbench/case_search_space.jsonl`, with one row per vignette
