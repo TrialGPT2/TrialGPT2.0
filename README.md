@@ -1,7 +1,7 @@
 <h1 align="center">TrialGPT 2.0</h1>
 
 <p align="center">
-  an AI-assisted patient-to-trial matching system
+  Towards AI-assisted clinical trial matching
 </p>
 
 <p align="center">
