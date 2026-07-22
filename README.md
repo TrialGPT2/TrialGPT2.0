@@ -86,9 +86,7 @@ identifier, a `patient_summary`, and the list of `candidate_trial_ids` defining
 that patient's search space. The matcher loads full trial records from the
 same benchmark directory's `trials/` folder by default.
 
-For NIH TrialBench, each vignette has one target/reference trial. NHGRI
-patients use all study types as the matching search space; all other patients
-use trials with the same study type as the target trial. The per-vignette
+For NIH TrialBench, each vignette has one target/reference trial. The per-vignette
 search spaces are stored in `data/nih_trialbench/case_search_space.jsonl`.
 
 Note: SIGIR has 59 matcher cases, but 58 qrels-evaluable patients. The case
