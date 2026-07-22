@@ -31,8 +31,8 @@
 
 <h2 id="1">📖 Overview</h2>
 
-TrialGPT 2.0 extends the [original TrialGPT framework](https://github.com/ncbi-nlp/TrialGPT) from eligibility-focused matching to clinical trial recommendation for real-world review workflows.
-TrialGPT 2.0 is publicly available at [TrialGPT 2.0 Interface](https://www.ncbi.nlm.nih.gov/research/trialgpt).
+TrialGPT 2.0 extends the [original TrialGPT framework](https://github.com/ncbi-nlp/TrialGPT) beyond eligibility-focused matching to support clinical trial recommendation in real-world review workflows.
+A publicly available web interface is available at the [TrialGPT 2.0 Interface](https://www.ncbi.nlm.nih.gov/research/trialgpt).
 
 
 This repository contains:
