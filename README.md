@@ -27,7 +27,9 @@
 - [🧱 Rebuild NIH TrialBench Files](#6)
 - [📁 Repository Layout](#7)
 - [🗺️ Project Info](#8)
-  - [📜 Manuscript](#8-1)
+  - [📜 Disclaimer](#8-1)
+  - [📚 References](#8-2)
+  - [🫱🏻‍🫲 Acknowledgements](#8-3)
 
 <h2 id="1">📖 Overview</h2>
 
