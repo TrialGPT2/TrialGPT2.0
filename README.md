@@ -291,13 +291,11 @@ export and NIH updated trial JSON files. To rebuild them from local sources:
 ```bash
 python scripts/build_nih_trialbench.py \
   --source-dir /path/to/huggingface \
-  --trial-dir /path/to/NIH_update_trials \
+  --trial-dir data/nih_trialbench/trials \
   --output-root data \
   --benchmark-name nih_trialbench
 ```
 
-The builder preserves the source trial JSON fields and field order from
-`NIH_update_trials`.
 
 <h2 id="7">📁 Repository Layout</h2>
 
