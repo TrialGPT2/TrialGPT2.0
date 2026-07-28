@@ -1,7 +1,10 @@
 <h1 align="center">TrialGPT 2.0</h1>
 
 <p align="center">
-  Towards AI-Assisted Clinical Trial Matching: Practical Considerations, Multicenter Evaluation, and Real-World Deployment
+  <strong>
+    Towards AI-Assisted Clinical Trial Matching:<br>
+    Practical Considerations, Multicenter Evaluation, and Real-World Deployment
+  </strong>
 </p>
 
 <p align="center">
