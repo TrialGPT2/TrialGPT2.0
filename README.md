@@ -354,7 +354,7 @@ This tool shows the results of research conducted in the Computational Biology B
 If you use our repository, please cite the following related paper:
 
 ```
-
+Towards AI-Assisted Clinical Trial Matching: Practical Considerations, Multicenter Evaluation, and Real-World Deployment
 ```
 
 <h3 id="8-3"> 🫱🏻‍🫲 Acknowledgements</h3>
