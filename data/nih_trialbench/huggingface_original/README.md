@@ -1,22 +1,6 @@
----
-license: cc-by-4.0
-language:
-- en
-tags:
-- synthetic
-- clinical-trials
-- patient-trial-matching
-- clinician-annotations
-- benchmark
-pretty_name: NIH-TrialBench
-size_categories:
-- 1K<n<10K
----
+
 
 # TrialGPT 2.0 NIH-TrialBench
-
-> [!NOTE]
-> Please refer to the [TrialGPT 2.0 code repository](https://github.com/TrialGPT2/TrialGPT2.0) for matching, ranking, and evaluation scripts.
 
 ## 📖 Overview
 
@@ -93,12 +77,6 @@ candidate search spaces from these trials and the target trial study type.
 
 </details>
 
-## 🧪 Use with TrialGPT 2.0
-
-The [TrialGPT 2.0 repository](https://github.com/TrialGPT2/TrialGPT2.0) includes a
-run-ready NIH TrialBench package under `data/nih_trialbench`. That packaged
-version contains compact matcher inputs, per-vignette search-space IDs, and
-full trial JSON files used by the matching code.
 
 
 ## 📜 Disclaimer
