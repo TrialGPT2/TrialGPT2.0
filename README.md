@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.ncbi.nlm.nih.gov/research/trialgpt/matching"><img src="https://img.shields.io/badge/Interface-TrialGPT%202.0-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interface"></a>
+  <a href="https://www.ncbi.nlm.nih.gov/research/trialgpt/trial_matching/"><img src="https://img.shields.io/badge/Interface-TrialGPT%202.0-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interface"></a>
 </p>
 
 
