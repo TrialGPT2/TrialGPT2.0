@@ -83,8 +83,6 @@ candidate search spaces from these trials and the target trial study type.
 
 This tool shows the results of research conducted in the Computational Biology Branch, DIR/NLM. The information produced on this website is not intended for direct diagnostic use or medical decision-making without review and oversight by a clinical professional. Individuals should not change their health behavior solely on the basis of information produced on this website. NIH does not independently verify the validity or utility of the information produced by this tool. If you have questions about the information produced on this website, please see a health care professional. More information about NLM's disclaimer policy is available.
 
-```
-
 ## 🫱🏻‍🫲 Acknowledgements
 
 We appreciate [TrialGPT](https://github.com/ncbi-nlp/TrialGPT) for their open-source contributions.
