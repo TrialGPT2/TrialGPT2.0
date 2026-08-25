@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NLM-DIR/TrialGPT2"><img src="https://img.shields.io/badge/GitHub-Code-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.ncbi.nlm.nih.gov/research/trialgpt"><img src="https://img.shields.io/badge/Interface-TrialGPT%202.0-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interface"></a>
-  <a href="https://huggingface.co/datasets/ncbi/NIH-TrialBench"><img src="https://img.shields.io/badge/HuggingFace-Dataset-FFBF00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace Dataset"></a>
+  <a href="https://www.ncbi.nlm.nih.gov/research/trialgpt/matching"><img src="https://img.shields.io/badge/Interface-TrialGPT%202.0-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interface"></a>
 </p>
 
 
