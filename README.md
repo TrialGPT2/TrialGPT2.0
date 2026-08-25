@@ -287,8 +287,7 @@ python scripts/eval_nih_trialbench_target_recall_at10.py \
 
 <h2 id="6">🧱 Rebuild NIH TrialBench Files</h2>
 
-The packaged NIH TrialBench files were built from the [NIH-TrialBench](https://huggingface.co/datasets/ncbi/NIH-TrialBench) Hugging Face
-export and NIH updated trial JSON files. To rebuild them from local sources:
+The packaged NIH TrialBench files were built from the [NIH-TrialBench](https://github.com/TrialGPT2/TrialGPT2.0/tree/main/data/nih_trialbench) raw data and NIH updated trial JSON files. To rebuild them from local sources:
 
 ```bash
 python scripts/build_nih_trialbench.py \
