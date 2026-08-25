@@ -16,7 +16,7 @@ size_categories:
 # TrialGPT 2.0 NIH-TrialBench
 
 > [!NOTE]
-> Please refer to the [TrialGPT 2.0 code repository](https://github.com/NLM-DIR/TrialGPT2) for matching, ranking, and evaluation scripts.
+> Please refer to the [TrialGPT 2.0 code repository](https://github.com/TrialGPT2/TrialGPT2.0) for matching, ranking, and evaluation scripts.
 
 ## 📖 Overview
 
@@ -154,7 +154,7 @@ candidate search spaces from these trials and the target trial study type.
 
 ## 🧪 Use with TrialGPT 2.0
 
-The [TrialGPT 2.0 repository](https://github.com/NLM-DIR/TrialGPT2) includes a
+The [TrialGPT 2.0 repository](https://github.com/TrialGPT2/TrialGPT2.0) includes a
 run-ready NIH TrialBench package under `data/nih_trialbench`. That packaged
 version contains compact matcher inputs, per-vignette search-space IDs, and
 full trial JSON files used by the matching code.
@@ -163,12 +163,6 @@ full trial JSON files used by the matching code.
 ## 📜 Disclaimer
 
 This tool shows the results of research conducted in the Computational Biology Branch, DIR/NLM. The information produced on this website is not intended for direct diagnostic use or medical decision-making without review and oversight by a clinical professional. Individuals should not change their health behavior solely on the basis of information produced on this website. NIH does not independently verify the validity or utility of the information produced by this tool. If you have questions about the information produced on this website, please see a health care professional. More information about NLM's disclaimer policy is available.
-
-## 📚 References
-
-If you use our repository, please cite the following related paper:
-
-```
 
 ```
 
