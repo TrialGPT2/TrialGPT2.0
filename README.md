@@ -350,12 +350,12 @@ Core files:
 This tool shows the results of research conducted in the Computational Biology Branch, DIR/NLM. The information produced on this website is not intended for direct diagnostic use or medical decision-making without review and oversight by a clinical professional. Individuals should not change their health behavior solely on the basis of information produced on this website. NIH does not independently verify the validity or utility of the information produced by this tool. If you have questions about the information produced on this website, please see a health care professional. More information about NLM's disclaimer policy is available.
 
 
-<h3 id="8-2"> 📚 References</h3>
+<!-- <h3 id="8-2"> 📚 References</h3>
 If you use our repository, please cite the following related paper:
 
 ```
 Towards AI-Assisted Clinical Trial Matching: Practical Considerations, Multicenter Evaluation, and Real-World Deployment
-```
+``` -->
 
 <h3 id="8-3"> 🫱🏻‍🫲 Acknowledgements</h3>
 
