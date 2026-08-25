@@ -291,7 +291,7 @@ The packaged NIH TrialBench files were built from the [NIH-TrialBench](https://g
 
 ```bash
 python scripts/build_nih_trialbench.py \
-  --source-dir /path/to/huggingface \
+  --source-dir data/nih_trialbench/raw \
   --trial-dir data/nih_trialbench/trials \
   --output-root data \
   --benchmark-name nih_trialbench
