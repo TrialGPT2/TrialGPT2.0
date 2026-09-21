@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>
-    Towards AI-Assisted Clinical Trial Matching:<br>
+    Towards Responsible AI-Assisted Clinical Trial Matching:<br>
     Practical Considerations, Multicenter Evaluation, and Real-World Deployment
   </strong>
 </p>
